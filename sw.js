@@ -1,4 +1,4 @@
-const CACHE='vedator-test-rich-v3';
+const CACHE='vedator-test-rich-v4';
 const ASSETS=['./','index.html','styles.css','core.js','views.js','player.js','playlists.js','app.js','manifest.webmanifest','icon.svg','locales/cs.json','locales/sk.json','content/episodes.cs.json','content/episodes.sk.json','content/questions.cs.json','content/questions.sk.json'];
 self.addEventListener('install',event=>{self.skipWaiting();event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)))});
 self.addEventListener('activate',event=>event.waitUntil((async()=>{await Promise.all((await caches.keys()).filter(key=>key!==CACHE).map(key=>caches.delete(key)));await self.clients.claim()})()));
