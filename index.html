@@ -1,36 +1,49 @@
 <!doctype html>
 <html lang="sk">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#111827">
-<title>Vedátorský podcast – podľa tém</title><link rel="manifest" href="manifest.webmanifest">
-<style>
-html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#111827;font-family:system-ui,-apple-system,Segoe UI,sans-serif}.bar{position:fixed;z-index:2147483647;top:10px;right:12px;display:flex;gap:4px;padding:4px;background:rgba(17,24,39,.94);border:1px solid rgba(255,255,255,.25);border-radius:12px;box-shadow:0 4px 18px #0005}.bar button{border:0;border-radius:8px;padding:7px 10px;background:transparent;color:#fff;font-weight:800;cursor:pointer}.bar button.active{background:#fff;color:#241b58}iframe{display:block;width:100%;height:100%;border:0;background:#f4f6fb}.error{display:none;color:white;padding:80px 24px;text-align:center}.error a{color:#a99df6}
-</style></head><body>
-<div class="bar" aria-label="Jazyk"><button data-lang="sk">SK</button><button data-lang="cs">CZ</button></div>
-<iframe id="app" src="../vedator/" title="Vedátorský podcast"></iframe><div id="error" class="error">Aplikáciu sa nepodarilo načítať. <a href="../vedator/">Otvoriť pôvodnú verziu</a></div>
-<script>
-(()=>{
-const KEY='vedator-language-v4',frame=document.getElementById('app');let lang=localStorage.getItem(KEY)==='cs'?'cs':'sk',observer=null,queued=false;const original=new WeakMap();
-const exact=new Map([
-['Neoficiální tematický katalog',['Neoficiálny tematický katalóg','Neoficiální tematický katalog']],['Vedátorský podcast podle témat',['Vedátorský podcast podľa tém','Vedátorský podcast podle témat']],['Vedátorský podcast podľa tém',['Vedátorský podcast podľa tém','Vedátorský podcast podle témat']],
-['Vše',['Všetko','Vše']],['Všetko',['Všetko','Vše']],['Epizody',['Epizódy','Epizody']],['Epizódy',['Epizódy','Epizody']],['Otázky',['Otázky','Otázky']],['Série',['Série','Série']],['Playlisty',['Playlisty','Playlisty']],
-['Přehrát',['Prehrať','Přehrát']],['Prehrať',['Prehrať','Přehrát']],['Číst více',['Čítať viac','Číst více']],['Čítať viac',['Čítať viac','Číst více']],['Číst méně',['Čítať menej','Číst méně']],['Čítať menej',['Čítať menej','Číst méně']],
-['Instalovat',['Inštalovať','Instalovat']],['Inštalovať',['Inštalovať','Instalovat']],['Znovu načíst',['Znova načítať','Znovu načíst']],['Znova načítať',['Znova načítať','Znovu načíst']],['Nejnovější',['Najnovšie','Nejnovější']],['Najnovšie',['Najnovšie','Nejnovější']],['Nejstarší',['Najstaršie','Nejstarší']],['Najstaršie',['Najstaršie','Nejstarší']],
-['Podle čísla dílu',['Podľa čísla dielu','Podle čísla dílu']],['Podľa čísla dielu',['Podľa čísla dielu','Podle čísla dílu']],['Podle počtu dílů',['Podľa počtu dielov','Podle počtu dílů']],['Podľa počtu dielov',['Podľa počtu dielov','Podle počtu dílů']],['Podle abecedy',['Podľa abecedy','Podle abecedy']],['Podľa abecedy',['Podľa abecedy','Podle abecedy']],
-['Předchozí',['Predchádzajúci','Předchozí']],['Predchádzajúci',['Predchádzajúci','Předchozí']],['Další',['Ďalší','Další']],['Ďalší',['Ďalší','Další']],['Stáhnout',['Stiahnuť','Stáhnout']],['Stiahnuť',['Stiahnuť','Stáhnout']],['Rychlost',['Rýchlosť','Rychlost']],['Rýchlosť',['Rýchlosť','Rychlost']],['Pozastavit',['Pozastaviť','Pozastavit']],['Pozastaviť',['Pozastaviť','Pozastavit']],
-['Černé díry',['Čierne diery','Černé díry']],['Čierne diery',['Čierne diery','Černé díry']],['Kosmologie',['Kozmológia','Kosmologie']],['Kozmológia',['Kozmológia','Kosmologie']],['Temná energie',['Tmavá energia','Temná energie']],['Tmavá energia',['Tmavá energia','Temná energie']],['Astronomie',['Astronómia','Astronomie']],['Astronómia',['Astronómia','Astronomie']],['Biologie a medicína',['Biológia a medicína','Biologie a medicína']],['Biológia a medicína',['Biológia a medicína','Biologie a medicína']],['Technologie a AI',['Technológie a AI','Technologie a AI']],['Technológie a AI',['Technológie a AI','Technologie a AI']],['Země a příroda',['Zem a príroda','Země a příroda']],['Zem a príroda',['Zem a príroda','Země a příroda']],['Chemie a materiály',['Chémia a materiály','Chemie a materiály']],['Chémia a materiály',['Chémia a materiály','Chemie a materiály']],['Společnost a psychologie',['Spoločnosť a psychológia','Společnost a psychologie']],['Spoločnosť a psychológia',['Spoločnosť a psychológia','Společnost a psychologie']]
-]);
-const pairs=[['podle','podľa'],['témat','tém'],['díl','diel'],['dílu','dielu'],['dílů','dielov'],['epizoda','epizóda'],['epizody','epizódy'],['epizod','epizód'],['otázek','otázok'],['černé','čierne'],['černá','čierna'],['díry','diery'],['díra','diera'],['temná','tmavá'],['energie','energia'],['země','zem'],['příroda','príroda'],['společnost','spoločnosť'],['psychologie','psychológia'],['technologie','technológie'],['astronomie','astronómia'],['kosmologie','kozmológia'],['chemie','chémia'],['částice','častice'],['věda','veda'],['vědě','vede'],['vesmíru','vesmíre'],['vesmírem','vesmírom'],['hledání','hľadanie'],['speciál','špeciál'],['angličtině','angličtine'],['teorie','teória'],['her','hier'],['největší','najväčší'],['nejmenší','najmenší'],['nejprve','najprv'],['nevíme','nevieme'],['víme','vieme'],['budou','budú'],['člověk','človek'],['lidé','ľudia'],['vyspělí','vyspelí'],['kámen','kameň'],['některé','niektoré'],['některý','niektorý'],['něco','niečo'],['někdy','niekedy'],['možná','možno'],['rozpoznat','rozpoznať'],['vypadá','vyzerá'],['vypadají','vyzerajú'],['protože','pretože'],['který','ktorý'],['která','ktorá'],['které','ktoré'],['kteří','ktorí'],['jsou','sú'],['není','nie je'],['nejsou','nie sú'],['může','môže'],['mohou','môžu'],['musí','musia'],['také','tiež'],['jen','iba'],['velmi','veľmi'],['více','viac'],['méně','menej'],['pouze','iba'],['všechno','všetko'],['všechny','všetky'],['například','napríklad'],['přibližně','približne'],['přesně','presne'],['díky','vďaka'],['mezi','medzi'],['když','keď'],['pokud','ak'],['tedy','teda'],['způsob','spôsob'],['odpověď','odpoveď'],['odpovědi','odpovede'],['přehrát','prehrať'],['číst','čítať'],['zobrazit','zobraziť'],['skrýt','skryť'],['načíst','načítať'],['hledat','hľadať'],['výsledek','výsledok'],['počítat','počítať'],['počítá','počíta'],['větší','väčší'],['rychlost','rýchlosť'],['hmotnost','hmotnosť'],['pravděpodobnost','pravdepodobnosť'],['současně','súčasne'],['skutečně','skutočne'],['původní','pôvodný'],['další','ďalší'],['předchozí','predchádzajúci'],['zpět','späť'],['dopředu','dopredu']];
-function escRe(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
-function caseLike(src,dst){if(src===src.toUpperCase())return dst.toUpperCase();if(src[0]===src[0]?.toUpperCase())return dst[0].toUpperCase()+dst.slice(1);return dst}
-function convert(raw){const trimmed=raw.trim(),ex=exact.get(trimmed);if(ex)return raw.replace(trimmed,ex[lang==='sk'?0:1]);let out=raw;for(const [cs,sk] of pairs){const from=lang==='sk'?cs:sk,to=lang==='sk'?sk:cs;out=out.replace(new RegExp('(^|[^\\p{L}])('+escRe(from)+')(?=$|[^\\p{L}])','giu'),(_,p,w)=>p+caseLike(w,to))}return out}
-function processText(n){if(!original.has(n))original.set(n,n.nodeValue);const next=convert(original.get(n));if(n.nodeValue!==next)n.nodeValue=next}
-function process(root){if(!root)return;if(root.nodeType===3){if(root.parentElement&&!['SCRIPT','STYLE','TEXTAREA','CODE','PRE'].includes(root.parentElement.tagName))processText(root);return}if(root.nodeType!==1&&root.nodeType!==9)return;const doc=root.nodeType===9?root:root.ownerDocument;if(root.nodeType===9){doc.documentElement.lang=lang;doc.title=lang==='sk'?'Vedátorský podcast – podľa tém':'Vedátorský podcast – podle témat'}const walker=doc.createTreeWalker(root,NodeFilter.SHOW_TEXT);let n;while(n=walker.nextNode())if(n.parentElement&&!['SCRIPT','STYLE','TEXTAREA','CODE','PRE'].includes(n.parentElement.tagName))processText(n)}
-function applyAll(){try{const d=frame.contentDocument;if(d?.body)process(d)}catch(e){document.getElementById('error').style.display='block'}}
-function setLanguage(next){lang=next;localStorage.setItem(KEY,lang);document.documentElement.lang=lang;document.title=lang==='sk'?'Vedátorský podcast – podľa tém':'Vedátorský podcast – podle témat';document.querySelectorAll('[data-lang]').forEach(b=>b.classList.toggle('active',b.dataset.lang===lang));applyAll()}
-function scheduleAdded(nodes){if(queued)return;queued=true;requestAnimationFrame(()=>{queued=false;for(const n of nodes)process(n)})}
-document.querySelectorAll('[data-lang]').forEach(b=>b.addEventListener('click',()=>setLanguage(b.dataset.lang)));
-frame.addEventListener('load',()=>{try{const d=frame.contentDocument;process(d);observer?.disconnect();observer=new MutationObserver(records=>{const added=[];for(const r of records)for(const n of r.addedNodes)added.push(n);if(added.length)scheduleAdded(added)});observer.observe(d.body,{childList:true,subtree:true})}catch(e){document.getElementById('error').style.display='block'}});
-setLanguage(lang);if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
-})();
-</script></body></html>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#111827">
+  <title>Vedátorský podcast – podľa tém</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <div class="wrap header-row">
+    <div>
+      <div class="eyebrow" data-i18n="catalogEyebrow"></div>
+      <h1 data-i18n="appTitle"></h1>
+    </div>
+    <div class="header-actions">
+      <div class="language-switch" role="group" data-i18n-aria="languageSwitch">
+        <button type="button" data-language="sk">SK</button>
+        <button type="button" data-language="cs">CZ</button>
+      </div>
+      <button id="installApp" class="install-app" type="button" data-i18n="install"></button>
+    </div>
+  </div>
+</header>
+<main class="wrap">
+  <section class="panel controls-panel">
+    <div class="controls">
+      <input id="search" class="search" type="search" autocomplete="off">
+      <button id="refresh" class="refresh" type="button" data-i18n="reload"></button>
+    </div>
+    <div id="tabs" class="tabs" role="tablist">
+      <button class="tab active" type="button" data-view="episodes" data-i18n="episodes"></button>
+      <button class="tab" type="button" data-view="series" data-i18n="series"></button>
+      <button class="tab" type="button" data-view="questions" data-i18n="questions"></button>
+    </div>
+    <div id="topics" class="topics"></div>
+  </section>
+  <div class="meta">
+    <div id="count" aria-live="polite"></div>
+    <select id="sort" class="sort"></select>
+  </div>
+  <section id="content" class="grid" aria-live="polite"></section>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>
