@@ -1,0 +1,9 @@
+{
+  "name":"Vedátorský podcast podľa tém – test",
+  "short_name":"Vedátor test",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#111827",
+  "theme_color":"#111827",
+  "lang":"sk"
+}
