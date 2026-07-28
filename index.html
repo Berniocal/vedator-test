@@ -50,73 +50,18 @@
   </div>
   <section id="content" class="grid" aria-live="polite"></section>
 </main>
-
 <button id="backTop" class="back-top" type="button" aria-label="">↑</button>
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
-
 <section id="audioModal" class="audio-modal" hidden role="dialog" aria-modal="true">
-  <div class="audio-shell">
-    <div class="audio-bar">
-      <button id="audioClose" class="icon-button audio-back" type="button" aria-label="">←</button>
-      <div id="audioBarTitle" class="audio-bar-title">Vedátorský podcast</div>
-    </div>
-    <div class="audio-content">
-      <div class="audio-card">
-        <div class="audio-kicker">Vedátorský podcast</div>
-        <div id="audioTitle" class="audio-title"></div>
-        <div class="audio-seek-box">
-          <div class="audio-seek-label" data-i18n="exactPosition"></div>
-          <input id="audioSeek" class="audio-seek" type="range" min="0" max="1" value="0" step="1" disabled>
-          <div class="audio-seek-times"><span id="audioCurrent">0:00</span><span id="audioDuration">–:––</span></div>
-        </div>
-        <audio id="audio" playsinline preload="metadata"></audio>
-        <div class="custom-controls">
-          <div class="custom-main">
-            <button id="audioPrev" class="custom-btn" type="button"><span class="custom-icon">◀|</span><span data-i18n="previous"></span></button>
-            <button id="audioBack10" class="custom-btn" type="button"><span class="custom-icon">↶</span><span>−10 s</span></button>
-            <button id="audioPlay" class="custom-btn main" type="button"><span id="audioPlayIcon" class="custom-icon">▶</span></button>
-            <button id="audioForward10" class="custom-btn" type="button"><span class="custom-icon">↷</span><span>+10 s</span></button>
-            <button id="audioNext" class="custom-btn" type="button"><span class="custom-icon">|▶</span><span data-i18n="next"></span></button>
-          </div>
-          <div class="custom-secondary">
-            <button id="audioDownload" class="custom-btn" type="button"><span>⇩</span><span id="downloadLabel" data-i18n="download"></span></button>
-            <button id="audioSpeed" class="custom-btn" type="button"><span data-i18n="speed"></span><span id="speedValue">1×</span></button>
-          </div>
-        </div>
-        <p id="audioHelp" class="audio-help"></p>
-      </div>
-    </div>
-  </div>
+  <div class="audio-shell"><div class="audio-bar"><button id="audioClose" class="icon-button audio-back" type="button" aria-label="">←</button><div id="audioBarTitle" class="audio-bar-title">Vedátorský podcast</div></div><div class="audio-content"><div class="audio-card"><div class="audio-kicker">Vedátorský podcast</div><div id="audioTitle" class="audio-title"></div><div class="audio-seek-box"><div class="audio-seek-label" data-i18n="exactPosition"></div><input id="audioSeek" class="audio-seek" type="range" min="0" max="1" value="0" step="1" disabled><div class="audio-seek-times"><span id="audioCurrent">0:00</span><span id="audioDuration">–:––</span></div></div><audio id="audio" playsinline preload="metadata"></audio><div class="custom-controls"><div class="custom-main"><button id="audioPrev" class="custom-btn" type="button"><span class="custom-icon">◀|</span><span data-i18n="previous"></span></button><button id="audioBack10" class="custom-btn" type="button"><span class="custom-icon">↶</span><span>−10 s</span></button><button id="audioPlay" class="custom-btn main" type="button"><span id="audioPlayIcon" class="custom-icon">▶</span></button><button id="audioForward10" class="custom-btn" type="button"><span class="custom-icon">↷</span><span>+10 s</span></button><button id="audioNext" class="custom-btn" type="button"><span class="custom-icon">|▶</span><span data-i18n="next"></span></button></div><div class="custom-secondary"><button id="audioDownload" class="custom-btn" type="button"><span>⇩</span><span id="downloadLabel" data-i18n="download"></span></button><button id="audioSpeed" class="custom-btn" type="button"><span data-i18n="speed"></span><span id="speedValue">1×</span></button></div></div><p id="audioHelp" class="audio-help"></p></div></div></div>
 </section>
-
 <div id="playlistEditor" class="editor hidden" role="dialog" aria-modal="true">
-  <div class="editor-box">
-    <div class="editor-head">
-      <strong id="playlistEditorTitle"></strong>
-      <button id="playlistEditorClose" class="icon-button" type="button">✕</button>
-    </div>
-    <div class="source-switch">
-      <button type="button" data-source="episode" class="active" data-i18n="episodes"></button>
-      <button type="button" data-source="question" data-i18n="questions"></button>
-    </div>
-    <div class="editor-columns">
-      <section class="editor-pane">
-        <h3 data-i18n="addedItems"></h3>
-        <div id="playlistSelected" class="editor-scroll edit-order"></div>
-      </section>
-      <section class="editor-pane">
-        <h3 id="playlistSourceTitle"></h3>
-        <input id="playlistSearch" class="editor-search" type="search">
-        <div id="playlistChoices" class="editor-scroll editor-list"></div>
-      </section>
-    </div>
-    <div class="editor-foot">
-      <button id="playlistCancel" class="button secondary-button" type="button" data-i18n="cancel"></button>
-      <button id="playlistSave" class="button primary-button" type="button" data-i18n="save"></button>
-    </div>
-  </div>
+  <div class="editor-box"><div class="editor-head"><strong id="playlistEditorTitle"></strong><button id="playlistEditorClose" class="icon-button" type="button">✕</button></div><div class="source-switch"><button type="button" data-source="episode" class="active" data-i18n="episodes"></button><button type="button" data-source="question" data-i18n="questions"></button></div><div class="editor-columns"><section class="editor-pane"><h3 data-i18n="addedItems"></h3><div id="playlistSelected" class="editor-scroll edit-order"></div></section><section class="editor-pane"><h3 id="playlistSourceTitle"></h3><input id="playlistSearch" class="editor-search" type="search"><div id="playlistChoices" class="editor-scroll editor-list"></div></section></div><div class="editor-foot"><button id="playlistCancel" class="button secondary-button" type="button" data-i18n="cancel"></button><button id="playlistSave" class="button primary-button" type="button" data-i18n="save"></button></div></div>
 </div>
-
-<script type="module" src="app.js"></script>
+<script src="core.js" defer></script>
+<script src="views.js" defer></script>
+<script src="player.js" defer></script>
+<script src="playlists.js" defer></script>
+<script src="app.js" defer></script>
 </body>
 </html>
