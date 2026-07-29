@@ -5,6 +5,9 @@ on:
     branches: [proper-i18n]
     paths:
       - tools/generate_explicit_locales.py
+      - tools/generate_explicit_locales_v2.py
+      - tools/generate_explicit_locales_v3.py
+      - tools/generate_explicit_locales_v4.py
       - .github/workflows/generate-explicit-locales.yml
       - .github/trigger-explicit-locales.txt
   workflow_dispatch:
@@ -14,42 +17,46 @@ permissions:
 
 concurrency:
   group: explicit-locale-generation
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 240
     env:
       TOKENIZERS_PARALLELISM: 'false'
       PYTHONUNBUFFERED: '1'
+      VEDATOR_GIT_CHECKPOINT: '1'
     steps:
       - uses: actions/checkout@v4
         with:
           ref: proper-i18n
           fetch-depth: 1
-      - name: Ignore source checkout and Python cache
-        run: printf '/.source-vedator/\n__pycache__/\n*.py[cod]\n' >> .git/info/exclude
+      - name: Configure resumable checkpoints
+        run: |
+          printf '/.source-vedator/\n__pycache__/\n*.py[cod]\n' >> .git/info/exclude
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
       - name: Checkout original application
         run: git clone --depth 1 https://github.com/Berniocal/vedator.git .source-vedator
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Cache dedicated Czech/Slovak translation models
+      - name: Cache verified multilingual content model
         uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface
-          key: opus-mt-sk-cs-cs-sk-v1
-      - name: Install content translation dependencies
+          key: nllb-200-distilled-600m-content-only-v1
+      - name: Install content-only translation dependencies
         run: |
           python -m pip install --upgrade pip
           python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
-          python -m pip install 'transformers>=4.46,<5' sentencepiece beautifulsoup4 sacremoses
-      - name: Check generator syntax
-        run: python -m py_compile tools/generate_explicit_locales.py
-      - name: Generate Czech episode data only
-        run: VEDATOR_LOCALE_STAGE=episodes python tools/generate_explicit_locales.py .source-vedator
-      - name: Preserve episode locale checkpoint
+          python -m pip install 'transformers>=4.46,<5' sentencepiece beautifulsoup4
+      - name: Check all generator scripts before loading the model
+        run: python -m py_compile tools/generate_explicit_locales.py tools/generate_explicit_locales_v2.py tools/generate_explicit_locales_v3.py tools/generate_explicit_locales_v4.py
+      - name: Generate and checkpoint Czech episode data
+        run: VEDATOR_LOCALE_STAGE=episodes python tools/generate_explicit_locales_v4.py .source-vedator
+      - name: Preserve episode checkpoint even after a later failure
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -57,17 +64,8 @@ jobs:
           path: locales/episodes.*.json
           if-no-files-found: warn
           retention-days: 30
-      - name: Commit episode locale checkpoint
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add locales/episodes.*.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Add explicit Czech and Slovak episode data [skip ci]'
-            git push origin HEAD:proper-i18n
-          fi
-      - name: Generate explicit UI, summary and chapter string maps
-        run: VEDATOR_LOCALE_STAGE=strings python tools/generate_explicit_locales.py .source-vedator
+      - name: Generate and checkpoint explicit UI, summary and chapter maps
+        run: VEDATOR_LOCALE_STAGE=strings python tools/generate_explicit_locales_v4.py .source-vedator
       - name: Preserve string-map checkpoint
         if: always()
         uses: actions/upload-artifact@v4
@@ -76,10 +74,3 @@ jobs:
           path: locales/strings.*.json
           if-no-files-found: warn
           retention-days: 30
-      - name: Commit explicit string maps
-        run: |
-          git add locales/strings.*.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Add explicit Czech and Slovak UI and summary maps [skip ci]'
-            git push origin HEAD:proper-i18n
-          fi
