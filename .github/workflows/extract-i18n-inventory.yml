@@ -1,10 +1,20 @@
 name: Extract i18n inventory
 
 on:
+  push:
+    branches: [proper-i18n]
+    paths:
+      - tools/extract_i18n.py
+      - .github/workflows/extract-i18n-inventory.yml
+      - .github/trigger-proper-i18n.txt
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: proper-i18n-inventory
+  cancel-in-progress: true
 
 jobs:
   extract:
@@ -28,5 +38,9 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           rm -rf .source-vedator
           git add i18n-inventory source-manifest.json
-          git commit -m 'Extract explicit localization inventory' || exit 0
-          git push origin HEAD:proper-i18n
+          if git diff --cached --quiet; then
+            echo 'Inventory unchanged.'
+          else
+            git commit -m 'Extract explicit localization inventory [skip ci]'
+            git push origin HEAD:proper-i18n
+          fi
