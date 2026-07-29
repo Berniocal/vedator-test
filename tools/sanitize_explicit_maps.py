@@ -16,6 +16,7 @@ FILE_RE = re.compile(r'([\'\"])([^\'\"]+\.(?:js|css|json|webmanifest|svg|png|jpe
 MIME_RE = re.compile(r'([\'\"])((?:audio|video|text|application)/[a-z0-9.+-]+(?:;\s*charset=[a-z0-9-]+)?)\1', re.I)
 EVENT_RE = re.compile(r'\.addEventListener\(\s*([\'\"])(.*?)\1')
 ATTRIBUTE_RE = re.compile(r'(?:setAttribute|getAttribute|hasAttribute|removeAttribute)\(\s*([\'\"])(.*?)\1')
+CSS_DECL_RE = re.compile(r'(?:^|[;{])\s*[-a-z][\w-]*\s*:\s*[^;{}]+[;}]', re.I | re.S)
 
 
 def protected_values(text: str) -> set[str]:
@@ -43,6 +44,8 @@ def code_like(value: str) -> bool:
         return True
     if re.search(r'\.(?:js|css|json|webmanifest|svg|png|jpe?g|mp3|m4a)(?:\?|$)', stripped, re.I):
         return True
+    if ('{' in stripped and '}' in stripped) or '!important' in stripped or CSS_DECL_RE.search(stripped):
+        return True
     return False
 
 
@@ -68,13 +71,13 @@ def main() -> None:
                     removed.append((lang, rel, source, 'reviewed override'))
                     continue
                 if source in protected or code_like(source):
-                    removed.append((lang, rel, source, 'technical literal'))
+                    removed.append((lang, rel, source, 'technical/style literal'))
                     continue
                 kept[source] = target
             cleaned[rel] = kept
         path.write_text(json.dumps(cleaned, ensure_ascii=False, indent=2) + '\n', 'utf-8')
     print(f'Removed {len(removed)} generated locale entries.')
-    for lang, rel, value, reason in removed[:80]:
+    for lang, rel, value, reason in removed[:100]:
         print(f'  {lang}/{rel}: {value} ({reason})')
 
 if __name__ == '__main__':
