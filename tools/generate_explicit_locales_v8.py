@@ -11,6 +11,7 @@ import generate_explicit_locales_v7 as reviewed
 base = reviewed.staged.base
 scanner = reviewed.staged.scanner
 checkpoint = reviewed.staged.staged.checkpoint
+_original_detect_language = base.detect_language
 
 SK_WORDS = {
     'prečo','ako','čo','ktorý','ktorá','ktoré','ktorí','môže','môžu','môžeme','môžete','dokáže','dokážu',
@@ -36,7 +37,7 @@ def detect_language(text: str, default: str='cs') -> str:
         return 'sk'
     if cs > sk:
         return 'cs'
-    return base.detect_language(text, default)
+    return _original_detect_language(text, default)
 
 
 base.detect_language = detect_language
@@ -103,7 +104,6 @@ def generate_string_maps(mt) -> None:
         changed = False
         for target in ('cs','sk'):
             existing = maps[target].setdefault(rel, {})
-            # Revisit entries that were left identical despite being detected as the other language.
             for value in candidates:
                 if existing.get(value) == value and detect_language(value, 'cs') != target:
                     existing.pop(value, None)
