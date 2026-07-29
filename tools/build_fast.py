@@ -316,7 +316,7 @@ def _resilient_translate_many(
         assert self.tokenizer is not None and self.model is not None and self.torch is not None
         self.tokenizer.src_lang = build.SOURCES[source]
         forced = self.tokenizer.convert_tokens_to_ids(build.TARGETS[target])
-        batch_size = 16
+        batch_size = 12
 
         for offset in range(0, len(entries), batch_size):
             batch = entries[offset:offset + batch_size]
@@ -377,6 +377,37 @@ def _patch_locale_runtime(root: Path, lang: str) -> None:
         data["id"] = "../"
         manifest.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")) + "\n", "utf-8")
 
+    switch_css = root / "language-switch.css"
+    switch_css.write_text(
+        ".vedator-header-actions{display:flex;align-items:center;gap:8px;margin-left:auto}"
+        ".vedator-language-switch{display:flex;gap:4px;padding:4px;border:1px solid rgba(255,255,255,.35);"
+        "border-radius:12px;background:rgba(255,255,255,.1)}"
+        ".vedator-language-switch button{border:0;border-radius:8px;padding:7px 9px;background:transparent;"
+        "color:#fff;font-weight:850;cursor:pointer}"
+        ".vedator-language-switch button.active{background:#fff;color:#241b58}"
+        "@media(max-width:550px){.vedator-header-actions{gap:6px}.vedator-language-switch button{padding:6px 8px;font-size:.78rem}}"
+        "\n",
+        "utf-8",
+    )
+    switch_js = root / "language-switch.js"
+    switch_js.write_text(
+        """(()=>{const current=document.documentElement.lang.startsWith('cs')?'cs':'sk';"""
+        """const mount=()=>{if(document.querySelector('.vedator-language-switch'))return;"""
+        """const row=document.querySelector('.header-row');if(!row)return;"""
+        """let actions=row.querySelector('.vedator-header-actions');const install=document.querySelector('#installApp');"""
+        """if(!actions){actions=document.createElement('div');actions.className='vedator-header-actions';row.appendChild(actions);if(install)actions.appendChild(install)}"""
+        """const box=document.createElement('div');box.className='vedator-language-switch';box.setAttribute('role','group');"""
+        """box.setAttribute('aria-label',current==='cs'?'Jazyk aplikace':'Jazyk aplikácie');"""
+        """box.innerHTML='<button type=\"button\" data-lang=\"sk\">SK</button><button type=\"button\" data-lang=\"cs\">CZ</button>';"""
+        """box.querySelectorAll('button').forEach(button=>{button.classList.toggle('active',button.dataset.lang===current);"""
+        """button.onclick=()=>{const next=button.dataset.lang;if(next===current)return;localStorage.setItem('vedator-language',next);"""
+        """const url=new URL(location.href);const changed=url.pathname.replace(/\\/(?:cs|sk)(?:\\/index\\.html)?\\/?$/,`/${next}/`);"""
+        """url.pathname=changed===url.pathname?url.pathname.replace(/\\/?$/,`/${next}/`):changed;location.href=url.href}});"""
+        """actions.insertBefore(box,install&&install.parentElement===actions?install:null)};"""
+        """if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',mount,{once:true});else mount()})();\n""",
+        "utf-8",
+    )
+
     sw = root / "sw.js"
     if sw.exists():
         text = sw.read_text("utf-8")
@@ -431,10 +462,10 @@ def _write_root_files() -> None:
     )
 
     (build.ROOT / "index.html").write_text(
-        """<!doctype html><html lang="sk"><head><meta charset="utf-8">"""
-        """<meta name="viewport" content="width=device-width,initial-scale=1">"""
-        """<meta name="theme-color" content="#111827"><link rel="manifest" href="manifest.webmanifest">"""
-        """<link rel="icon" href="icon.svg" type="image/svg+xml"><title>Vedátorský podcast</title>"""
+        """<!doctype html><html lang=\"sk\"><head><meta charset=\"utf-8\">"""
+        """<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">"""
+        """<meta name=\"theme-color\" content=\"#111827\"><link rel=\"manifest\" href=\"manifest.webmanifest\">"""
+        """<link rel=\"icon\" href=\"icon.svg\" type=\"image/svg+xml\"><title>Vedátorský podcast</title>"""
         """<script>(async()=>{try{if('serviceWorker'in navigator){const r=await navigator.serviceWorker.register('./sw.js',{scope:'./'});r.update().catch(()=>{})}}catch(e){}"""
         """const saved=localStorage.getItem('vedator-language');const lang=saved==='cs'?'cs':'sk';"""
         """location.replace('./'+lang+'/'+location.search+location.hash)})();</script></head><body></body></html>\n""",
