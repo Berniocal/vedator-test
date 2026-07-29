@@ -1,33 +1,15 @@
 name: Rebuild exact localized copies
 
 on:
-  pull_request:
-    branches: [main]
-    paths:
-      - tools/build_localized.py
-      - tools/build_fast.py
-      - tools/validate_source.py
-      - tools/validate_build.py
-      - .github/workflows/rebuild-localized.yml
-      - .github/trigger-full-build.txt
-  push:
-    branches: [main]
-    paths:
-      - tools/build_localized.py
-      - tools/build_fast.py
-      - tools/validate_source.py
-      - tools/validate_build.py
-      - .github/workflows/rebuild-localized.yml
   workflow_dispatch:
   schedule:
     - cron: '17 3 * * 1'
 
 permissions:
   contents: write
-  pull-requests: read
 
 concurrency:
-  group: vedator-localized-build-${{ github.event.pull_request.number || github.ref }}
+  group: vedator-localized-build-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -37,23 +19,18 @@ jobs:
     env:
       TOKENIZERS_PARALLELISM: 'false'
       PYTHONUNBUFFERED: '1'
-
     steps:
-      - name: Checkout target repository branch
+      - name: Checkout target branch
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref || github.ref_name }}
+          ref: ${{ github.ref_name }}
           fetch-depth: 1
 
-      - name: Protect temporary and generated Python files from git add
-        run: |
-          printf '/.source-vedator/\n__pycache__/\n*.py[cod]\n.pytest_cache/\n' >> .git/info/exclude
+      - name: Ignore temporary build files
+        run: printf '/.source-vedator/\n__pycache__/\n*.py[cod]\n' >> .git/info/exclude
 
-      - name: Checkout complete original application
-        run: |
-          rm -rf .source-vedator
-          git clone --depth 1 https://github.com/Berniocal/vedator.git .source-vedator
-          echo "Original files: $(find .source-vedator -type f -not -path '*/.git/*' | wc -l)"
+      - name: Checkout original application
+        run: git clone --depth 1 https://github.com/Berniocal/vedator.git .source-vedator
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -72,99 +49,26 @@ jobs:
           python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
           python -m pip install 'transformers>=4.46,<5' sentencepiece beautifulsoup4
 
-      - name: Validate generators
+      - name: Validate source and generators
         run: |
-          python -m py_compile tools/build_localized.py tools/build_fast.py tools/validate_source.py tools/validate_build.py
+          python -m py_compile tools/build_localized.py tools/build_fast.py tools/build_safe.py tools/validate_source.py tools/validate_build.py tools/validate_build_fixed.py
+          python tools/validate_source.py .source-vedator
 
-      - name: Fast source preflight before translation
-        run: python tools/validate_source.py .source-vedator
+      - name: Build both languages safely
+        run: VEDATOR_LANGS=sk,cs python tools/build_safe.py
 
-      - name: Remove superseded simplified prototype
+      - name: Remove superseded prototype files
         run: |
           rm -f app.js core.js views.js player.js playlists.js styles.css
           rm -rf locales content
 
-      - name: Build Slovak copy
-        run: VEDATOR_LANGS=sk python tools/build_fast.py
+      - name: Record source commit
+        run: git -C .source-vedator rev-parse HEAD > .generated-source-sha
 
-      - name: Preserve Slovak result even after a later failure
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: vedator-localized-sk-${{ github.run_id }}
-          path: |
-            sk
-            translations/memory.json
-            index.html
-            sw.js
-            manifest.webmanifest
-            icon.svg
-          if-no-files-found: warn
-          retention-days: 14
+      - name: Validate complete generated application
+        run: python tools/validate_build_fixed.py .source-vedator sk cs
 
-      - name: Checkpoint Slovak copy
-        run: |
-          branch="${GITHUB_HEAD_REF:-${GITHUB_REF_NAME}}"
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          find . -type d -name __pycache__ -prune -exec rm -rf {} +
-          git add -A
-          if git diff --cached --quiet; then
-            echo 'No Slovak checkpoint changes.'
-          else
-            git commit -m 'Checkpoint exact Slovak build [skip ci]'
-            for attempt in 1 2 3; do
-              if git push origin "HEAD:${branch}"; then exit 0; fi
-              echo "Push attempt ${attempt} failed; rebasing and retrying."
-              git pull --rebase origin "${branch}" || { git rebase --abort || true; exit 1; }
-              sleep $((attempt * 3))
-            done
-            exit 1
-          fi
-
-      - name: Build Czech copy
-        run: VEDATOR_LANGS=cs python tools/build_fast.py
-
-      - name: Preserve Czech result even after a later failure
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: vedator-localized-cs-${{ github.run_id }}
-          path: |
-            cs
-            translations/memory.json
-            index.html
-            sw.js
-            manifest.webmanifest
-            icon.svg
-          if-no-files-found: warn
-          retention-days: 14
-
-      - name: Checkpoint Czech copy
-        run: |
-          branch="${GITHUB_HEAD_REF:-${GITHUB_REF_NAME}}"
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          find . -type d -name __pycache__ -prune -exec rm -rf {} +
-          git add -A
-          if git diff --cached --quiet; then
-            echo 'No Czech checkpoint changes.'
-          else
-            git commit -m 'Checkpoint exact Czech build [skip ci]'
-            for attempt in 1 2 3; do
-              if git push origin "HEAD:${branch}"; then exit 0; fi
-              echo "Push attempt ${attempt} failed; rebasing and retrying."
-              git pull --rebase origin "${branch}" || { git rebase --abort || true; exit 1; }
-              sleep $((attempt * 3))
-            done
-            exit 1
-          fi
-
-      - name: Verify file tree, design, syntax, references, manifests and caches
-        run: python tools/validate_build.py .source-vedator sk cs
-
-      - name: Preserve verified complete build
-        if: success()
+      - name: Preserve verified build
         uses: actions/upload-artifact@v4
         with:
           name: vedator-localized-verified-${{ github.run_id }}
@@ -176,38 +80,20 @@ jobs:
             sw.js
             manifest.webmanifest
             icon.svg
+            .generated-source-sha
           if-no-files-found: error
           retention-days: 30
 
-      - name: Write validation summary
-        if: always()
+      - name: Commit verified build
         run: |
-          python - <<'PY'
-          import json
-          import os
-          from pathlib import Path
-
-          def count_files(folder):
-              path = Path(folder)
-              return sum(1 for item in path.rglob("*") if item.is_file()) if path.exists() else 0
-
-          memory_path = Path("translations/memory.json")
-          memory_count = len(json.loads(memory_path.read_text("utf-8"))) if memory_path.exists() else 0
-          branch = os.environ.get("GITHUB_HEAD_REF") or os.environ.get("GITHUB_REF_NAME") or "unknown"
-          lines = [
-              "## Vedátor localization build",
-              "",
-              f"- Run: {os.environ.get('GITHUB_RUN_ID', 'unknown')}",
-              f"- Branch: {branch}",
-              f"- Slovak files: {count_files('sk')}",
-              f"- Czech files: {count_files('cs')}",
-              f"- Translation memory entries: {memory_count}",
-              "",
-          ]
-          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as handle:
-              handle.write("\n".join(lines))
-          PY
-
-      - name: Remove temporary original checkout
-        if: always()
-        run: rm -rf .source-vedator
+          branch="${GITHUB_REF_NAME}"
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          find . -type d -name __pycache__ -prune -exec rm -rf {} +
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No generated changes.'
+          else
+            git commit -m 'Build verified Czech and Slovak copies [skip ci]'
+            git push origin "HEAD:${branch}"
+          fi
