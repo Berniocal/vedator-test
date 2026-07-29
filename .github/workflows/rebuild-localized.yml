@@ -1,6 +1,12 @@
 name: Rebuild exact localized copies
 
 on:
+  pull_request:
+    branches: [main]
+    paths:
+      - tools/build_localized.py
+      - .github/workflows/rebuild-localized.yml
+      - .github/trigger-full-build.txt
   push:
     branches: [main]
     paths:
@@ -12,9 +18,10 @@ on:
 
 permissions:
   contents: write
+  pull-requests: read
 
 concurrency:
-  group: vedator-localized-build
+  group: vedator-localized-build-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -25,9 +32,10 @@ jobs:
       TOKENIZERS_PARALLELISM: 'false'
       PYTHONUNBUFFERED: '1'
     steps:
-      - name: Checkout target repository
+      - name: Checkout target repository branch
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.head_ref || github.ref_name }}
           fetch-depth: 1
 
       - name: Checkout complete original application
@@ -92,7 +100,7 @@ jobs:
       - name: Remove temporary original checkout
         run: rm -rf .source-vedator
 
-      - name: Commit generated application
+      - name: Commit generated application to the checked branch
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
@@ -101,5 +109,5 @@ jobs:
             echo 'No generated changes.'
           else
             git commit -m 'Build exact Czech and Slovak copies [skip ci]'
-            git push
+            git push origin HEAD:${{ github.head_ref || github.ref_name }}
           fi
