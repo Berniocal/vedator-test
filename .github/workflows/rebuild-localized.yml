@@ -45,8 +45,9 @@ jobs:
           ref: ${{ github.head_ref || github.ref_name }}
           fetch-depth: 1
 
-      - name: Protect temporary source checkout from git add
-        run: echo '/.source-vedator/' >> .git/info/exclude
+      - name: Protect temporary and generated Python files from git add
+        run: |
+          printf '/.source-vedator/\n__pycache__/\n*.py[cod]\n.pytest_cache/\n' >> .git/info/exclude
 
       - name: Checkout complete original application
         run: |
@@ -106,6 +107,7 @@ jobs:
           branch="${GITHUB_HEAD_REF:-${GITHUB_REF_NAME}}"
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          find . -type d -name __pycache__ -prune -exec rm -rf {} +
           git add -A
           if git diff --cached --quiet; then
             echo 'No Slovak checkpoint changes.'
@@ -143,6 +145,7 @@ jobs:
           branch="${GITHUB_HEAD_REF:-${GITHUB_REF_NAME}}"
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          find . -type d -name __pycache__ -prune -exec rm -rf {} +
           git add -A
           if git diff --cached --quiet; then
             echo 'No Czech checkpoint changes.'
