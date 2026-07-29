@@ -1,0 +1,119 @@
+name: Build and validate explicit i18n
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - locales/**
+      - tools/build_explicit_i18n.py
+      - tools/build_explicit_i18n_v2.py
+      - tools/sanitize_explicit_maps.py
+      - tools/validate_explicit_i18n.py
+      - tools/review_locale_quality_v4.py
+      - tools/review_locale_quality_v5.py
+      - tools/smoke_explicit_i18n.mjs
+      - .github/workflows/build-explicit-i18n.yml
+      - .github/trigger-explicit-build.txt
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+concurrency:
+  group: explicit-i18n-build-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 1
+      - name: Wait until explicit locale data exists
+        id: readiness
+        run: |
+          if test -f locales/episodes.cs.json && test -f locales/episodes.sk.json && test -f locales/strings.cs.json && test -f locales/strings.sk.json; then
+            echo 'ready=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'Explicit locale generation is not complete yet.'
+            echo 'ready=false' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Checkout exact original application
+        if: steps.readiness.outputs.ready == 'true'
+        run: git clone --depth 1 https://github.com/Berniocal/vedator.git .source-vedator
+      - uses: actions/setup-python@v5
+        if: steps.readiness.outputs.ready == 'true'
+        with:
+          python-version: '3.11'
+      - name: Install lightweight build dependencies
+        if: steps.readiness.outputs.ready == 'true'
+        run: python -m pip install beautifulsoup4
+      - name: Validate final build and review scripts
+        if: steps.readiness.outputs.ready == 'true'
+        run: python -m py_compile tools/generate_explicit_locales.py tools/generate_explicit_locales_v2.py tools/generate_explicit_locales_v3.py tools/generate_explicit_locales_v4.py tools/generate_explicit_locales_v5.py tools/generate_explicit_locales_v6.py tools/generate_explicit_locales_v7.py tools/generate_explicit_locales_v8.py tools/build_explicit_i18n.py tools/build_explicit_i18n_v2.py tools/sanitize_explicit_maps.py tools/validate_explicit_i18n.py tools/review_locale_quality_v4.py tools/review_locale_quality_v5.py
+      - name: Remove selectors, storage keys, URLs, files, MIME types and CSS from locale maps
+        if: steps.readiness.outputs.ready == 'true'
+        run: python tools/sanitize_explicit_maps.py .source-vedator
+      - name: Build exact Czech and Slovak copies from explicit data
+        if: steps.readiness.outputs.ready == 'true'
+        run: python tools/build_explicit_i18n_v2.py .source-vedator
+      - name: Validate structure, design, code, references, content and PWA
+        if: steps.readiness.outputs.ready == 'true'
+        run: python tools/validate_explicit_i18n.py .source-vedator
+      - name: Review language, sentence preservation, HTML and normalized URLs pairwise
+        if: steps.readiness.outputs.ready == 'true'
+        run: python tools/review_locale_quality_v5.py .source-vedator
+      - name: Preserve quality report even if review fails
+        if: always() && steps.readiness.outputs.ready == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: explicit-i18n-quality-${{ github.run_id }}
+          path: locales/quality-report.json
+          if-no-files-found: warn
+          retention-days: 30
+      - name: Install Playwright Chromium
+        if: steps.readiness.outputs.ready == 'true'
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install playwright@1.55.0
+          npx playwright install --with-deps chromium
+      - name: Run mobile browser smoke tests
+        if: steps.readiness.outputs.ready == 'true'
+        run: |
+          python -m http.server 8000 >/tmp/vedator-http.log 2>&1 &
+          server=$!
+          trap 'kill $server' EXIT
+          sleep 2
+          node tools/smoke_explicit_i18n.mjs
+      - name: Preserve verified build artifact
+        if: steps.readiness.outputs.ready == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: proper-explicit-i18n-${{ github.run_id }}
+          path: |
+            cs
+            sk
+            locales
+            index.html
+            sw.js
+            manifest.webmanifest
+            icon.svg
+          if-no-files-found: error
+          retention-days: 30
+      - name: Commit only verified generated files
+        if: steps.readiness.outputs.ready == 'true'
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          rm -rf .source-vedator node_modules package.json package-lock.json
+          git add cs sk locales index.html sw.js manifest.webmanifest icon.svg
+          if git diff --cached --quiet; then
+            echo 'Verified output unchanged.'
+          else
+            git commit -m 'Build verified explicit Czech and Slovak app [skip ci]'
+            git push origin HEAD:proper-i18n
+          fi

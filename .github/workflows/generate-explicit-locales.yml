@@ -1,0 +1,50 @@
+name: Generate explicit locale data
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+concurrency:
+  group: explicit-locale-generation-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    env:
+      TOKENIZERS_PARALLELISM: 'false'
+      PYTHONUNBUFFERED: '1'
+      VEDATOR_GIT_CHECKPOINT: '1'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: proper-i18n
+          fetch-depth: 1
+      - name: Configure resumable checkpoints
+        run: |
+          printf '/.source-vedator/\n__pycache__/\n*.py[cod]\n' >> .git/info/exclude
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - name: Checkout original application
+        run: git clone --depth 1 https://github.com/Berniocal/vedator.git .source-vedator
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Cache dedicated Czech-Slovak BiDi model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: allegro-bidi-ces-slk-content-v1
+      - name: Install content-only translation dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install 'transformers>=4.46,<5' sentencepiece beautifulsoup4
+      - name: Validate generators
+        run: python -m py_compile tools/generate_explicit_locales.py tools/generate_explicit_locales_v2.py tools/generate_explicit_locales_v3.py tools/generate_explicit_locales_v4.py tools/generate_explicit_locales_v5.py tools/generate_explicit_locales_v6.py tools/generate_explicit_locales_v7.py tools/generate_explicit_locales_v8.py
+      - name: Regenerate explicit locale data when manually requested
+        run: VEDATOR_LOCALE_STAGE=all python tools/generate_explicit_locales_v8.py .source-vedator
