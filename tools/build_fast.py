@@ -1,12 +1,23 @@
 #!/usr/bin/env python3
-"""Safe and faster entry point for the complete localization build.
+"""Resilient entry point for the complete Czech/Slovak localization build.
 
-It keeps the extraction, placeholder protection, translation memory and output
-structure from build_localized.py, but uses greedy decoding and a safer
-JavaScript scanner. The scanner skips regular-expression literals so quotes
-inside expressions such as /[&<>"']/g can never be mistaken for UI strings.
+The original application tree is still copied one-to-one. This wrapper adds:
+- a JavaScript scanner that skips regex literals,
+- context-aware filtering of technical JavaScript strings,
+- faster greedy translation,
+- translation-memory checkpoints after every batch,
+- one-language-at-a-time builds,
+- safe locale-specific service workers and PWA manifests,
+- a root redirect plus a cleanup service worker for old prototype caches.
 """
 from __future__ import annotations
+
+import html
+import json
+import os
+import re
+from pathlib import Path
+from typing import Iterable
 
 import build_localized as build
 
@@ -15,6 +26,35 @@ _REGEX_PREFIX_WORDS = {
     "in", "of", "yield", "await", "else", "do", "new",
 }
 _REGEX_PREFIX_CHARS = set("([{:;,=!?&|+-*%^~<>")
+_TECHNICAL_CALL_RE = re.compile(
+    r"(?:querySelector(?:All)?|getElementById|getElementsByClassName|"
+    r"localStorage\.(?:getItem|setItem|removeItem)|"
+    r"sessionStorage\.(?:getItem|setItem|removeItem)|"
+    r"fetch|import|matchMedia|addEventListener|removeEventListener|"
+    r"setAttribute|getAttribute|hasAttribute|new\s+URL|"
+    r"classList\.(?:add|remove|toggle|contains))\s*\(\s*$"
+)
+_CODE_LIKE_RE = re.compile(
+    r"(?:=>|\.join\s*\(|\b(?:const|let|var|function|return|querySelector|"
+    r"localStorage|sessionStorage|dataset)\b)"
+)
+_MANUAL_TEXTS = {key[2] for key in build.MANUAL}
+
+
+def _safe_visible(text: str) -> bool:
+    if not build._vedator_original_looks_user_visible(text):
+        return False
+    value = html.unescape(text).strip()
+    if value in {"use strict", "use asm"}:
+        return False
+    if _CODE_LIKE_RE.search(value):
+        return False
+    return True
+
+
+if not hasattr(build, "_vedator_original_looks_user_visible"):
+    build._vedator_original_looks_user_visible = build.looks_user_visible
+build.looks_user_visible = _safe_visible
 
 
 def _starts_regex(code: str, position: int) -> bool:
@@ -41,7 +81,6 @@ def _starts_regex(code: str, position: int) -> bool:
 
 
 def _skip_regex(code: str, position: int) -> int:
-    """Return the first character after a JavaScript regex literal."""
     index = position + 1
     length = len(code)
     in_character_class = False
@@ -179,6 +218,52 @@ def _find_js_strings(code: str, base: int = 0) -> list[tuple[int, int, str, str]
     return output
 
 
+def _should_translate_js_string(code: str, start: int, end: int, value: str) -> bool:
+    stripped = value.strip()
+    if stripped in _MANUAL_TEXTS:
+        return True
+    if not build.looks_user_visible(value):
+        return False
+    before = code[max(0, start - 140):start]
+    after = code[end:min(len(code), end + 40)]
+    if _TECHNICAL_CALL_RE.search(before):
+        return False
+    if re.search(r"\bcase\s*$", before):
+        return False
+    if after.lstrip().startswith(":"):
+        return False
+    if re.fullmatch(r"(?:[a-z]{2}(?:-[A-Z]{2})?|text/[a-z0-9.+-]+|application/[a-z0-9.+-]+)", stripped):
+        return False
+    return True
+
+
+def _translate_js(code: str, translator: build.Translator, target: str, default_source: str) -> str:
+    found = _find_js_strings(code)
+    candidates: list[str] = []
+    selected: set[tuple[int, int]] = set()
+    for start, end, _, value in found:
+        if not _should_translate_js_string(code, start, end, value):
+            continue
+        selected.add((start, end))
+        if "<" in value and ">" in value:
+            candidates.extend(build.collect_markup_segments(value))
+        else:
+            candidates.append(value)
+    mapping = translator.translate_many(candidates, target, default_source)
+    replacements: list[tuple[int, int, str]] = []
+    for start, end, kind, value in found:
+        if (start, end) not in selected:
+            continue
+        translated = build.apply_markup_mapping(value, mapping) if "<" in value and ">" in value else mapping.get(value, value)
+        if translated == value:
+            continue
+        replacement = translated.replace("`", "\\`") if kind == "`segment" else build.encode_js_string(translated, kind)
+        replacements.append((start, end, replacement))
+    for start, end, replacement in reversed(replacements):
+        code = code[:start] + replacement + code[end:]
+    return code
+
+
 _original_load_model = build.Translator._load_model
 
 
@@ -197,9 +282,195 @@ def _fast_load_model(self: build.Translator) -> None:
     self.model._vedator_fast_generate = True
 
 
+def _resilient_translate_many(
+    self: build.Translator,
+    texts: Iterable[str],
+    target: str,
+    default_source: str = "sk",
+) -> dict[str, str]:
+    unique = list(dict.fromkeys(text for text in texts if build.looks_user_visible(text)))
+    result: dict[str, str] = {}
+    groups: dict[str, list[tuple[str, build.ProtectedText]]] = {"sk": [], "cs": []}
+
+    for original in unique:
+        source = build.detect_language(original, default_source)
+        if source == target:
+            result[original] = original
+            continue
+        manual = build.MANUAL.get((source, target, original.strip()))
+        if manual is not None:
+            result[original] = original.replace(original.strip(), manual)
+            continue
+        key = self.key(source, target, original)
+        if key in self.memory:
+            result[original] = self.memory[key]
+            continue
+        groups[source].append((original, build.protect(original)))
+
+    if any(groups.values()):
+        self._load_model()
+
+    for source, entries in groups.items():
+        if not entries:
+            continue
+        assert self.tokenizer is not None and self.model is not None and self.torch is not None
+        self.tokenizer.src_lang = build.SOURCES[source]
+        forced = self.tokenizer.convert_tokens_to_ids(build.TARGETS[target])
+        batch_size = 16
+
+        for offset in range(0, len(entries), batch_size):
+            batch = entries[offset:offset + batch_size]
+            encoded = self.tokenizer(
+                [item.protected for _, item in batch],
+                return_tensors="pt",
+                padding=True,
+                truncation=True,
+                max_length=512,
+            )
+            with self.torch.no_grad():
+                generated = self.model.generate(
+                    **encoded,
+                    forced_bos_token_id=forced,
+                    max_new_tokens=512,
+                )
+            outputs = self.tokenizer.batch_decode(generated, skip_special_tokens=True)
+
+            for (original, item), translated in zip(batch, outputs):
+                translated = build.restore(translated, item.values)
+                if not translated.strip():
+                    translated = original
+                result[original] = translated
+                self.memory[self.key(source, target, original)] = translated
+
+            build.save_memory(self.memory)
+            print(
+                f"translated {target}: {min(offset + len(batch), len(entries))}/{len(entries)} from {source}",
+                flush=True,
+            )
+
+    return result
+
+
+def _patch_locale_runtime(root: Path, lang: str) -> None:
+    index = root / "index.html"
+    if index.exists():
+        text = index.read_text("utf-8")
+        text = re.sub(
+            r"Intl\.DateTimeFormat\((['\"])cs-CZ\1",
+            lambda match: f"Intl.DateTimeFormat({match.group(1)}{'sk-SK' if lang == 'sk' else 'cs-CZ'}{match.group(1)}",
+            text,
+        )
+        if lang == "sk":
+            text = re.sub(
+                r"(localeCompare\([^,]+,\s*)(['\"])cs\2",
+                r"\1'sk'",
+                text,
+            )
+        index.write_text(text, "utf-8")
+
+    manifest = root / "manifest.webmanifest"
+    if manifest.exists():
+        data = json.loads(manifest.read_text("utf-8"))
+        data["lang"] = lang
+        data["start_url"] = "./"
+        data["scope"] = "../"
+        data["id"] = "../"
+        manifest.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")) + "\n", "utf-8")
+
+    sw = root / "sw.js"
+    if sw.exists():
+        text = sw.read_text("utf-8")
+        text = text.replace("'slovak-ui.js',", "").replace(",'slovak-ui.js'", "").replace("'slovak-ui.js'", "")
+        text = re.sub(r",\s*,", ",", text)
+        old = ".filter(k=>k!==CACHE)"
+        guard = (
+            ".filter(k=>k!==CACHE&&"
+            f"(!/-(?:sk|cs)$/.test(k)||k.endsWith('-{lang}')))"
+            "/*VEDATOR_LOCALE_CACHE_GUARD*/"
+        )
+        if old in text:
+            text = text.replace(old, guard, 1)
+        if "VEDATOR_LOCALE_CACHE_GUARD" not in text:
+            raise RuntimeError(f"Could not patch locale cache cleanup in {sw}")
+        if "language-switch.css" not in text or "language-switch.js" not in text:
+            raise RuntimeError(f"Language switch assets are not cached in {sw}")
+        if "slovak-ui.js" in text:
+            raise RuntimeError(f"Legacy DOM translator is still injected by {sw}")
+        sw.write_text(text, "utf-8")
+
+
+def _write_root_files() -> None:
+    source_icon = build.SOURCE / "icon.svg"
+    if source_icon.exists():
+        (build.ROOT / "icon.svg").write_bytes(source_icon.read_bytes())
+
+    root_manifest = {
+        "name": "Vedátorský podcast",
+        "short_name": "Vedátor",
+        "lang": "sk",
+        "id": "./",
+        "start_url": "./",
+        "scope": "./",
+        "display": "standalone",
+        "background_color": "#111827",
+        "theme_color": "#111827",
+        "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}],
+    }
+    (build.ROOT / "manifest.webmanifest").write_text(
+        json.dumps(root_manifest, ensure_ascii=False, separators=(",", ":")) + "\n",
+        "utf-8",
+    )
+
+    (build.ROOT / "sw.js").write_text(
+        """const OLD_CACHE=/^(?:vedator-test|vedator-temata)(?!.*-(?:sk|cs)$)/;\n"""
+        """self.addEventListener('install',event=>{self.skipWaiting()});\n"""
+        """self.addEventListener('activate',event=>event.waitUntil((async()=>{"""
+        """for(const key of await caches.keys())if(OLD_CACHE.test(key))await caches.delete(key);"""
+        """await self.clients.claim();await self.registration.unregister()})()));\n""",
+        "utf-8",
+    )
+
+    (build.ROOT / "index.html").write_text(
+        """<!doctype html><html lang="sk"><head><meta charset="utf-8">"""
+        """<meta name="viewport" content="width=device-width,initial-scale=1">"""
+        """<meta name="theme-color" content="#111827"><link rel="manifest" href="manifest.webmanifest">"""
+        """<link rel="icon" href="icon.svg" type="image/svg+xml"><title>Vedátorský podcast</title>"""
+        """<script>(async()=>{try{if('serviceWorker'in navigator){const r=await navigator.serviceWorker.register('./sw.js',{scope:'./'});r.update().catch(()=>{})}}catch(e){}"""
+        """const saved=localStorage.getItem('vedator-language');const lang=saved==='cs'?'cs':'sk';"""
+        """location.replace('./'+lang+'/'+location.search+location.hash)})();</script></head><body></body></html>\n""",
+        "utf-8",
+    )
+
+
+def _main() -> None:
+    if not build.SOURCE.exists():
+        raise SystemExit(f"Missing source checkout: {build.SOURCE}")
+
+    requested = [part.strip() for part in os.environ.get("VEDATOR_LANGS", "sk,cs").split(",") if part.strip()]
+    languages = [lang for lang in requested if lang in {"sk", "cs"}]
+    if not languages:
+        raise SystemExit("VEDATOR_LANGS must contain sk and/or cs")
+
+    memory = build.load_memory()
+    translator = build.Translator(memory)
+
+    for lang in languages:
+        target = build.ROOT / lang
+        build.copy_source(target)
+        build.process_tree(target, translator, lang)
+        build.patch_locale_build(target, lang)
+        _patch_locale_runtime(target, lang)
+        build.save_memory(memory)
+
+    _write_root_files()
+    build.save_memory(memory)
+
+
 build.find_template_expr_end = _find_template_expr_end
 build.find_js_strings = _find_js_strings
+build.translate_js = _translate_js
 build.Translator._load_model = _fast_load_model
+build.Translator.translate_many = _resilient_translate_many
 
 if __name__ == "__main__":
-    build.main()
+    _main()
