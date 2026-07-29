@@ -24,7 +24,6 @@
     "Doufají, že bude existovat společná logika jazyka, i když ne slovní zásoba.": "Doufají, že bude existovat společná logika jazyka, i když ne slovní zásoba.",
     "Některé pozemské jazyky nemají minulý/budoucí čas nebo rekurenci — mimozemské mohou být ještě odlišnější.": "Některé pozemské jazyky nemají minulý/budoucí čas nebo rekurenci — mimozemské mohou být ještě odlišnější.",
     "Možná nás už mimozemšťané sledují, ale nejsme schopni jejich signály rozpoznat (přirovnání k gravitačním vlnám).": "Možná nás už mimozemšťané sledují, ale nejsme schopni jejich signály rozpoznat (přirovnání k gravitačním vlnám).",
-    "2) Existujú farebné galaxie?": "2) Existujú farebné galaxie?",
     "Vzdálené galaxie vypadají červeně kvůli červenému posuvu.": "Vzdálené galaxie vypadají červeně kvůli červenému posuvu.",
     "Mladý vesmír → galaxie byly modré (mladé hvězdy).": "Mladý vesmír → galaxie byly modré (mladé hvězdy).",
     "Dnes jsou spíše do červena.": "Dnes jsou spíše do červena.",
@@ -44,7 +43,6 @@
     "Existuje mnoho modelů: vesmír se zmenšoval a odrazil, byl „zaseknutý“ a pak se rozbalil, nebo vznikl spolu s časem.": "Existuje mnoho modelů: vesmír se zmenšoval a odrazil, byl „zaseknutý“ a pak se rozbalil, nebo vznikl spolu s časem.",
     "Zmiňují knihu Before the Big Bang a podcast Seana Carrolla.": "Zmiňují knihu Before the Big Bang a podcast Seana Carrolla.",
     "Budoucí detektor LISA může přinést zásadní poznatky o raném vesmíru.": "Budoucí detektor LISA může přinést zásadní poznatky o raném vesmíru.",
-    "6) Akými zákonmi by ste ohradili/regulovali AI?": "6) Akými zákonmi by ste ohradili/regulovali AI?",
     "Právník v publiku: AI by měla mít kill switch.": "Právník v publiku: AI by měla mít kill switch.",
     "Problém: trénování na ukradeném obsahu.": "Problém: trénování na ukradeném obsahu.",
     "Problém: osobní údaje v trénovacích datech.": "Problém: osobní údaje v trénovacích datech.",
@@ -67,7 +65,6 @@
     "AI může optimalizovat plýtvání energií a potravinami.": "AI může optimalizovat plýtvání energií a potravinami.",
     "Stromy vážou CO₂ do půdy.": "Stromy vážou CO₂ do půdy.",
     "Geoengineering (odrážení světla) je riskantní.": "Geoengineering (odrážení světla) je riskantní.",
-    "9) Ako vznikli Saturnove prstence? Kedy zaniknú?": "9) Ako vznikli Saturnove prstence? Kedy zaniknú?",
     "Nevíme přesně.": "Nevíme přesně.",
     "Prstence jsou dynamické, nestabilní.": "Prstence jsou dynamické, nestabilní.",
     "Jsou trhané slapovými silami.": "Jsou trhané slapovými silami.",
@@ -83,28 +80,6 @@
     "Mají 3–4 nenastříhané epizody.": "Mají 3–4 nenastříhané epizody.",
     "Do konce roku chtějí vydat alespoň jednu nebo dvě.": "Do konce roku chtějí vydat alespoň jednu nebo dvě.",
     "(?=\\s|$)": "(?=\\s|$)",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\">": "<div class=\"summary-block\"><div class=\"summary-time\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "<div class=\"summary-note\">Shrnutí vychází z časových kapitol vytvořených pro video.</div></div></details>": "<div class=\"summary-note\">Shrnutí vychází z časových kapitol vytvořených pro video.</div>",
-    "<div class=\"status\"><strong>Katalog se nepodařilo načíst.</strong><br>": "<div class=\"status\"><strong>Katalog se nepodařilo načíst.</strong><br/></div>",
-    "<div class=\"status\">Nic jsem nenašel.</div>": "<div class=\"status\">Nic jsem nenašel.</div>",
-    "<div class=\"date\">": "<div class=\"date\"></div>",
-    "</h2><div class=\"desc\">": "<div class=\"desc\"></div>",
-    "</div><div class=\"tags\">": "<div class=\"tags\"></div>",
-    "<span class=\"tag\">": "<span class=\"tag\"></span>",
-    "</div><div class=\"links\">": "<div class=\"links\"></div>",
-    "<a class=\"primary\" href=\"": "<a class=\"primary\" href=\"",
-    "\" target=\"_blank\" rel=\"noopener\">Přehrát</a>": "\" target=\"_blank\" rel=\"noopener\"&gt;Přehrát",
-    "<a class=\"secondary\" href=\"": "<a class=\"secondary\" href=\"",
-    "\" target=\"_blank\" rel=\"noopener\">Detail dílu</a></div>": "\" target=\"_blank\" rel=\"noopener\"&gt;Detail dílu",
-    "<details class=\"series-card\"><summary><span>": "<details class=\"series-card\"><summary><span></span></summary></details>",
-    "</span><span class=\"series-count\">": "<span class=\"series-count\"></span>",
-    " dílů</span></summary><div class=\"series-body\"><ol>": " dílů<div class=\"series-body\"><ol></ol></div>",
-    "<li><a href=\"": "<li></li>",
-    "\" target=\"_blank\" rel=\"noopener\">": "\" target=\"_blank\" rel=\"noopener\">",
-    "<span class=\"person-name\">": "<span class=\"person-name\"></span>",
-    "</span><span class=\"episode-title\">": "<span class=\"episode-title\"></span>",
     "(display-mode: standalone)": "(display-mode: standalone)",
     "V Safari klepněte na Sdílet a potom na Přidat na plochu.": "V Safari klepněte na Sdílet a potom na Přidat na plochu.",
     "Instalaci otevřete v nabídce prohlížeče a zvolte Instalovat aplikaci nebo Přidat na plochu.": "Instalaci otevřete v nabídce prohlížeče a zvolte Instalovat aplikaci nebo Přidat na plochu.",
@@ -115,10 +90,12 @@
     "7) Prečo majú niektoré objekty vysokú excentricitu? Prečo medzi Marsom a Jupiterom nevznikla planéta?": "7) Proč mají některé objekty vysokou excentricitu? Proč mezi Marsem a Jupiterem nevznikla planeta?",
     "8) Aké technológie môžu pomôcť odvrátiť klimatickú krízu?": "8) Jaké technologie mohou pomoci odvrátit klimatickou krizi?",
     "10) Zmenia sa súhvezdia v budúcnosti?": "10) Změní se souhvězdí v budoucnu?",
-    "11) Kedy budú ďalšie rozhovory o vesmíre s Norbym?": "11) Kdy budou další rozhovory o vesmíru s Norbym?"
+    "11) Kedy budú ďalšie rozhovory o vesmíre s Norbym?": "11) Kdy budou další rozhovory o vesmíru s Norbym?",
+    "2) Existujú farebné galaxie?": "2) Existují barevné galaxie?",
+    "6) Akými zákonmi by ste ohradili/regulovali AI?": "6) Jakými zákony byste ohradili/regulovali AI?",
+    "9) Ako vznikli Saturnove prstence? Kedy zaniknú?": "9) Jak vznikly Saturnovy prstence? Kdy zaniknou?"
   },
   "audio-player.js": {
-    "\n    <div class=\"vedator-audio-modal__shell\">\n      <div class=\"vedator-audio-modal__bar\">\n        <button class=\"vedator-audio-modal__back\" type=\"button\" aria-label=\"Zavřít\">←</button>\n        <div class=\"vedator-audio-modal__title\">Vedátorský podcast</div>\n      </div>\n      <div class=\"vedator-audio-modal__content\">\n        <div class=\"vedator-audio-card\">\n          <div class=\"vedator-audio-card__kicker\">Vedátorský podcast</div>\n          <div class=\"vedator-audio-card__title\"></div>\n          <div class=\"vedator-audio-seek-box\">\n            <div class=\"vedator-audio-seek-label\">Přesný posun v epizodě</div>\n            <input class=\"vedator-audio-seek\" type=\"range\" min=\"0\" max=\"1\" value=\"0\" step=\"1\" disabled aria-label=\"Pozice v epizodě\">\n            <div class=\"vedator-audio-seek-times\"><span class=\"vedator-audio-current\">0:00</span><span class=\"vedator-audio-duration\">–:––</span></div>\n          </div>\n          <audio controls playsinline preload=\"metadata\"></audio>\n          <p class=\"vedator-audio-card__help\">Pozice se ukládá do tohoto zařízení. Při příštím spuštění bude epizoda pokračovat od posledního místa.</p>\n        </div>\n      </div>\n    </div>": "\n<div class=\"vedator-audio-modal__shell\">\n<div class=\"vedator-audio-modal__bar\">\n<button aria-label=\"Zavřít\" class=\"vedator-audio-modal__back\" type=\"button\">←</button>\n<div class=\"vedator-audio-modal__title\">Vedátorský podcast</div>\n</div>\n<div class=\"vedator-audio-modal__content\">\n<div class=\"vedator-audio-card\">\n<div class=\"vedator-audio-card__kicker\">Vedátorský podcast</div>\n<div class=\"vedator-audio-card__title\"></div>\n<div class=\"vedator-audio-seek-box\">\n<div class=\"vedator-audio-seek-label\">Přesný posun v epizodě</div>\n<input aria-label=\"Pozice v epizodě\" class=\"vedator-audio-seek\" disabled=\"\" max=\"1\" min=\"0\" step=\"1\" type=\"range\" value=\"0\"/>\n<div class=\"vedator-audio-seek-times\"><span class=\"vedator-audio-current\">0:00</span><span class=\"vedator-audio-duration\">–:––</span></div>\n</div>\n<audio controls=\"\" playsinline=\"\" preload=\"metadata\"></audio>\n<p class=\"vedator-audio-card__help\">Pozice se ukládá do tohoto zařízení. Při příštím spuštění bude epizoda pokračovat od posledního místa.</p>\n</div>\n</div>\n</div>",
     "Přehrát": "Přehrát",
     "✓ Poslechnuto": "✓ Poslechnuto",
     "▶ Rozposloucháno": "▶ Rozposloucháno",
@@ -141,8 +118,6 @@
     "Vyhledávání: ": "Vyhledávání: ",
     "Téma: ": "Téma: ",
     "Série": "Série",
-    "<h2></h2><div class=\"links\"><a class=\"primary\"></a></div>": "<h2></h2><div class=\"links\"><a class=\"primary\"></a></div>",
-    "\n      <div class=\"vedator-custom-main\">\n        <button class=\"vedator-custom-btn prev\" type=\"button\" aria-label=\"Předchozí díl\"><span class=\"vedator-custom-icon\">◀|</span><span class=\"vedator-custom-label\">Předchozí</span></button>\n        <button class=\"vedator-custom-btn back10\" type=\"button\" aria-label=\"O 10 sekund zpět\"><span class=\"vedator-custom-icon\">↶</span><span class=\"vedator-custom-label\">−10 s</span></button>\n        <button class=\"vedator-custom-btn main play\" type=\"button\" aria-label=\"Přehrát\"><span class=\"vedator-custom-icon\">▶</span><span class=\"vedator-custom-label\">Přehrát</span></button>\n        <button class=\"vedator-custom-btn forward10\" type=\"button\" aria-label=\"O 10 sekund dopředu\"><span class=\"vedator-custom-icon\">↷</span><span class=\"vedator-custom-label\">+10 s</span></button>\n        <button class=\"vedator-custom-btn next\" type=\"button\" aria-label=\"Další díl\"><span class=\"vedator-custom-icon\">|▶</span><span class=\"vedator-custom-label\">Další</span></button>\n      </div>\n      <div class=\"vedator-custom-secondary\">\n        <button class=\"vedator-custom-btn download\" type=\"button\"><span>⇩</span><span class=\"download-label\">Stáhnout</span></button>\n        <button class=\"vedator-custom-btn speed\" type=\"button\"><span>Rychlost</span><span class=\"speed-value\">1×</span></button>\n      </div>": "\n<div class=\"vedator-custom-main\">\n<button aria-label=\"Předchozí díl\" class=\"vedator-custom-btn prev\" type=\"button\"><span class=\"vedator-custom-icon\">◀|</span><span class=\"vedator-custom-label\">Předchozí</span></button>\n<button aria-label=\"O 10 sekund zpět\" class=\"vedator-custom-btn back10\" type=\"button\"><span class=\"vedator-custom-icon\">↶</span><span class=\"vedator-custom-label\">−10 s</span></button>\n<button aria-label=\"Přehrát\" class=\"vedator-custom-btn main play\" type=\"button\"><span class=\"vedator-custom-icon\">▶</span><span class=\"vedator-custom-label\">Přehrát</span></button>\n<button aria-label=\"O 10 sekund dopředu\" class=\"vedator-custom-btn forward10\" type=\"button\"><span class=\"vedator-custom-icon\">↷</span><span class=\"vedator-custom-label\">+10 s</span></button>\n<button aria-label=\"Další díl\" class=\"vedator-custom-btn next\" type=\"button\"><span class=\"vedator-custom-icon\">|▶</span><span class=\"vedator-custom-label\">Další</span></button>\n</div>\n<div class=\"vedator-custom-secondary\">\n<button class=\"vedator-custom-btn download\" type=\"button\"><span>⇩</span><span class=\"download-label\">Stáhnout</span></button>\n<button class=\"vedator-custom-btn speed\" type=\"button\"><span>Rychlost</span><span class=\"speed-value\">1×</span></button>\n</div>",
     "Přehrát": "Přehrát",
     "Pozastavit": "Pozastavit",
     "Připravuji…": "Připravuji…",
@@ -159,7 +134,6 @@
     "Neplatné údaje playlistov.": "Neplatné údaje playlistov.",
     " playlistami?\\n\\nSúčasné údaje v tomto zariadení budú nahradené.": " playlistami?\\n\\nSúčasné údaje v tomto zariadení budú nahradené.",
     "Import bol zrušený.": "Import byl zrušen.",
-    "\n    <div class=\"vedator-data-card\">\n      <h2>Záloha dát aplikácie</h2>\n      <p>Uložte si rozpočúvané a vypočuté epizódy spolu s vlastnými playlistami do jedného JSON súboru. Súbor sa vytvorí priamo v tomto zariadení a nikam sa neodosiela.</p>\n      <div class=\"vedator-data-actions\">\n        <button class=\"vedator-data-button primary vedator-data-export\" type=\"button\">Stiahnuť zálohu</button>\n        <button class=\"vedator-data-button vedator-data-import\" type=\"button\">Načítať zálohu</button>\n      </div>\n      <input class=\"vedator-data-file\" type=\"file\" accept=\"application/json,.json\" hidden>\n      <div class=\"vedator-data-note\"><strong>Súkromie:</strong> export aj import prebiehajú iba lokálne v prehliadači. Žiadne údaje sa neposielajú na žiadny server.</div>\n      <div class=\"vedator-data-status\" aria-live=\"polite\"></div>\n    </div>": "\n<div class=\"vedator-data-card\">\n<h2>Záloha dát aplikácie</h2>\n<p>Uložte si vyslýchané a poslechnuté epizody spolu s vlastními playlisty do jednoho JSON souboru. Soubor se vytvoří přímo v tomto zařízení a nikam se neodesílá.</p>\n<div class=\"vedator-data-actions\">\n<button class=\"vedator-data-button primary vedator-data-export\" type=\"button\">Stiahnuť zálohu</button>\n<button class=\"vedator-data-button vedator-data-import\" type=\"button\">Načítať zálohu</button>\n</div>\n<input accept=\"application/json,.json\" class=\"vedator-data-file\" hidden=\"\" type=\"file\"/>\n<div class=\"vedator-data-note\"><strong>Soukromí:</strong>export i import probíhají pouze lokálně v prohlížeči. Žádná data se neposílají na žádný server.</div>\n<div aria-live=\"polite\" class=\"vedator-data-status\"></div>\n</div>",
     "Tento súbor nie je záloha aplikácie Vedátor.": "Tento soubor není záloha aplikace Vedátor.",
     "Táto verzia zálohy nie je podporovaná.": "Tato verze zálohy není podporována.",
     "Záloha bola úspešne načítaná. Aplikácia sa obnoví…": "Záloha byla úspěšně načtena. Aplikace se obnoví…",
@@ -397,15 +371,7 @@
     "Jaká gravitace by byla v kulaté místnosti uprostřed Země?": "Jaká gravitace by byla v kulaté místnosti uprostřed Země?",
     "Gravitační účinky okolních vrstev Země by se navzájem vyrušily.": "Gravitační účinky okolních vrstev Země by se navzájem vyrušily.",
     "Přesně ve středu by člověk necítil žádnou výslednou gravitaci a vznášel by se.": "Přesně ve středu by člověk necítil žádnou výslednou gravitaci a vznášel by se.",
-    "Šlo by o velmi čistý stav beztíže, přestože by se kolem nacházela obrovská hmota.": "Šlo by o velmi čistý stav beztíže, přestože by se kolem nacházela obrovská hmota.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Šlo by o velmi čistý stav beztíže, přestože by se kolem nacházela obrovská hmota.": "Šlo by o velmi čistý stav beztíže, přestože by se kolem nacházela obrovská hmota."
   },
   "episode-112-summary.js": {
     "Jsou všechny vitamíny zdravé a dá se jimi předávkovat?": "Jsou všechny vitamíny zdravé a dá se jimi předávkovat?",
@@ -487,15 +453,7 @@
     "Je film K zemi hleď! realistický?": "Je film K zemi hleď! realistický?",
     "Podle nich velmi věrně ukazuje, jak obtížně se vědecká varování dostávají k veřejnosti a politikům.": "Podle nich velmi věrně ukazuje, jak obtížně se vědecká varování dostávají k veřejnosti a politikům.",
     "Lidé mohou vážnou hrozbu ignorovat, zlehčovat nebo proměnit v mediální a politické téma.": "Lidé mohou vážnou hrozbu ignorovat, zlehčovat nebo proměnit v mediální a politické téma.",
-    "Film vnímají jako nadsázku, která ale vychází z reálných zkušeností například s klimatickou krizí.": "Film vnímají jako nadsázku, která ale vychází z reálných zkušeností například s klimatickou krizí.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Film vnímají jako nadsázku, která ale vychází z reálných zkušeností například s klimatickou krizí.": "Film vnímají jako nadsázku, která ale vychází z reálných zkušeností například s klimatickou krizí."
   },
   "episode-119-summary.js": {
     "Co je „blbá otázka“?": "Co je „blbá otázka“?",
@@ -553,15 +511,7 @@
     "Proč je Měsíc někdy menší nebo větší?": "Proč je Měsíc někdy menší nebo větší?",
     "Jeho dráha kolem Země není dokonale kruhová, takže se jeho skutečná zdánlivá velikost mírně mění.": "Jeho dráha kolem Země není dokonale kruhová, takže se jeho skutečná zdánlivá velikost mírně mění.",
     "Mnohem výraznější je měsíční iluze: u obzoru vypadá Měsíc větší, protože jej porovnáváme s krajinou a budovami.": "Mnohem výraznější je měsíční iluze: u obzoru vypadá Měsíc větší, protože jej porovnáváme s krajinou a budovami.",
-    "Označení „superměsíc“ obvykle popisuje jen poměrně malý rozdíl, kterého si člověk bez přímého porovnání nemusí všimnout.": "Označení „superměsíc“ obvykle popisuje jen poměrně malý rozdíl, kterého si člověk bez přímého porovnání nemusí všimnout.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Označení „superměsíc“ obvykle popisuje jen poměrně malý rozdíl, kterého si člověk bez přímého porovnání nemusí všimnout.": "Označení „superměsíc“ obvykle popisuje jen poměrně malý rozdíl, kterého si člověk bez přímého porovnání nemusí všimnout."
   },
   "episode-128-summary.js": {
     "Jak žít s antivaxerem?": "Jak žít s antivaxerem?",
@@ -620,15 +570,7 @@
     "Dala by se přežít jízda rychlostí světla?": "Dala by se přežít jízda rychlostí světla?",
     "Pohyb velmi blízko rychlosti světla by člověk v prázdném prostoru mohl přežít, pokud by bylo zrychlení dostatečně pomalé.": "Pohyb velmi blízko rychlosti světla by člověk v prázdném prostoru mohl přežít, pokud by bylo zrychlení dostatečně pomalé.",
     "Přesně rychlosti světla ale těleso s hmotností dosáhnout nemůže, protože by potřebovalo nekonečné množství energie.": "Přesně rychlosti světla ale těleso s hmotností dosáhnout nemůže, protože by potřebovalo nekonečné množství energie.",
-    "Při pohybu rychlostí světla by navíc přestával dávat běžný smysl vlastní časový rámec, což se týká pouze bezhmotných částic, například fotonů.": "Při pohybu rychlostí světla by navíc přestával dávat běžný smysl vlastní časový rámec, což se týká pouze bezhmotných částic, například fotonů.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Při pohybu rychlostí světla by navíc přestával dávat běžný smysl vlastní časový rámec, což se týká pouze bezhmotných částic, například fotonů.": "Při pohybu rychlostí světla by navíc přestával dávat běžný smysl vlastní časový rámec, což se týká pouze bezhmotných částic, například fotonů."
   },
   "episode-133-summary.js": {
     "Proč projde světlo přes tři pootočené polarizační filtry?": "Proč projde světlo přes tři pootočené polarizační filtry?",
@@ -673,15 +615,7 @@
     "Supermasivní černé díry se mohou spojovat při srážkách galaxií.": "Supermasivní černé díry se mohou spojovat při srážkách galaxií.",
     "Pokud se člověk nachází pod horizontem událostí, uniknout nemůže ani během spojení.": "Pokud se člověk nachází pod horizontem událostí, uniknout nemůže ani během spojení.",
     "Nejasný je hlavně „problém posledního parseku“ – jak se dvě černé díry dostanou z malé vzájemné vzdálenosti až ke konečné srážce.": "Nejasný je hlavně „problém posledního parseku“ – jak se dvě černé díry dostanou z malé vzájemné vzdálenosti až ke konečné srážce.",
-    "Jejich spojení by vytvářelo velmi silné gravitační vlny.": "Jejich spojení by vytvářelo velmi silné gravitační vlny.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Jejich spojení by vytvářelo velmi silné gravitační vlny.": "Jejich spojení by vytvářelo velmi silné gravitační vlny."
   },
   "episode-138-summary.js": {
     "Jak spojit kvantovou fyziku s gravitací?": "Jak spojit kvantovou fyziku s gravitací?",
@@ -726,15 +660,7 @@
     "Základní fyzikální rovnice většinou fungují podobně dopředu i dozadu v čase.": "Základní fyzikální rovnice většinou fungují podobně dopředu i dozadu v čase.",
     "V běžném světě ale pozorujeme nevratné děje.": "V běžném světě ale pozorujeme nevratné děje.",
     "Směr času se spojuje s růstem entropie podle druhého termodynamického zákona.": "Směr času se spojuje s růstem entropie podle druhého termodynamického zákona.",
-    "Hlubší otázkou zůstává, proč měl raný vesmír tak nízkou entropii.": "Hlubší otázkou zůstává, proč měl raný vesmír tak nízkou entropii.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Hlubší otázkou zůstává, proč měl raný vesmír tak nízkou entropii.": "Hlubší otázkou zůstává, proč měl raný vesmír tak nízkou entropii."
   },
   "episode-143-summary.js": {
     "Existuje přesná GPS poloha místa, kde byl objeven Higgsův boson?": "Existuje přesná GPS poloha místa, kde byl objeven Higgsův boson?",
@@ -777,15 +703,7 @@
     "Je dobré zjistit co nejdříve, zda člověka zvolená škola a obor skutečně baví.": "Je dobré zjistit co nejdříve, zda člověka zvolená škola a obor skutečně baví.",
     "Začátek vysoké školy bývá náročný, ale většina studentů si postupně zvykne.": "Začátek vysoké školy bývá náročný, ale většina studentů si postupně zvykne.",
     "Pomáhá hledat kontakty, ptát se starších studentů a nebát se oslovit učitele.": "Pomáhá hledat kontakty, ptát se starších studentů a nebát se oslovit učitele.",
-    "Pro prvňáky na základní škole radí školu příliš neprožívat, užívat si ji a netrávit celý den na mobilu.": "Pro prvňáky na základní škole radí školu příliš neprožívat, užívat si ji a netrávit celý den na mobilu.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Pro prvňáky na základní škole radí školu příliš neprožívat, užívat si ji a netrávit celý den na mobilu.": "Pro prvňáky na základní škole radí školu příliš neprožívat, užívat si ji a netrávit celý den na mobilu."
   },
   "episode-158-summary.js": {
     "Chystají podcast o nepovedených vesmírných misích?": "Chystají podcast o nepovedených vesmírných misích?",
@@ -1028,15 +946,7 @@
     "Jak by měla vypadat dokonalá společnost?": "Jak by měla vypadat dokonalá společnost?",
     "Dokonalé společnosti podle nich nelze definitivně dosáhnout.": "Dokonalé společnosti podle nich nelze definitivně dosáhnout.",
     "Společnost by se ale měla průběžně zlepšovat a nikdy si neříkat, že už dosáhla konečného ideálu.": "Společnost by se ale měla průběžně zlepšovat a nikdy si neříkat, že už dosáhla konečného ideálu.",
-    "Na Slovensku by uvítali více vzájemné důvěry, méně závisti a více ochoty pomáhat.": "Na Slovensku by uvítali více vzájemné důvěry, méně závisti a více ochoty pomáhat.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Na Slovensku by uvítali více vzájemné důvěry, méně závisti a více ochoty pomáhat.": "Na Slovensku by uvítali více vzájemné důvěry, méně závisti a více ochoty pomáhat."
   },
   "episode-17-summary.js": {
     "Aký majú názor na teóriu inteligentného dizajnu?": "Aký majú názor na teóriu inteligentného dizajnu?",
@@ -1051,16 +961,7 @@
     "Existuje normálna rýchlosť plynutia času vo vesmíre?": "Existuje normálna rýchlosť plynutia času vo vesmíre?",
     "Potrebná je aj čistejšia výroba elektriny a rozvoj verejnej dopravy.": "Potrebná je aj čistejšia výroba elektriny a rozvoj verejnej dopravy.",
     "Obrázky nevychádzajú z konkrétneho umeleckého štýlu alebo vzoru.": "Obrázky nevychádzajú z konkrétneho umeleckého štýlu alebo vzoru.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"": "<div class=\"summary-block\"",
     " data-end=\"": " data-end=\"",
-    "><div class=\"summary-time\" data-vedator-preroll=\"0\">": "&gt;<div class=\"summary-time\" data-vedator-preroll=\"0\"></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": "",
     "Ako vyzerá bežný deň vedátora a s akými kurióznymi situáciami sa stretáva?": "Jak vypadá běžný den vědátora a s jakými kuriózními situacemi se setkává?",
     "Bežný deň pozostáva najmä z čítania odborných článkov, programovania simulácií, výpočtov a vyhodnocovania výsledkov.": "Běžný den se skládá zejména ze čtení odborných článků, programování simulací, výpočtů a vyhodnocování výsledků.",
     "Zaujímavý nie je vždy samotný spôsob práce, ale najmä výsledky a nové poznatky.": "Zajímavý není vždy samotný způsob práce, ale zejména výsledky a nové poznatky.",
@@ -1174,15 +1075,7 @@
     "Jak se mají?": "Jak se mají?",
     "Jozef je pracovně vytížený, ale dobře se vyspal a těší se, že znovu začne běhat.": "Jozef je pracovně vytížený, ale dobře se vyspal a těší se, že znovu začne běhat.",
     "Samuel se po dokončení knihy vrátil k výzkumu.": "Samuel se po dokončení knihy vrátil k výzkumu.",
-    "Podařilo se mu ověřit nápad, na kterém chtěl delší dobu pracovat.": "Podařilo se mu ověřit nápad, na kterém chtěl delší dobu pracovat.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Podařilo se mu ověřit nápad, na kterém chtěl delší dobu pracovat.": "Podařilo se mu ověřit nápad, na kterém chtěl delší dobu pracovat."
   },
   "episode-179-summary.js": {
     "Z jaké výšky může spadnout kočka a přežít?": "Z jaké výšky může spadnout kočka a přežít?",
@@ -1232,19 +1125,9 @@
     "Co jim v poslední době udělalo radost?": "Co jim v poslední době udělalo radost?",
     "Jozefa těší natáčení podcastu se Samuelem a běhání v lese.": "Jozefa těší natáčení podcastu se Samuelem a běhání v lese.",
     "Samuel má radost z jara, zeleně a první úrody na zahradě.": "Samuel má radost z jara, zeleně a první úrody na zahradě.",
-    "Oba vnímají pobyt v přírodě jako důležitou součást kvalitního života.": "Oba vnímají pobyt v přírodě jako důležitou součást kvalitního života.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Oba vnímají pobyt v přírodě jako důležitou součást kvalitního života.": "Oba vnímají pobyt v přírodě jako důležitou součást kvalitního života."
   },
-  "episode-190-218-226-chapters.js": {
-    "<button type=\"button\" class=\"vedator-question-btn previous-question\">← Předchozí otázka</button><button type=\"button\" class=\"vedator-question-btn next-question\">Další otázka →</button>": "<button class=\"vedator-question-btn previous-question\" type=\"button\">← Předchozí otázka</button><button class=\"vedator-question-btn next-question\" type=\"button\">Další otázka →</button>"
-  },
+  "episode-190-218-226-chapters.js": {},
   "episode-190-summary.js": {
     "Jak má teleskop Euclid zkoumat temnou hmotu a temnou energii?": "Jak má teleskop Euclid zkoumat temnou hmotu a temnou energii?",
     "Euclid je nebude pozorovat přímo.": "Euclid je nebude pozorovat přímo.",
@@ -1293,15 +1176,7 @@
     "Co se fyzikálně stalo s ponorkou Titan?": "Co se fyzikálně stalo s ponorkou Titan?",
     "V hloubce kolem čtyř kilometrů na ni působil tlak přibližně 400 atmosfér.": "V hloubce kolem čtyř kilometrů na ni působil tlak přibližně 400 atmosfér.",
     "Po oslabení trupu nastala prudká imploze směrem dovnitř.": "Po oslabení trupu nastala prudká imploze směrem dovnitř.",
-    "Proces proběhl rychleji, než mohl lidský mozek situaci zaznamenat.": "Proces proběhl rychleji, než mohl lidský mozek situaci zaznamenat.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Proces proběhl rychleji, než mohl lidský mozek situaci zaznamenat.": "Proces proběhl rychleji, než mohl lidský mozek situaci zaznamenat."
   },
   "episode-203-summary.js": {
     "Proč na rovníku necítíme odstředivou sílu ani sonický třesk z rotace Země?": "Proč na rovníku necítíme odstředivou sílu ani sonický třesk z rotace Země?",
@@ -1358,15 +1233,7 @@
     "Na co se právě těší?": "Na co se právě těší?",
     "Samuel se těší především na klidný podzimní víkend, odpočinek a běhání v lese.": "Samuel se těší především na klidný podzimní víkend, odpočinek a běhání v lese.",
     "Jozef se těší na podzim, cestování a plánované výlety.": "Jozef se těší na podzim, cestování a plánované výlety.",
-    "Mluví také o tom, že je dobré těšit se na blízké a konkrétní věci.": "Mluví také o tom, že je dobré těšit se na blízké a konkrétní věci.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Mluví také o tom, že je dobré těšit se na blízké a konkrétní věci.": "Mluví také o tom, že je dobré těšit se na blízké a konkrétní věci."
   },
   "episode-211-summary.js": {
     "Kde nastal velký třesk?": "Kde nastal velký třesk?",
@@ -1521,15 +1388,7 @@
     "Přitom vyzařuje odpadní teplo, takže celková entropie vesmíru stále roste.": "Přitom vyzařuje odpadní teplo, takže celková entropie vesmíru stále roste.",
     "Jak se mají?": "Jak se mají?",
     "Oba se mají dobře a těší se na Vánoce.": "Oba se mají dobře a těší se na Vánoce.",
-    "Snaží se nechávat si prosinec volnější, aby konec roku nebyl příliš hektický.": "Snaží se nechávat si prosinec volnější, aby konec roku nebyl příliš hektický.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Snaží se nechávat si prosinec volnější, aby konec roku nebyl příliš hektický.": "Snaží se nechávat si prosinec volnější, aby konec roku nebyl příliš hektický."
   },
   "episode-218-summary.js": {
     "Je úspornější po výjezdu z obce prudce zrychlit, nebo zrychlovat postupně?": "Je úspornější po výjezdu z obce prudce zrychlit, nebo zrychlovat postupně?",
@@ -1579,15 +1438,7 @@
     "Může se v čísle π nacházet jiné iracionální číslo?": "Může se v čísle π nacházet jiné iracionální číslo?",
     "Není dokázáno, že desetinný rozvoj π obsahuje každou možnou nekonečnou posloupnost číslic souvisle.": "Není dokázáno, že desetinný rozvoj π obsahuje každou možnou nekonečnou posloupnost číslic souvisle.",
     "Jednotlivé číslice jiného čísla lze v π postupně hledat s různě dlouhými mezerami.": "Jednotlivé číslice jiného čísla lze v π postupně hledat s různě dlouhými mezerami.",
-    "V tomto volnějším smyslu lze jiné číslo v zápisu π najít.": "V tomto volnějším smyslu lze jiné číslo v zápisu π najít.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "V tomto volnějším smyslu lze jiné číslo v zápisu π najít.": "V tomto volnějším smyslu lze jiné číslo v zápisu π najít."
   },
   "episode-226-summary.js": {
     "Proč se starší vařené vejce loupe snadněji než čerstvé?": "Proč se starší vařené vejce loupe snadněji než čerstvé?",
@@ -1637,15 +1488,7 @@
     "Jaký objev v letech 2024–2025 by jim odpálil dekel?": "Jaký objev v letech 2024–2025 by jim odpálil dekel?",
     "Největším objevem by byl život mimo Zemi.": "Největším objevem by byl život mimo Zemi.",
     "Potvrzení mimozemského života by představovalo historický zlom pro celé lidstvo.": "Potvrzení mimozemského života by představovalo historický zlom pro celé lidstvo.",
-    "Podobně zásadní by mohl být průlom v AI, robotice nebo propojení mozku s technikou.": "Podobně zásadní by mohl být průlom v AI, robotice nebo propojení mozku s technikou.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Podobně zásadní by mohl být průlom v AI, robotice nebo propojení mozku s technikou.": "Podobně zásadní by mohl být průlom v AI, robotice nebo propojení mozku s technikou."
   },
   "episode-244-chapters.js": {
     "Existují různá „nekonečně malá“ čísla?": "Existují různá „nekonečně malá“ čísla?",
@@ -1659,8 +1502,7 @@
     "Můžeme poslat sondu do černé díry?": "Můžeme poslat sondu do černé díry?",
     "Kdy najdeme mimozemský život?": "Kdy najdeme mimozemský život?",
     "Proč světlo nemá hmotnost, když má energii?": "Proč světlo nemá hmotnost, když má energii?",
-    "Kdy bude společný běh?": "Kdy bude společný běh?",
-    "<button type=\"button\" class=\"vedator-question-btn previous-question\">← Předchozí otázka</button><button type=\"button\" class=\"vedator-question-btn next-question\">Další otázka →</button>": "<button class=\"vedator-question-btn previous-question\" type=\"button\">← Předchozí otázka</button><button class=\"vedator-question-btn next-question\" type=\"button\">Další otázka →</button>"
+    "Kdy bude společný běh?": "Kdy bude společný běh?"
   },
   "episode-244-summary.js": {
     "Existují různá „nekonečně malá“ čísla?": "Existují různá „nekonečně malá“ čísla?",
@@ -1706,15 +1548,7 @@
     "Obecný vztah mezi energií, hybností a hmotností připomíná Pythagorovu větu.": "Obecný vztah mezi energií, hybností a hmotností připomíná Pythagorovu větu.",
     "Kdy bude společný běh?": "Kdy bude společný běh?",
     "Běh Wings for Life už proběhl.": "Běh Wings for Life už proběhl.",
-    "Na podzim plánují městský běh nebo trail podle zájmu posluchačů.": "Na podzim plánují městský běh nebo trail podle zájmu posluchačů.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\">": "<div class=\"summary-block\"><div class=\"summary-time\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "<div class=\"summary-note\">Kliknutím na čas se epizoda spustí přímo u dané otázky.</div></div></details>": "<div class=\"summary-note\">Kliknutím na čas se epizoda spustí přímo u dané otázky.</div>"
+    "Na podzim plánují městský běh nebo trail podle zájmu posluchačů.": "Na podzim plánují městský běh nebo trail podle zájmu posluchačů."
   },
   "episode-248-chapters.js": {
     "Platí E = mc² pro tmavou hmotu a energii?": "Platí E = mc² pro tmavou hmotu a energii?",
@@ -1781,15 +1615,7 @@
     "Proč kýchneme, když se podíváme do Slunce": "Proč kýchneme, když se podíváme do Slunce",
     "Jde o dědičný fotický kýchací reflex.": "Jde o dědičný fotický kýchací reflex.",
     "Silné světlo podráždí nervové dráhy, které se u některých lidí propojí s kýchacím reflexem.": "Silné světlo podráždí nervové dráhy, které se u některých lidí propojí s kýchacím reflexem.",
-    "Zazněla také evoluční hypotéza, že kýchnutí venku mohlo omezovat šíření infekcí v úkrytu.": "Zazněla také evoluční hypotéza, že kýchnutí venku mohlo omezovat šíření infekcí v úkrytu.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\">": "<div class=\"summary-block\"><div class=\"summary-time\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "<div class=\"summary-note\">Kliknutím na čas se epizoda spustí přímo u dané otázky.</div></div></details>": "<div class=\"summary-note\">Kliknutím na čas se epizoda spustí přímo u dané otázky.</div>"
+    "Zazněla také evoluční hypotéza, že kýchnutí venku mohlo omezovat šíření infekcí v úkrytu.": "Zazněla také evoluční hypotéza, že kýchnutí venku mohlo omezovat šíření infekcí v úkrytu."
   },
   "episode-257-chapters.js": {
     "Točí se hvězdy kolem něčeho?": "Točí se hvězdy kolem něčeho?",
@@ -1841,15 +1667,7 @@
     "Nad touto oblastí už nejde o běžný vzduch v chemickém smyslu.": "Nad touto oblastí už nejde o běžný vzduch v chemickém smyslu.",
     "Doporučují knihu Samuraj od Šúsaku Endóa o historickém Japonsku.": "Doporučují knihu Samuraj od Šúsaku Endóa o historickém Japonsku.",
     "Zmiňují také Probably Approximately Correct od Leslieho Valianta o matematice učení a umělé inteligenci.": "Zmiňují také Probably Approximately Correct od Leslieho Valianta o matematice učení a umělé inteligenci.",
-    "Další knižní tipy lze najít v dřívějších epizodách věnovaných knihám.": "Další knižní tipy lze najít v dřívějších epizodách věnovaných knihám.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\">": "<div class=\"summary-block\"><div class=\"summary-time\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "<div class=\"summary-note\">Kliknutím na čas se epizoda spustí přímo u dané otázky.</div></div></details>": "<div class=\"summary-note\">Kliknutím na čas se epizoda spustí přímo u dané otázky.</div>"
+    "Další knižní tipy lze najít v dřívějších epizodách věnovaných knihám.": "Další knižní tipy lze najít v dřívějších epizodách věnovaných knihám."
   },
   "episode-26-summary.js": {
     "Supratekuté hélium má takmer nulovú viskozitu.": "Supratekuté hélium má takmer nulovú viskozitu.",
@@ -1890,14 +1708,6 @@
     "Pri kopírovaní vzniká približne jedna chyba na miliardu prepísaných písmen.": "Pri kopírovaní vzniká približne jedna chyba na miliardu prepísaných písmen.",
     "Jeho polomer je približne 46,5 miliardy svetelných rokov.": "Jeho polomer je približne 46,5 miliardy svetelných rokov.",
     "Vidíme iba oblasť, z ktorej k nám od vzniku vesmíru stihlo doraziť svetlo.": "Vidíme iba oblasť, z ktorej k nám od vzniku vesmíru stihlo doraziť svetlo.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\">": "<div class=\"summary-block\"><div class=\"summary-time\" data-vedator-preroll=\"0\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": "",
     "Ako je možné, že sa vesmír rozpína rýchlejšie než svetlo?": "Jak je možné, že se vesmír rozpíná rychleji než světlo?",
     "Rýchlosť svetla nemôže prekročiť žiadny objekt pohybujúci sa priestorom.": "Rychlost světla nemůže překročit žádný objekt pohybující se prostorem.",
     "Pri rozpínaní vesmíru sa však zväčšuje samotný priestor medzi objektmi.": "Při rozpínání vesmíru se však zvětšuje samotný prostor mezi objekty.",
@@ -2076,15 +1886,7 @@
     "Může hvězda vyzařovat jen infračervené světlo?": "Může hvězda vyzařovat jen infračervené světlo?",
     "Objekt vyzařující převážně infračerveně může být hnědý trpaslík.": "Objekt vyzařující převážně infračerveně může být hnědý trpaslík.",
     "Skutečné hvězdy mají dost vysokou povrchovou teplotu, aby vyzařovaly také viditelné světlo.": "Skutečné hvězdy mají dost vysokou povrchovou teplotu, aby vyzařovaly také viditelné světlo.",
-    "Hnědý trpaslík není plnohodnotná hvězda, protože v něm neprobíhá stabilní vodíková fúze.": "Hnědý trpaslík není plnohodnotná hvězda, protože v něm neprobíhá stabilní vodíková fúze.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\">": "<div class=\"summary-block\"><div class=\"summary-time\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Hnědý trpaslík není plnohodnotná hvězda, protože v něm neprobíhá stabilní vodíková fúze.": "Hnědý trpaslík není plnohodnotná hvězda, protože v něm neprobíhá stabilní vodíková fúze."
   },
   "episode-270-summary.js": {
     "Je rok 2027 prvočíslo?": "Je rok 2027 prvočíslo?",
@@ -2132,15 +1934,7 @@
     "Podobně včely určují směr pomocí úhlu ke Slunci.": "Podobně včely určují směr pomocí úhlu ke Slunci.",
     "Zazněl paradox Thésea a paradox holiče, související s Russellovým paradoxem.": "Zazněl paradox Thésea a paradox holiče, související s Russellovým paradoxem.",
     "Takové paradoxy vedly ke zpřesnění základů matematiky a teorie množin.": "Takové paradoxy vedly ke zpřesnění základů matematiky a teorie množin.",
-    "Gödelovy věty navíc ukazují, že existují pravdivá tvrzení, která v daném systému nelze dokázat.": "Gödelovy věty navíc ukazují, že existují pravdivá tvrzení, která v daném systému nelze dokázat.",
-    "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\">": "<details class=\"episode-summary\"><summary>Shrnutí dílu</summary><div class=\"episode-summary-body\"></div></details>",
-    "<div class=\"summary-block\"><div class=\"summary-time\">": "<div class=\"summary-block\"><div class=\"summary-time\"></div></div>",
-    "</div><div class=\"summary-title\">": "<div class=\"summary-title\"></div>",
-    "</div><ul>": "<ul></ul>",
-    "<li>": "<li></li>",
-    "</li>": "",
-    "</ul></div>": "",
-    "</div></details>": ""
+    "Gödelovy věty navíc ukazují, že existují pravdivá tvrzení, která v daném systému nelze dokázat.": "Gödelovy věty navíc ukazují, že existují pravdivá tvrzení, která v daném systému nelze dokázat."
   },
   "episode-272-summary.js": {
     "Co by se stalo ve středu Země?": "Co by se stalo ve středu Země?",
@@ -2596,7 +2390,6 @@
     "Hrajete ještě Magic: The Gathering?": "Hrajete ještě Magic: The Gathering?",
     "Proč tornádo nepřekročí rovník?": "Proč tornádo nepřekročí rovník?",
     "Musí se při letu počítat s rotací Země?": "Musí se při letu počítat s rotací Země?",
-    "<button type=\"button\" class=\"vedator-question-btn previous-question\">← Předchozí otázka</button><button type=\"button\" class=\"vedator-question-btn next-question\">Další otázka →</button>": "<button class=\"vedator-question-btn previous-question\" type=\"button\">← Předchozí otázka</button><button class=\"vedator-question-btn next-question\" type=\"button\">Další otázka →</button>",
     "Co je to guľový blesk?": "Co je kulový blesk?"
   },
   "episode-313-summary.js": {
