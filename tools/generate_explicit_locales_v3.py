@@ -9,12 +9,14 @@ import generate_explicit_locales_v2 as scanner
 
 base.decode_js_strings = scanner.scan_js_literals
 
-LANG = {'cs': 'ces_Latn', 'sk': 'slk_Latn'}
+TARGET_TOKEN = {'cs': 'ces', 'sk': 'slk'}
 MEMORY_PATH = base.OUT / 'translation-memory.json'
+MODEL_NAME = 'allegro/BiDi-ces-slk'
+MODEL_VERSION = 'bidi-ces-slk-v1'
 
 
-class NLLBContentTranslator:
-    """Translate only extracted content strings; application code is never passed here."""
+class BiDiContentTranslator:
+    """Translate only extracted Czech/Slovak content; application code is never passed here."""
     def __init__(self):
         self.tokenizer = None
         self.model = None
@@ -29,7 +31,7 @@ class NLLBContentTranslator:
 
     @staticmethod
     def key(source: str, target: str, value: str) -> str:
-        return f'{source}>{target}\u0000{value}'
+        return f'{MODEL_VERSION}:{source}>{target}\u0000{value}'
 
     def save(self) -> None:
         MEMORY_PATH.write_text(json.dumps(self.memory, ensure_ascii=False, indent=2) + '\n', 'utf-8')
@@ -38,10 +40,9 @@ class NLLBContentTranslator:
         if self.model is not None:
             return
         import torch
-        from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
-        name = 'facebook/nllb-200-distilled-600M'
-        self.tokenizer = AutoTokenizer.from_pretrained(name)
-        self.model = AutoModelForSeq2SeqLM.from_pretrained(name)
+        from transformers import AutoTokenizer, MarianMTModel
+        self.tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+        self.model = MarianMTModel.from_pretrained(MODEL_NAME)
         self.model.eval()
         self.torch = torch
 
@@ -65,15 +66,14 @@ class NLLBContentTranslator:
 
         self.load()
         assert self.tokenizer is not None and self.model is not None and self.torch is not None
-        self.tokenizer.src_lang = LANG[source]
-        forced = self.tokenizer.convert_tokens_to_ids(LANG[target])
+        prefix = f'>>{TARGET_TOKEN[target]}<< '
 
-        for offset in range(0, len(pending), 16):
-            batch = pending[offset:offset + 16]
+        for offset in range(0, len(pending), 24):
+            batch = pending[offset:offset + 24]
             protected, holders = [], []
             for value in batch:
                 text, held = base.protect(value)
-                protected.append(text)
+                protected.append(prefix + text)
                 holders.append(held)
             encoded = self.tokenizer(
                 protected,
@@ -85,21 +85,26 @@ class NLLBContentTranslator:
             with self.torch.no_grad():
                 generated = self.model.generate(
                     **encoded,
-                    forced_bos_token_id=forced,
                     num_beams=1,
                     max_new_tokens=512,
                 )
-            outputs = self.tokenizer.batch_decode(generated, skip_special_tokens=True)
+            outputs = self.tokenizer.batch_decode(
+                generated,
+                skip_special_tokens=True,
+                clean_up_tokenization_spaces=True,
+            )
             for original, translated, held in zip(batch, outputs, holders):
                 restored = base.restore(translated, held).strip() or original
                 result[original] = restored
                 self.memory[self.key(source, target, original)] = restored
             self.save()
-            print(f'content {source}>{target}: {min(offset + len(batch), len(pending))}/{len(pending)}', flush=True)
+            print(f'BiDi content {source}>{target}: {min(offset + len(batch), len(pending))}/{len(pending)}', flush=True)
         return result
 
 
-base.MT = NLLBContentTranslator
+# Compatibility alias for wrappers written before the dedicated BiDi model was selected.
+NLLBContentTranslator = BiDiContentTranslator
+base.MT = BiDiContentTranslator
 
 if __name__ == '__main__':
     base.main()
