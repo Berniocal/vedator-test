@@ -9,6 +9,7 @@ on:
       - tools/generate_explicit_locales_v3.py
       - tools/generate_explicit_locales_v4.py
       - tools/generate_explicit_locales_v5.py
+      - tools/generate_explicit_locales_v6.py
       - .github/workflows/generate-explicit-locales.yml
       - .github/trigger-explicit-locales.txt
   workflow_dispatch:
@@ -55,9 +56,9 @@ jobs:
           python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
           python -m pip install 'transformers>=4.46,<5' sentencepiece beautifulsoup4
       - name: Check all generator scripts before loading the model
-        run: python -m py_compile tools/generate_explicit_locales.py tools/generate_explicit_locales_v2.py tools/generate_explicit_locales_v3.py tools/generate_explicit_locales_v4.py tools/generate_explicit_locales_v5.py
-      - name: Generate and checkpoint Czech episode data
-        run: VEDATOR_LOCALE_STAGE=episodes python tools/generate_explicit_locales_v5.py .source-vedator
+        run: python -m py_compile tools/generate_explicit_locales.py tools/generate_explicit_locales_v2.py tools/generate_explicit_locales_v3.py tools/generate_explicit_locales_v4.py tools/generate_explicit_locales_v5.py tools/generate_explicit_locales_v6.py
+      - name: Generate and checkpoint Czech episode data in global batches
+        run: VEDATOR_LOCALE_STAGE=episodes python tools/generate_explicit_locales_v6.py .source-vedator
       - name: Preserve episode checkpoint even after a later failure
         if: always()
         uses: actions/upload-artifact@v4
@@ -69,7 +70,7 @@ jobs:
           if-no-files-found: warn
           retention-days: 30
       - name: Generate and checkpoint explicit UI, summary and chapter maps
-        run: VEDATOR_LOCALE_STAGE=strings python tools/generate_explicit_locales_v5.py .source-vedator
+        run: VEDATOR_LOCALE_STAGE=strings python tools/generate_explicit_locales_v6.py .source-vedator
       - name: Preserve string-map checkpoint
         if: always()
         uses: actions/upload-artifact@v4
