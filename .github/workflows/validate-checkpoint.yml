@@ -16,7 +16,7 @@ permissions:
   pull-requests: read
 
 concurrency:
-  group: vedator-checkpoint-validation-${{ github.event.pull_request.number || github.ref }}
+  group: vedator-localized-build-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -78,6 +78,7 @@ jobs:
             sw.js
             manifest.webmanifest
             icon.svg
+            .generated-source-sha
           if-no-files-found: error
           retention-days: 30
 
