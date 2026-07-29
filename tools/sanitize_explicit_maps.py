@@ -47,8 +47,10 @@ def code_like(value: str) -> bool:
 
 
 def main() -> None:
+    overrides = json.loads((ROOT / 'locales' / 'manual-overrides.json').read_text('utf-8'))
     removed = []
     for lang in ('cs','sk'):
+        reviewed_sources = set(overrides.get(lang, {}))
         path = ROOT / 'locales' / f'strings.{lang}.json'
         data = json.loads(path.read_text('utf-8'))
         cleaned = {}
@@ -57,15 +59,18 @@ def main() -> None:
             protected = protected_values(source_path.read_text('utf-8')) if source_path.is_file() else set()
             kept = {}
             for source, target in entries.items():
+                if source in reviewed_sources:
+                    removed.append((lang, rel, source, 'reviewed override'))
+                    continue
                 if source in protected or code_like(source):
-                    removed.append((lang, rel, source))
+                    removed.append((lang, rel, source, 'technical literal'))
                     continue
                 kept[source] = target
             cleaned[rel] = kept
         path.write_text(json.dumps(cleaned, ensure_ascii=False, indent=2) + '\n', 'utf-8')
-    print(f'Removed {len(removed)} technical locale entries.')
-    for lang, rel, value in removed[:40]:
-        print(f'  {lang}/{rel}: {value}')
+    print(f'Removed {len(removed)} generated locale entries.')
+    for lang, rel, value, reason in removed[:60]:
+        print(f'  {lang}/{rel}: {value} ({reason})')
 
 if __name__ == '__main__':
     main()
