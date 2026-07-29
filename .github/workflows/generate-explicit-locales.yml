@@ -1,8 +1,8 @@
 name: Generate explicit locale data
 
 on:
-  push:
-    branches: [proper-i18n]
+  pull_request:
+    branches: [main]
     paths:
       - tools/generate_explicit_locales.py
       - tools/generate_explicit_locales_v2.py
@@ -15,9 +15,10 @@ on:
 
 permissions:
   contents: write
+  pull-requests: read
 
 concurrency:
-  group: explicit-locale-generation
+  group: explicit-locale-generation-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -31,7 +32,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: proper-i18n
+          ref: ${{ github.head_ref || github.ref_name }}
           fetch-depth: 1
       - name: Configure resumable checkpoints
         run: |
