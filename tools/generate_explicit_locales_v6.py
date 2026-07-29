@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 
 from bs4 import BeautifulSoup
 
@@ -14,23 +15,38 @@ import generate_explicit_locales_v5 as resumable  # patches staged.checkpoint to
 base.decode_js_strings = scanner.scan_js_literals
 base.MT = translator.BiDiContentTranslator
 
+SENTENCE_SPLIT_RE = re.compile(r'(?<=[.!?…])(\s+)')
 
-def description_nodes(value: str) -> list[str]:
-    soup = BeautifulSoup(value or '', 'html.parser')
+
+def text_parts(value: str) -> list[str]:
+    """Split visible text into sentences while preserving whitespace exactly."""
+    raw = re.split(SENTENCE_SPLIT_RE, value)
+    return [part for part in raw if part != '']
+
+
+def translatable_parts(value: str) -> list[str]:
     return [
-        str(node)
-        for node in soup.find_all(string=True)
-        if base.safe_candidate(str(node), 'episodes.json', False)
+        part
+        for part in text_parts(value)
+        if not part.isspace() and base.safe_candidate(part, 'episodes.json', False)
     ]
+
+
+def description_segments(value: str) -> list[str]:
+    soup = BeautifulSoup(value or '', 'html.parser')
+    result: list[str] = []
+    for node in soup.find_all(string=True):
+        result.extend(translatable_parts(str(node)))
+    return result
 
 
 def apply_description(value: str, mapping: dict[str, str]) -> str:
     soup = BeautifulSoup(value or '', 'html.parser')
     for node in list(soup.find_all(string=True)):
         original = str(node)
-        translated = mapping.get(original)
-        if translated is not None and translated != original:
-            node.replace_with(translated)
+        rebuilt = ''.join(mapping.get(part, part) for part in text_parts(original))
+        if rebuilt != original:
+            node.replace_with(rebuilt)
     return str(soup)
 
 
@@ -53,7 +69,7 @@ def write_review_sample(mt, episodes: list[dict]) -> None:
     sample_titles = [episode.get('title', '') for episode in sample_source if episode.get('title')]
     sample_segments: list[str] = []
     for episode in sample_source:
-        sample_segments.extend(description_nodes(episode.get('description', '')))
+        sample_segments.extend(description_segments(episode.get('description', '')))
     title_map = mt.many(sample_titles, 'sk', 'cs')
     segment_map = mt.many(list(dict.fromkeys(sample_segments)), 'sk', 'cs')
     sample = []
@@ -71,7 +87,7 @@ def write_review_sample(mt, episodes: list[dict]) -> None:
     path.write_text(json.dumps(sample, ensure_ascii=False, indent=2) + '\n', 'utf-8')
     staged.checkpoint(
         ['locales/episode-sample.cs.json', 'locales/translation-memory.json'],
-        'Add ten-episode Czech translation quality sample',
+        'Regenerate ten-episode Czech translation quality sample',
     )
     print('Ten-episode Czech quality sample saved.', flush=True)
 
@@ -83,15 +99,14 @@ def generate_episodes(mt) -> None:
     cs_path = base.OUT / 'episodes.cs.json'
     sk_path.write_text(json.dumps(source, ensure_ascii=False, indent=2) + '\n', 'utf-8')
 
-    if not (base.OUT / 'episode-sample.cs.json').exists():
-        write_review_sample(mt, episodes)
+    write_review_sample(mt, episodes)
 
     titles = [episode.get('title', '') for episode in episodes if episode.get('title')]
     segments: list[str] = []
     for episode in episodes:
-        segments.extend(description_nodes(episode.get('description', '')))
+        segments.extend(description_segments(episode.get('description', '')))
 
-    print(f'Unique source titles: {len(set(titles))}; unique description segments: {len(set(segments))}', flush=True)
+    print(f'Unique source titles: {len(set(titles))}; unique description sentences: {len(set(segments))}', flush=True)
     title_map = translate_in_resumable_chunks(mt, titles, 'sk', 'cs', 'episode titles')
     segment_map = translate_in_resumable_chunks(mt, segments, 'sk', 'cs', 'episode descriptions')
 
