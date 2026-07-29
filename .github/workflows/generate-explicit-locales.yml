@@ -1,19 +1,6 @@
 name: Generate explicit locale data
 
 on:
-  pull_request:
-    branches: [main]
-    paths:
-      - tools/generate_explicit_locales.py
-      - tools/generate_explicit_locales_v2.py
-      - tools/generate_explicit_locales_v3.py
-      - tools/generate_explicit_locales_v4.py
-      - tools/generate_explicit_locales_v5.py
-      - tools/generate_explicit_locales_v6.py
-      - tools/generate_explicit_locales_v7.py
-      - tools/generate_explicit_locales_v8.py
-      - .github/workflows/generate-explicit-locales.yml
-      - .github/trigger-explicit-locales.txt
   workflow_dispatch:
 
 permissions:
@@ -21,7 +8,7 @@ permissions:
   pull-requests: read
 
 concurrency:
-  group: explicit-locale-generation-${{ github.event.pull_request.number || github.ref }}
+  group: explicit-locale-generation-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -35,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref || github.ref_name }}
+          ref: proper-i18n
           fetch-depth: 1
       - name: Configure resumable checkpoints
         run: |
@@ -57,30 +44,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
           python -m pip install 'transformers>=4.46,<5' sentencepiece beautifulsoup4
-      - name: Check all generator scripts before loading the model
+      - name: Validate generators
         run: python -m py_compile tools/generate_explicit_locales.py tools/generate_explicit_locales_v2.py tools/generate_explicit_locales_v3.py tools/generate_explicit_locales_v4.py tools/generate_explicit_locales_v5.py tools/generate_explicit_locales_v6.py tools/generate_explicit_locales_v7.py tools/generate_explicit_locales_v8.py
-      - name: Recreate reviewed episode files from saved translation memory
-        run: VEDATOR_LOCALE_STAGE=episodes python tools/generate_explicit_locales_v8.py .source-vedator
-      - name: Preserve episode checkpoint even after a later failure
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: explicit-episodes-${{ github.run_id }}
-          path: |
-            locales/episode-sample.cs.json
-            locales/episodes.*.json
-            locales/translation-memory.json
-          if-no-files-found: warn
-          retention-days: 30
-      - name: Generate safe text-only UI, question, summary and chapter maps
-        run: VEDATOR_LOCALE_STAGE=strings python tools/generate_explicit_locales_v8.py .source-vedator
-      - name: Preserve string-map checkpoint
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: explicit-string-maps-${{ github.run_id }}
-          path: |
-            locales/strings.*.json
-            locales/translation-memory.json
-          if-no-files-found: warn
-          retention-days: 30
+      - name: Regenerate explicit locale data when manually requested
+        run: VEDATOR_LOCALE_STAGE=all python tools/generate_explicit_locales_v8.py .source-vedator
