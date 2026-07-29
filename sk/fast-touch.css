@@ -1,0 +1,47 @@
+button,
+a,
+summary,
+[role="button"],
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+label[for],
+select,
+.topic,
+.chip,
+.card,
+.series-card>summary,
+.links .primary,
+.links .secondary {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(91,75,219,.16);
+}
+
+button,
+a,
+summary,
+[role="button"],
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+label[for],
+select {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+@media (pointer: coarse) {
+  button:active,
+  a:active,
+  summary:active,
+  [role="button"]:active,
+  input[type="button"]:active,
+  input[type="submit"]:active,
+  input[type="reset"]:active,
+  .topic:active,
+  .chip:active,
+  .links .primary:active,
+  .links .secondary:active {
+    opacity: .82;
+  }
+}

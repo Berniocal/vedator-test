@@ -1,5 +1,3 @@
-const CACHE='vedator-test-rich-v4';
-const ASSETS=['./','index.html','styles.css','core.js','views.js','player.js','playlists.js','app.js','manifest.webmanifest','icon.svg','locales/cs.json','locales/sk.json','content/episodes.cs.json','content/episodes.sk.json','content/questions.cs.json','content/questions.sk.json'];
-self.addEventListener('install',event=>{self.skipWaiting();event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)))});
-self.addEventListener('activate',event=>event.waitUntil((async()=>{await Promise.all((await caches.keys()).filter(key=>key!==CACHE).map(key=>caches.delete(key)));await self.clients.claim()})()));
-self.addEventListener('fetch',event=>{if(event.request.method!=='GET')return;const url=new URL(event.request.url);if(url.pathname.endsWith('/vedator/episodes.json')||event.request.destination==='audio'||event.request.headers.has('range'))return;if(url.origin!==location.origin)return;event.respondWith((async()=>{const cached=await caches.match(event.request);try{const response=await fetch(event.request,{cache:'no-store'});if(response.ok){const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(event.request,copy)).catch(()=>{})}return response}catch(error){return cached||caches.match('./')}})())});
+const OLD_CACHE=/^(?:vedator-test|vedator-temata)(?!.*-(?:sk|cs)$)/;
+self.addEventListener('install',event=>{self.skipWaiting()});
+self.addEventListener('activate',event=>event.waitUntil((async()=>{for(const key of await caches.keys())if(OLD_CACHE.test(key))await caches.delete(key);await self.clients.claim();await self.registration.unregister()})()));

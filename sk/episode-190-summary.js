@@ -1,0 +1,21 @@
+(()=>{
+  if(window.__vedatorEpisode190Summary)return;window.__vedatorEpisode190Summary=true;
+  const items=[
+    ['1:20','Ako má teleskop Euclides skúmať temnú hmotu a temnú energiu?',['Euclid je nebude pozorovat přímo.','Presne meria vzdialené galaxie, supernovky a rozširovanie vesmíru.','Z těchto dat lze odvodit množství temné hmoty a temné energie.']],
+    ['3:21','Prečo AI potrebuje viac príkladov ako dieťa?',['Lidský mozek je evolucí předem připravený například na zpracování obrazu.','AI se musí většinu vztahů teprve naučit z dat.','Tréninkové obrázky může různě upravovat a vytvářet z nich další příklady.']],
+    ['4:41','Aký je rozdiel medzi zlatým úsekom a Fibonacciho poradom?',['Zlatý rez je približne 1,618','Fibonacciho posloupnost vzniká sčítáním dvou předchozích členů.','Poměr sousedních členů Fibonacciho posloupnosti se blíží zlatému řezu.']],
+    ['6:47','Je tu prítomnosť?',['Každý člověk vnímá svou vlastní subjektivní přítomnost.','Podle teorie relativity neexistuje jedna společná současnost pro všechny pozorovatele.','Vzdialene objekty vidíme vždy v minulosti, pretože svetlo sa šíri konečnou rýchlosťou.']],
+    ['9:27','Ako by to vyzeralo, keby sme boli plní kyslíkom namiesto prázdneho?',['V raném vesmíru by kyslík prudce reagoval s vodíkem a vznikala by voda.','Dnes by kyslík výrazně zvýšil hustotu a hmotnost vesmíru.','Gravitace by jej začala shlukovat a rozpínání vesmíru by se zpomalilo.']],
+    ['11:34','Koľko váži oheň?',['Plamen tvorí horúce plyny a produkty horenia, takže má určitú hmotnosť.','Pretože horúce plyny sú menej husté ako vzduch okolo, plamen sa zvyšuje.','V beztíži má plamen přibližně kulovitý tvar.']],
+    ['13:05','Aká je najbližšia misia hľadajúca život vo vesmíre?',['Teleskop Jamese Webba může hledat možné známky života v atmosférách exoplanet.','Perseverance sbírá vzorky na Marsu pro budoucí dopravu na Zemi.','Misija JUICE skúma, či by mohli byť Jupiteru vhodné pre život.']],
+    ['16:04','Čo je tachyon?',['Tachyon je hypotetická částice pohybující se vždy rychleji než světlo.','Běžnou částici nelze přes rychlost světla urychlit.','Tachyony by mohli narušiť príčinnosť, takže ich existencia je veľmi problematická.']],
+    ['18:47','Prečo majú väčšina zvierat len pár končatín?',['Mnoho živočichů má dvoustranně souměrné tělo.','Končetiny se proto vytvářejí v párech.','Souměrnost usnadňuje rovnoměrný pohyb.']],
+    ['20:03','Chceli by ste niekedy napísať nevedeckú knihu?',['Samuel má rozepsaný romantický thriller.','Jozefa by lákalo sci-fi nebo fantasy ze známého slovenského prostředí.','Napsal také dvě povídky a nejvíce jej baví vymýšlení světa a zápletky.']],
+    ['23:49','Zmenila by sa rytmus nášho dňa na inej planéte?',['Áno, pretože náš rytmus ovplyvňuje zmenu svetla a tmy.','Bez vnějších signálů nemusí lidský den trvat přesně 24 hodin.','Na jiné planetě by se tělo snažilo přizpůsobit délce místního dne.']],
+    ['25:42','Čo sa fyzicky stalo s ponorkou Titan?',['V hloubce kolem čtyř kilometrů na ni působil tlak přibližně 400 atmosfér.','Po oslabení trupu nastala prudká imploze směrem dovnitř.','Tento proces prebehol rýchlejšie, než ľudský mozog mohol zaznamenávať.']]
+  ];
+  const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const html=()=>'<details class="episode-summary"><summary>Zhrnutie diely</summary><div class="episode-summary-body">'+items.map(x=>'<div class="summary-block"><div class="summary-time" data-vedator-preroll="0">'+esc(x[0])+'</div><div class="summary-title">'+esc(x[1])+'</div><ul>'+x[2].map(t=>'<li>'+esc(t)+'</li>').join('')+'</ul></div>').join('')+'</div></details>';
+  function decorate(a){if(a.dataset.episode190Summary||!/\bpodcast\s+190\b/i.test(a.querySelector('h2')?.textContent||''))return;a.dataset.episode190Summary='1';const links=a.querySelector('.links');(links||a).insertAdjacentHTML(links?'afterend':'beforeend',html())}
+  const scan=(r=document)=>r.querySelectorAll?.('#episodes article').forEach(decorate);scan();new MutationObserver(m=>m.forEach(x=>x.addedNodes.forEach(n=>{if(n.nodeType===1){if(n.matches?.('article'))decorate(n);scan(n)}}))).observe(document.querySelector('#episodes')||document.body,{childList:true,subtree:true});
+})();

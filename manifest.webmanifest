@@ -1,9 +1,1 @@
-{
-  "name":"Vedátorský podcast podle témat / podľa tém",
-  "short_name":"Vedátor témata",
-  "start_url":"./",
-  "display":"standalone",
-  "background_color":"#f4f6fb",
-  "theme_color":"#111827",
-  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
-}
+{"name":"Vedátorský podcast","short_name":"Vedátor","lang":"sk","id":"./","start_url":"./","scope":"./","display":"standalone","background_color":"#111827","theme_color":"#111827","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
