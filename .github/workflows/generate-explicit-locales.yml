@@ -45,11 +45,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Cache verified multilingual content model
+      - name: Cache dedicated Czech-Slovak BiDi model
         uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface
-          key: nllb-200-distilled-600m-content-only-v1
+          key: allegro-bidi-ces-slk-content-v1
       - name: Install content-only translation dependencies
         run: |
           python -m pip install --upgrade pip
@@ -57,7 +57,7 @@ jobs:
           python -m pip install 'transformers>=4.46,<5' sentencepiece beautifulsoup4
       - name: Check all generator scripts before loading the model
         run: python -m py_compile tools/generate_explicit_locales.py tools/generate_explicit_locales_v2.py tools/generate_explicit_locales_v3.py tools/generate_explicit_locales_v4.py tools/generate_explicit_locales_v5.py tools/generate_explicit_locales_v6.py
-      - name: Generate and checkpoint Czech episode data in global batches
+      - name: Generate review sample and Czech episode data in global batches
         run: VEDATOR_LOCALE_STAGE=episodes python tools/generate_explicit_locales_v6.py .source-vedator
       - name: Preserve episode checkpoint even after a later failure
         if: always()
@@ -65,6 +65,7 @@ jobs:
         with:
           name: explicit-episodes-${{ github.run_id }}
           path: |
+            locales/episode-sample.cs.json
             locales/episodes.*.json
             locales/translation-memory.json
           if-no-files-found: warn
