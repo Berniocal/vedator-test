@@ -5,12 +5,14 @@ on:
     branches: [main]
     paths:
       - tools/build_localized.py
+      - tools/build_fast.py
       - .github/workflows/rebuild-localized.yml
       - .github/trigger-full-build.txt
   push:
     branches: [main]
     paths:
       - tools/build_localized.py
+      - tools/build_fast.py
       - .github/workflows/rebuild-localized.yml
   workflow_dispatch:
   schedule:
@@ -22,7 +24,7 @@ permissions:
 
 concurrency:
   group: vedator-localized-build-${{ github.event.pull_request.number || github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -62,10 +64,10 @@ jobs:
           python -m pip install 'transformers>=4.46,<5' sentencepiece beautifulsoup4
 
       - name: Validate generator
-        run: python -m py_compile tools/build_localized.py
+        run: python -m py_compile tools/build_localized.py tools/build_fast.py
 
       - name: Build Slovak and Czech copies
-        run: python tools/build_localized.py
+        run: python tools/build_fast.py
 
       - name: Remove superseded simplified prototype
         run: |
