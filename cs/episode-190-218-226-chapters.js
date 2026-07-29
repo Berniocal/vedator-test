@@ -1,0 +1,10 @@
+(()=>{
+  if(window.__vedatorEpisodes190218226Chapters)return;window.__vedatorEpisodes190218226Chapters=true;
+  const CHAPTERS={
+    190:[80,201,281,407,567,694,785,964,1127,1203,1429,1542],
+    218:[84,229,547,822,952,1004,1116,1205,1322,1410,1587,1726],
+    226:[80,202,397,700,874,951,1035,1150,1270,1456,1587,1739]
+  };
+  function num(v){return Number(String(v||'').match(/\b(?:podcast\s*)?(\d{2,4})\b/i)?.[1]||0)}
+  function install(){const card=document.querySelector('.vedator-audio-card'),audio=card?.querySelector('audio'),title=card?.querySelector('.vedator-audio-card__title'),controls=card?.querySelector('.vedator-custom-controls');if(!card||!audio||!title||!controls||controls.querySelector('.vedator-190-218-226-controls'))return false;const row=document.createElement('div');row.className='vedator-question-controls vedator-190-218-226-controls';row.innerHTML='<button type="button" class="vedator-question-btn previous-question">← Předchozí otázka</button><button type="button" class="vedator-question-btn next-question">Další otázka →</button>';controls.appendChild(row);const prev=row.querySelector('.previous-question'),next=row.querySelector('.next-question');const list=()=>CHAPTERS[num(title.textContent)]||null;const sync=()=>{const c=list();row.classList.toggle('active',Boolean(c));if(!c)return;const t=audio.currentTime||0;prev.disabled=!c.some(x=>x<t-1);next.disabled=!c.some(x=>x>t+1)};prev.onclick=()=>{const c=list(),t=audio.currentTime||0,a=c?.filter(x=>x<t-1)||[];if(a.length){audio.currentTime=a[a.length-1];audio.play().catch(()=>{})}};next.onclick=()=>{const c=list(),t=audio.currentTime||0,n=c?.find(x=>x>t+1);if(Number.isFinite(n)){audio.currentTime=n;audio.play().catch(()=>{})}};audio.addEventListener('timeupdate',sync);new MutationObserver(sync).observe(title,{childList:true,subtree:true,characterData:true});sync();return true}if(!install())new MutationObserver((_,o)=>{if(install())o.disconnect()}).observe(document.body,{childList:true,subtree:true});
+})();
