@@ -3327,5 +3327,65 @@
     "mark.vedator-match": "mark.vedator-match",
     "a.secondary": "a.secondary vymenovanie",
     "Popis nie je k dispozícii.": "Popis nie je k dispozícii."
+  },
+  "lazy-render.js": {
+    "Načítám další epizody…": "Načítavam ďalšie epizódy...",
+    " · načítám další při posunu": "RC načítam ďalšie pri posune"
+  },
+  "playlist-patch.js": {
+    "Playlisty": "Zoznamy skladieb",
+    "\" data-ref=\"": "\" data-ref=\"",
+    "Název nového playlistu:": "Názov nového playlistu:",
+    "Playlist s tímto názvem už existuje.": "Playlist s týmto názvom už existuje.",
+    "Hledat epizodu…": "Hľadať epizódu...",
+    "Hledat otázku…": "Hľadať otázku...",
+    "Playlist Vedátorského podcastu: ": "Zoznam podcastov podcastu:",
+    "Odkaz byl zkopírován.": "Odkaz bol skopírovaný.",
+    "Zkopírujte odkaz:": "Skopírujte odkaz:",
+    "Uložit sdílený playlist „": "Uložiť zdieľaný playlist",
+    "Smazat playlist „": "Odstrániť zoznam skladieb \""
+  },
+  "questions-view.js": {
+    "Vše": "Všetko",
+    "Matematika": "Matematika",
+    "Otázky": "Otázky",
+    "\" data-topic=\"": "\" data-topic=\""
+  },
+  "slovak-topics-patch.js": {
+    "Matematika": "Matematika",
+    "Nepodarilo sa rozšíriť kľúčové slová matematiky": "Nepodarilo sa rozšíriť kľúčové slová matematiky"
+  },
+  "slovak-ui.js": {
+    "Vše": "Všetko",
+    "Epizody": "Epizódy",
+    "Série": "Séria",
+    "Playlisty": "Zoznamy skladieb",
+    "Matematika": "Matematika",
+    "Přehrát": "Prehrať",
+    "Nejnovější": "Najnovšie",
+    "Najnovšie": "Najnovšie",
+    "Nejstarší": "Najstaršie",
+    "Najstaršie": "Najstaršie",
+    "Načítám epizody…": "Načítavam epizódy…",
+    "Načítám katalog…": "Načítavam katalóg…",
+    "Načítavam katalóg…": "Načítavam katalóg...",
+    "Playlist je prázdný.": "Zoznam skladieb je prázdny.",
+    "Playlist je prázdny.": "Zoznam skladieb je prázdny.",
+    "Instalovat": "Inštalovať",
+    "Inštalovať": "Nainštalovať",
+    "Předchozí": "Predchádzajúci",
+    "Predchádzajúci": "Predchádzajúci",
+    "Další": "Ďalšie",
+    "Stáhnout": "Stiahnuť",
+    "Rychlost": "Rýchlosť",
+    "Pozastavit": "Pozastaviť",
+    "Hledat česky nebo slovensky: černé/čierne díry, vesmír…": "Hľadať po slovensky alebo česky: čierne/čierne diery, vesmír...",
+    "button,option,strong,.topic,.tag,.tab,.status,.vedator-playlist-empty,.vedator-playlist-count,input,[aria-label],[title]": "button,option,strong,.topic,.tag,.tab,.status,.vedator-playlist-empty,.vedator-playlist-count,input,[aria-label],[title]",
+    "Všetko": "Všetko",
+    "Epizódy": "Epizódy",
+    "Načítavam epizódy…": "Načítavam epizódy…",
+    "Ďalší": "Ďalší",
+    "Rýchlosť": "Rýchlosť",
+    "Hľadať po slovensky: čierne diery, vesmír…": "Hľadať po slovensky: čierne diery, vesmír…"
   }
 }
