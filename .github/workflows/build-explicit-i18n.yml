@@ -9,9 +9,7 @@ on:
       - tools/build_explicit_i18n_v2.py
       - tools/sanitize_explicit_maps.py
       - tools/validate_explicit_i18n.py
-      - tools/review_locale_quality.py
-      - tools/review_locale_quality_v2.py
-      - tools/review_locale_quality_v3.py
+      - tools/review_locale_quality_v4.py
       - tools/smoke_explicit_i18n.mjs
       - .github/workflows/build-explicit-i18n.yml
       - .github/trigger-explicit-build.txt
@@ -55,7 +53,7 @@ jobs:
         run: python -m pip install beautifulsoup4
       - name: Validate final build and review scripts
         if: steps.readiness.outputs.ready == 'true'
-        run: python -m py_compile tools/generate_explicit_locales.py tools/generate_explicit_locales_v2.py tools/generate_explicit_locales_v3.py tools/generate_explicit_locales_v4.py tools/generate_explicit_locales_v5.py tools/generate_explicit_locales_v6.py tools/generate_explicit_locales_v7.py tools/generate_explicit_locales_v8.py tools/build_explicit_i18n.py tools/build_explicit_i18n_v2.py tools/sanitize_explicit_maps.py tools/validate_explicit_i18n.py tools/review_locale_quality.py tools/review_locale_quality_v2.py tools/review_locale_quality_v3.py
+        run: python -m py_compile tools/generate_explicit_locales.py tools/generate_explicit_locales_v2.py tools/generate_explicit_locales_v3.py tools/generate_explicit_locales_v4.py tools/generate_explicit_locales_v5.py tools/generate_explicit_locales_v6.py tools/generate_explicit_locales_v7.py tools/generate_explicit_locales_v8.py tools/build_explicit_i18n.py tools/build_explicit_i18n_v2.py tools/sanitize_explicit_maps.py tools/validate_explicit_i18n.py tools/review_locale_quality_v4.py
       - name: Remove selectors, storage keys, URLs, files and MIME types from locale maps
         if: steps.readiness.outputs.ready == 'true'
         run: python tools/sanitize_explicit_maps.py .source-vedator
@@ -65,9 +63,9 @@ jobs:
       - name: Validate structure, design, code, references, content and PWA
         if: steps.readiness.outputs.ready == 'true'
         run: python tools/validate_explicit_i18n.py .source-vedator
-      - name: Reject structural HTML, omitted sentences and malformed language
+      - name: Review language, sentence preservation, HTML and URLs pairwise
         if: steps.readiness.outputs.ready == 'true'
-        run: python tools/review_locale_quality_v3.py .source-vedator
+        run: python tools/review_locale_quality_v4.py .source-vedator
       - name: Preserve quality report even if review fails
         if: always() && steps.readiness.outputs.ready == 'true'
         uses: actions/upload-artifact@v4
