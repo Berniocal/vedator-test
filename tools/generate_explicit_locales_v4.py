@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import os
 import subprocess
+import time
 from pathlib import Path
 
 import generate_explicit_locales as base
@@ -22,7 +23,17 @@ def checkpoint(paths: list[str], message: str) -> None:
     if quiet:
         return
     subprocess.run(['git', 'commit', '-m', message + ' [skip ci]'], check=True)
-    subprocess.run(['git', 'push', 'origin', 'HEAD:proper-i18n'], check=True)
+    for attempt in range(1, 4):
+        pushed = subprocess.run(['git', 'push', 'origin', 'HEAD:proper-i18n']).returncode == 0
+        if pushed:
+            return
+        print(f'Checkpoint push attempt {attempt} failed; rebasing onto current proper-i18n.', flush=True)
+        pulled = subprocess.run(['git', 'pull', '--rebase', 'origin', 'proper-i18n']).returncode == 0
+        if not pulled:
+            subprocess.run(['git', 'rebase', '--abort'], check=False)
+            raise RuntimeError('Could not rebase generated locale checkpoint onto proper-i18n')
+        time.sleep(attempt * 3)
+    raise RuntimeError('Could not push generated locale checkpoint after three attempts')
 
 
 def write_episode_partial(source: dict, completed: dict[int, dict], path: Path) -> None:
@@ -47,7 +58,7 @@ def generate_episodes(mt) -> None:
         completed = {int(item.get('number') or -1): item for item in existing.get('episodes', [])}
 
     newly_done = 0
-    for index, episode in enumerate(source['episodes'], start=1):
+    for episode in source['episodes']:
         number = int(episode.get('number') or -1)
         if number in completed:
             continue
