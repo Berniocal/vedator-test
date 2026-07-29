@@ -2,18 +2,17 @@
 from __future__ import annotations
 
 import json
-from pathlib import Path
 
 from bs4 import BeautifulSoup
 
 import generate_explicit_locales as base
 import generate_explicit_locales_v2 as scanner
-import generate_explicit_locales_v3 as nllb
+import generate_explicit_locales_v3 as translator
 import generate_explicit_locales_v4 as staged
 import generate_explicit_locales_v5 as resumable  # patches staged.checkpoint to include memory
 
 base.decode_js_strings = scanner.scan_js_literals
-base.MT = nllb.NLLBContentTranslator
+base.MT = translator.BiDiContentTranslator
 
 
 def description_nodes(value: str) -> list[str]:
@@ -49,12 +48,43 @@ def translate_in_resumable_chunks(mt, values: list[str], source: str, target: st
     return result
 
 
+def write_review_sample(mt, episodes: list[dict]) -> None:
+    sample_source = episodes[:10]
+    sample_titles = [episode.get('title', '') for episode in sample_source if episode.get('title')]
+    sample_segments: list[str] = []
+    for episode in sample_source:
+        sample_segments.extend(description_nodes(episode.get('description', '')))
+    title_map = mt.many(sample_titles, 'sk', 'cs')
+    segment_map = mt.many(list(dict.fromkeys(sample_segments)), 'sk', 'cs')
+    sample = []
+    for episode in sample_source:
+        sample.append({
+            'number': episode.get('number'),
+            'sourceTitle': episode.get('title', ''),
+            'title': title_map.get(episode.get('title', ''), episode.get('title', '')),
+            'sourceDescription': episode.get('description', ''),
+            'description': apply_description(episode.get('description', ''), segment_map),
+            'link': episode.get('link'),
+            'enclosure': episode.get('enclosure'),
+        })
+    path = base.OUT / 'episode-sample.cs.json'
+    path.write_text(json.dumps(sample, ensure_ascii=False, indent=2) + '\n', 'utf-8')
+    staged.checkpoint(
+        ['locales/episode-sample.cs.json', 'locales/translation-memory.json'],
+        'Add ten-episode Czech translation quality sample',
+    )
+    print('Ten-episode Czech quality sample saved.', flush=True)
+
+
 def generate_episodes(mt) -> None:
     source = json.loads((base.SOURCE / 'episodes.json').read_text('utf-8'))
     episodes = source['episodes']
     sk_path = base.OUT / 'episodes.sk.json'
     cs_path = base.OUT / 'episodes.cs.json'
     sk_path.write_text(json.dumps(source, ensure_ascii=False, indent=2) + '\n', 'utf-8')
+
+    if not (base.OUT / 'episode-sample.cs.json').exists():
+        write_review_sample(mt, episodes)
 
     titles = [episode.get('title', '') for episode in episodes if episode.get('title')]
     segments: list[str] = []
