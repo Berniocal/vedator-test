@@ -55,6 +55,11 @@ def main() -> None:
         data = json.loads(path.read_text('utf-8'))
         cleaned = {}
         for rel, entries in data.items():
+            if rel == 'sw.js':
+                for source in entries:
+                    removed.append((lang, rel, source, 'service worker is never localized'))
+                cleaned[rel] = {}
+                continue
             source_path = SOURCE / rel
             protected = protected_values(source_path.read_text('utf-8')) if source_path.is_file() else set()
             kept = {}
@@ -69,7 +74,7 @@ def main() -> None:
             cleaned[rel] = kept
         path.write_text(json.dumps(cleaned, ensure_ascii=False, indent=2) + '\n', 'utf-8')
     print(f'Removed {len(removed)} generated locale entries.')
-    for lang, rel, value, reason in removed[:60]:
+    for lang, rel, value, reason in removed[:80]:
         print(f'  {lang}/{rel}: {value} ({reason})')
 
 if __name__ == '__main__':
