@@ -1,0 +1,105 @@
+name: Rebuild exact localized copies
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - tools/build_localized.py
+      - .github/workflows/rebuild-localized.yml
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * 1'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vedator-localized-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      TOKENIZERS_PARALLELISM: 'false'
+      PYTHONUNBUFFERED: '1'
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Checkout complete original application
+        run: |
+          rm -rf .source-vedator
+          git clone --depth 1 https://github.com/Berniocal/vedator.git .source-vedator
+          echo "Original files: $(find .source-vedator -type f -not -path '*/.git/*' | wc -l)"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Cache translation model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: nllb-200-distilled-600m-v1
+
+      - name: Install translation dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install 'transformers>=4.46,<5' sentencepiece beautifulsoup4
+
+      - name: Validate generator
+        run: python -m py_compile tools/build_localized.py
+
+      - name: Build Slovak and Czech copies
+        run: python tools/build_localized.py
+
+      - name: Remove superseded simplified prototype
+        run: |
+          rm -f app.js core.js views.js player.js playlists.js styles.css sw.js manifest.webmanifest icon.svg
+          rm -rf locales content
+
+      - name: Verify one-to-one file copies and unchanged design
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f sk/index.html
+          test -f cs/index.html
+          test -f sk/questions-view.js
+          test -f cs/questions-view.js
+          source_count=$(find .source-vedator -type f -not -path '*/.git/*' -not -path '*/.github/*' | wc -l)
+          sk_count=$(find sk -type f | wc -l)
+          cs_count=$(find cs -type f | wc -l)
+          test "$sk_count" -ge "$source_count"
+          test "$cs_count" -ge "$source_count"
+          while IFS= read -r original; do
+            relative=${original#.source-vedator/}
+            cmp "$original" "sk/$relative"
+            cmp "$original" "cs/$relative"
+          done < <(find .source-vedator -type f -name '*.css' -not -path '*/.git/*' | sort)
+          while IFS= read -r script; do
+            node --check "$script"
+          done < <(find sk cs -type f -name '*.js' | sort)
+          echo "Slovak files: $sk_count"
+          echo "Czech files: $cs_count"
+
+      - name: Remove temporary original checkout
+        run: rm -rf .source-vedator
+
+      - name: Commit generated application
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No generated changes.'
+          else
+            git commit -m 'Build exact Czech and Slovak copies [skip ci]'
+            git push
+          fi
