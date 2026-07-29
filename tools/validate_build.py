@@ -138,9 +138,16 @@ def compare_technical_strings(source: Path, target: Path) -> None:
     source_sets = technical_sets(source.read_text("utf-8"))
     target_sets = technical_sets(target.read_text("utf-8"))
     for name in ("urls", "storage", "selectors", "files"):
-        if source_sets[name] != target_sets[name]:
-            missing = sorted(source_sets[name] - target_sets[name])
-            added = sorted(target_sets[name] - source_sets[name])
+        source_values = set(source_sets[name])
+        target_values = set(target_sets[name])
+        if name == "files":
+            target_values = {
+                value for value in target_values
+                if Path(value.split("?", 1)[0]).name not in ALLOWED_EXTRA
+            }
+        if source_values != target_values:
+            missing = sorted(source_values - target_values)
+            added = sorted(target_values - source_values)
             raise RuntimeError(
                 f"Technical {name} changed in {target}: missing={missing[:10]} added={added[:10]}"
             )
