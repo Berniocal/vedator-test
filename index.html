@@ -1,67 +1,160 @@
 <!doctype html>
-<html lang="sk">
+<html lang="cs">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#111827">
-  <title>Vedátorský podcast – podľa tém</title>
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" href="icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css">
+  <title>Vedátorský podcast – spouštění</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon-192.png" type="image/png">
+  <style>
+    :root{color-scheme:light dark}
+    *{box-sizing:border-box}
+    body{margin:0;min-height:100vh;display:grid;place-items:center;padding:24px;background:#111827;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+    main{width:min(560px,100%);padding:28px;border:1px solid rgba(255,255,255,.16);border-radius:22px;background:linear-gradient(145deg,#1f2937,#2e2665);box-shadow:0 24px 70px rgba(0,0,0,.35)}
+    h1{margin:0 0 10px;font-size:clamp(1.55rem,6vw,2.2rem)}
+    p{margin:8px 0;color:#dbe4f3;line-height:1.5}
+    .bar{height:10px;margin:22px 0 10px;overflow:hidden;border-radius:999px;background:rgba(255,255,255,.14)}
+    .bar>span{display:block;width:14%;height:100%;border-radius:inherit;background:#a78bfa;transition:width .25s ease}
+    #status{font-weight:750;color:#fff}
+    #detail{font-size:.88rem;opacity:.78}
+    button{display:none;margin-top:18px;border:0;border-radius:12px;padding:11px 15px;background:#a78bfa;color:#151129;font:inherit;font-weight:800;cursor:pointer}
+    .error button{display:inline-block}
+  </style>
 </head>
 <body>
-<header>
-  <div class="wrap header-row">
-    <div class="header-copy">
-      <div class="eyebrow" data-i18n="catalogEyebrow"></div>
-      <h1 data-i18n="appTitle"></h1>
-    </div>
-    <div class="header-actions">
-      <div class="language-switch" role="group" data-i18n-aria="languageSwitch">
-        <button type="button" data-language="sk">SK</button>
-        <button type="button" data-language="cs">CZ</button>
-      </div>
-      <label class="theme-switch">
-        <span id="themeText"></span>
-        <input id="themeToggle" type="checkbox">
-        <span class="theme-track" aria-hidden="true"></span>
-      </label>
-      <button id="installApp" class="install-app" type="button" data-i18n="install"></button>
-    </div>
-  </div>
-</header>
-<main class="wrap">
-  <section class="panel controls-panel">
-    <div class="controls">
-      <input id="search" class="search" type="search" autocomplete="off">
-    </div>
-    <div id="tabs" class="tabs" role="tablist">
-      <button class="tab active" type="button" data-view="episodes" data-i18n="episodes"></button>
-      <button class="tab" type="button" data-view="series" data-i18n="series"></button>
-      <button class="tab" type="button" data-view="questions" data-i18n="questions"></button>
-      <button class="tab" type="button" data-view="playlists" data-i18n="playlists"></button>
-      <button class="tab" type="button" data-view="data" data-i18n="myData"></button>
-    </div>
-    <div id="topics" class="topics"></div>
-  </section>
-  <div class="meta">
-    <div id="count" aria-live="polite"></div>
-    <select id="sort" class="sort"></select>
-  </div>
-  <section id="content" class="grid" aria-live="polite"></section>
+<main id="panel">
+  <h1>Vedátorský podcast</h1>
+  <p id="status">Připravuji aplikaci…</p>
+  <div class="bar" aria-hidden="true"><span id="progress"></span></div>
+  <p id="detail">Při prvním spuštění je potřeba internet. Další spuštění může fungovat z offline cache.</p>
+  <button id="retry" type="button">Zkusit znovu</button>
 </main>
-<button id="backTop" class="back-top" type="button" aria-label="">↑</button>
-<div id="toast" class="toast" role="status" aria-live="polite"></div>
-<section id="audioModal" class="audio-modal" hidden role="dialog" aria-modal="true">
-  <div class="audio-shell"><div class="audio-bar"><button id="audioClose" class="icon-button audio-back" type="button" aria-label="">←</button><div id="audioBarTitle" class="audio-bar-title">Vedátorský podcast</div></div><div class="audio-content"><div class="audio-card"><div class="audio-kicker">Vedátorský podcast</div><div id="audioTitle" class="audio-title"></div><div class="audio-seek-box"><div class="audio-seek-label" data-i18n="exactPosition"></div><input id="audioSeek" class="audio-seek" type="range" min="0" max="1" value="0" step="1" disabled><div class="audio-seek-times"><span id="audioCurrent">0:00</span><span id="audioDuration">–:––</span></div></div><audio id="audio" playsinline preload="metadata"></audio><div class="custom-controls"><div class="custom-main"><button id="audioPrev" class="custom-btn" type="button"><span class="custom-icon">◀|</span><span data-i18n="previous"></span></button><button id="audioBack10" class="custom-btn" type="button"><span class="custom-icon">↶</span><span>−10 s</span></button><button id="audioPlay" class="custom-btn main" type="button"><span id="audioPlayIcon" class="custom-icon">▶</span></button><button id="audioForward10" class="custom-btn" type="button"><span class="custom-icon">↷</span><span>+10 s</span></button><button id="audioNext" class="custom-btn" type="button"><span class="custom-icon">|▶</span><span data-i18n="next"></span></button></div><div class="custom-secondary"><button id="audioDownload" class="custom-btn" type="button"><span>⇩</span><span id="downloadLabel" data-i18n="download"></span></button><button id="audioSpeed" class="custom-btn" type="button"><span data-i18n="speed"></span><span id="speedValue">1×</span></button></div></div><p id="audioHelp" class="audio-help"></p></div></div></div>
-</section>
-<div id="playlistEditor" class="editor hidden" role="dialog" aria-modal="true">
-  <div class="editor-box"><div class="editor-head"><strong id="playlistEditorTitle"></strong><button id="playlistEditorClose" class="icon-button" type="button">✕</button></div><div class="source-switch"><button type="button" data-source="episode" class="active" data-i18n="episodes"></button><button type="button" data-source="question" data-i18n="questions"></button></div><div class="editor-columns"><section class="editor-pane"><h3 data-i18n="addedItems"></h3><div id="playlistSelected" class="editor-scroll edit-order"></div></section><section class="editor-pane"><h3 id="playlistSourceTitle"></h3><input id="playlistSearch" class="editor-search" type="search"><div id="playlistChoices" class="editor-scroll editor-list"></div></section></div><div class="editor-foot"><button id="playlistCancel" class="button secondary-button" type="button" data-i18n="cancel"></button><button id="playlistSave" class="button primary-button" type="button" data-i18n="save"></button></div></div>
-</div>
-<script src="core.js" defer></script>
-<script src="views.js" defer></script>
-<script src="player.js" defer></script>
-<script src="playlists.js" defer></script>
-<script src="app.js" defer></script>
+<script>
+(()=>{
+  'use strict';
+
+  const SNAPSHOT='6676ceea283d5069bb1f17c4bf06886d0ad64815';
+  const RELOAD_KEY='vedator-compact-one-reload-v1';
+  const panel=document.querySelector('#panel');
+  const status=document.querySelector('#status');
+  const detail=document.querySelector('#detail');
+  const progress=document.querySelector('#progress');
+  const retry=document.querySelector('#retry');
+
+  const localBase=new URL('./',location.href);
+  const localSw=new URL('sw.js',localBase);
+  const localManifest=new URL('manifest.webmanifest',localBase);
+  const localIcon=new URL('icon-192.png',localBase);
+  const virtualBase=new URL('_vedator/',localBase);
+  const virtualIndex=new URL(`index.html?compactSnapshot=${SNAPSHOT}`,virtualBase);
+
+  function setStep(text,width,extra=''){
+    status.textContent=text;
+    progress.style.width=width+'%';
+    if(extra)detail.textContent=extra;
+  }
+
+  function sameWorker(controller){
+    if(!controller)return false;
+    try{return new URL(controller.scriptURL).href===localSw.href}catch{return false}
+  }
+
+  async function waitForController(timeout=12000){
+    if(sameWorker(navigator.serviceWorker.controller))return true;
+    return new Promise(resolve=>{
+      let finished=false;
+      const finish=value=>{
+        if(finished)return;
+        finished=true;
+        clearTimeout(timer);
+        navigator.serviceWorker.removeEventListener('controllerchange',changed);
+        resolve(value);
+      };
+      const changed=()=>finish(sameWorker(navigator.serviceWorker.controller));
+      const timer=setTimeout(()=>finish(sameWorker(navigator.serviceWorker.controller)),timeout);
+      navigator.serviceWorker.addEventListener('controllerchange',changed);
+    });
+  }
+
+  function prepareHtml(html){
+    html=String(html||'').replace(/<base\b[^>]*>/gi,'');
+    html=html.replace(/<head([^>]*)>/i,`<head$1><base href="${virtualBase.href}">`);
+    html=html.replace(
+      /<link\s+rel=["']manifest["'][^>]*>/i,
+      `<link rel="manifest" href="${localManifest.href}">`
+    );
+    html=html.replace(
+      /<link\s+rel=["']icon["'][^>]*>/i,
+      `<link rel="icon" href="${localIcon.href}" type="image/png">`
+    );
+    return html;
+  }
+
+  async function fetchApplication(){
+    const response=await fetch(virtualIndex.href,{cache:'no-store'});
+    if(!response.ok)throw new Error(`Aplikaci se nepodařilo stáhnout (HTTP ${response.status}).`);
+    const html=prepareHtml(await response.text());
+    if(!/<section id=["']episodes["']/.test(html)){
+      throw new Error('Stažená stránka neobsahuje katalog epizod.');
+    }
+    return html;
+  }
+
+  async function boot(){
+    panel.classList.remove('error');
+    retry.disabled=true;
+
+    if(location.protocol==='file:'){
+      throw new Error('PWA nelze spustit pouhým dvojklikem na soubor. Nahrajte těchto pět souborů na HTTPS web nebo je spusťte přes místní webový server.');
+    }
+    if(!('serviceWorker' in navigator)){
+      throw new Error('Tento prohlížeč nepodporuje service worker potřebný pro PWA.');
+    }
+
+    setStep('Instaluji kompaktní offline vrstvu…',28);
+    const registration=await navigator.serviceWorker.register(localSw.href,{scope:localBase.pathname});
+    await navigator.serviceWorker.ready;
+
+    setStep('Přebírám stránku bez opakovaného načítání…',48);
+    const controlled=await waitForController();
+    if(!controlled){
+      throw new Error('Nový service worker zatím nepřevzal stránku.');
+    }
+
+    setStep('Skládám úplnou aplikaci…',72);
+    let html;
+    try{
+      html=await fetchApplication();
+    }catch(error){
+      if(!sessionStorage.getItem(RELOAD_KEY)){
+        sessionStorage.setItem(RELOAD_KEY,'1');
+        location.reload();
+        return;
+      }
+      throw error;
+    }
+
+    sessionStorage.removeItem(RELOAD_KEY);
+    setStep('Hotovo – otevírám Vedátora…',100);
+    document.open();
+    document.write(html);
+    document.close();
+  }
+
+  retry.addEventListener('click',()=>boot().catch(showError));
+
+  function showError(error){
+    console.error(error);
+    panel.classList.add('error');
+    retry.disabled=false;
+    status.textContent='Aplikaci se nepodařilo spustit.';
+    progress.style.width='100%';
+    detail.textContent=error?.message||String(error);
+  }
+
+  boot().catch(showError);
+})();
+</script>
 </body>
 </html>
