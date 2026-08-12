@@ -36,6 +36,15 @@ window.Response=class{constructor(body,options={}){this.body=body;this.status=op
 let cached=false;
 window.caches={open:async()=>({put:async()=>{cached=true},delete:async()=>true,match:async()=>null})};
 
+const ep340=data.episodes.find(episode=>Number(episode.number)===340);
+assert(ep340?.enclosure,'Episode 340 audio URL missing');
+const legacyAudioId='audio:'+new URL(ep340.enclosure,'https://example.test/v2.html').href;
+window.localStorage.setItem('vedator-user-playlists-v1',JSON.stringify([{id:'legacy-final',name:'Legacy playlist',items:['FU']} ]));
+window.localStorage.setItem('vedatorCollectionProgressV1',JSON.stringify({
+  'series:faq dobre otazky':{type:'series',label:'FAQ – dobré otázky',lastItemId:legacyAudioId,items:{[legacyAudioId]:{title:ep340.title,currentTime:1200,duration:3600,start:0,percent:33,completed:false}}},
+  'playlist:legacy-final':{type:'playlist',label:'Legacy playlist',lastItemId:'ref:FU',items:{'ref:FU':{title:ep340.title,currentTime:1200,duration:3600,start:0,percent:33,completed:false}}}
+}));
+
 const chunkA=new Uint8Array([1,2,3,4,5]),chunkB=new Uint8Array([6,7,8,9,10]);
 let audioRequest=0;
 window.fetch=async url=>{
@@ -46,13 +55,28 @@ window.fetch=async url=>{
 };
 
 const ready=new Promise((resolve,reject)=>{const timer=setTimeout(()=>reject(new Error('final UI ready timeout')),5000);window.addEventListener('vedator-v2-ready',()=>{clearTimeout(timer);resolve()},{once:true})});
-window.eval(app);window.document.dispatchEvent(new window.Event('DOMContentLoaded',{bubbles:true}));await ready;await new Promise(resolve=>setTimeout(resolve,40));
+window.eval(app);window.document.dispatchEvent(new window.Event('DOMContentLoaded',{bubbles:true}));await ready;await new Promise(resolve=>setTimeout(resolve,50));
 
 assert(!window.document.querySelector('#parity-refresh-v2'),'Reload button should be removed from V2');
 assert(window.document.querySelector('#status-v2').textContent.trim()==='','Loaded status text should be empty');
 assert(window.document.querySelector('#count-v2').textContent.trim().length>0,'View count should remain visible');
 assert(!window.document.querySelector('#install-v2').classList.contains('hidden'),'Install button should be visible outside standalone mode');
 
+const tabs=[...window.document.querySelectorAll('.tab-v2')];
+tabs.find(tab=>tab.dataset.view==='series').click();await new Promise(resolve=>setTimeout(resolve,30));
+const faqSeries=data.series.find(series=>series.name==='FAQ – dobré otázky');
+const faqIndex=data.series.indexOf(faqSeries),faqCard=window.document.querySelector(`#series-v2 .series[data-series-index="${faqIndex}"]`);
+assert(faqCard?.querySelector('summary strong')?.classList.contains('v2-collection-title-active'),'Legacy series progress did not color the series title as active');
+faqCard.open=true;faqCard.dispatchEvent(new window.Event('toggle'));await new Promise(resolve=>setTimeout(resolve,30));
+const ep340Index=faqSeries.episodes.findIndex(number=>Number(number)===340),seriesItem=faqCard.querySelector(`.series-item[data-item-index="${ep340Index}"] span:last-child`);
+assert(seriesItem?.classList.contains('v2-collection-progress-text'),'Legacy audio:<URL> series item progress was not restored');
+
+tabs.find(tab=>tab.dataset.view==='playlists').click();await new Promise(resolve=>setTimeout(resolve,30));
+const playlistCard=window.document.querySelector('#playlists-v2 .playlist-card[data-id="legacy-final"]');
+assert(playlistCard?.querySelector('.playlist-title')?.classList.contains('v2-collection-title-active'),'Legacy playlist title progress was not restored');
+assert(playlistCard.querySelector('.playlist-open[data-ref="FU"] b')?.classList.contains('v2-collection-progress-text'),'Legacy playlist item progress was not restored');
+
+tabs.find(tab=>tab.dataset.view==='episodes').click();await new Promise(resolve=>setTimeout(resolve,20));
 const firstPlay=window.document.querySelector('#episodes-v2 .episode-card-v2 .actions .play');
 assert(firstPlay,'Episode play button missing');firstPlay.click();await new Promise(resolve=>setTimeout(resolve,30));
 const playerPlay=window.document.querySelector('#player-play-v2');
@@ -68,4 +92,4 @@ assert(audioRequest>=1,'Offline audio was not fetched');
 assert(!offline.dataset.busy,'Offline button stayed busy');
 assert(offline.textContent.includes('Offline'),'Offline button did not return to saved state');
 
-console.log(JSON.stringify({ok:true,installButton:true,threeColumnSeries:true,loadedStatusHidden:true,playPauseIcons:true,offlineProgress:true,originalCollectionMarking:true},null,2));
+console.log(JSON.stringify({ok:true,installButton:true,threeColumnSeries:true,loadedStatusHidden:true,playPauseIcons:true,offlineProgress:true,legacySeriesAudioId:true,legacyPlaylistMarking:true},null,2));
