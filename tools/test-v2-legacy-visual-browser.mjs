@@ -30,8 +30,8 @@ try{
   await new Promise(resolve=>setTimeout(resolve,150));
 
   const result=await page.evaluate(()=>{
-    const active=document.querySelector('.tab-v2.active'),card=document.querySelector('#episodes-v2 .episode-card-v2[data-episode="346"]'),badge=card?.querySelector('.listen-status.progress'),tag=card?.querySelector('.tag'),title=card?.querySelector('h2');
-    const activeStyle=active?getComputedStyle(active):null,badgeStyle=badge?getComputedStyle(badge):null,tagStyle=tag?getComputedStyle(tag):null,titleStyle=title?getComputedStyle(title):null;
+    const active=document.querySelector('.tab-v2.active'),card=document.querySelector('#episodes-v2 .episode-card-v2[data-episode="346"]'),badge=card?.querySelector('.listen-status.progress'),tag=card?.querySelector('.tag'),episodeTitle=card?.querySelector('h2');
+    const activeStyle=active?getComputedStyle(active):null,badgeStyle=badge?getComputedStyle(badge):null,tagStyle=tag?getComputedStyle(tag):null,episodeTitleStyle=episodeTitle?getComputedStyle(episodeTitle):null;
     return{
       eyebrow:document.querySelector('#eyebrow-v2')?.textContent,
       heading:document.querySelector('#heading-v2')?.textContent,
@@ -41,7 +41,7 @@ try{
       activeRadius:activeStyle?.borderRadius||'',
       badgeText:badge?.textContent||'',badgeRadius:badgeStyle?.borderRadius||'',
       tagText:tag?.textContent||'',tagBackground:tagStyle?.backgroundColor||'',
-      titleClamp:titleStyle?.webkitLineClamp||'',
+      episodeTitleClamp:episodeTitleStyle?.webkitLineClamp||'',
       hasEpisodeTimeline:Boolean(card?.querySelector('.episode-progress-v2')),
       scrollWidth:document.documentElement.scrollWidth,clientWidth:document.documentElement.clientWidth
     };
@@ -55,9 +55,14 @@ try{
   assert(result.badgeText.includes('Rozposloucháno')&&result.badgeText.includes('35 %'),`Bad progress badge: ${result.badgeText}`);
   assert(parseFloat(result.badgeRadius)>=20,`Progress badge is not pill-shaped: ${result.badgeRadius}`);
   assert(result.tagText&&result.tagBackground!=='rgba(0, 0, 0, 0)',`Purple keyword tag is not visibly styled: ${JSON.stringify(result)}`);
-  assert(String(result.titleClamp)==='2',`Episode title should clamp to two lines: ${result.titleClamp}`);
+  assert(String(result.episodeTitleClamp)!=='2',`Episode title must stay unclamped: ${result.episodeTitleClamp}`);
   assert(!result.hasEpisodeTimeline,'Episode timeline should be absent');
   assert(result.scrollWidth<=result.clientWidth+1,`Visual parity caused horizontal overflow: ${result.scrollWidth} > ${result.clientWidth}`);
+
+  await page.click('.tab-v2[data-view="series"]');await new Promise(resolve=>setTimeout(resolve,80));
+  const seriesTitleClamp=await page.$eval('#series-v2 .series>summary>strong',node=>getComputedStyle(node).webkitLineClamp||'');
+  assert(String(seriesTitleClamp)==='2',`Series title should clamp to two lines: ${seriesTitleClamp}`);
+  await page.click('.tab-v2[data-view="episodes"]');await new Promise(resolve=>setTimeout(resolve,60));
 
   await page.click('#episodes-v2 .episode-card-v2[data-episode="346"] .play');
   await new Promise(resolve=>setTimeout(resolve,80));
@@ -72,5 +77,5 @@ try{
 
   fs.mkdirSync('mobile-browser-artifacts',{recursive:true});
   await page.screenshot({path:'mobile-browser-artifacts/legacy-visual-parity.png',fullPage:true});
-  console.log(JSON.stringify({ok:true,viewport:'390x844',legacyHeader:true,purpleActivePills:true,legacyProgressBadge:true,noEpisodeTimeline:true,purpleTags:true,titleClamp:2,collapsiblePlayer:true},null,2));
+  console.log(JSON.stringify({ok:true,viewport:'390x844',legacyHeader:true,purpleActivePills:true,legacyProgressBadge:true,noEpisodeTimeline:true,purpleTags:true,episodeTitleClamp:false,seriesTitleClamp:2,collapsiblePlayer:true},null,2));
 }finally{await page.close().catch(()=>{});await browser.close().catch(()=>{});await new Promise(resolve=>server.close(resolve))}
