@@ -1096,7 +1096,7 @@
   saveCollectionProgress=function(time,duration,completed){if(state.context?.type==='episodes')return;return mobileOriginalSaveCollectionProgress(time,duration,completed)};
 
   function mobileEpisodePlaybackContext(episode){
-    const episodes=sortedParityEpisodes().slice().sort((a,b)=>(Number(a.number)||0)-(Number(b.number)||0));
+    const episodes=sortedParityEpisodes();
     const items=episodes.map(item=>({id:'episode:'+item.number,episode:item,start:0,ref:epRef(item.number)}));
     const index=items.findIndex(item=>Number(item.episode.number)===Number(episode.number));if(index<0)return null;
     const topic=EPISODE_TOPICS[parityUi.episodeTopic]||EPISODE_TOPICS.all;
