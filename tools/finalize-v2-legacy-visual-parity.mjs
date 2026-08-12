@@ -3,8 +3,16 @@ import fs from 'node:fs';
 const appPath='app-v2.js';
 const htmlPath='v2.html';
 const marker='V2_LEGACY_VISUAL_PARITY_V1';
+const oldEpisodeClamp='.episode-card-v2 h2{display:-webkit-box!important;-webkit-box-orient:vertical!important;-webkit-line-clamp:2!important;overflow:hidden!important;text-overflow:ellipsis!important;max-height:2.8em!important}';
+const newSeriesClamp='.series>summary>strong{display:-webkit-box!important;-webkit-box-orient:vertical!important;-webkit-line-clamp:2!important;overflow:hidden!important;text-overflow:ellipsis!important;max-height:2.8em!important}';
+const oldMobileClamp='@media(max-width:700px){#player-expand-v2{right:12px;bottom:12px;width:46px;height:46px}.episode-card-v2 h2{max-height:2.8em!important}}';
+const newMobileClamp='@media(max-width:700px){#player-expand-v2{right:12px;bottom:12px;width:46px;height:46px}.series>summary>strong{max-height:2.8em!important}}';
 
 let app=fs.readFileSync(appPath,'utf8');
+if(app.includes(marker)){
+  app=app.replace(oldEpisodeClamp,newSeriesClamp).replace(oldMobileClamp,newMobileClamp);
+  fs.writeFileSync(appPath,app);
+}
 if(!app.includes(marker)){
   const patch=String.raw`
 
@@ -53,14 +61,14 @@ if(!app.includes(marker)){
       '.tags{display:flex!important;flex-wrap:wrap!important;gap:7px!important;margin:12px 0!important}',
       '.tag{display:inline-flex!important;align-items:center!important;width:auto!important;padding:4px 9px!important;border-radius:999px!important;border:1px solid #c4b5fd!important;background:#ede9fe!important;color:#5145b5!important;font-size:.76rem!important;line-height:1.2!important}',
       'html[data-theme="dark"] .tag{background:#2b2649!important;color:#c4b5fd!important;border-color:#5f50bd!important}',
-      '.series>summary>strong{display:-webkit-box!important;-webkit-box-orient:vertical!important;-webkit-line-clamp:2!important;overflow:hidden!important;text-overflow:ellipsis!important;max-height:2.8em!important}',
+      newSeriesClamp,
       '#player-v2.player-collapsed-v2{display:none!important}',
       '#player-expand-v2{position:fixed;right:max(14px,env(safe-area-inset-right));bottom:max(14px,env(safe-area-inset-bottom));z-index:5200;width:48px;height:48px;border-radius:50%;border:1px solid var(--accent);background:var(--accent);color:#fff;box-shadow:var(--shadow-strong);font-size:1.35rem;font-weight:900;cursor:pointer;align-items:center;justify-content:center;padding:0}',
       '#player-expand-v2:not([hidden]){display:flex!important}',
       'body.player-collapsed-v2{padding-bottom:72px!important}',
       'body.player-collapsed-v2 .back-top-v2{bottom:76px!important}',
       '#player-close-v2{font-size:1.15rem!important;font-weight:900!important}',
-      '@media(max-width:700px){#player-expand-v2{right:12px;bottom:12px;width:46px;height:46px}.series>summary>strong{max-height:2.8em!important}}'
+      newMobileClamp
     ].join('');
     document.head.appendChild(style);
     if(!$('#player-expand-v2')){
