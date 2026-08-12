@@ -49,6 +49,7 @@ jobs:
           node tools/finalize-v2-playlist-parity.mjs
           node tools/patch-v2-mobile-deep-polish-v2.mjs
           node tools/finalize-v2-mobile-deep-polish.mjs
+          node tools/finalize-v2-mobile-contrast.mjs
 
       - name: Check JavaScript syntax
         run: |
@@ -66,6 +67,7 @@ jobs:
           node --check tools/finalize-v2-playlist-parity.mjs
           node --check tools/patch-v2-mobile-deep-polish-v2.mjs
           node --check tools/finalize-v2-mobile-deep-polish.mjs
+          node --check tools/finalize-v2-mobile-contrast.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-app-v2.mjs
           node --check tools/test-v2-question-experience.mjs
@@ -74,12 +76,13 @@ jobs:
           node --check tools/test-v2-full-parity.mjs
           node --check tools/test-v2-playlist-parity.mjs
           node --check tools/test-v2-mobile-deep-polish.mjs
+          node --check tools/test-v2-mobile-browser.mjs
 
       - name: Test content integrity
         run: node tools/test-content-v2.mjs
 
-      - name: Install lightweight DOM test dependency
-        run: npm install --no-save --no-package-lock jsdom@26
+      - name: Install DOM and browser test dependencies
+        run: npm install --no-save --no-package-lock jsdom@26 puppeteer-core@24
 
       - name: Test all V2 tabs in DOM
         run: node tools/test-app-v2.mjs
@@ -101,6 +104,18 @@ jobs:
 
       - name: Test deep mobile polish and MP3 download
         run: node tools/test-v2-mobile-deep-polish.mjs
+
+      - name: Test real 390px Chromium layout
+        run: node tools/test-v2-mobile-browser.mjs
+
+      - name: Upload mobile Chromium screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v2-mobile-browser-screenshots
+          path: mobile-browser-artifacts/*.png
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Commit generated V2 runtime
         if: success() && github.actor != 'github-actions[bot]'
