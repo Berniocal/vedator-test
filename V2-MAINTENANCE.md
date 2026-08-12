@@ -14,11 +14,26 @@ Automatický workflow `.github/workflows/update-podcast-feed.yml` denně stáhne
 
 1. `node tools/build-content-v2.mjs`
 2. `node tools/augment-v2-episode-descriptions.mjs`
-3. `node tools/augment-v2-parity-content.mjs`
-4. `node tools/test-content-v2.mjs`
-5. `node tools/test-v2-faq-integrity.mjs`
+3. `node tools/augment-v2-full-descriptions.mjs`
+4. `node tools/augment-v2-parity-content.mjs`
+5. `node tools/test-content-v2.mjs`
+6. `node tools/test-v2-faq-integrity.mjs`
 
 Teprve potom se mají commitnout `episodes.json` a `content-v2.json`.
+
+## Popisek epizody a Číst více
+
+U epizody jsou záměrně dvě různé podoby popisu a nesmí se znovu sloučit do jedné:
+
+- `description` / jazyková `i18n.*.description` je krátký smysluplný popis karty a zdroj pro vyhledávání;
+- `fullDescription` je celý popis jako prostý text pro záložní zobrazení;
+- `fullDescriptionHtml` / `i18n.*.fullDescriptionHtml` je bezpečný bohatý HTML popis z RSS pro `Číst více`, včetně odstavců a HTTP(S) odkazů.
+
+`tools/augment-v2-full-descriptions.mjs` musí plný HTML popis vytvářet z původního `episodes.json`. U české varianty zachová strukturu HTML a odkazy, ale použije existující překlady prvního odstavce a promo textů ze `episode-translations-*.js`.
+
+**Nikdy nepoužívej `fullDescription` ani `fullDescriptionHtml` pro vyhledávání.** Vyhledávání epizod má stejně jako stará verze končit před větou `Podcast vzniká ... spolupráci ... SME`; sponzorské texty a odkazy za ní nesmějí ovlivnit výsledky.
+
+Při změně `Číst více` vždy ověř díl 347 v reálném browser testu `tools/test-v2-real-readmore-browser.mjs`: po rozbalení musí být vidět SME a promo odstavce, odkazy Herohero/Martinus musí být klikací, po sbalení musí zmizet a `herohero` nesmí být v search indexu.
 
 ## FAQ / Otázky
 
@@ -44,6 +59,7 @@ Při přidání překladu:
 
 - zachovej existující strukturu `TRANSLATIONS` nebo `TRANSLATION`;
 - nepřidávej nový runtime loader;
+- pokud soubor obsahuje `DESCRIPTION_TEXT_PAIRS` nebo `COMMON_TEXT_PAIRS`, používají se také při sestavení českého plného HTML popisu;
 - po buildu ověř počet bilingvních epizod v `tools/test-content-v2.mjs`.
 
 ## Překlady otázek
@@ -83,6 +99,7 @@ Minimálně:
 ```text
 node tools/build-content-v2.mjs
 node tools/augment-v2-episode-descriptions.mjs
+node tools/augment-v2-full-descriptions.mjs
 node tools/augment-v2-parity-content.mjs
 node tools/test-content-v2.mjs
 node tools/test-v2-faq-integrity.mjs
@@ -94,6 +111,7 @@ node tools/test-v2-playlist-parity.mjs
 node tools/test-v2-mobile-deep-polish.mjs
 node tools/test-v2-mobile-browser.mjs
 node tools/test-v2-mobile-browser-playlist.mjs
+node tools/test-v2-real-readmore-browser.mjs
 ```
 
 Publikovat až po zeleném CI. Produkční repo `Berniocal/vedator` se nesmí měnit při práci na testovací V2, pokud to uživatel výslovně nepožádá.
