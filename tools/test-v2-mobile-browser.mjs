@@ -66,9 +66,15 @@ try{
   assert(Math.max(actionLayout.play.top,actionLayout.more.top,actionLayout.share.top)-Math.min(actionLayout.play.top,actionLayout.more.top,actionLayout.share.top)<=3,'Question play/read-more/share do not stay on one row');
   assert(actionLayout.share.right<=actionLayout.cardRight+1,'Question share button overflows card');
 
-  const search=await page.$('#search-v2');await search.click({clickCount:3});await search.type('slunce');await sleep(120);
+  const visibleSearchWord=await page.evaluate(()=>{
+    const texts=[...document.querySelectorAll('#questions-v2 .question-card h2')].map(node=>node.textContent||'');
+    const words=texts.flatMap(value=>value.match(/[A-Za-zÁ-ž]{5,}/g)||[]).filter(word=>!['vedátorský','podcast'].includes(word.toLowerCase()));
+    return words.sort((a,b)=>b.length-a.length)[0]||'';
+  });
+  assert(visibleSearchWord,'Could not derive visible-language question search word');
+  const search=await page.$('#search-v2');await search.click({clickCount:3});await search.type(visibleSearchWord);await sleep(150);
   const marks=await page.$$eval('#questions-v2 mark.vedator-match',nodes=>nodes.length);
-  assert(marks>0,'Real browser question search has no yellow highlight');
+  assert(marks>0,`Real browser question search has no yellow highlight for visible term: ${visibleSearchWord}`);
   await page.screenshot({path:path.join(artifactDir,'02-questions-search-highlight.png'),fullPage:false});
 
   await page.click('.tab-v2[data-view="episodes"]');await sleep(80);await page.$eval('#search-v2',input=>{input.value='';input.dispatchEvent(new Event('input',{bubbles:true}))});await sleep(100);
@@ -93,7 +99,7 @@ try{
   const finalOverflow=await page.evaluate(()=>({scrollWidth:document.documentElement.scrollWidth,clientWidth:document.documentElement.clientWidth}));
   assert(finalOverflow.scrollWidth<=finalOverflow.clientWidth+1,`Body overflows after player opens: ${finalOverflow.scrollWidth}px > ${finalOverflow.clientWidth}px`);
 
-  console.log(JSON.stringify({ok:true,browser:path.basename(executablePath),viewport:'390x844',bodyOverflow:false,topicContrast:Number(topicContrast.toFixed(2)),topicScrollbarHidden:true,questionActionsOneRow:true,searchHighlight:true,playerPrimaryRow:5,playerSecondaryRow:4,playerOverflow:false,screenshots:fs.readdirSync(artifactDir).sort()},null,2));
+  console.log(JSON.stringify({ok:true,browser:path.basename(executablePath),viewport:'390x844',bodyOverflow:false,topicContrast:Number(topicContrast.toFixed(2)),topicScrollbarHidden:true,questionActionsOneRow:true,searchHighlight:true,visibleSearchWord,playerPrimaryRow:5,playerSecondaryRow:4,playerOverflow:false,screenshots:fs.readdirSync(artifactDir).sort()},null,2));
 }finally{
   await page.close().catch(()=>{});await browser.close().catch(()=>{});await new Promise(resolve=>server.close(resolve));
 }
