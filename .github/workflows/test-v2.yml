@@ -11,10 +11,13 @@ on:
       - v2/ui-polish-dark-mobile
       - v2/full-parity-audit
       - v2/mobile-deep-polish
+      - v2/final-ui-faq-guide
     paths:
       - 'tools/**'
       - 'app-v2.js'
       - 'v2.html'
+      - 'manifest-v2.webmanifest'
+      - 'V2-MAINTENANCE.md'
       - '.github/workflows/test-v2.yml'
       - '.github/workflows/update-podcast-feed.yml'
   workflow_dispatch:
@@ -52,6 +55,7 @@ jobs:
           node tools/finalize-v2-mobile-contrast.mjs
           node tools/finalize-v2-mobile-width.mjs
           node tools/finalize-v2-episode-context-order.mjs
+          node tools/finalize-v2-final-ui-faq-guide.mjs
 
       - name: Check JavaScript syntax
         run: |
@@ -72,7 +76,9 @@ jobs:
           node --check tools/finalize-v2-mobile-contrast.mjs
           node --check tools/finalize-v2-mobile-width.mjs
           node --check tools/finalize-v2-episode-context-order.mjs
+          node --check tools/finalize-v2-final-ui-faq-guide.mjs
           node --check tools/test-content-v2.mjs
+          node --check tools/test-v2-faq-integrity.mjs
           node --check tools/test-app-v2.mjs
           node --check tools/test-v2-question-experience.mjs
           node --check tools/test-v2-episode-experience.mjs
@@ -83,9 +89,13 @@ jobs:
           node --check tools/test-v2-episode-context-order.mjs
           node --check tools/test-v2-mobile-browser.mjs
           node --check tools/test-v2-mobile-browser-playlist.mjs
+          node --check tools/test-v2-final-ui-faq-guide.mjs
 
       - name: Test content integrity
         run: node tools/test-content-v2.mjs
+
+      - name: Test FAQ series and questions integrity
+        run: node tools/test-v2-faq-integrity.mjs
 
       - name: Install DOM and browser test dependencies
         run: npm install --no-save --no-package-lock jsdom@26 puppeteer-core@24
@@ -111,8 +121,11 @@ jobs:
       - name: Test deep mobile polish and MP3 download
         run: node tools/test-v2-mobile-deep-polish.mjs
 
-      - name: Test episode player follows visible sort order
+      - name: Test numeric episode player navigation
         run: node tools/test-v2-episode-context-order.mjs
+
+      - name: Test final V2 UI and offline progress
+        run: node tools/test-v2-final-ui-faq-guide.mjs
 
       - name: Test real 390px Chromium layout
         run: node tools/test-v2-mobile-browser.mjs
@@ -138,6 +151,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'Generated V2 runtime is unchanged.'
           else
-            git commit -m 'Build V2 deep mobile polish runtime'
+            git commit -m 'Build V2 final UI runtime'
             git push origin HEAD:${{ github.ref_name }}
           fi
