@@ -43,6 +43,7 @@ jobs:
           node tools/patch-v2-tests.mjs
           node tools/patch-v2-full-parity.mjs
           node tools/finalize-v2-full-parity.mjs
+          node tools/patch-v2-playlist-parity.mjs
 
       - name: Check JavaScript syntax
         run: |
@@ -56,12 +57,14 @@ jobs:
           node --check tools/patch-v2-tests.mjs
           node --check tools/patch-v2-full-parity.mjs
           node --check tools/finalize-v2-full-parity.mjs
+          node --check tools/patch-v2-playlist-parity.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-app-v2.mjs
           node --check tools/test-v2-question-experience.mjs
           node --check tools/test-v2-episode-experience.mjs
           node --check tools/test-v2-ui-experience.mjs
           node --check tools/test-v2-full-parity.mjs
+          node --check tools/test-v2-playlist-parity.mjs
 
       - name: Test content integrity
         run: node tools/test-content-v2.mjs
@@ -83,6 +86,9 @@ jobs:
 
       - name: Test full legacy parity
         run: node tools/test-v2-full-parity.mjs
+
+      - name: Test playlist collection and mobile editor parity
+        run: node tools/test-v2-playlist-parity.mjs
 
       - name: Commit generated V2 runtime
         if: success() && github.actor != 'github-actions[bot]'
