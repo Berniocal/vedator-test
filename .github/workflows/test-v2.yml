@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - v2/content-and-tabs
+      - v2/user-data-player-playlists
     paths:
       - 'tools/**'
       - 'app-v2.js'
@@ -21,7 +22,7 @@ jobs:
       - name: Checkout V2 branch
         uses: actions/checkout@v4
         with:
-          ref: v2/content-and-tabs
+          ref: ${{ github.ref_name }}
 
       - name: Build one content bundle
         run: node tools/build-content-v2.mjs
@@ -52,5 +53,5 @@ jobs:
             echo 'content-v2.json is unchanged.'
           else
             git commit -m 'Build content-v2 bundle'
-            git push origin HEAD:v2/content-and-tabs
+            git push origin HEAD:${{ github.ref_name }}
           fi
