@@ -10,7 +10,7 @@ if(!faqSeries)throw new Error('Series containing episode 340 missing');
 const index340=faqSeries.episodes.indexOf(340);
 const completedEpisode=faqSeries.episodes.find(number=>number!==340);
 
-const dom=new JSDOM(html,{url:'https://example.test/v2.html',runScripts:'outside-only',pretendToBeVisual:true});
+const dom=new JSDOM(html,{url:'https://example.test/v2.html#episode=340',runScripts:'outside-only',pretendToBeVisual:true});
 const {window}=dom;
 window.localStorage.setItem('vedator-ui-language-v1','cz');
 window.localStorage.setItem('vedatorPlaybackProgressV1',JSON.stringify({
@@ -34,11 +34,11 @@ const ready=new Promise((resolve,reject)=>{
 window.eval(app);
 window.document.dispatchEvent(new window.Event('DOMContentLoaded',{bubbles:true}));
 await ready;
-await new Promise(resolve=>setTimeout(resolve,20));
+await new Promise(resolve=>setTimeout(resolve,40));
 
 const assert=(condition,message)=>{if(!condition)throw new Error(message)};
 const episodeCard=window.document.querySelector('#episodes-v2 article[data-episode="340"]');
-assert(episodeCard,'Episode 340 card missing');
+assert(episodeCard,'Episode 340 card missing through deep-link lazy expansion');
 const progress=episodeCard.querySelector('.episode-progress-v2 progress');
 assert(progress,'Episode progress bar missing');
 assert(Number(progress.value)===17,`Expected rounded episode progress 17, got ${progress.value}`);
@@ -52,6 +52,8 @@ assert(chapterButtons[0].dataset.episode==='340','Chapter playback episode misma
 assert(summary.textContent.includes('Shrnutí dílu'),'Czech episode summary label missing');
 
 const seriesIndex=data.series.indexOf(faqSeries);
+const seriesTab=[...window.document.querySelectorAll('.tab-v2')].find(tab=>tab.dataset.view==='series');seriesTab.click();
+await new Promise(resolve=>setTimeout(resolve,20));
 const seriesCard=window.document.querySelector(`#series-v2 .series[data-series-index="${seriesIndex}"]`);
 assert(seriesCard,'Series card missing');
 const seriesProgress=seriesCard.querySelector('.series-progress-bar-v2');
@@ -61,6 +63,8 @@ assert(seriesProgress&&seriesLabel&&resume,'Series progress controls missing');
 assert(seriesLabel.textContent.includes(`1 / ${faqSeries.episodes.length}`),`Unexpected series progress: ${seriesLabel.textContent}`);
 assert(Number(resume.dataset.itemIndex)===index340,`Resume index ${resume.dataset.itemIndex} does not point to episode 340 index ${index340}`);
 assert(resume.textContent.includes('Pokračovat'),'Series resume label missing');
+seriesCard.open=true;seriesCard.dispatchEvent(new window.Event('toggle'));
+await new Promise(resolve=>setTimeout(resolve,20));
 const status340=seriesCard.querySelector('.series-item-status-v2[data-episode="340"]');
 assert(status340?.textContent==='▶','In-progress series item status missing');
 const statusDone=seriesCard.querySelector(`.series-item-status-v2[data-episode="${completedEpisode}"]`);
@@ -73,19 +77,12 @@ assert(window.document.querySelector('#player-title-v2').textContent.length>0,'P
 
 const skButton=window.document.querySelector('.language-v2 [data-lang="sk"]');
 skButton.click();
-await new Promise(resolve=>setTimeout(resolve,20));
+await new Promise(resolve=>setTimeout(resolve,30));
+window.location.hash='#episode=340';window.dispatchEvent(new window.HashChangeEvent('hashchange'));
+await new Promise(resolve=>setTimeout(resolve,30));
 const summarySk=window.document.querySelector('#episodes-v2 article[data-episode="340"] .episode-summary-v2');
 assert(summarySk?.textContent.includes('Zhrnutie dielu'),'Episode summary label did not translate to Slovak');
+seriesTab.click();await new Promise(resolve=>setTimeout(resolve,20));
 assert(window.document.querySelector(`#series-v2 .series[data-series-index="${seriesIndex}"] .series-resume-v2`)?.textContent.includes('Pokračovať'),'Series resume did not translate to Slovak');
 
-console.log(JSON.stringify({
-  ok:true,
-  episode:340,
-  episodeProgress:Number(progress.value),
-  chapters:chapterButtons.length,
-  series:faqSeries.name,
-  seriesEpisodes:faqSeries.episodes.length,
-  completed:1,
-  resumeEpisode:340,
-  translated:true
-},null,2));
+console.log(JSON.stringify({ok:true,episode:340,episodeProgress:Number(progress.value),chapters:chapterButtons.length,series:faqSeries.name,seriesEpisodes:faqSeries.episodes.length,completed:1,resumeEpisode:340,translated:true,lazySeriesBody:true},null,2));
