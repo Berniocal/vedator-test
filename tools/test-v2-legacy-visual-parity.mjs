@@ -49,6 +49,7 @@ const badge=progressCard.querySelector('.listen-status.progress');
 assert(badge&&badge.textContent.includes('Rozposloucháno')&&badge.textContent.includes('35 %'),'Progress badge should show only legacy percentage status');
 assert(!progressCard.querySelector('.episode-progress-v2'),'Episode timeline/progress bar still rendered');
 assert(progressCard.querySelector('.tag'),'Purple keyword tag missing from episode card');
+assert(progressCard.querySelector('.episode-more-v2'),'Partially listened episode must still have Read more');
 
 const doneCard=window.document.querySelector('#episodes-v2 .episode-card-v2[data-episode="347"]');
 assert(doneCard?.querySelector('.listen-status.done')?.textContent.includes('Poslechnuto'),'Completed badge missing');
@@ -62,8 +63,9 @@ assert(collapse.textContent==='↓','Player collapse button should be down arrow
 collapse.click();await new Promise(resolve=>setTimeout(resolve,20));
 assert(window.document.querySelector('#player-v2').classList.contains('player-collapsed-v2'),'Player did not collapse');
 const expand=window.document.querySelector('#player-expand-v2');
-assert(expand&&!expand.hidden&&expand.textContent==='↑','Floating expand arrow missing after collapse');
+assert(expand&&!expand.hidden&&expand.textContent.includes('♫')&&expand.textContent.includes('↑'),'Distinct floating player expand control missing after collapse');
+assert(window.document.querySelector('#back-top-v2')?.textContent==='↑','Back-to-top control must remain plain up arrow');
 expand.click();await new Promise(resolve=>setTimeout(resolve,20));
 assert(!window.document.querySelector('#player-v2').classList.contains('player-collapsed-v2'),'Player did not expand again');
 
-console.log(JSON.stringify({ok:true,legacyHeader:true,activePills:true,legacyBadges:true,noEpisodeTimeline:true,purpleTags:true,collapsiblePlayer:true,episodeTitleClamp:false,seriesTitleClampLines:2},null,2));
+console.log(JSON.stringify({ok:true,legacyHeader:true,activePills:true,legacyBadges:true,noEpisodeTimeline:true,purpleTags:true,collapsiblePlayer:true,episodeTitleClamp:false,seriesTitleEllipsis:true},null,2));
