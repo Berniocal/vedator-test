@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#111827">
+<title>Vedátor V2 test</title>
+<style>
+:root{--bg:#f4f6fb;--card:#fff;--ink:#162033;--muted:#64748b;--line:#dbe2ea;--accent:#5b4bdb;--accent2:#ede9fe}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif}header{background:linear-gradient(135deg,#151b2f,#32256c);color:white;padding:24px 18px}.wrap{max-width:1100px;margin:auto}main{padding:18px}.panel,.card,.series{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 8px 24px rgba(15,23,42,.05)}.panel{padding:14px}.controls{display:grid;grid-template-columns:1fr;gap:10px}.search{width:100%;padding:13px;border:1px solid var(--line);border-radius:12px;font:inherit}.tabs{display:flex;gap:8px;overflow:auto;padding-top:12px}.tab-v2{white-space:nowrap;border:1px solid var(--line);background:white;border-radius:999px;padding:8px 12px;font:inherit;cursor:pointer}.tab-v2.active{background:var(--accent2);border-color:#8b7ee8;color:#392b9b;font-weight:750}.status-row{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;color:var(--muted);margin:14px 2px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:12px}.card{padding:15px;display:flex;flex-direction:column;min-height:210px}.card h2{font-size:1.04rem;line-height:1.35}.card p,.card li{line-height:1.45}.card ul{padding-left:1.15rem}.meta{font-size:.82rem;color:var(--muted)}.actions{display:flex;gap:8px;margin-top:auto}.actions a,.actions button{flex:1;text-align:center;text-decoration:none;border:0;border-radius:10px;padding:9px;background:var(--accent);color:white;font:inherit;font-weight:700;cursor:pointer}.actions .secondary{background:white;color:var(--ink);border:1px solid var(--line)}.series{margin-bottom:10px;padding:0 14px}.series summary{cursor:pointer;padding:14px 0;display:flex;justify-content:space-between;gap:12px}.series li{padding:.25rem 0}.empty{padding:24px;border:1px dashed var(--line);border-radius:14px;color:var(--muted);background:white}.hidden,.filtered-out{display:none!important}#status-v2.error{color:#b91c1c}audio{width:100%;margin-top:14px}
+</style>
+</head>
+<body>
+<header><div class="wrap"><div style="opacity:.72;font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase">Radikální testovací V2</div><h1 style="margin:.3rem 0 0">Vedátorský podcast</h1></div></header>
+<main class="wrap">
+  <section class="panel">
+    <div class="controls"><input id="search-v2" class="search" placeholder="Hledat v právě otevřené záložce…"></div>
+    <div class="tabs" aria-label="Pohledy">
+      <button class="tab-v2 active" data-view="episodes" type="button">Epizody</button>
+      <button class="tab-v2" data-view="series" type="button">Série</button>
+      <button class="tab-v2" data-view="questions" type="button">Otázky</button>
+      <button class="tab-v2" data-view="nonquestions" type="button">Neotázky</button>
+      <button class="tab-v2" data-view="playlists" type="button">Playlisty</button>
+    </div>
+  </section>
+  <div class="status-row"><div id="status-v2">Načítám jediný datový balík…</div><div id="count-v2"></div></div>
+  <section id="episodes-v2" class="view-v2 grid" data-view="episodes"></section>
+  <section id="series-v2" class="view-v2 hidden" data-view="series"></section>
+  <section id="questions-v2" class="view-v2 grid hidden" data-view="questions"></section>
+  <section id="nonquestions-v2" class="view-v2 grid hidden" data-view="nonquestions"></section>
+  <section id="playlists-v2" class="view-v2 grid hidden" data-view="playlists"></section>
+  <audio id="audio-v2" controls preload="metadata"></audio>
+</main>
+<script src="./app-v2.js" defer></script>
+</body>
+</html>
