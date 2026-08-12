@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#151b2f">
+<link rel="manifest" href="./manifest-v2.webmanifest">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
 <title>Vedátor V2 test</title>
 <script>
 (()=>{try{const key='vedator-ui-theme-v1',saved=localStorage.getItem(key),dark=matchMedia?.('(prefers-color-scheme: dark)').matches;document.documentElement.dataset.theme=saved==='light'||saved==='dark'?saved:(dark?'dark':'light')}catch{document.documentElement.dataset.theme='light'}})();
@@ -233,10 +235,21 @@ main,.wrap,.view-v2,.grid,.grid>*,.card,.episode-card-v2,.question-card,.series,
   .player-controls>*{min-width:0!important;max-width:100%!important}
 }
 
+
+/* V2_FINAL_UI_FAQ_GUIDE_CSS_V1 */
+.install-v2{min-height:38px;border:1px solid rgba(255,255,255,.4);background:rgba(255,255,255,.14);color:#fff;border-radius:10px;padding:7px 11px;font-weight:850;cursor:pointer;white-space:nowrap}.install-v2:hover{background:rgba(255,255,255,.24)}.install-v2.hidden{display:none!important}
+html body .tab-v2.active,html body .topic-v2.active,html body .question-topic.active,html[data-theme="dark"] body .tab-v2.active,html[data-theme="dark"] body .topic-v2.active,html[data-theme="dark"] body .question-topic.active{background:#5b4bdb!important;border-color:#5b4bdb!important;color:#fff!important}
+.status-row{justify-content:flex-start!important}.status-row #count-v2{margin-right:auto;text-align:left}.status-row #status-v2:empty{display:none}.parity-refresh-v2{display:none!important}
+#series-v2:not(.hidden){display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;align-items:start}#series-v2 .series{margin:0;min-width:0}
+.series-progress-label-v2,.series-progress-main-v2,.playlist-progress-main-v2,.series-item-status-v2,.playlist-item-status-v2{display:none!important}.series-progress-box-v2,.playlist-progress-box-v2{grid-template-columns:1fr!important;padding:0 0 10px!important}.series-resume-v2,.playlist-resume-v2{width:100%!important}.playlist-open{grid-template-columns:minmax(0,1fr)!important}
+.v2-collection-title-active{color:#d97706!important}.v2-collection-title-complete{color:#15803d!important}.v2-collection-progress-text{--vedator-heard:#16a34a;--vedator-unheard:#392b9b;background:linear-gradient(90deg,var(--vedator-heard) 0 var(--vedator-progress),var(--vedator-unheard) var(--vedator-progress) 100%);-webkit-background-clip:text;background-clip:text;color:transparent!important}.v2-collection-complete-text{color:#15803d!important}html[data-theme="dark"] .v2-collection-title-active{color:#fbbf24!important}html[data-theme="dark"] .v2-collection-title-complete{color:#4ade80!important}html[data-theme="dark"] .v2-collection-progress-text{--vedator-heard:#4ade80;--vedator-unheard:#c4b5fd}html[data-theme="dark"] .v2-collection-complete-text{color:#4ade80!important}
+#player-play-v2{font-size:1.2rem!important;letter-spacing:-.08em}
+@media(max-width:900px){#series-v2:not(.hidden){grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:620px){#series-v2:not(.hidden){grid-template-columns:1fr}.install-v2{min-height:36px;padding:5px 8px;font-size:.82rem}}
+
 </style>
 </head>
 <body>
-<header><div class="wrap header-v2"><div class="header-title-v2"><div id="eyebrow-v2" style="opacity:.72;font-size:.76rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase">Radikální testovací V2</div><h1 id="heading-v2" style="margin:.25rem 0 0">Vedátorský podcast</h1></div><div class="header-actions-v2"><div class="language-v2" role="group" aria-label="Jazyk aplikace / Jazyk aplikácie"><button type="button" data-lang="sk">SK</button><button type="button" data-lang="cz">CZ</button></div><button id="theme-toggle-v2" class="theme-toggle-v2" type="button" aria-pressed="false" title="Tmavý režim">☾</button></div></div></header>
+<header><div class="wrap header-v2"><div class="header-title-v2"><div id="eyebrow-v2" style="opacity:.72;font-size:.76rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase">Radikální testovací V2</div><h1 id="heading-v2" style="margin:.25rem 0 0">Vedátorský podcast</h1></div><div class="header-actions-v2"><button id="install-v2" class="install-v2" type="button">Instalovat</button><div class="language-v2" role="group" aria-label="Jazyk aplikace / Jazyk aplikácie"><button type="button" data-lang="sk">SK</button><button type="button" data-lang="cz">CZ</button></div><button id="theme-toggle-v2" class="theme-toggle-v2" type="button" aria-pressed="false" title="Tmavý režim">☾</button></div></div></header>
 <main class="wrap">
   <section class="panel">
     <div class="controls"><input id="search-v2" class="search" placeholder="Hledat v právě otevřené záložce…"></div>
