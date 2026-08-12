@@ -14,6 +14,7 @@ on:
       - v2/final-ui-faq-guide
       - v2/card-player-polish
       - v2/legacy-visual-parity
+      - v2/final-readmore-mobile-fixes
     paths:
       - 'tools/**'
       - 'app-v2.js'
@@ -40,6 +41,7 @@ jobs:
         run: |
           node tools/build-content-v2.mjs
           node tools/augment-v2-episode-descriptions.mjs
+          node tools/augment-v2-full-descriptions.mjs
           node tools/augment-v2-parity-content.mjs
 
       - name: Build V2 experiences into app-v2
@@ -62,12 +64,14 @@ jobs:
           node tools/fix-v2-series-three-column-mobile.mjs
           node tools/finalize-v2-card-player-polish.mjs
           node tools/finalize-v2-legacy-visual-parity.mjs
+          node tools/finalize-v2-last-ux-fixes.mjs
 
       - name: Check JavaScript syntax
         run: |
           node --check app-v2.js
           node --check tools/build-content-v2.mjs
           node --check tools/augment-v2-episode-descriptions.mjs
+          node --check tools/augment-v2-full-descriptions.mjs
           node --check tools/augment-v2-parity-content.mjs
           node --check tools/patch-v2-question-experience.mjs
           node --check tools/patch-v2-episode-experience.mjs
@@ -87,6 +91,7 @@ jobs:
           node --check tools/fix-v2-series-three-column-mobile.mjs
           node --check tools/finalize-v2-card-player-polish.mjs
           node --check tools/finalize-v2-legacy-visual-parity.mjs
+          node --check tools/finalize-v2-last-ux-fixes.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-v2-faq-integrity.mjs
           node --check tools/test-app-v2.mjs
@@ -104,6 +109,7 @@ jobs:
           node --check tools/test-v2-card-player-polish.mjs
           node --check tools/test-v2-legacy-visual-parity.mjs
           node --check tools/test-v2-legacy-visual-browser.mjs
+          node --check tools/test-v2-last-ux-browser.mjs
 
       - name: Test content integrity
         run: node tools/test-content-v2.mjs
@@ -159,6 +165,9 @@ jobs:
       - name: Test legacy visuals in real 390px Chromium
         run: node tools/test-v2-legacy-visual-browser.mjs
 
+      - name: Test final read-more and mobile UX in Chromium
+        run: node tools/test-v2-last-ux-browser.mjs
+
       - name: Upload mobile Chromium screenshots
         if: always()
         uses: actions/upload-artifact@v4
@@ -177,6 +186,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'Generated V2 runtime is unchanged.'
           else
-            git commit -m 'Build V2 legacy visual parity'
+            git commit -m 'Build V2 final read-more and mobile fixes'
             git push origin HEAD:${{ github.ref_name }}
           fi
