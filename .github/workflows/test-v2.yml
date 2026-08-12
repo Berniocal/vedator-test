@@ -9,6 +9,7 @@ on:
       - v2/questions-nonquestions-deeplinks
       - v2/episode-cards-and-series-progress
       - v2/ui-polish-dark-mobile
+      - v2/full-parity-audit
     paths:
       - 'tools/**'
       - 'app-v2.js'
@@ -32,6 +33,7 @@ jobs:
         run: |
           node tools/build-content-v2.mjs
           node tools/augment-v2-episode-descriptions.mjs
+          node tools/augment-v2-parity-content.mjs
 
       - name: Build V2 experiences into app-v2
         run: |
@@ -39,21 +41,27 @@ jobs:
           node tools/patch-v2-episode-experience.mjs
           node tools/patch-v2-ui-experience.mjs
           node tools/patch-v2-tests.mjs
+          node tools/patch-v2-full-parity.mjs
+          node tools/patch-v2-full-parity-fixes.mjs
 
       - name: Check JavaScript syntax
         run: |
           node --check app-v2.js
           node --check tools/build-content-v2.mjs
           node --check tools/augment-v2-episode-descriptions.mjs
+          node --check tools/augment-v2-parity-content.mjs
           node --check tools/patch-v2-question-experience.mjs
           node --check tools/patch-v2-episode-experience.mjs
           node --check tools/patch-v2-ui-experience.mjs
           node --check tools/patch-v2-tests.mjs
+          node --check tools/patch-v2-full-parity.mjs
+          node --check tools/patch-v2-full-parity-fixes.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-app-v2.mjs
           node --check tools/test-v2-question-experience.mjs
           node --check tools/test-v2-episode-experience.mjs
           node --check tools/test-v2-ui-experience.mjs
+          node --check tools/test-v2-full-parity.mjs
 
       - name: Test content integrity
         run: node tools/test-content-v2.mjs
@@ -73,6 +81,9 @@ jobs:
       - name: Test dark mode and mobile UI
         run: node tools/test-v2-ui-experience.mjs
 
+      - name: Test full legacy parity
+        run: node tools/test-v2-full-parity.mjs
+
       - name: Commit generated V2 runtime
         if: success() && github.actor != 'github-actions[bot]'
         run: |
@@ -82,6 +93,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'Generated V2 runtime is unchanged.'
           else
-            git commit -m 'Build V2 UI experience'
+            git commit -m 'Build V2 full parity runtime'
             git push origin HEAD:${{ github.ref_name }}
           fi
