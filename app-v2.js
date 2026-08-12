@@ -477,7 +477,7 @@
     if(!confirm(text('Opravdu chcete smazat veškerá data aplikace Vedátor v tomto zařízení?\n\nTuto akci nelze vrátit zpět.','Naozaj chcete zmazať všetky dáta aplikácie Vedátor v tomto zariadení?\n\nTúto akciu nemožno vrátiť späť.')))return;closePlayer();
     try{const keys=[];for(let i=0;i<localStorage.length;i++){const key=localStorage.key(i);if(key?.toLowerCase().startsWith('vedator'))keys.push(key)}keys.forEach(key=>localStorage.removeItem(key))}catch{}
     try{const keys=[];for(let i=0;i<sessionStorage.length;i++){const key=sessionStorage.key(i);if(key?.toLowerCase().startsWith('vedator'))keys.push(key)}keys.forEach(key=>sessionStorage.removeItem(key))}catch{}
-    try{await caches.delete(OFFLINE_CACHE)}catch{}state.language='sk';loadUserData();rerenderLanguage();$('#status-v2').textContent=text('Veškerá data aplikace byla smazána.','Všetky dáta aplikácie boli zmazané.');
+    try{await caches.delete(OFFLINE_CACHE)}catch{}state.language='sk';applyTheme(systemPreferredTheme(),false);loadUserData();rerenderLanguage();$('#status-v2').textContent=text('Veškerá data aplikace byla smazána.','Všetky dáta aplikácie boli zmazané.');
   }
 
   function bind(){
@@ -665,11 +665,62 @@
   }
   window.addEventListener('vedator-v2-ready',()=>{installEnhancedQuestionUi();enhanceDeepShareButtons();processDeepLink()});
 
+
+  /* V2_UI_EXPERIENCE_V1 */
+  const THEME_KEY='vedator-ui-theme-v1';
+  function systemPreferredTheme(){
+    try{return window.matchMedia?.('(prefers-color-scheme: dark)').matches?'dark':'light'}catch{return'light'}
+  }
+  function storedTheme(){
+    try{const saved=localStorage.getItem(THEME_KEY);return saved==='dark'||saved==='light'?saved:''}catch{return''}
+  }
+  function currentTheme(){
+    const html=document.documentElement.dataset.theme;
+    return html==='dark'||html==='light'?html:(storedTheme()||systemPreferredTheme());
+  }
+  function updateThemeButton(){
+    const button=$('#theme-toggle-v2');if(!button)return;
+    const dark=currentTheme()==='dark';
+    const label=dark?text('Přepnout na světlý režim','Prepnúť na svetlý režim'):text('Přepnout na tmavý režim','Prepnúť na tmavý režim');
+    button.textContent=dark?'☀':'☾';button.title=label;button.setAttribute('aria-label',label);button.setAttribute('aria-pressed',String(dark));
+  }
+  function updateBackTopLabel(){
+    const button=$('#back-top-v2');if(!button)return;
+    const label=text('Nahoru','Nahor');button.title=label;button.setAttribute('aria-label',label);
+  }
+  function applyTheme(theme,persist=true){
+    const next=theme==='dark'?'dark':'light';document.documentElement.dataset.theme=next;
+    const meta=document.querySelector('meta[name="theme-color"]');if(meta)meta.content=next==='dark'?'#0b0e16':'#151b2f';
+    if(persist){try{localStorage.setItem(THEME_KEY,next)}catch{}}
+    updateThemeButton();
+    window.dispatchEvent(new CustomEvent('vedatorthemechange',{detail:{theme:next}}));
+  }
+  function updateBackTopVisibility(){
+    const button=$('#back-top-v2');if(!button)return;
+    button.classList.toggle('hidden',Number(window.scrollY||0)<650);
+  }
+  function installUiExperience(){
+    if(document.documentElement.dataset.v2UiInstalled==='1')return;
+    document.documentElement.dataset.v2UiInstalled='1';
+    applyTheme(storedTheme()||currentTheme(),false);updateBackTopLabel();updateBackTopVisibility();
+    $('#theme-toggle-v2')?.addEventListener('click',()=>applyTheme(currentTheme()==='dark'?'light':'dark',true));
+    $('#back-top-v2')?.addEventListener('click',()=>{
+      let behavior='smooth';try{if(window.matchMedia?.('(prefers-reduced-motion: reduce)').matches)behavior='auto'}catch{}
+      try{window.scrollTo({top:0,behavior})}catch{window.scrollTo?.(0,0)}
+    });
+    window.addEventListener('scroll',updateBackTopVisibility,{passive:true});
+    window.addEventListener('vedatorlanguagechange',()=>{updateThemeButton();updateBackTopLabel()});
+    try{
+      const media=window.matchMedia?.('(prefers-color-scheme: dark)');
+      media?.addEventListener?.('change',event=>{if(!storedTheme())applyTheme(event.matches?'dark':'light',false)});
+    }catch{}
+  }
+
   async function start(){
     const status=$('#status-v2');
     try{
       const response=await fetch('./content-v2.json',{cache:'no-store'});if(!response.ok)throw new Error(`HTTP ${response.status}`);state.data=await response.json();
-      buildLegacyQuestionIndex();loadUserData();installEpisodeExperienceStyles();applyStaticUi();renderEpisodes();renderSeries();renderQuestions();renderNonQuestions();renderPlaylists();renderData();bind();setView('episodes');
+      buildLegacyQuestionIndex();loadUserData();installEpisodeExperienceStyles();installUiExperience();applyStaticUi();renderEpisodes();renderSeries();renderQuestions();renderNonQuestions();renderPlaylists();renderData();bind();setView('episodes');
       status.textContent=`${text('V2 načtena','V2 načítaná')}: ${state.data.episodes.length} ${text('epizod','epizód')}, ${state.data.questions.length} ${text('otázek','otázok')}.`;
       document.documentElement.dataset.vedatorV2Ready='1';window.dispatchEvent(new CustomEvent('vedator-v2-ready',{detail:{episodes:state.data.episodes.length,questions:state.data.questions.length,playlists:state.playlists.length,language:state.language}}));setTimeout(importSharedPlaylist,0);
     }catch(error){status.textContent=`${text('V2 se nepodařilo načíst','V2 sa nepodarilo načítať')}: ${error.message}`;status.classList.add('error');console.error(error)}
