@@ -12,6 +12,7 @@ on:
       - v2/full-parity-audit
       - v2/mobile-deep-polish
       - v2/final-ui-faq-guide
+      - v2/card-player-polish
     paths:
       - 'tools/**'
       - 'app-v2.js'
@@ -58,6 +59,7 @@ jobs:
           node tools/finalize-v2-final-ui-faq-guide.mjs
           node tools/fix-v2-final-ui-runtime.mjs
           node tools/fix-v2-series-three-column-mobile.mjs
+          node tools/finalize-v2-card-player-polish.mjs
 
       - name: Check JavaScript syntax
         run: |
@@ -81,6 +83,7 @@ jobs:
           node --check tools/finalize-v2-final-ui-faq-guide.mjs
           node --check tools/fix-v2-final-ui-runtime.mjs
           node --check tools/fix-v2-series-three-column-mobile.mjs
+          node --check tools/finalize-v2-card-player-polish.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-v2-faq-integrity.mjs
           node --check tools/test-app-v2.mjs
@@ -95,6 +98,7 @@ jobs:
           node --check tools/test-v2-mobile-browser-playlist.mjs
           node --check tools/test-v2-mobile-browser-series.mjs
           node --check tools/test-v2-final-ui-faq-guide.mjs
+          node --check tools/test-v2-card-player-polish.mjs
 
       - name: Test content integrity
         run: node tools/test-content-v2.mjs
@@ -132,13 +136,16 @@ jobs:
       - name: Test final V2 UI and offline progress
         run: node tools/test-v2-final-ui-faq-guide.mjs
 
+      - name: Test card and player polish
+        run: node tools/test-v2-card-player-polish.mjs
+
       - name: Test real 390px Chromium layout
         run: node tools/test-v2-mobile-browser.mjs
 
       - name: Test real 390px playlist editor
         run: node tools/test-v2-mobile-browser-playlist.mjs
 
-      - name: Test three series per row on 390px phone
+      - name: Test one series per row on 390px phone
         run: node tools/test-v2-mobile-browser-series.mjs
 
       - name: Upload mobile Chromium screenshots
@@ -159,6 +166,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'Generated V2 runtime is unchanged.'
           else
-            git commit -m 'Build V2 final UI runtime'
+            git commit -m 'Build V2 card and player polish'
             git push origin HEAD:${{ github.ref_name }}
           fi
