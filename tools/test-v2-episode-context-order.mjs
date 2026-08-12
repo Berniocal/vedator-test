@@ -20,28 +20,21 @@ Object.defineProperty(window.navigator,'mediaSession',{value:{setActionHandler:(
 window.MediaMetadata=function(value){Object.assign(this,value)};
 
 const ready=new Promise((resolve,reject)=>{const timer=setTimeout(()=>reject(new Error('ready timeout')),5000);window.addEventListener('vedator-v2-ready',()=>{clearTimeout(timer);resolve()},{once:true})});
-window.eval(app);window.document.dispatchEvent(new window.Event('DOMContentLoaded',{bubbles:true}));await ready;await new Promise(resolve=>setTimeout(resolve,30));
+window.eval(app);window.document.dispatchEvent(new window.Event('DOMContentLoaded',{bubbles:true}));await ready;await new Promise(resolve=>setTimeout(resolve,40));
 
-const cards=[...window.document.querySelectorAll('#episodes-v2 .episode-card-v2')];
-assert(cards.length>=3,'Need at least 3 visible episode cards');
-const visibleNumbers=cards.slice(0,3).map(card=>Number(card.dataset.episode));
-assert(visibleNumbers[0]!==visibleNumbers[1],'Visible episode order is invalid');
+const card346=window.document.querySelector('#episodes-v2 .episode-card-v2[data-episode="346"]');
+assert(card346,'Episode 346 must be in the first batch');
+card346.querySelector('.actions .play').click();await new Promise(resolve=>setTimeout(resolve,20));
+const prev=window.document.querySelector('#player-prev-v2'),next=window.document.querySelector('#player-next-v2');
+assert(!prev.disabled&&!next.disabled,'Previous and next should be enabled around episode 346');
 
-cards[0].querySelector('.actions .play').click();await new Promise(resolve=>setTimeout(resolve,20));
-const next=window.document.querySelector('#player-next-v2');assert(!next.disabled,'Next should be enabled for first visible episode');
 next.click();await new Promise(resolve=>setTimeout(resolve,20));
-const expected=data.episodes.find(episode=>Number(episode.number)===visibleNumbers[1]);
-const activeTitle=window.document.querySelector('#player-title-v2').textContent;
-const expectedTitle=expected?.i18n?.sk?.title||expected?.title||'';
-assert(activeTitle===expectedTitle,`Next did not follow visible order: expected episode ${visibleNumbers[1]}, got ${activeTitle}`);
+const ep347=data.episodes.find(episode=>Number(episode.number)===347);
+assert(window.document.querySelector('#player-title-v2').textContent===(ep347?.i18n?.sk?.title||ep347?.title||''),'Next from episode 346 must increase the episode number to 347');
 
-const sort=window.document.querySelector('#parity-sort-v2');sort.value='old';sort.dispatchEvent(new window.Event('change',{bubbles:true}));await new Promise(resolve=>setTimeout(resolve,30));
-const oldCards=[...window.document.querySelectorAll('#episodes-v2 .episode-card-v2')];assert(oldCards.length>=2,'Oldest sort did not render cards');
-const oldNumbers=oldCards.slice(0,2).map(card=>Number(card.dataset.episode));
-oldCards[0].querySelector('.actions .play').click();await new Promise(resolve=>setTimeout(resolve,20));
-window.document.querySelector('#player-next-v2').click();await new Promise(resolve=>setTimeout(resolve,20));
-const expectedOld=data.episodes.find(episode=>Number(episode.number)===oldNumbers[1]);
-const expectedOldTitle=expectedOld?.i18n?.sk?.title||expectedOld?.title||'';
-assert(window.document.querySelector('#player-title-v2').textContent===expectedOldTitle,'Next did not follow oldest visible order');
+card346.querySelector('.actions .play').click();await new Promise(resolve=>setTimeout(resolve,20));
+prev.click();await new Promise(resolve=>setTimeout(resolve,20));
+const ep345=data.episodes.find(episode=>Number(episode.number)===345);
+assert(window.document.querySelector('#player-title-v2').textContent===(ep345?.i18n?.sk?.title||ep345?.title||''),'Previous from episode 346 must decrease the episode number to 345');
 
-console.log(JSON.stringify({ok:true,newestVisible:visibleNumbers,oldestVisible:oldNumbers,nextFollowsVisibleOrder:true},null,2));
+console.log(JSON.stringify({ok:true,episode:346,next:347,previous:345,numericNavigation:true},null,2));
