@@ -25,7 +25,13 @@ source=source.replace(
   "if(parityUi.generations.get(view)!==generation)return;const end=Math.min(rendered+(rendered===0?firstCount:amount),items.length);"
 );
 
+// Guard against using querySelector ($) where the code iterates a collection.
+source=source.replace(/(?<!\$)\$\('\.tab-v2'\)\.forEach/g,"$$('.tab-v2').forEach");
+source=source.replace(/(?<!\$)\$\('\.view-v2'\)\.forEach/g,"$$('.view-v2').forEach");
+source=source.replace(/(?<!\$)\$\('#series-v2 \.series\[data-series-index\]'\)\.forEach/g,"$$('#series-v2 .series[data-series-index]').forEach");
+
 if(source.includes("return result.length?result:['society'];"))throw new Error('Other-tag fallback fix did not apply');
 if(source.includes('++parityUi.generation')||source.includes('!==parityUi.generation'))throw new Error('Per-view generation fix did not fully apply');
+if(/(?<!\$)\$\('\.(?:tab-v2|view-v2)'\)\.forEach/.test(source))throw new Error('Collection selector fix did not apply');
 fs.writeFileSync(file,source);
 console.log('Applied V2 full parity follow-up fixes');
