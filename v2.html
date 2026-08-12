@@ -12,6 +12,10 @@ body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple
 button,input,select{font:inherit}
 header{background:linear-gradient(135deg,#151b2f,#32256c);color:white;padding:24px 18px}
 .wrap{max-width:1100px;margin:auto}
+.header-v2{display:flex;align-items:flex-start;justify-content:space-between;gap:16px}
+.language-v2{display:flex;gap:3px;padding:3px;border:1px solid rgba(255,255,255,.42);border-radius:12px;background:rgba(255,255,255,.12)}
+.language-v2 button{border:0;border-radius:8px;padding:7px 10px;background:transparent;color:rgba(255,255,255,.76);font-weight:850;cursor:pointer}
+.language-v2 button.active{background:#fff;color:#29205f;box-shadow:0 2px 8px rgba(0,0,0,.16)}
 main{padding:18px}
 .panel,.card,.series,.data-card,.playlist-card{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 8px 24px rgba(15,23,42,.05)}
 .panel{padding:14px}
@@ -96,6 +100,8 @@ audio#audio-v2{display:none}
 .picker-row{grid-template-columns:auto minmax(0,1fr)}
 @media(max-width:700px){
   body{padding-bottom:184px}
+  .header-v2{align-items:center}
+  .language-v2 button{padding:6px 8px}
   .player-inner{grid-template-columns:1fr}
   .player-controls{overflow:auto}
   .player-seek-row{grid-column:1}
@@ -105,7 +111,7 @@ audio#audio-v2{display:none}
 </style>
 </head>
 <body>
-<header><div class="wrap"><div style="opacity:.72;font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase">Radikální testovací V2</div><h1 style="margin:.3rem 0 0">Vedátorský podcast</h1></div></header>
+<header><div class="wrap header-v2"><div><div id="eyebrow-v2" style="opacity:.72;font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase">Radikální testovací V2</div><h1 id="heading-v2" style="margin:.3rem 0 0">Vedátorský podcast</h1></div><div class="language-v2" role="group" aria-label="Jazyk aplikace / Jazyk aplikácie"><button type="button" data-lang="sk">SK</button><button type="button" data-lang="cz">CZ</button></div></div></header>
 <main class="wrap">
   <section class="panel">
     <div class="controls"><input id="search-v2" class="search" placeholder="Hledat v právě otevřené záložce…"></div>
