@@ -50,6 +50,7 @@ jobs:
           node tools/patch-v2-mobile-deep-polish-v2.mjs
           node tools/finalize-v2-mobile-deep-polish.mjs
           node tools/finalize-v2-mobile-contrast.mjs
+          node tools/finalize-v2-mobile-width.mjs
 
       - name: Check JavaScript syntax
         run: |
@@ -68,6 +69,7 @@ jobs:
           node --check tools/patch-v2-mobile-deep-polish-v2.mjs
           node --check tools/finalize-v2-mobile-deep-polish.mjs
           node --check tools/finalize-v2-mobile-contrast.mjs
+          node --check tools/finalize-v2-mobile-width.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-app-v2.mjs
           node --check tools/test-v2-question-experience.mjs
