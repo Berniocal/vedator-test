@@ -1177,4 +1177,68 @@
   }
 
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start,{once:true});else start();
+
+  /* V2_CARD_PLAYER_POLISH_V1 */
+  const cardPolishEpisodeOpen=new Set();
+  function cardPolishCutDescription(value){
+    const raw=String(value||'');
+    const cut=raw.search(/Podcast vzniká\s+(?:v|ve)\s+spolupráci\s+(?:so|se)\s+SME\.?/i);
+    return (cut>=0?raw.slice(0,cut):raw).trim();
+  }
+  function cardPolishCollapsedDescription(value,terms){
+    const raw=String(value||'').replace(/\s+/g,' ').trim();if(!raw)return'';
+    if(state.query.trim()&&terms.length)return mobileEpisodeExcerpt(raw,terms);
+    if(raw.length<=240)return raw;
+    let end=240;
+    while(end>180&&!/\s/.test(raw[end]||''))end--;
+    if(end<=180)end=240;
+    return raw.slice(0,end).trimEnd()+'…';
+  }
+  playLabel=function(number){
+    const record=state.progress[episodeKey(number)];
+    if(record&&!record.completed&&Number(record.currentTime)>10)return text('Pokračovat','Pokračovať');
+    return text('Přehrát','Prehrať');
+  };
+  seriesResumeLabel=function(info){return info.started&&!info.finished?text('Pokračovat','Pokračovať'):text('Přehrát','Prehrať')};
+  playlistResumeLabel=function(info){return info.started&&!info.finished?text('Pokračovat','Pokračovať'):text('Přehrát','Prehrať')};
+  allEpisodeSearch=function(episode){
+    const cs=episode?.i18n?.cs||{},skCopy=episode?.i18n?.sk||{};
+    return norm(String(episode?.number||'')+' '+String(episode?.title||'')+' '+cardPolishCutDescription(episode?.description)+' '+String(cs.title||'')+' '+cardPolishCutDescription(cs.description)+' '+String(skCopy.title||'')+' '+cardPolishCutDescription(skCopy.description));
+  };
+  cardEpisode=function(episode){
+    const copy=episodeCopy(episode),status=episodeStatus(episode.number),terms=mobileEpisodeHighlightTerms(),full=cardPolishCutDescription(copy.description),open=cardPolishEpisodeOpen.has(Number(episode.number)),short=cardPolishCollapsedDescription(full,terms),shown=open?full:short,canExpand=full.length>short.replace(/…$/,'').length+2;
+    return '<article class="card searchable episode-card-v2 '+(open?'episode-open-v2':'')+'" data-episode="'+(Number(episode.number)||0)+'" data-search="'+esc(allEpisodeSearch(episode))+'">'+
+      '<div class="meta">'+text('Díl','Diel')+' '+(episode.number||'–')+' • '+esc(fmtDate(episode.date))+'</div><h2>'+mobileHighlightHtml(copy.title,terms)+'</h2>'+              
+      '<div class="listen-status '+(status?.kind||'')+'">'+(status?esc(status.label):'')+'</div>'+episodeProgressHtml(episode.number)+
+      '<p class="desc-v2">'+mobileHighlightHtml(shown,terms)+'</p>'+episodeTagHtml(episode)+
+      '<div class="episode-summary-slot-v2">'+episodeSummaryHtml(episode)+'</div>'+ 
+      '<div class="actions"><button type="button" class="play" data-episode="'+(Number(episode.number)||0)+'" data-seconds="">'+esc(playLabel(episode.number))+'</button>'+ 
+      (canExpand?'<button type="button" class="secondary episode-more-v2" data-episode="'+(Number(episode.number)||0)+'">'+(open?text('Číst méně','Čítať menej'):text('Číst více','Čítať viac'))+'</button>':'')+shareButton('episode',String(episode.number))+'</div></article>';
+  };
+  document.addEventListener('click',event=>{
+    const button=event.target.closest?.('.episode-more-v2');if(!button)return;
+    event.preventDefault();event.stopImmediatePropagation();
+    const number=Number(button.dataset.episode)||0,episode=episodeByNumber(number),oldCard=button.closest('.episode-card-v2');
+    if(!episode||!oldCard)return;
+    if(cardPolishEpisodeOpen.has(number))cardPolishEpisodeOpen.delete(number);else cardPolishEpisodeOpen.add(number);
+    const host=document.createElement('div');host.innerHTML=cardEpisode(episode);const nextCard=host.firstElementChild;if(nextCard)oldCard.replaceWith(nextCard);
+  },true);
+  const cardPolishOriginalSyncPlayer=syncPlayer;
+  syncPlayer=function(...args){
+    const result=cardPolishOriginalSyncPlayer(...args),audio=$('#audio-v2'),button=$('#player-play-v2');
+    if(audio&&button)button.textContent=audio.paused?'▶':'Ⅱ';
+    return result;
+  };
+  function installCardPlayerPolishStyles(){
+    if(document.querySelector('style[data-v2-card-player-polish]'))return;
+    const style=document.createElement('style');style.dataset.v2CardPlayerPolish='1';
+    style.textContent='.player-shell{background:color-mix(in srgb,var(--card) 88%,var(--accent) 12%)!important}'+
+      '.episode-summary-slot-v2{margin-top:auto;padding-top:.65rem}.episode-summary-slot-v2:empty{display:none}'+
+      '.episode-summary-slot-v2 .episode-summary-v2{margin:.35rem 0 .75rem!important}.episode-card-v2 .actions{margin-top:.15rem}'+
+      '#player-play-v2{letter-spacing:0!important;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif!important}'+
+      '@media(max-width:700px){#series-v2:not(.hidden){grid-template-columns:minmax(0,1fr)!important;gap:10px!important}#series-v2 .series,#series-v2 .series[open]{grid-column:auto!important}#series-v2 .series>summary{padding:14px 0!important;display:flex!important;gap:10px!important}#series-v2 .series>summary strong{font-size:.92rem!important;line-height:1.25!important}#series-v2 .series-progress-summary-v2{font-size:.76rem!important;white-space:nowrap!important}#series-v2 .series>summary .deep-share{width:auto!important;min-width:38px!important;height:auto!important;min-height:38px!important}}';
+    document.head.appendChild(style);
+  }
+  installCardPlayerPolishStyles();
+
 })();
