@@ -15,6 +15,7 @@ on:
       - 'app-v2.js'
       - 'v2.html'
       - '.github/workflows/test-v2.yml'
+      - '.github/workflows/update-podcast-feed.yml'
   workflow_dispatch:
 
 permissions:
