@@ -6,8 +6,8 @@ const app=fs.readFileSync('app-v2.js','utf8');
 const data=JSON.parse(fs.readFileSync('content-v2.json','utf8'));
 const assert=(condition,message)=>{if(!condition)throw new Error(message)};
 
-assert(html.includes('V2_MOBILE_DEEP_POLISH_CSS_V1'),'Mobile polish CSS marker missing');
-assert(html.includes('html[data-theme="dark"] .topic-v2.active'),'Dark topic selector does not match V2 theme model');
+assert(html.includes('V2_MOBILE_DEEP_POLISH_CSS_V2'),'Mobile polish CSS marker missing');
+assert(html.includes('html[data-theme="dark"] body .topic-v2.active'),'Dark topic selector does not match V2 theme model');
 assert(html.includes('color:#fff!important'),'Selected topic contrast rule missing');
 assert(html.includes('grid-template-columns:repeat(20,minmax(0,1fr))'),'Mobile player 5+4 control grid missing');
 assert(html.includes('.question-card .actions,.episode-card-v2 .actions{display:grid!important'),'Stable card action row missing');
@@ -15,8 +15,8 @@ assert(html.includes('mark.vedator-match'),'Yellow search highlight CSS missing'
 assert(!app.includes("const tabs=$('.tab-v2').filter"),'Swipe still uses single-element selector');
 assert(app.includes("const tabs=$$('.tab-v2').filter"),'Swipe collection fix missing');
 assert(app.includes('async function downloadCurrentMp3()'),'Real MP3 downloader missing');
-assert(app.includes("link.download=safeMp3Filename"),'MP3 Blob download filename missing');
-assert(app.includes("context.type==='episodes'"),'Episode playback context missing');
+assert(app.includes('link.download=mobileSafeMp3Filename'),'MP3 Blob download filename missing');
+assert(app.includes("type:'episodes'"),'Episode playback context missing');
 assert(app.includes("setTimeout(()=>navigateContext(1),0)"),'Continuous context playback missing');
 
 const dom=new JSDOM(html,{url:'https://example.test/v2.html',runScripts:'outside-only',pretendToBeVisual:true});
@@ -61,7 +61,7 @@ window.eval(app);
 window.document.dispatchEvent(new window.Event('DOMContentLoaded',{bubbles:true}));
 await ready;await new Promise(resolve=>setTimeout(resolve,30));
 
-// Dark theme must use the same data-theme attribute as the CSS fixes.
+// Dark theme and selected topic must use the same data-theme model.
 window.document.documentElement.dataset.theme='dark';
 const topic=window.document.querySelector('#parity-topics-v2 .topic-v2');
 assert(topic,'Episode topic buttons missing');
@@ -91,19 +91,19 @@ assert(qactions&&qactions.querySelector('.play')&&qactions.querySelector('.quest
 const etab=[...window.document.querySelectorAll('.tab-v2')].find(tab=>tab.dataset.view==='episodes');etab.click();search.value='';search.dispatchEvent(new window.Event('input',{bubbles:true}));await new Promise(resolve=>setTimeout(resolve,20));
 const episodeCards=[...window.document.querySelectorAll('#episodes-v2 .episode-card-v2')];
 assert(episodeCards.length>=2,'Need at least two episode cards for mobile player test');
-const secondPlay=episodeCards[1].querySelector('.play');secondPlay.click();await new Promise(resolve=>setTimeout(resolve,20));
+const secondPlay=episodeCards[1].querySelector('.actions .play');secondPlay.click();await new Promise(resolve=>setTimeout(resolve,20));
 const prev=window.document.querySelector('#player-prev-v2'),next=window.document.querySelector('#player-next-v2');
 assert(!(prev.disabled&&next.disabled),'Regular episode playback has no prev/next context');
 
 // MP3 must be fetched as bytes and saved through a Blob download, not merely opened in a tab.
-const download=window.document.querySelector('#player-download-v2');download.click();await new Promise(resolve=>setTimeout(resolve,40));
+const download=window.document.querySelector('#player-download-v2');download.click();await new Promise(resolve=>setTimeout(resolve,50));
 assert(audioFetches>=1,'MP3 download did not fetch audio bytes');
 assert(downloads.some(item=>item.download.endsWith('.mp3')),'MP3 Blob download was not triggered');
 assert(!download.dataset.busy,'MP3 download stayed stuck in busy state');
 
 // Ended playback should advance inside the episode context when another item follows.
 const beforeTitle=window.document.querySelector('#player-title-v2').textContent;
-window.document.querySelector('#audio-v2').dispatchEvent(new window.Event('ended'));await new Promise(resolve=>setTimeout(resolve,40));
+window.document.querySelector('#audio-v2').dispatchEvent(new window.Event('ended'));await new Promise(resolve=>setTimeout(resolve,50));
 const afterTitle=window.document.querySelector('#player-title-v2').textContent;
 assert(beforeTitle!==afterTitle,'Playback did not advance to the next context item after ended');
 
