@@ -3,13 +3,19 @@ import fs from 'node:fs';
 const file='app-v2.js';
 let source=fs.readFileSync(file,'utf8');
 const marker='/* V2_LAST_UX_FIXES_V1 */';
+const oldMobile='@media(max-width:700px){.card h2{font-size:1.08rem!important}.meta{font-size:.85rem!important}#series-v2 .series>summary>strong{font-size:16px!important;line-height:1.3!important}.card p,.card li{font-size:1.01rem!important}}';
+const newMobile='@media(max-width:700px){.status-row{font-size:1rem!important;margin:18px 2px 10px!important}.parity-sort-v2{font-size:1rem!important;min-height:46px!important;padding:10px 12px!important}.card h2{font-size:1.08rem!important}.meta{font-size:.85rem!important}#series-v2 .series>summary>strong{font-size:16px!important;line-height:1.3!important}.card p,.card li,.episode-description-v2{font-size:1rem!important;line-height:1.48!important}}';
 if(source.includes(marker)){
   const before=source;
   source=source
     .replace('.series>summary>strong{font-size:1rem!important;line-height:1.3!important}', '#series-v2 .series>summary>strong{font-size:16px!important;line-height:1.3!important}')
     .replace('.series>summary>strong{font-size:1.1rem!important;line-height:1.3!important}', '#series-v2 .series>summary>strong{font-size:16px!important;line-height:1.3!important}')
-    .replace('.series>summary>strong{font-size:1.2rem!important;line-height:1.3!important}', '#series-v2 .series>summary>strong{font-size:16px!important;line-height:1.3!important}');
-  if(source!==before){fs.writeFileSync(file,source);console.log('Updated existing V2 last UX sizing')}else console.log('V2 last UX fixes already current');
+    .replace('.series>summary>strong{font-size:1.2rem!important;line-height:1.3!important}', '#series-v2 .series>summary>strong{font-size:16px!important;line-height:1.3!important}')
+    .replace(oldMobile,newMobile);
+  if(!source.includes(newMobile)&&source.includes('style.dataset.v2LastUxFixes')){
+    source=source.replace("'#player-expand-v2{width:auto!important;min-width:62px!important;padding:0 12px!important;border-radius:999px!important;font-size:1.08rem!important;letter-spacing:.03em!important}',", "'#player-expand-v2{width:auto!important;min-width:62px!important;padding:0 12px!important;border-radius:999px!important;font-size:1.08rem!important;letter-spacing:.03em!important}',\n      '"+newMobile+"',");
+  }
+  if(source!==before){fs.writeFileSync(file,source);console.log('Updated V2 last UX typography')}else console.log('V2 last UX fixes already current');
   process.exit(0);
 }
 const at=source.lastIndexOf('\n})();');
@@ -54,7 +60,7 @@ const layer=String.raw`
     style.textContent=[
       '.series>summary>strong{display:block!important;flex:1 1 auto!important;min-width:0!important;max-width:100%!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;-webkit-line-clamp:unset!important;-webkit-box-orient:initial!important;max-height:none!important}',
       '#player-expand-v2{width:auto!important;min-width:62px!important;padding:0 12px!important;border-radius:999px!important;font-size:1.08rem!important;letter-spacing:.03em!important}',
-      '@media(max-width:700px){.card h2{font-size:1.08rem!important}.meta{font-size:.85rem!important}#series-v2 .series>summary>strong{font-size:16px!important;line-height:1.3!important}.card p,.card li{font-size:1.01rem!important}}'
+      '${newMobile}'
     ].join('');
     document.head.appendChild(style);
   }
