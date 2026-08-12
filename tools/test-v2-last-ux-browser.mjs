@@ -28,22 +28,30 @@ try{
 
   const initial=await page.evaluate(()=>{
     const card=document.querySelector('#episodes-v2 .episode-card-v2[data-episode="344"]');
-    const title=card?.querySelector('h2'),meta=card?.querySelector('.meta'),more=card?.querySelector('.episode-more-v2');
+    const title=card?.querySelector('h2'),meta=card?.querySelector('.meta'),desc=card?.querySelector('.desc-v2'),more=card?.querySelector('.episode-more-v2');
+    const status=document.querySelector('.status-row'),sort=document.querySelector('#parity-sort-v2');
     return{
       backText:document.querySelector('#back-top-v2')?.textContent||'',
       hasCard:Boolean(card),hasMore:Boolean(more),moreText:more?.textContent||'',
-      shortText:card?.querySelector('.desc-v2')?.textContent||'',
-      searchText:card?.dataset.search||'',
+      shortText:desc?.textContent||'',searchText:card?.dataset.search||'',
       titleSize:title?parseFloat(getComputedStyle(title).fontSize):0,
-      metaSize:meta?parseFloat(getComputedStyle(meta).fontSize):0
+      metaSize:meta?parseFloat(getComputedStyle(meta).fontSize):0,
+      descSize:desc?parseFloat(getComputedStyle(desc).fontSize):0,
+      statusSize:status?parseFloat(getComputedStyle(status).fontSize):0,
+      sortSize:sort?parseFloat(getComputedStyle(sort).fontSize):0,
+      sortHeight:sort?.getBoundingClientRect().height||0
     };
   });
   assert(initial.backText==='↑',`Back-to-top must stay plain arrow, got ${initial.backText}`);
   assert(initial.hasCard&&initial.hasMore,`Progress episode must still have Read more: ${JSON.stringify(initial)}`);
   assert(/Číst více|Čítať viac/.test(initial.moreText),`Bad read-more label: ${initial.moreText}`);
   assert(!initial.searchText.includes('podcast vznika'),`Sponsor tail leaked into search index: ${initial.searchText.slice(-160)}`);
-  assert(initial.titleSize>=17,`Mobile episode title too small: ${initial.titleSize}px`);
-  assert(initial.metaSize>=13,`Mobile episode meta too small: ${initial.metaSize}px`);
+  assert(initial.titleSize>=17.2,`Mobile episode title must match legacy 1.08rem: ${initial.titleSize}px`);
+  assert(initial.metaSize>=13.5,`Mobile episode meta must match legacy .85rem: ${initial.metaSize}px`);
+  assert(initial.descSize>=15.8,`Mobile episode description too small: ${initial.descSize}px`);
+  assert(initial.statusSize>=15.8,`Mobile result count too small: ${initial.statusSize}px`);
+  assert(initial.sortSize>=15.8,`Mobile sort text too small: ${initial.sortSize}px`);
+  assert(initial.sortHeight>=44,`Mobile sort control too short: ${initial.sortHeight}px`);
 
   await page.click('#episodes-v2 .episode-card-v2[data-episode="344"] .episode-more-v2');
   await new Promise(resolve=>setTimeout(resolve,80));
@@ -74,5 +82,5 @@ try{
 
   fs.mkdirSync('mobile-browser-artifacts',{recursive:true});
   await page.screenshot({path:'mobile-browser-artifacts/last-ux-fixes.png',fullPage:true});
-  console.log(JSON.stringify({ok:true,readMoreExpanded:true,progressEpisodeHasReadMore:true,backToTop:'↑',playerExpand:collapsed.expandText,seriesEllipsis:true,mobileTitlePx:initial.titleSize,mobileMetaPx:initial.metaSize},null,2));
+  console.log(JSON.stringify({ok:true,readMoreExpanded:true,progressEpisodeHasReadMore:true,backToTop:'↑',playerExpand:collapsed.expandText,seriesEllipsis:true,mobileTitlePx:initial.titleSize,mobileMetaPx:initial.metaSize,mobileDescriptionPx:initial.descSize,resultCountPx:initial.statusSize,sortPx:initial.sortSize,sortHeight:initial.sortHeight},null,2));
 }finally{await page.close().catch(()=>{});await browser.close().catch(()=>{});await new Promise(resolve=>server.close(resolve))}
