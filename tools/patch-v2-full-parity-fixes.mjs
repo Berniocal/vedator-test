@@ -26,6 +26,6 @@ source=source.replace(
 );
 
 if(source.includes("return result.length?result:['society'];"))throw new Error('Other-tag fallback fix did not apply');
-if(source.includes('parityUi.generation'))throw new Error('Per-view generation fix did not fully apply');
+if(source.includes('++parityUi.generation')||source.includes('!==parityUi.generation'))throw new Error('Per-view generation fix did not fully apply');
 fs.writeFileSync(file,source);
 console.log('Applied V2 full parity follow-up fixes');
