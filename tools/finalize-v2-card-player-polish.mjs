@@ -52,9 +52,10 @@ const layer=String.raw`
   document.addEventListener('click',event=>{
     const button=event.target.closest?.('.episode-more-v2');if(!button)return;
     event.preventDefault();event.stopImmediatePropagation();
-    const number=Number(button.dataset.episode)||0;
+    const number=Number(button.dataset.episode)||0,episode=episodeByNumber(number),oldCard=button.closest('.episode-card-v2');
+    if(!episode||!oldCard)return;
     if(cardPolishEpisodeOpen.has(number))cardPolishEpisodeOpen.delete(number);else cardPolishEpisodeOpen.add(number);
-    refreshEpisodeCard(number);
+    const host=document.createElement('div');host.innerHTML=cardEpisode(episode);const nextCard=host.firstElementChild;if(nextCard)oldCard.replaceWith(nextCard);
   },true);
   const cardPolishOriginalSyncPlayer=syncPlayer;
   syncPlayer=function(...args){
