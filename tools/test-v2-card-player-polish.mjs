@@ -43,8 +43,9 @@ const more=card.querySelector('.episode-more-v2');
 assert(more,'Episode Read more button missing');
 const before=card.querySelector('.desc-v2').textContent.length;more.click();await new Promise(resolve=>setTimeout(resolve,30));
 const updated=window.document.querySelector(`#episodes-v2 .episode-card-v2[data-episode="${card.dataset.episode}"]`);
-assert(updated.querySelector('.episode-more-v2')?.textContent.includes('méně'),'Read more did not switch to read less');
-assert(updated.querySelector('.desc-v2').textContent.length>=before,'Expanded description did not grow');
+const readLess=updated.querySelector('.episode-more-v2')?.textContent||'';
+assert(/méně|menej/i.test(readLess),`Read more did not switch to read less: ${readLess}`);
+assert(updated.querySelector('.desc-v2').textContent.length>before,'Expanded description did not grow');
 assert(updated.querySelector('.episode-summary-slot-v2').compareDocumentPosition(updated.querySelector('.actions'))&window.Node.DOCUMENT_POSITION_FOLLOWING,'Expanded summary moved below actions');
 
 const play=window.document.querySelector('#episodes-v2 .episode-card-v2 .play');play.click();await new Promise(resolve=>setTimeout(resolve,30));
