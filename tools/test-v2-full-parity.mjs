@@ -6,10 +6,12 @@ const app=fs.readFileSync('app-v2.js','utf8');
 const data=JSON.parse(fs.readFileSync('content-v2.json','utf8'));
 const assert=(condition,message)=>{if(!condition)throw new Error(message)};
 
-const requiredSeries=['FAQ – dobré otázky','Matematika','Teorie her','Rozhovory v angličtině','Internet','Vedátorský speciál','Černé díry','Temná hmota a energie','Částice','Roky ve vědě','Vědci','Vědkyně'];
+const requiredSeries=['FAQ – dobré otázky','Matematika','Teorie her','Rozhovory v angličtině','Internet','Černé díry','Temná hmota a energie','Částice','Roky ve vědě','Vědci','Vědkyně'];
 assert(data.series.length>=18,`Expected at least 18 legacy-compatible series, got ${data.series.length}`);
 for(const name of requiredSeries)assert(data.series.some(series=>series.name===name),`Missing series: ${name}`);
-assert(data.meta?.legacyParity?.fixedSeries===16,'Expected 16 fixed legacy series');
+assert(data.meta?.legacyParity?.fixedSeries===16,'Expected 16 fixed legacy series definitions');
+assert(data.meta?.legacyParity?.scientistSeries===2,'Expected scientist series definitions');
+assert(data.meta?.legacyParity?.automaticSeries>=1,'Expected automatically detected repeated-title series');
 
 const mediaHandlers={};
 const dom=new JSDOM(html,{url:'https://example.test/v2.html',runScripts:'outside-only',pretendToBeVisual:true});
