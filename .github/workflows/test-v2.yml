@@ -44,6 +44,7 @@ jobs:
           node tools/patch-v2-full-parity.mjs
           node tools/finalize-v2-full-parity.mjs
           node tools/patch-v2-playlist-parity.mjs
+          node tools/finalize-v2-playlist-parity.mjs
 
       - name: Check JavaScript syntax
         run: |
@@ -58,6 +59,7 @@ jobs:
           node --check tools/patch-v2-full-parity.mjs
           node --check tools/finalize-v2-full-parity.mjs
           node --check tools/patch-v2-playlist-parity.mjs
+          node --check tools/finalize-v2-playlist-parity.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-app-v2.mjs
           node --check tools/test-v2-question-experience.mjs
