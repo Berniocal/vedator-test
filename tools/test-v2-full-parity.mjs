@@ -63,9 +63,9 @@ assert(!peopleCard.querySelector('.parity-series-body'),'Series body should be l
 
 assert(window.document.querySelector('#player-back10-v2'),'−10 s player button missing');
 assert(window.document.querySelector('#player-forward10-v2'),'+10 s player button missing');
-assert(window.document.querySelector('#parity-refresh-v2'),'Manual refresh button missing');
+assert(!window.document.querySelector('#parity-refresh-v2'),'Manual refresh button should be removed');
 for(const action of ['seekbackward','seekforward','previoustrack','nexttrack','seekto'])assert(typeof mediaHandlers[action]==='function',`Media Session handler missing: ${action}`);
 
 const runtimeScripts=[...window.document.querySelectorAll('script[src]')].map(script=>script.getAttribute('src')).filter(Boolean).filter(src=>!src.includes('mathjax'));
 assert(runtimeScripts.length===0,'Test HTML should have no extra runtime scripts after app script removal');
-console.log(JSON.stringify({ok:true,series:data.series.length,automaticSeries:data.meta?.legacyParity?.automaticSeries,episodeBatch:20,questionBatch:20,nonquestionBatch:20,episodeTopics:15,questionTopics:11,episodeSortModes:6,seriesSortModes:3,tags:true,mediaSession:true,lazySeries:true},null,2));
+console.log(JSON.stringify({ok:true,series:data.series.length,automaticSeries:data.meta?.legacyParity?.automaticSeries,episodeBatch:20,questionBatch:20,nonquestionBatch:20,episodeTopics:15,questionTopics:11,episodeSortModes:6,seriesSortModes:3,tags:true,mediaSession:true,lazySeries:true,reloadRemoved:true},null,2));
