@@ -8,6 +8,7 @@ const EXTRA_NONQUESTION_EPISODES=[334,335,338,339,341,342,344,345,347];
 
 const read=name=>fs.readFileSync(path.join(ROOT,name),'utf8');
 const exists=name=>fs.existsSync(path.join(ROOT,name));
+const rootFiles=()=>fs.readdirSync(ROOT,{withFileTypes:true}).filter(entry=>entry.isFile()).map(entry=>entry.name);
 
 function scanLiteral(source,start){
   let i=start;
@@ -116,6 +117,8 @@ function cleanDescription(value){
   const cut=text.search(/Podcast vzniká v spolupráci so SME/i);
   return (cut>=0?text.slice(0,cut):text).trim();
 }
+function textKey(value){return String(value||'').replace(/\s+/g,' ').trim()}
+function titleKey(value){return textKey(value).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()}
 
 function parseBaseNonQuestions(){
   const code=read('nonquestions-data.js');
@@ -148,31 +151,113 @@ function parseExtraNonQuestion(episode){
   return null;
 }
 
+function episodeTranslationValue(item){
+  if(!item||typeof item!=='object')return null;
+  const skTitle=String(item.skTitle||'').trim(),csTitle=String(item.csTitle||'').trim();
+  const skDescription=String(item.skLead||item.skDescription||'').trim();
+  const csDescription=String(item.csLead||item.csDescription||'').trim();
+  if(!skTitle&&!csTitle&&!skDescription&&!csDescription)return null;
+  return {skTitle,csTitle,skDescription,csDescription};
+}
+
+function collectEpisodeTranslations(){
+  const byNumber=new Map(),byTitle=new Map(),files=[];
+  for(const file of rootFiles().filter(name=>/^episode-translations-.*\.js$/.test(name)&&name!=='episode-translations-loader.js').sort()){
+    const code=read(file);files.push(file);
+    try{
+      const plural=assignedLiteral(code,'TRANSLATIONS');
+      if(plural){
+        const value=evalLiteral(plural,file);
+        if(Array.isArray(value)){
+          for(const raw of value){
+            const item=episodeTranslationValue(raw);if(!item)continue;
+            if(item.skTitle)byTitle.set(titleKey(item.skTitle),item);
+            if(item.csTitle)byTitle.set(titleKey(item.csTitle),item);
+          }
+        }else if(value&&typeof value==='object'){
+          for(const [key,raw] of Object.entries(value)){
+            const item=episodeTranslationValue(raw);if(!item)continue;
+            const number=Number(key);
+            if(Number.isFinite(number)&&number>0)byNumber.set(number,item);
+            if(item.skTitle)byTitle.set(titleKey(item.skTitle),item);
+            if(item.csTitle)byTitle.set(titleKey(item.csTitle),item);
+          }
+        }
+      }
+      const singular=assignedLiteral(code,'TRANSLATION');
+      if(singular){
+        const item=episodeTranslationValue(evalLiteral(singular,file));
+        if(item){
+          const titleNumber=Number((item.skTitle||item.csTitle).match(/Vedátorský podcast\s+(\d+)/i)?.[1]||0);
+          const fileNumber=Number(file.match(/^episode-translations-(\d+)\.js$/)?.[1]||0);
+          const number=titleNumber||fileNumber;
+          if(number)byNumber.set(number,item);
+          if(item.skTitle)byTitle.set(titleKey(item.skTitle),item);
+          if(item.csTitle)byTitle.set(titleKey(item.csTitle),item);
+        }
+      }
+    }catch(error){console.warn(`Translation parse skipped: ${error.message}`)}
+  }
+  return {byNumber,byTitle,files};
+}
+
+function collectQuestionTranslationPairs(){
+  const lookup=new Map(),files=[];
+  for(const file of rootFiles().filter(name=>/^question-translations-.*\.js$/.test(name)).sort()){
+    const code=read(file),literal=assignedLiteral(code,'PAIRS');
+    if(!literal)continue;
+    try{
+      const pairs=evalLiteral(literal,file);
+      if(!Array.isArray(pairs))continue;
+      files.push(file);
+      for(const pair of pairs){
+        if(!Array.isArray(pair)||pair.length<2)continue;
+        const cs=String(pair[0]??'').trim(),sk=String(pair[1]??'').trim();
+        if(!cs&&!sk)continue;
+        const value={cs,sk};
+        if(cs)lookup.set(textKey(cs),value);
+        if(sk)lookup.set(textKey(sk),value);
+      }
+    }catch(error){console.warn(`Question translation parse skipped: ${error.message}`)}
+  }
+  return {lookup,files};
+}
+
 const SERIES_RULES=[
-  ['FAQ – dobré otázky',e=>/\bfaq\b/i.test(e.title)||[138,300].includes(Number(e.number))],
-  ['Rozhovory o vesmíre',e=>String(e.title).toLowerCase().includes('rozhovory o vesm')],
-  ['Žijem vedu',e=>String(e.title).toLowerCase().includes('žijem vedu')||String(e.title).toLowerCase().includes('zijem vedu')],
-  ['Nobelovy ceny',e=>/nobel/i.test(e.title)&&!/ig nobel/i.test(e.title)],
-  ['Ig Nobelovy ceny',e=>/ig nobel/i.test(e.title)],
-  ['Matematika',e=>new Set([91,93,98,113,115,116,117,118,156,181,198,201,216,249,282,286,328,329,336]).has(Number(e.number))],
-  ['Teorie her',e=>[29,105,120,245,254].includes(Number(e.number))],
-  ['Černé díry',e=>[296,227,173,132,104,68].includes(Number(e.number))],
-  ['Tmavá hmota a energie',e=>[210,182,145,48,2].includes(Number(e.number))],
-  ['Částice',e=>[10,34,163,175,180,187,225].includes(Number(e.number))]
+  [{cs:'FAQ – dobré otázky',sk:'FAQ – dobré otázky'},e=>/\bfaq\b/i.test(e.title)||[138,300].includes(Number(e.number))],
+  [{cs:'Rozhovory o vesmíru',sk:'Rozhovory o vesmíre'},e=>String(e.title).toLowerCase().includes('rozhovory o vesm')],
+  [{cs:'Žiji vědu',sk:'Žijem vedu'},e=>String(e.title).toLowerCase().includes('žijem vedu')||String(e.title).toLowerCase().includes('zijem vedu')],
+  [{cs:'Nobelovy ceny',sk:'Nobelove ceny'},e=>/nobel/i.test(e.title)&&!/ig nobel/i.test(e.title)],
+  [{cs:'Ig Nobelovy ceny',sk:'Ig Nobelove ceny'},e=>/ig nobel/i.test(e.title)],
+  [{cs:'Matematika',sk:'Matematika'},e=>new Set([91,93,98,113,115,116,117,118,156,181,198,201,216,249,282,286,328,329,336]).has(Number(e.number))],
+  [{cs:'Teorie her',sk:'Teória hier'},e=>[29,105,120,245,254].includes(Number(e.number))],
+  [{cs:'Černé díry',sk:'Čierne diery'},e=>[296,227,173,132,104,68].includes(Number(e.number))],
+  [{cs:'Temná hmota a energie',sk:'Tmavá hmota a energia'},e=>[210,182,145,48,2].includes(Number(e.number))],
+  [{cs:'Částice',sk:'Častice'},e=>[10,34,163,175,180,187,225].includes(Number(e.number))]
 ];
 
 const episodePayload=JSON.parse(read('episodes.json'));
 const sourceEpisodes=Array.isArray(episodePayload)?episodePayload:episodePayload.episodes;
 if(!Array.isArray(sourceEpisodes)||sourceEpisodes.length<300)throw new Error(`Invalid episodes catalog (${sourceEpisodes?.length||0})`);
-const episodes=sourceEpisodes.map(e=>({
-  number:Number(e.number)||0,
-  title:String(e.title||''),
-  date:String(e.date||''),
-  description:cleanDescription(e.description),
-  link:String(e.link||''),
-  enclosure:String(e.enclosure||''),
-  id:String(e.id||'')
-}));
+const episodeTranslationData=collectEpisodeTranslations();
+const episodes=sourceEpisodes.map(e=>{
+  const number=Number(e.number)||0;
+  const base={
+    number,
+    title:String(e.title||''),
+    date:String(e.date||''),
+    description:cleanDescription(e.description),
+    link:String(e.link||''),
+    enclosure:String(e.enclosure||''),
+    id:String(e.id||'')
+  };
+  const translated=episodeTranslationData.byNumber.get(number)||episodeTranslationData.byTitle.get(titleKey(base.title));
+  if(!translated)return base;
+  return {...base,i18n:{
+    cs:{title:translated.csTitle||base.title,description:translated.csDescription||base.description},
+    sk:{title:translated.skTitle||base.title,description:translated.skDescription||base.description}
+  }};
+});
 
 let indexSummaries={};
 try{
@@ -181,14 +266,23 @@ try{
   if(literal)indexSummaries=evalLiteral(literal,'index.html SUMMARIES');
 }catch(error){console.warn(error.message)}
 
+const questionPairData=collectQuestionTranslationPairs();
 const questions=[];
-const questionTranslations={};
 const missingQuestions=[];
 for(const episode of FAQ){
   try{
     const parsed=parseEpisodeQuestions(episode,indexSummaries);
-    questions.push(...(parsed.cs||[]));
-    if(parsed.sk?.length)questionTranslations[String(episode)]={sk:parsed.sk};
+    const csItems=parsed.cs||[],skItems=parsed.sk||[];
+    for(let index=0;index<csItems.length;index++){
+      const cs=csItems[index],staticSk=skItems[index]||null;
+      const titlePair=questionPairData.lookup.get(textKey(cs.title));
+      const skTitle=staticSk?.title||titlePair?.sk||cs.title;
+      const skPoints=(staticSk?.points?.length?staticSk.points:cs.points.map(point=>questionPairData.lookup.get(textKey(point))?.sk||point));
+      questions.push({...cs,i18n:{
+        cs:{title:cs.title,points:[...cs.points]},
+        sk:{title:skTitle,points:[...skPoints]}
+      }});
+    }
   }catch(error){missingQuestions.push({episode,error:error.message})}
 }
 
@@ -199,19 +293,32 @@ for(const episode of EXTRA_NONQUESTION_EPISODES){
   if(extra)nonquestions.episodes[String(episode)]=extra;
 }
 
-const series=SERIES_RULES.map(([name,test])=>({
-  name,
+const series=SERIES_RULES.map(([names,test])=>({
+  name:names.cs,
+  i18n:{cs:names.cs,sk:names.sk},
   episodes:episodes.filter(test).map(e=>e.number).filter(Boolean)
 })).filter(x=>x.episodes.length);
 
+const episodeI18nCount=episodes.filter(e=>e.i18n?.cs&&e.i18n?.sk).length;
+const questionI18nCount=questions.filter(q=>q.i18n?.cs&&q.i18n?.sk).length;
+const changedQuestionTranslations=questions.filter(q=>q.i18n.sk.title!==q.i18n.cs.title||q.i18n.sk.points.some((point,index)=>point!==q.i18n.cs.points[index])).length;
 const output={
-  schema:2,
+  schema:3,
   generatedAt:new Date().toISOString(),
-  source:{episodesUpdatedAt:episodePayload.updatedAt||null,episodeCount:episodes.length,faqEpisodes:FAQ,expectedQuestionCount:734},
+  source:{
+    episodesUpdatedAt:episodePayload.updatedAt||null,
+    episodeCount:episodes.length,
+    faqEpisodes:FAQ,
+    expectedQuestionCount:734,
+    episodeTranslationFiles:episodeTranslationData.files.length,
+    questionTranslationFiles:questionPairData.files.length,
+    episodeI18nCount,
+    questionI18nCount,
+    changedQuestionTranslations
+  },
   episodes,
   series,
   questions,
-  questionTranslations,
   nonquestions
 };
 fs.writeFileSync(path.join(ROOT,'content-v2.json'),JSON.stringify(output));
@@ -222,6 +329,11 @@ console.log(JSON.stringify({
   questions:questions.length,
   questionEpisodes:new Set(questions.map(q=>q.episode)).size,
   nonquestionEpisodes:Object.keys(nonquestions.episodes).length,
+  episodeTranslationFiles:episodeTranslationData.files.length,
+  questionTranslationFiles:questionPairData.files.length,
+  episodeI18nCount,
+  questionI18nCount,
+  changedQuestionTranslations,
   missingQuestions
 },null,2));
 
