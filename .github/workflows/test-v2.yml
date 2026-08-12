@@ -93,6 +93,7 @@ jobs:
           node --check tools/test-v2-episode-context-order.mjs
           node --check tools/test-v2-mobile-browser.mjs
           node --check tools/test-v2-mobile-browser-playlist.mjs
+          node --check tools/test-v2-mobile-browser-series.mjs
           node --check tools/test-v2-final-ui-faq-guide.mjs
 
       - name: Test content integrity
@@ -136,6 +137,9 @@ jobs:
 
       - name: Test real 390px playlist editor
         run: node tools/test-v2-mobile-browser-playlist.mjs
+
+      - name: Test three series per row on 390px phone
+        run: node tools/test-v2-mobile-browser-series.mjs
 
       - name: Upload mobile Chromium screenshots
         if: always()
