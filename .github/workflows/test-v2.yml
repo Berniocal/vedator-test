@@ -1,0 +1,56 @@
+name: Test Vedator V2 prototype
+
+on:
+  push:
+    branches:
+      - v2/content-and-tabs
+    paths:
+      - 'tools/**'
+      - 'app-v2.js'
+      - 'v2.html'
+      - '.github/workflows/test-v2.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout V2 branch
+        uses: actions/checkout@v4
+        with:
+          ref: v2/content-and-tabs
+
+      - name: Build one content bundle
+        run: node tools/build-content-v2.mjs
+
+      - name: Check JavaScript syntax
+        run: |
+          node --check app-v2.js
+          node --check tools/build-content-v2.mjs
+          node --check tools/test-content-v2.mjs
+          node --check tools/test-app-v2.mjs
+
+      - name: Test content integrity
+        run: node tools/test-content-v2.mjs
+
+      - name: Install lightweight DOM test dependency
+        run: npm install --no-save --no-package-lock jsdom@26
+
+      - name: Test all V2 tabs in DOM
+        run: node tools/test-app-v2.mjs
+
+      - name: Commit generated content bundle
+        if: success() && github.actor != 'github-actions[bot]'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- content-v2.json
+          if git diff --cached --quiet; then
+            echo 'content-v2.json is unchanged.'
+          else
+            git commit -m 'Build content-v2 bundle'
+            git push origin HEAD:v2/content-and-tabs
+          fi
