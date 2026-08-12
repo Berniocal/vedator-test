@@ -35,7 +35,10 @@ try{
     return{
       eyebrow:document.querySelector('#eyebrow-v2')?.textContent,
       heading:document.querySelector('#heading-v2')?.textContent,
-      activeBackground:activeStyle?.backgroundImage||'',
+      activeBackgroundImage:activeStyle?.backgroundImage||'',
+      activeBackgroundColor:activeStyle?.backgroundColor||'',
+      activeColor:activeStyle?.color||'',
+      activeRadius:activeStyle?.borderRadius||'',
       badgeText:badge?.textContent||'',badgeRadius:badgeStyle?.borderRadius||'',
       tagText:tag?.textContent||'',tagBackground:tagStyle?.backgroundColor||'',
       titleClamp:titleStyle?.webkitLineClamp||'',
@@ -45,7 +48,10 @@ try{
   });
   assert(result.eyebrow==='Neoficiální tematický katalog',`Unexpected eyebrow: ${result.eyebrow}`);
   assert(result.heading==='Vedátorský podcast podle témat',`Unexpected heading: ${result.heading}`);
-  assert(result.activeBackground.includes('gradient'),`Active tab is not purple gradient: ${result.activeBackground}`);
+  const activeFilled=result.activeBackgroundImage.includes('gradient')||(result.activeBackgroundColor&&result.activeBackgroundColor!=='rgba(0, 0, 0, 0)');
+  assert(activeFilled,`Active tab has no filled background: ${JSON.stringify(result)}`);
+  assert(result.activeColor==='rgb(255, 255, 255)',`Active tab should have white text: ${result.activeColor}`);
+  assert(parseFloat(result.activeRadius)>=20,`Active tab is not pill-shaped: ${result.activeRadius}`);
   assert(result.badgeText.includes('Rozposloucháno')&&result.badgeText.includes('35 %'),`Bad progress badge: ${result.badgeText}`);
   assert(parseFloat(result.badgeRadius)>=20,`Progress badge is not pill-shaped: ${result.badgeRadius}`);
   assert(result.tagText&&result.tagBackground!=='rgba(0, 0, 0, 0)',`Purple keyword tag is not visibly styled: ${JSON.stringify(result)}`);
