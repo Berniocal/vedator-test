@@ -61,21 +61,18 @@ window.eval(app);
 window.document.dispatchEvent(new window.Event('DOMContentLoaded',{bubbles:true}));
 await ready;await new Promise(resolve=>setTimeout(resolve,30));
 
-// Dark theme and selected topic must use the same data-theme model.
 window.document.documentElement.dataset.theme='dark';
 const topic=window.document.querySelector('#parity-topics-v2 .topic-v2');
 assert(topic,'Episode topic buttons missing');
 topic.click();
 assert(topic.classList.contains('active'),'Topic click did not keep active state');
 
-// Episode search must visibly highlight the matching word, including lazy-rendered cards.
 const search=window.document.querySelector('#search-v2');
 search.value='podcast';search.dispatchEvent(new window.Event('input',{bubbles:true}));
 await new Promise(resolve=>setTimeout(resolve,20));
 assert(window.document.querySelector('#episodes-v2 mark.vedator-match'),'Episode search has no yellow highlight');
 assert(window.document.querySelectorAll('#episodes-v2 .episode-card-v2').length<=20,'Episode search broke 20-item lazy batch');
 
-// Question search must also retain yellow highlighting after the new lazy renderer.
 const qtab=[...window.document.querySelectorAll('.tab-v2')].find(tab=>tab.dataset.view==='questions');qtab.click();
 const skTitle=data.questions.find(q=>q?.i18n?.sk?.title)?.i18n.sk.title||data.questions[0]?.title||'';
 const qword=(skTitle.match(/[A-Za-zÁ-ž]{5,}/g)||[]).sort((a,b)=>b.length-a.length)[0];
@@ -83,11 +80,9 @@ assert(qword,'Could not derive question search word');
 search.value=qword;search.dispatchEvent(new window.Event('input',{bubbles:true}));await new Promise(resolve=>setTimeout(resolve,20));
 assert(window.document.querySelector('#questions-v2 mark.vedator-match'),'Question search has no yellow highlight');
 
-// Share must remain the third compact action in the same card action row.
 const qactions=window.document.querySelector('#questions-v2 .question-card .actions');
 assert(qactions&&qactions.querySelector('.play')&&qactions.querySelector('.question-more')&&qactions.querySelector('.deep-share'),'Question action row is incomplete');
 
-// Regular episode playback must get prev/next context instead of disabling both buttons.
 const etab=[...window.document.querySelectorAll('.tab-v2')].find(tab=>tab.dataset.view==='episodes');etab.click();search.value='';search.dispatchEvent(new window.Event('input',{bubbles:true}));await new Promise(resolve=>setTimeout(resolve,20));
 const episodeCards=[...window.document.querySelectorAll('#episodes-v2 .episode-card-v2')];
 assert(episodeCards.length>=2,'Need at least two episode cards for mobile player test');
@@ -95,13 +90,12 @@ const secondPlay=episodeCards[1].querySelector('.actions .play');secondPlay.clic
 const prev=window.document.querySelector('#player-prev-v2'),next=window.document.querySelector('#player-next-v2');
 assert(!(prev.disabled&&next.disabled),'Regular episode playback has no prev/next context');
 
-// MP3 must be fetched as bytes and saved through a Blob download, not merely opened in a tab.
-const download=window.document.querySelector('#player-download-v2');download.click();await new Promise(resolve=>setTimeout(resolve,50));
+const download=window.document.querySelector('#player-download-v2');
+download.dispatchEvent(new window.MouseEvent('click',{bubbles:true,cancelable:true}));await new Promise(resolve=>setTimeout(resolve,50));
 assert(audioFetches>=1,'MP3 download did not fetch audio bytes');
 assert(downloads.some(item=>item.download.endsWith('.mp3')),'MP3 Blob download was not triggered');
 assert(!download.dataset.busy,'MP3 download stayed stuck in busy state');
 
-// Ended playback should advance inside the episode context when another item follows.
 const beforeTitle=window.document.querySelector('#player-title-v2').textContent;
 window.document.querySelector('#audio-v2').dispatchEvent(new window.Event('ended'));await new Promise(resolve=>setTimeout(resolve,50));
 const afterTitle=window.document.querySelector('#player-title-v2').textContent;
