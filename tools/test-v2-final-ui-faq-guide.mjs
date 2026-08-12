@@ -12,7 +12,7 @@ assert(html.includes('html body .tab-v2.active')&&html.includes('background:#5b4
 assert(html.includes('grid-template-columns:repeat(3,minmax(0,1fr))'),'Series are not three columns on wide screens');
 assert(html.includes('.v2-collection-progress-text'),'Original collection progress text style missing');
 assert(html.includes('.series-progress-main-v2,.playlist-progress-main-v2'),'New progress bars are not suppressed');
-assert(app.includes("n.play.textContent=audio.paused?'▶':'❚❚'"),'Play/pause icon mode missing');
+assert(app.includes("audio.paused?'▶':'Ⅱ'"),'Final play/pause icon mode missing');
 assert(app.includes("parityUi.episodeTopic==='all'&&!state.query.trim()"),'Numeric all-episode navigation missing');
 assert(app.includes("n.offline.textContent='Offline '+percent+' %'"),'Offline percentage progress missing');
 assert(app.includes("status.textContent=''"),'Loaded status is not cleared');
@@ -80,7 +80,7 @@ tabs.find(tab=>tab.dataset.view==='episodes').click();await new Promise(resolve=
 const firstPlay=window.document.querySelector('#episodes-v2 .episode-card-v2 .actions .play');
 assert(firstPlay,'Episode play button missing');firstPlay.click();await new Promise(resolve=>setTimeout(resolve,30));
 const playerPlay=window.document.querySelector('#player-play-v2');
-assert(playerPlay.textContent==='❚❚','Playing state should use pause bars');
+assert(playerPlay.textContent==='Ⅱ','Playing state should use two vertical pause lines');
 playerPlay.click();await new Promise(resolve=>setTimeout(resolve,10));
 assert(playerPlay.textContent==='▶','Paused state should use play triangle');
 
@@ -92,4 +92,4 @@ assert(audioRequest>=1,'Offline audio was not fetched');
 assert(!offline.dataset.busy,'Offline button stayed busy');
 assert(offline.textContent.includes('Offline'),'Offline button did not return to saved state');
 
-console.log(JSON.stringify({ok:true,installButton:true,threeColumnSeries:true,loadedStatusHidden:true,playPauseIcons:true,offlineProgress:true,legacySeriesAudioId:true,legacyPlaylistMarking:true},null,2));
+console.log(JSON.stringify({ok:true,installButton:true,desktopThreeColumnSeries:true,loadedStatusHidden:true,playPauseIcons:true,offlineProgress:true,legacySeriesAudioId:true,legacyPlaylistMarking:true},null,2));
