@@ -28,13 +28,13 @@ jobs:
       - name: Replace target with current vedator main
         shell: bash
         run: |
-          rsync -a --delete --exclude='.git/' source/ target/
+          rsync -a --delete --exclude='.git/' --exclude='.github/workflows/' source/ target/
           cd target
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then
-            echo 'Target already matches source.'
+            echo 'Target already matches source outside workflows.'
             exit 0
           fi
           git commit -m 'Sync from Berniocal/vedator main'
