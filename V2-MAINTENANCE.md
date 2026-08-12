@@ -92,6 +92,36 @@ Při změně série ověř:
 - pokračování v sérii;
 - původní vizuální značení rozposlouchané/dokončené série a jednotlivých položek.
 
+## Kompatibilita s Google Apps Scriptem pro podobné otázky
+
+Současný Apps Script vytváří odkazy ve starém tvaru `#question=<díl>-sheet@<sekundy>`. V2 tento formát **musí zachovat jako podporovaný deep link** i po finálním přepnutí produkce. Nesmí se odstranit parser legacy odkazu v `processDeepLink()`.
+
+Starší verze Apps Scriptu si databázi sestavuje z `episode-*-summary.js`, `episode-*-chapters.js` a `question-translations-*.js`. Dokud tyto zdrojové soubory zůstávají v produkčním repu, funguje beze změny.
+
+Před finálním odstraněním starých zdrojových souborů musí být Apps Script přepnut na `content-v2.json`. Pro každou otázku musí V2 zachovat minimálně:
+
+- `episode`;
+- `order`;
+- `sourceTime` nebo `time`;
+- `seconds` (už s pětisekundovým prerrollem pro přímý odkaz);
+- `title` a `i18n.cs.title` / `i18n.sk.title`.
+
+Doporučený Apps Script má nejdřív zkusit stáhnout `content-v2.json` a pouze pokud ještě není v produkčním repu dostupný, použít starý parser souborů. Tím může být nasazen ještě před finálním cutoverem a po přepnutí se automaticky přepne na V2 databázi.
+
+`PUBLIC_BASE` v produkčním Apps Scriptu musí zůstat `https://bernio.cz/vedator/`. Po finálním cutoveru musí hlavní V2 běžet na této adrese, aby odkazy z Google Tabulky zůstaly platné.
+
+## Mobilní typografie
+
+Při mobilním viewportu se nepokoušej texty plošně zmenšovat kvůli prostoru. Referenční hodnoty ze staré aplikace jsou přibližně:
+
+- počet nalezených výsledků a řazení: `1rem` (16 px);
+- název epizody: `1.08rem` (17,28 px);
+- datum/meta: `.85rem` (13,6 px);
+- popisek: `1rem` s `line-height: 1.48`;
+- štítky: `.76rem`.
+
+Tyto hodnoty ověřuje mobilní Chromium test, aby se V2 při dalších úpravách znovu nezmenšila.
+
 ## Povinné testy před publikováním
 
 Minimálně:
