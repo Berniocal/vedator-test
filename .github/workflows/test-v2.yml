@@ -15,6 +15,7 @@ on:
       - v2/card-player-polish
       - v2/legacy-visual-parity
       - v2/final-readmore-mobile-fixes
+      - v2/fix-real-episode-readmore
     paths:
       - 'tools/**'
       - 'app-v2.js'
@@ -65,6 +66,7 @@ jobs:
           node tools/finalize-v2-card-player-polish.mjs
           node tools/finalize-v2-legacy-visual-parity.mjs
           node tools/finalize-v2-last-ux-fixes.mjs
+          node tools/finalize-v2-real-readmore.mjs
 
       - name: Check JavaScript syntax
         run: |
@@ -92,6 +94,7 @@ jobs:
           node --check tools/finalize-v2-card-player-polish.mjs
           node --check tools/finalize-v2-legacy-visual-parity.mjs
           node --check tools/finalize-v2-last-ux-fixes.mjs
+          node --check tools/finalize-v2-real-readmore.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-v2-faq-integrity.mjs
           node --check tools/test-app-v2.mjs
@@ -110,6 +113,7 @@ jobs:
           node --check tools/test-v2-legacy-visual-parity.mjs
           node --check tools/test-v2-legacy-visual-browser.mjs
           node --check tools/test-v2-last-ux-browser.mjs
+          node --check tools/test-v2-real-readmore-browser.mjs
 
       - name: Test content integrity
         run: node tools/test-content-v2.mjs
@@ -168,6 +172,9 @@ jobs:
       - name: Test final read-more and mobile UX in Chromium
         run: node tools/test-v2-last-ux-browser.mjs
 
+      - name: Test real full episode description in Chromium
+        run: node tools/test-v2-real-readmore-browser.mjs
+
       - name: Upload mobile Chromium screenshots
         if: always()
         uses: actions/upload-artifact@v4
@@ -186,6 +193,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'Generated V2 runtime is unchanged.'
           else
-            git commit -m 'Build V2 final read-more and mobile fixes'
+            git commit -m 'Build real V2 episode read-more'
             git push origin HEAD:${{ github.ref_name }}
           fi
