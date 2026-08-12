@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#151b2f">
 <link rel="manifest" href="./manifest-v2.webmanifest">
 <link rel="icon" href="./icon.svg" type="image/svg+xml">
-<title>Vedátor V2 test</title>
+<title>Vedátorský podcast – podle témat</title>
 <script>
 (()=>{try{const key='vedator-ui-theme-v1',saved=localStorage.getItem(key),dark=matchMedia?.('(prefers-color-scheme: dark)').matches;document.documentElement.dataset.theme=saved==='light'||saved==='dark'?saved:(dark?'dark':'light')}catch{document.documentElement.dataset.theme='light'}})();
 </script>
@@ -256,7 +256,7 @@ html body .tab-v2.active,html body .topic-v2.active,html body .question-topic.ac
 </style>
 </head>
 <body>
-<header><div class="wrap header-v2"><div class="header-title-v2"><div id="eyebrow-v2" style="opacity:.72;font-size:.76rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase">Radikální testovací V2</div><h1 id="heading-v2" style="margin:.25rem 0 0">Vedátorský podcast</h1></div><div class="header-actions-v2"><button id="install-v2" class="install-v2" type="button">Instalovat</button><div class="language-v2" role="group" aria-label="Jazyk aplikace / Jazyk aplikácie"><button type="button" data-lang="sk">SK</button><button type="button" data-lang="cz">CZ</button></div><button id="theme-toggle-v2" class="theme-toggle-v2" type="button" aria-pressed="false" title="Tmavý režim">☾</button></div></div></header>
+<header><div class="wrap header-v2"><div class="header-title-v2"><div id="eyebrow-v2" style="opacity:.72;font-size:.76rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase">Neoficiální tematický katalog</div><h1 id="heading-v2" style="margin:.25rem 0 0">Vedátorský podcast podle témat</h1></div><div class="header-actions-v2"><button id="install-v2" class="install-v2" type="button">Instalovat</button><div class="language-v2" role="group" aria-label="Jazyk aplikace / Jazyk aplikácie"><button type="button" data-lang="sk">SK</button><button type="button" data-lang="cz">CZ</button></div><button id="theme-toggle-v2" class="theme-toggle-v2" type="button" aria-pressed="false" title="Tmavý režim">☾</button></div></div></header>
 <main class="wrap">
   <section class="panel">
     <div class="controls"><input id="search-v2" class="search" placeholder="Hledat v právě otevřené záložce…"></div>
@@ -294,7 +294,7 @@ html body .tab-v2.active,html body .topic-v2.active,html body .question-topic.ac
       <button id="player-playlist-v2" type="button">＋ Playlist</button>
       <button id="player-offline-v2" type="button">📱 Offline</button>
       <a id="player-download-v2" href="#" target="_blank" rel="noopener">⇩ MP3</a>
-      <button id="player-close-v2" type="button">✕</button>
+      <button id="player-close-v2" type="button" aria-label="Sbalit přehrávač" title="Sbalit přehrávač">↓</button>
     </div>
     <div class="player-seek-row"><span id="player-current-v2">0:00</span><input id="player-seek-v2" class="player-seek" type="range" min="0" max="1" value="0" step="1"><span id="player-duration-v2">–:––</span></div>
     <div id="player-help-v2" class="player-help"></div>
