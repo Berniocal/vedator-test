@@ -5,6 +5,7 @@ on:
     branches:
       - v2/content-and-tabs
       - v2/user-data-player-playlists
+      - v2/language-translations
     paths:
       - 'tools/**'
       - 'app-v2.js'
