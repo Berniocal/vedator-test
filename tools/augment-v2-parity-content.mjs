@@ -5,6 +5,7 @@ const data=JSON.parse(fs.readFileSync(FILE,'utf8'));
 const episodes=Array.isArray(data.episodes)?data.episodes:[];
 
 const norm=value=>String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/\s+/g,' ').trim();
+const FAQ_EPISODES=new Set([346,340,337,332,326,319,313,300,295,289,284,278,272,270,263,257,248,244,226,218,211,203,190,179,170,158,143,138,133,128,119,112,100,89,82,75,69,60,51,35,26,17]);
 const MATHEMATICS=new Set([91,93,98,113,115,116,117,118,156,181,198,201,216,249,282,286,328,329,336]);
 const SCIENTISTS={
   men:[18,66,77,92,97,107,188,206,207,230,324],
@@ -29,7 +30,7 @@ const byNumber=new Map(episodes.map(episode=>[Number(episode.number),episode]));
 
 const fixed=[
   [{cs:'Hledání mimozemského života',sk:'Hľadanie mimozemského života'},episode=>norm(episode.title).includes('hladanie mimozemskeho zivota')],
-  [{cs:'FAQ – dobré otázky',sk:'FAQ – dobré otázky'},episode=>/\bfaq\b/i.test(episode.title)||[138,300].includes(Number(episode.number))],
+  [{cs:'FAQ – dobré otázky',sk:'FAQ – dobré otázky'},episode=>FAQ_EPISODES.has(Number(episode.number))],
   [{cs:'Rozhovory o vesmíru',sk:'Rozhovory o vesmíre'},episode=>norm(episode.title).includes('rozhovory o vesmire')],
   [{cs:'Žiji vědu',sk:'Žijem vedu'},episode=>norm(episode.title).includes('zijem vedu')],
   [{cs:'Genetický speciál',sk:'Genetický špeciál'},episode=>norm(episode.title).includes('geneticky special')],
@@ -98,7 +99,8 @@ data.meta={...(data.meta||{}),legacyParity:{
   fixedSeries:fixed.length,
   scientistSeries:2,
   automaticSeries:result.filter(series=>series.automatic).length,
-  totalSeries:result.length
+  totalSeries:result.length,
+  faqEpisodes:FAQ_EPISODES.size
 }};
 fs.writeFileSync(FILE,JSON.stringify(data));
 console.log(JSON.stringify(data.meta.legacyParity,null,2));
