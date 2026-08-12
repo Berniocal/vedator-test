@@ -39,9 +39,9 @@ await new Promise(resolve=>setTimeout(resolve,40));
 const assert=(condition,message)=>{if(!condition)throw new Error(message)};
 const episodeCard=window.document.querySelector('#episodes-v2 article[data-episode="340"]');
 assert(episodeCard,'Episode 340 card missing through deep-link lazy expansion');
-const progress=episodeCard.querySelector('.episode-progress-v2 progress');
-assert(progress,'Episode progress bar missing');
-assert(Number(progress.value)===17,`Expected rounded episode progress 17, got ${progress.value}`);
+assert(!episodeCard.querySelector('.episode-progress-v2'),'Episode timeline should be hidden in legacy visual parity');
+const listenBadge=episodeCard.querySelector('.listen-status.progress');
+assert(listenBadge?.textContent.includes('17 %'),`Expected rounded episode progress 17 % in badge, got ${listenBadge?.textContent||'none'}`);
 const summary=episodeCard.querySelector('.episode-summary-v2');
 assert(summary,'Episode 340 summary missing');
 const expectedChapters=data.questions.filter(item=>Number(item.episode)===340).length;
@@ -85,4 +85,4 @@ assert(summarySk?.textContent.includes('Zhrnutie dielu'),'Episode summary label 
 seriesTab.click();await new Promise(resolve=>setTimeout(resolve,20));
 assert(window.document.querySelector(`#series-v2 .series[data-series-index="${seriesIndex}"] .series-resume-v2`)?.textContent.includes('Pokračovať'),'Series resume did not translate to Slovak');
 
-console.log(JSON.stringify({ok:true,episode:340,episodeProgress:Number(progress.value),chapters:chapterButtons.length,series:faqSeries.name,seriesEpisodes:faqSeries.episodes.length,completed:1,resumeEpisode:340,translated:true,lazySeriesBody:true},null,2));
+console.log(JSON.stringify({ok:true,episode:340,episodeProgressBadge:17,episodeTimeline:false,chapters:chapterButtons.length,series:faqSeries.name,seriesEpisodes:faqSeries.episodes.length,completed:1,resumeEpisode:340,translated:true,lazySeriesBody:true},null,2));
