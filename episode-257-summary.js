@@ -1,0 +1,22 @@
+(()=>{
+  if(window.__vedatorEpisode257Summary)return;window.__vedatorEpisode257Summary=true;
+  const items=[
+    ['01:29','Točí se hvězdy kolem něčeho?',['Hvězdy se mohou otáčet kolem vlastní osy, obíhat jiné hvězdy, černé díry i galaktické jádro.','Sluneční soustava oběhne střed Mléčné dráhy přibližně jednou za 225 milionů let.']],
+    ['02:32','Kdo dělá grafiku k podcastu?',['Základní vizuální identitu vytvořila Veronika.','Jozef občas kreslí jednoduché ilustrace.','Používají také obrázky s licencí Creative Commons.']],
+    ['03:50','Když se srazí dvě částice téměř rychlostí světla',['Rychlosti se při relativistických hodnotách nesčítají lineárně.','Částice s nenulovou klidovou hmotností nemůže dosáhnout rychlosti světla.','Při relativistických rychlostech se mění měření času a prostoru, nikoli samotná mezní rychlost světla.']],
+    ['05:25','Diracova hypotéza velkých čísel',['Ve fyzice se objevují velmi velká čísla podobného řádu.','Dirac navrhl, že tato podobnost nemusí být náhodná a že se gravitační konstanta může měnit v čase.','Hypotéza není obecně přijímaná, ale inspirovala další výzkum.']],
+    ['08:43','Je kvantový stav jen naše neznalost?',['Ne. Kvantová neurčitost není pouze statistická neznalost jako u klasických systémů.','Kvantové amplitudy pravděpodobnosti se mohou vzájemně zesilovat nebo rušit, což klasická pravděpodobnost neumí.']],
+    ['10:55','Proč je někdy vidět Měsíc ve dne',['Měsíc je dostatečně jasný a jeho viditelnost umožňuje geometrie Slunce, Země a Měsíce.','Záleží na fázi Měsíce, úhlu osvětlení a stavu atmosféry.','Ve dne lze někdy spatřit také Venuši, komety nebo velmi jasné supernovy.']],
+    ['12:42','Jak buňka ví, který řetězec DNA má číst',['Polymeráza se váže na specifickou sekvenci zvanou promotor.','Promotor určuje začátek transkripce i směr čtení DNA.','Systém je silně regulovaný, takže náhodné čtení nesprávného řetězce není běžné.']],
+    ['14:27','Kdy zanikne lidstvo',['Lidstvo se pravděpodobně spíše postupně promění, než aby náhle zaniklo.','Evoluce bude pokračovat a za velmi dlouhou dobu by naši potomci mohli být s dnešními lidmi geneticky nekompatibilní.','Větší riziko než kosmické katastrofy mohou představovat naše vlastní systémy a chyby.']],
+    ['18:38','Jak stíhají práci, sport, čtení a popularizaci',['Omezili pasivní zábavu, například televizi a seriály.','Prioritizují spánek, sport a čas s lidmi.','Omezení alkoholu jim pomohlo zlepšit denní režim.']],
+    ['21:08','Nápady na epizody: Dysonova sféra, guľový blesk, plocha Země',['Většinu zmíněných témat už zpracovali v minulých epizodách.','Doporučují použít vyhledávání v aplikaci a dohledat příslušné díly.']],
+    ['22:13','Jaká je nejvyšší teplota vzduchu',['Při velmi vysokých teplotách, přibližně kolem 1000 °C, se vzduch výrazně ionizuje a přechází v plazma.','Nad touto oblastí už nejde o běžný vzduch v chemickém smyslu.']],
+    ['23:12','Knižní tipy',['Doporučují knihu Samuraj od Šúsaku Endóa o historickém Japonsku.','Zmiňují také Probably Approximately Correct od Leslieho Valianta o matematice učení a umělé inteligenci.','Další knižní tipy lze najít v dřívějších epizodách věnovaných knihám.']]
+  ];
+  const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  function html(){return '<details class="episode-summary"><summary>Shrnutí dílu</summary><div class="episode-summary-body">'+items.map(x=>'<div class="summary-block"><div class="summary-time">'+esc(x[0])+'</div><div class="summary-title">'+esc(x[1])+'</div><ul>'+x[2].map(t=>'<li>'+esc(t)+'</li>').join('')+'</ul></div>').join('')+'<div class="summary-note">Kliknutím na čas se epizoda spustí přímo u dané otázky.</div></div></details>'}
+  function decorate(article){if(article.dataset.episode257Summary||!/\bpodcast\s+257\b/i.test(article.querySelector('h2')?.textContent||''))return;article.dataset.episode257Summary='1';const links=article.querySelector('.links');if(links)links.insertAdjacentHTML('afterend',html());else article.insertAdjacentHTML('beforeend',html())}
+  function scan(root=document){root.querySelectorAll?.('#episodes article').forEach(decorate)}
+  scan();const episodes=document.querySelector('#episodes');if(episodes)new MutationObserver(m=>m.forEach(r=>r.addedNodes.forEach(n=>{if(n.nodeType!==1)return;if(n.matches?.('article'))decorate(n);scan(n)}))).observe(episodes,{childList:true,subtree:true});
+})();

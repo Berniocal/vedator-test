@@ -1,0 +1,48 @@
+html {
+  scroll-behavior: auto !important;
+}
+
+*,
+*::before,
+*::after {
+  animation: none !important;
+  transition: none !important;
+}
+
+button,
+a,
+summary,
+[role="button"],
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+label[for],
+.topic,
+.chip,
+.card,
+.series-card>summary,
+.links .primary,
+.links .secondary {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button,
+a,
+summary,
+[role="button"],
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+label[for] {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Nativní výběry musí na telefonu zůstat bez zásahů do dotykového chování. */
+select {
+  touch-action: auto;
+  user-select: auto;
+  -webkit-user-select: auto;
+  -webkit-tap-highlight-color: transparent;
+}

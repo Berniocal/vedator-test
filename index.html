@@ -1,160 +1,123 @@
 <!doctype html>
 <html lang="cs">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#111827">
-  <title>Vedátorský podcast – spouštění</title>
-  <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="icon" href="./icon-192.png" type="image/png">
-  <style>
-    :root{color-scheme:light dark}
-    *{box-sizing:border-box}
-    body{margin:0;min-height:100vh;display:grid;place-items:center;padding:24px;background:#111827;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
-    main{width:min(560px,100%);padding:28px;border:1px solid rgba(255,255,255,.16);border-radius:22px;background:linear-gradient(145deg,#1f2937,#2e2665);box-shadow:0 24px 70px rgba(0,0,0,.35)}
-    h1{margin:0 0 10px;font-size:clamp(1.55rem,6vw,2.2rem)}
-    p{margin:8px 0;color:#dbe4f3;line-height:1.5}
-    .bar{height:10px;margin:22px 0 10px;overflow:hidden;border-radius:999px;background:rgba(255,255,255,.14)}
-    .bar>span{display:block;width:14%;height:100%;border-radius:inherit;background:#a78bfa;transition:width .25s ease}
-    #status{font-weight:750;color:#fff}
-    #detail{font-size:.88rem;opacity:.78}
-    button{display:none;margin-top:18px;border:0;border-radius:12px;padding:11px 15px;background:#a78bfa;color:#151129;font:inherit;font-weight:800;cursor:pointer}
-    .error button{display:inline-block}
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#111827">
+<title>Vedátorský podcast – podle témat</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<script src="./first-load-recovery.js" defer></script>
+<style>
+:root{--bg:#f4f6fb;--card:#fff;--ink:#162033;--muted:#64748b;--line:#dbe2ea;--accent:#5b4bdb;--accent2:#ede9fe}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+header{background:linear-gradient(135deg,#151b2f,#32256c);color:#fff;padding:28px 18px 24px}.wrap{max-width:1050px;margin:auto}.header-row{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}.install-app{border:1px solid rgba(255,255,255,.4);background:rgba(255,255,255,.14);color:#fff;border-radius:12px;padding:10px 14px;font-weight:800;cursor:pointer;white-space:nowrap}.install-app:hover{background:rgba(255,255,255,.22)}.install-app.hidden{display:none!important}
+.eyebrow{opacity:.75;font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.76rem}h1{font-size:clamp(1.7rem,5vw,2.7rem);margin:.25rem 0 .4rem}
+main{padding:18px}.panel,article,.series-card{background:var(--card);border:1px solid var(--line);border-radius:18px;box-shadow:0 8px 30px rgba(15,23,42,.06)}
+.panel{padding:16px}.controls{display:grid;grid-template-columns:1fr auto;gap:10px}.search{width:100%;padding:13px 14px;border:1px solid var(--line);border-radius:12px;font-size:1rem}
+button,select{font:inherit}.refresh{border:0;border-radius:12px;background:var(--accent);color:#fff;padding:0 16px;font-weight:700;cursor:pointer}
+.tabs,.topics{display:flex;gap:8px;overflow:auto;scrollbar-width:thin}.tabs{padding:14px 0 2px}.topics{padding:10px 0 4px}
+.topic,.tab{white-space:nowrap;border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 12px;cursor:pointer}.topic.active,.tab.active{background:var(--accent2);border-color:#8b7ee8;color:#392b9b;font-weight:700}
+.meta{display:flex;justify-content:space-between;gap:10px;align-items:center;margin:18px 2px 10px;color:var(--muted)}.sort{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:13px}article{padding:16px;display:flex;flex-direction:column;min-height:260px}
+article h2{font-size:1.08rem;line-height:1.35;margin:.35rem 0 .55rem}.date{color:var(--muted);font-size:.85rem}.desc{line-height:1.48;color:#354158;display:-webkit-box;-webkit-line-clamp:6;-webkit-box-orient:vertical;overflow:hidden}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}.tag{font-size:.76rem;background:#eef2ff;color:#3730a3;border-radius:999px;padding:4px 8px}
+.links{display:flex;gap:8px;margin-top:auto}.links a{flex:1;text-align:center;text-decoration:none;border-radius:10px;padding:9px;font-weight:700}.primary{background:var(--accent);color:#fff}.secondary{border:1px solid var(--line);color:var(--ink)}
+.episode-summary{margin-top:10px;border:1px solid var(--line);border-radius:12px;background:#fafaff}.episode-summary>summary{cursor:pointer;font-weight:800;padding:10px 12px;color:#392b9b;list-style:none}.episode-summary>summary::-webkit-details-marker{display:none}.episode-summary>summary::after{content:'▾';float:right;transition:.2s}.episode-summary[open]>summary::after{transform:rotate(180deg)}
+.episode-summary-body{padding:0 12px 12px;color:#354158;line-height:1.45}.summary-block{margin:.8rem 0}.summary-time{font-weight:800;color:#392b9b}.summary-title{font-weight:800;color:var(--ink);margin:.15rem 0}.episode-summary-body ul{margin:.25rem 0;padding-left:1.2rem}.episode-summary-body li{margin:.22rem 0}.summary-note{font-size:.78rem;color:var(--muted);margin-top:.7rem}
+.status{padding:28px;text-align:center;color:var(--muted)}.series-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:10px;align-items:start}.series-card{overflow:hidden}.series-card>summary{list-style:none;cursor:pointer;padding:14px 16px;font-weight:750;display:flex;justify-content:flex-start;gap:10px;align-items:center}.series-card>summary::-webkit-details-marker{display:none}.series-card>summary::after{content:'▾';transition:.2s}.series-card[open]>summary::after{transform:rotate(180deg)}.series-card[open]>summary{border-bottom:1px solid var(--line);background:#fafaff}.series-count{color:var(--muted);font-weight:600;font-size:.85rem;white-space:nowrap;margin-left:auto;text-align:right;min-width:4.6rem}.series-body{padding:8px 16px 14px}.series-body ol{margin:.25rem 0 0;padding-left:1.35rem}.series-body li{padding:.38rem 0;line-height:1.35}.series-body a{color:#392b9b}.person-name{font-weight:750;color:var(--ink);display:block;font-size:.9rem}.episode-title{font-size:.82rem;color:var(--muted)}.hidden{display:none!important}
+@media(max-width:550px){.controls{grid-template-columns:1fr}.refresh{padding:12px}.meta{align-items:flex-start;flex-direction:column}.series-list{grid-template-columns:1fr}.header-row{align-items:center}.install-app{padding:9px 11px;font-size:.9rem}h1{max-width:13ch}}
+</style>
 </head>
 <body>
-<main id="panel">
-  <h1>Vedátorský podcast</h1>
-  <p id="status">Připravuji aplikaci…</p>
-  <div class="bar" aria-hidden="true"><span id="progress"></span></div>
-  <p id="detail">Při prvním spuštění je potřeba internet. Další spuštění může fungovat z offline cache.</p>
-  <button id="retry" type="button">Zkusit znovu</button>
+<header><div class="wrap header-row"><div><div class="eyebrow">Neoficiální tematický katalog</div><h1>Vedátorský podcast podle témat</h1></div><button id="installApp" class="install-app hidden" type="button">Instalovat</button></div></header>
+<main class="wrap">
+<section class="panel">
+<div class="controls"><input id="search" class="search" placeholder="Hledat česky nebo slovensky: černé/čierne díry, vesmír…"><button id="refresh" class="refresh">Znovu načíst</button></div>
+<div class="tabs"><button class="tab active" data-view="episodes">Epizody</button><button class="tab" data-view="series">Série</button></div>
+<div id="topics" class="topics"></div>
+</section>
+<div class="meta"><div id="count">Načítám epizody…</div><select id="episodeSort" class="sort"><option value="new">Nejnovější</option><option value="old">Nejstarší</option><option value="number">Podle čísla dílu</option></select><select id="seriesSort" class="sort hidden"><option value="count">Podle počtu dílů</option><option value="alpha">Podle abecedy</option><option value="first">Podle stáří prvního dílu</option></select></div>
+<section id="episodes" class="grid"><div class="status">Načítám katalog…</div></section>
+<section id="series" class="series-list hidden"></section>
 </main>
 <script>
-(()=>{
-  'use strict';
-
-  const SNAPSHOT='6676ceea283d5069bb1f17c4bf06886d0ad64815';
-  const RELOAD_KEY='vedator-compact-one-reload-v1';
-  const panel=document.querySelector('#panel');
-  const status=document.querySelector('#status');
-  const detail=document.querySelector('#detail');
-  const progress=document.querySelector('#progress');
-  const retry=document.querySelector('#retry');
-
-  const localBase=new URL('./',location.href);
-  const localSw=new URL('sw.js',localBase);
-  const localManifest=new URL('manifest.webmanifest',localBase);
-  const localIcon=new URL('icon-192.png',localBase);
-  const virtualBase=new URL('_vedator/',localBase);
-  const virtualIndex=new URL(`index.html?compactSnapshot=${SNAPSHOT}`,virtualBase);
-
-  function setStep(text,width,extra=''){
-    status.textContent=text;
-    progress.style.width=width+'%';
-    if(extra)detail.textContent=extra;
-  }
-
-  function sameWorker(controller){
-    if(!controller)return false;
-    try{return new URL(controller.scriptURL).href===localSw.href}catch{return false}
-  }
-
-  async function waitForController(timeout=12000){
-    if(sameWorker(navigator.serviceWorker.controller))return true;
-    return new Promise(resolve=>{
-      let finished=false;
-      const finish=value=>{
-        if(finished)return;
-        finished=true;
-        clearTimeout(timer);
-        navigator.serviceWorker.removeEventListener('controllerchange',changed);
-        resolve(value);
-      };
-      const changed=()=>finish(sameWorker(navigator.serviceWorker.controller));
-      const timer=setTimeout(()=>finish(sameWorker(navigator.serviceWorker.controller)),timeout);
-      navigator.serviceWorker.addEventListener('controllerchange',changed);
-    });
-  }
-
-  function prepareHtml(html){
-    html=String(html||'').replace(/<base\b[^>]*>/gi,'');
-    html=html.replace(/<head([^>]*)>/i,`<head$1><base href="${virtualBase.href}">`);
-    html=html.replace(
-      /<link\s+rel=["']manifest["'][^>]*>/i,
-      `<link rel="manifest" href="${localManifest.href}">`
-    );
-    html=html.replace(
-      /<link\s+rel=["']icon["'][^>]*>/i,
-      `<link rel="icon" href="${localIcon.href}" type="image/png">`
-    );
-    return html;
-  }
-
-  async function fetchApplication(){
-    const response=await fetch(virtualIndex.href,{cache:'no-store'});
-    if(!response.ok)throw new Error(`Aplikaci se nepodařilo stáhnout (HTTP ${response.status}).`);
-    const html=prepareHtml(await response.text());
-    if(!/<section id=["']episodes["']/.test(html)){
-      throw new Error('Stažená stránka neobsahuje katalog epizod.');
-    }
-    return html;
-  }
-
-  async function boot(){
-    panel.classList.remove('error');
-    retry.disabled=true;
-
-    if(location.protocol==='file:'){
-      throw new Error('PWA nelze spustit pouhým dvojklikem na soubor. Nahrajte těchto pět souborů na HTTPS web nebo je spusťte přes místní webový server.');
-    }
-    if(!('serviceWorker' in navigator)){
-      throw new Error('Tento prohlížeč nepodporuje service worker potřebný pro PWA.');
-    }
-
-    setStep('Instaluji kompaktní offline vrstvu…',28);
-    const registration=await navigator.serviceWorker.register(localSw.href,{scope:localBase.pathname});
-    await navigator.serviceWorker.ready;
-
-    setStep('Přebírám stránku bez opakovaného načítání…',48);
-    const controlled=await waitForController();
-    if(!controlled){
-      throw new Error('Nový service worker zatím nepřevzal stránku.');
-    }
-
-    setStep('Skládám úplnou aplikaci…',72);
-    let html;
-    try{
-      html=await fetchApplication();
-    }catch(error){
-      if(!sessionStorage.getItem(RELOAD_KEY)){
-        sessionStorage.setItem(RELOAD_KEY,'1');
-        location.reload();
-        return;
-      }
-      throw error;
-    }
-
-    sessionStorage.removeItem(RELOAD_KEY);
-    setStep('Hotovo – otevírám Vedátora…',100);
-    document.open();
-    document.write(html);
-    document.close();
-  }
-
-  retry.addEventListener('click',()=>boot().catch(showError));
-
-  function showError(error){
-    console.error(error);
-    panel.classList.add('error');
-    retry.disabled=false;
-    status.textContent='Aplikaci se nepodařilo spustit.';
-    progress.style.width='100%';
-    detail.textContent=error?.message||String(error);
-  }
-
-  boot().catch(showError);
-})();
+const TOPICS={'Vše':[],'FAQ':['faq','dobre otazky'],'Mimozemský život':['mimozem','astrobiolog','exoplanet','civiliz','biosignat'],'Kosmologie':['kozmolog','kosmolog','velky tresk','rozpin','casopriestor'],'Temná energie':['tmava energia','temna energie','dark energy'],'Černé díry':['cierna diera','cerna dira','cierne diery','cerne diry','black hole'],'Kvantová fyzika':['kvant','superpoz','previazan','provazan'],'Relativita':['relativit','dilatacia casu','rychlost svetla'],'Astronomie':['hviezd','hvezd','planet','galaxi','teleskop','slnko','slunce','mesiac','mesic','mars','jupiter'],'Biologie a medicína':['bunk','mozog','mozek','gen','evol','virus','bakter','sperm','vajic','alzheimer','dopamin'],'Matematika':['matemat','geometri','fraktal','nekonec','chaos','pravdepodob'],'Technologie a AI':['umela inteligencia','umela inteligence','internet','pocitac','robot','algoritm'],'Země a příroda':['zemetrasen','sopk','tornad','hurikan','klima','ocean','geolog'],'Chemie a materiály':['chem','molekul','atom','prvok','prvek','helium','material'],'Společnost a psychologie':['socialne siete','socialni site','psychol','spolocnost','spolecnost','moral','radikaliz','ekonom','peniaz','penez']};
+const QUERY_EQUIV=[['cerna dira','cierna diera'],['cerne diry','cierne diery'],['cernych der','ciernych dier'],['temna energie','tmava energia'],['temna hmota','tmava hmota'],['umela inteligence','umela inteligencia'],['slunce','slnko'],['mesic','mesiac'],['hvezda','hviezda'],['hvezdy','hviezdy'],['mozek','mozog'],['zivot ve vesmiru','zivot vo vesmire'],['casoprostor','casopriestor'],['spolecnost','spolocnost'],['socialni site','socialne siete'],['penize','peniaze']];
+const SCIENTIST_EPISODES={men:[18,66,77,92,97,107,188,206,207,230,324],women:[320,305,302,288,222,220,205,199,140,85,70,53]};
+const MATHEMATICS_EPISODES=new Set([91,93,98,113,115,116,117,118,156,181,198,201,216,249,282,286,328,329,336]);
+const VEDATOR_SPECIAL_TITLES=new Set([
+'vedatorsky special udrzatelnost pripadova studia ikea',
+'vedatorsky special preco je v nealko pive alkohol',
+'vedatorsky special astrologia',
+'vedatorsky special prenos signalu vzduchom',
+'vedatorsky special obycajne zazraky ukazka z knihy',
+'vedatorsky special vdaka comu su jadrove elektrarne bezpecne',
+'vedatorsky special zelena energia',
+'vedatorsky special kusky reality',
+'vedatorsky special ako znie vesmir',
+'vedatorsky special dungeon vedator'
+]);
+const FIXED_SERIES=[
+{name:'Hľadanie mimozemského života',test:e=>norm(e.title).includes('hladanie mimozemskeho zivota')},
+{name:'FAQ – dobré otázky',test:e=>/\bfaq\b/i.test(e.title)||[138,300].includes(Number(e.number))},
+{name:'Rozhovory o vesmíre',test:e=>norm(e.title).includes('rozhovory o vesmire')},
+{name:'Žijem vedu',test:e=>norm(e.title).includes('zijem vedu')},
+{name:'Genetický speciál',test:e=>norm(e.title).includes('geneticky special')},
+{name:'Nobelovy ceny',test:e=>{const n=norm(e.title);return(n.includes('nobelove ceny')&&!n.includes('ig nobelove'))||Number(e.number)===152}},
+{name:'Ig Nobelovy ceny',test:e=>norm(e.title).includes('ig nobelove ceny')},
+{name:'Matematika',test:e=>MATHEMATICS_EPISODES.has(Number(e.number))},
+{name:'Teorie her',test:e=>[29,105,120,245,254].includes(Number(e.number))},
+{name:'Rozhovory v angličtině',test:e=>[234,236,238,240,242,246,250,256,265,267].includes(Number(e.number))},
+{name:'Internet',test:e=>[223,258,333].includes(Number(e.number))},
+{name:'Vedátorský špeciál',test:e=>VEDATOR_SPECIAL_TITLES.has(norm(e.title))},
+{name:'Černé díry',test:e=>[296,227,173,132,104,68].includes(Number(e.number))},
+{name:'Tmavá hmota a energie',test:e=>[210,182,145,48,2].includes(Number(e.number))},
+{name:'Částice',test:e=>[10,34,163,175,180,187,225].includes(Number(e.number))},
+{name:'Roky ve vědě',test:e=>[108,160,212,318].includes(Number(e.number))}
+];
+const SUMMARIES={300:{sections:[
+{time:'1:29',title:'1) Jak by sme sa dohovárali s mimozemskou civilizáciou?',items:['Největší problém: nevíme, zda nás budou brát jako partnery, nebo jako mravce.','Mohli by nás „vydezinfikovat“ bez přemýšlení, stejně jako člověk zabije bakterie.','Pokud jsou dost vyspělí na cestování vesmírem, musí mít vyspělou etiku, jinak by se sami zničili.','Komunikace by začala ukazováním na objekty (kámen → „kámen“).','Doufají, že bude existovat společná logika jazyka, i když ne slovní zásoba.','Některé pozemské jazyky nemají minulý/budoucí čas nebo rekurenci — mimozemské mohou být ještě odlišnější.','Možná nás už mimozemšťané sledují, ale nejsme schopni jejich signály rozpoznat (přirovnání k gravitačním vlnám).']},
+{time:'6:33',title:'2) Existujú farebné galaxie?',items:['Vzdálené galaxie vypadají červeně kvůli červenému posuvu.','Mladý vesmír → galaxie byly modré (mladé hvězdy).','Dnes jsou spíše do červena.','Zblízka galaxie nemají „jednu barvu“, protože jsou směsí mnoha hvězd.','Existují i rádiově aktivní galaxie (silný rádiový signál).']},
+{time:'8:14',title:'3) Vedeli by sme vôbec rozpoznať mimozemskú civilizáciu, ak by fungovala úplne inak?',items:['Je možné, že by mimozemšťany nepoznali vůbec.','Mohli by být tak technologicky nad námi, že by jejich signály byly neviditelné — jako iPhone pro mravce.','Možná jsme obklopení signály, které neumíme detekovat.','Přirovnání: domorodý kmen bez rádia → netuší, že kolem něj létají rádiové vlny.','Gravitační vlny jsou příklad: existovaly vždy, ale až nedávno jsme je uměli měřit.']},
+{time:'10:42',title:'4) Prečo sa svetlo vo vákuu šíri inak ako v skle/vode/atmosfére? Zrýchli, keď vyjde von?',items:['„Zrýchli“ není správné slovo — ve vakuu má světlo vždy stejnou rychlost.','V materiálu se interaguje s hmotou, což způsobí efektivní zpomalení.','Fotony mezi interakcemi stále letí rychlostí světla.','Vysvětlují to pomocí analogií a zmiňují, že optika je těžká bez rovnic.']},
+{time:'13:02',title:'5) Čo je vlastne veľký tresk? Je to singularita? Alebo stav, keď sa nemohlo šíriť svetlo?',items:['Světlo se nemohlo šířit až 360 000 let po velkém třesku, takže to není definice samotného třesku.','Neexistuje úplný konsenzus, co přesně se stalo.','Existuje mnoho modelů: vesmír se zmenšoval a odrazil, byl „zaseknutý“ a pak se rozbalil, nebo vznikl spolu s časem.','Zmiňují knihu Before the Big Bang a podcast Seana Carrolla.','Budoucí detektor LISA může přinést zásadní poznatky o raném vesmíru.']},
+{time:'19:12',title:'6) Akými zákonmi by ste ohradili/regulovali AI?',items:['Právník v publiku: AI by měla mít kill switch.','Problém: trénování na ukradeném obsahu.','Problém: osobní údaje v trénovacích datech.','Velká regulace může brzdit inovace → Čína by mohla získat náskok.','Možná by měl výrobce nést zodpovědnost za škody, které AI způsobí.','Diskuse o autonomních autech a odpovědnosti.','Zmiňují případy, kdy AI „vymámila“ Google kódy přes příběh o babičce.']},
+{time:'24:09',title:'7) Prečo majú niektoré objekty vysokú excentricitu? Prečo medzi Marsom a Jupiterom nevznikla planéta?',items:['Dva hlavní důvody:','1) Slapové síly – blízké objekty jsou trhány.','2) Nestabilita slnečnej sústavy – kdysi byla chaotická, planéty měnily pořadí.','Dvě období „heavy bombardment“.','Gravitační praky mohou měnit dráhy i bez srážek.','Možná existují bludné planéty, vystřelené gravitační interakcí.','Materiálu mezi Marsem a Jupiterem je málo a je rušen Jupiterem.']},
+{time:'29:53',title:'8) Aké technológie môžu pomôcť odvrátiť klimatickú krízu?',items:['Tóriové reaktory.','Carbon capture (Švýcarsko).','Problém: musí být poháněn zelenou energií, jinak nedává smysl.','Solární panely s vyšší efektivitou by byly revoluční.','Je potřeba změnit výrobu cementu, oceli.','AI může optimalizovat plýtvání energií a potravinami.','Stromy vážou CO₂ do půdy.','Geoengineering (odrážení světla) je riskantní.']},
+{time:'36:32',title:'9) Ako vznikli Saturnove prstence? Kedy zaniknú?',items:['Nevíme přesně.','Prstence jsou dynamické, nestabilní.','Jsou trhané slapovými silami.','Nedávné studie naznačují, že zanikají, ale časový horizont si nepamatují.']},
+{time:'39:07',title:'10) Zmenia sa súhvezdia v budúcnosti?',items:['Ano, hvězdy se hýbou.','ESA má simulaci pohybu hvězd na 500 000 let dopředu.','Souhvězdí se deformují (např. Velký vůz).','Egypťané používali jinou „severku“ kvůli precesi.','Severní pól se posouvá — některá letiště musela přeznačit dráhy.','Andromeda se k nám blíží, ale její boční rychlost neznáme.']},
+{time:'41:46',title:'11) Kedy budú ďalšie rozhovory o vesmíre s Norbym?',items:['Jozef už nepůsobí na Masaryčce, ale rozhovory budou pokračovat.','Mají rozpracovanou druhou knihu.','Mají 3–4 nenastříhané epizody.','Do konce roku chtějí vydat alespoň jednu nebo dvě.']}
+]}};
+let episodes=[],active='Vše',view='episodes';
+const norm=s=>(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim();
+const cleanHtml=s=>{const d=document.createElement('div');d.innerHTML=s||'';return(d.textContent||'').replace(/\s+/g,' ').trim()};
+const short=s=>{s=cleanHtml(s).replace(/Podcast vzniká[\s\S]*/i,'').trim();return s.length>440?s.slice(0,437).replace(/\s+\S*$/,'')+'…':s};
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function expandedQuery(q){const base=norm(q);if(!base)return[];const out=new Set([base]);for(let pass=0;pass<3;pass++)for(const current of [...out])for(const group of QUERY_EQUIV)for(const source of group){const src=norm(source);const re=new RegExp('(^|\\s)'+src.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'(?=\\s|$)','g');if(re.test(current))for(const target of group)out.add(current.replace(re,(m,p)=>p+norm(target)))}return[...out]}
+function matchLevel(ep,queries){if(!queries.length)return 0;const title=norm(ep.title),desc=norm(cleanHtml(ep.description));if(queries.some(q=>title.includes(q)))return 0;if(queries.some(q=>q.split(' ').every(w=>title.includes(w))))return 1;if(queries.some(q=>desc.includes(q)))return 2;if(queries.some(q=>q.split(' ').every(w=>desc.includes(w))))return 3;return 99}
+function selectedTopicQueries(){return active==='Vše'?[]:[...new Set((TOPICS[active]||[]).flatMap(expandedQuery))]}
+function categories(ep){const txt=norm(ep.title+' '+cleanHtml(ep.description));const result=Object.entries(TOPICS).filter(([k,w])=>k!=='Vše'&&w.some(x=>txt.includes(norm(x)))).map(x=>x[0]);if(MATHEMATICS_EPISODES.has(Number(ep.number))&&!result.includes('Matematika'))result.push('Matematika');return result}
+function summaryHtml(number){const s=SUMMARIES[number];if(!s)return'';return `<details class="episode-summary"><summary>Shrnutí dílu</summary><div class="episode-summary-body">${s.sections.map(x=>`<div class="summary-block"><div class="summary-time">${esc(x.time)}</div><div class="summary-title">${esc(x.title)}</div><ul>${x.items.map(i=>`<li>${esc(i)}</li>`).join('')}</ul></div>`).join('')}<div class="summary-note">Shrnutí vychází z časových kapitol vytvořených pro video.</div></div></details>`}
+async function load(){document.querySelector('#count').textContent='Načítám katalog…';try{const r=await fetch('./episodes.json?v='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();episodes=Array.isArray(data)?data:data.episodes;if(!Array.isArray(episodes)||!episodes.length)throw Error('Katalog je prázdný');localStorage.setItem('vedatorEpisodes',JSON.stringify(episodes));render()}catch(e){const saved=localStorage.getItem('vedatorEpisodes');if(saved){episodes=JSON.parse(saved);render()}else{document.querySelector('#episodes').innerHTML='<div class="status"><strong>Katalog se nepodařilo načíst.</strong><br>'+esc(e.message)+'</div>';document.querySelector('#count').textContent='Bez dat'}}}
+function renderTopics(){const el=document.querySelector('#topics');el.innerHTML='';Object.keys(TOPICS).forEach(t=>{const b=document.createElement('button');b.className='topic'+(t===active?' active':'');b.textContent=t;b.onclick=()=>{active=t;render()};el.appendChild(b)})}
+function filtered(){const queries=expandedQuery(document.querySelector('#search').value),topics=selectedTopicQueries();return episodes.map(e=>{const searchMatch=matchLevel(e,queries),topicMatch=matchLevel(e,topics);return{...e,cats:categories(e),searchMatch,topicMatch}}).filter(e=>(!queries.length||e.searchMatch<99)&&(active==='Matematika'?MATHEMATICS_EPISODES.has(Number(e.number)):(!topics.length||e.topicMatch<99)))}
+function renderEpisodes(){let arr=filtered(),queries=expandedQuery(document.querySelector('#search').value),topics=selectedTopicQueries();const sort=document.querySelector('#episodeSort').value;arr.sort((a,b)=>{if(topics.length&&a.topicMatch!==b.topicMatch)return a.topicMatch-b.topicMatch;if(queries.length&&a.searchMatch!==b.searchMatch)return a.searchMatch-b.searchMatch;return sort==='old'?new Date(a.date)-new Date(b.date):sort==='number'?(b.number||0)-(a.number||0):new Date(b.date)-new Date(a.date)});document.querySelector('#count').textContent=`Nalezeno ${arr.length} z ${episodes.length} epizod`;const box=document.querySelector('#episodes');box.innerHTML='';if(!arr.length){box.innerHTML='<div class="status">Nic jsem nenašel.</div>';return}arr.forEach(e=>{const a=document.createElement('article');const dt=e.date?new Intl.DateTimeFormat('cs-CZ',{day:'numeric',month:'long',year:'numeric'}).format(new Date(e.date)):'';a.innerHTML=`<div class="date">${esc(dt)}</div><h2>${esc(e.title)}</h2><div class="desc">${esc(short(e.description)||'Popis není k dispozici.')}</div><div class="tags">${(e.cats.length?e.cats:['Ostatní']).map(x=>`<span class="tag">${esc(x)}</span>`).join('')}</div><div class="links">${e.enclosure?`<a class="primary" href="${esc(e.enclosure)}" target="_blank" rel="noopener">Přehrát</a>`:''}<a class="secondary" href="${esc(e.link||e.enclosure)}" target="_blank" rel="noopener">Detail dílu</a></div>${summaryHtml(Number(e.number))}`;box.appendChild(a)})}
+function peopleByNumbers(numbers){return numbers.map(n=>episodes.find(e=>Number(e.number)===n)).filter(Boolean).map(e=>({...e,person:e.title.replace(/^Vedátorský podcast\s*\d+\s*[–—-]?\s*/i,'').trim()})).sort((a,b)=>new Date(a.date)-new Date(b.date))}
+function firstDate(g){return Math.min(...g.items.map(e=>new Date(e.date).getTime()).filter(Number.isFinite))}
+function seriesGroups(){const groups=[];for(const s of FIXED_SERIES){const items=episodes.filter(s.test).sort((a,b)=>new Date(a.date)-new Date(b.date));if(items.length>=2)groups.push({name:s.name,items})}const men=peopleByNumbers(SCIENTIST_EPISODES.men);if(men.length)groups.push({name:'Vědci',items:men,people:true});const women=peopleByNumbers(SCIENTIST_EPISODES.women);if(women.length)groups.push({name:'Vědkyně',items:women,people:true});const automatic={};episodes.forEach(e=>{let core=norm(e.title.replace(/^Vedátorský podcast\s*\d+\s*[–—-]?\s*/i,'').replace(/\b(?:i|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii|\d+)\b\s*$/i,''));if(core==='najvacsia bitka v matematike')return;if(core.length>8)(automatic[core]??=[]).push(e)});for(const items0 of Object.values(automatic)){if(items0.length<2)continue;const ids=new Set(groups.flatMap(g=>g.items.map(e=>e.id||e.link||e.title)));const items=items0.filter(e=>!ids.has(e.id||e.link||e.title));if(items.length>=2)groups.push({name:items[0].title.replace(/^Vedátorský podcast\s*\d+\s*[–—-]?\s*/i,'').replace(/\s+(?:I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII|\d+)\s*$/i,''),items:items.sort((a,b)=>new Date(a.date)-new Date(b.date))})}const mode=document.querySelector('#seriesSort').value;groups.sort((a,b)=>mode==='alpha'?a.name.localeCompare(b.name,'cs'):mode==='first'?firstDate(a)-firstDate(b):b.items.length-a.items.length||a.name.localeCompare(b.name,'cs'));return groups}
+function renderSeries(){const groups=seriesGroups();document.querySelector('#count').textContent=`Nalezeno ${groups.length} sérií`;document.querySelector('#series').innerHTML=groups.map(g=>`<details class="series-card"><summary><span>${esc(g.name)}</span><span class="series-count">${g.items.length} dílů</span></summary><div class="series-body"><ol>${g.items.map(e=>`<li><a href="${esc(e.link||e.enclosure)}" target="_blank" rel="noopener">${g.people?`<span class="person-name">${esc(e.person)}</span><span class="episode-title">${esc(e.title)}</span>`:esc(e.title)}</a></li>`).join('')}</ol></div></details>`).join('')}
+function render(){renderTopics();document.querySelector('#episodes').classList.toggle('hidden',view!=='episodes');document.querySelector('#series').classList.toggle('hidden',view!=='series');document.querySelector('#episodeSort').classList.toggle('hidden',view!=='episodes');document.querySelector('#seriesSort').classList.toggle('hidden',view!=='series');view==='episodes'?renderEpisodes():renderSeries()}
+document.querySelector('#search').addEventListener('input',render);document.querySelector('#episodeSort').addEventListener('change',render);document.querySelector('#seriesSort').addEventListener('change',render);document.querySelector('#refresh').addEventListener('click',load);document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{view=b.dataset.view;document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x===b));render()});
+const installButton=document.querySelector('#installApp');
+let deferredInstallPrompt=null;
+const isInstalled=()=>window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;
+function updateInstallButton(){installButton.classList.toggle('hidden',isInstalled())}
+window.addEventListener('beforeinstallprompt',event=>{event.preventDefault();deferredInstallPrompt=event;updateInstallButton()});
+window.addEventListener('appinstalled',()=>{deferredInstallPrompt=null;installButton.classList.add('hidden')});
+installButton.addEventListener('click',async()=>{if(isInstalled()){installButton.classList.add('hidden');return}if(deferredInstallPrompt){deferredInstallPrompt.prompt();await deferredInstallPrompt.userChoice;deferredInstallPrompt=null;updateInstallButton();return}const ios=/iphone|ipad|ipod/i.test(navigator.userAgent);alert(ios?'V Safari klepněte na Sdílet a potom na Přidat na plochu.':'Instalaci otevřete v nabídce prohlížeče a zvolte Instalovat aplikaci nebo Přidat na plochu.')});
+updateInstallButton();
+if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw-fast.js',{updateViaCache:'none'});load();
 </script>
 </body>
 </html>

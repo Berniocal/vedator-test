@@ -1,180 +1,45 @@
-/* Kompaktní obal původní PWA Vedátor.
-   Repozitář se nemění; aplikace je připnuta k jednomu neměnnému commitu. */
-'use strict';
-
-const SNAPSHOT='6676ceea283d5069bb1f17c4bf06886d0ad64815';
-const REMOTE=`https://cdn.jsdelivr.net/gh/Berniocal/vedator@${SNAPSHOT}/`;
-const SCOPE_URL=new URL(self.registration.scope);
-const SCOPE_PATH=SCOPE_URL.pathname.endsWith('/')?SCOPE_URL.pathname:SCOPE_URL.pathname+'/';
-const VIRTUAL_PREFIX=SCOPE_PATH+'_vedator/';
-const LOCAL_FILES=new Set(['','index.html','manifest.webmanifest','icon-192.png','icon-512.png','sw.js']);
-
-const networkFetch=self.fetch.bind(self);
-const realAddEventListener=self.addEventListener.bind(self);
-const realImportScripts=self.importScripts.bind(self);
-
-function inputUrl(input){
-  try{return new URL(typeof input==='string'?input:input.url,self.location.href)}
-  catch{return null}
+const CACHE='vedator-temata-v203';
+const VERSION='v203';
+const ASSETS=['./','index.html','manifest.webmanifest','icon.svg','fast-touch.css','audio-player.css','audio-player.js','catalog-patch.js','custom-player.js','theme-toggle.js','ui-cleanup.js','highlight-patch.js','playlist-patch.js','slovak-topics-patch.js','topic-filter-fix.js','slovak-ui.js','translation-extension.js','question-language-fix.js','question-count-language.js','question-translations-340-part2.js','question-translations-next9.js','question-translations-next12.js','question-translations-332-part2.js','question-translations-332-end-326.js','question-translations-319.js','question-translations-313-part1.js','question-translations-313-end-300.js','question-translations-295-part1.js','question-translations-295-end-289-part1.js','question-translations-289-end-284-part1.js','question-translations-284-end-278-part1.js','question-translations-278-end-272-part1.js','question-translations-272-end-270-part1.js','question-translations-270-end-263-part1.js','question-translations-263-end-257-part1.js','question-translations-257-end-248-part1.js','question-translations-248-end-244-part1.js','question-translations-244-end-226-part1.js','question-translations-226-end-218-part1.js','question-translations-218-end-211-part1.js','question-translations-211-part2.js','question-translations-211-part3.js','question-translations-211-part4.js','question-translations-211-part5.js','question-translations-211-end-203-part1.js','question-translations-203-end-190-part1.js','question-translations-190-end-179-part1.js','question-translations-179-end-170-part1.js','question-translations-170-end-158-part1.js','question-translations-158-part2.js','question-translations-158-part3.js','question-translations-158-part4.js','question-translations-158-part5.js','question-translations-158-part6.js','question-highlight-translated.js','tab-swipe-navigation.js','data-backup.js','view-layout-fix.js','title-truncate.js','scientist-title-fix.js','media-session-skip.js','lazy-render.js','episode-300-chapters.js','question-controls-stability.js','episode-17-summary.js','episode-26-summary.js','episode-35-summary.js','episode-51-summary.js','episode-60-summary.js','episode-69-summary.js','episode-138-summary.js','episode-75-summary.js','episode-82-summary.js','episode-89-summary.js','episode-100-summary.js','episode-112-summary.js','episode-119-chapters.js','episode-119-summary.js','episode-128-chapters.js','episode-128-summary.js','episode-133-chapters.js','episode-133-summary.js','episode-143-chapters.js','episode-143-summary.js','episode-158-chapters.js','episode-158-summary.js','episode-179-chapters.js','episode-179-summary.js','episode-190-218-226-chapters.js','episode-190-summary.js','episode-203-chapters.js','episode-203-summary.js','episode-211-chapters.js','episode-211-summary.js','episode-218-summary.js','episode-226-summary.js','episode-244-chapters.js','episode-244-summary.js','episode-248-chapters.js','episode-248-summary.js','episode-257-summary.js','episode-257-chapters.js','episode-263-summary.js','episode-270-summary.js','episode-272-summary.js','episode-278-summary.js','episode-284-summary.js','episode-289-summary.js','episode-295-summary.js','episode-313-summary.js','episode-319-summary.js','episode-326-summary.js','episode-332-summary.js','episode-337-summary.js','episode-340-summary.js','questions-view.js','question-temperature-mathjax.js'];
+self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)))});
+self.addEventListener('activate',e=>e.waitUntil((async()=>{await Promise.all((await caches.keys()).filter(k=>k!==CACHE).map(k=>caches.delete(k)));await self.clients.claim();for(const c of await self.clients.matchAll({type:'window',includeUncontrolled:true}))c.postMessage({type:'VEDATOR_SW_UPDATED',version:VERSION})})()));
+self.addEventListener('message',e=>{if(e.data?.type==='SKIP_WAITING')self.skipWaiting()});
+function updaterScript(){return `<script>(()=>{if(!('serviceWorker'in navigator)||window.__vedatorSwUpdater)return;window.__vedatorSwUpdater=true;let reloadScheduled=false;const reloadOnce=version=>{const key='vedator-sw-'+(version||'controller');if(reloadScheduled||sessionStorage.getItem(key))return;reloadScheduled=true;sessionStorage.setItem(key,'1');setTimeout(()=>location.reload(),0)};navigator.serviceWorker.addEventListener('message',event=>{if(event.data&&event.data.type==='VEDATOR_SW_UPDATED')reloadOnce(event.data.version)});navigator.serviceWorker.addEventListener('controllerchange',()=>{setTimeout(()=>{if(!reloadScheduled)reloadOnce('controller-'+Date.now())},250)});navigator.serviceWorker.ready.then(reg=>{reg.update().catch(()=>{});if(reg.waiting)reg.waiting.postMessage({type:'SKIP_WAITING'});reg.addEventListener('updatefound',()=>{const worker=reg.installing;if(!worker)return;worker.addEventListener('statechange',()=>{if(worker.state==='installed'&&navigator.serviceWorker.controller)worker.postMessage({type:'SKIP_WAITING'})})})}).catch(()=>{});document.addEventListener('visibilitychange',()=>{if(!document.hidden)navigator.serviceWorker.ready.then(reg=>reg.update()).catch(()=>{})});})();</script>`}
+function addNumbers(source,numbers,prepend=false){const values=source.split(',').map(v=>v.trim()).filter(Boolean);for(const n of numbers)if(!values.includes(String(n)))prepend?values.unshift(String(n)):values.push(String(n));return values.join(',')}
+async function patchFaqCode(response,url){
+ if(!response||!['questions-view.js','playlist-patch.js','lazy-render.js','question-controls-stability.js','question-translations-313-end-300.js'].includes(url.pathname.split('/').pop()))return response;
+ let code=await response.text();
+ if(url.pathname.endsWith('question-translations-313-end-300.js'))code=code.replace("window.dispatchEvent(new Event('vedatorcontentchange'));",'');
+ if(url.pathname.endsWith('questions-view.js')||url.pathname.endsWith('playlist-patch.js'))code=code.replace(/const FAQ=\[([^\]]*)\]/,(_,x)=>`const FAQ=[${addNumbers(x,[17,26,35,51,60,69,75,138])}]`);
+ if(url.pathname.endsWith('questions-view.js')){
+  code=code.replace("episodesBox.append(a);await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));shiftSummaryTimes(a);","episodesBox.append(a);for(let wait=0;wait<120&&!a.querySelector('.summary-block');wait++)await new Promise(r=>requestAnimationFrame(r));shiftSummaryTimes(a);");
+ }
+ if(url.pathname.endsWith('playlist-patch.js')){
+  code=code.replace('async function renderEditor(){await loadQuestions();','async function renderEditor(){if(mode===\'q\'||draft.some(r=>dec(r)>=2048))await loadQuestions();');
+  code=code.replace('async function openEditor(id){await loadQuestions();','async function openEditor(id){');
+  code=code.replace('async function share(pl){await loadQuestions();','async function share(pl){');
+  code=code.replace('if(navigator.share)await navigator.share({title:pl.name,text:`Playlist Vedátorského podcastu: ${pl.name}`,url:u.href});','if(navigator.share)await navigator.share({url:u.href});');
+  code=code.replace(/async function renderPlaylists\(\)\{[\s\S]*?\}\nlist\.onclick=/,`function playlistRefs(pl){return(pl.items||[]).map(normalizeRef).filter(Boolean)}
+function playlistBodyHtml(items){return '<ol class="vedator-playlist-items">'+(items.length?items.map(x=>\`<li class="vedator-playlist-item"><button class="vedator-playlist-open" data-ref="\${x.ref}"><b>\${esc(x.title)}</b><br><small class="vedator-item-sub">\${esc(x.subtitle)}</small></button></li>\`).join(''):'<li class="vedator-playlist-empty">Playlist je prázdný.</li>')+'</ol>'}
+async function loadPlaylistBody(card,pl){if(card.dataset.loaded==='1'||card.dataset.loading==='1')return;card.dataset.loading='1';const body=card.querySelector('.vedator-playlist-body'),refs=playlistRefs(pl);try{if(!refs.length){body.innerHTML='<div class="vedator-playlist-empty">Playlist je prázdný.</div>';card.dataset.loaded='1';return}body.innerHTML='<div class="vedator-playlist-empty">Načítám položky…</div>';if(!questions&&refs.some(ref=>dec(ref)>=2048))await loadQuestions();if(!card.isConnected)return;const items=refs.map(itemInfo).filter(Boolean);body.innerHTML=playlistBodyHtml(items);card.dataset.loaded='1';window.__vedatorDecorateCollections?.();window.dispatchEvent(new Event('vedatorcontentchange'))}catch(error){if(card.isConnected)body.innerHTML='<div class="vedator-playlist-empty">Položky se nepodařilo načíst.</div>';console.warn('Playlist se nepodařilo načíst',error)}finally{delete card.dataset.loading}}
+function renderPlaylists(){const p=load();if(count)count.textContent=\`\${p.length} playlistů\`;if(!p.length){list.innerHTML='<div class="vedator-playlist-empty">Zatím nemáte žádný playlist.</div>';return}const openIds=new Set([...list.querySelectorAll('.vedator-playlist-card[open]')].map(card=>String(card.dataset.id)));list.innerHTML=p.map(pl=>{const refs=playlistRefs(pl),open=openIds.has(String(pl.id))?' open':'';return \`<details class="vedator-playlist-card" data-id="\${esc(pl.id)}"\${open}><summary><span class="vedator-playlist-title">\${esc(pl.name)}</span><span class="vedator-playlist-count">\${refs.length} položek</span><span class="vedator-playlist-actions"><button class="vedator-playlist-icon edit">✎</button><button class="vedator-playlist-icon share">🔗</button><button class="vedator-playlist-icon delete">🗑</button></span></summary><div class="vedator-playlist-body"></div></details>\`}).join('');list.querySelectorAll('.vedator-playlist-card').forEach(card=>{const pl=p.find(item=>String(item.id)===String(card.dataset.id));if(!pl)return;const loadBody=()=>{if(card.open)void loadPlaylistBody(card,pl)};card.addEventListener('toggle',loadBody);if(card.open)loadBody()})}
+list.onclick=`);
+ }
+ if(url.pathname.endsWith('lazy-render.js')){
+  code=code.replace(/\n\s*if\(!window\.__vedatorEpisodeTranslationsReady\)\{[\s\S]*?\n\s*\}\n\n\s*const groups=seriesGroups\(\);/,"\n    const groups=seriesGroups();");
+  code=code.replace("details.appendChild(seriesBody(group));\n      };","details.appendChild(seriesBody(group));\n        window.__vedatorDecorateCollections?.();\n        window.dispatchEvent(new Event('vedatorcontentchange'));\n      };");
+ }
+ if(url.pathname.endsWith('question-controls-stability.js')){
+  code=code.replace(/for\(const src of \[([^\]]*)\]\)/,(_,x)=>{let y=x;for(const n of [17,26,35,51,60,69,75,138])if(!y.includes(`episode-${n}-summary.js`))y+=`, './episode-${n}-summary.js'`;return `for(const src of [${y}])`});
+  code=code.replace(/const FAQ_EPISODES=new Set\(\[([^\]]*)\]\)/,(_,x)=>`const FAQ_EPISODES=new Set([${addNumbers(x,[17,26,35,51,60,69,75,138],true)}])`);
+ }
+ const h=new Headers(response.headers);h.delete('content-length');h.delete('content-encoding');h.set('content-type','application/javascript; charset=utf-8');return new Response(code,{status:response.status,statusText:response.statusText,headers:h});
 }
-
-function relativeToScope(url){
-  if(!url||url.origin!==self.location.origin||!url.pathname.startsWith(SCOPE_PATH))return null;
-  return url.pathname.slice(SCOPE_PATH.length);
+async function injectEnhancements(response){
+ if(!response)return response;const type=response.headers.get('content-type')||'';if(!type.includes('text/html'))return response;let html=await response.text();
+ const css=['fast-touch.css','audio-player.css'];for(const f of css)if(!html.includes(f))html=html.replace('</head>',`<link rel="stylesheet" href="./${f}"></head>`);
+ const js=['audio-player.js','catalog-patch.js','custom-player.js','theme-toggle.js','ui-cleanup.js','slovak-topics-patch.js','topic-filter-fix.js','highlight-patch.js','playlist-patch.js','slovak-ui.js','translation-extension.js','question-language-fix.js','question-count-language.js','question-translations-340-part2.js','question-translations-next9.js','question-translations-next12.js','question-translations-332-part2.js','question-translations-332-end-326.js','question-translations-319.js','question-translations-313-part1.js','question-translations-313-end-300.js','question-translations-295-part1.js','question-translations-295-end-289-part1.js','question-translations-289-end-284-part1.js','question-translations-284-end-278-part1.js','question-translations-278-end-272-part1.js','question-translations-272-end-270-part1.js','question-translations-270-end-263-part1.js','question-translations-263-end-257-part1.js','question-translations-257-end-248-part1.js','question-translations-248-end-244-part1.js','question-translations-244-end-226-part1.js','question-translations-226-end-218-part1.js','question-translations-218-end-211-part1.js','question-translations-211-part2.js','question-translations-211-part3.js','question-translations-211-part4.js','question-translations-211-part5.js','question-translations-211-end-203-part1.js','question-translations-203-end-190-part1.js','question-translations-190-end-179-part1.js','question-translations-179-end-170-part1.js','question-translations-170-end-158-part1.js','question-translations-158-part2.js','question-translations-158-part3.js','question-translations-158-part4.js','question-translations-158-part5.js','question-translations-158-part6.js','question-highlight-translated.js','tab-swipe-navigation.js','data-backup.js','view-layout-fix.js','title-truncate.js','scientist-title-fix.js','media-session-skip.js','lazy-render.js','episode-300-chapters.js','question-controls-stability.js','episode-17-summary.js','episode-26-summary.js','episode-35-summary.js','episode-51-summary.js','episode-60-summary.js','episode-69-summary.js','episode-138-summary.js','episode-75-summary.js','episode-82-summary.js','episode-89-summary.js','episode-100-summary.js','episode-112-summary.js','episode-119-chapters.js','episode-119-summary.js','episode-128-chapters.js','episode-128-summary.js','episode-133-chapters.js','episode-133-summary.js','episode-143-chapters.js','episode-143-summary.js','episode-158-chapters.js','episode-158-summary.js','episode-179-chapters.js','episode-179-summary.js','episode-190-218-226-chapters.js','episode-190-summary.js','episode-203-chapters.js','episode-203-summary.js','episode-211-chapters.js','episode-211-summary.js','episode-218-summary.js','episode-226-summary.js','episode-244-chapters.js','episode-244-summary.js','episode-248-chapters.js','episode-248-summary.js','episode-257-summary.js','episode-257-chapters.js','episode-263-summary.js','episode-270-summary.js','episode-272-summary.js','episode-278-summary.js','episode-284-summary.js','episode-289-summary.js','episode-295-summary.js','episode-313-summary.js','episode-319-summary.js','episode-326-summary.js','episode-332-summary.js','episode-337-summary.js','episode-340-summary.js','questions-view.js','question-temperature-mathjax.js'];
+ for(const f of js)if(!html.includes(f))html=html.replace('</body>',`<script src="./${f}" defer></script></body>`);
+ if(!html.includes('__vedatorSwUpdater'))html=html.replace('</body>',updaterScript()+'</body>');const headers=new Headers(response.headers);headers.delete('content-length');headers.delete('content-encoding');headers.set('content-type','text/html; charset=utf-8');headers.set('cache-control','no-store');return new Response(html,{status:response.status,statusText:response.statusText,headers});
 }
-
-function remoteForVirtual(input){
-  const url=inputUrl(input);
-  if(!url||url.origin!==self.location.origin||!url.pathname.startsWith(VIRTUAL_PREFIX))return null;
-  const relative=url.pathname.slice(VIRTUAL_PREFIX.length);
-  return new URL(relative+url.search,REMOTE);
-}
-
-async function mappedFetch(input,init){
-  const mapped=remoteForVirtual(input);
-  if(!mapped)return networkFetch(input,init);
-
-  if(input instanceof Request){
-    const options={
-      ...init,
-      method:input.method,
-      headers:input.headers,
-      mode:'cors',
-      credentials:'omit',
-      redirect:'follow'
-    };
-    return networkFetch(mapped.href,options);
-  }
-  return networkFetch(mapped.href,{...init,mode:'cors',credentials:'omit',redirect:'follow'});
-}
-
-/* Importované původní service-workery používají fetch(). Tímto je přesměrujeme
-   z virtuálních lokálních URL na neměnný snímek na CDN. */
-self.fetch=mappedFetch;
-
-/* Instalace nesmí selhat jen proto, že původní PWA očekává desítky fyzických
-   souborů. Soubory se uloží pod virtuální lokální adresou. */
-Cache.prototype.addAll=async function(requests){
-  for(const item of [...(requests||[])]){
-    try{
-      const request=item instanceof Request
-        ? item
-        : new Request(new URL(String(item),self.registration.scope).href);
-      const url=new URL(request.url);
-      const relative=relativeToScope(url);
-      let cacheKey=request;
-      let response;
-
-      if(relative!==null&&!LOCAL_FILES.has(relative)&&!relative.startsWith('_vedator/')){
-        const target=new URL(relative+url.search,REMOTE);
-        cacheKey=new Request(new URL('_vedator/'+relative+url.search,self.registration.scope).href);
-        response=await networkFetch(target.href,{cache:'no-store',mode:'cors',credentials:'omit'});
-      }else{
-        response=await networkFetch(request,{cache:'no-store'});
-      }
-
-      if(response&&(response.ok||response.type==='opaque')){
-        await this.put(cacheKey,response.clone());
-      }
-    }catch(error){
-      console.warn('Vedátor: položku se při instalaci nepodařilo uložit.',error);
-    }
-  }
-};
-
-/* Původní fetch listener obsluhuje jen virtuální aplikaci. Lokální spouštěcí
-   index, manifest a ikony zůstanou nedotčené. */
-self.addEventListener=function(type,listener,options){
-  if(type==='fetch'){
-    return realAddEventListener('fetch',event=>{
-      const url=new URL(event.request.url);
-      const isLocalShell=url.origin===self.location.origin&&!url.pathname.startsWith(VIRTUAL_PREFIX);
-      if(isLocalShell){
-        event.respondWith((async()=>{
-          try{
-            return await networkFetch(event.request);
-          }catch(error){
-            return await caches.match(event.request)
-              ||await caches.match(new URL('index.html',self.registration.scope))
-              ||await caches.match(new URL('./',self.registration.scope))
-              ||Promise.reject(error);
-          }
-        })());
-        return;
-      }
-      return listener.call(self,event);
-    },options);
-  }
-  return realAddEventListener(type,listener,options);
-};
-
-/* Relativní importScripts uvnitř vzdáleného obalu musí mířit ke stejnému
-   připnutému commitu, ne do lokální složky. */
-self.importScripts=(...urls)=>{
-  const mapped=urls.map(value=>{
-    const raw=String(value);
-    if(/^https?:/i.test(raw))return raw;
-    return new URL(raw,REMOTE).href;
-  });
-  return realImportScripts(...mapped);
-};
-
-realImportScripts(new URL('sw-fast.js',REMOTE).href);
-self.importScripts=realImportScripts;
-
-/* sw-346-patch.js už nyní obaluje mappedFetch. Přidáme poslední lokální
-   úpravu: zachováme užitečné cache/optimalizace, ale odstraníme opravný
-   mechanismus, který by mohl při startu znovu načítat stránku. */
-const patchedFetch=self.fetch.bind(self);
-
-function responseWithText(response,text,type){
-  const headers=new Headers(response.headers);
-  headers.delete('content-length');
-  headers.delete('content-encoding');
-  if(type)headers.set('content-type',type);
-  return new Response(text,{
-    status:response.status,
-    statusText:response.statusText,
-    headers
-  });
-}
-
-function removePageWorkerRegistration(html){
-  return String(html||'').replace(
-    /if\(\s*['"]serviceWorker['"]\s*in\s*navigator\s*\)\s*navigator\.serviceWorker\.register\(\s*['"](?:\.\/)?sw(?:-fast)?\.js['"]\s*\)\s*;?/g,
-    ''
-  );
-}
-
-function neutralizeFirstLoadRecovery(code){
-  const source=String(code||'');
-  const marker="\n  const SW_URL='./sw-fast.js';";
-  const start=source.indexOf(marker);
-  const close=source.lastIndexOf('})();');
-  if(start<0||close<=start)return source;
-  return source.slice(0,start)
-    +"\n  // Kompaktní balíček už má aktivní lokální service worker; reload není potřeba.\n"
-    +source.slice(close);
-}
-
-self.fetch=async function(input,init){
-  const response=await patchedFetch(input,init);
-  const url=inputUrl(input);
-  if(!response||!url||url.origin!==self.location.origin||!url.pathname.startsWith(VIRTUAL_PREFIX)){
-    return response;
-  }
-
-  const name=url.pathname.slice(VIRTUAL_PREFIX.length).split('/').pop();
-  if(name==='first-load-recovery.js'){
-    const code=neutralizeFirstLoadRecovery(await response.text());
-    return responseWithText(response,code,'application/javascript; charset=utf-8');
-  }
-
-  const contentType=response.headers.get('content-type')||'';
-  if(name==='index.html'||contentType.includes('text/html')){
-    const html=removePageWorkerRegistration(await response.text());
-    return responseWithText(response,html,'text/html; charset=utf-8');
-  }
-
-  return response;
-};
+self.addEventListener('fetch',event=>{if(event.request.method!=='GET')return;const url=new URL(event.request.url),isMedia=event.request.destination==='audio'||event.request.headers.has('range')||/\.(?:mp3|m4a|aac|ogg|wav|webm)(?:$|\?)/i.test(url.pathname);if(isMedia||url.origin!==self.location.origin)return;const isPage=event.request.mode==='navigate'||url.pathname.endsWith('/index.html')||url.pathname.endsWith('/vedator/'),isAppCode=isPage||/\.(?:js|css|json|webmanifest)$/i.test(url.pathname);if(isAppCode){event.respondWith((async()=>{try{let r=await fetch(event.request,{cache:'no-store'});if(isPage)r=await injectEnhancements(r);else r=await patchFaqCode(r,url);const copy=r.clone();caches.open(CACHE).then(c=>c.put(event.request,copy)).catch(()=>{});return r}catch(error){let cached=await caches.match(event.request)||await caches.match('./');if(!cached)throw error;return isPage?injectEnhancements(cached):patchFaqCode(cached,url)}})());return}event.respondWith(caches.match(event.request).then(cached=>cached||fetch(event.request).then(r=>{const copy=r.clone();caches.open(CACHE).then(c=>c.put(event.request,copy)).catch(()=>{});return r})))});

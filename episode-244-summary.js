@@ -1,0 +1,22 @@
+(()=>{
+  if(window.__vedatorEpisode244Summary)return;window.__vedatorEpisode244Summary=true;
+  const items=[
+    ['01:21','Existují různá „nekonečně malá“ čísla?',['Ano, v matematice se pracuje s infinitesimálami.','Lze rozlišovat různé řády malosti, například ε, ε² nebo ε³.','V praktických výpočtech se členy od určitého řádu obvykle zanedbávají.']],
+    ['04:00','Jakou plochou se dotýká dokonalá koule dokonalé roviny?',['Matematicky se dokonalá koule dotýká dokonalé roviny v jediném bodě, takže styčná plocha je nulová.','Ve skutečnosti se materiály deformují, a proto vznikne nenulová styčná plocha.','Dokonale tuhá koule ani dokonale rovná plocha v realitě neexistují.']],
+    ['05:12','Kdyby letadlo zamrzlo v orientaci, vyletí do vesmíru?',['Ne. Letadlo se orientuje vzhledem ke gravitaci a povrchu Země, ne podle vzdálených hvězd.','Při pevně zachované orientaci vůči Zemi by opisovalo zakřivenou dráhu kolem planety, nikoli přímku do vesmíru.']],
+    ['06:32','Můžete fungovat ve vztahu s ezoterikem?',['Ano, pokud jsou názory v rozumné míře a oba partneři se respektují.','Problémem mohou být extrémní postoje na kterékoli straně.','Důležité je nesnažit se druhého násilně měnit.']],
+    ['09:34','Jak by vypadal atomový výbuch na Měsíci nebo ve vesmíru?',['Ve vakuu nevznikne klasická tlaková vlna ani hřibovitý mrak.','Nejvýraznější by byl intenzivní záblesk včetně vysokoenergetického záření a rozptýlení zahřátého materiálu bomby.','Na Měsíci by výbuch vyvrhl žhavý materiál z povrchu.','Vesmírná loď vzdálená několik desítek kilometrů by podle velikosti nálože mohla zůstat mimo nejnebezpečnější oblast.']],
+    ['12:46','Bude anglická verze podcastu?',['Několik epizod v angličtině už vzniklo.','Pravidelný anglický obsah ale zatím neplánují.']],
+    ['14:13','Liší se černé díry podle toho, jak vzniknou?',['Černé díry jsou zvenčí popsatelné hlavně hmotností, spinem a elektrickým nábojem.','Způsob vzniku lze někdy nepřímo odhadnout z jejich hmotnosti a rotace.','Černé díry vzniklé při srážkách kompaktních objektů mohou mít odlišné spinové vlastnosti.']],
+    ['16:53','Jsou rovnice v seriálu Teorie velkého třesku skutečné?',['Ano, mnoho rovnic, grafů a tabulí v seriálu vychází ze skutečné fyziky.','Seriál využíval odborné konzultanty z Caltechu.']],
+    ['17:56','Můžeme poslat sondu do černé díry?',['Ano, sondu lze k černé díře vyslat, ale informace zpoza horizontu událostí se už nemohou vrátit.','Vzdálenému pozorovateli by se zdálo, že se sonda u horizontu zpomaluje.','Její signál by byl stále více červeně posunutý, slabší a nikdy by nepřišlo jedno jasné poslední pípnutí.']],
+    ['19:43','Kdy najdeme mimozemský život?',['Odhadují, že během přibližně deseti let můžeme objevit planetu s velmi silnými nepřímými známkami života.','Pravděpodobně půjde o chemické stopy v atmosféře, nikoli o přímé pozorování organismů.']],
+    ['22:07','Proč světlo nemá hmotnost, když má energii?',['Klidová hmotnost je pouze jedna z forem energie.','Fotony mají nulovou klidovou hmotnost, ale nesou energii a hybnost.','Obecný vztah mezi energií, hybností a hmotností připomíná Pythagorovu větu.']],
+    ['24:00','Kdy bude společný běh?',['Běh Wings for Life už proběhl.','Na podzim plánují městský běh nebo trail podle zájmu posluchačů.']]
+  ];
+  const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  function html(){return '<details class="episode-summary"><summary>Shrnutí dílu</summary><div class="episode-summary-body">'+items.map(x=>'<div class="summary-block"><div class="summary-time">'+esc(x[0])+'</div><div class="summary-title">'+esc(x[1])+'</div><ul>'+x[2].map(t=>'<li>'+esc(t)+'</li>').join('')+'</ul></div>').join('')+'<div class="summary-note">Kliknutím na čas se epizoda spustí přímo u dané otázky.</div></div></details>'}
+  function decorate(article){if(article.dataset.episode244Summary||!/\bpodcast\s+244\b/i.test(article.querySelector('h2')?.textContent||''))return;article.dataset.episode244Summary='1';const links=article.querySelector('.links');if(links)links.insertAdjacentHTML('afterend',html());else article.insertAdjacentHTML('beforeend',html())}
+  function scan(root=document){root.querySelectorAll?.('#episodes article').forEach(decorate)}
+  scan();const episodes=document.querySelector('#episodes');if(episodes)new MutationObserver(m=>m.forEach(r=>r.addedNodes.forEach(n=>{if(n.nodeType!==1)return;if(n.matches?.('article'))decorate(n);scan(n)}))).observe(episodes,{childList:true,subtree:true});
+})();
