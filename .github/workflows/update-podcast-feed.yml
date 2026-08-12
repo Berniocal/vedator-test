@@ -77,8 +77,10 @@ jobs:
           node tools/augment-v2-episode-descriptions.mjs
           node tools/augment-v2-parity-content.mjs
 
-      - name: Ověřit V2 obsah
-        run: node tools/test-content-v2.mjs
+      - name: Ověřit V2 obsah a FAQ vazby
+        run: |
+          node tools/test-content-v2.mjs
+          node tools/test-v2-faq-integrity.mjs
 
       - name: Commitnout změnu
         run: |
