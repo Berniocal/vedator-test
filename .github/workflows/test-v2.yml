@@ -7,6 +7,7 @@ on:
       - v2/user-data-player-playlists
       - v2/language-translations
       - v2/questions-nonquestions-deeplinks
+      - v2/episode-cards-and-series-progress
     paths:
       - 'tools/**'
       - 'app-v2.js'
@@ -31,9 +32,10 @@ jobs:
           node tools/build-content-v2.mjs
           node tools/augment-v2-episode-descriptions.mjs
 
-      - name: Build question experience into app-v2
+      - name: Build V2 experiences into app-v2
         run: |
           node tools/patch-v2-question-experience.mjs
+          node tools/patch-v2-episode-experience.mjs
           node tools/patch-v2-tests.mjs
 
       - name: Check JavaScript syntax
@@ -42,10 +44,12 @@ jobs:
           node --check tools/build-content-v2.mjs
           node --check tools/augment-v2-episode-descriptions.mjs
           node --check tools/patch-v2-question-experience.mjs
+          node --check tools/patch-v2-episode-experience.mjs
           node --check tools/patch-v2-tests.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-app-v2.mjs
           node --check tools/test-v2-question-experience.mjs
+          node --check tools/test-v2-episode-experience.mjs
 
       - name: Test content integrity
         run: node tools/test-content-v2.mjs
@@ -59,6 +63,9 @@ jobs:
       - name: Test question experience and deep links
         run: node tools/test-v2-question-experience.mjs
 
+      - name: Test episode cards and series progress
+        run: node tools/test-v2-episode-experience.mjs
+
       - name: Commit generated V2 runtime
         if: success() && github.actor != 'github-actions[bot]'
         run: |
@@ -68,6 +75,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'Generated V2 runtime is unchanged.'
           else
-            git commit -m 'Build V2 question experience'
+            git commit -m 'Build V2 episode experience'
             git push origin HEAD:${{ github.ref_name }}
           fi
