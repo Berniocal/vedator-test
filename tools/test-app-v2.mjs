@@ -56,7 +56,7 @@ assert(seriesText().includes('Černé díry'),'Czech black-hole series title mis
 
 const bilingualQuestion=data.questions.find(q=>q.i18n?.cs?.title&&q.i18n?.sk?.title&&q.i18n.cs.title!==q.i18n.sk.title);
 assert(bilingualQuestion,'No bilingual question with differing title found');
-const questionSelector=`#questions-v2 [data-question="${bilingualQuestion.episode}:${bilingualQuestion.order}"] h2`;
+const questionSelector=`#questions-v2 [data-item="q:${bilingualQuestion.episode}:${bilingualQuestion.order}"] h2`;
 assert(window.document.querySelector(questionSelector)?.textContent===bilingualQuestion.i18n.cs.title,'Czech question title not rendered');
 
 const playlistTab=tabs.find(x=>x.dataset.view==='playlists');
