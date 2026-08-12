@@ -6,8 +6,102 @@
 <meta name="theme-color" content="#111827">
 <title>Vedátor V2 test</title>
 <style>
-:root{--bg:#f4f6fb;--card:#fff;--ink:#162033;--muted:#64748b;--line:#dbe2ea;--accent:#5b4bdb;--accent2:#ede9fe}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif}header{background:linear-gradient(135deg,#151b2f,#32256c);color:white;padding:24px 18px}.wrap{max-width:1100px;margin:auto}main{padding:18px}.panel,.card,.series{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 8px 24px rgba(15,23,42,.05)}.panel{padding:14px}.controls{display:grid;grid-template-columns:1fr;gap:10px}.search{width:100%;padding:13px;border:1px solid var(--line);border-radius:12px;font:inherit}.tabs{display:flex;gap:8px;overflow:auto;padding-top:12px}.tab-v2{white-space:nowrap;border:1px solid var(--line);background:white;border-radius:999px;padding:8px 12px;font:inherit;cursor:pointer}.tab-v2.active{background:var(--accent2);border-color:#8b7ee8;color:#392b9b;font-weight:750}.status-row{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;color:var(--muted);margin:14px 2px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:12px}.card{padding:15px;display:flex;flex-direction:column;min-height:210px}.card h2{font-size:1.04rem;line-height:1.35}.card p,.card li{line-height:1.45}.card ul{padding-left:1.15rem}.meta{font-size:.82rem;color:var(--muted)}.actions{display:flex;gap:8px;margin-top:auto}.actions a,.actions button{flex:1;text-align:center;text-decoration:none;border:0;border-radius:10px;padding:9px;background:var(--accent);color:white;font:inherit;font-weight:700;cursor:pointer}.actions .secondary{background:white;color:var(--ink);border:1px solid var(--line)}.series{margin-bottom:10px;padding:0 14px}.series summary{cursor:pointer;padding:14px 0;display:flex;justify-content:space-between;gap:12px}.series li{padding:.25rem 0}.empty{padding:24px;border:1px dashed var(--line);border-radius:14px;color:var(--muted);background:white}.hidden,.filtered-out{display:none!important}#status-v2.error{color:#b91c1c}audio{width:100%;margin-top:14px}
+:root{--bg:#f4f6fb;--card:#fff;--ink:#162033;--muted:#64748b;--line:#dbe2ea;--accent:#5b4bdb;--accent2:#ede9fe;--ok:#15803d;--warn:#b45309;--danger:#b91c1c}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;padding-bottom:132px}
+button,input,select{font:inherit}
+header{background:linear-gradient(135deg,#151b2f,#32256c);color:white;padding:24px 18px}
+.wrap{max-width:1100px;margin:auto}
+main{padding:18px}
+.panel,.card,.series,.data-card,.playlist-card{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 8px 24px rgba(15,23,42,.05)}
+.panel{padding:14px}
+.controls{display:grid;grid-template-columns:1fr;gap:10px}
+.search{width:100%;padding:13px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink)}
+.tabs{display:flex;gap:8px;overflow:auto;padding-top:12px}
+.tab-v2{white-space:nowrap;border:1px solid var(--line);background:white;border-radius:999px;padding:8px 12px;cursor:pointer}
+.tab-v2.active{background:var(--accent2);border-color:#8b7ee8;color:#392b9b;font-weight:750}
+.status-row{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;color:var(--muted);margin:14px 2px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:12px}
+.card{padding:15px;display:flex;flex-direction:column;min-height:210px}
+.card h2{font-size:1.04rem;line-height:1.35}
+.card p,.card li{line-height:1.45}
+.card ul{padding-left:1.15rem}
+.meta{font-size:.82rem;color:var(--muted)}
+.listen-status{font-size:.84rem;font-weight:800;margin:.2rem 0 .5rem}
+.listen-status.done{color:var(--ok)}
+.listen-status.progress{color:var(--warn)}
+.actions{display:flex;gap:8px;margin-top:auto;flex-wrap:wrap}
+.actions a,.actions button,.primary-button,.secondary-button,.danger-button{flex:1;text-align:center;text-decoration:none;border:0;border-radius:10px;padding:9px;background:var(--accent);color:white;font-weight:700;cursor:pointer}
+.actions .secondary,.secondary-button{background:white;color:var(--ink);border:1px solid var(--line)}
+.danger-button{background:var(--danger)}
+.series{margin-bottom:10px;padding:0 14px}
+.series summary,.playlist-card summary{cursor:pointer;padding:14px 0;display:flex;justify-content:space-between;gap:12px;align-items:center}
+.series ol{padding-left:1.2rem}
+.series li{padding:.2rem 0}
+.series-item{width:100%;border:0;background:transparent;color:var(--ink);text-align:left;padding:6px;border-radius:8px;cursor:pointer}
+.series-item:hover{background:var(--accent2)}
+.playlist-toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:12px}
+.playlist-add{width:44px;height:44px;border:0;border-radius:50%;background:var(--accent);color:white;font-size:1.7rem;cursor:pointer}
+.playlist-card{padding:0 14px}
+.playlist-card summary{list-style:none}
+.playlist-card summary::-webkit-details-marker{display:none}
+.playlist-title{font-weight:800;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.playlist-count{color:var(--muted);font-size:.83rem;white-space:nowrap}
+.playlist-actions{display:flex;gap:2px}
+.icon-button{border:0;background:transparent;color:var(--muted);padding:6px;cursor:pointer}
+.playlist-items{list-style:none;margin:0;padding:0 0 10px;border-top:1px solid var(--line)}
+.playlist-item{border-bottom:1px solid var(--line)}
+.playlist-open{display:block;width:100%;border:0;background:transparent;text-align:left;padding:11px 2px;color:var(--ink);cursor:pointer}
+.playlist-open small{color:var(--muted)}
+.empty{padding:24px;border:1px dashed var(--line);border-radius:14px;color:var(--muted);background:white}
+.data-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+.data-card{padding:18px}
+.data-card h2{margin-top:0}
+.data-actions{display:flex;gap:8px;flex-wrap:wrap}
+.data-note{font-size:.88rem;color:var(--muted);line-height:1.45}
+.hidden,.filtered-out{display:none!important}
+#status-v2.error{color:var(--danger)}
+.player-shell{position:fixed;left:0;right:0;bottom:0;z-index:5000;background:rgba(255,255,255,.98);border-top:1px solid var(--line);box-shadow:0 -8px 28px rgba(15,23,42,.12);backdrop-filter:blur(10px)}
+.player-shell.hidden{display:none}
+.player-inner{max-width:1100px;margin:auto;padding:10px 16px max(10px,env(safe-area-inset-bottom));display:grid;grid-template-columns:minmax(0,1fr) auto;gap:10px 14px;align-items:center}
+.player-title{font-weight:850;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.player-sub{font-size:.8rem;color:var(--muted)}
+.player-main{min-width:0}
+.player-controls{display:flex;gap:7px;align-items:center}
+.player-controls button,.player-controls a{border:1px solid var(--line);background:white;color:var(--ink);border-radius:10px;padding:8px 10px;text-decoration:none;cursor:pointer;font-weight:750}
+.player-controls .play-toggle{background:var(--accent);color:#fff;border-color:var(--accent);min-width:72px}
+.player-seek-row{grid-column:1/-1;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:8px;align-items:center;font-size:.78rem;color:var(--muted)}
+.player-seek{width:100%}
+.player-help{grid-column:1/-1;font-size:.78rem;color:var(--muted);min-height:1.1em}
+audio#audio-v2{display:none}
+.modal-v2{position:fixed;inset:0;z-index:9000;background:rgba(3,7,18,.68);display:flex;align-items:center;justify-content:center;padding:14px}
+.modal-v2.hidden{display:none}
+.modal-box{width:min(900px,100%);max-height:min(90vh,860px);background:var(--card);border-radius:18px;border:1px solid var(--line);display:grid;grid-template-rows:auto minmax(0,1fr) auto;overflow:hidden}
+.modal-head,.modal-foot{display:flex;align-items:center;gap:8px;padding:12px 14px}
+.modal-head{border-bottom:1px solid var(--line)}
+.modal-head strong{flex:1}
+.modal-foot{border-top:1px solid var(--line);justify-content:flex-end;flex-wrap:wrap}
+.modal-body{overflow:auto;padding:14px}
+.editor-switch{display:flex;gap:6px;margin-bottom:10px}
+.editor-switch button{border:1px solid var(--line);background:white;color:var(--ink);border-radius:999px;padding:7px 12px;cursor:pointer}
+.editor-switch button.active{background:var(--accent);color:white;border-color:var(--accent)}
+.editor-columns{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.editor-list{display:grid;gap:7px}
+.editor-row,.editor-choice,.picker-row{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:8px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:9px}
+.editor-choice{grid-template-columns:auto minmax(0,1fr)}
+.editor-row small,.editor-choice small{color:var(--muted)}
+.editor-move{display:flex;flex-direction:column}
+.editor-move button,.editor-remove{border:0;background:transparent;color:var(--muted);cursor:pointer}
+.modal-search{width:100%;padding:10px;border:1px solid var(--line);border-radius:10px;margin-bottom:10px}
+.picker-row{grid-template-columns:auto minmax(0,1fr)}
+@media(max-width:700px){
+  body{padding-bottom:184px}
+  .player-inner{grid-template-columns:1fr}
+  .player-controls{overflow:auto}
+  .player-seek-row{grid-column:1}
+  .player-help{grid-column:1}
+  .editor-columns{grid-template-columns:1fr}
+}
 </style>
 </head>
 <body>
@@ -21,6 +115,7 @@
       <button class="tab-v2" data-view="questions" type="button">Otázky</button>
       <button class="tab-v2" data-view="nonquestions" type="button">Neotázky</button>
       <button class="tab-v2" data-view="playlists" type="button">Playlisty</button>
+      <button class="tab-v2" data-view="data" type="button">Moje data</button>
     </div>
   </section>
   <div class="status-row"><div id="status-v2">Načítám jediný datový balík…</div><div id="count-v2"></div></div>
@@ -28,9 +123,37 @@
   <section id="series-v2" class="view-v2 hidden" data-view="series"></section>
   <section id="questions-v2" class="view-v2 grid hidden" data-view="questions"></section>
   <section id="nonquestions-v2" class="view-v2 grid hidden" data-view="nonquestions"></section>
-  <section id="playlists-v2" class="view-v2 grid hidden" data-view="playlists"></section>
-  <audio id="audio-v2" controls preload="metadata"></audio>
+  <section id="playlists-v2" class="view-v2 hidden" data-view="playlists"></section>
+  <section id="data-v2" class="view-v2 hidden" data-view="data"></section>
 </main>
+
+<audio id="audio-v2" playsinline preload="metadata"></audio>
+
+<section id="player-v2" class="player-shell hidden" aria-label="Přehrávač">
+  <div class="player-inner">
+    <div class="player-main">
+      <div id="player-title-v2" class="player-title">Vedátorský podcast</div>
+      <div id="player-sub-v2" class="player-sub"></div>
+    </div>
+    <div class="player-controls">
+      <button id="player-prev-v2" type="button" title="Předchozí">◀</button>
+      <button id="player-play-v2" class="play-toggle" type="button">Přehrát</button>
+      <button id="player-next-v2" type="button" title="Další">▶</button>
+      <button id="player-speed-v2" type="button">1×</button>
+      <button id="player-playlist-v2" type="button">＋ Playlist</button>
+      <button id="player-offline-v2" type="button">📱 Offline</button>
+      <a id="player-download-v2" href="#" target="_blank" rel="noopener">⇩ MP3</a>
+      <button id="player-close-v2" type="button">✕</button>
+    </div>
+    <div class="player-seek-row"><span id="player-current-v2">0:00</span><input id="player-seek-v2" class="player-seek" type="range" min="0" max="1" value="0" step="1"><span id="player-duration-v2">–:––</span></div>
+    <div id="player-help-v2" class="player-help"></div>
+  </div>
+</section>
+
+<div id="playlist-editor-v2" class="modal-v2 hidden" aria-hidden="true"></div>
+<div id="playlist-picker-v2" class="modal-v2 hidden" aria-hidden="true"></div>
+<input id="data-file-v2" type="file" accept="application/json,.json" hidden>
+
 <script src="./app-v2.js" defer></script>
 </body>
 </html>
