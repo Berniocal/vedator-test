@@ -49,7 +49,7 @@ const layer=String.raw`
     style.textContent=[
       '.series>summary>strong{display:block!important;flex:1 1 auto!important;min-width:0!important;max-width:100%!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;-webkit-line-clamp:unset!important;-webkit-box-orient:initial!important;max-height:none!important}',
       '#player-expand-v2{width:auto!important;min-width:62px!important;padding:0 12px!important;border-radius:999px!important;font-size:1.08rem!important;letter-spacing:.03em!important}',
-      '@media(max-width:700px){.card h2{font-size:1.08rem!important}.meta{font-size:.85rem!important}.series>summary>strong{font-size:1rem!important;line-height:1.3!important}.card p,.card li{font-size:1.01rem!important}}'
+      '@media(max-width:700px){.card h2{font-size:1.08rem!important}.meta{font-size:.85rem!important}.series>summary>strong{font-size:1.1rem!important;line-height:1.3!important}.card p,.card li{font-size:1.01rem!important}}'
     ].join('');
     document.head.appendChild(style);
   }
