@@ -26,12 +26,15 @@ jobs:
           ref: ${{ github.ref_name }}
 
       - name: Build one content bundle
-        run: node tools/build-content-v2.mjs
+        run: |
+          node tools/build-content-v2.mjs
+          node tools/augment-v2-episode-descriptions.mjs
 
       - name: Check JavaScript syntax
         run: |
           node --check app-v2.js
           node --check tools/build-content-v2.mjs
+          node --check tools/augment-v2-episode-descriptions.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-app-v2.mjs
 
