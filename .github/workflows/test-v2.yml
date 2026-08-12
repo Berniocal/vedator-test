@@ -57,6 +57,7 @@ jobs:
           node tools/finalize-v2-episode-context-order.mjs
           node tools/finalize-v2-final-ui-faq-guide.mjs
           node tools/fix-v2-final-ui-runtime.mjs
+          node tools/fix-v2-series-three-column-mobile.mjs
 
       - name: Check JavaScript syntax
         run: |
@@ -79,6 +80,7 @@ jobs:
           node --check tools/finalize-v2-episode-context-order.mjs
           node --check tools/finalize-v2-final-ui-faq-guide.mjs
           node --check tools/fix-v2-final-ui-runtime.mjs
+          node --check tools/fix-v2-series-three-column-mobile.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-v2-faq-integrity.mjs
           node --check tools/test-app-v2.mjs
