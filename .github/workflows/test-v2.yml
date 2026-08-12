@@ -32,7 +32,9 @@ jobs:
           node tools/augment-v2-episode-descriptions.mjs
 
       - name: Build question experience into app-v2
-        run: node tools/patch-v2-question-experience.mjs
+        run: |
+          node tools/patch-v2-question-experience.mjs
+          node tools/patch-v2-tests.mjs
 
       - name: Check JavaScript syntax
         run: |
@@ -40,6 +42,7 @@ jobs:
           node --check tools/build-content-v2.mjs
           node --check tools/augment-v2-episode-descriptions.mjs
           node --check tools/patch-v2-question-experience.mjs
+          node --check tools/patch-v2-tests.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-app-v2.mjs
           node --check tools/test-v2-question-experience.mjs
@@ -61,7 +64,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- content-v2.json app-v2.js
+          git add -- content-v2.json app-v2.js tools/test-app-v2.mjs
           if git diff --cached --quiet; then
             echo 'Generated V2 runtime is unchanged.'
           else
