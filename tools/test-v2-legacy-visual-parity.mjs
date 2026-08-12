@@ -10,7 +10,8 @@ assert(html.includes('Neoficiální tematický katalog'),'Legacy eyebrow missing
 assert(html.includes('Vedátorský podcast podle témat'),'Legacy heading missing from static HTML');
 assert(app.includes('V2_LEGACY_VISUAL_PARITY_V1'),'Legacy visual parity runtime missing');
 assert(app.includes("episodeProgressHtml=function(){return''}"),'Episode progress bar should be removed from cards');
-assert(app.includes('-webkit-line-clamp:2'),'Episode title clamp missing');
+assert(app.includes('.series>summary>strong'),'Series title clamp missing');
+assert(!app.includes('.episode-card-v2 h2{display:-webkit-box!important;-webkit-box-orient:vertical!important;-webkit-line-clamp:2'),'Episode titles must not be clamped');
 assert(app.includes('player-expand-v2'),'Collapsed-player expand control missing');
 assert(app.includes('html[data-theme="dark"] .tag'),'Dark purple keyword selector missing');
 
@@ -52,6 +53,9 @@ assert(progressCard.querySelector('.tag'),'Purple keyword tag missing from episo
 const doneCard=window.document.querySelector('#episodes-v2 .episode-card-v2[data-episode="347"]');
 assert(doneCard?.querySelector('.listen-status.done')?.textContent.includes('Poslechnuto'),'Completed badge missing');
 
+const seriesTab=window.document.querySelector('.tab-v2[data-view="series"]');seriesTab.click();await new Promise(resolve=>setTimeout(resolve,30));
+assert(window.document.querySelector('#series-v2 .series>summary>strong'),'Series title element missing');
+
 const play=progressCard.querySelector('.play');play.click();await new Promise(resolve=>setTimeout(resolve,40));
 const collapse=window.document.querySelector('#player-close-v2');
 assert(collapse.textContent==='↓','Player collapse button should be down arrow');
@@ -62,4 +66,4 @@ assert(expand&&!expand.hidden&&expand.textContent==='↑','Floating expand arrow
 expand.click();await new Promise(resolve=>setTimeout(resolve,20));
 assert(!window.document.querySelector('#player-v2').classList.contains('player-collapsed-v2'),'Player did not expand again');
 
-console.log(JSON.stringify({ok:true,legacyHeader:true,activePills:true,legacyBadges:true,noEpisodeTimeline:true,purpleTags:true,collapsiblePlayer:true,titleClampLines:2},null,2));
+console.log(JSON.stringify({ok:true,legacyHeader:true,activePills:true,legacyBadges:true,noEpisodeTimeline:true,purpleTags:true,collapsiblePlayer:true,episodeTitleClamp:false,seriesTitleClampLines:2},null,2));
