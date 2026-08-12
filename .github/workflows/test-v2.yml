@@ -6,6 +6,7 @@ on:
       - v2/content-and-tabs
       - v2/user-data-player-playlists
       - v2/language-translations
+      - v2/questions-nonquestions-deeplinks
     paths:
       - 'tools/**'
       - 'app-v2.js'
@@ -30,13 +31,18 @@ jobs:
           node tools/build-content-v2.mjs
           node tools/augment-v2-episode-descriptions.mjs
 
+      - name: Build question experience into app-v2
+        run: node tools/patch-v2-question-experience.mjs
+
       - name: Check JavaScript syntax
         run: |
           node --check app-v2.js
           node --check tools/build-content-v2.mjs
           node --check tools/augment-v2-episode-descriptions.mjs
+          node --check tools/patch-v2-question-experience.mjs
           node --check tools/test-content-v2.mjs
           node --check tools/test-app-v2.mjs
+          node --check tools/test-v2-question-experience.mjs
 
       - name: Test content integrity
         run: node tools/test-content-v2.mjs
@@ -47,15 +53,18 @@ jobs:
       - name: Test all V2 tabs in DOM
         run: node tools/test-app-v2.mjs
 
-      - name: Commit generated content bundle
+      - name: Test question experience and deep links
+        run: node tools/test-v2-question-experience.mjs
+
+      - name: Commit generated V2 runtime
         if: success() && github.actor != 'github-actions[bot]'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- content-v2.json
+          git add -- content-v2.json app-v2.js
           if git diff --cached --quiet; then
-            echo 'content-v2.json is unchanged.'
+            echo 'Generated V2 runtime is unchanged.'
           else
-            git commit -m 'Build content-v2 bundle'
+            git commit -m 'Build V2 question experience'
             git push origin HEAD:${{ github.ref_name }}
           fi
