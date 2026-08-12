@@ -22,13 +22,9 @@ const layer=String.raw`
         node.replaceWith(...node.childNodes);
         return;
       }
+      const href=node.tagName==='A'?String(node.getAttribute('href')||'').trim():'';
       [...node.attributes].forEach(attr=>node.removeAttribute(attr.name));
       if(node.tagName==='A'){
-        const raw=String(value||'');
-        const text=String(node.textContent||'').trim();
-        const escaped=text.replace(/[.*+?^\${}()|[\]\\]/g,'\\$&');
-        const match=raw.match(new RegExp('<a[^>]+href=["\\\']([^"\\\']+)["\\\'][^>]*>\\s*'+escaped.replace(/\s+/g,'\\s*'),'i'));
-        const href=match?.[1]||text;
         if(/^https?:\/\//i.test(href)){
           node.setAttribute('href',href);
           node.setAttribute('target','_blank');
