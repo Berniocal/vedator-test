@@ -55,15 +55,13 @@ const layer=String.raw`
   };
   function installCardPlayerPolishStyles(){
     if(document.querySelector('style[data-v2-card-player-polish]'))return;
-    const style=document.createElement('style');style.dataset.v2CardPlayerPolish='1';style.textContent=`
-      .player-shell{background:color-mix(in srgb,var(--card) 88%,var(--accent) 12%)!important}
-      .episode-summary-slot-v2{margin-top:.65rem}
-      .episode-summary-slot-v2:empty{display:none}
-      .episode-summary-slot-v2 .episode-summary-v2{margin:.35rem 0 .75rem!important}
-      .episode-card-v2 .actions{margin-top:.15rem}
-      #player-play-v2{letter-spacing:0!important;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif!important}
-      @media(max-width:700px){#series-v2:not(.hidden){grid-template-columns:minmax(0,1fr)!important;gap:10px!important}#series-v2 .series,#series-v2 .series[open]{grid-column:auto!important}#series-v2 .series>summary{padding:14px 0!important;display:flex!important;gap:10px!important}#series-v2 .series>summary strong{font-size:.92rem!important;line-height:1.25!important}#series-v2 .series-progress-summary-v2{font-size:.76rem!important;white-space:nowrap!important}#series-v2 .series>summary .deep-share{width:auto!important;min-width:38px!important;height:auto!important;min-height:38px!important}}
-    `;document.head.appendChild(style);
+    const style=document.createElement('style');style.dataset.v2CardPlayerPolish='1';
+    style.textContent='.player-shell{background:color-mix(in srgb,var(--card) 88%,var(--accent) 12%)!important}'+
+      '.episode-summary-slot-v2{margin-top:.65rem}.episode-summary-slot-v2:empty{display:none}'+
+      '.episode-summary-slot-v2 .episode-summary-v2{margin:.35rem 0 .75rem!important}.episode-card-v2 .actions{margin-top:.15rem}'+
+      '#player-play-v2{letter-spacing:0!important;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif!important}'+
+      '@media(max-width:700px){#series-v2:not(.hidden){grid-template-columns:minmax(0,1fr)!important;gap:10px!important}#series-v2 .series,#series-v2 .series[open]{grid-column:auto!important}#series-v2 .series>summary{padding:14px 0!important;display:flex!important;gap:10px!important}#series-v2 .series>summary strong{font-size:.92rem!important;line-height:1.25!important}#series-v2 .series-progress-summary-v2{font-size:.76rem!important;white-space:nowrap!important}#series-v2 .series>summary .deep-share{width:auto!important;min-width:38px!important;height:auto!important;min-height:38px!important}}';
+    document.head.appendChild(style);
   }
   installCardPlayerPolishStyles();
 `;
