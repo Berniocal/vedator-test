@@ -4,7 +4,9 @@ const file='app-v2.js';
 let source=fs.readFileSync(file,'utf8');
 const marker='/* V2_LAST_UX_FIXES_V1 */';
 if(source.includes(marker)){
-  console.log('V2 last UX fixes already present');
+  const before=source;
+  source=source.replace('.series>summary>strong{font-size:1rem!important;line-height:1.3!important}', '.series>summary>strong{font-size:1.1rem!important;line-height:1.3!important}');
+  if(source!==before){fs.writeFileSync(file,source);console.log('Updated existing V2 last UX sizing')}else console.log('V2 last UX fixes already current');
   process.exit(0);
 }
 const at=source.lastIndexOf('\n})();');
