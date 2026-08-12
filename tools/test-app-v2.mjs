@@ -4,10 +4,12 @@ import {JSDOM} from 'jsdom';
 const html=fs.readFileSync('v2.html','utf8').replace('<script src="./app-v2.js" defer></script>','');
 const app=fs.readFileSync('app-v2.js','utf8');
 const data=JSON.parse(fs.readFileSync('content-v2.json','utf8'));
+const latestEpisode=[...data.episodes].sort((a,b)=>new Date(b.date)-new Date(a.date)||(Number(b.number)||0)-(Number(a.number)||0))[0];
+if(!latestEpisode)throw new Error('No episodes in V2 data');
 const dom=new JSDOM(html,{url:'https://example.test/v2.html',runScripts:'outside-only',pretendToBeVisual:true});
 const {window}=dom;
 
-const legacyProgress={'episode-390':{currentTime:123,duration:3600,completed:false,replaying:false,title:'Podcast 390',updatedAt:1}};
+const legacyProgress={[`episode-${latestEpisode.number}`]:{currentTime:123,duration:3600,completed:false,replaying:false,title:latestEpisode.title,updatedAt:1}};
 const legacyPlaylists=[{id:'legacy-playlist',name:'Starý playlist',items:['FU','gA']}];
 window.localStorage.setItem('vedator-ui-language-v1','cz');
 window.localStorage.setItem('vedatorPlaybackProgressV1',JSON.stringify(legacyProgress));
@@ -45,10 +47,10 @@ assert(window.document.documentElement.lang==='cs','HTML language is not Czech')
 assert(window.localStorage.getItem('vedatorPlaybackProgressV1')===progressBefore,'Startup rewrote legacy progress');
 assert(window.localStorage.getItem('vedator-user-playlists-v1')===playlistsBefore,'Startup rewrote legacy playlists');
 
-const episode390=window.document.querySelector('#episodes-v2 article[data-episode="390"]');
-assert(episode390,'Episode 390 card missing');
-assert(episode390.textContent.includes('Rozposloucháno'),'Legacy playback progress not shown in Czech');
-assert(episode390.querySelector('.tag'),'Episode topic tag missing');
+const newestCard=window.document.querySelector(`#episodes-v2 article[data-episode="${latestEpisode.number}"]`);
+assert(newestCard,`Newest episode ${latestEpisode.number} card missing`);
+assert(newestCard.textContent.includes('Rozposloucháno'),'Legacy playback progress not shown in Czech');
+assert(newestCard.querySelector('.tag'),'Episode topic tag missing');
 
 const playlistTab=tabs.find(x=>x.dataset.view==='playlists');playlistTab.click();
 assert(window.document.querySelectorAll('#playlists-v2 .playlist-card').length===1,'Legacy playlist not rendered');
@@ -77,4 +79,4 @@ assert(window.document.querySelector('#data-v2').textContent.includes('playlist'
 assert(window.document.querySelector('.data-export'),'Data export action missing');
 assert(window.document.querySelector('.data-import'),'Data import action missing');
 
-console.log(JSON.stringify({ok:true,tabs:tabs.length,initialEpisodeCards:20,initialQuestionCards:20,series:data.series.length,nonquestions:Number(window.document.querySelector('#nonquestions-v2').dataset.count),legacyPlaylistItems:window.document.querySelectorAll('#playlists-v2 .playlist-open').length,startupPreservedLegacyData:true,languageSwitch:true,searchVisible:visible},null,2));
+console.log(JSON.stringify({ok:true,tabs:tabs.length,initialEpisodeCards:20,initialQuestionCards:20,newestEpisode:latestEpisode.number,series:data.series.length,nonquestions:Number(window.document.querySelector('#nonquestions-v2').dataset.count),legacyPlaylistItems:window.document.querySelectorAll('#playlists-v2 .playlist-open').length,startupPreservedLegacyData:true,languageSwitch:true,searchVisible:visible},null,2));
