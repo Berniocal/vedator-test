@@ -11,7 +11,7 @@ assert(app.includes("audio.paused?'▶':'Ⅱ'"),'Pause icon is not two vertical 
 assert(app.includes("text('Pokračovat','Pokračovať')"),'Simple continue label missing');
 assert(app.includes("text('Číst více','Čítať viac')"),'Episode read-more label missing');
 assert(app.includes('cardPolishCutDescription'),'SME search/display cutoff helper missing');
-assert(!app.includes("episode.link?'<a class=\"secondary\""),'Legacy episode Detail link still rendered in final card override');
+assert(app.includes('Podcast vzniká\\s+(?:v|ve)\\s+spolupráci\\s+(?:so|se)\\s+SME'),'SME cutoff regex missing');
 
 const dom=new JSDOM(html,{url:'https://example.test/v2.html',runScripts:'outside-only',pretendToBeVisual:true});
 const {window}=dom;
@@ -37,21 +37,15 @@ const card=cards.find(node=>node.querySelector('.episode-more-v2'))||cards[0];
 assert(card.querySelector('.episode-summary-slot-v2')!==null,'Summary slot missing');
 const summary=card.querySelector('.episode-summary-slot-v2');
 const actions=card.querySelector('.actions');
-assert(summary&&actions&&summary.compareDocumentPosition(actions)&window.Node.DOCUMENT_POSITION_FOLLOWING,'Summary must be above episode action buttons');
-assert(!card.querySelector('a.secondary'),'Episode Detail link should be removed');
+assert(summary&&actions&&(summary.compareDocumentPosition(actions)&window.Node.DOCUMENT_POSITION_FOLLOWING),'Summary must be above episode action buttons');
+assert(!card.querySelector('a.secondary'),'Episode Detail link should be removed from rendered card');
 const more=card.querySelector('.episode-more-v2');
-if(more){
-  const before=card.querySelector('.desc-v2').textContent.length;more.click();await new Promise(resolve=>setTimeout(resolve,30));
-  const updated=window.document.querySelector(`#episodes-v2 .episode-card-v2[data-episode="${card.dataset.episode}"]`);
-  assert(updated.querySelector('.episode-more-v2')?.textContent.includes('méně'),'Read more did not switch to read less');
-  assert(updated.querySelector('.desc-v2').textContent.length>=before,'Expanded description did not grow');
-}
-
-const testEpisode={number:999,title:'Test',description:'Důležitý obsah. Podcast vzniká ve spolupráci se SME. zakazanehledanislovo',i18n:{cs:{title:'Test',description:'Důležitý obsah. Podcast vzniká ve spolupráci se SME. zakazanehledanislovo'},sk:{title:'Test',description:'Dôležitý obsah. Podcast vzniká v spolupráci so SME. zakazanehledanislovo'}}};
-const searchText=window.eval(`(${app.match(/allEpisodeSearch=function\(episode\)\{[\s\S]*?\n  \};/m)?.[0]?.replace('allEpisodeSearch=','')||'null'})`);
-assert(typeof searchText==='function','Could not inspect final episode search function');
-// Runtime search cutoff is additionally asserted structurally because helper closes over app internals.
-assert(/Podcast vzniká\\s\+/.test(app)||app.includes('Podcast vzniká\\s+'),'SME cutoff regex missing');
+assert(more,'Episode Read more button missing');
+const before=card.querySelector('.desc-v2').textContent.length;more.click();await new Promise(resolve=>setTimeout(resolve,30));
+const updated=window.document.querySelector(`#episodes-v2 .episode-card-v2[data-episode="${card.dataset.episode}"]`);
+assert(updated.querySelector('.episode-more-v2')?.textContent.includes('méně'),'Read more did not switch to read less');
+assert(updated.querySelector('.desc-v2').textContent.length>=before,'Expanded description did not grow');
+assert(updated.querySelector('.episode-summary-slot-v2').compareDocumentPosition(updated.querySelector('.actions'))&window.Node.DOCUMENT_POSITION_FOLLOWING,'Expanded summary moved below actions');
 
 const play=window.document.querySelector('#episodes-v2 .episode-card-v2 .play');play.click();await new Promise(resolve=>setTimeout(resolve,30));
 assert(window.document.querySelector('#player-play-v2').textContent==='Ⅱ','Playing player should show two vertical pause lines');
