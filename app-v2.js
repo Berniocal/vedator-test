@@ -369,7 +369,7 @@
     n.play.textContent=audio.paused?text('Přehrát','Prehrať'):text('Pauza','Pauza');
     n.prev.title=text('Předchozí','Predchádzajúca');n.next.title=text('Další','Ďalšia');
     n.speed.textContent=`${String(state.speed).replace('.',',')}×`;n.prev.disabled=!state.context||state.context.index<=0;n.next.disabled=!state.context||state.context.index>=state.context.items.length-1;
-    n.download.textContent=text('⇩ MP3','⇩ MP3');n.download.href=current.episode.enclosure||'#';
+    if(!n.download.dataset.busy)n.download.textContent=text('⇩ MP3','⇩ MP3');n.download.removeAttribute('href');n.download.setAttribute('role','button');
     n.offline.textContent=currentOfflineRecord()?text('✓ Offline','✓ Offline'):text('📱 Offline','📱 Offline');
     const duration=Number.isFinite(audio.duration)&&audio.duration>0?audio.duration:0,time=Number.isFinite(audio.currentTime)?audio.currentTime:0;
     n.seek.max=String(Math.max(1,Math.floor(duration||1)));if(document.activeElement!==n.seek)n.seek.value=String(Math.min(Number(n.seek.max),Math.max(0,Math.floor(time))));
@@ -937,7 +937,7 @@
     const MIN_DISTANCE=85,MAX_DURATION=900,RATIO=1.55,interactive='a,button,input,select,textarea,label,audio,video,[contenteditable="true"],[role="button"],[data-no-swipe]';let start=null;
     const blocked=target=>{const element=target instanceof Element?target:null;if(!element||element.closest(interactive)||element.closest('.tabs,.parity-topics-v2,.actions,.episode-summary-v2,.modal-v2'))return true;for(let node=element;node&&node!==document.body;node=node.parentElement){const style=getComputedStyle(node);if((style.overflowX==='auto'||style.overflowX==='scroll')&&node.scrollWidth>node.clientWidth+4)return true}return false};
     document.addEventListener('touchstart',event=>{if(event.touches.length!==1||blocked(event.target)){start=null;return}const touch=event.touches[0];start={x:touch.clientX,y:touch.clientY,time:performance.now(),id:touch.identifier}},{passive:true});
-    document.addEventListener('touchend',event=>{if(!start||event.changedTouches.length!==1){start=null;return}const gesture=start,touch=event.changedTouches[0];start=null;if(touch.identifier!==gesture.id)return;const dx=touch.clientX-gesture.x,dy=touch.clientY-gesture.y;if(performance.now()-gesture.time>MAX_DURATION||Math.abs(dx)<MIN_DISTANCE||Math.abs(dx)<Math.abs(dy)*RATIO)return;const tabs=$('.tab-v2').filter(tab=>!tab.disabled&&!tab.classList.contains('hidden'));const index=tabs.findIndex(tab=>tab.classList.contains('active')),next=index+(dx<0?1:-1);if(next<0||next>=tabs.length)return;tabs[next].click();tabs[next].scrollIntoView({block:'nearest',inline:'center'})},{passive:true});
+    document.addEventListener('touchend',event=>{if(!start||event.changedTouches.length!==1){start=null;return}const gesture=start,touch=event.changedTouches[0];start=null;if(touch.identifier!==gesture.id)return;const dx=touch.clientX-gesture.x,dy=touch.clientY-gesture.y;if(performance.now()-gesture.time>MAX_DURATION||Math.abs(dx)<MIN_DISTANCE||Math.abs(dx)<Math.abs(dy)*RATIO)return;const tabs=$$('.tab-v2').filter(tab=>!tab.disabled&&!tab.classList.contains('hidden'));const index=tabs.findIndex(tab=>tab.classList.contains('active')),next=index+(dx<0?1:-1);if(next<0||next>=tabs.length)return;tabs[next].click();tabs[next].scrollIntoView({block:'nearest',inline:'center'})},{passive:true});
     document.addEventListener('touchcancel',()=>{start=null},{passive:true});
   }
 
@@ -1012,6 +1012,120 @@
     document.addEventListener('click',event=>{const resume=event.target.closest('.playlist-resume-v2');if(!resume)return;event.preventDefault();const playlist=state.playlists.find(item=>String(item.id)===String(resume.dataset.id));if(!playlist)return;const index=Number(resume.dataset.itemIndex)||0,context=playlistContext(playlist,index),item=context.items[index];if(item)openPlayback(item.episode,{start:playlistResumeStart(playlist,context,index),context,itemRef:item.ref})});
     window.addEventListener('vedatorlanguagechange',()=>{refreshPlaylistProgress();enhancePlaylistEditorMobile()});
   }
+
+  /* V2_MOBILE_DEEP_POLISH_V2 */
+  const mobileHighlightWordChar=char=>/[a-z0-9]/.test(char||'');
+  function mobileNormalizedTextWithMap(value){
+    const textValue=String(value||'');let normalized='';const map=[];
+    for(let i=0;i<textValue.length;i++){const part=norm(textValue[i]);normalized+=part;for(let j=0;j<part.length;j++)map.push(i)}
+    return {textValue,normalized,map};
+  }
+  function mobileValidOccurrence(textValue,index,term){
+    const before=textValue[index-1]||'',after=textValue[index+term.length]||'';
+    if(mobileHighlightWordChar(before))return false;
+    if(term.includes(' ')||term.length<=3)return !mobileHighlightWordChar(after);
+    return true;
+  }
+  function mobileHighlightRanges(value,terms){
+    const {textValue,normalized,map}=mobileNormalizedTextWithMap(value),ranges=[];
+    for(const rawTerm of terms){
+      const term=norm(rawTerm).trim();if(term.length<2)continue;let from=0;
+      while(from<normalized.length){
+        const index=normalized.indexOf(term,from);if(index<0)break;
+        if(mobileValidOccurrence(normalized,index,term)){
+          const start=map[index],end=(map[index+term.length-1]??start)+1;
+          if(!ranges.some(range=>start<range.end&&end>range.start))ranges.push({start,end});
+        }
+        from=index+Math.max(1,term.length);
+      }
+    }
+    return {textValue,ranges:ranges.sort((a,b)=>a.start-b.start)};
+  }
+  function mobileHighlightHtml(value,terms){
+    const raw=repairMathText(value),{textValue,ranges}=mobileHighlightRanges(raw,terms);
+    if(!ranges.length)return esc(textValue).replace(/([A-Za-z0-9]+)\s*\^\s*\{?(-?\d+)\}?/g,'$1<sup>$2</sup>');
+    let out='',position=0;
+    for(const range of ranges){
+      if(range.start>position)out+=esc(textValue.slice(position,range.start));
+      out+='<mark class="vedator-match">'+esc(textValue.slice(range.start,range.end))+'</mark>';position=range.end;
+    }
+    if(position<textValue.length)out+=esc(textValue.slice(position));
+    return out.replace(/([A-Za-z0-9]+)\s*\^\s*\{?(-?\d+)\}?/g,'$1<sup>$2</sup>');
+  }
+  function mobileQuestionHighlightTerms(topic){
+    const query=norm(state.query.trim());
+    if(query)return [...new Set([query,...query.split(/\s+/)].filter(term=>term.length>=2))].sort((a,b)=>b.length-a.length);
+    return [...new Set((topic?.keys||[]).map(norm).filter(term=>term.length>=2))].sort((a,b)=>b.length-a.length);
+  }
+  highlightHtml=function(value,topic){return mobileHighlightHtml(value,mobileQuestionHighlightTerms(topic))};
+
+  function mobileEpisodeHighlightTerms(){
+    const query=state.query.trim();
+    if(query){
+      const variants=expandedEpisodeQuery(query);
+      return [...new Set(variants.flatMap(value=>[value,...value.split(/\s+/)]).map(norm).filter(term=>term.length>=2))].sort((a,b)=>b.length-a.length);
+    }
+    const topic=EPISODE_TOPICS[parityUi.episodeTopic]||EPISODE_TOPICS.all;
+    return [...new Set((topic.keys||[]).map(norm).filter(term=>term.length>=2))].sort((a,b)=>b.length-a.length);
+  }
+  function mobileEpisodeExcerpt(value,terms){
+    const raw=String(value||'').replace(/\s+/g,' ').trim();if(!raw)return'';
+    if(!terms.length)return shortParityDescription(raw);
+    const {ranges}=mobileHighlightRanges(raw,terms);if(!ranges.length)return shortParityDescription(raw);
+    const first=ranges[0];let start=Math.max(0,first.start-115),end=Math.min(raw.length,Math.max(first.end+185,start+440));
+    while(start>0&&!/\s/.test(raw[start-1]))start--;while(end<raw.length&&!/\s/.test(raw[end]))end++;
+    return (start>0?'…':'')+raw.slice(start,end).trim()+(end<raw.length?'…':'');
+  }
+  cardEpisode=function(episode){
+    const copy=episodeCopy(episode),status=episodeStatus(episode.number),terms=mobileEpisodeHighlightTerms(),description=mobileEpisodeExcerpt(copy.description,terms);
+    return '<article class="card searchable episode-card-v2" data-episode="'+(Number(episode.number)||0)+'" data-search="'+esc(allEpisodeSearch(episode))+'">'+
+      '<div class="meta">'+text('Díl','Diel')+' '+(episode.number||'–')+' • '+esc(fmtDate(episode.date))+'</div><h2>'+mobileHighlightHtml(copy.title,terms)+'</h2>'+
+      '<div class="listen-status '+(status?.kind||'')+'">'+(status?esc(status.label):'')+'</div>'+episodeProgressHtml(episode.number)+
+      '<p class="desc-v2">'+mobileHighlightHtml(description,terms)+'</p>'+episodeTagHtml(episode)+episodeSummaryHtml(episode)+
+      '<div class="actions"><button type="button" class="play" data-episode="'+(Number(episode.number)||0)+'" data-seconds="">'+esc(playLabel(episode.number))+'</button>'+
+      (episode.link?'<a class="secondary" href="'+esc(episode.link)+'">'+text('Detail','Detail')+'</a>':'')+shareButton('episode',String(episode.number))+'</div></article>';
+  };
+
+  const mobileOriginalSyncPlayer=syncPlayer;
+  syncPlayer=function(){
+    mobileOriginalSyncPlayer();const n=playerNodes();
+    if(state.current&&state.context?.type==='episodes')n.sub.textContent=state.context.label;
+    if(state.current){n.download.removeAttribute('href');n.download.setAttribute('role','button');n.download.title=text('Stáhnout MP3','Stiahnuť MP3')}
+  };
+  const mobileOriginalSaveCollectionProgress=saveCollectionProgress;
+  saveCollectionProgress=function(time,duration,completed){if(state.context?.type==='episodes')return;return mobileOriginalSaveCollectionProgress(time,duration,completed)};
+
+  function mobileEpisodePlaybackContext(episode){
+    const episodes=sortedParityEpisodes().slice().sort((a,b)=>(Number(a.number)||0)-(Number(b.number)||0));
+    const items=episodes.map(item=>({id:'episode:'+item.number,episode:item,start:0,ref:epRef(item.number)}));
+    const index=items.findIndex(item=>Number(item.episode.number)===Number(episode.number));if(index<0)return null;
+    const topic=EPISODE_TOPICS[parityUi.episodeTopic]||EPISODE_TOPICS.all;
+    const label=state.query.trim()?text('Hledání','Hľadanie')+': '+state.query.trim():parityUi.episodeTopic!=='all'?text('Téma','Téma')+': '+parityControlLabel(topic):text('Epizody','Epizódy');
+    return {type:'episodes',id:'episodes',label,items,index};
+  }
+
+  function mobileSafeMp3Filename(title){return (title||'vedatorsky-podcast').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/gi,'-').replace(/^-|-$/g,'').toLowerCase()+'.mp3'}
+  const mobileFormatMb=bytes=>((Number(bytes)||0)/1048576).toFixed(1).replace('.',',')+' MB';
+  async function downloadCurrentMp3(){
+    const current=state.current,n=playerNodes();if(!current||n.download.dataset.busy)return;const url=n.audio.currentSrc||current.episode.enclosure;if(!url)return;
+    n.download.dataset.busy='1';n.download.setAttribute('aria-disabled','true');n.download.textContent=text('Připravuji…','Pripravujem…');n.help.textContent=text('Připravuji stažení MP3…','Pripravujem stiahnutie MP3…');
+    try{
+      const response=await fetch(url,{mode:'cors',cache:'no-store'});if(!response.ok)throw new Error('HTTP '+response.status);
+      const total=Number(response.headers.get('content-length'))||0,type=response.headers.get('content-type')||'audio/mpeg',reader=response.body?.getReader();let loaded=0,blob;
+      if(reader){
+        const chunks=[];while(true){const {done,value}=await reader.read();if(done)break;chunks.push(value);loaded+=value.byteLength;if(total){const percent=Math.min(99,Math.floor(loaded/total*100));n.download.textContent=text('Stahuji ','Sťahujem ')+percent+' %';n.help.textContent=text('Staženo ','Stiahnuté ')+mobileFormatMb(loaded)+' '+text('z','z')+' '+mobileFormatMb(total)+'.'}else{n.download.textContent=text('Stahuji…','Sťahujem…');n.help.textContent=text('Staženo ','Stiahnuté ')+mobileFormatMb(loaded)+'.'}}
+        blob=new Blob(chunks,{type});
+      }else blob=await response.blob();
+      n.download.textContent=text('Ukládám…','Ukladám…');const objectUrl=URL.createObjectURL(blob),link=document.createElement('a');link.href=objectUrl;link.download=mobileSafeMp3Filename(episodeCopy(current.episode).title);document.body.appendChild(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(objectUrl),30000);n.help.textContent=text('MP3 bylo staženo','MP3 bolo stiahnuté')+' ('+mobileFormatMb(blob.size)+').'
+    }catch(error){console.warn('MP3 download failed',error);n.help.textContent=text('Stažení MP3 se nepodařilo. Zkontrolujte připojení a zkuste to znovu.','Stiahnutie MP3 sa nepodarilo. Skontrolujte pripojenie a skúste to znova.')}finally{delete n.download.dataset.busy;n.download.removeAttribute('aria-disabled');syncPlayer()}
+  }
+
+  document.addEventListener('click',event=>{
+    const play=event.target.closest?.('.episode-card-v2 > .actions .play');if(!play)return;const episode=episodeByNumber(Number(play.dataset.episode));if(!episode)return;
+    event.preventDefault();event.stopImmediatePropagation();const seconds=play.dataset.seconds===''?null:Number(play.dataset.seconds)||0;openPlayback(episode,{start:seconds,context:mobileEpisodePlaybackContext(episode),itemRef:play.dataset.ref||epRef(episode.number)});
+  },true);
+  $('#player-download-v2')?.addEventListener('click',event=>{event.preventDefault();downloadCurrentMp3()});
+  $('#audio-v2')?.addEventListener('ended',()=>{if(state.context&&state.context.index<state.context.items.length-1)setTimeout(()=>navigateContext(1),0)});
 
   async function start(){
     const status=$('#status-v2');

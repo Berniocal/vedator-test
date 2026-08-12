@@ -171,6 +171,49 @@ html[data-theme="dark"] .question-card mark{background:#8a6f00;color:#fff7c2}
   #player-close-v2{grid-column:auto}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
+/* V2_MOBILE_DEEP_POLISH_CSS_V2 */
+html body .topic-v2.active,html body .question-topic.active{background:var(--accent)!important;color:#fff!important;border-color:var(--accent)!important}
+html[data-theme="dark"] body .topic-v2.active,html[data-theme="dark"] body .question-topic.active{background:var(--accent)!important;color:#fff!important;border-color:var(--accent)!important}
+html body .tag{background:var(--accent2)!important;color:#4636b7!important;border:1px solid var(--accent)!important;box-shadow:none!important}
+html[data-theme="dark"] body .tag{background:rgba(146,133,255,.14)!important;color:#ddd8ff!important;border-color:#9285ff!important}
+.parity-topics-v2,.question-topics{scrollbar-width:none!important;-ms-overflow-style:none}
+.parity-topics-v2::-webkit-scrollbar,.question-topics::-webkit-scrollbar{display:none!important}
+.question-card mark.vedator-match,.episode-card-v2 mark.vedator-match{background:#ffe66b!important;color:#171717!important;border-radius:.28em;padding:.02em .12em;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+html[data-theme="dark"] .question-card mark.vedator-match,html[data-theme="dark"] .episode-card-v2 mark.vedator-match{background:#8a6d00!important;color:#fff4b3!important}
+.question-card .actions,.episode-card-v2 .actions{display:grid!important;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr) 44px;gap:8px!important;align-items:stretch}
+.question-card .actions>*,.episode-card-v2 .actions>*{min-width:0!important;width:100%;margin:0!important}
+.question-card .play,.episode-card-v2 .play{grid-column:1}
+.question-card .question-more,.episode-card-v2 .secondary{grid-column:2}
+.question-card .deep-share,.episode-card-v2 .deep-share{grid-column:3;width:44px!important;min-width:44px!important;padding:0!important}
+.episode-card-v2 .actions:not(:has(.secondary)) .play{grid-column:1/3}
+.actions .play,.actions .secondary,.question-more{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.series>summary .deep-share{width:44px!important;min-width:44px!important;padding:0!important}
+#player-download-v2[aria-disabled="true"]{opacity:.65;pointer-events:none}
+.desc-v2{color:color-mix(in srgb,var(--ink) 86%,var(--muted))!important}
+@media(max-width:700px){
+  body{padding-bottom:250px}
+  body:has(#player-v2.hidden){padding-bottom:20px}
+  .player-inner{position:relative!important;grid-template-columns:1fr!important;padding:9px 9px max(9px,env(safe-area-inset-bottom))!important;gap:7px!important}
+  .player-main{padding-right:43px}.player-title{font-size:.92rem;line-height:1.25}.player-sub{font-size:.72rem}
+  .player-controls{display:grid!important;grid-template-columns:repeat(20,minmax(0,1fr))!important;gap:6px!important;align-items:stretch!important}
+  #player-prev-v2,#player-back10-v2,#player-play-v2,#player-forward10-v2,#player-next-v2{grid-column:span 4!important;grid-row:1!important;min-width:0!important;min-height:50px!important;border-radius:14px!important;font-size:.82rem!important;padding:5px 2px!important}
+  #player-play-v2{min-height:56px!important;font-size:.9rem!important;box-shadow:0 7px 18px rgba(91,75,219,.24)}
+  #player-playlist-v2,#player-offline-v2,#player-download-v2,#player-speed-v2{grid-column:span 5!important;grid-row:2!important;min-width:0!important;min-height:43px!important;border-radius:12px!important;font-size:.7rem!important;white-space:normal!important;line-height:1.12!important;padding:6px 3px!important}
+  #player-close-v2{position:absolute!important;top:7px!important;right:7px!important;width:36px!important;min-width:36px!important;height:36px!important;min-height:36px!important;padding:0!important;border-radius:50%!important;z-index:2}
+  .player-seek-row{grid-column:1!important;gap:6px!important;font-size:.72rem!important}
+  .player-help{grid-column:1!important;white-space:normal!important;overflow:hidden!important;display:-webkit-box!important;-webkit-line-clamp:2!important;-webkit-box-orient:vertical!important;font-size:.72rem!important;line-height:1.25!important;min-height:1.8em!important}
+  body:has(#player-v2:not(.hidden)) .back-top-v2{bottom:255px!important}
+  .series>summary{display:grid!important;grid-template-columns:minmax(0,1fr) 44px!important;align-items:center!important;gap:5px 8px!important}
+  .series>summary>strong{grid-column:1;grid-row:1;min-width:0}.series>summary .series-progress-summary-v2{grid-column:1;grid-row:2;align-items:flex-start!important;justify-content:flex-start!important;text-align:left!important;flex-direction:row!important;flex-wrap:wrap!important}.series>summary .deep-share{grid-column:2;grid-row:1/3;align-self:center}
+  .parity-topics-v2{margin-left:-2px;margin-right:-2px;padding-left:2px;padding-right:2px}
+}
+@media(max-width:420px){
+  .player-controls{grid-template-columns:repeat(20,minmax(0,1fr))!important}
+  .question-card .actions,.episode-card-v2 .actions{grid-template-columns:minmax(0,1.28fr) minmax(0,1fr) 42px;gap:6px!important}
+  .question-card .deep-share,.episode-card-v2 .deep-share{width:42px!important;min-width:42px!important}
+  .actions .play,.actions .secondary,.question-more{font-size:.86rem!important;padding-left:5px!important;padding-right:5px!important}
+}
+
 </style>
 </head>
 <body>
