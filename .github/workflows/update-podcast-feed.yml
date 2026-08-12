@@ -75,6 +75,7 @@ jobs:
         run: |
           node tools/build-content-v2.mjs
           node tools/augment-v2-episode-descriptions.mjs
+          node tools/augment-v2-full-descriptions.mjs
           node tools/augment-v2-parity-content.mjs
 
       - name: Ověřit V2 obsah a FAQ vazby
