@@ -51,11 +51,11 @@ const layer=String.raw`
   };
   document.addEventListener('click',event=>{
     const button=event.target.closest?.('.episode-more-v2');if(!button)return;
-    event.preventDefault();event.stopPropagation();
+    event.preventDefault();event.stopImmediatePropagation();
     const number=Number(button.dataset.episode)||0;
     if(cardPolishEpisodeOpen.has(number))cardPolishEpisodeOpen.delete(number);else cardPolishEpisodeOpen.add(number);
     refreshEpisodeCard(number);
-  });
+  },true);
   const cardPolishOriginalSyncPlayer=syncPlayer;
   syncPlayer=function(...args){
     const result=cardPolishOriginalSyncPlayer(...args),audio=$('#audio-v2'),button=$('#player-play-v2');
