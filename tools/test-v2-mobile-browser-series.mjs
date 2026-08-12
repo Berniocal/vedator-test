@@ -17,14 +17,10 @@ try{
   await page.goto('http://127.0.0.1:4175/v2.html',{waitUntil:'domcontentloaded',timeout:15000});
   await page.waitForFunction(()=>document.documentElement.dataset.vedatorV2Ready==='1',{timeout:15000});
   await page.click('.tab-v2[data-view="series"]');await new Promise(resolve=>setTimeout(resolve,100));
-  const layout=await page.evaluate(()=>{const cards=[...document.querySelectorAll('#series-v2 .series')].slice(0,4).map(card=>{const r=card.getBoundingClientRect();return{left:r.left,right:r.right,top:r.top,bottom:r.bottom,width:r.width}});const grid=document.querySelector('#series-v2').getBoundingClientRect();return{cards,grid:{left:grid.left,right:grid.right,width:grid.width},scrollWidth:document.documentElement.scrollWidth,clientWidth:document.documentElement.clientWidth}});
-  assert(layout.cards.length===4,'Need at least four series cards');
-  const first=layout.cards.slice(0,3);assert(Math.max(...first.map(r=>r.top))-Math.min(...first.map(r=>r.top))<=3,`First three series are not on the same row: ${JSON.stringify(first)}`);
-  assert(layout.cards[3].top>first[0].top+5,'Fourth series did not move to the next row');
-  assert(first.every(r=>r.width>90&&r.width<130),`Series cards do not fit as three phone columns: ${JSON.stringify(first.map(r=>r.width))}`);
+  const layout=await page.evaluate(()=>{const cards=[...document.querySelectorAll('#series-v2 .series')].slice(0,3).map(card=>{const r=card.getBoundingClientRect();return{left:r.left,right:r.right,top:r.top,bottom:r.bottom,width:r.width}});const grid=document.querySelector('#series-v2').getBoundingClientRect();return{cards,grid:{left:grid.left,right:grid.right,width:grid.width},scrollWidth:document.documentElement.scrollWidth,clientWidth:document.documentElement.clientWidth}});
+  assert(layout.cards.length===3,'Need at least three series cards');
+  assert(layout.cards[1].top>layout.cards[0].top+5&&layout.cards[2].top>layout.cards[1].top+5,`Series should be one per phone row: ${JSON.stringify(layout.cards)}`);
+  assert(layout.cards.every(card=>Math.abs(card.width-layout.grid.width)<=3),`Series cards should use full phone row: ${JSON.stringify(layout.cards)}`);
   assert(layout.scrollWidth<=layout.clientWidth+1,`Series grid causes horizontal overflow: ${layout.scrollWidth} > ${layout.clientWidth}`);
-  await page.click('#series-v2 .series:first-child > summary');await new Promise(resolve=>setTimeout(resolve,80));
-  const opened=await page.evaluate(()=>{const card=document.querySelector('#series-v2 .series:first-child'),grid=document.querySelector('#series-v2');const c=card.getBoundingClientRect(),g=grid.getBoundingClientRect();return{open:card.open,left:c.left,right:c.right,width:c.width,gridLeft:g.left,gridRight:g.right}});
-  assert(opened.open,'Series did not open');assert(Math.abs(opened.left-opened.gridLeft)<=2&&Math.abs(opened.right-opened.gridRight)<=2,`Opened series should span the full row: ${JSON.stringify(opened)}`);
-  console.log(JSON.stringify({ok:true,viewport:'390x844',seriesPerRow:3,collapsedWidths:first.map(r=>Math.round(r.width)),openedFullRow:true,overflow:false},null,2));
+  console.log(JSON.stringify({ok:true,viewport:'390x844',seriesPerRow:1,fullWidth:true,overflow:false},null,2));
 }finally{await page.close().catch(()=>{});await browser.close().catch(()=>{});await new Promise(resolve=>server.close(resolve))}
