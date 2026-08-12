@@ -60,8 +60,8 @@ try{
   assert(result.scrollWidth<=result.clientWidth+1,`Visual parity caused horizontal overflow: ${result.scrollWidth} > ${result.clientWidth}`);
 
   await page.click('.tab-v2[data-view="series"]');await new Promise(resolve=>setTimeout(resolve,80));
-  const seriesTitleClamp=await page.$eval('#series-v2 .series>summary>strong',node=>getComputedStyle(node).webkitLineClamp||'');
-  assert(String(seriesTitleClamp)==='2',`Series title should clamp to two lines: ${seriesTitleClamp}`);
+  const seriesStyle=await page.$eval('#series-v2 .series>summary>strong',node=>{const style=getComputedStyle(node);return{whiteSpace:style.whiteSpace,overflow:style.overflow,textOverflow:style.textOverflow,lineClamp:style.webkitLineClamp||''}});
+  assert(seriesStyle.whiteSpace==='nowrap'&&seriesStyle.overflow==='hidden'&&seriesStyle.textOverflow==='ellipsis',`Series title should be one-line ellipsis: ${JSON.stringify(seriesStyle)}`);
   await page.click('.tab-v2[data-view="episodes"]');await new Promise(resolve=>setTimeout(resolve,60));
 
   await page.click('#episodes-v2 .episode-card-v2[data-episode="346"] .play');
@@ -69,13 +69,14 @@ try{
   const collapseText=await page.$eval('#player-close-v2',node=>node.textContent);
   assert(collapseText==='↓',`Player should use down arrow, got ${collapseText}`);
   await page.click('#player-close-v2');await new Promise(resolve=>setTimeout(resolve,40));
-  const collapsed=await page.evaluate(()=>({collapsed:document.querySelector('#player-v2').classList.contains('player-collapsed-v2'),expandHidden:document.querySelector('#player-expand-v2').hidden,expandText:document.querySelector('#player-expand-v2').textContent}));
-  assert(collapsed.collapsed&&!collapsed.expandHidden&&collapsed.expandText==='↑',`Collapsed player state is wrong: ${JSON.stringify(collapsed)}`);
+  const collapsed=await page.evaluate(()=>({collapsed:document.querySelector('#player-v2').classList.contains('player-collapsed-v2'),expandHidden:document.querySelector('#player-expand-v2').hidden,expandText:document.querySelector('#player-expand-v2').textContent,backText:document.querySelector('#back-top-v2')?.textContent||''}));
+  assert(collapsed.collapsed&&!collapsed.expandHidden&&collapsed.expandText.includes('♫')&&collapsed.expandText.includes('↑'),`Collapsed player state is wrong: ${JSON.stringify(collapsed)}`);
+  assert(collapsed.backText==='↑',`Back-to-top should remain plain arrow: ${JSON.stringify(collapsed)}`);
   await page.click('#player-expand-v2');await new Promise(resolve=>setTimeout(resolve,40));
   const expanded=await page.$eval('#player-v2',node=>!node.classList.contains('player-collapsed-v2'));
-  assert(expanded,'Floating arrow did not expand player');
+  assert(expanded,'Floating player control did not expand player');
 
   fs.mkdirSync('mobile-browser-artifacts',{recursive:true});
   await page.screenshot({path:'mobile-browser-artifacts/legacy-visual-parity.png',fullPage:true});
-  console.log(JSON.stringify({ok:true,viewport:'390x844',legacyHeader:true,purpleActivePills:true,legacyProgressBadge:true,noEpisodeTimeline:true,purpleTags:true,episodeTitleClamp:false,seriesTitleClamp:2,collapsiblePlayer:true},null,2));
+  console.log(JSON.stringify({ok:true,viewport:'390x844',legacyHeader:true,purpleActivePills:true,legacyProgressBadge:true,noEpisodeTimeline:true,purpleTags:true,episodeTitleClamp:false,seriesTitleEllipsis:true,collapsiblePlayer:true},null,2));
 }finally{await page.close().catch(()=>{});await browser.close().catch(()=>{});await new Promise(resolve=>server.close(resolve))}
