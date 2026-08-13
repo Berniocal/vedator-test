@@ -1,67 +1,12 @@
 {
   "episodes": [
-    {
-      "number": 325,
-      "title": "Posledná šanca",
-      "cleanMinutes": 40,
-      "maxQuestions": 20,
-      "questionCount": 20,
-      "cs": "shrnuti/cs/325-posledna-sanca.html",
-      "sk": "shrnuti/sk/325-posledna-sanca.html"
-    },
-    {
-      "number": 324,
-      "title": "Richard Feynman",
-      "cleanMinutes": 49,
-      "maxQuestions": 24,
-      "questionCount": 22,
-      "cs": "shrnuti/cs/324-richard-feynman.html",
-      "sk": "shrnuti/sk/324-richard-feynman.html"
-    },
-    {
-      "number": 323,
-      "title": "Ľadoborce",
-      "cleanMinutes": 34,
-      "maxQuestions": 17,
-      "questionCount": 17,
-      "cs": "shrnuti/cs/323-ladoborce.html",
-      "sk": "shrnuti/sk/323-ladoborce.html"
-    },
-    {
-      "number": 322,
-      "title": "Fúzne reaktory",
-      "cleanMinutes": 34,
-      "maxQuestions": 17,
-      "questionCount": 17,
-      "cs": "shrnuti/cs/322-fuzne-reaktory.html",
-      "sk": "shrnuti/sk/322-fuzne-reaktory.html"
-    },
-    {
-      "number": 321,
-      "title": "Artemis II",
-      "cleanMinutes": 35,
-      "maxQuestions": 17,
-      "questionCount": 17,
-      "cs": "shrnuti/cs/321-artemis-ii.html",
-      "sk": "shrnuti/sk/321-artemis-ii.html"
-    },
-    {
-      "number": 320,
-      "title": "Mary Somerville",
-      "cleanMinutes": 33,
-      "maxQuestions": 16,
-      "questionCount": 16,
-      "cs": "shrnuti/cs/320-mary-somerville.html",
-      "sk": "shrnuti/sk/320-mary-somerville.html"
-    },
-    {
-      "number": 318,
-      "title": "Rok 2025 vo vede",
-      "cleanMinutes": 37,
-      "maxQuestions": 18,
-      "questionCount": 18,
-      "cs": "shrnuti/cs/318-rok-2025-vo-vede.html",
-      "sk": "shrnuti/sk/318-rok-2025-vo-vede.html"
-    }
+    {"number":325,"title":"Posledná šanca","cleanMinutes":40,"maxQuestions":20,"questionCount":20,"cs":"shrnuti/cs/325-posledna-sanca.html","sk":"shrnuti/sk/325-posledna-sanca.html"},
+    {"number":324,"title":"Richard Feynman","cleanMinutes":49,"maxQuestions":24,"questionCount":22,"cs":"shrnuti/cs/324-richard-feynman.html","sk":"shrnuti/sk/324-richard-feynman.html"},
+    {"number":323,"title":"Ľadoborce","cleanMinutes":34,"maxQuestions":17,"questionCount":17,"cs":"shrnuti/cs/323-ladoborce.html","sk":"shrnuti/sk/323-ladoborce.html"},
+    {"number":322,"title":"Fúzne reaktory","cleanMinutes":34,"maxQuestions":17,"questionCount":17,"cs":"shrnuti/cs/322-fuzne-reaktory.html","sk":"shrnuti/sk/322-fuzne-reaktory.html"},
+    {"number":321,"title":"Artemis II","cleanMinutes":35,"maxQuestions":17,"questionCount":17,"cs":"shrnuti/cs/321-artemis-ii.html","sk":"shrnuti/sk/321-artemis-ii.html"},
+    {"number":320,"title":"Mary Somerville","cleanMinutes":33,"maxQuestions":16,"questionCount":16,"cs":"shrnuti/cs/320-mary-somerville.html","sk":"shrnuti/sk/320-mary-somerville.html"},
+    {"number":318,"title":"Rok 2025 vo vede","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/318-rok-2025-vo-vede.html","sk":"shrnuti/sk/318-rok-2025-vo-vede.html"},
+    {"number":316,"title":"Santa Claus","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/316-santa-claus.html","sk":"shrnuti/sk/316-santa-claus.html"}
   ]
 }
