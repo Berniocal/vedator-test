@@ -1,0 +1,22 @@
+{
+  "episodes": [
+    {
+      "number": 325,
+      "title": "Posledná šanca",
+      "cleanMinutes": 40,
+      "maxQuestions": 20,
+      "questionCount": 20,
+      "cs": "shrnuti/cs/325-posledna-sanca.html",
+      "sk": "shrnuti/sk/325-posledna-sanca.html"
+    },
+    {
+      "number": 324,
+      "title": "Richard Feynman",
+      "cleanMinutes": 49,
+      "maxQuestions": 24,
+      "questionCount": 22,
+      "cs": "shrnuti/cs/324-richard-feynman.html",
+      "sk": "shrnuti/sk/324-richard-feynman.html"
+    }
+  ]
+}
