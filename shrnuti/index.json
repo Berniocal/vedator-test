@@ -26,6 +26,15 @@
       "questionCount": 17,
       "cs": "shrnuti/cs/323-ladoborce.html",
       "sk": "shrnuti/sk/323-ladoborce.html"
+    },
+    {
+      "number": 322,
+      "title": "Fúzne reaktory",
+      "cleanMinutes": 34,
+      "maxQuestions": 17,
+      "questionCount": 17,
+      "cs": "shrnuti/cs/322-fuzne-reaktory.html",
+      "sk": "shrnuti/sk/322-fuzne-reaktory.html"
     }
   ]
 }
