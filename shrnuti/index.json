@@ -44,6 +44,15 @@
       "questionCount": 17,
       "cs": "shrnuti/cs/321-artemis-ii.html",
       "sk": "shrnuti/sk/321-artemis-ii.html"
+    },
+    {
+      "number": 320,
+      "title": "Mary Somerville",
+      "cleanMinutes": 33,
+      "maxQuestions": 16,
+      "questionCount": 16,
+      "cs": "shrnuti/cs/320-mary-somerville.html",
+      "sk": "shrnuti/sk/320-mary-somerville.html"
     }
   ]
 }
