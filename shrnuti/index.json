@@ -7,6 +7,7 @@
     {"number":321,"title":"Artemis II","cleanMinutes":35,"maxQuestions":17,"questionCount":17,"cs":"shrnuti/cs/321-artemis-ii.html","sk":"shrnuti/sk/321-artemis-ii.html"},
     {"number":320,"title":"Mary Somerville","cleanMinutes":33,"maxQuestions":16,"questionCount":16,"cs":"shrnuti/cs/320-mary-somerville.html","sk":"shrnuti/sk/320-mary-somerville.html"},
     {"number":318,"title":"Rok 2025 vo vede","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/318-rok-2025-vo-vede.html","sk":"shrnuti/sk/318-rok-2025-vo-vede.html"},
-    {"number":316,"title":"Santa Claus","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/316-santa-claus.html","sk":"shrnuti/sk/316-santa-claus.html"}
+    {"number":316,"title":"Santa Claus","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/316-santa-claus.html","sk":"shrnuti/sk/316-santa-claus.html"},
+    {"number":315,"title":"Technické výzvy Santa Clausa","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/315-technicke-vyzvy-santa-clausa.html","sk":"shrnuti/sk/315-technicke-vyzvy-santa-clausa.html"}
   ]
 }
