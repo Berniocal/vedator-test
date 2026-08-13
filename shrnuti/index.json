@@ -53,6 +53,15 @@
       "questionCount": 16,
       "cs": "shrnuti/cs/320-mary-somerville.html",
       "sk": "shrnuti/sk/320-mary-somerville.html"
+    },
+    {
+      "number": 318,
+      "title": "Rok 2025 vo vede",
+      "cleanMinutes": 37,
+      "maxQuestions": 18,
+      "questionCount": 18,
+      "cs": "shrnuti/cs/318-rok-2025-vo-vede.html",
+      "sk": "shrnuti/sk/318-rok-2025-vo-vede.html"
     }
   ]
 }
