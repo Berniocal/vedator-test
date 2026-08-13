@@ -17,6 +17,15 @@
       "questionCount": 22,
       "cs": "shrnuti/cs/324-richard-feynman.html",
       "sk": "shrnuti/sk/324-richard-feynman.html"
+    },
+    {
+      "number": 323,
+      "title": "Ľadoborce",
+      "cleanMinutes": 34,
+      "maxQuestions": 17,
+      "questionCount": 17,
+      "cs": "shrnuti/cs/323-ladoborce.html",
+      "sk": "shrnuti/sk/323-ladoborce.html"
     }
   ]
 }
