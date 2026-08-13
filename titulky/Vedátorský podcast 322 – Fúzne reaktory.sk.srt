@@ -1,0 +1,9375 @@
+1
+00:00:03,274 --> 00:00:08,505
+[hudba]
+
+2
+00:00:08,515 --> 00:00:12,709
+[hudba]
+
+3
+00:00:12,719 --> 00:00:15,110
+Od čakania cez magnetické polia až po
+
+4
+00:00:15,110 --> 00:00:15,120
+Od čakania cez magnetické polia až po
+
+5
+00:00:15,120 --> 00:00:17,109
+Od čakania cez magnetické polia až po
+ďalšie čakanie. Veda nás obklopuje na
+
+6
+00:00:17,109 --> 00:00:17,119
+ďalšie čakanie. Veda nás obklopuje na
+
+7
+00:00:17,119 --> 00:00:18,330
+ďalšie čakanie. Veda nás obklopuje na
+každom kroku. Vitajte pri vedátorskom
+
+8
+00:00:18,330 --> 00:00:18,340
+každom kroku. Vitajte pri vedátorskom
+
+9
+00:00:18,340 --> 00:00:20,310
+každom kroku. Vitajte pri vedátorskom
+[hudba] podcaste, v ktorom sa budeme
+
+10
+00:00:20,310 --> 00:00:20,320
+[hudba] podcaste, v ktorom sa budeme
+
+11
+00:00:20,320 --> 00:00:22,230
+[hudba] podcaste, v ktorom sa budeme
+rozprávať o vede a prírode okolo nás.
+
+12
+00:00:22,230 --> 00:00:22,240
+rozprávať o vede a prírode okolo nás.
+
+13
+00:00:22,240 --> 00:00:23,870
+rozprávať o vede a prírode okolo nás.
+Moje meno je Jozef.
+
+14
+00:00:23,870 --> 00:00:23,880
+Moje meno je Jozef.
+
+15
+00:00:23,880 --> 00:00:25,990
+Moje meno je Jozef.
+>> Ja som Samuel. Tento podcast vychádza v
+
+16
+00:00:25,990 --> 00:00:26,000
+>> Ja som Samuel. Tento podcast vychádza v
+
+17
+00:00:26,000 --> 00:00:28,630
+>> Ja som Samuel. Tento podcast vychádza v
+spolupráci so SME Samko, ja si myslím,
+
+18
+00:00:28,630 --> 00:00:28,640
+spolupráci so SME Samko, ja si myslím,
+
+19
+00:00:28,640 --> 00:00:31,230
+spolupráci so SME Samko, ja si myslím,
+že veľké percento našich poslucháčov už
+
+20
+00:00:31,230 --> 00:00:31,240
+že veľké percento našich poslucháčov už
+
+21
+00:00:31,240 --> 00:00:33,150
+že veľké percento našich poslucháčov už
+len z toho, keď si neprečítali, o čom je
+
+22
+00:00:33,150 --> 00:00:33,160
+len z toho, keď si neprečítali, o čom je
+
+23
+00:00:33,160 --> 00:00:36,310
+len z toho, keď si neprečítali, o čom je
+táto epizóda, vedia len z toho začiatku,
+
+24
+00:00:36,310 --> 00:00:36,320
+táto epizóda, vedia len z toho začiatku,
+
+25
+00:00:36,320 --> 00:00:38,229
+táto epizóda, vedia len z toho začiatku,
+že o čom sa dneska budeme rozprávať. A
+
+26
+00:00:38,229 --> 00:00:38,239
+že o čom sa dneska budeme rozprávať. A
+
+27
+00:00:38,239 --> 00:00:41,510
+že o čom sa dneska budeme rozprávať. A
+je to, ja to nazývam svätý gráľ eh vedy,
+
+28
+00:00:41,510 --> 00:00:41,520
+je to, ja to nazývam svätý gráľ eh vedy,
+
+29
+00:00:41,520 --> 00:00:44,470
+je to, ja to nazývam svätý gráľ eh vedy,
+možno hej vedy, nielen fyziky. Eh, fúzny
+
+30
+00:00:44,470 --> 00:00:44,480
+možno hej vedy, nielen fyziky. Eh, fúzny
+
+31
+00:00:44,480 --> 00:00:46,790
+možno hej vedy, nielen fyziky. Eh, fúzny
+reaktor, fúzna reakcia. Mali sme o tom
+
+32
+00:00:46,790 --> 00:00:46,800
+reaktor, fúzna reakcia. Mali sme o tom
+
+33
+00:00:46,800 --> 00:00:49,790
+reaktor, fúzna reakcia. Mali sme o tom
+tému, prečo je to teraz nová téma. Eh
+
+34
+00:00:49,790 --> 00:00:49,800
+tému, prečo je to teraz nová téma. Eh
+
+35
+00:00:49,800 --> 00:00:52,270
+tému, prečo je to teraz nová téma. Eh
+niečo sme sa posunuli alebo chceme
+
+36
+00:00:52,270 --> 00:00:52,280
+niečo sme sa posunuli alebo chceme
+
+37
+00:00:52,280 --> 00:00:55,110
+niečo sme sa posunuli alebo chceme
+>> vieš čo akože je je to v skutočnosti
+
+38
+00:00:55,110 --> 00:00:55,120
+>> vieš čo akože je je to v skutočnosti
+
+39
+00:00:55,120 --> 00:00:58,549
+>> vieš čo akože je je to v skutočnosti
+nová téma eh možno trošku nezaslúžene
+
+40
+00:00:58,549 --> 00:00:58,559
+nová téma eh možno trošku nezaslúžene
+
+41
+00:00:58,559 --> 00:00:59,910
+nová téma eh možno trošku nezaslúžene
+označená ako nová téma. Je to dlho
+
+42
+00:00:59,910 --> 00:00:59,920
+označená ako nová téma. Je to dlho
+
+43
+00:00:59,920 --> 00:01:01,590
+označená ako nová téma. Je to dlho
+trvajúca téma, ktorú teraz vyniesli na
+
+44
+00:01:01,590 --> 00:01:01,600
+trvajúca téma, ktorú teraz vyniesli na
+
+45
+00:01:01,600 --> 00:01:06,390
+trvajúca téma, ktorú teraz vyniesli na
+svetlo eh hypem z Silicon Wall, ktorí
+
+46
+00:01:06,390 --> 00:01:06,400
+svetlo eh hypem z Silicon Wall, ktorí
+
+47
+00:01:06,400 --> 00:01:08,070
+svetlo eh hypem z Silicon Wall, ktorí
+teda hovoria, že fúzn energia je to, čo
+
+48
+00:01:08,070 --> 00:01:08,080
+teda hovoria, že fúzn energia je to, čo
+
+49
+00:01:08,080 --> 00:01:11,070
+teda hovoria, že fúzn energia je to, čo
+bude poháňať ich ich eh veľké jazykové
+
+50
+00:01:11,070 --> 00:01:11,080
+bude poháňať ich ich eh veľké jazykové
+
+51
+00:01:11,080 --> 00:01:14,350
+bude poháňať ich ich eh veľké jazykové
+modely a super počítače a podobne. Ale
+
+52
+00:01:14,350 --> 00:01:14,360
+modely a super počítače a podobne. Ale
+
+53
+00:01:14,360 --> 00:01:17,789
+modely a super počítače a podobne. Ale
+fúna fúzné reaktory ako také sú téma,
+
+54
+00:01:17,789 --> 00:01:17,799
+fúna fúzné reaktory ako také sú téma,
+
+55
+00:01:17,799 --> 00:01:20,670
+fúna fúzné reaktory ako také sú téma,
+ktorá si zaslúžila miesto v našom
+
+56
+00:01:20,670 --> 00:01:20,680
+ktorá si zaslúžila miesto v našom
+
+57
+00:01:20,680 --> 00:01:22,550
+ktorá si zaslúžila miesto v našom
+podcaste podľa mňa tak 200 epizód
+
+58
+00:01:22,550 --> 00:01:22,560
+podcaste podľa mňa tak 200 epizód
+
+59
+00:01:22,560 --> 00:01:23,149
+podcaste podľa mňa tak 200 epizód
+dozadu.
+
+60
+00:01:23,149 --> 00:01:23,159
+dozadu.
+
+61
+00:01:23,159 --> 00:01:25,550
+dozadu.
+>> Uhm. Rozprávali sme veľakrát o jadrovej
+
+62
+00:01:25,550 --> 00:01:25,560
+>> Uhm. Rozprávali sme veľakrát o jadrovej
+
+63
+00:01:25,560 --> 00:01:28,950
+>> Uhm. Rozprávali sme veľakrát o jadrovej
+energii, rozprávali sme o tom, ako
+
+64
+00:01:28,950 --> 00:01:28,960
+energii, rozprávali sme o tom, ako
+
+65
+00:01:28,960 --> 00:01:31,069
+energii, rozprávali sme o tom, ako
+napríklad bojovať s klimatickou zmenou,
+
+66
+00:01:31,069 --> 00:01:31,079
+napríklad bojovať s klimatickou zmenou,
+
+67
+00:01:31,079 --> 00:01:32,109
+napríklad bojovať s klimatickou zmenou,
+ako postupne očistiť.
+
+68
+00:01:32,109 --> 00:01:32,119
+ako postupne očistiť.
+
+69
+00:01:32,119 --> 00:01:33,469
+ako postupne očistiť.
+>> O alternatívnych zdrojoch sme sa
+
+70
+00:01:33,469 --> 00:01:33,479
+>> O alternatívnych zdrojoch sme sa
+
+71
+00:01:33,479 --> 00:01:34,310
+>> O alternatívnych zdrojoch sme sa
+rozprávali.
+
+72
+00:01:34,310 --> 00:01:34,320
+rozprávali.
+
+73
+00:01:34,320 --> 00:01:36,350
+rozprávali.
+>> Tak tak dekarbonizácia, výroby
+
+74
+00:01:36,350 --> 00:01:36,360
+>> Tak tak dekarbonizácia, výroby
+
+75
+00:01:36,360 --> 00:01:38,270
+>> Tak tak dekarbonizácia, výroby
+elektrickej energie a tak ďalej.
+
+76
+00:01:38,270 --> 00:01:38,280
+elektrickej energie a tak ďalej.
+
+77
+00:01:38,280 --> 00:01:40,910
+elektrickej energie a tak ďalej.
+>> Inak áno, máme epizódu. My máme strašne
+
+78
+00:01:40,910 --> 00:01:40,920
+>> Inak áno, máme epizódu. My máme strašne
+
+79
+00:01:40,920 --> 00:01:43,030
+>> Inak áno, máme epizódu. My máme strašne
+veľa zaujímavých epizódov. [smiech]
+
+80
+00:01:43,030 --> 00:01:43,040
+veľa zaujímavých epizódov. [smiech]
+
+81
+00:01:43,040 --> 00:01:45,910
+veľa zaujímavých epizódov. [smiech]
+Tak a prekvapivo, vieš, že keď začneš
+
+82
+00:01:45,910 --> 00:01:45,920
+Tak a prekvapivo, vieš, že keď začneš
+
+83
+00:01:45,920 --> 00:01:48,190
+Tak a prekvapivo, vieš, že keď začneš
+robiť vedecký podcast, tak povieš, že
+
+84
+00:01:48,190 --> 00:01:48,200
+robiť vedecký podcast, tak povieš, že
+
+85
+00:01:48,200 --> 00:01:50,310
+robiť vedecký podcast, tak povieš, že
+tak no dobre, tak jasné, že bude rýchlo
+
+86
+00:01:50,310 --> 00:01:50,320
+tak no dobre, tak jasné, že bude rýchlo
+
+87
+00:01:50,320 --> 00:01:52,550
+tak no dobre, tak jasné, že bude rýchlo
+epizóda o čiernych dierach a neviem čo a
+
+88
+00:01:52,550 --> 00:01:52,560
+epizóda o čiernych dierach a neviem čo a
+
+89
+00:01:52,560 --> 00:01:53,190
+epizóda o čiernych dierach a neviem čo a
+spravodivosť.
+
+90
+00:01:53,190 --> 00:01:53,200
+spravodivosť.
+
+91
+00:01:53,200 --> 00:01:55,310
+spravodivosť.
+>> Fú, fúny reaktor alebo fúziu by som dal
+
+92
+00:01:55,310 --> 00:01:55,320
+>> Fú, fúny reaktor alebo fúziu by som dal
+
+93
+00:01:55,320 --> 00:01:58,069
+>> Fú, fúny reaktor alebo fúziu by som dal
+medzi top 20 určite akože ten.
+
+94
+00:01:58,069 --> 00:01:58,079
+medzi top 20 určite akože ten.
+
+95
+00:01:58,079 --> 00:01:59,749
+medzi top 20 určite akože ten.
+>> Tak a my sme to nestihli prvých 300
+
+96
+00:01:59,749 --> 00:01:59,759
+>> Tak a my sme to nestihli prvých 300
+
+97
+00:01:59,759 --> 00:02:01,190
+>> Tak a my sme to nestihli prvých 300
+epizód. A ináč neviem, že či máme
+
+98
+00:02:01,190 --> 00:02:01,200
+epizód. A ináč neviem, že či máme
+
+99
+00:02:01,200 --> 00:02:02,709
+epizód. A ináč neviem, že či máme
+supravodivosť. To som chcel dať ako
+
+100
+00:02:02,709 --> 00:02:02,719
+supravodivosť. To som chcel dať ako
+
+101
+00:02:02,719 --> 00:02:04,270
+supravodivosť. To som chcel dať ako
+druhý príklad niečoho, čo musíš veľmi
+
+102
+00:02:04,270 --> 00:02:04,280
+druhý príklad niečoho, čo musíš veľmi
+
+103
+00:02:04,280 --> 00:02:06,630
+druhý príklad niečoho, čo musíš veľmi
+rýchlo urobiť vo vedeckom podcaste a
+
+104
+00:02:06,630 --> 00:02:06,640
+rýchlo urobiť vo vedeckom podcaste a
+
+105
+00:02:06,640 --> 00:02:08,309
+rýchlo urobiť vo vedeckom podcaste a
+tiež sme to tuším ešte nespravili. sú
+
+106
+00:02:08,309 --> 00:02:08,319
+tiež sme to tuším ešte nespravili. sú
+
+107
+00:02:08,319 --> 00:02:08,790
+tiež sme to tuším ešte nespravili. sú
+pravodivost
+
+108
+00:02:08,790 --> 00:02:08,800
+pravodivost
+
+109
+00:02:08,800 --> 00:02:10,749
+pravodivost
+>> a preto sme takí zaujímaví, lebo nejdeme
+
+110
+00:02:10,749 --> 00:02:10,759
+>> a preto sme takí zaujímaví, lebo nejdeme
+
+111
+00:02:10,759 --> 00:02:11,910
+>> a preto sme takí zaujímaví, lebo nejdeme
+po tých, [smiech]
+
+112
+00:02:11,910 --> 00:02:11,920
+po tých, [smiech]
+
+113
+00:02:11,920 --> 00:02:13,910
+po tých, [smiech]
+>> lebo ideme po tých blbostiach namiesto
+
+114
+00:02:13,910 --> 00:02:13,920
+>> lebo ideme po tých blbostiach namiesto
+
+115
+00:02:13,920 --> 00:02:15,910
+>> lebo ideme po tých blbostiach namiesto
+týchto super dôležitých vecí, ktoré majú
+
+116
+00:02:15,910 --> 00:02:15,920
+týchto super dôležitých vecí, ktoré majú
+
+117
+00:02:15,920 --> 00:02:17,630
+týchto super dôležitých vecí, ktoré majú
+schopnosť meniť civilizáciu.
+
+118
+00:02:17,630 --> 00:02:17,640
+schopnosť meniť civilizáciu.
+
+119
+00:02:17,640 --> 00:02:19,270
+schopnosť meniť civilizáciu.
+>> Áno, ale my ideme od tých najmenších
+
+120
+00:02:19,270 --> 00:02:19,280
+>> Áno, ale my ideme od tých najmenších
+
+121
+00:02:19,280 --> 00:02:21,470
+>> Áno, ale my ideme od tých najmenších
+prvkov, vieš? My ideme tým eh dedukčným
+
+122
+00:02:21,470 --> 00:02:21,480
+prvkov, vieš? My ideme tým eh dedukčným
+
+123
+00:02:21,480 --> 00:02:23,470
+prvkov, vieš? My ideme tým eh dedukčným
+štýl indukčným štýlom od
+
+124
+00:02:23,470 --> 00:02:23,480
+štýl indukčným štýlom od
+
+125
+00:02:23,480 --> 00:02:25,030
+štýl indukčným štýlom od
+>> Áno. My sme si toto chceli šetriť na
+
+126
+00:02:25,030 --> 00:02:25,040
+>> Áno. My sme si toto chceli šetriť na
+
+127
+00:02:25,040 --> 00:02:26,190
+>> Áno. My sme si toto chceli šetriť na
+druhú tisícku.
+
+128
+00:02:26,190 --> 00:02:26,200
+druhú tisícku.
+
+129
+00:02:26,200 --> 00:02:28,470
+druhú tisícku.
+>> Áno, presne tam príde tá supravodliť.
+
+130
+00:02:28,470 --> 00:02:28,480
+>> Áno, presne tam príde tá supravodliť.
+
+131
+00:02:28,480 --> 00:02:30,630
+>> Áno, presne tam príde tá supravodliť.
+>> Tište [smiech] sa v druhej tisícke na
+
+132
+00:02:30,630 --> 00:02:30,640
+>> Tište [smiech] sa v druhej tisícke na
+
+133
+00:02:30,640 --> 00:02:33,790
+>> Tište [smiech] sa v druhej tisícke na
+supravodivosť. Plus tá supravodivosť je
+
+134
+00:02:33,790 --> 00:02:33,800
+supravodivosť. Plus tá supravodivosť je
+
+135
+00:02:33,800 --> 00:02:37,430
+supravodivosť. Plus tá supravodivosť je
+taká plíživá, že ono sa o nej rozpráva
+
+136
+00:02:37,430 --> 00:02:37,440
+taká plíživá, že ono sa o nej rozpráva
+
+137
+00:02:37,440 --> 00:02:39,710
+taká plíživá, že ono sa o nej rozpráva
+už v podstate, že storočie a posledných
+
+138
+00:02:39,710 --> 00:02:39,720
+už v podstate, že storočie a posledných
+
+139
+00:02:39,720 --> 00:02:42,589
+už v podstate, že storočie a posledných
+50 rokov už tak trošku žartom alebo 30
+
+140
+00:02:42,589 --> 00:02:42,599
+50 rokov už tak trošku žartom alebo 30
+
+141
+00:02:42,599 --> 00:02:45,149
+50 rokov už tak trošku žartom alebo 30
+rokov. Keď to porovnáme s jadrovou
+
+142
+00:02:45,149 --> 00:02:45,159
+rokov. Keď to porovnáme s jadrovou
+
+143
+00:02:45,159 --> 00:02:47,470
+rokov. Keď to porovnáme s jadrovou
+fúziou, či s jadrovou, počkaj, to je
+
+144
+00:02:47,470 --> 00:02:47,480
+fúziou, či s jadrovou, počkaj, to je
+
+145
+00:02:47,480 --> 00:02:48,949
+fúziou, či s jadrovou, počkaj, to je
+fúzi štepením.
+
+146
+00:02:48,949 --> 00:02:48,959
+fúzi štepením.
+
+147
+00:02:48,959 --> 00:02:50,270
+fúzi štepením.
+>> Jadrovým štepením. Áno. U nás je to
+
+148
+00:02:50,270 --> 00:02:50,280
+>> Jadrovým štepením. Áno. U nás je to
+
+149
+00:02:50,280 --> 00:02:53,589
+>> Jadrovým štepením. Áno. U nás je to
+štepenie. Tak tam veľmi krátky čas
+
+150
+00:02:53,589 --> 00:02:53,599
+štepenie. Tak tam veľmi krátky čas
+
+151
+00:02:53,599 --> 00:02:56,190
+štepenie. Tak tam veľmi krátky čas
+oproti Fúznemu reaktoru prešiel od
+
+152
+00:02:56,190 --> 00:02:56,200
+oproti Fúznemu reaktoru prešiel od
+
+153
+00:02:56,200 --> 00:02:58,790
+oproti Fúznemu reaktoru prešiel od
+navrhnutia až po zostrojení, nie? že to
+
+154
+00:02:58,790 --> 00:02:58,800
+navrhnutia až po zostrojení, nie? že to
+
+155
+00:02:58,800 --> 00:03:02,309
+navrhnutia až po zostrojení, nie? že to
+sme mali aj eh Los Alamos prvý eh bol v
+
+156
+00:03:02,309 --> 00:03:02,319
+sme mali aj eh Los Alamos prvý eh bol v
+
+157
+00:03:02,319 --> 00:03:04,670
+sme mali aj eh Los Alamos prvý eh bol v
+na tej michiganskej univerzite či
+
+158
+00:03:04,670 --> 00:03:04,680
+na tej michiganskej univerzite či
+
+159
+00:03:04,680 --> 00:03:05,470
+na tej michiganskej univerzite či
+bonstonskej
+
+160
+00:03:05,470 --> 00:03:05,480
+bonstonskej
+
+161
+00:03:05,480 --> 00:03:06,670
+bonstonskej
+>> či Kegopil
+
+162
+00:03:06,670 --> 00:03:06,680
+>> či Kegopil
+
+163
+00:03:06,680 --> 00:03:09,430
+>> či Kegopil
+>> Čikop pardon eh takže veľmi rýchlo a
+
+164
+00:03:09,430 --> 00:03:09,440
+>> Čikop pardon eh takže veľmi rýchlo a
+
+165
+00:03:09,440 --> 00:03:12,470
+>> Čikop pardon eh takže veľmi rýchlo a
+tuto ten fúzny reaktor má nejaký problém
+
+166
+00:03:12,470 --> 00:03:12,480
+tuto ten fúzny reaktor má nejaký problém
+
+167
+00:03:12,480 --> 00:03:13,070
+tuto ten fúzny reaktor má nejaký problém
+>> no
+
+168
+00:03:13,070 --> 00:03:13,080
+>> no
+
+169
+00:03:13,080 --> 00:03:14,630
+>> no
+>> tak asi si povedzme že čo je to tá
+
+170
+00:03:14,630 --> 00:03:14,640
+>> tak asi si povedzme že čo je to tá
+
+171
+00:03:14,640 --> 00:03:17,110
+>> tak asi si povedzme že čo je to tá
+jadrová fúzia je jadrové štepenie to to
+
+172
+00:03:17,110 --> 00:03:17,120
+jadrová fúzia je jadrové štepenie to to
+
+173
+00:03:17,120 --> 00:03:19,830
+jadrová fúzia je jadrové štepenie to to
+sme si vysvetlili to sa stri strieľajú
+
+174
+00:03:19,830 --> 00:03:19,840
+sme si vysvetlili to sa stri strieľajú
+
+175
+00:03:19,840 --> 00:03:25,030
+sme si vysvetlili to sa stri strieľajú
+nejaké častice na nejakú super eh čo sa
+
+176
+00:03:25,030 --> 00:03:25,040
+nejaké častice na nejakú super eh čo sa
+
+177
+00:03:25,040 --> 00:03:27,110
+nejaké častice na nejakú super eh čo sa
+a tá sa rozpadne má nejaké štepenie a
+
+178
+00:03:27,110 --> 00:03:27,120
+a tá sa rozpadne má nejaké štepenie a
+
+179
+00:03:27,120 --> 00:03:30,550
+a tá sa rozpadne má nejaké štepenie a
+tak ďalej to spúšťa eh nejakú reťaznú
+
+180
+00:03:30,550 --> 00:03:30,560
+tak ďalej to spúšťa eh nejakú reťaznú
+
+181
+00:03:30,560 --> 00:03:32,830
+tak ďalej to spúšťa eh nejakú reťaznú
+reakciu, ktorú vieme kontrolovať vďaka
+
+182
+00:03:32,830 --> 00:03:32,840
+reakciu, ktorú vieme kontrolovať vďaka
+
+183
+00:03:32,840 --> 00:03:36,390
+reakciu, ktorú vieme kontrolovať vďaka
+nejakým procesom. OK. A teraz fúzia je,
+
+184
+00:03:36,390 --> 00:03:36,400
+nejakým procesom. OK. A teraz fúzia je,
+
+185
+00:03:36,400 --> 00:03:38,309
+nejakým procesom. OK. A teraz fúzia je,
+viem len, že v slnku prebieha pod
+
+186
+00:03:38,309 --> 00:03:38,319
+viem len, že v slnku prebieha pod
+
+187
+00:03:38,319 --> 00:03:41,309
+viem len, že v slnku prebieha pod
+vysokým tlakom v nejakých magnetických
+
+188
+00:03:41,309 --> 00:03:41,319
+vysokým tlakom v nejakých magnetických
+
+189
+00:03:41,319 --> 00:03:43,390
+vysokým tlakom v nejakých magnetických
+poliach, čo si nevieme predstaviť. A ako
+
+190
+00:03:43,390 --> 00:03:43,400
+poliach, čo si nevieme predstaviť. A ako
+
+191
+00:03:43,400 --> 00:03:45,630
+poliach, čo si nevieme predstaviť. A ako
+to spravíme?
+
+192
+00:03:45,630 --> 00:03:45,640
+to spravíme?
+
+193
+00:03:45,640 --> 00:03:45,949
+to spravíme?
+No
+
+194
+00:03:45,949 --> 00:03:45,959
+No
+
+195
+00:03:45,959 --> 00:03:47,470
+No
+>> je to v podstate, že to isté, len
+
+196
+00:03:47,470 --> 00:03:47,480
+>> je to v podstate, že to isté, len
+
+197
+00:03:47,480 --> 00:03:49,869
+>> je to v podstate, že to isté, len
+naopak. A celá tá sranda spočíva v tom,
+
+198
+00:03:49,869 --> 00:03:49,879
+naopak. A celá tá sranda spočíva v tom,
+
+199
+00:03:49,879 --> 00:03:53,429
+naopak. A celá tá sranda spočíva v tom,
+že veci, že predstav si chemickú tabuľku
+
+200
+00:03:53,429 --> 00:03:53,439
+že veci, že predstav si chemickú tabuľku
+
+201
+00:03:53,439 --> 00:03:55,270
+že veci, že predstav si chemickú tabuľku
+prvkov, ktorú si videl niekde na
+
+202
+00:03:55,270 --> 00:03:55,280
+prvkov, ktorú si videl niekde na
+
+203
+00:03:55,280 --> 00:03:55,789
+prvkov, ktorú si videl niekde na
+strednej.
+
+204
+00:03:55,789 --> 00:03:55,799
+strednej.
+
+205
+00:03:55,799 --> 00:03:57,830
+strednej.
+>> Začína niekde, hej. Áno. Áno. Začína to
+
+206
+00:03:57,830 --> 00:03:57,840
+>> Začína niekde, hej. Áno. Áno. Začína to
+
+207
+00:03:57,840 --> 00:03:59,630
+>> Začína niekde, hej. Áno. Áno. Začína to
+vodíkom a končí to niečím, čo sa kedysi
+
+208
+00:03:59,630 --> 00:03:59,640
+vodíkom a končí to niečím, čo sa kedysi
+
+209
+00:03:59,640 --> 00:04:01,710
+vodíkom a končí to niečím, čo sa kedysi
+volalo nejaké, že unuununciunci a už to
+
+210
+00:04:01,710 --> 00:04:01,720
+volalo nejaké, že unuununciunci a už to
+
+211
+00:04:01,720 --> 00:04:03,509
+volalo nejaké, že unuununciunci a už to
+dostalo nejaké lepšie meno. Eh, ale to
+
+212
+00:04:03,509 --> 00:04:03,519
+dostalo nejaké lepšie meno. Eh, ale to
+
+213
+00:04:03,519 --> 00:04:04,949
+dostalo nejaké lepšie meno. Eh, ale to
+sú také tie mega nestabilné.
+
+214
+00:04:04,949 --> 00:04:04,959
+sú také tie mega nestabilné.
+
+215
+00:04:04,959 --> 00:04:05,429
+sú také tie mega nestabilné.
+>> Hej, hej.
+
+216
+00:04:05,429 --> 00:04:05,439
+>> Hej, hej.
+
+217
+00:04:05,439 --> 00:04:07,229
+>> Hej, hej.
+>> Áno, áno. Tranzurá oni tam len rýchlo
+
+218
+00:04:07,229 --> 00:04:07,239
+>> Áno, áno. Tranzurá oni tam len rýchlo
+
+219
+00:04:07,239 --> 00:04:10,429
+>> Áno, áno. Tranzurá oni tam len rýchlo
+pre pristrelia, nie? Eh, nejakú časticu.
+
+220
+00:04:10,429 --> 00:04:10,439
+pre pristrelia, nie? Eh, nejakú časticu.
+
+221
+00:04:10,439 --> 00:04:12,550
+pre pristrelia, nie? Eh, nejakú časticu.
+>> Áno, áno. Presne. A potom sa hádajú, že
+
+222
+00:04:12,550 --> 00:04:12,560
+>> Áno, áno. Presne. A potom sa hádajú, že
+
+223
+00:04:12,560 --> 00:04:14,270
+>> Áno, áno. Presne. A potom sa hádajú, že
+či to vôbec existovalo alebo sa to hneď
+
+224
+00:04:14,270 --> 00:04:14,280
+či to vôbec existovalo alebo sa to hneď
+
+225
+00:04:14,280 --> 00:04:14,910
+či to vôbec existovalo alebo sa to hneď
+rozpadlo.
+
+226
+00:04:14,910 --> 00:04:14,920
+rozpadlo.
+
+227
+00:04:14,920 --> 00:04:17,407
+rozpadlo.
+>> Inak to byť strašne smiešne toto, že
+
+228
+00:04:17,407 --> 00:04:17,417
+>> Inak to byť strašne smiešne toto, že
+
+229
+00:04:17,417 --> 00:04:19,110
+>> Inak to byť strašne smiešne toto, že
+[smiech]
+
+230
+00:04:19,110 --> 00:04:19,120
+[smiech]
+
+231
+00:04:19,120 --> 00:04:22,990
+[smiech]
+vydržalo to mikrosekundu. Ou.
+
+232
+00:04:22,990 --> 00:04:23,000
+vydržalo to mikrosekundu. Ou.
+
+233
+00:04:23,000 --> 00:04:24,870
+vydržalo to mikrosekundu. Ou.
+>> No vieš čo, mikrosekunda je dosť dlho.
+
+234
+00:04:24,870 --> 00:04:24,880
+>> No vieš čo, mikrosekunda je dosť dlho.
+
+235
+00:04:24,880 --> 00:04:27,150
+>> No vieš čo, mikrosekunda je dosť dlho.
+>> Hej. Hej. ak som to povedal, tak alebo
+
+236
+00:04:27,150 --> 00:04:27,160
+>> Hej. Hej. ak som to povedal, tak alebo
+
+237
+00:04:27,160 --> 00:04:29,350
+>> Hej. Hej. ak som to povedal, tak alebo
+nejakú pikosekundu alebo niečo, stotinu
+
+238
+00:04:29,350 --> 00:04:29,360
+nejakú pikosekundu alebo niečo, stotinu
+
+239
+00:04:29,360 --> 00:04:30,390
+nejakú pikosekundu alebo niečo, stotinu
+alebo niečo.
+
+240
+00:04:30,390 --> 00:04:30,400
+alebo niečo.
+
+241
+00:04:30,400 --> 00:04:33,270
+alebo niečo.
+>> No a ono je to tak, že máš v podstate
+
+242
+00:04:33,270 --> 00:04:33,280
+>> No a ono je to tak, že máš v podstate
+
+243
+00:04:33,280 --> 00:04:34,909
+>> No a ono je to tak, že máš v podstate
+atómové číslo, to ti hovorí, že koľko je
+
+244
+00:04:34,909 --> 00:04:34,919
+atómové číslo, to ti hovorí, že koľko je
+
+245
+00:04:34,919 --> 00:04:36,749
+atómové číslo, to ti hovorí, že koľko je
+v danom atóme protónov. Takže začína to
+
+246
+00:04:36,749 --> 00:04:36,759
+v danom atóme protónov. Takže začína to
+
+247
+00:04:36,759 --> 00:04:38,909
+v danom atóme protónov. Takže začína to
+pri vodíku, ten je najľahší, má jeden a
+
+248
+00:04:38,909 --> 00:04:38,919
+pri vodíku, ten je najľahší, má jeden a
+
+249
+00:04:38,919 --> 00:04:40,550
+pri vodíku, ten je najľahší, má jeden a
+končí to pri tých super ťažkých, ktorí
+
+250
+00:04:40,550 --> 00:04:40,560
+končí to pri tých super ťažkých, ktorí
+
+251
+00:04:40,560 --> 00:04:43,830
+končí to pri tých super ťažkých, ktorí
+majú neviem 120 cca. A potom tam máš
+
+252
+00:04:43,830 --> 00:04:43,840
+majú neviem 120 cca. A potom tam máš
+
+253
+00:04:43,840 --> 00:04:46,830
+majú neviem 120 cca. A potom tam máš
+rôzny počet neutrónov, ktorý je typický,
+
+254
+00:04:46,830 --> 00:04:46,840
+rôzny počet neutrónov, ktorý je typický,
+
+255
+00:04:46,840 --> 00:04:49,070
+rôzny počet neutrónov, ktorý je typický,
+že podobne veľa a pri tých ťažších je to
+
+256
+00:04:49,070 --> 00:04:49,080
+že podobne veľa a pri tých ťažších je to
+
+257
+00:04:49,080 --> 00:04:51,310
+že podobne veľa a pri tých ťažších je to
+už nie pomerne, ale je viacej tých
+
+258
+00:04:51,310 --> 00:04:51,320
+už nie pomerne, ale je viacej tých
+
+259
+00:04:51,320 --> 00:04:53,749
+už nie pomerne, ale je viacej tých
+neutrónov. V závislosti od toho, aký mix
+
+260
+00:04:53,749 --> 00:04:53,759
+neutrónov. V závislosti od toho, aký mix
+
+261
+00:04:53,759 --> 00:04:55,909
+neutrónov. V závislosti od toho, aký mix
+namiešaš, tak je to stabilné viac alebo
+
+262
+00:04:55,909 --> 00:04:55,919
+namiešaš, tak je to stabilné viac alebo
+
+263
+00:04:55,919 --> 00:04:58,430
+namiešaš, tak je to stabilné viac alebo
+menej. A v podstate, že veci, ktoré majú
+
+264
+00:04:58,430 --> 00:04:58,440
+menej. A v podstate, že veci, ktoré majú
+
+265
+00:04:58,440 --> 00:05:02,430
+menej. A v podstate, že veci, ktoré majú
+viac ako viac nukleónov ako nikel 62
+
+266
+00:05:02,430 --> 00:05:02,440
+viac ako viac nukleónov ako nikel 62
+
+267
+00:05:02,440 --> 00:05:04,629
+viac ako viac nukleónov ako nikel 62
+alebo približne majú viacej protónov,
+
+268
+00:05:04,629 --> 00:05:04,639
+alebo približne majú viacej protónov,
+
+269
+00:05:04,639 --> 00:05:07,029
+alebo približne majú viacej protónov,
+ako má železo, získavajú energiu tým, že
+
+270
+00:05:07,029 --> 00:05:07,039
+ako má železo, získavajú energiu tým, že
+
+271
+00:05:07,039 --> 00:05:08,830
+ako má železo, získavajú energiu tým, že
+sa rozpadávajú a tie ľahšie zase
+
+272
+00:05:08,830 --> 00:05:08,840
+sa rozpadávajú a tie ľahšie zase
+
+273
+00:05:08,840 --> 00:05:11,070
+sa rozpadávajú a tie ľahšie zase
+získavajú energiu tým, že sa spájajú.
+
+274
+00:05:11,070 --> 00:05:11,080
+získavajú energiu tým, že sa spájajú.
+
+275
+00:05:11,080 --> 00:05:13,629
+získavajú energiu tým, že sa spájajú.
+Takže úplne najstabilnejší prvok,
+
+276
+00:05:13,629 --> 00:05:13,639
+Takže úplne najstabilnejší prvok,
+
+277
+00:05:13,639 --> 00:05:15,830
+Takže úplne najstabilnejší prvok,
+najstabilnejší izotop zo všetkých je
+
+278
+00:05:15,830 --> 00:05:15,840
+najstabilnejší izotop zo všetkých je
+
+279
+00:05:15,840 --> 00:05:18,710
+najstabilnejší izotop zo všetkých je
+nikel 62. On má 28 protónov a 34
+
+280
+00:05:18,710 --> 00:05:18,720
+nikel 62. On má 28 protónov a 34
+
+281
+00:05:18,720 --> 00:05:19,749
+nikel 62. On má 28 protónov a 34
+neutrónov.
+
+282
+00:05:19,749 --> 00:05:19,759
+neutrónov.
+
+283
+00:05:19,759 --> 00:05:21,749
+neutrónov.
+>> Uhm. Takže menšie veci chcú byť ako
+
+284
+00:05:21,749 --> 00:05:21,759
+>> Uhm. Takže menšie veci chcú byť ako
+
+285
+00:05:21,759 --> 00:05:23,790
+>> Uhm. Takže menšie veci chcú byť ako
+nikel a chcú sa kvôli tomu spájať a
+
+286
+00:05:23,790 --> 00:05:23,800
+nikel a chcú sa kvôli tomu spájať a
+
+287
+00:05:23,800 --> 00:05:25,749
+nikel a chcú sa kvôli tomu spájať a
+väčšie veci sa chcú kvôli tomu rozpadať.
+
+288
+00:05:25,749 --> 00:05:25,759
+väčšie veci sa chcú kvôli tomu rozpadať.
+
+289
+00:05:25,759 --> 00:05:26,590
+väčšie veci sa chcú kvôli tomu rozpadať.
+>> Uhm.
+
+290
+00:05:26,590 --> 00:05:26,600
+>> Uhm.
+
+291
+00:05:26,600 --> 00:05:28,469
+>> Uhm.
+>> Toto si ľudia uvedomili pomerne rýchlo a
+
+292
+00:05:28,469 --> 00:05:28,479
+>> Toto si ľudia uvedomili pomerne rýchlo a
+
+293
+00:05:28,479 --> 00:05:30,230
+>> Toto si ľudia uvedomili pomerne rýchlo a
+že sú teda dve možnosti, ako žmykať
+
+294
+00:05:30,230 --> 00:05:30,240
+že sú teda dve možnosti, ako žmykať
+
+295
+00:05:30,240 --> 00:05:32,990
+že sú teda dve možnosti, ako žmykať
+obrovské množstvo energie rádovo
+
+296
+00:05:32,990 --> 00:05:33,000
+obrovské množstvo energie rádovo
+
+297
+00:05:33,000 --> 00:05:35,469
+obrovské množstvo energie rádovo
+miliónkrát ako miliónkrát viac ako pri
+
+298
+00:05:35,469 --> 00:05:35,479
+miliónkrát ako miliónkrát viac ako pri
+
+299
+00:05:35,479 --> 00:05:37,550
+miliónkrát ako miliónkrát viac ako pri
+bežných chemických reakciách. Že
+
+300
+00:05:37,550 --> 00:05:37,560
+bežných chemických reakciách. Že
+
+301
+00:05:37,560 --> 00:05:39,350
+bežných chemických reakciách. Že
+chemické reakcie sa udávajú v
+
+302
+00:05:39,350 --> 00:05:39,360
+chemické reakcie sa udávajú v
+
+303
+00:05:39,360 --> 00:05:41,790
+chemické reakcie sa udávajú v
+elektrontoch, to čo sa tam deje ako
+
+304
+00:05:41,790 --> 00:05:41,800
+elektrontoch, to čo sa tam deje ako
+
+305
+00:05:41,800 --> 00:05:43,629
+elektrontoch, to čo sa tam deje ako
+energetická jednotka a jadrové sa
+
+306
+00:05:43,629 --> 00:05:43,639
+energetická jednotka a jadrové sa
+
+307
+00:05:43,639 --> 00:05:46,270
+energetická jednotka a jadrové sa
+udávajú v miliónoch, v MEVoch.
+
+308
+00:05:46,270 --> 00:05:46,280
+udávajú v miliónoch, v MEVoch.
+
+309
+00:05:46,280 --> 00:05:48,629
+udávajú v miliónoch, v MEVoch.
+>> Mega elektron.
+
+310
+00:05:48,629 --> 00:05:48,639
+>> Mega elektron.
+
+311
+00:05:48,639 --> 00:05:51,430
+>> Mega elektron.
+No a hneď prišli dva nápady, že skúsme
+
+312
+00:05:51,430 --> 00:05:51,440
+No a hneď prišli dva nápady, že skúsme
+
+313
+00:05:51,440 --> 00:05:53,749
+No a hneď prišli dva nápady, že skúsme
+to zdola a zhora. Rozpadávať väčšie veci
+
+314
+00:05:53,749 --> 00:05:53,759
+to zdola a zhora. Rozpadávať väčšie veci
+
+315
+00:05:53,759 --> 00:05:56,029
+to zdola a zhora. Rozpadávať väčšie veci
+na ľahšie a spájať ľahšie veci naťažšie.
+
+316
+00:05:56,029 --> 00:05:56,039
+na ľahšie a spájať ľahšie veci naťažšie.
+
+317
+00:05:56,039 --> 00:05:57,950
+na ľahšie a spájať ľahšie veci naťažšie.
+A to štiepenie funguje veľmi dobre. V
+
+318
+00:05:57,950 --> 00:05:57,960
+A to štiepenie funguje veľmi dobre. V
+
+319
+00:05:57,960 --> 00:05:59,150
+A to štiepenie funguje veľmi dobre. V
+podstate zoberieš prvok, ktorý je
+
+320
+00:05:59,150 --> 00:05:59,160
+podstate zoberieš prvok, ktorý je
+
+321
+00:05:59,160 --> 00:06:01,909
+podstate zoberieš prvok, ktorý je
+pomerne stabilný, ale keď k nemu pridáš
+
+322
+00:06:01,909 --> 00:06:01,919
+pomerne stabilný, ale keď k nemu pridáš
+
+323
+00:06:01,919 --> 00:06:04,390
+pomerne stabilný, ale keď k nemu pridáš
+jeden neutrón, tak sa stane nestabilným.
+
+324
+00:06:04,390 --> 00:06:04,400
+jeden neutrón, tak sa stane nestabilným.
+
+325
+00:06:04,400 --> 00:06:06,990
+jeden neutrón, tak sa stane nestabilným.
+>> Vtedy sa rozpadne, uvoľní ďalší neutrón
+
+326
+00:06:06,990 --> 00:06:07,000
+>> Vtedy sa rozpadne, uvoľní ďalší neutrón
+
+327
+00:06:07,000 --> 00:06:08,909
+>> Vtedy sa rozpadne, uvoľní ďalší neutrón
+a ten pokračuje v reťazovej reakcii.
+
+328
+00:06:08,909 --> 00:06:08,919
+a ten pokračuje v reťazovej reakcii.
+
+329
+00:06:08,919 --> 00:06:11,309
+a ten pokračuje v reťazovej reakcii.
+Takže on rozpadne ďalší ďalší ďalší
+
+330
+00:06:11,309 --> 00:06:11,319
+Takže on rozpadne ďalší ďalší ďalší
+
+331
+00:06:11,319 --> 00:06:14,189
+Takže on rozpadne ďalší ďalší ďalší
+ďalší prvok alebo teda ďalšie jadro.
+
+332
+00:06:14,189 --> 00:06:14,199
+ďalší prvok alebo teda ďalšie jadro.
+
+333
+00:06:14,199 --> 00:06:15,870
+ďalší prvok alebo teda ďalšie jadro.
+>> A to je tá reťazová reakcia. Tomuto
+
+334
+00:06:15,870 --> 00:06:15,880
+>> A to je tá reťazová reakcia. Tomuto
+
+335
+00:06:15,880 --> 00:06:17,790
+>> A to je tá reťazová reakcia. Tomuto
+vieme pomôcť, nie? že na to strieľame
+
+336
+00:06:17,790 --> 00:06:17,800
+vieme pomôcť, nie? že na to strieľame
+
+337
+00:06:17,800 --> 00:06:18,870
+vieme pomôcť, nie? že na to strieľame
+asi nie alebo
+
+338
+00:06:18,870 --> 00:06:18,880
+asi nie alebo
+
+339
+00:06:18,880 --> 00:06:21,070
+asi nie alebo
+>> áno? Áno, že naštartuješ to tým vieš čo?
+
+340
+00:06:21,070 --> 00:06:21,080
+>> áno? Áno, že naštartuješ to tým vieš čo?
+
+341
+00:06:21,080 --> 00:06:22,830
+>> áno? Áno, že naštartuješ to tým vieš čo?
+Niekedy ani nemusíš, lebo ono sa to
+
+342
+00:06:22,830 --> 00:06:22,840
+Niekedy ani nemusíš, lebo ono sa to
+
+343
+00:06:22,840 --> 00:06:24,629
+Niekedy ani nemusíš, lebo ono sa to
+spontánne rozpadne samé, takže ten prvý
+
+344
+00:06:24,629 --> 00:06:24,639
+spontánne rozpadne samé, takže ten prvý
+
+345
+00:06:24,639 --> 00:06:26,270
+spontánne rozpadne samé, takže ten prvý
+neutrón tam dokonca môže prísť. Ale hej,
+
+346
+00:06:26,270 --> 00:06:26,280
+neutrón tam dokonca môže prísť. Ale hej,
+
+347
+00:06:26,280 --> 00:06:27,629
+neutrón tam dokonca môže prísť. Ale hej,
+môžeš tomu pomôcť bombardovaním,
+
+348
+00:06:27,629 --> 00:06:27,639
+môžeš tomu pomôcť bombardovaním,
+
+349
+00:06:27,639 --> 00:06:29,270
+môžeš tomu pomôcť bombardovaním,
+neutrónmi a a vieš to potom veľmi
+
+350
+00:06:29,270 --> 00:06:29,280
+neutrónmi a a vieš to potom veľmi
+
+351
+00:06:29,280 --> 00:06:30,710
+neutrónmi a a vieš to potom veľmi
+kontrolovať, že keď tie neutróny
+
+352
+00:06:30,710 --> 00:06:30,720
+kontrolovať, že keď tie neutróny
+
+353
+00:06:30,720 --> 00:06:32,589
+kontrolovať, že keď tie neutróny
+napríklad zachytávaš,
+
+354
+00:06:32,589 --> 00:06:32,599
+napríklad zachytávaš,
+
+355
+00:06:32,599 --> 00:06:35,749
+napríklad zachytávaš,
+>> tak reguluješ, ako veľmi dochádza k tej
+
+356
+00:06:35,749 --> 00:06:35,759
+>> tak reguluješ, ako veľmi dochádza k tej
+
+357
+00:06:35,759 --> 00:06:37,309
+>> tak reguluješ, ako veľmi dochádza k tej
+reťazovej reakcii. Hej?
+
+358
+00:06:37,309 --> 00:06:37,319
+reťazovej reakcii. Hej?
+
+359
+00:06:37,319 --> 00:06:39,070
+reťazovej reakcii. Hej?
+>> A toto je vlastne to, na základe čoho sa
+
+360
+00:06:39,070 --> 00:06:39,080
+>> A toto je vlastne to, na základe čoho sa
+
+361
+00:06:39,080 --> 00:06:41,189
+>> A toto je vlastne to, na základe čoho sa
+postavila prvá atómová bomba. A ešte
+
+362
+00:06:41,189 --> 00:06:41,199
+postavila prvá atómová bomba. A ešte
+
+363
+00:06:41,199 --> 00:06:43,670
+postavila prvá atómová bomba. A ešte
+predtým sme mali sme mali reaktory,
+
+364
+00:06:43,670 --> 00:06:43,680
+predtým sme mali sme mali reaktory,
+
+365
+00:06:43,680 --> 00:06:45,589
+predtým sme mali sme mali reaktory,
+ktoré sa potom neskôr s mierovým
+
+366
+00:06:45,589 --> 00:06:45,599
+ktoré sa potom neskôr s mierovým
+
+367
+00:06:45,599 --> 00:06:48,710
+ktoré sa potom neskôr s mierovým
+využitím veľmi rýchlo rozmohli a až na
+
+368
+00:06:48,710 --> 00:06:48,720
+využitím veľmi rýchlo rozmohli a až na
+
+369
+00:06:48,720 --> 00:06:50,629
+využitím veľmi rýchlo rozmohli a až na
+nejaký problém, ktorý vznikol v
+
+370
+00:06:50,629 --> 00:06:50,639
+nejaký problém, ktorý vznikol v
+
+371
+00:06:50,639 --> 00:06:53,270
+nejaký problém, ktorý vznikol v
+Černobyle, to funguje veľmi stabilne, že
+
+372
+00:06:53,270 --> 00:06:53,280
+Černobyle, to funguje veľmi stabilne, že
+
+373
+00:06:53,280 --> 00:06:56,110
+Černobyle, to funguje veľmi stabilne, že
+boli potom nejaké iné havárie, ale druhá
+
+374
+00:06:56,110 --> 00:06:56,120
+boli potom nejaké iné havárie, ale druhá
+
+375
+00:06:56,120 --> 00:06:58,430
+boli potom nejaké iné havárie, ale druhá
+najväčšia havária už mala nula až jednu
+
+376
+00:06:58,430 --> 00:06:58,440
+najväčšia havária už mala nula až jednu
+
+377
+00:06:58,440 --> 00:07:00,469
+najväčšia havária už mala nula až jednu
+obeť radiácie. Takže to štiepenie sa
+
+378
+00:07:00,469 --> 00:07:00,479
+obeť radiácie. Takže to štiepenie sa
+
+379
+00:07:00,479 --> 00:07:02,550
+obeť radiácie. Takže to štiepenie sa
+ukázalo ako super nápad. Štiepne
+
+380
+00:07:02,550 --> 00:07:02,560
+ukázalo ako super nápad. Štiepne
+
+381
+00:07:02,560 --> 00:07:04,990
+ukázalo ako super nápad. Štiepne
+reaktory dnes vyrábajú veľké množstvo
+
+382
+00:07:04,990 --> 00:07:05,000
+reaktory dnes vyrábajú veľké množstvo
+
+383
+00:07:05,000 --> 00:07:07,950
+reaktory dnes vyrábajú veľké množstvo
+energie na celom svete. Menej ako by sa
+
+384
+00:07:07,950 --> 00:07:07,960
+energie na celom svete. Menej ako by sa
+
+385
+00:07:07,960 --> 00:07:10,150
+energie na celom svete. Menej ako by sa
+patrilo podľa mňa, že keby to bolo 50%,
+
+386
+00:07:10,150 --> 00:07:10,160
+patrilo podľa mňa, že keby to bolo 50%,
+
+387
+00:07:10,160 --> 00:07:11,589
+patrilo podľa mňa, že keby to bolo 50%,
+tak by sa celému ľudstvo žilo oveľa
+
+388
+00:07:11,589 --> 00:07:11,599
+tak by sa celému ľudstvo žilo oveľa
+
+389
+00:07:11,599 --> 00:07:14,350
+tak by sa celému ľudstvo žilo oveľa
+lepšie. Majú taký háčik, samozrejme, že
+
+390
+00:07:14,350 --> 00:07:14,360
+lepšie. Majú taký háčik, samozrejme, že
+
+391
+00:07:14,360 --> 00:07:17,790
+lepšie. Majú taký háčik, samozrejme, že
+sú drahé na výrobu a sú veľké a trvá to.
+
+392
+00:07:17,790 --> 00:07:17,800
+sú drahé na výrobu a sú veľké a trvá to.
+
+393
+00:07:17,800 --> 00:07:19,790
+sú drahé na výrobu a sú veľké a trvá to.
+Eh, v Európe to trvá dajme tomu 20
+
+394
+00:07:19,790 --> 00:07:19,800
+Eh, v Európe to trvá dajme tomu 20
+
+395
+00:07:19,800 --> 00:07:21,950
+Eh, v Európe to trvá dajme tomu 20
+rokov, v Číne menej ako 10 urobiť
+
+396
+00:07:21,950 --> 00:07:21,960
+rokov, v Číne menej ako 10 urobiť
+
+397
+00:07:21,960 --> 00:07:25,029
+rokov, v Číne menej ako 10 urobiť
+jadrovú elektráreň, ale stále dá sa to,
+
+398
+00:07:25,029 --> 00:07:25,039
+jadrovú elektráreň, ale stále dá sa to,
+
+399
+00:07:25,039 --> 00:07:26,510
+jadrovú elektráreň, ale stále dá sa to,
+stojí to peniaze a vyrába to potom
+
+400
+00:07:26,510 --> 00:07:26,520
+stojí to peniaze a vyrába to potom
+
+401
+00:07:26,520 --> 00:07:28,589
+stojí to peniaze a vyrába to potom
+stabilne veľké množstvo energie. No a
+
+402
+00:07:28,589 --> 00:07:28,599
+stabilne veľké množstvo energie. No a
+
+403
+00:07:28,599 --> 00:07:31,469
+stabilne veľké množstvo energie. No a
+toto je to štiepenie. Tá fúzia je v
+
+404
+00:07:31,469 --> 00:07:31,479
+toto je to štiepenie. Tá fúzia je v
+
+405
+00:07:31,479 --> 00:07:32,990
+toto je to štiepenie. Tá fúzia je v
+podstate opačný proces. Zoberieš dve
+
+406
+00:07:32,990 --> 00:07:33,000
+podstate opačný proces. Zoberieš dve
+
+407
+00:07:33,000 --> 00:07:35,110
+podstate opačný proces. Zoberieš dve
+ľahké veci a spojíš ich dokopy. To má
+
+408
+00:07:35,110 --> 00:07:35,120
+ľahké veci a spojíš ich dokopy. To má
+
+409
+00:07:35,120 --> 00:07:37,909
+ľahké veci a spojíš ich dokopy. To má
+hneď háčik. Eh, tie veci, ktoré ideš
+
+410
+00:07:37,909 --> 00:07:37,919
+hneď háčik. Eh, tie veci, ktoré ideš
+
+411
+00:07:37,919 --> 00:07:40,029
+hneď háčik. Eh, tie veci, ktoré ideš
+spájať, atómové jadrá majú rovnaký
+
+412
+00:07:40,029 --> 00:07:40,039
+spájať, atómové jadrá majú rovnaký
+
+413
+00:07:40,039 --> 00:07:41,629
+spájať, atómové jadrá majú rovnaký
+elektrický náboj a to znamená, že sa
+
+414
+00:07:41,629 --> 00:07:41,639
+elektrický náboj a to znamená, že sa
+
+415
+00:07:41,639 --> 00:07:43,749
+elektrický náboj a to znamená, že sa
+odpudzujú. Takže na to, aby si ich
+
+416
+00:07:43,749 --> 00:07:43,759
+odpudzujú. Takže na to, aby si ich
+
+417
+00:07:43,759 --> 00:07:45,550
+odpudzujú. Takže na to, aby si ich
+spojil, tak musíš byť veľmi presvedčivý,
+
+418
+00:07:45,550 --> 00:07:45,560
+spojil, tak musíš byť veľmi presvedčivý,
+
+419
+00:07:45,560 --> 00:07:47,749
+spojil, tak musíš byť veľmi presvedčivý,
+aby si ich stlačil. Jedna možnosť je, že
+
+420
+00:07:47,749 --> 00:07:47,759
+aby si ich stlačil. Jedna možnosť je, že
+
+421
+00:07:47,759 --> 00:07:50,110
+aby si ich stlačil. Jedna možnosť je, že
+to budeš jednoducho o seba strieľať, že
+
+422
+00:07:50,110 --> 00:07:50,120
+to budeš jednoducho o seba strieľať, že
+
+423
+00:07:50,120 --> 00:07:52,830
+to budeš jednoducho o seba strieľať, že
+zoberieš proste dva vodíky alebo nejaké
+
+424
+00:07:52,830 --> 00:07:52,840
+zoberieš proste dva vodíky alebo nejaké
+
+425
+00:07:52,840 --> 00:07:54,589
+zoberieš proste dva vodíky alebo nejaké
+izotopy vodíka, napríklad eutérium a
+
+426
+00:07:54,589 --> 00:07:54,599
+izotopy vodíka, napríklad eutérium a
+
+427
+00:07:54,599 --> 00:07:56,270
+izotopy vodíka, napríklad eutérium a
+budeš ich proste o seba strieľať
+
+428
+00:07:56,270 --> 00:07:56,280
+budeš ich proste o seba strieľať
+
+429
+00:07:56,280 --> 00:07:58,189
+budeš ich proste o seba strieľať
+obrovskými rýchlosťami a oni sa semtam
+
+430
+00:07:58,189 --> 00:07:58,199
+obrovskými rýchlosťami a oni sa semtam
+
+431
+00:07:58,199 --> 00:08:00,309
+obrovskými rýchlosťami a oni sa semtam
+zrazia. A toto sa ukázalo, že v podstate
+
+432
+00:08:00,309 --> 00:08:00,319
+zrazia. A toto sa ukázalo, že v podstate
+
+433
+00:08:00,319 --> 00:08:02,670
+zrazia. A toto sa ukázalo, že v podstate
+ti stačí na fúziu, že zoberieš
+
+434
+00:08:02,670 --> 00:08:02,680
+ti stačí na fúziu, že zoberieš
+
+435
+00:08:02,680 --> 00:08:04,589
+ti stačí na fúziu, že zoberieš
+deutérium, to je izotop vodíka, ktorý sa
+
+436
+00:08:04,589 --> 00:08:04,599
+deutérium, to je izotop vodíka, ktorý sa
+
+437
+00:08:04,599 --> 00:08:07,149
+deutérium, to je izotop vodíka, ktorý sa
+nachádza v mori napríklad, strieľaš ich
+
+438
+00:08:07,149 --> 00:08:07,159
+nachádza v mori napríklad, strieľaš ich
+
+439
+00:08:07,159 --> 00:08:08,950
+nachádza v mori napríklad, strieľaš ich
+o seba a problém je, že väčšinou sa ti
+
+440
+00:08:08,950 --> 00:08:08,960
+o seba a problém je, že väčšinou sa ti
+
+441
+00:08:08,960 --> 00:08:12,029
+o seba a problém je, že väčšinou sa ti
+to odrazí, eh, že nejaké nejaký malý
+
+442
+00:08:12,029 --> 00:08:12,039
+to odrazí, eh, že nejaké nejaký malý
+
+443
+00:08:12,039 --> 00:08:13,790
+to odrazí, eh, že nejaké nejaký malý
+zlomok prejde fúznou reakciou, ale
+
+444
+00:08:13,790 --> 00:08:13,800
+zlomok prejde fúznou reakciou, ale
+
+445
+00:08:13,800 --> 00:08:15,189
+zlomok prejde fúznou reakciou, ale
+väčšinou sa to jednoducho odrazí kvôli
+
+446
+00:08:15,189 --> 00:08:15,199
+väčšinou sa to jednoducho odrazí kvôli
+
+447
+00:08:15,199 --> 00:08:17,270
+väčšinou sa to jednoducho odrazí kvôli
+tomu náboju eh, ktorý to má.
+
+448
+00:08:17,270 --> 00:08:17,280
+tomu náboju eh, ktorý to má.
+
+449
+00:08:17,280 --> 00:08:18,869
+tomu náboju eh, ktorý to má.
+>> Ale naozaj, že pomerne rýchlo si ľudia
+
+450
+00:08:18,869 --> 00:08:18,879
+>> Ale naozaj, že pomerne rýchlo si ľudia
+
+451
+00:08:18,879 --> 00:08:21,710
+>> Ale naozaj, že pomerne rýchlo si ľudia
+uvedomili, že toto by sa malo dať. A to,
+
+452
+00:08:21,710 --> 00:08:21,720
+uvedomili, že toto by sa malo dať. A to,
+
+453
+00:08:21,720 --> 00:08:24,869
+uvedomili, že toto by sa malo dať. A to,
+že fúzia existuje, vlastne prišlo s
+
+454
+00:08:24,869 --> 00:08:24,879
+že fúzia existuje, vlastne prišlo s
+
+455
+00:08:24,879 --> 00:08:27,749
+že fúzia existuje, vlastne prišlo s
+poznaním S= MC² a teda tou skutočnosťou,
+
+456
+00:08:27,749 --> 00:08:27,759
+poznaním S= MC² a teda tou skutočnosťou,
+
+457
+00:08:27,759 --> 00:08:30,469
+poznaním S= MC² a teda tou skutočnosťou,
+že keď spojíš dokopy dve deutéria, tak
+
+458
+00:08:30,469 --> 00:08:30,479
+že keď spojíš dokopy dve deutéria, tak
+
+459
+00:08:30,479 --> 00:08:33,110
+že keď spojíš dokopy dve deutéria, tak
+to váži inak ako výsledné hélium. A toto
+
+460
+00:08:33,110 --> 00:08:33,120
+to váži inak ako výsledné hélium. A toto
+
+461
+00:08:33,120 --> 00:08:35,829
+to váži inak ako výsledné hélium. A toto
+bolo zmerané v ru musíme spraviť eh
+
+462
+00:08:35,829 --> 00:08:35,839
+bolo zmerané v ru musíme spraviť eh
+
+463
+00:08:35,839 --> 00:08:39,990
+bolo zmerané v ru musíme spraviť eh
+epizódu o tom, ako sa vážia molekuly a
+
+464
+00:08:39,990 --> 00:08:40,000
+epizódu o tom, ako sa vážia molekuly a
+
+465
+00:08:40,000 --> 00:08:41,870
+epizódu o tom, ako sa vážia molekuly a
+tak ďalej, lebo to, lebo ty to tak
+
+466
+00:08:41,870 --> 00:08:41,880
+tak ďalej, lebo to, lebo ty to tak
+
+467
+00:08:41,880 --> 00:08:43,829
+tak ďalej, lebo to, lebo ty to tak
+ošalne povieš, no veď keď odvážiš,
+
+468
+00:08:43,829 --> 00:08:43,839
+ošalne povieš, no veď keď odvážiš,
+
+469
+00:08:43,839 --> 00:08:45,070
+ošalne povieš, no veď keď odvážiš,
+proste deutériu vieš.
+
+470
+00:08:45,070 --> 00:08:45,080
+proste deutériu vieš.
+
+471
+00:08:45,080 --> 00:08:46,269
+proste deutériu vieš.
+>> No ináč skús tipnúť, že kedy to
+
+472
+00:08:46,269 --> 00:08:46,279
+>> No ináč skús tipnúť, že kedy to
+
+473
+00:08:46,279 --> 00:08:48,190
+>> No ináč skús tipnúť, že kedy to
+odvážili. V ktorom roku?
+
+474
+00:08:48,190 --> 00:08:48,200
+odvážili. V ktorom roku?
+
+475
+00:08:48,200 --> 00:08:51,670
+odvážili. V ktorom roku?
+>> Začiatkom 20. storočia. 1902. Tak nejako
+
+476
+00:08:51,670 --> 00:08:51,680
+>> Začiatkom 20. storočia. 1902. Tak nejako
+
+477
+00:08:51,680 --> 00:08:53,509
+>> Začiatkom 20. storočia. 1902. Tak nejako
+>> dobre si trafil, že začiatok 20.
+
+478
+00:08:53,509 --> 00:08:53,519
+>> dobre si trafil, že začiatok 20.
+
+479
+00:08:53,519 --> 00:08:55,350
+>> dobre si trafil, že začiatok 20.
+storočia 1919.
+
+480
+00:08:55,350 --> 00:08:55,360
+storočia 1919.
+
+481
+00:08:55,360 --> 00:08:59,550
+storočia 1919.
+>> 19. Hm. Lebo tak som to predpokladal, že
+
+482
+00:08:59,550 --> 00:08:59,560
+>> 19. Hm. Lebo tak som to predpokladal, že
+
+483
+00:08:59,560 --> 00:09:00,790
+>> 19. Hm. Lebo tak som to predpokladal, že
+keď sa e sa rovná,
+
+484
+00:09:00,790 --> 00:09:00,800
+keď sa e sa rovná,
+
+485
+00:09:00,800 --> 00:09:02,350
+keď sa e sa rovná,
+>> hej, že okolo, tak okolo druhej
+
+486
+00:09:02,350 --> 00:09:02,360
+>> hej, že okolo, tak okolo druhej
+
+487
+00:09:02,360 --> 00:09:04,630
+>> hej, že okolo, tak okolo druhej
+svetovej, keď už sa to využilo.
+
+488
+00:09:04,630 --> 00:09:04,640
+svetovej, keď už sa to využilo.
+
+489
+00:09:04,640 --> 00:09:07,710
+svetovej, keď už sa to využilo.
+>> V podstate 1915 ten prvotný nápad
+
+490
+00:09:07,710 --> 00:09:07,720
+>> V podstate 1915 ten prvotný nápad
+
+491
+00:09:07,720 --> 00:09:09,430
+>> V podstate 1915 ten prvotný nápad
+prišiel od chemika Williama Drapera
+
+492
+00:09:09,430 --> 00:09:09,440
+prišiel od chemika Williama Drapera
+
+493
+00:09:09,440 --> 00:09:13,430
+prišiel od chemika Williama Drapera
+Herksa a 1000 o štyri roky neskôr 1919
+
+494
+00:09:13,430 --> 00:09:13,440
+Herksa a 1000 o štyri roky neskôr 1919
+
+495
+00:09:13,440 --> 00:09:16,269
+Herksa a 1000 o štyri roky neskôr 1919
+zmerali, že naozaj keď spojíš vodíky
+
+496
+00:09:16,269 --> 00:09:16,279
+zmerali, že naozaj keď spojíš vodíky
+
+497
+00:09:16,279 --> 00:09:18,110
+zmerali, že naozaj keď spojíš vodíky
+tak, aby si dostal hélium, tak tam bude
+
+498
+00:09:18,110 --> 00:09:18,120
+tak, aby si dostal hélium, tak tam bude
+
+499
+00:09:18,120 --> 00:09:20,430
+tak, aby si dostal hélium, tak tam bude
+rozdiel hmotnosti. A keď si prepočítaš,
+
+500
+00:09:20,430 --> 00:09:20,440
+rozdiel hmotnosti. A keď si prepočítaš,
+
+501
+00:09:20,440 --> 00:09:22,030
+rozdiel hmotnosti. A keď si prepočítaš,
+koľko hmotností sa stratilo, tak podľa
+
+502
+00:09:22,030 --> 00:09:22,040
+koľko hmotností sa stratilo, tak podľa
+
+503
+00:09:22,040 --> 00:09:25,110
+koľko hmotností sa stratilo, tak podľa
+vzorca S= MC², to je tá získaná energia.
+
+504
+00:09:25,110 --> 00:09:25,120
+vzorca S= MC², to je tá získaná energia.
+
+505
+00:09:25,120 --> 00:09:26,870
+vzorca S= MC², to je tá získaná energia.
+Čiže tie veci sa spoja a vyletia potom
+
+506
+00:09:26,870 --> 00:09:26,880
+Čiže tie veci sa spoja a vyletia potom
+
+507
+00:09:26,880 --> 00:09:28,949
+Čiže tie veci sa spoja a vyletia potom
+obrovskými rýchlosťami nejaké iné veci,
+
+508
+00:09:28,949 --> 00:09:28,959
+obrovskými rýchlosťami nejaké iné veci,
+
+509
+00:09:28,959 --> 00:09:30,670
+obrovskými rýchlosťami nejaké iné veci,
+ktoré pri rozpade vzniknú, že tam sa
+
+510
+00:09:30,670 --> 00:09:30,680
+ktoré pri rozpade vzniknú, že tam sa
+
+511
+00:09:30,680 --> 00:09:33,310
+ktoré pri rozpade vzniknú, že tam sa
+niečo ešte vyfrkne von. Hneď sa k tomu
+
+512
+00:09:33,310 --> 00:09:33,320
+niečo ešte vyfrkne von. Hneď sa k tomu
+
+513
+00:09:33,320 --> 00:09:35,590
+niečo ešte vyfrkne von. Hneď sa k tomu
+dostaneme, že aké sú možnosti. A 1920
+
+514
+00:09:35,590 --> 00:09:35,600
+dostaneme, že aké sú možnosti. A 1920
+
+515
+00:09:35,600 --> 00:09:38,030
+dostaneme, že aké sú možnosti. A 1920
+Arthur Edington správne usúdil, že no
+
+516
+00:09:38,030 --> 00:09:38,040
+Arthur Edington správne usúdil, že no
+
+517
+00:09:38,040 --> 00:09:39,630
+Arthur Edington správne usúdil, že no
+tak keď sa pozrieme na slnko, tak slnko
+
+518
+00:09:39,630 --> 00:09:39,640
+tak keď sa pozrieme na slnko, tak slnko
+
+519
+00:09:39,640 --> 00:09:41,910
+tak keď sa pozrieme na slnko, tak slnko
+je plné vodíka hellia, tak toto vyzerá
+
+520
+00:09:41,910 --> 00:09:41,920
+je plné vodíka hellia, tak toto vyzerá
+
+521
+00:09:41,920 --> 00:09:44,310
+je plné vodíka hellia, tak toto vyzerá
+ako celkom dobrý zdroj energie. Veď
+
+522
+00:09:44,310 --> 00:09:44,320
+ako celkom dobrý zdroj energie. Veď
+
+523
+00:09:44,320 --> 00:09:46,030
+ako celkom dobrý zdroj energie. Veď
+najprv si mysleli, že slnko je horúce
+
+524
+00:09:46,030 --> 00:09:46,040
+najprv si mysleli, že slnko je horúce
+
+525
+00:09:46,040 --> 00:09:47,870
+najprv si mysleli, že slnko je horúce
+len kvôli tomu, že ako iné plyny, ktoré
+
+526
+00:09:47,870 --> 00:09:47,880
+len kvôli tomu, že ako iné plyny, ktoré
+
+527
+00:09:47,880 --> 00:09:49,430
+len kvôli tomu, že ako iné plyny, ktoré
+sa stláčajú, takže proste slnko sa
+
+528
+00:09:49,430 --> 00:09:49,440
+sa stláčajú, takže proste slnko sa
+
+529
+00:09:49,440 --> 00:09:51,829
+sa stláčajú, takže proste slnko sa
+gravitáciou stlačilo a tým sa zohrialo.
+
+530
+00:09:51,829 --> 00:09:51,839
+gravitáciou stlačilo a tým sa zohrialo.
+
+531
+00:09:51,839 --> 00:09:54,030
+gravitáciou stlačilo a tým sa zohrialo.
+>> Uhm. A ak sa nemýlim, Lord Kvin
+
+532
+00:09:54,030 --> 00:09:54,040
+>> Uhm. A ak sa nemýlim, Lord Kvin
+
+533
+00:09:54,040 --> 00:09:56,710
+>> Uhm. A ak sa nemýlim, Lord Kvin
+spočítal, koľko by muselo, aké by mohlo
+
+534
+00:09:56,710 --> 00:09:56,720
+spočítal, koľko by muselo, aké by mohlo
+
+535
+00:09:56,720 --> 00:09:58,590
+spočítal, koľko by muselo, aké by mohlo
+byť slnko staré na základe takéhoto
+
+536
+00:09:58,590 --> 00:09:58,600
+byť slnko staré na základe takéhoto
+
+537
+00:09:58,600 --> 00:10:00,710
+byť slnko staré na základe takéhoto
+mechanizmu a zistili, že slnko by
+
+538
+00:10:00,710 --> 00:10:00,720
+mechanizmu a zistili, že slnko by
+
+539
+00:10:00,720 --> 00:10:02,310
+mechanizmu a zistili, že slnko by
+nemohlo byť staršie ako 20 miliónov
+
+540
+00:10:02,310 --> 00:10:02,320
+nemohlo byť staršie ako 20 miliónov
+
+541
+00:10:02,320 --> 00:10:03,710
+nemohlo byť staršie ako 20 miliónov
+rokov.
+
+542
+00:10:03,710 --> 00:10:03,720
+rokov.
+
+543
+00:10:03,720 --> 00:10:05,949
+rokov.
+>> Čo je celkom problém, keď sa hej keď sa
+
+544
+00:10:05,949 --> 00:10:05,959
+>> Čo je celkom problém, keď sa hej keď sa
+
+545
+00:10:05,959 --> 00:10:06,990
+>> Čo je celkom problém, keď sa hej keď sa
+pozrieš, že
+
+546
+00:10:06,990 --> 00:10:07,000
+pozrieš, že
+
+547
+00:10:07,000 --> 00:10:09,230
+pozrieš, že
+>> kedy vznikali ja neviem, rôzne pohoria a
+
+548
+00:10:09,230 --> 00:10:09,240
+>> kedy vznikali ja neviem, rôzne pohoria a
+
+549
+00:10:09,240 --> 00:10:10,750
+>> kedy vznikali ja neviem, rôzne pohoria a
+podobne. Takže vedeli, že to nie je, že
+
+550
+00:10:10,750 --> 00:10:10,760
+podobne. Takže vedeli, že to nie je, že
+
+551
+00:10:10,760 --> 00:10:13,030
+podobne. Takže vedeli, že to nie je, že
+tam musí byť nejaký ďalší zdroj energie.
+
+552
+00:10:13,030 --> 00:10:13,040
+tam musí byť nejaký ďalší zdroj energie.
+
+553
+00:10:13,040 --> 00:10:15,230
+tam musí byť nejaký ďalší zdroj energie.
+A teda 1920 Arthur Redington navrhol, že
+
+554
+00:10:15,230 --> 00:10:15,240
+A teda 1920 Arthur Redington navrhol, že
+
+555
+00:10:15,240 --> 00:10:17,949
+A teda 1920 Arthur Redington navrhol, že
+či to nebude tá jadrová fúzia
+
+556
+00:10:17,949 --> 00:10:17,959
+či to nebude tá jadrová fúzia
+
+557
+00:10:17,959 --> 00:10:19,350
+či to nebude tá jadrová fúzia
+>> jednoducho, čo sa tam spájajú.
+
+558
+00:10:19,350 --> 00:10:19,360
+>> jednoducho, čo sa tam spájajú.
+
+559
+00:10:19,360 --> 00:10:23,269
+>> jednoducho, čo sa tam spájajú.
+>> To je ďalšie. Eh, on vypočítal hmotnosť
+
+560
+00:10:23,269 --> 00:10:23,279
+>> To je ďalšie. Eh, on vypočítal hmotnosť
+
+561
+00:10:23,279 --> 00:10:26,750
+>> To je ďalšie. Eh, on vypočítal hmotnosť
+slnka v 19. storočí proste, a že aké by
+
+562
+00:10:26,750 --> 00:10:26,760
+slnka v 19. storočí proste, a že aké by
+
+563
+00:10:26,760 --> 00:10:28,870
+slnka v 19. storočí proste, a že aké by
+bolo staré, keby fungoval ten efekt.
+
+564
+00:10:28,870 --> 00:10:28,880
+bolo staré, keby fungoval ten efekt.
+
+565
+00:10:28,880 --> 00:10:30,949
+bolo staré, keby fungoval ten efekt.
+Vau, to je uhm
+
+566
+00:10:30,949 --> 00:10:30,959
+Vau, to je uhm
+
+567
+00:10:30,959 --> 00:10:33,509
+Vau, to je uhm
+>> A podobne aj odhadol, eh, aká stará môže
+
+568
+00:10:33,509 --> 00:10:33,519
+>> A podobne aj odhadol, eh, aká stará môže
+
+569
+00:10:33,519 --> 00:10:35,030
+>> A podobne aj odhadol, eh, aká stará môže
+byť zem na základe toho, ako rýchlo
+
+570
+00:10:35,030 --> 00:10:35,040
+byť zem na základe toho, ako rýchlo
+
+571
+00:10:35,040 --> 00:10:38,030
+byť zem na základe toho, ako rýchlo
+chladne sáaním do vesmíru a tiež zistil,
+
+572
+00:10:38,030 --> 00:10:38,040
+chladne sáaním do vesmíru a tiež zistil,
+
+573
+00:10:38,040 --> 00:10:40,030
+chladne sáaním do vesmíru a tiež zistil,
+že to nesedí a tiež vieme, že odpoveď
+
+574
+00:10:40,030 --> 00:10:40,040
+že to nesedí a tiež vieme, že odpoveď
+
+575
+00:10:40,040 --> 00:10:41,590
+že to nesedí a tiež vieme, že odpoveď
+je, že v zemi zase prebieha jadrové
+
+576
+00:10:41,590 --> 00:10:41,600
+je, že v zemi zase prebieha jadrové
+
+577
+00:10:41,600 --> 00:10:43,430
+je, že v zemi zase prebieha jadrové
+štiepenie, ktoré tú zem ohrieva.
+
+578
+00:10:43,430 --> 00:10:43,440
+štiepenie, ktoré tú zem ohrieva.
+
+579
+00:10:43,440 --> 00:10:44,710
+štiepenie, ktoré tú zem ohrieva.
+>> Uhm.
+
+580
+00:10:44,710 --> 00:10:44,720
+>> Uhm.
+
+581
+00:10:44,720 --> 00:10:44,949
+>> Uhm.
+>> A
+
+582
+00:10:44,949 --> 00:10:44,959
+>> A
+
+583
+00:10:44,959 --> 00:10:46,990
+>> A
+>> prepáč, ale strašne mi to zaujímavé, že
+
+584
+00:10:46,990 --> 00:10:47,000
+>> prepáč, ale strašne mi to zaujímavé, že
+
+585
+00:10:47,000 --> 00:10:49,230
+>> prepáč, ale strašne mi to zaujímavé, že
+>> je to brutálne neby toho jadrového
+
+586
+00:10:49,230 --> 00:10:49,240
+>> je to brutálne neby toho jadrového
+
+587
+00:10:49,240 --> 00:10:50,590
+>> je to brutálne neby toho jadrového
+štiepenia.
+
+588
+00:10:50,590 --> 00:10:50,600
+štiepenia.
+
+589
+00:10:50,600 --> 00:10:52,910
+štiepenia.
+ani nemal kebyť jadrového štiepenia, tak
+
+590
+00:10:52,910 --> 00:10:52,920
+ani nemal kebyť jadrového štiepenia, tak
+
+591
+00:10:52,920 --> 00:10:55,870
+ani nemal kebyť jadrového štiepenia, tak
+nám už vymrzla zem a vlastne to jadrové
+
+592
+00:10:55,870 --> 00:10:55,880
+nám už vymrzla zem a vlastne to jadrové
+
+593
+00:10:55,880 --> 00:10:59,190
+nám už vymrzla zem a vlastne to jadrové
+štiepenie je to, čo poháňa pohyb
+
+594
+00:10:59,190 --> 00:10:59,200
+štiepenie je to, čo poháňa pohyb
+
+595
+00:10:59,200 --> 00:11:00,949
+štiepenie je to, čo poháňa pohyb
+litosférických dosiek a vlastne toho, že
+
+596
+00:11:00,949 --> 00:11:00,959
+litosférických dosiek a vlastne toho, že
+
+597
+00:11:00,959 --> 00:11:02,710
+litosférických dosiek a vlastne toho, že
+je naša zem vyhrievaná a tak ďalej.
+
+598
+00:11:02,710 --> 00:11:02,720
+je naša zem vyhrievaná a tak ďalej.
+
+599
+00:11:02,720 --> 00:11:04,829
+je naša zem vyhrievaná a tak ďalej.
+Takže my máme vlastne zemegula fiči na
+
+600
+00:11:04,829 --> 00:11:04,839
+Takže my máme vlastne zemegula fiči na
+
+601
+00:11:04,839 --> 00:11:06,829
+Takže my máme vlastne zemegula fiči na
+jadrový pohon.
+
+602
+00:11:06,829 --> 00:11:06,839
+jadrový pohon.
+
+603
+00:11:06,839 --> 00:11:09,110
+jadrový pohon.
+>> No každopádne Edington Eddington trafil,
+
+604
+00:11:09,110 --> 00:11:09,120
+>> No každopádne Edington Eddington trafil,
+
+605
+00:11:09,120 --> 00:11:11,150
+>> No každopádne Edington Eddington trafil,
+že o čo ide. A teda vedeli, že jedna
+
+606
+00:11:11,150 --> 00:11:11,160
+že o čo ide. A teda vedeli, že jedna
+
+607
+00:11:11,160 --> 00:11:12,949
+že o čo ide. A teda vedeli, že jedna
+jedna z tých podmienok, aby si stlačil
+
+608
+00:11:12,949 --> 00:11:12,959
+jedna z tých podmienok, aby si stlačil
+
+609
+00:11:12,959 --> 00:11:14,670
+jedna z tých podmienok, aby si stlačil
+tie odpudzujúce sa jadrá, aby prebehla
+
+610
+00:11:14,670 --> 00:11:14,680
+tie odpudzujúce sa jadrá, aby prebehla
+
+611
+00:11:14,680 --> 00:11:17,350
+tie odpudzujúce sa jadrá, aby prebehla
+fúzia, je ten obrovský tlak, čo v vo
+
+612
+00:11:17,350 --> 00:11:17,360
+fúzia, je ten obrovský tlak, čo v vo
+
+613
+00:11:17,360 --> 00:11:20,030
+fúzia, je ten obrovský tlak, čo v vo
+vnútri hviezd v princípe môže sedieť.
+
+614
+00:11:20,030 --> 00:11:20,040
+vnútri hviezd v princípe môže sedieť.
+
+615
+00:11:20,040 --> 00:11:22,350
+vnútri hviezd v princípe môže sedieť.
+Ale stále to úplne nesedelo, že keď si
+
+616
+00:11:22,350 --> 00:11:22,360
+Ale stále to úplne nesedelo, že keď si
+
+617
+00:11:22,360 --> 00:11:24,310
+Ale stále to úplne nesedelo, že keď si
+si spočítal, aká teplota by niekde
+
+618
+00:11:24,310 --> 00:11:24,320
+si spočítal, aká teplota by niekde
+
+619
+00:11:24,320 --> 00:11:26,110
+si spočítal, aká teplota by niekde
+musela byť na to, aby prebehla fúzia,
+
+620
+00:11:26,110 --> 00:11:26,120
+musela byť na to, aby prebehla fúzia,
+
+621
+00:11:26,120 --> 00:11:28,470
+musela byť na to, aby prebehla fúzia,
+tak to vychádzalo na úrovni miliárd
+
+622
+00:11:28,470 --> 00:11:28,480
+tak to vychádzalo na úrovni miliárd
+
+623
+00:11:28,480 --> 00:11:30,670
+tak to vychádzalo na úrovni miliárd
+stupňov cel alebo kelvinov.
+
+624
+00:11:30,670 --> 00:11:30,680
+stupňov cel alebo kelvinov.
+
+625
+00:11:30,680 --> 00:11:33,030
+stupňov cel alebo kelvinov.
+>> A to sa to na slnko vyzerá trochu veľa.
+
+626
+00:11:33,030 --> 00:11:33,040
+>> A to sa to na slnko vyzerá trochu veľa.
+
+627
+00:11:33,040 --> 00:11:35,790
+>> A to sa to na slnko vyzerá trochu veľa.
+Ono má na povrchu 1000°C.
+
+628
+00:11:35,790 --> 00:11:35,800
+Ono má na povrchu 1000°C.
+
+629
+00:11:35,800 --> 00:11:37,509
+Ono má na povrchu 1000°C.
+Vjader je horúcejší, ale že by tam malo
+
+630
+00:11:37,509 --> 00:11:37,519
+Vjader je horúcejší, ale že by tam malo
+
+631
+00:11:37,519 --> 00:11:40,030
+Vjader je horúcejší, ale že by tam malo
+mať miliardu, to bolo dosť podozrivé.
+
+632
+00:11:40,030 --> 00:11:40,040
+mať miliardu, to bolo dosť podozrivé.
+
+633
+00:11:40,040 --> 00:11:43,269
+mať miliardu, to bolo dosť podozrivé.
+>> A kľúčové zistenie priniesol v roku 1927
+
+634
+00:11:43,269 --> 00:11:43,279
+>> A kľúčové zistenie priniesol v roku 1927
+
+635
+00:11:43,279 --> 00:11:46,350
+>> A kľúčové zistenie priniesol v roku 1927
+Friedrich Hund. On v podstate objavil eh
+
+636
+00:11:46,350 --> 00:11:46,360
+Friedrich Hund. On v podstate objavil eh
+
+637
+00:11:46,360 --> 00:11:47,990
+Friedrich Hund. On v podstate objavil eh
+kvantové tunelovanie. Kvantové
+
+638
+00:11:47,990 --> 00:11:48,000
+kvantové tunelovanie. Kvantové
+
+639
+00:11:48,000 --> 00:11:50,190
+kvantové tunelovanie. Kvantové
+tunelovanie v podstate znamená, že
+
+640
+00:11:50,190 --> 00:11:50,200
+tunelovanie v podstate znamená, že
+
+641
+00:11:50,200 --> 00:11:52,590
+tunelovanie v podstate znamená, že
+elektrón alebo iné mikroskopické častice
+
+642
+00:11:52,590 --> 00:11:52,600
+elektrón alebo iné mikroskopické častice
+
+643
+00:11:52,600 --> 00:11:54,870
+elektrón alebo iné mikroskopické častice
+vedia občas zapodvádzať. Ocitnú sa na
+
+644
+00:11:54,870 --> 00:11:54,880
+vedia občas zapodvádzať. Ocitnú sa na
+
+645
+00:11:54,880 --> 00:11:57,629
+vedia občas zapodvádzať. Ocitnú sa na
+opačnej strane energetickej bariéry.
+
+646
+00:11:57,629 --> 00:11:57,639
+opačnej strane energetickej bariéry.
+
+647
+00:11:57,639 --> 00:11:59,110
+opačnej strane energetickej bariéry.
+Čiže v podstate predstav si, že by si
+
+648
+00:11:59,110 --> 00:11:59,120
+Čiže v podstate predstav si, že by si
+
+649
+00:11:59,120 --> 00:12:02,710
+Čiže v podstate predstav si, že by si
+chcel z Popradu bežať do Poľska, tak
+
+650
+00:12:02,710 --> 00:12:02,720
+chcel z Popradu bežať do Poľska, tak
+
+651
+00:12:02,720 --> 00:12:05,310
+chcel z Popradu bežať do Poľska, tak
+musíš vybehnúť na kopec a na kopec, no
+
+652
+00:12:05,310 --> 00:12:05,320
+musíš vybehnúť na kopec a na kopec, no
+
+653
+00:12:05,320 --> 00:12:08,389
+musíš vybehnúť na kopec a na kopec, no
+na vysoké Tatry a zbehnúť dole niekde na
+
+654
+00:12:08,389 --> 00:12:08,399
+na vysoké Tatry a zbehnúť dole niekde na
+
+655
+00:12:08,399 --> 00:12:10,110
+na vysoké Tatry a zbehnúť dole niekde na
+rysy a zbehneš.
+
+656
+00:12:10,110 --> 00:12:10,120
+rysy a zbehneš.
+
+657
+00:12:10,120 --> 00:12:10,430
+rysy a zbehneš.
+>> Uhm.
+
+658
+00:12:10,430 --> 00:12:10,440
+>> Uhm.
+
+659
+00:12:10,440 --> 00:12:12,110
+>> Uhm.
+>> A kvantové tunelovanie je, že sa zrazu
+
+660
+00:12:12,110 --> 00:12:12,120
+>> A kvantové tunelovanie je, že sa zrazu
+
+661
+00:12:12,120 --> 00:12:14,310
+>> A kvantové tunelovanie je, že sa zrazu
+objavíš na druhej strane, takže nemusíš
+
+662
+00:12:14,310 --> 00:12:14,320
+objavíš na druhej strane, takže nemusíš
+
+663
+00:12:14,320 --> 00:12:16,430
+objavíš na druhej strane, takže nemusíš
+mať dostatočnú kondičku a energiu na to,
+
+664
+00:12:16,430 --> 00:12:16,440
+mať dostatočnú kondičku a energiu na to,
+
+665
+00:12:16,440 --> 00:12:18,350
+mať dostatočnú kondičku a energiu na to,
+aby si to zvládol. A toto sa zistilo, že
+
+666
+00:12:18,350 --> 00:12:18,360
+aby si to zvládol. A toto sa zistilo, že
+
+667
+00:12:18,360 --> 00:12:20,150
+aby si to zvládol. A toto sa zistilo, že
+s istou pravdepodobnosťou sa stáva
+
+668
+00:12:20,150 --> 00:12:20,160
+s istou pravdepodobnosťou sa stáva
+
+669
+00:12:20,160 --> 00:12:22,629
+s istou pravdepodobnosťou sa stáva
+časticiam. Trošku sme to spomínali pri
+
+670
+00:12:22,629 --> 00:12:22,639
+časticiam. Trošku sme to spomínali pri
+
+671
+00:12:22,639 --> 00:12:25,389
+časticiam. Trošku sme to spomínali pri
+Nobelovej cene za fyziku za tento rok a
+
+672
+00:12:25,389 --> 00:12:25,399
+Nobelovej cene za fyziku za tento rok a
+
+673
+00:12:25,399 --> 00:12:28,710
+Nobelovej cene za fyziku za tento rok a
+1927 to bolo objavené. A tento trik je
+
+674
+00:12:28,710 --> 00:12:28,720
+1927 to bolo objavené. A tento trik je
+
+675
+00:12:28,720 --> 00:12:31,189
+1927 to bolo objavené. A tento trik je
+pre fúziu úplne nevyhnutný, že musíš
+
+676
+00:12:31,189 --> 00:12:31,199
+pre fúziu úplne nevyhnutný, že musíš
+
+677
+00:12:31,199 --> 00:12:33,829
+pre fúziu úplne nevyhnutný, že musíš
+dosiahnuť vysoké teploty, ale našťastie
+
+678
+00:12:33,829 --> 00:12:33,839
+dosiahnuť vysoké teploty, ale našťastie
+
+679
+00:12:33,839 --> 00:12:35,550
+dosiahnuť vysoké teploty, ale našťastie
+nie až tak vysoké, lebo ti pomôže to
+
+680
+00:12:35,550 --> 00:12:35,560
+nie až tak vysoké, lebo ti pomôže to
+
+681
+00:12:35,560 --> 00:12:38,629
+nie až tak vysoké, lebo ti pomôže to
+kvantové tunelovanie. Takže sa to začalo
+
+682
+00:12:38,629 --> 00:12:38,639
+kvantové tunelovanie. Takže sa to začalo
+
+683
+00:12:38,639 --> 00:12:42,670
+kvantové tunelovanie. Takže sa to začalo
+počítať a George Gamov v roku 1927 začal
+
+684
+00:12:42,670 --> 00:12:42,680
+počítať a George Gamov v roku 1927 začal
+
+685
+00:12:42,680 --> 00:12:45,030
+počítať a George Gamov v roku 1927 začal
+analyzovať, ako sa môže správať jadro v
+
+686
+00:12:45,030 --> 00:12:45,040
+analyzovať, ako sa môže správať jadro v
+
+687
+00:12:45,040 --> 00:12:46,670
+analyzovať, ako sa môže správať jadro v
+prípade tohto tunelovania, ako môže
+
+688
+00:12:46,670 --> 00:12:46,680
+prípade tohto tunelovania, ako môže
+
+689
+00:12:46,680 --> 00:12:49,230
+prípade tohto tunelovania, ako môže
+dochádzať k alfa rozpadu a tak ďalej.
+
+690
+00:12:49,230 --> 00:12:49,240
+dochádzať k alfa rozpadu a tak ďalej.
+
+691
+00:12:49,240 --> 00:12:51,670
+dochádzať k alfa rozpadu a tak ďalej.
+Takže brutálne rýchlo sa ten príbeh
+
+692
+00:12:51,670 --> 00:12:51,680
+Takže brutálne rýchlo sa ten príbeh
+
+693
+00:12:51,680 --> 00:12:54,590
+Takže brutálne rýchlo sa ten príbeh
+okolo Fúzie začal dávať dokopy. Že to je
+
+694
+00:12:54,590 --> 00:12:54,600
+okolo Fúzie začal dávať dokopy. Že to je
+
+695
+00:12:54,600 --> 00:12:56,710
+okolo Fúzie začal dávať dokopy. Že to je
+od prvého nápadu. Po to, že si ľudia
+
+696
+00:12:56,710 --> 00:12:56,720
+od prvého nápadu. Po to, že si ľudia
+
+697
+00:12:56,720 --> 00:12:59,350
+od prvého nápadu. Po to, že si ľudia
+počítali v podstate prešlo 20 rokov.
+
+698
+00:12:59,350 --> 00:12:59,360
+počítali v podstate prešlo 20 rokov.
+
+699
+00:12:59,360 --> 00:12:59,670
+počítali v podstate prešlo 20 rokov.
+>> Uhm.
+
+700
+00:12:59,670 --> 00:12:59,680
+>> Uhm.
+
+701
+00:12:59,680 --> 00:13:02,350
+>> Uhm.
+>> Ten prvý nápad bol tých 1915,
+
+702
+00:13:02,350 --> 00:13:02,360
+>> Ten prvý nápad bol tých 1915,
+
+703
+00:13:02,360 --> 00:13:05,110
+>> Ten prvý nápad bol tých 1915,
+>> no 1938. Hans Bet, to je známe meno,
+
+704
+00:13:05,110 --> 00:13:05,120
+>> no 1938. Hans Bet, to je známe meno,
+
+705
+00:13:05,120 --> 00:13:06,310
+>> no 1938. Hans Bet, to je známe meno,
+lebo sme ho spomínali v podcaste s
+
+706
+00:13:06,310 --> 00:13:06,320
+lebo sme ho spomínali v podcaste s
+
+707
+00:13:06,320 --> 00:13:08,069
+lebo sme ho spomínali v podcaste s
+Femanom, preto to tu teraz spomínam,
+
+708
+00:13:08,069 --> 00:13:08,079
+Femanom, preto to tu teraz spomínam,
+
+709
+00:13:08,079 --> 00:13:09,750
+Femanom, preto to tu teraz spomínam,
+nech majú ľudia nejakú nadväznosť.
+
+710
+00:13:09,750 --> 00:13:09,760
+nech majú ľudia nejakú nadväznosť.
+
+711
+00:13:09,760 --> 00:13:12,629
+nech majú ľudia nejakú nadväznosť.
+>> Uhm. eh začal vlastne počítať, že ako
+
+712
+00:13:12,629 --> 00:13:12,639
+>> Uhm. eh začal vlastne počítať, že ako
+
+713
+00:13:12,639 --> 00:13:15,629
+>> Uhm. eh začal vlastne počítať, že ako
+vlastne tie interakcie rôznych protónov
+
+714
+00:13:15,629 --> 00:13:15,639
+vlastne tie interakcie rôznych protónov
+
+715
+00:13:15,639 --> 00:13:19,150
+vlastne tie interakcie rôznych protónov
+a ich izotopov eh fungujú vo vnútri
+
+716
+00:13:19,150 --> 00:13:19,160
+a ich izotopov eh fungujú vo vnútri
+
+717
+00:13:19,160 --> 00:13:21,150
+a ich izotopov eh fungujú vo vnútri
+hviezd a objavil, že tam prebiehajú
+
+718
+00:13:21,150 --> 00:13:21,160
+hviezd a objavil, že tam prebiehajú
+
+719
+00:13:21,160 --> 00:13:23,470
+hviezd a objavil, že tam prebiehajú
+rôzne iné procesy. Do toho sa pustíme
+
+720
+00:13:23,470 --> 00:13:23,480
+rôzne iné procesy. Do toho sa pustíme
+
+721
+00:13:23,480 --> 00:13:25,310
+rôzne iné procesy. Do toho sa pustíme
+niekedy inokedy, že toto si nechajme na
+
+722
+00:13:25,310 --> 00:13:25,320
+niekedy inokedy, že toto si nechajme na
+
+723
+00:13:25,320 --> 00:13:27,829
+niekedy inokedy, že toto si nechajme na
+tie reaktorové fúzie, ale zisti naozaj
+
+724
+00:13:27,829 --> 00:13:27,839
+tie reaktorové fúzie, ale zisti naozaj
+
+725
+00:13:27,839 --> 00:13:30,189
+tie reaktorové fúzie, ale zisti naozaj
+sa potvrdilo za tých 20 rokov, že toto
+
+726
+00:13:30,189 --> 00:13:30,199
+sa potvrdilo za tých 20 rokov, že toto
+
+727
+00:13:30,199 --> 00:13:32,710
+sa potvrdilo za tých 20 rokov, že toto
+môže poháňať slnko. No a ľudia začali
+
+728
+00:13:32,710 --> 00:13:32,720
+môže poháňať slnko. No a ľudia začali
+
+729
+00:13:32,720 --> 00:13:34,310
+môže poháňať slnko. No a ľudia začali
+experimentovať. Toto bola zatiaľ teória
+
+730
+00:13:34,310 --> 00:13:34,320
+experimentovať. Toto bola zatiaľ teória
+
+731
+00:13:34,320 --> 00:13:36,030
+experimentovať. Toto bola zatiaľ teória
+a prax bola taká, že to skúsili a
+
+732
+00:13:36,030 --> 00:13:36,040
+a prax bola taká, že to skúsili a
+
+733
+00:13:36,040 --> 00:13:39,110
+a prax bola taká, že to skúsili a
+fungovalo to, že napríklad eh zobrali
+
+734
+00:13:39,110 --> 00:13:39,120
+fungovalo to, že napríklad eh zobrali
+
+735
+00:13:39,120 --> 00:13:41,750
+fungovalo to, že napríklad eh zobrali
+lítium, jeho izotop, strelili doňho
+
+736
+00:13:41,750 --> 00:13:41,760
+lítium, jeho izotop, strelili doňho
+
+737
+00:13:41,760 --> 00:13:44,030
+lítium, jeho izotop, strelili doňho
+protón a keď to urobili správne, tak sa
+
+738
+00:13:44,030 --> 00:13:44,040
+protón a keď to urobili správne, tak sa
+
+739
+00:13:44,040 --> 00:13:45,509
+protón a keď to urobili správne, tak sa
+to za chvíľku rozpadlo na dve jadrá
+
+740
+00:13:45,509 --> 00:13:45,519
+to za chvíľku rozpadlo na dve jadrá
+
+741
+00:13:45,519 --> 00:13:48,310
+to za chvíľku rozpadlo na dve jadrá
+hélia. Čiže lítium má tri protóny a
+
+742
+00:13:48,310 --> 00:13:48,320
+hélia. Čiže lítium má tri protóny a
+
+743
+00:13:48,320 --> 00:13:50,790
+hélia. Čiže lítium má tri protóny a
+tento izotop mal sedem neutrónov.
+
+744
+00:13:50,790 --> 00:13:50,800
+tento izotop mal sedem neutrónov.
+
+745
+00:13:50,800 --> 00:13:53,350
+tento izotop mal sedem neutrónov.
+Strelili do toho protón, takže to malo
+
+746
+00:13:53,350 --> 00:13:53,360
+Strelili do toho protón, takže to malo
+
+747
+00:13:53,360 --> 00:13:56,230
+Strelili do toho protón, takže to malo
+48 a potom sa to rozpadlo na dve helliá,
+
+748
+00:13:56,230 --> 00:13:56,240
+48 a potom sa to rozpadlo na dve helliá,
+
+749
+00:13:56,240 --> 00:13:58,949
+48 a potom sa to rozpadlo na dve helliá,
+ktoré sú 24. Takže zistilo sa, že to
+
+750
+00:13:58,949 --> 00:13:58,959
+ktoré sú 24. Takže zistilo sa, že to
+
+751
+00:13:58,959 --> 00:14:01,749
+ktoré sú 24. Takže zistilo sa, že to
+funguje v roku 1932.
+
+752
+00:14:01,749 --> 00:14:01,759
+funguje v roku 1932.
+
+753
+00:14:01,759 --> 00:14:02,749
+funguje v roku 1932.
+No tak už len doklepnúť.
+
+754
+00:14:02,749 --> 00:14:02,759
+No tak už len doklepnúť.
+
+755
+00:14:02,759 --> 00:14:05,389
+No tak už len doklepnúť.
+>> Potom to [smiech] už to len doklepnúť.
+
+756
+00:14:05,389 --> 00:14:05,399
+>> Potom to [smiech] už to len doklepnúť.
+
+757
+00:14:05,399 --> 00:14:06,870
+>> Potom to [smiech] už to len doklepnúť.
+Tak a začal sa experimentovať s tým, že
+
+758
+00:14:06,870 --> 00:14:06,880
+Tak a začal sa experimentovať s tým, že
+
+759
+00:14:06,880 --> 00:14:09,069
+Tak a začal sa experimentovať s tým, že
+čo najlepšie zrážať a čo z toho budeš
+
+760
+00:14:09,069 --> 00:14:09,079
+čo najlepšie zrážať a čo z toho budeš
+
+761
+00:14:09,079 --> 00:14:12,509
+čo najlepšie zrážať a čo z toho budeš
+dostávať. Eh, vodík existuje v troch
+
+762
+00:14:12,509 --> 00:14:12,519
+dostávať. Eh, vodík existuje v troch
+
+763
+00:14:12,519 --> 00:14:14,269
+dostávať. Eh, vodík existuje v troch
+izotopoch. Najprv vodík. To je to, čo
+
+764
+00:14:14,269 --> 00:14:14,279
+izotopoch. Najprv vodík. To je to, čo
+
+765
+00:14:14,279 --> 00:14:16,829
+izotopoch. Najprv vodík. To je to, čo
+kúpiš bežne v obchode, ktorý je iba
+
+766
+00:14:16,829 --> 00:14:16,839
+kúpiš bežne v obchode, ktorý je iba
+
+767
+00:14:16,839 --> 00:14:18,710
+kúpiš bežne v obchode, ktorý je iba
+jeden protón. Jeden protón a niekedy k
+
+768
+00:14:18,710 --> 00:14:18,720
+jeden protón. Jeden protón a niekedy k
+
+769
+00:14:18,720 --> 00:14:20,069
+jeden protón. Jeden protón a niekedy k
+nemu jeden elektrón. Ale pri tých
+
+770
+00:14:20,069 --> 00:14:20,079
+nemu jeden elektrón. Ale pri tých
+
+771
+00:14:20,079 --> 00:14:21,550
+nemu jeden elektrón. Ale pri tých
+vysokých teplotách ten elektrón je
+
+772
+00:14:21,550 --> 00:14:21,560
+vysokých teplotách ten elektrón je
+
+773
+00:14:21,560 --> 00:14:23,310
+vysokých teplotách ten elektrón je
+odtrhnutý, takže máš iba jeden protón.
+
+774
+00:14:23,310 --> 00:14:23,320
+odtrhnutý, takže máš iba jeden protón.
+
+775
+00:14:23,320 --> 00:14:26,030
+odtrhnutý, takže máš iba jeden protón.
+Takže to je poličné meno pre vodík.
+
+776
+00:14:26,030 --> 00:14:26,040
+Takže to je poličné meno pre vodík.
+
+777
+00:14:26,040 --> 00:14:28,310
+Takže to je poličné meno pre vodík.
+Potom je deutérium. To je jeden protón s
+
+778
+00:14:28,310 --> 00:14:28,320
+Potom je deutérium. To je jeden protón s
+
+779
+00:14:28,320 --> 00:14:29,949
+Potom je deutérium. To je jeden protón s
+jedným neutrónom. Takže z chemickej
+
+780
+00:14:29,949 --> 00:14:29,959
+jedným neutrónom. Takže z chemickej
+
+781
+00:14:29,959 --> 00:14:32,189
+jedným neutrónom. Takže z chemickej
+stránky to vyzerá rovnako, ale z
+
+782
+00:14:32,189 --> 00:14:32,199
+stránky to vyzerá rovnako, ale z
+
+783
+00:14:32,199 --> 00:14:33,749
+stránky to vyzerá rovnako, ale z
+jadrovej už to vyzerá inako. Už to má
+
+784
+00:14:33,749 --> 00:14:33,759
+jadrovej už to vyzerá inako. Už to má
+
+785
+00:14:33,759 --> 00:14:35,069
+jadrovej už to vyzerá inako. Už to má
+jeden protón, jeden neutrón a potom je,
+
+786
+00:14:35,069 --> 00:14:35,079
+jeden protón, jeden neutrón a potom je,
+
+787
+00:14:35,079 --> 00:14:36,829
+jeden protón, jeden neutrón a potom je,
+že trícium.
+
+788
+00:14:36,829 --> 00:14:36,839
+že trícium.
+
+789
+00:14:36,839 --> 00:14:39,590
+že trícium.
+Trícium je tri nukleóny, čiže dva
+
+790
+00:14:39,590 --> 00:14:39,600
+Trícium je tri nukleóny, čiže dva
+
+791
+00:14:39,600 --> 00:14:41,110
+Trícium je tri nukleóny, čiže dva
+neutróny a jeden protón. Stále je to
+
+792
+00:14:41,110 --> 00:14:41,120
+neutróny a jeden protón. Stále je to
+
+793
+00:14:41,120 --> 00:14:43,710
+neutróny a jeden protón. Stále je to
+vodík, ale už sa to volá, že super ťažký
+
+794
+00:14:43,710 --> 00:14:43,720
+vodík, ale už sa to volá, že super ťažký
+
+795
+00:14:43,720 --> 00:14:45,749
+vodík, ale už sa to volá, že super ťažký
+vodík. Čiže deutérium je ťažký vodík,
+
+796
+00:14:45,749 --> 00:14:45,759
+vodík. Čiže deutérium je ťažký vodík,
+
+797
+00:14:45,759 --> 00:14:47,550
+vodík. Čiže deutérium je ťažký vodík,
+tricium je super ťažký. Takže ľudia
+
+798
+00:14:47,550 --> 00:14:47,560
+tricium je super ťažký. Takže ľudia
+
+799
+00:14:47,560 --> 00:14:49,509
+tricium je super ťažký. Takže ľudia
+začali experimentovať. Zrazím od seba
+
+800
+00:14:49,509 --> 00:14:49,519
+začali experimentovať. Zrazím od seba
+
+801
+00:14:49,519 --> 00:14:51,590
+začali experimentovať. Zrazím od seba
+dve deutéria, čo dostanem? Zrazím od
+
+802
+00:14:51,590 --> 00:14:51,600
+dve deutéria, čo dostanem? Zrazím od
+
+803
+00:14:51,600 --> 00:14:54,150
+dve deutéria, čo dostanem? Zrazím od
+seba deutérium a tricium, čo dostanem?
+
+804
+00:14:54,150 --> 00:14:54,160
+seba deutérium a tricium, čo dostanem?
+
+805
+00:14:54,160 --> 00:14:56,790
+seba deutérium a tricium, čo dostanem?
+>> Uhm. A zistilo sa, že ako kedy až tých
+
+806
+00:14:56,790 --> 00:14:56,800
+>> Uhm. A zistilo sa, že ako kedy až tých
+
+807
+00:14:56,800 --> 00:14:58,350
+>> Uhm. A zistilo sa, že ako kedy až tých
+procesov v podstate, že strašne veľa.
+
+808
+00:14:58,350 --> 00:14:58,360
+procesov v podstate, že strašne veľa.
+
+809
+00:14:58,360 --> 00:14:59,949
+procesov v podstate, že strašne veľa.
+Tak ako sme rozprávali o tých famanoch i
+
+810
+00:14:59,949 --> 00:14:59,959
+Tak ako sme rozprávali o tých famanoch i
+
+811
+00:14:59,959 --> 00:15:01,910
+Tak ako sme rozprávali o tých famanoch i
+diagramoch, tak aj tu by sa dalo kresliť
+
+812
+00:15:01,910 --> 00:15:01,920
+diagramoch, tak aj tu by sa dalo kresliť
+
+813
+00:15:01,920 --> 00:15:04,949
+diagramoch, tak aj tu by sa dalo kresliť
+bars, čo. Eh, tie procesy sú naozaj
+
+814
+00:15:04,949 --> 00:15:04,959
+bars, čo. Eh, tie procesy sú naozaj
+
+815
+00:15:04,959 --> 00:15:06,509
+bars, čo. Eh, tie procesy sú naozaj
+všelijaké. Asi nie je úplne zaujímavé sa
+
+816
+00:15:06,509 --> 00:15:06,519
+všelijaké. Asi nie je úplne zaujímavé sa
+
+817
+00:15:06,519 --> 00:15:08,509
+všelijaké. Asi nie je úplne zaujímavé sa
+do toho zoznamu púšťať, ale ukázalo sa,
+
+818
+00:15:08,509 --> 00:15:08,519
+do toho zoznamu púšťať, ale ukázalo sa,
+
+819
+00:15:08,519 --> 00:15:10,269
+do toho zoznamu púšťať, ale ukázalo sa,
+že to funguje a uvoľňuje to obrovské
+
+820
+00:15:10,269 --> 00:15:10,279
+že to funguje a uvoľňuje to obrovské
+
+821
+00:15:10,279 --> 00:15:12,470
+že to funguje a uvoľňuje to obrovské
+množstvo energie. Dokonca, že keď si to
+
+822
+00:15:12,470 --> 00:15:12,480
+množstvo energie. Dokonca, že keď si to
+
+823
+00:15:12,480 --> 00:15:14,470
+množstvo energie. Dokonca, že keď si to
+prepočítaš na jednu časticu, tak viacej
+
+824
+00:15:14,470 --> 00:15:14,480
+prepočítaš na jednu časticu, tak viacej
+
+825
+00:15:14,480 --> 00:15:17,110
+prepočítaš na jednu časticu, tak viacej
+ako to štiepenie. A toto prirodzene ľudí
+
+826
+00:15:17,110 --> 00:15:17,120
+ako to štiepenie. A toto prirodzene ľudí
+
+827
+00:15:17,120 --> 00:15:19,069
+ako to štiepenie. A toto prirodzene ľudí
+nadchlo, že keď napríklad spojíš
+
+828
+00:15:19,069 --> 00:15:19,079
+nadchlo, že keď napríklad spojíš
+
+829
+00:15:19,079 --> 00:15:20,910
+nadchlo, že keď napríklad spojíš
+deutérium a trícium, tak sa ti to
+
+830
+00:15:20,910 --> 00:15:20,920
+deutérium a trícium, tak sa ti to
+
+831
+00:15:20,920 --> 00:15:23,030
+deutérium a trícium, tak sa ti to
+rozpadne na dvaja helliá a jeden extra
+
+832
+00:15:23,030 --> 00:15:23,040
+rozpadne na dvaja helliá a jeden extra
+
+833
+00:15:23,040 --> 00:15:26,030
+rozpadne na dvaja helliá a jeden extra
+neutrón, ktorý odnesie obrovské množstvo
+
+834
+00:15:26,030 --> 00:15:26,040
+neutrón, ktorý odnesie obrovské množstvo
+
+835
+00:15:26,040 --> 00:15:29,910
+neutrón, ktorý odnesie obrovské množstvo
+energie, 14 miliónov elektrónov. A ty tú
+
+836
+00:15:29,910 --> 00:15:29,920
+energie, 14 miliónov elektrónov. A ty tú
+
+837
+00:15:29,920 --> 00:15:31,550
+energie, 14 miliónov elektrónov. A ty tú
+energiu chceš čiastočne získavať,
+
+838
+00:15:31,550 --> 00:15:31,560
+energiu chceš čiastočne získavať,
+
+839
+00:15:31,560 --> 00:15:33,430
+energiu chceš čiastočne získavať,
+napríklad, že sa stráca vo forme tepla a
+
+840
+00:15:33,430 --> 00:15:33,440
+napríklad, že sa stráca vo forme tepla a
+
+841
+00:15:33,440 --> 00:15:35,309
+napríklad, že sa stráca vo forme tepla a
+potom pomocou nej ohrievaš vodu a ako
+
+842
+00:15:35,309 --> 00:15:35,319
+potom pomocou nej ohrievaš vodu a ako
+
+843
+00:15:35,319 --> 00:15:37,150
+potom pomocou nej ohrievaš vodu a ako
+vždy
+
+844
+00:15:37,150 --> 00:15:37,160
+vždy
+
+845
+00:15:37,160 --> 00:15:39,389
+vždy
+tou vodou eh voda sa mení na paru a
+
+846
+00:15:39,389 --> 00:15:39,399
+tou vodou eh voda sa mení na paru a
+
+847
+00:15:39,399 --> 00:15:41,790
+tou vodou eh voda sa mení na paru a
+roztáča turbíny. Ale tuto môže byť
+
+848
+00:15:41,790 --> 00:15:41,800
+roztáča turbíny. Ale tuto môže byť
+
+849
+00:15:41,800 --> 00:15:44,110
+roztáča turbíny. Ale tuto môže byť
+napríklad aj tak, že ten eh neutrón
+
+850
+00:15:44,110 --> 00:15:44,120
+napríklad aj tak, že ten eh neutrón
+
+851
+00:15:44,120 --> 00:15:45,990
+napríklad aj tak, že ten eh neutrón
+skočí na nejaké iné lítium, to sa
+
+852
+00:15:45,990 --> 00:15:46,000
+skočí na nejaké iné lítium, to sa
+
+853
+00:15:46,000 --> 00:15:48,749
+skočí na nejaké iné lítium, to sa
+rozpadne a vytvorí eh vytvorí ďalšie
+
+854
+00:15:48,749 --> 00:15:48,759
+rozpadne a vytvorí eh vytvorí ďalšie
+
+855
+00:15:48,759 --> 00:15:51,189
+rozpadne a vytvorí eh vytvorí ďalšie
+trícium. Dôvod, prečo toto spomínam, je
+
+856
+00:15:51,189 --> 00:15:51,199
+trícium. Dôvod, prečo toto spomínam, je
+
+857
+00:15:51,199 --> 00:15:53,150
+trícium. Dôvod, prečo toto spomínam, je
+taký, že trícium je extrémne vzácne.
+
+858
+00:15:53,150 --> 00:15:53,160
+taký, že trícium je extrémne vzácne.
+
+859
+00:15:53,160 --> 00:15:54,910
+taký, že trícium je extrémne vzácne.
+Lítium nie až tak.
+
+860
+00:15:54,910 --> 00:15:54,920
+Lítium nie až tak.
+
+861
+00:15:54,920 --> 00:15:57,389
+Lítium nie až tak.
+>> Takže máš zrazu možnosti, ako začneš
+
+862
+00:15:57,389 --> 00:15:57,399
+>> Takže máš zrazu možnosti, ako začneš
+
+863
+00:15:57,399 --> 00:15:59,629
+>> Takže máš zrazu možnosti, ako začneš
+reakciu, kde máš deutéria a trícia,
+
+864
+00:15:59,629 --> 00:15:59,639
+reakciu, kde máš deutéria a trícia,
+
+865
+00:15:59,639 --> 00:16:02,829
+reakciu, kde máš deutéria a trícia,
+postupne ti toho z toho všetko mizne a
+
+866
+00:16:02,829 --> 00:16:02,839
+postupne ti toho z toho všetko mizne a
+
+867
+00:16:02,839 --> 00:16:04,350
+postupne ti toho z toho všetko mizne a
+vypadáva ti z toho neutróna. Ty tam
+
+868
+00:16:04,350 --> 00:16:04,360
+vypadáva ti z toho neutróna. Ty tam
+
+869
+00:16:04,360 --> 00:16:06,269
+vypadáva ti z toho neutróna. Ty tam
+prisypávaš lítium a lítium s tým
+
+870
+00:16:06,269 --> 00:16:06,279
+prisypávaš lítium a lítium s tým
+
+871
+00:16:06,279 --> 00:16:08,509
+prisypávaš lítium a lítium s tým
+neutrónom ti obnovuje ten to drahé a
+
+872
+00:16:08,509 --> 00:16:08,519
+neutrónom ti obnovuje ten to drahé a
+
+873
+00:16:08,519 --> 00:16:10,509
+neutrónom ti obnovuje ten to drahé a
+vzácné trícium. Takže vieš robiť
+
+874
+00:16:10,509 --> 00:16:10,519
+vzácné trícium. Takže vieš robiť
+
+875
+00:16:10,519 --> 00:16:11,910
+vzácné trícium. Takže vieš robiť
+normálne nejakú takú pekne do seba
+
+876
+00:16:11,910 --> 00:16:11,920
+normálne nejakú takú pekne do seba
+
+877
+00:16:11,920 --> 00:16:14,470
+normálne nejakú takú pekne do seba
+zacyklenú reakciu, do ktorej ti stačí
+
+878
+00:16:14,470 --> 00:16:14,480
+zacyklenú reakciu, do ktorej ti stačí
+
+879
+00:16:14,480 --> 00:16:16,350
+zacyklenú reakciu, do ktorej ti stačí
+prisypávať dve ingrediencie. Jednou z
+
+880
+00:16:16,350 --> 00:16:16,360
+prisypávať dve ingrediencie. Jednou z
+
+881
+00:16:16,360 --> 00:16:18,230
+prisypávať dve ingrediencie. Jednou z
+tých ingrediencií je lítium a druhou z
+
+882
+00:16:18,230 --> 00:16:18,240
+tých ingrediencií je lítium a druhou z
+
+883
+00:16:18,240 --> 00:16:20,550
+tých ingrediencií je lítium a druhou z
+tých ingrediencií je deutérium. A to už
+
+884
+00:16:20,550 --> 00:16:20,560
+tých ingrediencií je deutérium. A to už
+
+885
+00:16:20,560 --> 00:16:22,389
+tých ingrediencií je deutérium. A to už
+teraz v podstate, že pomenú vám jeden
+
+886
+00:16:22,389 --> 00:16:22,399
+teraz v podstate, že pomenú vám jeden
+
+887
+00:16:22,399 --> 00:16:24,670
+teraz v podstate, že pomenú vám jeden
+konkrétny cyklus. Ich je znova veľmi
+
+888
+00:16:24,670 --> 00:16:24,680
+konkrétny cyklus. Ich je znova veľmi
+
+889
+00:16:24,680 --> 00:16:25,990
+konkrétny cyklus. Ich je znova veľmi
+veľa, podobne ako v tých šiepnych
+
+890
+00:16:25,990 --> 00:16:26,000
+veľa, podobne ako v tých šiepnych
+
+891
+00:16:26,000 --> 00:16:27,150
+veľa, podobne ako v tých šiepnych
+reaktoroch, ale teda aby si pod tým
+
+892
+00:16:27,150 --> 00:16:27,160
+reaktoroch, ale teda aby si pod tým
+
+893
+00:16:27,160 --> 00:16:28,910
+reaktoroch, ale teda aby si pod tým
+ľudia niečo predstavili.
+
+894
+00:16:28,910 --> 00:16:28,920
+ľudia niečo predstavili.
+
+895
+00:16:28,920 --> 00:16:31,749
+ľudia niečo predstavili.
+>> Lopatou prisypávaš izotop vodíka, známy
+
+896
+00:16:31,749 --> 00:16:31,759
+>> Lopatou prisypávaš izotop vodíka, známy
+
+897
+00:16:31,759 --> 00:16:34,150
+>> Lopatou prisypávaš izotop vodíka, známy
+ako deutérium. Ten pod obrovskými
+
+898
+00:16:34,150 --> 00:16:34,160
+ako deutérium. Ten pod obrovskými
+
+899
+00:16:34,160 --> 00:16:36,590
+ako deutérium. Ten pod obrovskými
+teplotami a obrovské teploty znamená asi
+
+900
+00:16:36,590 --> 00:16:36,600
+teplotami a obrovské teploty znamená asi
+
+901
+00:16:36,600 --> 00:16:39,590
+teplotami a obrovské teploty znamená asi
+200 miliónov stupňov cel sa zráža
+
+902
+00:16:39,590 --> 00:16:39,600
+200 miliónov stupňov cel sa zráža
+
+903
+00:16:39,600 --> 00:16:41,949
+200 miliónov stupňov cel sa zráža
+stríciom. Vytvárajú vodíky, eh,
+
+904
+00:16:41,949 --> 00:16:41,959
+stríciom. Vytvárajú vodíky, eh,
+
+905
+00:16:41,959 --> 00:16:43,590
+stríciom. Vytvárajú vodíky, eh,
+vytvárajú hellia.
+
+906
+00:16:43,590 --> 00:16:43,600
+vytvárajú hellia.
+
+907
+00:16:43,600 --> 00:16:44,949
+vytvárajú hellia.
+>> 200 miliónov.
+
+908
+00:16:44,949 --> 00:16:44,959
+>> 200 miliónov.
+
+909
+00:16:44,959 --> 00:16:46,710
+>> 200 miliónov.
+>> 200 miliónov. No áno. Ako v strede
+
+910
+00:16:46,710 --> 00:16:46,720
+>> 200 miliónov. No áno. Ako v strede
+
+911
+00:16:46,720 --> 00:16:47,949
+>> 200 miliónov. No áno. Ako v strede
+slnka.
+
+912
+00:16:47,949 --> 00:16:47,959
+slnka.
+
+913
+00:16:47,959 --> 00:16:48,230
+slnka.
+>> Wau.
+
+914
+00:16:48,230 --> 00:16:48,240
+>> Wau.
+
+915
+00:16:48,240 --> 00:16:49,949
+>> Wau.
+>> Dá sa to aj pri nižších teplotách, ale
+
+916
+00:16:49,949 --> 00:16:49,959
+>> Dá sa to aj pri nižších teplotách, ale
+
+917
+00:16:49,959 --> 00:16:51,389
+>> Dá sa to aj pri nižších teplotách, ale
+efektivita je najlepšia pri 200
+
+918
+00:16:51,389 --> 00:16:51,399
+efektivita je najlepšia pri 200
+
+919
+00:16:51,399 --> 00:16:53,990
+efektivita je najlepšia pri 200
+miliónoch, takže aj pri 60 sa to dá, keď
+
+920
+00:16:53,990 --> 00:16:54,000
+miliónoch, takže aj pri 60 sa to dá, keď
+
+921
+00:16:54,000 --> 00:16:55,629
+miliónoch, takže aj pri 60 sa to dá, keď
+chceš trošku chladnejšie.
+
+922
+00:16:55,629 --> 00:16:55,639
+chceš trošku chladnejšie.
+
+923
+00:16:55,639 --> 00:16:58,430
+chceš trošku chladnejšie.
+>> Eh, to tak nastavovali. 60. Hm. Dobre.
+
+924
+00:16:58,430 --> 00:16:58,440
+>> Eh, to tak nastavovali. 60. Hm. Dobre.
+
+925
+00:16:58,440 --> 00:17:02,030
+>> Eh, to tak nastavovali. 60. Hm. Dobre.
+Hm. To je dobré. Ale tých 200 je to
+
+926
+00:17:02,030 --> 00:17:02,040
+Hm. To je dobré. Ale tých 200 je to
+
+927
+00:17:02,040 --> 00:17:04,069
+Hm. To je dobré. Ale tých 200 je to
+niekde spočítané a bežne tieto podmienky
+
+928
+00:17:04,069 --> 00:17:04,079
+niekde spočítané a bežne tieto podmienky
+
+929
+00:17:04,079 --> 00:17:05,949
+niekde spočítané a bežne tieto podmienky
+získaš napríklad v atómovej bombe. Čiže
+
+930
+00:17:05,949 --> 00:17:05,959
+získaš napríklad v atómovej bombe. Čiže
+
+931
+00:17:05,959 --> 00:17:08,829
+získaš napríklad v atómovej bombe. Čiže
+preto sa robili potom vodíkové bomby, že
+
+932
+00:17:08,829 --> 00:17:08,839
+preto sa robili potom vodíkové bomby, že
+
+933
+00:17:08,839 --> 00:17:11,029
+preto sa robili potom vodíkové bomby, že
+urobíš atómovú bombu, ktorá ale vlastne
+
+934
+00:17:11,029 --> 00:17:11,039
+urobíš atómovú bombu, ktorá ale vlastne
+
+935
+00:17:11,039 --> 00:17:13,110
+urobíš atómovú bombu, ktorá ale vlastne
+naštartuje potom fúznu reakciu a z toho
+
+936
+00:17:13,110 --> 00:17:13,120
+naštartuje potom fúznu reakciu a z toho
+
+937
+00:17:13,120 --> 00:17:14,870
+naštartuje potom fúznu reakciu a z toho
+sa vyžmýka teda ešte brutálne viacej
+
+938
+00:17:14,870 --> 00:17:14,880
+sa vyžmýka teda ešte brutálne viacej
+
+939
+00:17:14,880 --> 00:17:15,990
+sa vyžmýka teda ešte brutálne viacej
+energie.
+
+940
+00:17:15,990 --> 00:17:16,000
+energie.
+
+941
+00:17:16,000 --> 00:17:16,549
+energie.
+>> Vau.
+
+942
+00:17:16,549 --> 00:17:16,559
+>> Vau.
+
+943
+00:17:16,559 --> 00:17:18,350
+>> Vau.
+>> No ale vieš mať teda pekne lopatuješ tam
+
+944
+00:17:18,350 --> 00:17:18,360
+>> No ale vieš mať teda pekne lopatuješ tam
+
+945
+00:17:18,360 --> 00:17:20,029
+>> No ale vieš mať teda pekne lopatuješ tam
+deutérium, na začiatku tam dáš medzi
+
+946
+00:17:20,029 --> 00:17:20,039
+deutérium, na začiatku tam dáš medzi
+
+947
+00:17:20,039 --> 00:17:22,590
+deutérium, na začiatku tam dáš medzi
+prsty trícia a vytvára sa ti to hélium,
+
+948
+00:17:22,590 --> 00:17:22,600
+prsty trícia a vytvára sa ti to hélium,
+
+949
+00:17:22,600 --> 00:17:24,669
+prsty trícia a vytvára sa ti to hélium,
+neutróny a neutróny spolu s litiom
+
+950
+00:17:24,669 --> 00:17:24,679
+neutróny a neutróny spolu s litiom
+
+951
+00:17:24,679 --> 00:17:26,429
+neutróny a neutróny spolu s litiom
+obnovujú to vzácné tricium, takže tebe
+
+952
+00:17:26,429 --> 00:17:26,439
+obnovujú to vzácné tricium, takže tebe
+
+953
+00:17:26,439 --> 00:17:28,789
+obnovujú to vzácné tricium, takže tebe
+tam stačí lopatovať už len to deutérium.
+
+954
+00:17:28,789 --> 00:17:28,799
+tam stačí lopatovať už len to deutérium.
+
+955
+00:17:28,799 --> 00:17:30,510
+tam stačí lopatovať už len to deutérium.
+A to je dobrá správa, lebo deutéria sa
+
+956
+00:17:30,510 --> 00:17:30,520
+A to je dobrá správa, lebo deutéria sa
+
+957
+00:17:30,520 --> 00:17:32,909
+A to je dobrá správa, lebo deutéria sa
+nachádza v oceánoch toľko, že ľudstvu by
+
+958
+00:17:32,909 --> 00:17:32,919
+nachádza v oceánoch toľko, že ľudstvu by
+
+959
+00:17:32,919 --> 00:17:35,430
+nachádza v oceánoch toľko, že ľudstvu by
+to na fúznu reakciu vystačilo asi na 30
+
+960
+00:17:35,430 --> 00:17:35,440
+to na fúznu reakciu vystačilo asi na 30
+
+961
+00:17:35,440 --> 00:17:38,070
+to na fúznu reakciu vystačilo asi na 30
+miliónov rokov. Takže toto je ten epil
+
+962
+00:17:38,070 --> 00:17:38,080
+miliónov rokov. Takže toto je ten epil
+
+963
+00:17:38,080 --> 00:17:40,310
+miliónov rokov. Takže toto je ten epil
+fúzie, že viešmykať obrovské množstvo
+
+964
+00:17:40,310 --> 00:17:40,320
+fúzie, že viešmykať obrovské množstvo
+
+965
+00:17:40,320 --> 00:17:42,590
+fúzie, že viešmykať obrovské množstvo
+energie a potrebuješ na to niečo, čo sa
+
+966
+00:17:42,590 --> 00:17:42,600
+energie a potrebuješ na to niečo, čo sa
+
+967
+00:17:42,600 --> 00:17:44,029
+energie a potrebuješ na to niečo, čo sa
+nachádza v morskej vode. Čiže
+
+968
+00:17:44,029 --> 00:17:44,039
+nachádza v morskej vode. Čiže
+
+969
+00:17:44,039 --> 00:17:46,390
+nachádza v morskej vode. Čiže
+nepotrebuješ nič ťažiť, nezostáva ti
+
+970
+00:17:46,390 --> 00:17:46,400
+nepotrebuješ nič ťažiť, nezostáva ti
+
+971
+00:17:46,400 --> 00:17:48,830
+nepotrebuješ nič ťažiť, nezostáva ti
+žiaden rádioaktívny odpad až na nejaké
+
+972
+00:17:48,830 --> 00:17:48,840
+žiaden rádioaktívny odpad až na nejaké
+
+973
+00:17:48,840 --> 00:17:50,430
+žiaden rádioaktívny odpad až na nejaké
+možno niečo, čo sa ožiari pri tých
+
+974
+00:17:50,430 --> 00:17:50,440
+možno niečo, čo sa ožiari pri tých
+
+975
+00:17:50,440 --> 00:17:52,310
+možno niečo, čo sa ožiari pri tých
+vysokých energiách, ale vlastne
+
+976
+00:17:52,310 --> 00:17:52,320
+vysokých energiách, ale vlastne
+
+977
+00:17:52,320 --> 00:17:54,070
+vysokých energiách, ale vlastne
+produkuješ hélium.
+
+978
+00:17:54,070 --> 00:17:54,080
+produkuješ hélium.
+
+979
+00:17:54,080 --> 00:17:54,470
+produkuješ hélium.
+>> Hm.
+
+980
+00:17:54,470 --> 00:17:54,480
+>> Hm.
+
+981
+00:17:54,480 --> 00:17:56,310
+>> Hm.
+>> Takže dnu ide vec, ktorá sa nachádza v
+
+982
+00:17:56,310 --> 00:17:56,320
+>> Takže dnu ide vec, ktorá sa nachádza v
+
+983
+00:17:56,320 --> 00:17:58,470
+>> Takže dnu ide vec, ktorá sa nachádza v
+oceánoch. produkuješ hélium, ktoré má
+
+984
+00:17:58,470 --> 00:17:58,480
+oceánoch. produkuješ hélium, ktoré má
+
+985
+00:17:58,480 --> 00:18:01,270
+oceánoch. produkuješ hélium, ktoré má
+mimochodom využitie rôzne priemyselné a
+
+986
+00:18:01,270 --> 00:18:01,280
+mimochodom využitie rôzne priemyselné a
+
+987
+00:18:01,280 --> 00:18:03,110
+mimochodom využitie rôzne priemyselné a
+potrebuješ tam trošku toho tricia
+
+988
+00:18:03,110 --> 00:18:03,120
+potrebuješ tam trošku toho tricia
+
+989
+00:18:03,120 --> 00:18:05,270
+potrebuješ tam trošku toho tricia
+vzácného eh, ktoré vzniká napríklad v
+
+990
+00:18:05,270 --> 00:18:05,280
+vzácného eh, ktoré vzniká napríklad v
+
+991
+00:18:05,280 --> 00:18:07,350
+vzácného eh, ktoré vzniká napríklad v
+štiepnych reaktoroch, ale to už tam vieš
+
+992
+00:18:07,350 --> 00:18:07,360
+štiepnych reaktoroch, ale to už tam vieš
+
+993
+00:18:07,360 --> 00:18:09,070
+štiepnych reaktoroch, ale to už tam vieš
+potom za pomoci napríklad toho lítia
+
+994
+00:18:09,070 --> 00:18:09,080
+potom za pomoci napríklad toho lítia
+
+995
+00:18:09,080 --> 00:18:10,310
+potom za pomoci napríklad toho lítia
+točiť alebo podľa toho, aký si
+
+996
+00:18:10,310 --> 00:18:10,320
+točiť alebo podľa toho, aký si
+
+997
+00:18:10,320 --> 00:18:13,630
+točiť alebo podľa toho, aký si
+nadizajnuješ reaktor. Celý háčik tohto
+
+998
+00:18:13,630 --> 00:18:13,640
+nadizajnuješ reaktor. Celý háčik tohto
+
+999
+00:18:13,640 --> 00:18:16,110
+nadizajnuješ reaktor. Celý háčik tohto
+krásneho procesu spočíva presne v tej
+
+1000
+00:18:16,110 --> 00:18:16,120
+krásneho procesu spočíva presne v tej
+
+1001
+00:18:16,120 --> 00:18:18,909
+krásneho procesu spočíva presne v tej
+hodnote, ktorá ťa zarazila v tých 200
+
+1002
+00:18:18,909 --> 00:18:18,919
+hodnote, ktorá ťa zarazila v tých 200
+
+1003
+00:18:18,919 --> 00:18:20,510
+hodnote, ktorá ťa zarazila v tých 200
+miliónov C.
+
+1004
+00:18:20,510 --> 00:18:20,520
+miliónov C.
+
+1005
+00:18:20,520 --> 00:18:23,630
+miliónov C.
+>> Uhm. Čo nie je také ťažké, keď to len
+
+1006
+00:18:23,630 --> 00:18:23,640
+>> Uhm. Čo nie je také ťažké, keď to len
+
+1007
+00:18:23,640 --> 00:18:25,190
+>> Uhm. Čo nie je také ťažké, keď to len
+chceš urobiť aj že nech sa s tým deje
+
+1008
+00:18:25,190 --> 00:18:25,200
+chceš urobiť aj že nech sa s tým deje
+
+1009
+00:18:25,200 --> 00:18:26,669
+chceš urobiť aj že nech sa s tým deje
+hocičo, lebo to je potom tá atómová
+
+1010
+00:18:26,669 --> 00:18:26,679
+hocičo, lebo to je potom tá atómová
+
+1011
+00:18:26,679 --> 00:18:28,549
+hocičo, lebo to je potom tá atómová
+bomba. Je to zložité vtedy, keď to chceš
+
+1012
+00:18:28,549 --> 00:18:28,559
+bomba. Je to zložité vtedy, keď to chceš
+
+1013
+00:18:28,559 --> 00:18:29,070
+bomba. Je to zložité vtedy, keď to chceš
+držať.
+
+1014
+00:18:29,070 --> 00:18:29,080
+držať.
+
+1015
+00:18:29,080 --> 00:18:30,909
+držať.
+>> To je také, že áno, že
+
+1016
+00:18:30,909 --> 00:18:30,919
+>> To je také, že áno, že
+
+1017
+00:18:30,919 --> 00:18:34,110
+>> To je také, že áno, že
+>> keď z toho chceš spraviť eh teplú vodu a
+
+1018
+00:18:34,110 --> 00:18:34,120
+>> keď z toho chceš spraviť eh teplú vodu a
+
+1019
+00:18:34,120 --> 00:18:35,789
+>> keď z toho chceš spraviť eh teplú vodu a
+par,
+
+1020
+00:18:35,789 --> 00:18:35,799
+par,
+
+1021
+00:18:35,799 --> 00:18:38,630
+par,
+>> tak aby aby si to mohol robiť. No chceš
+
+1022
+00:18:38,630 --> 00:18:38,640
+>> tak aby aby si to mohol robiť. No chceš
+
+1023
+00:18:38,640 --> 00:18:40,830
+>> tak aby aby si to mohol robiť. No chceš
+tak, aby si to robil večne alebo večne,
+
+1024
+00:18:40,830 --> 00:18:40,840
+tak, aby si to robil večne alebo večne,
+
+1025
+00:18:40,840 --> 00:18:42,390
+tak, aby si to robil večne alebo večne,
+že roky v kuse možno s nejakou
+
+1026
+00:18:42,390 --> 00:18:42,400
+že roky v kuse možno s nejakou
+
+1027
+00:18:42,400 --> 00:18:44,310
+že roky v kuse možno s nejakou
+minimálnou údržbou, aby si mal čo
+
+1028
+00:18:44,310 --> 00:18:44,320
+minimálnou údržbou, aby si mal čo
+
+1029
+00:18:44,320 --> 00:18:46,549
+minimálnou údržbou, aby si mal čo
+najdlhší ten čas, kedy vyrábaš energiu.
+
+1030
+00:18:46,549 --> 00:18:46,559
+najdlhší ten čas, kedy vyrábaš energiu.
+
+1031
+00:18:46,559 --> 00:18:47,990
+najdlhší ten čas, kedy vyrábaš energiu.
+To je vlastne silná stránka jadrových
+
+1032
+00:18:47,990 --> 00:18:48,000
+To je vlastne silná stránka jadrových
+
+1033
+00:18:48,000 --> 00:18:49,310
+To je vlastne silná stránka jadrových
+elektrární. Napríklad aj proti
+
+1034
+00:18:49,310 --> 00:18:49,320
+elektrární. Napríklad aj proti
+
+1035
+00:18:49,320 --> 00:18:51,070
+elektrární. Napríklad aj proti
+obnoviteľným zdrojom.
+
+1036
+00:18:51,070 --> 00:18:51,080
+obnoviteľným zdrojom.
+
+1037
+00:18:51,080 --> 00:18:53,710
+obnoviteľným zdrojom.
+eh ja neviem eh soláru alebo fotovoltike
+
+1038
+00:18:53,710 --> 00:18:53,720
+eh ja neviem eh soláru alebo fotovoltike
+
+1039
+00:18:53,720 --> 00:18:55,470
+eh ja neviem eh soláru alebo fotovoltike
+je, že proste vyrába nonstop tú energiu
+
+1040
+00:18:55,470 --> 00:18:55,480
+je, že proste vyrába nonstop tú energiu
+
+1041
+00:18:55,480 --> 00:18:57,590
+je, že proste vyrába nonstop tú energiu
+stabilne. A toto chceme od fúzie, že my
+
+1042
+00:18:57,590 --> 00:18:57,600
+stabilne. A toto chceme od fúzie, že my
+
+1043
+00:18:57,600 --> 00:18:59,870
+stabilne. A toto chceme od fúzie, že my
+nechceme, že chvíľku robí a potom stojí
+
+1044
+00:18:59,870 --> 00:18:59,880
+nechceme, že chvíľku robí a potom stojí
+
+1045
+00:18:59,880 --> 00:19:02,110
+nechceme, že chvíľku robí a potom stojí
+dva dni, kým tam meníš veci.
+
+1046
+00:19:02,110 --> 00:19:02,120
+dva dni, kým tam meníš veci.
+
+1047
+00:19:02,120 --> 00:19:05,350
+dva dni, kým tam meníš veci.
+>> Že otázka je, ako mať takýto proces v
+
+1048
+00:19:05,350 --> 00:19:05,360
+>> Že otázka je, ako mať takýto proces v
+
+1049
+00:19:05,360 --> 00:19:06,950
+>> Že otázka je, ako mať takýto proces v
+podstate fyzikálne jednoduchý, poznáme
+
+1050
+00:19:06,950 --> 00:19:06,960
+podstate fyzikálne jednoduchý, poznáme
+
+1051
+00:19:06,960 --> 00:19:10,149
+podstate fyzikálne jednoduchý, poznáme
+ho takmer storočie, ale pri teplote 200
+
+1052
+00:19:10,149 --> 00:19:10,159
+ho takmer storočie, ale pri teplote 200
+
+1053
+00:19:10,159 --> 00:19:11,789
+ho takmer storočie, ale pri teplote 200
+miliónov stupňov, tak aby to celé
+
+1054
+00:19:11,789 --> 00:19:11,799
+miliónov stupňov, tak aby to celé
+
+1055
+00:19:11,799 --> 00:19:14,350
+miliónov stupňov, tak aby to celé
+vydržalo, lebo čo robia veci, ktoré majú
+
+1056
+00:19:14,350 --> 00:19:14,360
+vydržalo, lebo čo robia veci, ktoré majú
+
+1057
+00:19:14,360 --> 00:19:15,549
+vydržalo, lebo čo robia veci, ktoré majú
+200 miliónov stupňov? On chcú
+
+1058
+00:19:15,549 --> 00:19:15,559
+200 miliónov stupňov? On chcú
+
+1059
+00:19:15,559 --> 00:19:17,669
+200 miliónov stupňov? On chcú
+expandovať, chcú sa rozširovať,
+
+1060
+00:19:17,669 --> 00:19:17,679
+expandovať, chcú sa rozširovať,
+
+1061
+00:19:17,679 --> 00:19:21,029
+expandovať, chcú sa rozširovať,
+rozpínať, inými slovami, vybuchovať.
+
+1062
+00:19:21,029 --> 00:19:21,039
+rozpínať, inými slovami, vybuchovať.
+
+1063
+00:19:21,039 --> 00:19:23,870
+rozpínať, inými slovami, vybuchovať.
+Jeden princíp, ktorým sa toto dá
+
+1064
+00:19:23,870 --> 00:19:23,880
+Jeden princíp, ktorým sa toto dá
+
+1065
+00:19:23,880 --> 00:19:25,390
+Jeden princíp, ktorým sa toto dá
+dosiahnuť, ale nebudeme sa o ňom
+
+1066
+00:19:25,390 --> 00:19:25,400
+dosiahnuť, ale nebudeme sa o ňom
+
+1067
+00:19:25,400 --> 00:19:26,750
+dosiahnuť, ale nebudeme sa o ňom
+rozprávať viacej, neviem o ňom až tak
+
+1068
+00:19:26,750 --> 00:19:26,760
+rozprávať viacej, neviem o ňom až tak
+
+1069
+00:19:26,760 --> 00:19:28,669
+rozprávať viacej, neviem o ňom až tak
+veľa, je, že v podstate ty celé stláčaš
+
+1070
+00:19:28,669 --> 00:19:28,679
+veľa, je, že v podstate ty celé stláčaš
+
+1071
+00:19:28,679 --> 00:19:31,990
+veľa, je, že v podstate ty celé stláčaš
+lasermi. Čiže dáš niekde ten eh fúzny
+
+1072
+00:19:31,990 --> 00:19:32,000
+lasermi. Čiže dáš niekde ten eh fúzny
+
+1073
+00:19:32,000 --> 00:19:34,029
+lasermi. Čiže dáš niekde ten eh fúzny
+materiál, nejaká malá peleta alebo
+
+1074
+00:19:34,029 --> 00:19:34,039
+materiál, nejaká malá peleta alebo
+
+1075
+00:19:34,039 --> 00:19:36,510
+materiál, nejaká malá peleta alebo
+kvapka niečoho a teraz na to zasvčíš
+
+1076
+00:19:36,510 --> 00:19:36,520
+kvapka niečoho a teraz na to zasvčíš
+
+1077
+00:19:36,520 --> 00:19:38,270
+kvapka niečoho a teraz na to zasvčíš
+brutálne silnými laserami z viacerých
+
+1078
+00:19:38,270 --> 00:19:38,280
+brutálne silnými laserami z viacerých
+
+1079
+00:19:38,280 --> 00:19:39,990
+brutálne silnými laserami z viacerých
+strán, aby tie lasere vlastne tomu aj
+
+1080
+00:19:39,990 --> 00:19:40,000
+strán, aby tie lasere vlastne tomu aj
+
+1081
+00:19:40,000 --> 00:19:42,110
+strán, aby tie lasere vlastne tomu aj
+dodali tú veľkú teplotu, ale aby to aj
+
+1082
+00:19:42,110 --> 00:19:42,120
+dodali tú veľkú teplotu, ale aby to aj
+
+1083
+00:19:42,120 --> 00:19:43,149
+dodali tú veľkú teplotu, ale aby to aj
+držali po kope.
+
+1084
+00:19:43,149 --> 00:19:43,159
+držali po kope.
+
+1085
+00:19:43,159 --> 00:19:46,029
+držali po kope.
+>> Uhm. A treba povedať, že nedávno takéto
+
+1086
+00:19:46,029 --> 00:19:46,039
+>> Uhm. A treba povedať, že nedávno takéto
+
+1087
+00:19:46,039 --> 00:19:47,990
+>> Uhm. A treba povedať, že nedávno takéto
+laserové reaktory dosiahli nejaké
+
+1088
+00:19:47,990 --> 00:19:48,000
+laserové reaktory dosiahli nejaké
+
+1089
+00:19:48,000 --> 00:19:50,310
+laserové reaktory dosiahli nejaké
+výsledky, že naštartovali fúziu, chvíľku
+
+1090
+00:19:50,310 --> 00:19:50,320
+výsledky, že naštartovali fúziu, chvíľku
+
+1091
+00:19:50,320 --> 00:19:52,350
+výsledky, že naštartovali fúziu, chvíľku
+ju držali a potom sa vypli. Ale že
+
+1092
+00:19:52,350 --> 00:19:52,360
+ju držali a potom sa vypli. Ale že
+
+1093
+00:19:52,360 --> 00:19:53,029
+ju držali a potom sa vypli. Ale že
+>> to je veľký ú
+
+1094
+00:19:53,029 --> 00:19:53,039
+>> to je veľký ú
+
+1095
+00:19:53,039 --> 00:19:56,470
+>> to je veľký ú
+>> nevyzerá to je je to, že super, ale majú
+
+1096
+00:19:56,470 --> 00:19:56,480
+>> nevyzerá to je je to, že super, ale majú
+
+1097
+00:19:56,480 --> 00:19:58,630
+>> nevyzerá to je je to, že super, ale majú
+rôzne komplikácie, o ktorých ak ľudia
+
+1098
+00:19:58,630 --> 00:19:58,640
+rôzne komplikácie, o ktorých ak ľudia
+
+1099
+00:19:58,640 --> 00:20:00,549
+rôzne komplikácie, o ktorých ak ľudia
+budú chcieť, tak si môžeme naštudovať a
+
+1100
+00:20:00,549 --> 00:20:00,559
+budú chcieť, tak si môžeme naštudovať a
+
+1101
+00:20:00,559 --> 00:20:03,190
+budú chcieť, tak si môžeme naštudovať a
+porozprávať niekedy viacej. Ja som ale
+
+1102
+00:20:03,190 --> 00:20:03,200
+porozprávať niekedy viacej. Ja som ale
+
+1103
+00:20:03,200 --> 00:20:04,789
+porozprávať niekedy viacej. Ja som ale
+bol nedávno na konferencii, kde sa veľa
+
+1104
+00:20:04,789 --> 00:20:04,799
+bol nedávno na konferencii, kde sa veľa
+
+1105
+00:20:04,799 --> 00:20:07,310
+bol nedávno na konferencii, kde sa veľa
+rozprávalo o Tokamakoch. To je iný
+
+1106
+00:20:07,310 --> 00:20:07,320
+rozprávalo o Tokamakoch. To je iný
+
+1107
+00:20:07,320 --> 00:20:09,830
+rozprávalo o Tokamakoch. To je iný
+spôsob, ako udržať tú plazmu horúcu po
+
+1108
+00:20:09,830 --> 00:20:09,840
+spôsob, ako udržať tú plazmu horúcu po
+
+1109
+00:20:09,840 --> 00:20:12,950
+spôsob, ako udržať tú plazmu horúcu po
+kope. A zároveň takýto reaktor sa buduje
+
+1110
+00:20:12,950 --> 00:20:12,960
+kope. A zároveň takýto reaktor sa buduje
+
+1111
+00:20:12,960 --> 00:20:14,990
+kope. A zároveň takýto reaktor sa buduje
+v Európe. Teda niekoľko ich tu máme už
+
+1112
+00:20:14,990 --> 00:20:15,000
+v Európe. Teda niekoľko ich tu máme už
+
+1113
+00:20:15,000 --> 00:20:17,950
+v Európe. Teda niekoľko ich tu máme už
+postavených. Veľa výskumných centier vo
+
+1114
+00:20:17,950 --> 00:20:17,960
+postavených. Veľa výskumných centier vo
+
+1115
+00:20:17,960 --> 00:20:20,710
+postavených. Veľa výskumných centier vo
+svete sa sústredí práve na tento dizajn,
+
+1116
+00:20:20,710 --> 00:20:20,720
+svete sa sústredí práve na tento dizajn,
+
+1117
+00:20:20,720 --> 00:20:22,110
+svete sa sústredí práve na tento dizajn,
+takže vyzerá byť veľmi zaujímavý. Takže
+
+1118
+00:20:22,110 --> 00:20:22,120
+takže vyzerá byť veľmi zaujímavý. Takže
+
+1119
+00:20:22,120 --> 00:20:23,669
+takže vyzerá byť veľmi zaujímavý. Takže
+tomuto sa budeme venovať v podcaste.
+
+1120
+00:20:23,669 --> 00:20:23,679
+tomuto sa budeme venovať v podcaste.
+
+1121
+00:20:23,679 --> 00:20:26,390
+tomuto sa budeme venovať v podcaste.
+Teda nielen že všeobecne fúzné reaktory,
+
+1122
+00:20:26,390 --> 00:20:26,400
+Teda nielen že všeobecne fúzné reaktory,
+
+1123
+00:20:26,400 --> 00:20:29,990
+Teda nielen že všeobecne fúzné reaktory,
+ale konkrétne tieto eh tokamaky alebo
+
+1124
+00:20:29,990 --> 00:20:30,000
+ale konkrétne tieto eh tokamaky alebo
+
+1125
+00:20:30,000 --> 00:20:33,149
+ale konkrétne tieto eh tokamaky alebo
+teda eh majú plazmový confinement. A v
+
+1126
+00:20:33,149 --> 00:20:33,159
+teda eh majú plazmový confinement. A v
+
+1127
+00:20:33,159 --> 00:20:35,390
+teda eh majú plazmový confinement. A v
+podstate plazma je, keď máš plyn, ktorý
+
+1128
+00:20:35,390 --> 00:20:35,400
+podstate plazma je, keď máš plyn, ktorý
+
+1129
+00:20:35,400 --> 00:20:37,789
+podstate plazma je, keď máš plyn, ktorý
+je horúci, čiže keď tam máš ten vodík
+
+1130
+00:20:37,789 --> 00:20:37,799
+je horúci, čiže keď tam máš ten vodík
+
+1131
+00:20:37,799 --> 00:20:40,029
+je horúci, čiže keď tam máš ten vodík
+pri 200 miliónoch a to hélium a tak
+
+1132
+00:20:40,029 --> 00:20:40,039
+pri 200 miliónoch a to hélium a tak
+
+1133
+00:20:40,039 --> 00:20:42,870
+pri 200 miliónoch a to hélium a tak
+ďalej, tak to je proste plazma.
+
+1134
+00:20:42,870 --> 00:20:42,880
+ďalej, tak to je proste plazma.
+
+1135
+00:20:42,880 --> 00:20:45,230
+ďalej, tak to je proste plazma.
+Elektróny sú odtrhnuté od jadier, takže
+
+1136
+00:20:45,230 --> 00:20:45,240
+Elektróny sú odtrhnuté od jadier, takže
+
+1137
+00:20:45,240 --> 00:20:47,350
+Elektróny sú odtrhnuté od jadier, takže
+je to všetko elektricky nabité, čo je
+
+1138
+00:20:47,350 --> 00:20:47,360
+je to všetko elektricky nabité, čo je
+
+1139
+00:20:47,360 --> 00:20:49,430
+je to všetko elektricky nabité, čo je
+dobré, lebo elektricky nabité veci sa
+
+1140
+00:20:49,430 --> 00:20:49,440
+dobré, lebo elektricky nabité veci sa
+
+1141
+00:20:49,440 --> 00:20:51,669
+dobré, lebo elektricky nabité veci sa
+dajú udržiavať pomocou magnetických
+
+1142
+00:20:51,669 --> 00:20:51,679
+dajú udržiavať pomocou magnetických
+
+1143
+00:20:51,679 --> 00:20:52,630
+dajú udržiavať pomocou magnetických
+polí.
+
+1144
+00:20:52,630 --> 00:20:52,640
+polí.
+
+1145
+00:20:52,640 --> 00:20:54,870
+polí.
+>> Čiže myšlienka je taká, že zober si
+
+1146
+00:20:54,870 --> 00:20:54,880
+>> Čiže myšlienka je taká, že zober si
+
+1147
+00:20:54,880 --> 00:20:57,350
+>> Čiže myšlienka je taká, že zober si
+reaktor v tvare koblihy. Šiška po
+
+1148
+00:20:57,350 --> 00:20:57,360
+reaktor v tvare koblihy. Šiška po
+
+1149
+00:20:57,360 --> 00:20:58,830
+reaktor v tvare koblihy. Šiška po
+slovensky, ale nemyslím teraz takúto
+
+1150
+00:20:58,830 --> 00:20:58,840
+slovensky, ale nemyslím teraz takúto
+
+1151
+00:20:58,840 --> 00:21:00,230
+slovensky, ale nemyslím teraz takúto
+lekvarovú šišku, ale takú tú so
+
+1152
+00:21:00,230 --> 00:21:00,240
+lekvarovú šišku, ale takú tú so
+
+1153
+00:21:00,240 --> 00:21:00,710
+lekvarovú šišku, ale takú tú so
+Simpsonom.
+
+1154
+00:21:00,710 --> 00:21:00,720
+Simpsonom.
+
+1155
+00:21:00,720 --> 00:21:02,230
+Simpsonom.
+>> S tou dierkou. Hej, hej,
+
+1156
+00:21:02,230 --> 00:21:02,240
+>> S tou dierkou. Hej, hej,
+
+1157
+00:21:02,240 --> 00:21:05,070
+>> S tou dierkou. Hej, hej,
+>> áno, áno, áno. Eh, Toruš matematicky ako
+
+1158
+00:21:05,070 --> 00:21:05,080
+>> áno, áno, áno. Eh, Toruš matematicky ako
+
+1159
+00:21:05,080 --> 00:21:06,630
+>> áno, áno, áno. Eh, Toruš matematicky ako
+objekt
+
+1160
+00:21:06,630 --> 00:21:06,640
+objekt
+
+1161
+00:21:06,640 --> 00:21:08,029
+objekt
+si nepomohol tomu.
+
+1162
+00:21:08,029 --> 00:21:08,039
+si nepomohol tomu.
+
+1163
+00:21:08,039 --> 00:21:10,269
+si nepomohol tomu.
+>> Áno. Áno. Čiže, čiže predstav si, že
+
+1164
+00:21:10,269 --> 00:21:10,279
+>> Áno. Áno. Čiže, čiže predstav si, že
+
+1165
+00:21:10,279 --> 00:21:12,190
+>> Áno. Áno. Čiže, čiže predstav si, že
+pneumatiku od traktora a teraz tú
+
+1166
+00:21:12,190 --> 00:21:12,200
+pneumatiku od traktora a teraz tú
+
+1167
+00:21:12,200 --> 00:21:15,070
+pneumatiku od traktora a teraz tú
+pneumatiku obvinieš super silnými
+
+1168
+00:21:15,070 --> 00:21:15,080
+pneumatiku obvinieš super silnými
+
+1169
+00:21:15,080 --> 00:21:17,789
+pneumatiku obvinieš super silnými
+magnetmi a tá reakcia bude prebiehať vo
+
+1170
+00:21:17,789 --> 00:21:17,799
+magnetmi a tá reakcia bude prebiehať vo
+
+1171
+00:21:17,799 --> 00:21:19,789
+magnetmi a tá reakcia bude prebiehať vo
+vnútri tej pneumatiky, vo vnútri tej
+
+1172
+00:21:19,789 --> 00:21:19,799
+vnútri tej pneumatiky, vo vnútri tej
+
+1173
+00:21:19,799 --> 00:21:22,029
+vnútri tej pneumatiky, vo vnútri tej
+duše. Inak ja som strašne sklamaný, že
+
+1174
+00:21:22,029 --> 00:21:22,039
+duše. Inak ja som strašne sklamaný, že
+
+1175
+00:21:22,039 --> 00:21:23,950
+duše. Inak ja som strašne sklamaný, že
+čo znamená tokam. Ja som si myslel, že
+
+1176
+00:21:23,950 --> 00:21:23,960
+čo znamená tokam. Ja som si myslel, že
+
+1177
+00:21:23,960 --> 00:21:26,110
+čo znamená tokam. Ja som si myslel, že
+to je nejaké zvláštne slovo zo
+
+1178
+00:21:26,110 --> 00:21:26,120
+to je nejaké zvláštne slovo zo
+
+1179
+00:21:26,120 --> 00:21:27,870
+to je nejaké zvláštne slovo zo
+svahilčiny alebo vieš a vieš, čo to
+
+1180
+00:21:27,870 --> 00:21:27,880
+svahilčiny alebo vieš a vieš, čo to
+
+1181
+00:21:27,880 --> 00:21:29,110
+svahilčiny alebo vieš a vieš, čo to
+znamená? No,
+
+1182
+00:21:29,110 --> 00:21:29,120
+znamená? No,
+
+1183
+00:21:29,120 --> 00:21:31,470
+znamená? No,
+>> toroidná komora v magnetických cievkach.
+
+1184
+00:21:31,470 --> 00:21:31,480
+>> toroidná komora v magnetických cievkach.
+
+1185
+00:21:31,480 --> 00:21:33,710
+>> toroidná komora v magnetických cievkach.
+To je z ruského. [smiech]
+
+1186
+00:21:33,710 --> 00:21:33,720
+To je z ruského. [smiech]
+
+1187
+00:21:33,720 --> 00:21:35,669
+To je z ruského. [smiech]
+>> Jo, sorry.
+
+1188
+00:21:35,669 --> 00:21:35,679
+>> Jo, sorry.
+
+1189
+00:21:35,679 --> 00:21:37,190
+>> Jo, sorry.
+>> Slabé, nie?
+
+1190
+00:21:37,190 --> 00:21:37,200
+>> Slabé, nie?
+
+1191
+00:21:37,200 --> 00:21:40,510
+>> Slabé, nie?
+>> Ja som čakal odčov. Pardon. L tak.
+
+1192
+00:21:40,510 --> 00:21:40,520
+>> Ja som čakal odčov. Pardon. L tak.
+
+1193
+00:21:40,520 --> 00:21:43,070
+>> Ja som čakal odčov. Pardon. L tak.
+>> Áno, áno, áno. Úplne rozumiem, že hej.
+
+1194
+00:21:43,070 --> 00:21:43,080
+>> Áno, áno, áno. Úplne rozumiem, že hej.
+
+1195
+00:21:43,080 --> 00:21:46,269
+>> Áno, áno, áno. Úplne rozumiem, že hej.
+Znie to cool. Znie to tak jak Tom Hauk.
+
+1196
+00:21:46,269 --> 00:21:46,279
+Znie to cool. Znie to tak jak Tom Hauk.
+
+1197
+00:21:46,279 --> 00:21:49,470
+Znie to cool. Znie to tak jak Tom Hauk.
+>> Eh, alebo tá omama omamua. Eh, tá
+
+1198
+00:21:49,470 --> 00:21:49,480
+>> Eh, alebo tá omama omamua. Eh, tá
+
+1199
+00:21:49,480 --> 00:21:52,870
+>> Eh, alebo tá omama omamua. Eh, tá
+>> omua. Hej. Pos dialov v havajčine, hej.
+
+1200
+00:21:52,870 --> 00:21:52,880
+>> omua. Hej. Pos dialov v havajčine, hej.
+
+1201
+00:21:52,880 --> 00:21:56,789
+>> omua. Hej. Pos dialov v havajčine, hej.
+Proste niečo také zaujímavé. A toto je
+
+1202
+00:21:56,789 --> 00:21:56,799
+Proste niečo také zaujímavé. A toto je
+
+1203
+00:21:56,799 --> 00:21:57,070
+Proste niečo také zaujímavé. A toto je
+kamera.
+
+1204
+00:21:57,070 --> 00:21:57,080
+kamera.
+
+1205
+00:21:57,080 --> 00:21:57,630
+kamera.
+>> Toto je,
+
+1206
+00:21:57,630 --> 00:21:57,640
+>> Toto je,
+
+1207
+00:21:57,640 --> 00:22:00,269
+>> Toto je,
+>> hej. Takže spraví sa takýto koblížek.
+
+1208
+00:22:00,269 --> 00:22:00,279
+>> hej. Takže spraví sa takýto koblížek.
+
+1209
+00:22:00,279 --> 00:22:02,350
+>> hej. Takže spraví sa takýto koblížek.
+Eh, tam sa spravia nejaké silné magnety
+
+1210
+00:22:02,350 --> 00:22:02,360
+Eh, tam sa spravia nejaké silné magnety
+
+1211
+00:22:02,360 --> 00:22:05,029
+Eh, tam sa spravia nejaké silné magnety
+okolo a čo sa tam naplní nejaký plyn
+
+1212
+00:22:05,029 --> 00:22:05,039
+okolo a čo sa tam naplní nejaký plyn
+
+1213
+00:22:05,039 --> 00:22:06,190
+okolo a čo sa tam naplní nejaký plyn
+alebo čo na začiatok?
+
+1214
+00:22:06,190 --> 00:22:06,200
+alebo čo na začiatok?
+
+1215
+00:22:06,200 --> 00:22:07,950
+alebo čo na začiatok?
+>> Áno. Áno. Tam tam tam tam tam tam dáš
+
+1216
+00:22:07,950 --> 00:22:07,960
+>> Áno. Áno. Tam tam tam tam tam tam dáš
+
+1217
+00:22:07,960 --> 00:22:10,590
+>> Áno. Áno. Tam tam tam tam tam tam dáš
+tam dáš to deutérium, nejaké lítium a
+
+1218
+00:22:10,590 --> 00:22:10,600
+tam dáš to deutérium, nejaké lítium a
+
+1219
+00:22:10,600 --> 00:22:11,909
+tam dáš to deutérium, nejaké lítium a
+začneš vypekať.
+
+1220
+00:22:11,909 --> 00:22:11,919
+začneš vypekať.
+
+1221
+00:22:11,919 --> 00:22:15,430
+začneš vypekať.
+>> Asi to aj elektromagnetizmom to za ehš.
+
+1222
+00:22:15,430 --> 00:22:15,440
+>> Asi to aj elektromagnetizmom to za ehš.
+
+1223
+00:22:15,440 --> 00:22:16,669
+>> Asi to aj elektromagnetizmom to za ehš.
+>> Áno. Áno. Presne, že to je to je to je
+
+1224
+00:22:16,669 --> 00:22:16,679
+>> Áno. Áno. Presne, že to je to je to je
+
+1225
+00:22:16,679 --> 00:22:18,669
+>> Áno. Áno. Presne, že to je to je to je
+tvoja varecha. Vieš to týmto pekne
+
+1226
+00:22:18,669 --> 00:22:18,679
+tvoja varecha. Vieš to týmto pekne
+
+1227
+00:22:18,679 --> 00:22:19,950
+tvoja varecha. Vieš to týmto pekne
+zohrievať.
+
+1228
+00:22:19,950 --> 00:22:19,960
+zohrievať.
+
+1229
+00:22:19,960 --> 00:22:23,149
+zohrievať.
+>> Dobre. A prečo? Eh, asi to je vysvetlené
+
+1230
+00:22:23,149 --> 00:22:23,159
+>> Dobre. A prečo? Eh, asi to je vysvetlené
+
+1231
+00:22:23,159 --> 00:22:25,190
+>> Dobre. A prečo? Eh, asi to je vysvetlené
+v tom, ale mne jedine nie je toto až
+
+1232
+00:22:25,190 --> 00:22:25,200
+v tom, ale mne jedine nie je toto až
+
+1233
+00:22:25,200 --> 00:22:27,470
+v tom, ale mne jedine nie je toto až
+také perpetu mobile, že keď sa o tom
+
+1234
+00:22:27,470 --> 00:22:27,480
+také perpetu mobile, že keď sa o tom
+
+1235
+00:22:27,480 --> 00:22:29,149
+také perpetu mobile, že keď sa o tom
+bavíme, že nie je kvôli tomu toto
+
+1236
+00:22:29,149 --> 00:22:29,159
+bavíme, že nie je kvôli tomu toto
+
+1237
+00:22:29,159 --> 00:22:30,990
+bavíme, že nie je kvôli tomu toto
+nemožné, či v tej energii, čo tam
+
+1238
+00:22:30,990 --> 00:22:31,000
+nemožné, či v tej energii, čo tam
+
+1239
+00:22:31,000 --> 00:22:33,269
+nemožné, či v tej energii, čo tam
+perpetu mobil, lebo sa ti míňa palivo.
+
+1240
+00:22:33,269 --> 00:22:33,279
+perpetu mobil, lebo sa ti míňa palivo.
+
+1241
+00:22:33,279 --> 00:22:34,990
+perpetu mobil, lebo sa ti míňa palivo.
+To je to deutérium, čiže to tam musíš
+
+1242
+00:22:34,990 --> 00:22:35,000
+To je to deutérium, čiže to tam musíš
+
+1243
+00:22:35,000 --> 00:22:36,830
+To je to deutérium, čiže to tam musíš
+lopatovať a prípadne ešte je to lítium.
+
+1244
+00:22:36,830 --> 00:22:36,840
+lopatovať a prípadne ešte je to lítium.
+
+1245
+00:22:36,840 --> 00:22:40,310
+lopatovať a prípadne ešte je to lítium.
+OK. Aha, ok. Že jasné, že toto tam Uhm
+
+1246
+00:22:40,310 --> 00:22:40,320
+OK. Aha, ok. Že jasné, že toto tam Uhm
+
+1247
+00:22:40,320 --> 00:22:40,789
+OK. Aha, ok. Že jasné, že toto tam Uhm
+uhm.
+
+1248
+00:22:40,789 --> 00:22:40,799
+uhm.
+
+1249
+00:22:40,799 --> 00:22:42,789
+uhm.
+>> Áno. Čiže te vypadá môže vypnúť, keď mu
+
+1250
+00:22:42,789 --> 00:22:42,799
+>> Áno. Čiže te vypadá môže vypnúť, keď mu
+
+1251
+00:22:42,799 --> 00:22:43,950
+>> Áno. Čiže te vypadá môže vypnúť, keď mu
+dôjde palivo.
+
+1252
+00:22:43,950 --> 00:22:43,960
+dôjde palivo.
+
+1253
+00:22:43,960 --> 00:22:46,549
+dôjde palivo.
+>> Áno. Tak a ešte typickejš sa skôr vypne
+
+1254
+00:22:46,549 --> 00:22:46,559
+>> Áno. Tak a ešte typickejš sa skôr vypne
+
+1255
+00:22:46,559 --> 00:22:48,310
+>> Áno. Tak a ešte typickejš sa skôr vypne
+kvôli tomu, že sa vychladí. Na to, aby
+
+1256
+00:22:48,310 --> 00:22:48,320
+kvôli tomu, že sa vychladí. Na to, aby
+
+1257
+00:22:48,320 --> 00:22:49,909
+kvôli tomu, že sa vychladí. Na to, aby
+toto fungovalo, musíš mať tých 200
+
+1258
+00:22:49,909 --> 00:22:49,919
+toto fungovalo, musíš mať tých 200
+
+1259
+00:22:49,919 --> 00:22:53,669
+toto fungovalo, musíš mať tých 200
+miliónov stupňov C podľa no podľa
+
+1260
+00:22:53,669 --> 00:22:53,679
+miliónov stupňov C podľa no podľa
+
+1261
+00:22:53,679 --> 00:22:56,990
+miliónov stupňov C podľa no podľa
+dizajnu, bla bla bla 200 miliónov. A tá
+
+1262
+00:22:56,990 --> 00:22:57,000
+dizajnu, bla bla bla 200 miliónov. A tá
+
+1263
+00:22:57,000 --> 00:23:00,110
+dizajnu, bla bla bla 200 miliónov. A tá
+reakcia ti vyprodukuje na každú jednu
+
+1264
+00:23:00,110 --> 00:23:00,120
+reakcia ti vyprodukuje na každú jednu
+
+1265
+00:23:00,120 --> 00:23:02,630
+reakcia ti vyprodukuje na každú jednu
+fúznu reakciu nejaký počet mega
+
+1266
+00:23:02,630 --> 00:23:02,640
+fúznu reakciu nejaký počet mega
+
+1267
+00:23:02,640 --> 00:23:05,190
+fúznu reakciu nejaký počet mega
+elektrónov energie. z nich časť
+
+1268
+00:23:05,190 --> 00:23:05,200
+elektrónov energie. z nich časť
+
+1269
+00:23:05,200 --> 00:23:07,950
+elektrónov energie. z nich časť
+extrahuješ, zoberieš do systému, aby si
+
+1270
+00:23:07,950 --> 00:23:07,960
+extrahuješ, zoberieš do systému, aby si
+
+1271
+00:23:07,960 --> 00:23:11,909
+extrahuješ, zoberieš do systému, aby si
+robil tú elektrinu z toho napríklad a
+
+1272
+00:23:11,909 --> 00:23:11,919
+robil tú elektrinu z toho napríklad a
+
+1273
+00:23:11,919 --> 00:23:13,669
+robil tú elektrinu z toho napríklad a
+čas zostane v systéme, aby ho
+
+1274
+00:23:13,669 --> 00:23:13,679
+čas zostane v systéme, aby ho
+
+1275
+00:23:13,679 --> 00:23:15,230
+čas zostane v systéme, aby ho
+prikurovala, aby ho držala pri tej
+
+1276
+00:23:15,230 --> 00:23:15,240
+prikurovala, aby ho držala pri tej
+
+1277
+00:23:15,240 --> 00:23:17,269
+prikurovala, aby ho držala pri tej
+vysokej teplote. No tá teplota sa stráca
+
+1278
+00:23:17,269 --> 00:23:17,279
+vysokej teplote. No tá teplota sa stráca
+
+1279
+00:23:17,279 --> 00:23:20,510
+vysokej teplote. No tá teplota sa stráca
+dookolia, ono to postupne chladne. A to,
+
+1280
+00:23:20,510 --> 00:23:20,520
+dookolia, ono to postupne chladne. A to,
+
+1281
+00:23:20,520 --> 00:23:22,350
+dookolia, ono to postupne chladne. A to,
+čo sa ti typicky stane v tom reaktore,
+
+1282
+00:23:22,350 --> 00:23:22,360
+čo sa ti typicky stane v tom reaktore,
+
+1283
+00:23:22,360 --> 00:23:23,909
+čo sa ti typicky stane v tom reaktore,
+že vychladne. Nie, že ti tam dôjde to
+
+1284
+00:23:23,909 --> 00:23:23,919
+že vychladne. Nie, že ti tam dôjde to
+
+1285
+00:23:23,919 --> 00:23:25,510
+že vychladne. Nie, že ti tam dôjde to
+palivo, lebo tak keby bol problém len s
+
+1286
+00:23:25,510 --> 00:23:25,520
+palivo, lebo tak keby bol problém len s
+
+1287
+00:23:25,520 --> 00:23:27,110
+palivo, lebo tak keby bol problém len s
+palivom, tak ho proste dosypávame
+
+1288
+00:23:27,110 --> 00:23:27,120
+palivom, tak ho proste dosypávame
+
+1289
+00:23:27,120 --> 00:23:28,470
+palivom, tak ho proste dosypávame
+rýchlejšie. Problém je, že ti to
+
+1290
+00:23:28,470 --> 00:23:28,480
+rýchlejšie. Problém je, že ti to
+
+1291
+00:23:28,480 --> 00:23:31,110
+rýchlejšie. Problém je, že ti to
+vychladne. A toto je tá sranda, že keď
+
+1292
+00:23:31,110 --> 00:23:31,120
+vychladne. A toto je tá sranda, že keď
+
+1293
+00:23:31,120 --> 00:23:33,110
+vychladne. A toto je tá sranda, že keď
+zoberieš tie magnetické polia, na
+
+1294
+00:23:33,110 --> 00:23:33,120
+zoberieš tie magnetické polia, na
+
+1295
+00:23:33,120 --> 00:23:35,549
+zoberieš tie magnetické polia, na
+usporiadajš ich, tak to, čo vo vnútri tá
+
+1296
+00:23:35,549 --> 00:23:35,559
+usporiadajš ich, tak to, čo vo vnútri tá
+
+1297
+00:23:35,559 --> 00:23:36,990
+usporiadajš ich, tak to, čo vo vnútri tá
+plazma začne robiť, je, že ona začne
+
+1298
+00:23:36,990 --> 00:23:37,000
+plazma začne robiť, je, že ona začne
+
+1299
+00:23:37,000 --> 00:23:39,510
+plazma začne robiť, je, že ona začne
+krúžiť a ona začne výriť. Normálne si to
+
+1300
+00:23:39,510 --> 00:23:39,520
+krúžiť a ona začne výriť. Normálne si to
+
+1301
+00:23:39,520 --> 00:23:41,149
+krúžiť a ona začne výriť. Normálne si to
+predstav, že keď si keď si zohrievaš
+
+1302
+00:23:41,149 --> 00:23:41,159
+predstav, že keď si keď si zohrievaš
+
+1303
+00:23:41,159 --> 00:23:42,789
+predstav, že keď si keď si zohrievaš
+nejakú omáčku alebo čo, tak vidíš, ako
+
+1304
+00:23:42,789 --> 00:23:42,799
+nejakú omáčku alebo čo, tak vidíš, ako
+
+1305
+00:23:42,799 --> 00:23:44,390
+nejakú omáčku alebo čo, tak vidíš, ako
+ti na niektorých miestach tak hore začnú
+
+1306
+00:23:44,390 --> 00:23:44,400
+ti na niektorých miestach tak hore začnú
+
+1307
+00:23:44,400 --> 00:23:45,990
+ti na niektorých miestach tak hore začnú
+stúpať bubliny, ako sa to tam v tom
+
+1308
+00:23:45,990 --> 00:23:46,000
+stúpať bubliny, ako sa to tam v tom
+
+1309
+00:23:46,000 --> 00:23:49,110
+stúpať bubliny, ako sa to tam v tom
+hrnci začne tak víriť a hmýriť. Tak plus
+
+1310
+00:23:49,110 --> 00:23:49,120
+hrnci začne tak víriť a hmýriť. Tak plus
+
+1311
+00:23:49,120 --> 00:23:51,350
+hrnci začne tak víriť a hmýriť. Tak plus
+mínus niečo podobné sa deje v tom
+
+1312
+00:23:51,350 --> 00:23:51,360
+mínus niečo podobné sa deje v tom
+
+1313
+00:23:51,360 --> 00:23:53,750
+mínus niečo podobné sa deje v tom
+kamaku, že ty tam máš obrovskú teplotu,
+
+1314
+00:23:53,750 --> 00:23:53,760
+kamaku, že ty tam máš obrovskú teplotu,
+
+1315
+00:23:53,760 --> 00:23:56,070
+kamaku, že ty tam máš obrovskú teplotu,
+ktorú držíš pod kontrolou veľkými
+
+1316
+00:23:56,070 --> 00:23:56,080
+ktorú držíš pod kontrolou veľkými
+
+1317
+00:23:56,080 --> 00:23:58,789
+ktorú držíš pod kontrolou veľkými
+silnými magnetickými poliami, aby bolo
+
+1318
+00:23:58,789 --> 00:23:58,799
+silnými magnetickými poliami, aby bolo
+
+1319
+00:23:58,799 --> 00:24:00,149
+silnými magnetickými poliami, aby bolo
+jasné, že čo je silné, tak to je, že na
+
+1320
+00:24:00,149 --> 00:24:00,159
+jasné, že čo je silné, tak to je, že na
+
+1321
+00:24:00,159 --> 00:24:02,350
+jasné, že čo je silné, tak to je, že na
+úrovni, že 20 Tesla. Magnetické pole
+
+1322
+00:24:02,350 --> 00:24:02,360
+úrovni, že 20 Tesla. Magnetické pole
+
+1323
+00:24:02,360 --> 00:24:05,710
+úrovni, že 20 Tesla. Magnetické pole
+Zeme je asi 10 miliónovkrát menšie, ak
+
+1324
+00:24:05,710 --> 00:24:05,720
+Zeme je asi 10 miliónovkrát menšie, ak
+
+1325
+00:24:05,720 --> 00:24:08,350
+Zeme je asi 10 miliónovkrát menšie, ak
+som to tak z hlavy dobre spočítal.
+
+1326
+00:24:08,350 --> 00:24:08,360
+som to tak z hlavy dobre spočítal.
+
+1327
+00:24:08,360 --> 00:24:10,710
+som to tak z hlavy dobre spočítal.
+Eh, alebo niečo na tejto úrovni. Takže
+
+1328
+00:24:10,710 --> 00:24:10,720
+Eh, alebo niečo na tejto úrovni. Takže
+
+1329
+00:24:10,720 --> 00:24:13,149
+Eh, alebo niečo na tejto úrovni. Takže
+máš pole, ktoré je, že šialene silné,
+
+1330
+00:24:13,149 --> 00:24:13,159
+máš pole, ktoré je, že šialene silné,
+
+1331
+00:24:13,159 --> 00:24:15,590
+máš pole, ktoré je, že šialene silné,
+lomcuje tou super horúcou plazmou a ona
+
+1332
+00:24:15,590 --> 00:24:15,600
+lomcuje tou super horúcou plazmou a ona
+
+1333
+00:24:15,600 --> 00:24:17,870
+lomcuje tou super horúcou plazmou a ona
+sa proste začne veľmi divoko hmýriť a
+
+1334
+00:24:17,870 --> 00:24:17,880
+sa proste začne veľmi divoko hmýriť a
+
+1335
+00:24:17,880 --> 00:24:20,789
+sa proste začne veľmi divoko hmýriť a
+otáčať a víriť. A práve toto vírenie
+
+1336
+00:24:20,789 --> 00:24:20,799
+otáčať a víriť. A práve toto vírenie
+
+1337
+00:24:20,799 --> 00:24:23,630
+otáčať a víriť. A práve toto vírenie
+posúva tú energiu z tých vnútorných
+
+1338
+00:24:23,630 --> 00:24:23,640
+posúva tú energiu z tých vnútorných
+
+1339
+00:24:23,640 --> 00:24:25,190
+posúva tú energiu z tých vnútorných
+častí, kde prebieha reakcia k tým
+
+1340
+00:24:25,190 --> 00:24:25,200
+častí, kde prebieha reakcia k tým
+
+1341
+00:24:25,200 --> 00:24:27,029
+častí, kde prebieha reakcia k tým
+vonkajším častiam, kde sa tá energia
+
+1342
+00:24:27,029 --> 00:24:27,039
+vonkajším častiam, kde sa tá energia
+
+1343
+00:24:27,039 --> 00:24:30,029
+vonkajším častiam, kde sa tá energia
+stráca eh do stien toho reaktora, odkiaľ
+
+1344
+00:24:30,029 --> 00:24:30,039
+stráca eh do stien toho reaktora, odkiaľ
+
+1345
+00:24:30,039 --> 00:24:32,269
+stráca eh do stien toho reaktora, odkiaľ
+ju potom vieš aj extrahovať a podobne.
+
+1346
+00:24:32,269 --> 00:24:32,279
+ju potom vieš aj extrahovať a podobne.
+
+1347
+00:24:32,279 --> 00:24:35,350
+ju potom vieš aj extrahovať a podobne.
+>> Hej. Teraz aspoň myslím, že odtiaľ to,
+
+1348
+00:24:35,350 --> 00:24:35,360
+>> Hej. Teraz aspoň myslím, že odtiaľ to,
+
+1349
+00:24:35,360 --> 00:24:38,710
+>> Hej. Teraz aspoň myslím, že odtiaľ to,
+aké presné výrenie tam vzniká, určuje
+
+1350
+00:24:38,710 --> 00:24:38,720
+aké presné výrenie tam vzniká, určuje
+
+1351
+00:24:38,720 --> 00:24:41,909
+aké presné výrenie tam vzniká, určuje
+ako rýchlo sa ti odoberá tá energia, čo
+
+1352
+00:24:41,909 --> 00:24:41,919
+ako rýchlo sa ti odoberá tá energia, čo
+
+1353
+00:24:41,919 --> 00:24:43,549
+ako rýchlo sa ti odoberá tá energia, čo
+je sranda, lebo keď máš niečo iné,
+
+1354
+00:24:43,549 --> 00:24:43,559
+je sranda, lebo keď máš niečo iné,
+
+1355
+00:24:43,559 --> 00:24:45,230
+je sranda, lebo keď máš niečo iné,
+napríklad eh ja neviem, máš nejaký
+
+1356
+00:24:45,230 --> 00:24:45,240
+napríklad eh ja neviem, máš nejaký
+
+1357
+00:24:45,240 --> 00:24:46,870
+napríklad eh ja neviem, máš nejaký
+stroj, tak to ako rýchlo strácaš
+
+1358
+00:24:46,870 --> 00:24:46,880
+stroj, tak to ako rýchlo strácaš
+
+1359
+00:24:46,880 --> 00:24:48,510
+stroj, tak to ako rýchlo strácaš
+energiu, je dané napríklad tepelnou
+
+1360
+00:24:48,510 --> 00:24:48,520
+energiu, je dané napríklad tepelnou
+
+1361
+00:24:48,520 --> 00:24:49,990
+energiu, je dané napríklad tepelnou
+vodivosťou materiálov, vieš, že či tam
+
+1362
+00:24:49,990 --> 00:24:50,000
+vodivosťou materiálov, vieš, že či tam
+
+1363
+00:24:50,000 --> 00:24:51,590
+vodivosťou materiálov, vieš, že či tam
+máš železo alebo či tam máš niečo, čo
+
+1364
+00:24:51,590 --> 00:24:51,600
+máš železo alebo či tam máš niečo, čo
+
+1365
+00:24:51,600 --> 00:24:54,549
+máš železo alebo či tam máš niečo, čo
+izoluje. A tu je tepelná vodivosť tej
+
+1366
+00:24:54,549 --> 00:24:54,559
+izoluje. A tu je tepelná vodivosť tej
+
+1367
+00:24:54,559 --> 00:24:57,470
+izoluje. A tu je tepelná vodivosť tej
+plazmy daná tým, ako veľmi víry. Eh, tým
+
+1368
+00:24:57,470 --> 00:24:57,480
+plazmy daná tým, ako veľmi víry. Eh, tým
+
+1369
+00:24:57,480 --> 00:24:59,070
+plazmy daná tým, ako veľmi víry. Eh, tým
+vírom sa v angličtine niekedy hovorí, že
+
+1370
+00:24:59,070 --> 00:24:59,080
+vírom sa v angličtine niekedy hovorí, že
+
+1371
+00:24:59,080 --> 00:25:01,029
+vírom sa v angličtine niekedy hovorí, že
+eddies, edy ako také meno.
+
+1372
+00:25:01,029 --> 00:25:01,039
+eddies, edy ako také meno.
+
+1373
+00:25:01,039 --> 00:25:03,590
+eddies, edy ako také meno.
+>> Uhm. Takže podľa toho, akých máš veľkých
+
+1374
+00:25:03,590 --> 00:25:03,600
+>> Uhm. Takže podľa toho, akých máš veľkých
+
+1375
+00:25:03,600 --> 00:25:06,190
+>> Uhm. Takže podľa toho, akých máš veľkých
+tých edis ako rýchlo sa točia, to už je
+
+1376
+00:25:06,190 --> 00:25:06,200
+tých edis ako rýchlo sa točia, to už je
+
+1377
+00:25:06,200 --> 00:25:08,990
+tých edis ako rýchlo sa točia, to už je
+dané tou fyzikou magnetických polí, tak
+
+1378
+00:25:08,990 --> 00:25:09,000
+dané tou fyzikou magnetických polí, tak
+
+1379
+00:25:09,000 --> 00:25:11,149
+dané tou fyzikou magnetických polí, tak
+vieš v podstate spočítať, že rýchlosť
+
+1380
+00:25:11,149 --> 00:25:11,159
+vieš v podstate spočítať, že rýchlosť
+
+1381
+00:25:11,159 --> 00:25:13,149
+vieš v podstate spočítať, že rýchlosť
+chladnutia ti závisí od troch
+
+1382
+00:25:13,149 --> 00:25:13,159
+chladnutia ti závisí od troch
+
+1383
+00:25:13,159 --> 00:25:15,310
+chladnutia ti závisí od troch
+parametrov. A to sú jediné tri veci, s
+
+1384
+00:25:15,310 --> 00:25:15,320
+parametrov. A to sú jediné tri veci, s
+
+1385
+00:25:15,320 --> 00:25:17,230
+parametrov. A to sú jediné tri veci, s
+ktorými môžeš hýbať. A túto kombináciu
+
+1386
+00:25:17,230 --> 00:25:17,240
+ktorými môžeš hýbať. A túto kombináciu
+
+1387
+00:25:17,240 --> 00:25:18,990
+ktorými môžeš hýbať. A túto kombináciu
+troch parametrov musíš udržať nad istou
+
+1388
+00:25:18,990 --> 00:25:19,000
+troch parametrov musíš udržať nad istou
+
+1389
+00:25:19,000 --> 00:25:22,430
+troch parametrov musíš udržať nad istou
+hodnotou. A jeden z tých parametrov je
+
+1390
+00:25:22,430 --> 00:25:22,440
+hodnotou. A jeden z tých parametrov je
+
+1391
+00:25:22,440 --> 00:25:24,070
+hodnotou. A jeden z tých parametrov je
+veľkosť reaktora. Druhý z tých
+
+1392
+00:25:24,070 --> 00:25:24,080
+veľkosť reaktora. Druhý z tých
+
+1393
+00:25:24,080 --> 00:25:26,830
+veľkosť reaktora. Druhý z tých
+parametrov je veľkosť magnetického poľa
+
+1394
+00:25:26,830 --> 00:25:26,840
+parametrov je veľkosť magnetického poľa
+
+1395
+00:25:26,840 --> 00:25:30,190
+parametrov je veľkosť magnetického poľa
+a tretí z tých faktorov je taký faktor,
+
+1396
+00:25:30,190 --> 00:25:30,200
+a tretí z tých faktorov je taký faktor,
+
+1397
+00:25:30,200 --> 00:25:32,669
+a tretí z tých faktorov je taký faktor,
+ktorý charakteruje výrivosť plazmy. Aby
+
+1398
+00:25:32,669 --> 00:25:32,679
+ktorý charakteruje výrivosť plazmy. Aby
+
+1399
+00:25:32,679 --> 00:25:35,310
+ktorý charakteruje výrivosť plazmy. Aby
+sme zneli teda ešte vedátorskejšie, tak
+
+1400
+00:25:35,310 --> 00:25:35,320
+sme zneli teda ešte vedátorskejšie, tak
+
+1401
+00:25:35,320 --> 00:25:37,029
+sme zneli teda ešte vedátorskejšie, tak
+>> od veľkosti to závisí v tretej
+
+1402
+00:25:37,029 --> 00:25:37,039
+>> od veľkosti to závisí v tretej
+
+1403
+00:25:37,039 --> 00:25:38,909
+>> od veľkosti to závisí v tretej
+mocnenine. Čiže keď máš dvakrát väčší
+
+1404
+00:25:38,909 --> 00:25:38,919
+mocnenine. Čiže keď máš dvakrát väčší
+
+1405
+00:25:38,919 --> 00:25:41,070
+mocnenine. Čiže keď máš dvakrát väčší
+reaktor, tak osemát je výkonnejší v
+
+1406
+00:25:41,070 --> 00:25:41,080
+reaktor, tak osemát je výkonnejší v
+
+1407
+00:25:41,080 --> 00:25:43,590
+reaktor, tak osemát je výkonnejší v
+tomto ohľade v magnetických políi až od
+
+1408
+00:25:43,590 --> 00:25:43,600
+tomto ohľade v magnetických políi až od
+
+1409
+00:25:43,600 --> 00:25:45,470
+tomto ohľade v magnetických políi až od
+štvrtej mocine. Takže keď máš dvakrát
+
+1410
+00:25:45,470 --> 00:25:45,480
+štvrtej mocine. Takže keď máš dvakrát
+
+1411
+00:25:45,480 --> 00:25:48,149
+štvrtej mocine. Takže keď máš dvakrát
+väčší reaktor, tak je 16krát lepší. Teda
+
+1412
+00:25:48,149 --> 00:25:48,159
+väčší reaktor, tak je 16krát lepší. Teda
+
+1413
+00:25:48,159 --> 00:25:49,669
+väčší reaktor, tak je 16krát lepší. Teda
+keď máš dvakrát silnejšie magnetické
+
+1414
+00:25:49,669 --> 00:25:49,679
+keď máš dvakrát silnejšie magnetické
+
+1415
+00:25:49,679 --> 00:25:52,950
+keď máš dvakrát silnejšie magnetické
+pole, tak 16krát vieš spomaliť stratu
+
+1416
+00:25:52,950 --> 00:25:52,960
+pole, tak 16krát vieš spomaliť stratu
+
+1417
+00:25:52,960 --> 00:25:55,549
+pole, tak 16krát vieš spomaliť stratu
+toho tepla. No a tá výrivosť tam
+
+1418
+00:25:55,549 --> 00:25:55,559
+toho tepla. No a tá výrivosť tam
+
+1419
+00:25:55,559 --> 00:25:57,269
+toho tepla. No a tá výrivosť tam
+vystupuje v tretej moctine. Takže keď
+
+1420
+00:25:57,269 --> 00:25:57,279
+vystupuje v tretej moctine. Takže keď
+
+1421
+00:25:57,279 --> 00:25:58,710
+vystupuje v tretej moctine. Takže keď
+tam keď to zlepšíš dvojnásobne, tak
+
+1422
+00:25:58,710 --> 00:25:58,720
+tam keď to zlepšíš dvojnásobne, tak
+
+1423
+00:25:58,720 --> 00:26:01,350
+tam keď to zlepšíš dvojnásobne, tak
+znova máš osemkrát lepší výsledok. Takže
+
+1424
+00:26:01,350 --> 00:26:01,360
+znova máš osemkrát lepší výsledok. Takže
+
+1425
+00:26:01,360 --> 00:26:03,310
+znova máš osemkrát lepší výsledok. Takže
+ty potrebuješ kombináciu týchto troch
+
+1426
+00:26:03,310 --> 00:26:03,320
+ty potrebuješ kombináciu týchto troch
+
+1427
+00:26:03,320 --> 00:26:05,590
+ty potrebuješ kombináciu týchto troch
+faktorov udržať nad istou hodnotou. Tak
+
+1428
+00:26:05,590 --> 00:26:05,600
+faktorov udržať nad istou hodnotou. Tak
+
+1429
+00:26:05,600 --> 00:26:07,590
+faktorov udržať nad istou hodnotou. Tak
+pozrime sa na prvý parameter. Magnetické
+
+1430
+00:26:07,590 --> 00:26:07,600
+pozrime sa na prvý parameter. Magnetické
+
+1431
+00:26:07,600 --> 00:26:09,830
+pozrime sa na prvý parameter. Magnetické
+polia. Magnetické polia na úrovni 20
+
+1432
+00:26:09,830 --> 00:26:09,840
+polia. Magnetické polia na úrovni 20
+
+1433
+00:26:09,840 --> 00:26:12,110
+polia. Magnetické polia na úrovni 20
+Tesla nie je ďaleko od maxima toho, čo
+
+1434
+00:26:12,110 --> 00:26:12,120
+Tesla nie je ďaleko od maxima toho, čo
+
+1435
+00:26:12,120 --> 00:26:14,470
+Tesla nie je ďaleko od maxima toho, čo
+ako čo sme ako ľudstvo schopní urobiť.
+
+1436
+00:26:14,470 --> 00:26:14,480
+ako čo sme ako ľudstvo schopní urobiť.
+
+1437
+00:26:14,480 --> 00:26:16,430
+ako čo sme ako ľudstvo schopní urobiť.
+Tie magnety pri súčasnom dizajne nevedia
+
+1438
+00:26:16,430 --> 00:26:16,440
+Tie magnety pri súčasnom dizajne nevedia
+
+1439
+00:26:16,440 --> 00:26:18,389
+Tie magnety pri súčasnom dizajne nevedia
+urobiť už oveľa viacej, lebo tam proste
+
+1440
+00:26:18,389 --> 00:26:18,399
+urobiť už oveľa viacej, lebo tam proste
+
+1441
+00:26:18,399 --> 00:26:19,830
+urobiť už oveľa viacej, lebo tam proste
+fyzika ťa nepustí, že aj tie
+
+1442
+00:26:19,830 --> 00:26:19,840
+fyzika ťa nepustí, že aj tie
+
+1443
+00:26:19,840 --> 00:26:22,870
+fyzika ťa nepustí, že aj tie
+najsilnejšie magnety nedokážu pri tomto
+
+1444
+00:26:22,870 --> 00:26:22,880
+najsilnejšie magnety nedokážu pri tomto
+
+1445
+00:26:22,880 --> 00:26:24,750
+najsilnejšie magnety nedokážu pri tomto
+dizajne byť oveľa silnejšie ako tých 20
+
+1446
+00:26:24,750 --> 00:26:24,760
+dizajne byť oveľa silnejšie ako tých 20
+
+1447
+00:26:24,760 --> 00:26:27,029
+dizajne byť oveľa silnejšie ako tých 20
+Tesla. V skutočnosti sú nejaké nápady,
+
+1448
+00:26:27,029 --> 00:26:27,039
+Tesla. V skutočnosti sú nejaké nápady,
+
+1449
+00:26:27,039 --> 00:26:29,430
+Tesla. V skutočnosti sú nejaké nápady,
+ako z toho spraviť niečo niečo lepšie,
+
+1450
+00:26:29,430 --> 00:26:29,440
+ako z toho spraviť niečo niečo lepšie,
+
+1451
+00:26:29,440 --> 00:26:31,590
+ako z toho spraviť niečo niečo lepšie,
+že to urobiť o 50% lepšie, ale tým, že
+
+1452
+00:26:31,590 --> 00:26:31,600
+že to urobiť o 50% lepšie, ale tým, že
+
+1453
+00:26:31,600 --> 00:26:33,630
+že to urobiť o 50% lepšie, ale tým, že
+je to v štvrtej mocine, tak tam chytíš
+
+1454
+00:26:33,630 --> 00:26:33,640
+je to v štvrtej mocine, tak tam chytíš
+
+1455
+00:26:33,640 --> 00:26:35,310
+je to v štvrtej mocine, tak tam chytíš
+dosť veľké zlepšenie.
+
+1456
+00:26:35,310 --> 00:26:35,320
+dosť veľké zlepšenie.
+
+1457
+00:26:35,320 --> 00:26:35,870
+dosť veľké zlepšenie.
+>> Uhm.
+
+1458
+00:26:35,870 --> 00:26:35,880
+>> Uhm.
+
+1459
+00:26:35,880 --> 00:26:38,789
+>> Uhm.
+>> Takže iný dizajn magnetov môže byť jedna
+
+1460
+00:26:38,789 --> 00:26:38,799
+>> Takže iný dizajn magnetov môže byť jedna
+
+1461
+00:26:38,799 --> 00:26:41,110
+>> Takže iný dizajn magnetov môže byť jedna
+vec, ktorá nás pustí ďalej. Druhá vec,
+
+1462
+00:26:41,110 --> 00:26:41,120
+vec, ktorá nás pustí ďalej. Druhá vec,
+
+1463
+00:26:41,120 --> 00:26:42,549
+vec, ktorá nás pustí ďalej. Druhá vec,
+ktorá nás púšťa ďalej je, že robiť
+
+1464
+00:26:42,549 --> 00:26:42,559
+ktorá nás púšťa ďalej je, že robiť
+
+1465
+00:26:42,559 --> 00:26:44,350
+ktorá nás púšťa ďalej je, že robiť
+väčšie reaktory. V podstate
+
+1466
+00:26:44,350 --> 00:26:44,360
+väčšie reaktory. V podstate
+
+1467
+00:26:44,360 --> 00:26:48,389
+väčšie reaktory. V podstate
+>> väčšie ako akože na palivo alebo väčšie
+
+1468
+00:26:48,389 --> 00:26:48,399
+>> väčšie ako akože na palivo alebo väčšie
+
+1469
+00:26:48,399 --> 00:26:50,029
+>> väčšie ako akože na palivo alebo väčšie
+>> aká veľká je tá kobliha.
+
+1470
+00:26:50,029 --> 00:26:50,039
+>> aká veľká je tá kobliha.
+
+1471
+00:26:50,039 --> 00:26:51,630
+>> aká veľká je tá kobliha.
+>> Áno. Tak tak tak že momentálne sa
+
+1472
+00:26:51,630 --> 00:26:51,640
+>> Áno. Tak tak tak že momentálne sa
+
+1473
+00:26:51,640 --> 00:26:53,750
+>> Áno. Tak tak tak že momentálne sa
+stávajú také, ktoré sú už veľké v
+
+1474
+00:26:53,750 --> 00:26:53,760
+stávajú také, ktoré sú už veľké v
+
+1475
+00:26:53,760 --> 00:26:56,110
+stávajú také, ktoré sú už veľké v
+podstate, že niečo medzi rodinným domom
+
+1476
+00:26:56,110 --> 00:26:56,120
+podstate, že niečo medzi rodinným domom
+
+1477
+00:26:56,120 --> 00:26:57,789
+podstate, že niečo medzi rodinným domom
+a panelákom. No skôr je to taký rodinný
+
+1478
+00:26:57,789 --> 00:26:57,799
+a panelákom. No skôr je to taký rodinný
+
+1479
+00:26:57,799 --> 00:27:00,190
+a panelákom. No skôr je to taký rodinný
+dom alebo byt, niečo na úrovni tohto.
+
+1480
+00:27:00,190 --> 00:27:00,200
+dom alebo byt, niečo na úrovni tohto.
+
+1481
+00:27:00,200 --> 00:27:02,789
+dom alebo byt, niečo na úrovni tohto.
+Čiže malý postavený reaktor Jet, eh, ak
+
+1482
+00:27:02,789 --> 00:27:02,799
+Čiže malý postavený reaktor Jet, eh, ak
+
+1483
+00:27:02,799 --> 00:27:04,510
+Čiže malý postavený reaktor Jet, eh, ak
+sa nemýlim, vo Veľkej Británii, fungoval
+
+1484
+00:27:04,510 --> 00:27:04,520
+sa nemýlim, vo Veľkej Británii, fungoval
+
+1485
+00:27:04,520 --> 00:27:07,070
+sa nemýlim, vo Veľkej Británii, fungoval
+veľmi dobre a teraz sa prechádza stavia
+
+1486
+00:27:07,070 --> 00:27:07,080
+veľmi dobre a teraz sa prechádza stavia
+
+1487
+00:27:07,080 --> 00:27:10,230
+veľmi dobre a teraz sa prechádza stavia
+sa ITER, eh, vo Francúzsku, ktorý 2034
+
+1488
+00:27:10,230 --> 00:27:10,240
+sa ITER, eh, vo Francúzsku, ktorý 2034
+
+1489
+00:27:10,240 --> 00:27:13,230
+sa ITER, eh, vo Francúzsku, ktorý 2034
+by mal mať prvú plazmu alebo 2035.
+
+1490
+00:27:13,230 --> 00:27:13,240
+by mal mať prvú plazmu alebo 2035.
+
+1491
+00:27:13,240 --> 00:27:15,909
+by mal mať prvú plazmu alebo 2035.
+Ten, ktorý sa robil v tom jete, bol v
+
+1492
+00:27:15,909 --> 00:27:15,919
+Ten, ktorý sa robil v tom jete, bol v
+
+1493
+00:27:15,919 --> 00:27:18,789
+Ten, ktorý sa robil v tom jete, bol v
+niečom, že energeticky stratový, keď sa
+
+1494
+00:27:18,789 --> 00:27:18,799
+niečom, že energeticky stratový, keď sa
+
+1495
+00:27:18,799 --> 00:27:20,990
+niečom, že energeticky stratový, keď sa
+spustil v roku 1997.
+
+1496
+00:27:20,990 --> 00:27:21,000
+spustil v roku 1997.
+
+1497
+00:27:21,000 --> 00:27:23,110
+spustil v roku 1997.
+To znamená, že mu viacej si tej energie
+
+1498
+00:27:23,110 --> 00:27:23,120
+To znamená, že mu viacej si tej energie
+
+1499
+00:27:23,120 --> 00:27:25,070
+To znamená, že mu viacej si tej energie
+vháňal, ako si z toho dostával a nemal
+
+1500
+00:27:25,070 --> 00:27:25,080
+vháňal, ako si z toho dostával a nemal
+
+1501
+00:27:25,080 --> 00:27:26,750
+vháňal, ako si z toho dostával a nemal
+ani veľmi silné magnetické poli mal ich
+
+1502
+00:27:26,750 --> 00:27:26,760
+ani veľmi silné magnetické poli mal ich
+
+1503
+00:27:26,760 --> 00:27:29,310
+ani veľmi silné magnetické poli mal ich
+niekde na úrovni 3,5 Tesla. Ale v
+
+1504
+00:27:29,310 --> 00:27:29,320
+niekde na úrovni 3,5 Tesla. Ale v
+
+1505
+00:27:29,320 --> 00:27:31,029
+niekde na úrovni 3,5 Tesla. Ale v
+podstate ukázal, že sa to dá, že áno,
+
+1506
+00:27:31,029 --> 00:27:31,039
+podstate ukázal, že sa to dá, že áno,
+
+1507
+00:27:31,039 --> 00:27:32,870
+podstate ukázal, že sa to dá, že áno,
+síce si na tom stratový, ale keď to isté
+
+1508
+00:27:32,870 --> 00:27:32,880
+síce si na tom stratový, ale keď to isté
+
+1509
+00:27:32,880 --> 00:27:35,149
+síce si na tom stratový, ale keď to isté
+postavíš väčšie, tak zrazu ti to môže
+
+1510
+00:27:35,149 --> 00:27:35,159
+postavíš väčšie, tak zrazu ti to môže
+
+1511
+00:27:35,159 --> 00:27:37,590
+postavíš väčšie, tak zrazu ti to môže
+začať fungovať. Čiže ten jet, ktorý mal
+
+1512
+00:27:37,590 --> 00:27:37,600
+začať fungovať. Čiže ten jet, ktorý mal
+
+1513
+00:27:37,600 --> 00:27:41,029
+začať fungovať. Čiže ten jet, ktorý mal
+relatívne ešte malý malú komoru pár
+
+1514
+00:27:41,029 --> 00:27:41,039
+relatívne ešte malý malú komoru pár
+
+1515
+00:27:41,039 --> 00:27:44,269
+relatívne ešte malý malú komoru pár
+metrovú, tak teraz on má nahradiť ITER a
+
+1516
+00:27:44,269 --> 00:27:44,279
+metrovú, tak teraz on má nahradiť ITER a
+
+1517
+00:27:44,279 --> 00:27:45,990
+metrovú, tak teraz on má nahradiť ITER a
+ich ešte zopár ďalších, ale teda, že ten
+
+1518
+00:27:45,990 --> 00:27:46,000
+ich ešte zopár ďalších, ale teda, že ten
+
+1519
+00:27:46,000 --> 00:27:48,470
+ich ešte zopár ďalších, ale teda, že ten
+ITER je taký ten, že veľký megalomanský
+
+1520
+00:27:48,470 --> 00:27:48,480
+ITER je taký ten, že veľký megalomanský
+
+1521
+00:27:48,480 --> 00:27:51,310
+ITER je taký ten, že veľký megalomanský
+európsky projekt, kde je naplánované, že
+
+1522
+00:27:51,310 --> 00:27:51,320
+európsky projekt, kde je naplánované, že
+
+1523
+00:27:51,320 --> 00:27:55,470
+európsky projekt, kde je naplánované, že
+by mala byť pekná udržateľná fúzia a
+
+1524
+00:27:55,470 --> 00:27:55,480
+by mala byť pekná udržateľná fúzia a
+
+1525
+00:27:55,480 --> 00:27:57,470
+by mala byť pekná udržateľná fúzia a
+kupuješ tam vlastne tú výhodu tým, že to
+
+1526
+00:27:57,470 --> 00:27:57,480
+kupuješ tam vlastne tú výhodu tým, že to
+
+1527
+00:27:57,480 --> 00:28:00,350
+kupuješ tam vlastne tú výhodu tým, že to
+robíš veľké, že od tej veľkosti to
+
+1528
+00:28:00,350 --> 00:28:00,360
+robíš veľké, že od tej veľkosti to
+
+1529
+00:28:00,360 --> 00:28:02,669
+robíš veľké, že od tej veľkosti to
+závisí úplne markantne v štvrtej
+
+1530
+00:28:02,669 --> 00:28:02,679
+závisí úplne markantne v štvrtej
+
+1531
+00:28:02,679 --> 00:28:04,990
+závisí úplne markantne v štvrtej
+mocnine. Takže keď urobíš dvakrát väčší
+
+1532
+00:28:04,990 --> 00:28:05,000
+mocnine. Takže keď urobíš dvakrát väčší
+
+1533
+00:28:05,000 --> 00:28:07,950
+mocnine. Takže keď urobíš dvakrát väčší
+reaktor, tak 16krát výkonnejšie v ňom
+
+1534
+00:28:07,950 --> 00:28:07,960
+reaktor, tak 16krát výkonnejšie v ňom
+
+1535
+00:28:07,960 --> 00:28:11,430
+reaktor, tak 16krát výkonnejšie v ňom
+udržiavaš teplotu v plazme.
+
+1536
+00:28:11,430 --> 00:28:11,440
+udržiavaš teplotu v plazme.
+
+1537
+00:28:11,440 --> 00:28:13,470
+udržiavaš teplotu v plazme.
+Už je spočítané, že on už by mal
+
+1538
+00:28:13,470 --> 00:28:13,480
+Už je spočítané, že on už by mal
+
+1539
+00:28:13,480 --> 00:28:16,630
+Už je spočítané, že on už by mal
+vytvárať energiu a mal by to vydržať
+
+1540
+00:28:16,630 --> 00:28:16,640
+vytvárať energiu a mal by to vydržať
+
+1541
+00:28:16,640 --> 00:28:19,389
+vytvárať energiu a mal by to vydržať
+relatívne dlho.
+
+1542
+00:28:19,389 --> 00:28:19,399
+relatívne dlho.
+
+1543
+00:28:19,399 --> 00:28:22,389
+relatívne dlho.
+A tu teraz prichádza odpoveď, že prečo
+
+1544
+00:28:22,389 --> 00:28:22,399
+A tu teraz prichádza odpoveď, že prečo
+
+1545
+00:28:22,399 --> 00:28:24,710
+A tu teraz prichádza odpoveď, že prečo
+prečo je toto vlastne problematické? On
+
+1546
+00:28:24,710 --> 00:28:24,720
+prečo je toto vlastne problematické? On
+
+1547
+00:28:24,720 --> 00:28:28,669
+prečo je toto vlastne problematické? On
+by mal byť schopný vytvoriť asi 500 MW
+
+1548
+00:28:28,669 --> 00:28:28,679
+by mal byť schopný vytvoriť asi 500 MW
+
+1549
+00:28:28,679 --> 00:28:31,750
+by mal byť schopný vytvoriť asi 500 MW
+energie. Budeš doňho tlačiť 300, on ti
+
+1550
+00:28:31,750 --> 00:28:31,760
+energie. Budeš doňho tlačiť 300, on ti
+
+1551
+00:28:31,760 --> 00:28:34,950
+energie. Budeš doňho tlačiť 300, on ti
+bude dávať 500. Rozdiel 200 MW. Však to
+
+1552
+00:28:34,950 --> 00:28:34,960
+bude dávať 500. Rozdiel 200 MW. Však to
+
+1553
+00:28:34,960 --> 00:28:39,590
+bude dávať 500. Rozdiel 200 MW. Však to
+je výborné. 200 MW je 200 MW výkonu je
+
+1554
+00:28:39,590 --> 00:28:39,600
+je výborné. 200 MW je 200 MW výkonu je
+
+1555
+00:28:39,600 --> 00:28:41,630
+je výborné. 200 MW je 200 MW výkonu je
+veľmi veľa. Problém je, že keď si
+
+1556
+00:28:41,630 --> 00:28:41,640
+veľmi veľa. Problém je, že keď si
+
+1557
+00:28:41,640 --> 00:28:43,750
+veľmi veľa. Problém je, že keď si
+zoberieš takú jadrovú elektráreň, ja
+
+1558
+00:28:43,750 --> 00:28:43,760
+zoberieš takú jadrovú elektráreň, ja
+
+1559
+00:28:43,760 --> 00:28:45,870
+zoberieš takú jadrovú elektráreň, ja
+neviem, Jaslovské Bohunice alebo
+
+1560
+00:28:45,870 --> 00:28:45,880
+neviem, Jaslovské Bohunice alebo
+
+1561
+00:28:45,880 --> 00:28:47,630
+neviem, Jaslovské Bohunice alebo
+Mochovce,
+
+1562
+00:28:47,630 --> 00:28:47,640
+Mochovce,
+
+1563
+00:28:47,640 --> 00:28:51,149
+Mochovce,
+tak oni majú výkon 1400 MW. To znamená,
+
+1564
+00:28:51,149 --> 00:28:51,159
+tak oni majú výkon 1400 MW. To znamená,
+
+1565
+00:28:51,159 --> 00:28:54,630
+tak oni majú výkon 1400 MW. To znamená,
+že máš niečo, čo ťa stojí 20 miliárd.
+
+1566
+00:28:54,630 --> 00:28:54,640
+že máš niečo, čo ťa stojí 20 miliárd.
+
+1567
+00:28:54,640 --> 00:28:56,310
+že máš niečo, čo ťa stojí 20 miliárd.
+Nevieš, ako dobre to bude fungovať aj
+
+1568
+00:28:56,310 --> 00:28:56,320
+Nevieš, ako dobre to bude fungovať aj
+
+1569
+00:28:56,320 --> 00:28:59,190
+Nevieš, ako dobre to bude fungovať aj
+dlhodobo a vytvára to toľko energie ako
+
+1570
+00:28:59,190 --> 00:28:59,200
+dlhodobo a vytvára to toľko energie ako
+
+1571
+00:28:59,200 --> 00:29:01,750
+dlhodobo a vytvára to toľko energie ako
+zlomok mochoviec. A to je to ten problém
+
+1572
+00:29:01,750 --> 00:29:01,760
+zlomok mochoviec. A to je to ten problém
+
+1573
+00:29:01,760 --> 00:29:03,549
+zlomok mochoviec. A to je to ten problém
+plazmy, že to čo vieme robiť, že my
+
+1574
+00:29:03,549 --> 00:29:03,559
+plazmy, že to čo vieme robiť, že my
+
+1575
+00:29:03,559 --> 00:29:06,110
+plazmy, že to čo vieme robiť, že my
+vieme v skutočnosti robiť fúznu energiu.
+
+1576
+00:29:06,110 --> 00:29:06,120
+vieme v skutočnosti robiť fúznu energiu.
+
+1577
+00:29:06,120 --> 00:29:09,110
+vieme v skutočnosti robiť fúznu energiu.
+Už sme to urobili. Už sa podarila fúzná
+
+1578
+00:29:09,110 --> 00:29:09,120
+Už sme to urobili. Už sa podarila fúzná
+
+1579
+00:29:09,120 --> 00:29:11,710
+Už sme to urobili. Už sa podarila fúzná
+energia udržiavať pomerne dlho, niekoľko
+
+1580
+00:29:11,710 --> 00:29:11,720
+energia udržiavať pomerne dlho, niekoľko
+
+1581
+00:29:11,720 --> 00:29:13,750
+energia udržiavať pomerne dlho, niekoľko
+minút. Už sa z toho podarilo žmykať
+
+1582
+00:29:13,750 --> 00:29:13,760
+minút. Už sa z toho podarilo žmykať
+
+1583
+00:29:13,760 --> 00:29:15,990
+minút. Už sa z toho podarilo žmykať
+energiu, čiže mať pozitívny faktor.
+
+1584
+00:29:15,990 --> 00:29:16,000
+energiu, čiže mať pozitívny faktor.
+
+1585
+00:29:16,000 --> 00:29:18,830
+energiu, čiže mať pozitívny faktor.
+Viacej získavaš, ako do toho dávaš.
+
+1586
+00:29:18,830 --> 00:29:18,840
+Viacej získavaš, ako do toho dávaš.
+
+1587
+00:29:18,840 --> 00:29:21,350
+Viacej získavaš, ako do toho dávaš.
+Ale stojí a padá to na tom, že keď
+
+1588
+00:29:21,350 --> 00:29:21,360
+Ale stojí a padá to na tom, že keď
+
+1589
+00:29:21,360 --> 00:29:23,190
+Ale stojí a padá to na tom, že keď
+chceš, aby to fungovalo naozaj dobre,
+
+1590
+00:29:23,190 --> 00:29:23,200
+chceš, aby to fungovalo naozaj dobre,
+
+1591
+00:29:23,200 --> 00:29:25,750
+chceš, aby to fungovalo naozaj dobre,
+tak to musíš robiť veľké. A keď to robíš
+
+1592
+00:29:25,750 --> 00:29:25,760
+tak to musíš robiť veľké. A keď to robíš
+
+1593
+00:29:25,760 --> 00:29:28,269
+tak to musíš robiť veľké. A keď to robíš
+veľké, tak je to tak je to ekonomicky
+
+1594
+00:29:28,269 --> 00:29:28,279
+veľké, tak je to tak je to ekonomicky
+
+1595
+00:29:28,279 --> 00:29:32,470
+veľké, tak je to tak je to ekonomicky
+menej výhodné ako štiepna elektráreň.
+
+1596
+00:29:32,470 --> 00:29:32,480
+menej výhodné ako štiepna elektráreň.
+
+1597
+00:29:32,480 --> 00:29:36,230
+menej výhodné ako štiepna elektráreň.
+A síce tam nemusíš ťažiť palivo, nemusíš
+
+1598
+00:29:36,230 --> 00:29:36,240
+A síce tam nemusíš ťažiť palivo, nemusíš
+
+1599
+00:29:36,240 --> 00:29:38,789
+A síce tam nemusíš ťažiť palivo, nemusíš
+čistiť urán alebo plutónium, nemusíš
+
+1600
+00:29:38,789 --> 00:29:38,799
+čistiť urán alebo plutónium, nemusíš
+
+1601
+00:29:38,799 --> 00:29:41,350
+čistiť urán alebo plutónium, nemusíš
+rozmýšľať, ako budeš skladovať, ale
+
+1602
+00:29:41,350 --> 00:29:41,360
+rozmýšľať, ako budeš skladovať, ale
+
+1603
+00:29:41,360 --> 00:29:44,230
+rozmýšľať, ako budeš skladovať, ale
+stále, keď je to, že 1400 máš z
+
+1604
+00:29:44,230 --> 00:29:44,240
+stále, keď je to, že 1400 máš z
+
+1605
+00:29:44,240 --> 00:29:47,230
+stále, keď je to, že 1400 máš z
+Mochoviec verzus tých 200 300, čo budeš
+
+1606
+00:29:47,230 --> 00:29:47,240
+Mochoviec verzus tých 200 300, čo budeš
+
+1607
+00:29:47,240 --> 00:29:49,269
+Mochoviec verzus tých 200 300, čo budeš
+mykať ITER, takže ITER je tiež len
+
+1608
+00:29:49,269 --> 00:29:49,279
+mykať ITER, takže ITER je tiež len
+
+1609
+00:29:49,279 --> 00:29:51,669
+mykať ITER, takže ITER je tiež len
+technologická ukážka. No a z tých
+
+1610
+00:29:51,669 --> 00:29:51,679
+technologická ukážka. No a z tých
+
+1611
+00:29:51,679 --> 00:29:53,789
+technologická ukážka. No a z tých
+faktorov, ktoré sme spomínali je, že
+
+1612
+00:29:53,789 --> 00:29:53,799
+faktorov, ktoré sme spomínali je, že
+
+1613
+00:29:53,799 --> 00:29:55,669
+faktorov, ktoré sme spomínali je, že
+vieme si predstaviť, že sa ešte pohneme
+
+1614
+00:29:55,669 --> 00:29:55,679
+vieme si predstaviť, že sa ešte pohneme
+
+1615
+00:29:55,679 --> 00:29:57,789
+vieme si predstaviť, že sa ešte pohneme
+v tých magnetických poliach, že budeme
+
+1616
+00:29:57,789 --> 00:29:57,799
+v tých magnetických poliach, že budeme
+
+1617
+00:29:57,799 --> 00:30:00,070
+v tých magnetických poliach, že budeme
+mať silnejšie magnety, ale nie asi oveľa
+
+1618
+00:30:00,070 --> 00:30:00,080
+mať silnejšie magnety, ale nie asi oveľa
+
+1619
+00:30:00,080 --> 00:30:02,269
+mať silnejšie magnety, ale nie asi oveľa
+oveľa viacej. Nechceme sa hýbať v tom
+
+1620
+00:30:02,269 --> 00:30:02,279
+oveľa viacej. Nechceme sa hýbať v tom
+
+1621
+00:30:02,279 --> 00:30:03,990
+oveľa viacej. Nechceme sa hýbať v tom
+smere, že väčšie reaktory, lebo väčšie
+
+1622
+00:30:03,990 --> 00:30:04,000
+smere, že väčšie reaktory, lebo väčšie
+
+1623
+00:30:04,000 --> 00:30:06,590
+smere, že väčšie reaktory, lebo väčšie
+znamená drahšie. Takže najväčšia výzva
+
+1624
+00:30:06,590 --> 00:30:06,600
+znamená drahšie. Takže najväčšia výzva
+
+1625
+00:30:06,600 --> 00:30:09,310
+znamená drahšie. Takže najväčšia výzva
+je dostať pod kontrolu vírivosť tej
+
+1626
+00:30:09,310 --> 00:30:09,320
+je dostať pod kontrolu vírivosť tej
+
+1627
+00:30:09,320 --> 00:30:11,909
+je dostať pod kontrolu vírivosť tej
+plazmy, čo v podstate nás od toho možno
+
+1628
+00:30:11,909 --> 00:30:11,919
+plazmy, čo v podstate nás od toho možno
+
+1629
+00:30:11,919 --> 00:30:14,310
+plazmy, čo v podstate nás od toho možno
+delí jeden dobrý nápad. Správne
+
+1630
+00:30:14,310 --> 00:30:14,320
+delí jeden dobrý nápad. Správne
+
+1631
+00:30:14,320 --> 00:30:16,269
+delí jeden dobrý nápad. Správne
+usporiadanie magnetov vytvorí také
+
+1632
+00:30:16,269 --> 00:30:16,279
+usporiadanie magnetov vytvorí také
+
+1633
+00:30:16,279 --> 00:30:17,990
+usporiadanie magnetov vytvorí také
+magnetické polia, ktoré vplývajú na to,
+
+1634
+00:30:17,990 --> 00:30:18,000
+magnetické polia, ktoré vplývajú na to,
+
+1635
+00:30:18,000 --> 00:30:19,789
+magnetické polia, ktoré vplývajú na to,
+aké výry tam vznikajú. A teraz je
+
+1636
+00:30:19,789 --> 00:30:19,799
+aké výry tam vznikajú. A teraz je
+
+1637
+00:30:19,799 --> 00:30:22,549
+aké výry tam vznikajú. A teraz je
+otázka, že ako to celé usporiadať tak
+
+1638
+00:30:22,549 --> 00:30:22,559
+otázka, že ako to celé usporiadať tak
+
+1639
+00:30:22,559 --> 00:30:26,430
+otázka, že ako to celé usporiadať tak
+tie magnety, aby vývivosť plazmy bola čo
+
+1640
+00:30:26,430 --> 00:30:26,440
+tie magnety, aby vývivosť plazmy bola čo
+
+1641
+00:30:26,440 --> 00:30:28,549
+tie magnety, aby vývivosť plazmy bola čo
+najmenšia. A keď niekto príde s tým
+
+1642
+00:30:28,549 --> 00:30:28,559
+najmenšia. A keď niekto príde s tým
+
+1643
+00:30:28,559 --> 00:30:30,870
+najmenšia. A keď niekto príde s tým
+geniálnym nápadom, tak zrazu ti možno
+
+1644
+00:30:30,870 --> 00:30:30,880
+geniálnym nápadom, tak zrazu ti možno
+
+1645
+00:30:30,880 --> 00:30:33,149
+geniálnym nápadom, tak zrazu ti možno
+stačí mať štyrikrát slabšie magnety a
+
+1646
+00:30:33,149 --> 00:30:33,159
+stačí mať štyrikrát slabšie magnety a
+
+1647
+00:30:33,159 --> 00:30:35,750
+stačí mať štyrikrát slabšie magnety a
+10krát menší reaktor. To znamená, že
+
+1648
+00:30:35,750 --> 00:30:35,760
+10krát menší reaktor. To znamená, že
+
+1649
+00:30:35,760 --> 00:30:39,630
+10krát menší reaktor. To znamená, že
+niečo o veľkosti, ja neviem 10 x 10 x 10
+
+1650
+00:30:39,630 --> 00:30:39,640
+niečo o veľkosti, ja neviem 10 x 10 x 10
+
+1651
+00:30:39,640 --> 00:30:43,710
+niečo o veľkosti, ja neviem 10 x 10 x 10
+mím všudy. A magnetické polia dostupné
+
+1652
+00:30:43,710 --> 00:30:43,720
+mím všudy. A magnetické polia dostupné
+
+1653
+00:30:43,720 --> 00:30:45,470
+mím všudy. A magnetické polia dostupné
+nejakými relatívne normálnymi
+
+1654
+00:30:45,470 --> 00:30:45,480
+nejakými relatívne normálnymi
+
+1655
+00:30:45,480 --> 00:30:48,029
+nejakými relatívne normálnymi
+supravodičmi alebo niečo takéto. A toto
+
+1656
+00:30:48,029 --> 00:30:48,039
+supravodičmi alebo niečo takéto. A toto
+
+1657
+00:30:48,039 --> 00:30:50,630
+supravodičmi alebo niečo takéto. A toto
+je tá veľká výzva jadrovej fúzie. Tie
+
+1658
+00:30:50,630 --> 00:30:50,640
+je tá veľká výzva jadrovej fúzie. Tie
+
+1659
+00:30:50,640 --> 00:30:53,110
+je tá veľká výzva jadrovej fúzie. Tie
+víry a turbulencie ako také sú typicky
+
+1660
+00:30:53,110 --> 00:30:53,120
+víry a turbulencie ako také sú typicky
+
+1661
+00:30:53,120 --> 00:30:54,750
+víry a turbulencie ako také sú typicky
+strašne ťažko zvládnuteľné, že to je
+
+1662
+00:30:54,750 --> 00:30:54,760
+strašne ťažko zvládnuteľné, že to je
+
+1663
+00:30:54,760 --> 00:30:57,269
+strašne ťažko zvládnuteľné, že to je
+jedna z tých, to je jaký preklik na
+
+1664
+00:30:57,269 --> 00:30:57,279
+jedna z tých, to je jaký preklik na
+
+1665
+00:30:57,279 --> 00:30:59,750
+jedna z tých, to je jaký preklik na
+Fainana. On označil turbulenci za jednu
+
+1666
+00:30:59,750 --> 00:30:59,760
+Fainana. On označil turbulenci za jednu
+
+1667
+00:30:59,760 --> 00:31:01,830
+Fainana. On označil turbulenci za jednu
+z nezodpovedaných výziek vízi klasickej
+
+1668
+00:31:01,830 --> 00:31:01,840
+z nezodpovedaných výziek vízi klasickej
+
+1669
+00:31:01,840 --> 00:31:04,070
+z nezodpovedaných výziek vízi klasickej
+fyziky, jednu z otvorených otázok a há
+
+1670
+00:31:04,070 --> 00:31:04,080
+fyziky, jednu z otvorených otázok a há
+
+1671
+00:31:04,080 --> 00:31:06,830
+fyziky, jednu z otvorených otázok a há
+toto stále platí. Pri fúzii stojíme a
+
+1672
+00:31:06,830 --> 00:31:06,840
+toto stále platí. Pri fúzii stojíme a
+
+1673
+00:31:06,840 --> 00:31:08,669
+toto stále platí. Pri fúzii stojíme a
+padáme na tom, že nevieme dostať pod
+
+1674
+00:31:08,669 --> 00:31:08,679
+padáme na tom, že nevieme dostať pod
+
+1675
+00:31:08,679 --> 00:31:11,789
+padáme na tom, že nevieme dostať pod
+kontrolu turbulencie a vírenie. Keď to
+
+1676
+00:31:11,789 --> 00:31:11,799
+kontrolu turbulencie a vírenie. Keď to
+
+1677
+00:31:11,799 --> 00:31:15,230
+kontrolu turbulencie a vírenie. Keď to
+zvládneme, tak fúzná energia bude zrazu
+
+1678
+00:31:15,230 --> 00:31:15,240
+zvládneme, tak fúzná energia bude zrazu
+
+1679
+00:31:15,240 --> 00:31:18,029
+zvládneme, tak fúzná energia bude zrazu
+dostupná, bude lacná a stane sa
+
+1680
+00:31:18,029 --> 00:31:18,039
+dostupná, bude lacná a stane sa
+
+1681
+00:31:18,039 --> 00:31:19,830
+dostupná, bude lacná a stane sa
+pravdepodobne dominantným zdrojom
+
+1682
+00:31:19,830 --> 00:31:19,840
+pravdepodobne dominantným zdrojom
+
+1683
+00:31:19,840 --> 00:31:22,350
+pravdepodobne dominantným zdrojom
+energie pre ľudstvo, že keď zistíme, ako
+
+1684
+00:31:22,350 --> 00:31:22,360
+energie pre ľudstvo, že keď zistíme, ako
+
+1685
+00:31:22,360 --> 00:31:24,629
+energie pre ľudstvo, že keď zistíme, ako
+to usporiadať a tam je naozaj také
+
+1686
+00:31:24,629 --> 00:31:24,639
+to usporiadať a tam je naozaj také
+
+1687
+00:31:24,639 --> 00:31:27,389
+to usporiadať a tam je naozaj také
+obrovské množstvo neoverených možností,
+
+1688
+00:31:27,389 --> 00:31:27,399
+obrovské množstvo neoverených možností,
+
+1689
+00:31:27,399 --> 00:31:29,789
+obrovské množstvo neoverených možností,
+ako to celé usporiadať, istá nádej sa
+
+1690
+00:31:29,789 --> 00:31:29,799
+ako to celé usporiadať, istá nádej sa
+
+1691
+00:31:29,799 --> 00:31:31,470
+ako to celé usporiadať, istá nádej sa
+dáva do umelej inteligencie, ktorá je
+
+1692
+00:31:31,470 --> 00:31:31,480
+dáva do umelej inteligencie, ktorá je
+
+1693
+00:31:31,480 --> 00:31:33,389
+dáva do umelej inteligencie, ktorá je
+presne dobrá v tomto, že hľadať patterny
+
+1694
+00:31:33,389 --> 00:31:33,399
+presne dobrá v tomto, že hľadať patterny
+
+1695
+00:31:33,399 --> 00:31:35,350
+presne dobrá v tomto, že hľadať patterny
+niečoho, akurát nám tuto chýba
+
+1696
+00:31:35,350 --> 00:31:35,360
+niečoho, akurát nám tuto chýba
+
+1697
+00:31:35,360 --> 00:31:37,549
+niečoho, akurát nám tuto chýba
+dostatočná databáza. Toto by bola skvel
+
+1698
+00:31:37,549 --> 00:31:37,559
+dostatočná databáza. Toto by bola skvel
+
+1699
+00:31:37,559 --> 00:31:39,870
+dostatočná databáza. Toto by bola skvel
+skvelá úloha pre umelú inteligenciu,
+
+1700
+00:31:39,870 --> 00:31:39,880
+skvelá úloha pre umelú inteligenciu,
+
+1701
+00:31:39,880 --> 00:31:42,750
+skvelá úloha pre umelú inteligenciu,
+keby sme mali databázu rôznych
+
+1702
+00:31:42,750 --> 00:31:42,760
+keby sme mali databázu rôznych
+
+1703
+00:31:42,760 --> 00:31:44,629
+keby sme mali databázu rôznych
+otestovaných dizajnov, že keď to dáme
+
+1704
+00:31:44,629 --> 00:31:44,639
+otestovaných dizajnov, že keď to dáme
+
+1705
+00:31:44,639 --> 00:31:46,110
+otestovaných dizajnov, že keď to dáme
+takto, tak to vedie k tomuto výsledku.
+
+1706
+00:31:46,110 --> 00:31:46,120
+takto, tak to vedie k tomuto výsledku.
+
+1707
+00:31:46,120 --> 00:31:48,310
+takto, tak to vedie k tomuto výsledku.
+Keď to dáme takto, takto a chýba nám to.
+
+1708
+00:31:48,310 --> 00:31:48,320
+Keď to dáme takto, takto a chýba nám to.
+
+1709
+00:31:48,320 --> 00:31:50,149
+Keď to dáme takto, takto a chýba nám to.
+Je to čiastočne spôsobené tým, ako dobre
+
+1710
+00:31:50,149 --> 00:31:50,159
+Je to čiastočne spôsobené tým, ako dobre
+
+1711
+00:31:50,159 --> 00:31:51,789
+Je to čiastočne spôsobené tým, ako dobre
+fungovalo jadrové štiepenie, že zo
+
+1712
+00:31:51,789 --> 00:31:51,799
+fungovalo jadrové štiepenie, že zo
+
+1713
+00:31:51,799 --> 00:31:53,830
+fungovalo jadrové štiepenie, že zo
+začiatku tá fúzia vytvárala veľké
+
+1714
+00:31:53,830 --> 00:31:53,840
+začiatku tá fúzia vytvárala veľké
+
+1715
+00:31:53,840 --> 00:31:56,029
+začiatku tá fúzia vytvárala veľké
+nádeje, potom sa od toho ľudia odklonili
+
+1716
+00:31:56,029 --> 00:31:56,039
+nádeje, potom sa od toho ľudia odklonili
+
+1717
+00:31:56,039 --> 00:31:59,430
+nádeje, potom sa od toho ľudia odklonili
+a je to jedna z vetiev výskumu, ktorej
+
+1718
+00:31:59,430 --> 00:31:59,440
+a je to jedna z vetiev výskumu, ktorej
+
+1719
+00:31:59,440 --> 00:32:01,430
+a je to jedna z vetiev výskumu, ktorej
+dominovali Američania a postupne to
+
+1720
+00:32:01,430 --> 00:32:01,440
+dominovali Američania a postupne to
+
+1721
+00:32:01,440 --> 00:32:03,710
+dominovali Američania a postupne to
+upustili z veľkej časti aj Číne, aj
+
+1722
+00:32:03,710 --> 00:32:03,720
+upustili z veľkej časti aj Číne, aj
+
+1723
+00:32:03,720 --> 00:32:06,789
+upustili z veľkej časti aj Číne, aj
+Európa preberá v mnohom vedenie. Eh, ale
+
+1724
+00:32:06,789 --> 00:32:06,799
+Európa preberá v mnohom vedenie. Eh, ale
+
+1725
+00:32:06,799 --> 00:32:08,629
+Európa preberá v mnohom vedenie. Eh, ale
+počet publikácií napríklad o jadrovej
+
+1726
+00:32:08,629 --> 00:32:08,639
+počet publikácií napríklad o jadrovej
+
+1727
+00:32:08,639 --> 00:32:10,350
+počet publikácií napríklad o jadrovej
+fúzii bol dominovaný Američanmi do
+
+1728
+00:32:10,350 --> 00:32:10,360
+fúzii bol dominovaný Američanmi do
+
+1729
+00:32:10,360 --> 00:32:12,710
+fúzii bol dominovaný Američanmi do
+istého obdobia. Teraz sa na to vydľabli
+
+1730
+00:32:12,710 --> 00:32:12,720
+istého obdobia. Teraz sa na to vydľabli
+
+1731
+00:32:12,720 --> 00:32:15,110
+istého obdobia. Teraz sa na to vydľabli
+a dúfali, že sa toho chopí súkromný
+
+1732
+00:32:15,110 --> 00:32:15,120
+a dúfali, že sa toho chopí súkromný
+
+1733
+00:32:15,120 --> 00:32:18,230
+a dúfali, že sa toho chopí súkromný
+sektor, ktorý sa na to vydlabol úplne a
+
+1734
+00:32:18,230 --> 00:32:18,240
+sektor, ktorý sa na to vydlabol úplne a
+
+1735
+00:32:18,240 --> 00:32:20,190
+sektor, ktorý sa na to vydlabol úplne a
+až teraz sa toho chytili niektoré firmy,
+
+1736
+00:32:20,190 --> 00:32:20,200
+až teraz sa toho chytili niektoré firmy,
+
+1737
+00:32:20,200 --> 00:32:22,789
+až teraz sa toho chytili niektoré firmy,
+keď je taký ten AI hype a bude potreba
+
+1738
+00:32:22,789 --> 00:32:22,799
+keď je taký ten AI hype a bude potreba
+
+1739
+00:32:22,799 --> 00:32:24,629
+keď je taký ten AI hype a bude potreba
+obrovské množstvo výkonu dodávať do
+
+1740
+00:32:24,629 --> 00:32:24,639
+obrovské množstvo výkonu dodávať do
+
+1741
+00:32:24,639 --> 00:32:26,310
+obrovské množstvo výkonu dodávať do
+siete.
+
+1742
+00:32:26,310 --> 00:32:26,320
+siete.
+
+1743
+00:32:26,320 --> 00:32:27,909
+siete.
+Je jedna firma, ktorá sľúbila, že v
+
+1744
+00:32:27,909 --> 00:32:27,919
+Je jedna firma, ktorá sľúbila, že v
+
+1745
+00:32:27,919 --> 00:32:30,830
+Je jedna firma, ktorá sľúbila, že v
+nejakom roku 2029 bude dodávať fúznu
+
+1746
+00:32:30,830 --> 00:32:30,840
+nejakom roku 2029 bude dodávať fúznu
+
+1747
+00:32:30,840 --> 00:32:32,590
+nejakom roku 2029 bude dodávať fúznu
+energiu, čo samozrejme všetci odborníci
+
+1748
+00:32:32,590 --> 00:32:32,600
+energiu, čo samozrejme všetci odborníci
+
+1749
+00:32:32,600 --> 00:32:35,230
+energiu, čo samozrejme všetci odborníci
+berú ako taký proste
+
+1750
+00:32:35,230 --> 00:32:35,240
+berú ako taký proste
+
+1751
+00:32:35,240 --> 00:32:39,350
+berú ako taký proste
+silikon eh bláble nesplniteľný.
+
+1752
+00:32:39,350 --> 00:32:39,360
+silikon eh bláble nesplniteľný.
+
+1753
+00:32:39,360 --> 00:32:39,590
+silikon eh bláble nesplniteľný.
+Uhm.
+
+1754
+00:32:39,590 --> 00:32:39,600
+Uhm.
+
+1755
+00:32:39,600 --> 00:32:41,870
+Uhm.
+>> Tenerealistický uhm. Hej, hej. Áno, že
+
+1756
+00:32:41,870 --> 00:32:41,880
+>> Tenerealistický uhm. Hej, hej. Áno, že
+
+1757
+00:32:41,880 --> 00:32:44,389
+>> Tenerealistický uhm. Hej, hej. Áno, že
+to je proste, že že také veľké prekážky,
+
+1758
+00:32:44,389 --> 00:32:44,399
+to je proste, že že také veľké prekážky,
+
+1759
+00:32:44,399 --> 00:32:46,190
+to je proste, že že také veľké prekážky,
+vieš, že niekto sa pozrie na nejaký graf
+
+1760
+00:32:46,190 --> 00:32:46,200
+vieš, že niekto sa pozrie na nejaký graf
+
+1761
+00:32:46,200 --> 00:32:47,789
+vieš, že niekto sa pozrie na nejaký graf
+a potiahne cez neho čiaru a povie,
+
+1762
+00:32:47,789 --> 00:32:47,799
+a potiahne cez neho čiaru a povie,
+
+1763
+00:32:47,799 --> 00:32:49,629
+a potiahne cez neho čiaru a povie,
+jasné, že to zvládneme, lebo teraz príde
+
+1764
+00:32:49,629 --> 00:32:49,639
+jasné, že to zvládneme, lebo teraz príde
+
+1765
+00:32:49,639 --> 00:32:52,190
+jasné, že to zvládneme, lebo teraz príde
+proste naša genialita.
+
+1766
+00:32:52,190 --> 00:32:52,200
+proste naša genialita.
+
+1767
+00:32:52,200 --> 00:32:55,190
+proste naša genialita.
+Eh, ten orrad je taký, že okolo polovice
+
+1768
+00:32:55,190 --> 00:32:55,200
+Eh, ten orrad je taký, že okolo polovice
+
+1769
+00:32:55,200 --> 00:32:57,070
+Eh, ten orrad je taký, že okolo polovice
+tohto storočia by sme mali mať fúzný
+
+1770
+00:32:57,070 --> 00:32:57,080
+tohto storočia by sme mali mať fúzný
+
+1771
+00:32:57,080 --> 00:33:00,669
+tohto storočia by sme mali mať fúzný
+reaktor a ak všetko pôjde podľa plánu,
+
+1772
+00:33:00,669 --> 00:33:00,679
+reaktor a ak všetko pôjde podľa plánu,
+
+1773
+00:33:00,679 --> 00:33:02,990
+reaktor a ak všetko pôjde podľa plánu,
+takže do konca tohto storočia by sa to
+
+1774
+00:33:02,990 --> 00:33:03,000
+takže do konca tohto storočia by sa to
+
+1775
+00:33:03,000 --> 00:33:04,789
+takže do konca tohto storočia by sa to
+postupne potom malo stavať dominantným
+
+1776
+00:33:04,789 --> 00:33:04,799
+postupne potom malo stavať dominantným
+
+1777
+00:33:04,799 --> 00:33:06,669
+postupne potom malo stavať dominantným
+zdrojom energie.
+
+1778
+00:33:06,669 --> 00:33:06,679
+zdrojom energie.
+
+1779
+00:33:06,679 --> 00:33:08,430
+zdrojom energie.
+Niekto by možno povedal, že koniec tohto
+
+1780
+00:33:08,430 --> 00:33:08,440
+Niekto by možno povedal, že koniec tohto
+
+1781
+00:33:08,440 --> 00:33:10,549
+Niekto by možno povedal, že koniec tohto
+storočia je ešte tiež moc ambiciózny. To
+
+1782
+00:33:10,549 --> 00:33:10,559
+storočia je ešte tiež moc ambiciózny. To
+
+1783
+00:33:10,559 --> 00:33:12,149
+storočia je ešte tiež moc ambiciózny. To
+už je potom na posunie, ale to to je
+
+1784
+00:33:12,149 --> 00:33:12,159
+už je potom na posunie, ale to to je
+
+1785
+00:33:12,159 --> 00:33:13,509
+už je potom na posunie, ale to to je
+>> No áno. Eh
+
+1786
+00:33:13,509 --> 00:33:13,519
+>> No áno. Eh
+
+1787
+00:33:13,519 --> 00:33:15,230
+>> No áno. Eh
+>> to je ťaž strašne ťažko sa to tipuje,
+
+1788
+00:33:15,230 --> 00:33:15,240
+>> to je ťaž strašne ťažko sa to tipuje,
+
+1789
+00:33:15,240 --> 00:33:17,470
+>> to je ťaž strašne ťažko sa to tipuje,
+lebo nevieme, aké budeme mať energetické
+
+1790
+00:33:17,470 --> 00:33:17,480
+lebo nevieme, aké budeme mať energetické
+
+1791
+00:33:17,480 --> 00:33:20,870
+lebo nevieme, aké budeme mať energetické
+potreby, že keď donedávna platilo, že
+
+1792
+00:33:20,870 --> 00:33:20,880
+potreby, že keď donedávna platilo, že
+
+1793
+00:33:20,880 --> 00:33:22,909
+potreby, že keď donedávna platilo, že
+energetická spotreba sa veľmi kývala,
+
+1794
+00:33:22,909 --> 00:33:22,919
+energetická spotreba sa veľmi kývala,
+
+1795
+00:33:22,919 --> 00:33:24,909
+energetická spotreba sa veľmi kývala,
+vieš, ľudia ráno zapli veci a v noci
+
+1796
+00:33:24,909 --> 00:33:24,919
+vieš, ľudia ráno zapli veci a v noci
+
+1797
+00:33:24,919 --> 00:33:27,149
+vieš, ľudia ráno zapli veci a v noci
+zase spali a mali vypnuté, potom
+
+1798
+00:33:27,149 --> 00:33:27,159
+zase spali a mali vypnuté, potom
+
+1799
+00:33:27,159 --> 00:33:29,269
+zase spali a mali vypnuté, potom
+priemysel to vie trošku vyrovnať a teraz
+
+1800
+00:33:29,269 --> 00:33:29,279
+priemysel to vie trošku vyrovnať a teraz
+
+1801
+00:33:29,279 --> 00:33:32,310
+priemysel to vie trošku vyrovnať a teraz
+keď budeš mať siete dominované tým, že
+
+1802
+00:33:32,310 --> 00:33:32,320
+keď budeš mať siete dominované tým, že
+
+1803
+00:33:32,320 --> 00:33:34,710
+keď budeš mať siete dominované tým, že
+super počítače žerú nonstop stále veľa
+
+1804
+00:33:34,710 --> 00:33:34,720
+super počítače žerú nonstop stále veľa
+
+1805
+00:33:34,720 --> 00:33:36,509
+super počítače žerú nonstop stále veľa
+energie, tak budem mať zase požiadavky,
+
+1806
+00:33:36,509 --> 00:33:36,519
+energie, tak budem mať zase požiadavky,
+
+1807
+00:33:36,519 --> 00:33:38,990
+energie, tak budem mať zase požiadavky,
+že mať najstabilnejší výkon a tak ďalej.
+
+1808
+00:33:38,990 --> 00:33:39,000
+že mať najstabilnejší výkon a tak ďalej.
+
+1809
+00:33:39,000 --> 00:33:40,990
+že mať najstabilnejší výkon a tak ďalej.
+celé sa to môže pomeniť, ale teda, že
+
+1810
+00:33:40,990 --> 00:33:41,000
+celé sa to môže pomeniť, ale teda, že
+
+1811
+00:33:41,000 --> 00:33:43,190
+celé sa to môže pomeniť, ale teda, že
+nie je to niečo, čo o 10 rokov by tu
+
+1812
+00:33:43,190 --> 00:33:43,200
+nie je to niečo, čo o 10 rokov by tu
+
+1813
+00:33:43,200 --> 00:33:45,430
+nie je to niečo, čo o 10 rokov by tu
+malo byť, ale je to niečo, čo jeden
+
+1814
+00:33:45,430 --> 00:33:45,440
+malo byť, ale je to niečo, čo jeden
+
+1815
+00:33:45,440 --> 00:33:47,789
+malo byť, ale je to niečo, čo jeden
+dobrý nápadil do toho, aby to proste
+
+1816
+00:33:47,789 --> 00:33:47,799
+dobrý nápadil do toho, aby to proste
+
+1817
+00:33:47,799 --> 00:33:48,629
+dobrý nápadil do toho, aby to proste
+prerazilo.
+
+1818
+00:33:48,629 --> 00:33:48,639
+prerazilo.
+
+1819
+00:33:48,639 --> 00:33:51,590
+prerazilo.
+>> Áno. Áno, môže to preraziť. Eh teda má
+
+1820
+00:33:51,590 --> 00:33:51,600
+>> Áno. Áno, môže to preraziť. Eh teda má
+
+1821
+00:33:51,600 --> 00:33:53,950
+>> Áno. Áno, môže to preraziť. Eh teda má
+to všetko na to, aby to prerazilo.
+
+1822
+00:33:53,950 --> 00:33:53,960
+to všetko na to, aby to prerazilo.
+
+1823
+00:33:53,960 --> 00:33:56,389
+to všetko na to, aby to prerazilo.
+>> Tak a investujú sa do toho konečne veľké
+
+1824
+00:33:56,389 --> 00:33:56,399
+>> Tak a investujú sa do toho konečne veľké
+
+1825
+00:33:56,399 --> 00:33:58,909
+>> Tak a investujú sa do toho konečne veľké
+peniaze, ale stále je to, že na úrovni,
+
+1826
+00:33:58,909 --> 00:33:58,919
+peniaze, ale stále je to, že na úrovni,
+
+1827
+00:33:58,919 --> 00:34:00,750
+peniaze, ale stále je to, že na úrovni,
+že miliárd. Nie sú to stovky miliárd,
+
+1828
+00:34:00,750 --> 00:34:00,760
+že miliárd. Nie sú to stovky miliárd,
+
+1829
+00:34:00,760 --> 00:34:03,389
+že miliárd. Nie sú to stovky miliárd,
+dajme tomu, že nie je to, nepoužíva to
+
+1830
+00:34:03,389 --> 00:34:03,399
+dajme tomu, že nie je to, nepoužíva to
+
+1831
+00:34:03,399 --> 00:34:06,070
+dajme tomu, že nie je to, nepoužíva to
+takých ako napríklad umelá inteligencia.
+
+1832
+00:34:06,070 --> 00:34:06,080
+takých ako napríklad umelá inteligencia.
+
+1833
+00:34:06,080 --> 00:34:06,430
+takých ako napríklad umelá inteligencia.
+Takže
+
+1834
+00:34:06,430 --> 00:34:06,440
+Takže
+
+1835
+00:34:06,440 --> 00:34:08,430
+Takže
+>> hej. Hej, ja by som bol troška rád, keby
+
+1836
+00:34:08,430 --> 00:34:08,440
+>> hej. Hej, ja by som bol troška rád, keby
+
+1837
+00:34:08,440 --> 00:34:10,310
+>> hej. Hej, ja by som bol troška rád, keby
+z umelej inteligencie tie všetky zdroje
+
+1838
+00:34:10,310 --> 00:34:10,320
+z umelej inteligencie tie všetky zdroje
+
+1839
+00:34:10,320 --> 00:34:12,990
+z umelej inteligencie tie všetky zdroje
+sa troška popresúvali, ale to som moc
+
+1840
+00:34:12,990 --> 00:34:13,000
+sa troška popresúvali, ale to som moc
+
+1841
+00:34:13,000 --> 00:34:15,669
+sa troška popresúvali, ale to som moc
+naivný na to, aby som si myslel, že toto
+
+1842
+00:34:15,669 --> 00:34:15,679
+naivný na to, aby som si myslel, že toto
+
+1843
+00:34:15,679 --> 00:34:17,790
+naivný na to, aby som si myslel, že toto
+sa stane. Každopádne je to úplne
+
+1844
+00:34:17,790 --> 00:34:17,800
+sa stane. Každopádne je to úplne
+
+1845
+00:34:17,800 --> 00:34:20,069
+sa stane. Každopádne je to úplne
+fascinujúca technológia, kde naozaj
+
+1846
+00:34:20,069 --> 00:34:20,079
+fascinujúca technológia, kde naozaj
+
+1847
+00:34:20,079 --> 00:34:22,470
+fascinujúca technológia, kde naozaj
+ideme zreprodukovať to, čo sa deje v
+
+1848
+00:34:22,470 --> 00:34:22,480
+ideme zreprodukovať to, čo sa deje v
+
+1849
+00:34:22,480 --> 00:34:24,669
+ideme zreprodukovať to, čo sa deje v
+slnku, kontrolovanie v laboratórnych
+
+1850
+00:34:24,669 --> 00:34:24,679
+slnku, kontrolovanie v laboratórnych
+
+1851
+00:34:24,679 --> 00:34:26,669
+slnku, kontrolovanie v laboratórnych
+podmienkach. To je proste fascinujúce.
+
+1852
+00:34:26,669 --> 00:34:26,679
+podmienkach. To je proste fascinujúce.
+
+1853
+00:34:26,679 --> 00:34:27,310
+podmienkach. To je proste fascinujúce.
+>> Uhm.
+
+1854
+00:34:27,310 --> 00:34:27,320
+>> Uhm.
+
+1855
+00:34:27,320 --> 00:34:29,470
+>> Uhm.
+>> Je je to strašne fascinujúce.
+
+1856
+00:34:29,470 --> 00:34:29,480
+>> Je je to strašne fascinujúce.
+
+1857
+00:34:29,480 --> 00:34:31,430
+>> Je je to strašne fascinujúce.
+>> Je to také slnko v budove.
+
+1858
+00:34:31,430 --> 00:34:31,440
+>> Je to také slnko v budove.
+
+1859
+00:34:31,440 --> 00:34:33,550
+>> Je to také slnko v budove.
+>> Hm. Tak a treba sa naozaj pochváliť, že
+
+1860
+00:34:33,550 --> 00:34:33,560
+>> Hm. Tak a treba sa naozaj pochváliť, že
+
+1861
+00:34:33,560 --> 00:34:36,069
+>> Hm. Tak a treba sa naozaj pochváliť, že
+Európa v tomto hrá eh veľmi významnú
+
+1862
+00:34:36,069 --> 00:34:36,079
+Európa v tomto hrá eh veľmi významnú
+
+1863
+00:34:36,079 --> 00:34:39,750
+Európa v tomto hrá eh veľmi významnú
+úlohu vďaka ITERu. Takže Európa, číne sa
+
+1864
+00:34:39,750 --> 00:34:39,760
+úlohu vďaka ITERu. Takže Európa, číne sa
+
+1865
+00:34:39,760 --> 00:34:41,629
+úlohu vďaka ITERu. Takže Európa, číne sa
+darí tiež viacej krajín.
+
+1866
+00:34:41,629 --> 00:34:41,639
+darí tiež viacej krajín.
+
+1867
+00:34:41,639 --> 00:34:43,470
+darí tiež viacej krajín.
+>> Viem, že aj Japonci stavajú nejaký eh
+
+1868
+00:34:43,470 --> 00:34:43,480
+>> Viem, že aj Japonci stavajú nejaký eh
+
+1869
+00:34:43,480 --> 00:34:45,589
+>> Viem, že aj Japonci stavajú nejaký eh
+fúzný reaktor teraz nový. Viem, že
+
+1870
+00:34:45,589 --> 00:34:45,599
+fúzný reaktor teraz nový. Viem, že
+
+1871
+00:34:45,599 --> 00:34:48,069
+fúzný reaktor teraz nový. Viem, že
+odsúhlasili nejaký projekt, takže
+
+1872
+00:34:48,069 --> 00:34:48,079
+odsúhlasili nejaký projekt, takže
+
+1873
+00:34:48,079 --> 00:34:48,270
+odsúhlasili nejaký projekt, takže
+>> tak
+
+1874
+00:34:48,270 --> 00:34:48,280
+>> tak
+
+1875
+00:34:48,280 --> 00:34:48,909
+>> tak
+>> ide to. Hej.
+
+1876
+00:34:48,909 --> 00:34:48,919
+>> ide to. Hej.
+
+1877
+00:34:48,919 --> 00:34:53,069
+>> ide to. Hej.
+>> Áno. Áno. Čiže to, čo ľudia hovoria, že
+
+1878
+00:34:53,069 --> 00:34:53,079
+>> Áno. Áno. Čiže to, čo ľudia hovoria, že
+
+1879
+00:34:53,079 --> 00:34:55,470
+>> Áno. Áno. Čiže to, čo ľudia hovoria, že
+fúna energia tu nikdy nebude, to nie je
+
+1880
+00:34:55,470 --> 00:34:55,480
+fúna energia tu nikdy nebude, to nie je
+
+1881
+00:34:55,480 --> 00:34:57,150
+fúna energia tu nikdy nebude, to nie je
+pravda. Ona to už v princípe je. My ju
+
+1882
+00:34:57,150 --> 00:34:57,160
+pravda. Ona to už v princípe je. My ju
+
+1883
+00:34:57,160 --> 00:34:59,069
+pravda. Ona to už v princípe je. My ju
+vieme mať, ale nevieme ju mať ekonomicky
+
+1884
+00:34:59,069 --> 00:34:59,079
+vieme mať, ale nevieme ju mať ekonomicky
+
+1885
+00:34:59,079 --> 00:35:01,430
+vieme mať, ale nevieme ju mať ekonomicky
+výhodne a preto sa čaká na ten dobrý
+
+1886
+00:35:01,430 --> 00:35:01,440
+výhodne a preto sa čaká na ten dobrý
+
+1887
+00:35:01,440 --> 00:35:04,790
+výhodne a preto sa čaká na ten dobrý
+nápad, ktorý z nej spraví niečo, čo
+
+1888
+00:35:04,790 --> 00:35:04,800
+nápad, ktorý z nej spraví niečo, čo
+
+1889
+00:35:04,800 --> 00:35:06,950
+nápad, ktorý z nej spraví niečo, čo
+dúfame, že by mohlo byť, že by mohla byť
+
+1890
+00:35:06,950 --> 00:35:06,960
+dúfame, že by mohlo byť, že by mohla byť
+
+1891
+00:35:06,960 --> 00:35:09,750
+dúfame, že by mohlo byť, že by mohla byť
+bude poháňať aj náš to a bude sa to dať
+
+1892
+00:35:09,750 --> 00:35:09,760
+bude poháňať aj náš to a bude sa to dať
+
+1893
+00:35:09,760 --> 00:35:13,710
+bude poháňať aj náš to a bude sa to dať
+opl bude sa to eh oplatí sa nám to. Tak
+
+1894
+00:35:13,710 --> 00:35:13,720
+opl bude sa to eh oplatí sa nám to. Tak
+
+1895
+00:35:13,720 --> 00:35:15,430
+opl bude sa to eh oplatí sa nám to. Tak
+>> dobre. Super. Samko, ďakujem, že si nám
+
+1896
+00:35:15,430 --> 00:35:15,440
+>> dobre. Super. Samko, ďakujem, že si nám
+
+1897
+00:35:15,440 --> 00:35:17,710
+>> dobre. Super. Samko, ďakujem, že si nám
+vysvetlil fuznú reakciu po 300 dieloch
+
+1898
+00:35:17,710 --> 00:35:17,720
+vysvetlil fuznú reakciu po 300 dieloch
+
+1899
+00:35:17,720 --> 00:35:20,069
+vysvetlil fuznú reakciu po 300 dieloch
+podcastu
+
+1900
+00:35:20,069 --> 00:35:20,079
+podcastu
+
+1901
+00:35:20,079 --> 00:35:23,349
+podcastu
+vedeckého. Eh, vidíš, ak si sa zasel. A
+
+1902
+00:35:23,349 --> 00:35:23,359
+vedeckého. Eh, vidíš, ak si sa zasel. A
+
+1903
+00:35:23,359 --> 00:35:25,950
+vedeckého. Eh, vidíš, ak si sa zasel. A
+máme otázku na záver od Robka. Ako je
+
+1904
+00:35:25,950 --> 00:35:25,960
+máme otázku na záver od Robka. Ako je
+
+1905
+00:35:25,960 --> 00:35:28,470
+máme otázku na záver od Robka. Ako je
+možné, že hlbokomorské ryby prežijú tak
+
+1906
+00:35:28,470 --> 00:35:28,480
+možné, že hlbokomorské ryby prežijú tak
+
+1907
+00:35:28,480 --> 00:35:31,750
+možné, že hlbokomorské ryby prežijú tak
+podmorský eh taký podmorský tlak? Eh
+
+1908
+00:35:31,750 --> 00:35:31,760
+podmorský eh taký podmorský tlak? Eh
+
+1909
+00:35:31,760 --> 00:35:33,710
+podmorský eh taký podmorský tlak? Eh
+všetci vieme, že s hĺbkou sa zvyšuje
+
+1910
+00:35:33,710 --> 00:35:33,720
+všetci vieme, že s hĺbkou sa zvyšuje
+
+1911
+00:35:33,720 --> 00:35:36,550
+všetci vieme, že s hĺbkou sa zvyšuje
+tlak. A ja som si to rýchle googlil eh
+
+1912
+00:35:36,550 --> 00:35:36,560
+tlak. A ja som si to rýchle googlil eh
+
+1913
+00:35:36,560 --> 00:35:38,630
+tlak. A ja som si to rýchle googlil eh
+ešte predtým, ako sme začali a som bol
+
+1914
+00:35:38,630 --> 00:35:38,640
+ešte predtým, ako sme začali a som bol
+
+1915
+00:35:38,640 --> 00:35:41,349
+ešte predtým, ako sme začali a som bol
+veľmi prekvapený, že zase je to len o
+
+1916
+00:35:41,349 --> 00:35:41,359
+veľmi prekvapený, že zase je to len o
+
+1917
+00:35:41,359 --> 00:35:44,150
+veľmi prekvapený, že zase je to len o
+biológii a zase je to len o nejakých
+
+1918
+00:35:44,150 --> 00:35:44,160
+biológii a zase je to len o nejakých
+
+1919
+00:35:44,160 --> 00:35:47,390
+biológii a zase je to len o nejakých
+fyziologických procesoch a o tom, že
+
+1920
+00:35:47,390 --> 00:35:47,400
+fyziologických procesoch a o tom, že
+
+1921
+00:35:47,400 --> 00:35:49,790
+fyziologických procesoch a o tom, že
+špeciálne nejaké chemikálie majú a
+
+1922
+00:35:49,790 --> 00:35:49,800
+špeciálne nejaké chemikálie majú a
+
+1923
+00:35:49,800 --> 00:35:52,990
+špeciálne nejaké chemikálie majú a
+proteíny a sú adaptované, flexibilné
+
+1924
+00:35:52,990 --> 00:35:53,000
+proteíny a sú adaptované, flexibilné
+
+1925
+00:35:53,000 --> 00:35:55,230
+proteíny a sú adaptované, flexibilné
+kosti a tak ďalej. Veľmi zaujímavé.
+
+1926
+00:35:55,230 --> 00:35:55,240
+kosti a tak ďalej. Veľmi zaujímavé.
+
+1927
+00:35:55,240 --> 00:35:57,710
+kosti a tak ďalej. Veľmi zaujímavé.
+>> A ono si ľudia, ak sa nepotápajú,
+
+1928
+00:35:57,710 --> 00:35:57,720
+>> A ono si ľudia, ak sa nepotápajú,
+
+1929
+00:35:57,720 --> 00:36:00,349
+>> A ono si ľudia, ak sa nepotápajú,
+neuvedomujú, ako šialene rýchlo rastie
+
+1930
+00:36:00,349 --> 00:36:00,359
+neuvedomujú, ako šialene rýchlo rastie
+
+1931
+00:36:00,359 --> 00:36:02,030
+neuvedomujú, ako šialene rýchlo rastie
+ten tlak pod vodou, že vlastne každých
+
+1932
+00:36:02,030 --> 00:36:02,040
+ten tlak pod vodou, že vlastne každých
+
+1933
+00:36:02,040 --> 00:36:04,069
+ten tlak pod vodou, že vlastne každých
+10 m chytíš jednu atmosféru, takže keď
+
+1934
+00:36:04,069 --> 00:36:04,079
+10 m chytíš jednu atmosféru, takže keď
+
+1935
+00:36:04,079 --> 00:36:05,910
+10 m chytíš jednu atmosféru, takže keď
+si kilometer pod vodou, tak to je 100
+
+1936
+00:36:05,910 --> 00:36:05,920
+si kilometer pod vodou, tak to je 100
+
+1937
+00:36:05,920 --> 00:36:07,510
+si kilometer pod vodou, tak to je 100
+atmosfér.
+
+1938
+00:36:07,510 --> 00:36:07,520
+atmosfér.
+
+1939
+00:36:07,520 --> 00:36:11,030
+atmosfér.
+A tie nie až tak hlbokomorské živočíchy,
+
+1940
+00:36:11,030 --> 00:36:11,040
+A tie nie až tak hlbokomorské živočíchy,
+
+1941
+00:36:11,040 --> 00:36:13,270
+A tie nie až tak hlbokomorské živočíchy,
+takže napríklad aj cicavce, nemajú až
+
+1942
+00:36:13,270 --> 00:36:13,280
+takže napríklad aj cicavce, nemajú až
+
+1943
+00:36:13,280 --> 00:36:14,750
+takže napríklad aj cicavce, nemajú až
+taký problém. Napríklad, že keď sa ide
+
+1944
+00:36:14,750 --> 00:36:14,760
+taký problém. Napríklad, že keď sa ide
+
+1945
+00:36:14,760 --> 00:36:17,069
+taký problém. Napríklad, že keď sa ide
+ponáhrať nejaký tuleň alebo veľryba, tak
+
+1946
+00:36:17,069 --> 00:36:17,079
+ponáhrať nejaký tuleň alebo veľryba, tak
+
+1947
+00:36:17,079 --> 00:36:18,550
+ponáhrať nejaký tuleň alebo veľryba, tak
+oni v skutočnosti vydýchnu, aby im
+
+1948
+00:36:18,550 --> 00:36:18,560
+oni v skutočnosti vydýchnu, aby im
+
+1949
+00:36:18,560 --> 00:36:20,950
+oni v skutočnosti vydýchnu, aby im
+nesplastli pľúca. To je sranda, že sa
+
+1950
+00:36:20,950 --> 00:36:20,960
+nesplastli pľúca. To je sranda, že sa
+
+1951
+00:36:20,960 --> 00:36:23,790
+nesplastli pľúca. To je sranda, že sa
+ideš ponoriť a vydýchneš doplna.
+
+1952
+00:36:23,790 --> 00:36:23,800
+ideš ponoriť a vydýchneš doplna.
+
+1953
+00:36:23,800 --> 00:36:24,230
+ideš ponoriť a vydýchneš doplna.
+>> Hej.
+
+1954
+00:36:24,230 --> 00:36:24,240
+>> Hej.
+
+1955
+00:36:24,240 --> 00:36:26,430
+>> Hej.
+>> A ale presne ako som hovoril, že to že
+
+1956
+00:36:26,430 --> 00:36:26,440
+>> A ale presne ako som hovoril, že to že
+
+1957
+00:36:26,440 --> 00:36:29,589
+>> A ale presne ako som hovoril, že to že
+len len nestlačiť eh vzduch nestačí.
+
+1958
+00:36:29,589 --> 00:36:29,599
+len len nestlačiť eh vzduch nestačí.
+
+1959
+00:36:29,599 --> 00:36:32,190
+len len nestlačiť eh vzduch nestačí.
+Čiže cicaavce vydýchnu, ryby ho zase
+
+1960
+00:36:32,190 --> 00:36:32,200
+Čiže cicaavce vydýchnu, ryby ho zase
+
+1961
+00:36:32,200 --> 00:36:34,309
+Čiže cicaavce vydýchnu, ryby ho zase
+majú toho plynu v sebe relatívne málo,
+
+1962
+00:36:34,309 --> 00:36:34,319
+majú toho plynu v sebe relatívne málo,
+
+1963
+00:36:34,319 --> 00:36:35,750
+majú toho plynu v sebe relatívne málo,
+no nejakých tých mechúroch
+
+1964
+00:36:35,750 --> 00:36:35,760
+no nejakých tých mechúroch
+
+1965
+00:36:35,760 --> 00:36:39,109
+no nejakých tých mechúroch
+stabilizačných a podobne. A tie úplne
+
+1966
+00:36:39,109 --> 00:36:39,119
+stabilizačných a podobne. A tie úplne
+
+1967
+00:36:39,119 --> 00:36:41,109
+stabilizačných a podobne. A tie úplne
+hlbokomorské majú potom ten tlak
+
+1968
+00:36:41,109 --> 00:36:41,119
+hlbokomorské majú potom ten tlak
+
+1969
+00:36:41,119 --> 00:36:42,829
+hlbokomorské majú potom ten tlak
+kompenzovaný proteínom, ktorý sa tuším
+
+1970
+00:36:42,829 --> 00:36:42,839
+kompenzovaný proteínom, ktorý sa tuším
+
+1971
+00:36:42,839 --> 00:36:44,829
+kompenzovaný proteínom, ktorý sa tuším
+volá, že tmao, čo je v podstate, že že
+
+1972
+00:36:44,829 --> 00:36:44,839
+volá, že tmao, čo je v podstate, že že
+
+1973
+00:36:44,839 --> 00:36:46,790
+volá, že tmao, čo je v podstate, že že
+výstužný materiál v ich bunkách, aby
+
+1974
+00:36:46,790 --> 00:36:46,800
+výstužný materiál v ich bunkách, aby
+
+1975
+00:36:46,800 --> 00:36:50,109
+výstužný materiál v ich bunkách, aby
+nepraskli. A normálne je spočítané, že
+
+1976
+00:36:50,109 --> 00:36:50,119
+nepraskli. A normálne je spočítané, že
+
+1977
+00:36:50,119 --> 00:36:51,870
+nepraskli. A normálne je spočítané, že
+pokiaľ po aký tlak ti toto vydrží. A
+
+1978
+00:36:51,870 --> 00:36:51,880
+pokiaľ po aký tlak ti toto vydrží. A
+
+1979
+00:36:51,880 --> 00:36:52,990
+pokiaľ po aký tlak ti toto vydrží. A
+potom keď sa pozrieš, že kde sa
+
+1980
+00:36:52,990 --> 00:36:53,000
+potom keď sa pozrieš, že kde sa
+
+1981
+00:36:53,000 --> 00:36:55,430
+potom keď sa pozrieš, že kde sa
+nachádzajú najhlbšie najhlbšie v mori
+
+1982
+00:36:55,430 --> 00:36:55,440
+nachádzajú najhlbšie najhlbšie v mori
+
+1983
+00:36:55,440 --> 00:36:56,990
+nachádzajú najhlbšie najhlbšie v mori
+alebo v oceane živočíchy, tak to veľmi
+
+1984
+00:36:56,990 --> 00:36:57,000
+alebo v oceane živočíchy, tak to veľmi
+
+1985
+00:36:57,000 --> 00:36:58,750
+alebo v oceane živočíchy, tak to veľmi
+sedí tomu výpočtu. To sa mi strašne
+
+1986
+00:36:58,750 --> 00:36:58,760
+sedí tomu výpočtu. To sa mi strašne
+
+1987
+00:36:58,760 --> 00:37:01,750
+sedí tomu výpočtu. To sa mi strašne
+páči. Takáto teoretická biológia.
+
+1988
+00:37:01,750 --> 00:37:01,760
+páči. Takáto teoretická biológia.
+
+1989
+00:37:01,760 --> 00:37:01,870
+páči. Takáto teoretická biológia.
+A
+
+1990
+00:37:01,870 --> 00:37:01,880
+A
+
+1991
+00:37:01,880 --> 00:37:02,910
+A
+>> to je strašne super.
+
+1992
+00:37:02,910 --> 00:37:02,920
+>> to je strašne super.
+
+1993
+00:37:02,920 --> 00:37:04,069
+>> to je strašne super.
+>> A tento proteín má ešte takú
+
+1994
+00:37:04,069 --> 00:37:04,079
+>> A tento proteín má ešte takú
+
+1995
+00:37:04,079 --> 00:37:06,829
+>> A tento proteín má ešte takú
+zaujímavosť, že on degraduje eh na
+
+1996
+00:37:06,829 --> 00:37:06,839
+zaujímavosť, že on degraduje eh na
+
+1997
+00:37:06,839 --> 00:37:08,390
+zaujímavosť, že on degraduje eh na
+niečo, čo pomerne smrdí. Preto
+
+1998
+00:37:08,390 --> 00:37:08,400
+niečo, čo pomerne smrdí. Preto
+
+1999
+00:37:08,400 --> 00:37:10,950
+niečo, čo pomerne smrdí. Preto
+hlbokomorské ryby páchnu viacej ako
+
+2000
+00:37:10,950 --> 00:37:10,960
+hlbokomorské ryby páchnu viacej ako
+
+2001
+00:37:10,960 --> 00:37:13,950
+hlbokomorské ryby páchnu viacej ako
+ostatné. Áno, aj taká tá škaredá ryba,
+
+2002
+00:37:13,950 --> 00:37:13,960
+ostatné. Áno, aj taká tá škaredá ryba,
+
+2003
+00:37:13,960 --> 00:37:16,950
+ostatné. Áno, aj taká tá škaredá ryba,
+čo vyzerá taký starý muž s veľkým, tak
+
+2004
+00:37:16,950 --> 00:37:16,960
+čo vyzerá taký starý muž s veľkým, tak
+
+2005
+00:37:16,960 --> 00:37:19,390
+čo vyzerá taký starý muž s veľkým, tak
+ona vôbec tak nevyzerá. Len ona kvôli
+
+2006
+00:37:19,390 --> 00:37:19,400
+ona vôbec tak nevyzerá. Len ona kvôli
+
+2007
+00:37:19,400 --> 00:37:22,109
+ona vôbec tak nevyzerá. Len ona kvôli
+tomu, že keď ju donesieš na tlak eh,
+
+2008
+00:37:22,109 --> 00:37:22,119
+tomu, že keď ju donesieš na tlak eh,
+
+2009
+00:37:22,119 --> 00:37:26,309
+tomu, že keď ju donesieš na tlak eh,
+ktorý máme na povrchu, tak ona sa tak eh
+
+2010
+00:37:26,309 --> 00:37:26,319
+ktorý máme na povrchu, tak ona sa tak eh
+
+2011
+00:37:26,319 --> 00:37:28,390
+ktorý máme na povrchu, tak ona sa tak eh
+>> roztečie, ak keby chuďatko. Akože dúfam,
+
+2012
+00:37:28,390 --> 00:37:28,400
+>> roztečie, ak keby chuďatko. Akože dúfam,
+
+2013
+00:37:28,400 --> 00:37:29,790
+>> roztečie, ak keby chuďatko. Akože dúfam,
+že netrpí moc
+
+2014
+00:37:29,790 --> 00:37:29,800
+že netrpí moc
+
+2015
+00:37:29,800 --> 00:37:31,630
+že netrpí moc
+>> eh pri tom, lebo vyzerá to veľmi
+
+2016
+00:37:31,630 --> 00:37:31,640
+>> eh pri tom, lebo vyzerá to veľmi
+
+2017
+00:37:31,640 --> 00:37:33,215
+>> eh pri tom, lebo vyzerá to veľmi
+bolestivo.
+
+2018
+00:37:33,215 --> 00:37:33,225
+bolestivo.
+
+2019
+00:37:33,225 --> 00:37:33,990
+bolestivo.
+[smiech]
+
+2020
+00:37:33,990 --> 00:37:34,000
+[smiech]
+
+2021
+00:37:34,000 --> 00:37:36,150
+[smiech]
+>> Takže tak. Dobre, super. Tak eh otázku
+
+2022
+00:37:36,150 --> 00:37:36,160
+>> Takže tak. Dobre, super. Tak eh otázku
+
+2023
+00:37:36,160 --> 00:37:37,790
+>> Takže tak. Dobre, super. Tak eh otázku
+na záver. Ďakujeme veľmi pekne, že nás
+
+2024
+00:37:37,790 --> 00:37:37,800
+na záver. Ďakujeme veľmi pekne, že nás
+
+2025
+00:37:37,800 --> 00:37:39,790
+na záver. Ďakujeme veľmi pekne, že nás
+počúvate, že nás podporujete. Nájdete
+
+2026
+00:37:39,790 --> 00:37:39,800
+počúvate, že nás podporujete. Nájdete
+
+2027
+00:37:39,800 --> 00:37:41,309
+počúvate, že nás podporujete. Nájdete
+nás aj na Hero Hero, kde nás viete
+
+2028
+00:37:41,309 --> 00:37:41,319
+nás aj na Hero Hero, kde nás viete
+
+2029
+00:37:41,319 --> 00:37:43,670
+nás aj na Hero Hero, kde nás viete
+podporiť a máme tam extra epizódy, eh,
+
+2030
+00:37:43,670 --> 00:37:43,680
+podporiť a máme tam extra epizódy, eh,
+
+2031
+00:37:43,680 --> 00:37:45,510
+podporiť a máme tam extra epizódy, eh,
+rôzne veci. Môžete prísť zadarmo na
+
+2032
+00:37:45,510 --> 00:37:45,520
+rôzne veci. Môžete prísť zadarmo na
+
+2033
+00:37:45,520 --> 00:37:48,109
+rôzne veci. Môžete prísť zadarmo na
+akcie. Čo ešte, Samko? Budú tam vedieť o
+
+2034
+00:37:48,109 --> 00:37:48,119
+akcie. Čo ešte, Samko? Budú tam vedieť o
+
+2035
+00:37:48,119 --> 00:37:49,990
+akcie. Čo ešte, Samko? Budú tam vedieť o
+nových veciach asi skorej. Pikošky z
+
+2036
+00:37:49,990 --> 00:37:50,000
+nových veciach asi skorej. Pikošky z
+
+2037
+00:37:50,000 --> 00:37:52,470
+nových veciach asi skorej. Pikošky z
+Labaku. Áno, áno. Takže, eh, vidíme sa
+
+2038
+00:37:52,470 --> 00:37:52,480
+Labaku. Áno, áno. Takže, eh, vidíme sa
+
+2039
+00:37:52,480 --> 00:37:55,230
+Labaku. Áno, áno. Takže, eh, vidíme sa
+vo vedotorskom Labaku s tými, čo eh majú
+
+2040
+00:37:55,230 --> 00:37:55,240
+vo vedotorskom Labaku s tými, čo eh majú
+
+2041
+00:37:55,240 --> 00:37:57,230
+vo vedotorskom Labaku s tými, čo eh majú
+predplateľné Hero Hero, s tými, čo nie
+
+2042
+00:37:57,230 --> 00:37:57,240
+predplateľné Hero Hero, s tými, čo nie
+
+2043
+00:37:57,240 --> 00:37:59,750
+predplateľné Hero Hero, s tými, čo nie
+na v ďalšej našej epizóde verátorského
+
+2044
+00:37:59,750 --> 00:37:59,760
+na v ďalšej našej epizóde verátorského
+
+2045
+00:37:59,760 --> 00:38:01,630
+na v ďalšej našej epizóde verátorského
+podcastu. Majte sa veľmi pekne. Ahojte.
+
+2046
+00:38:01,630 --> 00:38:01,640
+podcastu. Majte sa veľmi pekne. Ahojte.
+
+2047
+00:38:01,640 --> 00:38:03,190
+podcastu. Majte sa veľmi pekne. Ahojte.
+>> Majte sa.
+
+2048
+00:38:03,190 --> 00:38:03,200
+>> Majte sa.
+
+2049
+00:38:03,200 --> 00:38:05,109
+>> Majte sa.
+Dôvod, prečo sme sa konečne rozprávali o
+
+2050
+00:38:05,109 --> 00:38:05,119
+Dôvod, prečo sme sa konečne rozprávali o
+
+2051
+00:38:05,119 --> 00:38:07,190
+Dôvod, prečo sme sa konečne rozprávali o
+fúzii, je, že som bol na skvelej
+
+2052
+00:38:07,190 --> 00:38:07,200
+fúzii, je, že som bol na skvelej
+
+2053
+00:38:07,200 --> 00:38:09,550
+fúzii, je, že som bol na skvelej
+popularizačnej prednáške. Mal ju Steven
+
+2054
+00:38:09,550 --> 00:38:09,560
+popularizačnej prednáške. Mal ju Steven
+
+2055
+00:38:09,560 --> 00:38:12,470
+popularizačnej prednáške. Mal ju Steven
+Colly, ktorý mal pod palcom alebo stále
+
+2056
+00:38:12,470 --> 00:38:12,480
+Colly, ktorý mal pod palcom alebo stále
+
+2057
+00:38:12,480 --> 00:38:15,790
+Colly, ktorý mal pod palcom alebo stále
+má vedenie výskumu plazmy. Strašne mi
+
+2058
+00:38:15,790 --> 00:38:15,800
+má vedenie výskumu plazmy. Strašne mi
+
+2059
+00:38:15,800 --> 00:38:18,230
+má vedenie výskumu plazmy. Strašne mi
+pripomínal Oppenheimera. Mal taký oblek,
+
+2060
+00:38:18,230 --> 00:38:18,240
+pripomínal Oppenheimera. Mal taký oblek,
+
+2061
+00:38:18,240 --> 00:38:20,190
+pripomínal Oppenheimera. Mal taký oblek,
+ktorý mu bol podľa mňa, že o 1 čísla
+
+2062
+00:38:20,190 --> 00:38:20,200
+ktorý mu bol podľa mňa, že o 1 čísla
+
+2063
+00:38:20,200 --> 00:38:22,390
+ktorý mu bol podľa mňa, že o 1 čísla
+väčší.
+
+2064
+00:38:22,390 --> 00:38:22,400
+väčší.
+
+2065
+00:38:22,400 --> 00:38:25,430
+väčší.
+Jeden zmení klímu, druhý to opraví a
+
+2066
+00:38:25,430 --> 00:38:25,440
+Jeden zmení klímu, druhý to opraví a
+
+2067
+00:38:25,440 --> 00:38:27,109
+Jeden zmení klímu, druhý to opraví a
+>> Hej, ako keď si v kancelárii a niekto to
+
+2068
+00:38:27,109 --> 00:38:27,119
+>> Hej, ako keď si v kancelárii a niekto to
+
+2069
+00:38:27,119 --> 00:38:30,150
+>> Hej, ako keď si v kancelárii a niekto to
+dá na 18 a niekto na 24. Toto mám pocit,
+
+2070
+00:38:30,150 --> 00:38:30,160
+dá na 18 a niekto na 24. Toto mám pocit,
+
+2071
+00:38:30,160 --> 00:38:31,870
+dá na 18 a niekto na 24. Toto mám pocit,
+že ľudia, čo majú teraz predplatený
+
+2072
+00:38:31,870 --> 00:38:31,880
+že ľudia, čo majú teraz predplatený
+
+2073
+00:38:31,880 --> 00:38:33,630
+že ľudia, čo majú teraz predplatený
+tento verátorský labák, majú celkom cool
+
+2074
+00:38:33,630 --> 00:38:33,640
+tento verátorský labák, majú celkom cool
+
+2075
+00:38:33,640 --> 00:38:35,069
+tento verátorský labák, majú celkom cool
+za kulisné info, lebo ja som o tom
+
+2076
+00:38:35,069 --> 00:38:35,079
+za kulisné info, lebo ja som o tom
+
+2077
+00:38:35,079 --> 00:38:36,990
+za kulisné info, lebo ja som o tom
+dovtedy absolútne nikde nepočul a on mi
+
+2078
+00:38:36,990 --> 00:38:37,000
+dovtedy absolútne nikde nepočul a on mi
+
+2079
+00:38:37,000 --> 00:38:38,710
+dovtedy absolútne nikde nepočul a on mi
+to len tak akože medzi rečou povedal pri
+
+2080
+00:38:38,710 --> 00:38:38,720
+to len tak akože medzi rečou povedal pri
+
+2081
+00:38:38,720 --> 00:38:39,371
+to len tak akože medzi rečou povedal pri
+coffee breaku.
+
+2082
+00:38:39,371 --> 00:38:39,381
+coffee breaku.
+
+2083
+00:38:39,381 --> 00:38:45,829
+coffee breaku.
+>> [hudba]
+
+2084
+00:38:45,839 --> 00:38:47,880
+>> الله

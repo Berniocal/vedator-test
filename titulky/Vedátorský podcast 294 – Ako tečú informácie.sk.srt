@@ -1,0 +1,7958 @@
+1
+00:00:00,170 --> 00:00:12,669
+[Hudba]
+
+2
+00:00:12,669 --> 00:00:12,679
+[Hudba]
+
+3
+00:00:12,679 --> 00:00:15,230
+[Hudba]
+Od energie cez organizmy až po infláciu.
+
+4
+00:00:15,230 --> 00:00:15,240
+Od energie cez organizmy až po infláciu.
+
+5
+00:00:15,240 --> 00:00:17,070
+Od energie cez organizmy až po infláciu.
+Veda vás obklopuje na každom kroku.
+
+6
+00:00:17,070 --> 00:00:17,080
+Veda vás obklopuje na každom kroku.
+
+7
+00:00:17,080 --> 00:00:18,950
+Veda vás obklopuje na každom kroku.
+Vitajte pri vedátorskom podcaste, v
+
+8
+00:00:18,950 --> 00:00:18,960
+Vitajte pri vedátorskom podcaste, v
+
+9
+00:00:18,960 --> 00:00:20,550
+Vitajte pri vedátorskom podcaste, v
+ktorom sa budeme rozprávať o vede a
+
+10
+00:00:20,550 --> 00:00:20,560
+ktorom sa budeme rozprávať o vede a
+
+11
+00:00:20,560 --> 00:00:22,390
+ktorom sa budeme rozprávať o vede a
+prírode okolo nás. Moje meno je Jozef.
+
+12
+00:00:22,390 --> 00:00:22,400
+prírode okolo nás. Moje meno je Jozef.
+
+13
+00:00:22,400 --> 00:00:23,670
+prírode okolo nás. Moje meno je Jozef.
+>> Ja som Samuel.
+
+14
+00:00:23,670 --> 00:00:23,680
+>> Ja som Samuel.
+
+15
+00:00:23,680 --> 00:00:25,550
+>> Ja som Samuel.
+>> Tento podcast vychádza ve spolupráci so
+
+16
+00:00:25,550 --> 00:00:25,560
+>> Tento podcast vychádza ve spolupráci so
+
+17
+00:00:25,560 --> 00:00:28,189
+>> Tento podcast vychádza ve spolupráci so
+sme Samkou. Si v pohode?
+
+18
+00:00:28,189 --> 00:00:28,199
+sme Samkou. Si v pohode?
+
+19
+00:00:28,199 --> 00:00:30,070
+sme Samkou. Si v pohode?
+Ako si si užil pohodu?
+
+20
+00:00:30,070 --> 00:00:30,080
+Ako si si užil pohodu?
+
+21
+00:00:30,080 --> 00:00:31,990
+Ako si si užil pohodu?
+Eh, veľmi dobre. Chcem poďakovať
+
+22
+00:00:31,990 --> 00:00:32,000
+Eh, veľmi dobre. Chcem poďakovať
+
+23
+00:00:32,000 --> 00:00:33,869
+Eh, veľmi dobre. Chcem poďakovať
+všetkým. Neviem, že či nás niekto počúva
+
+24
+00:00:33,869 --> 00:00:33,879
+všetkým. Neviem, že či nás niekto počúva
+
+25
+00:00:33,879 --> 00:00:35,709
+všetkým. Neviem, že či nás niekto počúva
+z organizačného tímu, ale keď hej, tak
+
+26
+00:00:35,709 --> 00:00:35,719
+z organizačného tímu, ale keď hej, tak
+
+27
+00:00:35,719 --> 00:00:37,350
+z organizačného tímu, ale keď hej, tak
+ďakujem. Veľmi pekne. Bolo to
+
+28
+00:00:37,350 --> 00:00:37,360
+ďakujem. Veľmi pekne. Bolo to
+
+29
+00:00:37,360 --> 00:00:37,830
+ďakujem. Veľmi pekne. Bolo to
+>> super.
+
+30
+00:00:37,830 --> 00:00:37,840
+>> super.
+
+31
+00:00:37,840 --> 00:00:40,990
+>> super.
+>> Krásne milé. Krásne milé a nie je to o
+
+32
+00:00:40,990 --> 00:00:41,000
+>> Krásne milé. Krásne milé a nie je to o
+
+33
+00:00:41,000 --> 00:00:43,869
+>> Krásne milé. Krásne milé a nie je to o
+feťákoch, ako by niekto povedal. Takže
+
+34
+00:00:43,869 --> 00:00:43,879
+feťákoch, ako by niekto povedal. Takže
+
+35
+00:00:43,879 --> 00:00:46,069
+feťákoch, ako by niekto povedal. Takže
+>> aký koncert sa ti páčil najviac? Ja
+
+36
+00:00:46,069 --> 00:00:46,079
+>> aký koncert sa ti páčil najviac? Ja
+
+37
+00:00:46,079 --> 00:00:48,110
+>> aký koncert sa ti páčil najviac? Ja
+budem úplne trápny, ale poviem buď Jána
+
+38
+00:00:48,110 --> 00:00:48,120
+budem úplne trápny, ale poviem buď Jána
+
+39
+00:00:48,120 --> 00:00:51,470
+budem úplne trápny, ale poviem buď Jána
+Kirschner alebo Richard Miller. Ale Rišo
+
+40
+00:00:51,470 --> 00:00:51,480
+Kirschner alebo Richard Miller. Ale Rišo
+
+41
+00:00:51,480 --> 00:00:54,189
+Kirschner alebo Richard Miller. Ale Rišo
+Miller kvôli asi tomu, že každú pesničku
+
+42
+00:00:54,189 --> 00:00:54,199
+Miller kvôli asi tomu, že každú pesničku
+
+43
+00:00:54,199 --> 00:00:58,110
+Miller kvôli asi tomu, že každú pesničku
+jeho viem spievať a má pre mňa nejaké
+
+44
+00:00:58,110 --> 00:00:58,120
+jeho viem spievať a má pre mňa nejaké
+
+45
+00:00:58,120 --> 00:00:59,910
+jeho viem spievať a má pre mňa nejaké
+také
+
+46
+00:00:59,910 --> 00:00:59,920
+také
+
+47
+00:00:59,920 --> 00:01:03,750
+také
+eh také veľmi pekné eh spomienky, ale aj
+
+48
+00:01:03,750 --> 00:01:03,760
+eh také veľmi pekné eh spomienky, ale aj
+
+49
+00:01:03,760 --> 00:01:06,109
+eh také veľmi pekné eh spomienky, ale aj
+Fakult sa mi strašne páčil,
+
+50
+00:01:06,109 --> 00:01:06,119
+Fakult sa mi strašne páčil,
+
+51
+00:01:06,119 --> 00:01:08,390
+Fakult sa mi strašne páčil,
+>> aj puding panielov. Inak samých Slovákov
+
+52
+00:01:08,390 --> 00:01:08,400
+>> aj puding panielov. Inak samých Slovákov
+
+53
+00:01:08,400 --> 00:01:08,990
+>> aj puding panielov. Inak samých Slovákov
+inak tr
+
+54
+00:01:08,990 --> 00:01:09,000
+inak tr
+
+55
+00:01:09,000 --> 00:01:10,670
+inak tr
+>> ináč tiež som si hovoril, že väčšina
+
+56
+00:01:10,670 --> 00:01:10,680
+>> ináč tiež som si hovoril, že väčšina
+
+57
+00:01:10,680 --> 00:01:12,390
+>> ináč tiež som si hovoril, že väčšina
+kapiel, ktoré som si fakt akože jasné,
+
+58
+00:01:12,390 --> 00:01:12,400
+kapiel, ktoré som si fakt akože jasné,
+
+59
+00:01:12,400 --> 00:01:13,910
+kapiel, ktoré som si fakt akože jasné,
+že aj niektoré zahraničné, ale presne,
+
+60
+00:01:13,910 --> 00:01:13,920
+že aj niektoré zahraničné, ale presne,
+
+61
+00:01:13,920 --> 00:01:15,390
+že aj niektoré zahraničné, ale presne,
+že tie slovenské.
+
+62
+00:01:15,390 --> 00:01:15,400
+že tie slovenské.
+
+63
+00:01:15,400 --> 00:01:16,630
+že tie slovenské.
+>> Hej.
+
+64
+00:01:16,630 --> 00:01:16,640
+>> Hej.
+
+65
+00:01:16,640 --> 00:01:19,030
+>> Hej.
+A akože eh puding pani Elvisovej bol
+
+66
+00:01:19,030 --> 00:01:19,040
+A akože eh puding pani Elvisovej bol
+
+67
+00:01:19,040 --> 00:01:21,109
+A akože eh puding pani Elvisovej bol
+super. Akože všetko ako podľa mňa čo
+
+68
+00:01:21,109 --> 00:01:21,119
+super. Akože všetko ako podľa mňa čo
+
+69
+00:01:21,119 --> 00:01:25,109
+super. Akože všetko ako podľa mňa čo
+koncert to super akože. A aj ten safari
+
+70
+00:01:25,109 --> 00:01:25,119
+koncert to super akože. A aj ten safari
+
+71
+00:01:25,119 --> 00:01:27,069
+koncert to super akože. A aj ten safari
+či ako sa volali
+
+72
+00:01:27,069 --> 00:01:27,079
+či ako sa volali
+
+73
+00:01:27,079 --> 00:01:28,830
+či ako sa volali
+>> express boli v piatok. African Express
+
+74
+00:01:28,830 --> 00:01:28,840
+>> express boli v piatok. African Express
+
+75
+00:01:28,840 --> 00:01:29,870
+>> express boli v piatok. African Express
+to bolo super tiež
+
+76
+00:01:29,870 --> 00:01:29,880
+to bolo super tiež
+
+77
+00:01:29,880 --> 00:01:30,590
+to bolo super tiež
+>> afri štvok
+
+78
+00:01:30,590 --> 00:01:30,600
+>> afri štvok
+
+79
+00:01:30,600 --> 00:01:32,789
+>> afri štvok
+>> vo štvrtok vlastne. Hej.
+
+80
+00:01:32,789 --> 00:01:32,799
+>> vo štvrtok vlastne. Hej.
+
+81
+00:01:32,799 --> 00:01:35,830
+>> vo štvrtok vlastne. Hej.
+>> Mne sa zahraničných páčil ten Mark Ribé.
+
+82
+00:01:35,830 --> 00:01:35,840
+>> Mne sa zahraničných páčil ten Mark Ribé.
+
+83
+00:01:35,840 --> 00:01:38,830
+>> Mne sa zahraničných páčil ten Mark Ribé.
+Jeho meno Rebilet. To bolo to bolo úplne
+
+84
+00:01:38,830 --> 00:01:38,840
+Jeho meno Rebilet. To bolo to bolo úplne
+
+85
+00:01:38,840 --> 00:01:40,469
+Jeho meno Rebilet. To bolo to bolo úplne
+šialenstvo. My sme išli pod pódium a ja
+
+86
+00:01:40,469 --> 00:01:40,479
+šialenstvo. My sme išli pod pódium a ja
+
+87
+00:01:40,479 --> 00:01:42,670
+šialenstvo. My sme išli pod pódium a ja
+som myslel, že mne z kosti vytrasie
+
+88
+00:01:42,670 --> 00:01:42,680
+som myslel, že mne z kosti vytrasie
+
+89
+00:01:42,680 --> 00:01:44,950
+som myslel, že mne z kosti vytrasie
+dreň.
+
+90
+00:01:44,950 --> 00:01:44,960
+dreň.
+
+91
+00:01:44,960 --> 00:01:47,870
+dreň.
+>> Hej. Je je dosť zlé, dosť zlé, keď
+
+92
+00:01:47,870 --> 00:01:47,880
+>> Hej. Je je dosť zlé, dosť zlé, keď
+
+93
+00:01:47,880 --> 00:01:50,749
+>> Hej. Je je dosť zlé, dosť zlé, keď
+rozdávajú ľuďom eh štuple,
+
+94
+00:01:50,749 --> 00:01:50,759
+rozdávajú ľuďom eh štuple,
+
+95
+00:01:50,759 --> 00:01:52,350
+rozdávajú ľuďom eh štuple,
+>> hej. Hej. Ešte keby ti morfium
+
+96
+00:01:52,350 --> 00:01:52,360
+>> hej. Hej. Ešte keby ti morfium
+
+97
+00:01:52,360 --> 00:01:55,190
+>> hej. Hej. Ešte keby ti morfium
+rozdávali, že toto budete potrebovať.
+
+98
+00:01:55,190 --> 00:01:55,200
+rozdávali, že toto budete potrebovať.
+
+99
+00:01:55,200 --> 00:01:55,550
+rozdávali, že toto budete potrebovať.
+>> Hej.
+
+100
+00:01:55,550 --> 00:01:55,560
+>> Hej.
+
+101
+00:01:55,560 --> 00:01:57,230
+>> Hej.
+>> Ale tiež som malž pocit, že slovenské
+
+102
+00:01:57,230 --> 00:01:57,240
+>> Ale tiež som malž pocit, že slovenské
+
+103
+00:01:57,240 --> 00:01:58,469
+>> Ale tiež som malž pocit, že slovenské
+skupiny sa mi možno páčili úplne
+
+104
+00:01:58,469 --> 00:01:58,479
+skupiny sa mi možno páčili úplne
+
+105
+00:01:58,479 --> 00:02:00,350
+skupiny sa mi možno páčili úplne
+najviac, že Fgrab napríklad ten koncert
+
+106
+00:02:00,350 --> 00:02:00,360
+najviac, že Fgrab napríklad ten koncert
+
+107
+00:02:00,360 --> 00:02:01,109
+najviac, že Fgrab napríklad ten koncert
+hneď prvý deň.
+
+108
+00:02:01,109 --> 00:02:01,119
+hneď prvý deň.
+
+109
+00:02:01,119 --> 00:02:03,590
+hneď prvý deň.
+>> Inak ako aj ten bol super. Akože celkovo
+
+110
+00:02:03,590 --> 00:02:03,600
+>> Inak ako aj ten bol super. Akože celkovo
+
+111
+00:02:03,600 --> 00:02:04,350
+>> Inak ako aj ten bol super. Akože celkovo
+super.
+
+112
+00:02:04,350 --> 00:02:04,360
+super.
+
+113
+00:02:04,360 --> 00:02:06,830
+super.
+>> A my sme išli na tých headlinerov eh,
+
+114
+00:02:06,830 --> 00:02:06,840
+>> A my sme išli na tých headlinerov eh,
+
+115
+00:02:06,840 --> 00:02:08,990
+>> A my sme išli na tých headlinerov eh,
+Queens of the Stone Age a že len tak
+
+116
+00:02:08,990 --> 00:02:09,000
+Queens of the Stone Age a že len tak
+
+117
+00:02:09,000 --> 00:02:10,910
+Queens of the Stone Age a že len tak
+prejdeme cestan, kde má Bene koncert s
+
+118
+00:02:10,910 --> 00:02:10,920
+prejdeme cestan, kde má Bene koncert s
+
+119
+00:02:10,920 --> 00:02:12,990
+prejdeme cestan, kde má Bene koncert s
+tým video Daveom, s takým tým Američanom
+
+120
+00:02:12,990 --> 00:02:13,000
+tým video Daveom, s takým tým Američanom
+
+121
+00:02:13,000 --> 00:02:14,630
+tým video Daveom, s takým tým Američanom
+urobili album. My sme tam zostali
+
+122
+00:02:14,630 --> 00:02:14,640
+urobili album. My sme tam zostali
+
+123
+00:02:14,640 --> 00:02:17,190
+urobili album. My sme tam zostali
+dokonca. Úplne sme zmeškali headlinerov.
+
+124
+00:02:17,190 --> 00:02:17,200
+dokonca. Úplne sme zmeškali headlinerov.
+
+125
+00:02:17,200 --> 00:02:19,430
+dokonca. Úplne sme zmeškali headlinerov.
+>> Hm. Verím akože. Takže aj Beneho
+
+126
+00:02:19,430 --> 00:02:19,440
+>> Hm. Verím akože. Takže aj Beneho
+
+127
+00:02:19,440 --> 00:02:21,470
+>> Hm. Verím akože. Takže aj Beneho
+pozdravujeme. Eh, teraz ma napadol aj
+
+128
+00:02:21,470 --> 00:02:21,480
+pozdravujeme. Eh, teraz ma napadol aj
+
+129
+00:02:21,480 --> 00:02:25,470
+pozdravujeme. Eh, teraz ma napadol aj
+Igo. Bol super akože jo, všetko
+
+130
+00:02:25,470 --> 00:02:25,480
+Igo. Bol super akože jo, všetko
+
+131
+00:02:25,480 --> 00:02:27,150
+Igo. Bol super akože jo, všetko
+>> a my si ešte, že veľa ľudí sa k nám
+
+132
+00:02:27,150 --> 00:02:27,160
+>> a my si ešte, že veľa ľudí sa k nám
+
+133
+00:02:27,160 --> 00:02:29,509
+>> a my si ešte, že veľa ľudí sa k nám
+pristavilo a že čauteý podcast, ale
+
+134
+00:02:29,509 --> 00:02:29,519
+pristavilo a že čauteý podcast, ale
+
+135
+00:02:29,519 --> 00:02:32,470
+pristavilo a že čauteý podcast, ale
+jeden chalan došiel a povedal, že vďaka
+
+136
+00:02:32,470 --> 00:02:32,480
+jeden chalan došiel a povedal, že vďaka
+
+137
+00:02:32,480 --> 00:02:35,710
+jeden chalan došiel a povedal, že vďaka
+vám som sa dostal z dezinformačnej siete
+
+138
+00:02:35,710 --> 00:02:35,720
+vám som sa dostal z dezinformačnej siete
+
+139
+00:02:35,720 --> 00:02:36,830
+vám som sa dostal z dezinformačnej siete
+a to ma veľmi potešilo, že
+
+140
+00:02:36,830 --> 00:02:36,840
+a to ma veľmi potešilo, že
+
+141
+00:02:36,840 --> 00:02:38,710
+a to ma veľmi potešilo, že
+>> to som tam nebol. To by som sa potešil.
+
+142
+00:02:38,710 --> 00:02:38,720
+>> to som tam nebol. To by som sa potešil.
+
+143
+00:02:38,720 --> 00:02:40,309
+>> to som tam nebol. To by som sa potešil.
+>> Podľa podľa mňa si tam bol. Len si sa už
+
+144
+00:02:40,309 --> 00:02:40,319
+>> Podľa podľa mňa si tam bol. Len si sa už
+
+145
+00:02:40,319 --> 00:02:42,270
+>> Podľa podľa mňa si tam bol. Len si sa už
+možno sústredil na koncert alebo čo?
+
+146
+00:02:42,270 --> 00:02:42,280
+možno sústredil na koncert alebo čo?
+
+147
+00:02:42,280 --> 00:02:42,710
+možno sústredil na koncert alebo čo?
+Lebo
+
+148
+00:02:42,710 --> 00:02:42,720
+Lebo
+
+149
+00:02:42,720 --> 00:02:47,910
+Lebo
+>> lebo som bol sfetovaný.
+
+150
+00:02:47,920 --> 00:02:49,430
+>> Eh, lebo to bol to bolo inak to bol
+
+151
+00:02:49,430 --> 00:02:49,440
+>> Eh, lebo to bol to bolo inak to bol
+
+152
+00:02:49,440 --> 00:02:50,270
+>> Eh, lebo to bol to bolo inak to bol
+vtip.
+
+153
+00:02:50,270 --> 00:02:50,280
+vtip.
+
+154
+00:02:50,280 --> 00:02:52,550
+vtip.
+>> Áno. To snáď to všetci pochopili.
+
+155
+00:02:52,550 --> 00:02:52,560
+>> Áno. To snáď to všetci pochopili.
+
+156
+00:02:52,560 --> 00:02:55,869
+>> Áno. To snáď to všetci pochopili.
+>> Hej. Hej. Len keby náhodo,
+
+157
+00:02:55,869 --> 00:02:55,879
+>> Hej. Hej. Len keby náhodo,
+
+158
+00:02:55,879 --> 00:02:57,670
+>> Hej. Hej. Len keby náhodo,
+keď rozprávame, tak mám pocit, že my
+
+159
+00:02:57,670 --> 00:02:57,680
+keď rozprávame, tak mám pocit, že my
+
+160
+00:02:57,680 --> 00:02:58,990
+keď rozprávame, tak mám pocit, že my
+vieme, že rozprávame pre ľudí, ktorí
+
+161
+00:02:58,990 --> 00:02:59,000
+vieme, že rozprávame pre ľudí, ktorí
+
+162
+00:02:59,000 --> 00:03:00,949
+vieme, že rozprávame pre ľudí, ktorí
+sledujú vedu a podobne a že však nemá až
+
+163
+00:03:00,949 --> 00:03:00,959
+sledujú vedu a podobne a že však nemá až
+
+164
+00:03:00,959 --> 00:03:02,550
+sledujú vedu a podobne a že však nemá až
+tak tuto zmysel rozprávať o kritickom
+
+165
+00:03:02,550 --> 00:03:02,560
+tak tuto zmysel rozprávať o kritickom
+
+166
+00:03:02,560 --> 00:03:04,750
+tak tuto zmysel rozprávať o kritickom
+myslelení, lebo všetci poslucháči toho
+
+167
+00:03:04,750 --> 00:03:04,760
+myslelení, lebo všetci poslucháči toho
+
+168
+00:03:04,760 --> 00:03:07,390
+myslelení, lebo všetci poslucháči toho
+majú úplne vyšpicované.
+
+169
+00:03:07,390 --> 00:03:07,400
+majú úplne vyšpicované.
+
+170
+00:03:07,400 --> 00:03:09,229
+majú úplne vyšpicované.
+A tak ma tento príbeh veľmi potešil, že
+
+171
+00:03:09,229 --> 00:03:09,239
+A tak ma tento príbeh veľmi potešil, že
+
+172
+00:03:09,239 --> 00:03:11,789
+A tak ma tento príbeh veľmi potešil, že
+nám povedal, že že takto sme mu pomohli.
+
+173
+00:03:11,789 --> 00:03:11,799
+nám povedal, že že takto sme mu pomohli.
+
+174
+00:03:11,799 --> 00:03:12,190
+nám povedal, že že takto sme mu pomohli.
+A to má
+
+175
+00:03:12,190 --> 00:03:12,200
+A to má
+
+176
+00:03:12,200 --> 00:03:13,869
+A to má
+>> povedal niečo viacej, že k tomu či
+
+177
+00:03:13,869 --> 00:03:13,879
+>> povedal niečo viacej, že k tomu či
+
+178
+00:03:13,879 --> 00:03:15,229
+>> povedal niečo viacej, že k tomu či
+>> no len toto, že naozaj to bol, že
+
+179
+00:03:15,229 --> 00:03:15,239
+>> no len toto, že naozaj to bol, že
+
+180
+00:03:15,239 --> 00:03:16,910
+>> no len toto, že naozaj to bol, že
+dvojminútový small talk, ale teda
+
+181
+00:03:16,910 --> 00:03:16,920
+dvojminútový small talk, ale teda
+
+182
+00:03:16,920 --> 00:03:19,149
+dvojminútový small talk, ale teda
+povedal a že hráč počúva, takže ho
+
+183
+00:03:19,149 --> 00:03:19,159
+povedal a že hráč počúva, takže ho
+
+184
+00:03:19,159 --> 00:03:19,910
+povedal a že hráč počúva, takže ho
+pozdravujeme.
+
+185
+00:03:19,910 --> 00:03:19,920
+pozdravujeme.
+
+186
+00:03:19,920 --> 00:03:21,710
+pozdravujeme.
+>> A aj vedátorské tričko sme videli na
+
+187
+00:03:21,710 --> 00:03:21,720
+>> A aj vedátorské tričko sme videli na
+
+188
+00:03:21,720 --> 00:03:22,229
+>> A aj vedátorské tričko sme videli na
+pohode.
+
+189
+00:03:22,229 --> 00:03:22,239
+pohode.
+
+190
+00:03:22,239 --> 00:03:23,149
+pohode.
+>> Áno, áno.
+
+191
+00:03:23,149 --> 00:03:23,159
+>> Áno, áno.
+
+192
+00:03:23,159 --> 00:03:25,710
+>> Áno, áno.
+>> No nabudúce spravíme stan vedátorský
+
+193
+00:03:25,710 --> 00:03:25,720
+>> No nabudúce spravíme stan vedátorský
+
+194
+00:03:25,720 --> 00:03:27,149
+>> No nabudúce spravíme stan vedátorský
+>> alebo by sme mohli robiť podcastové
+
+195
+00:03:27,149 --> 00:03:27,159
+>> alebo by sme mohli robiť podcastové
+
+196
+00:03:27,159 --> 00:03:30,070
+>> alebo by sme mohli robiť podcastové
+trička ináč konečne. Nie po 100 rokoch.
+
+197
+00:03:30,070 --> 00:03:30,080
+trička ináč konečne. Nie po 100 rokoch.
+
+198
+00:03:30,080 --> 00:03:31,750
+trička ináč konečne. Nie po 100 rokoch.
+>> Nie po 100, prvýkrát.
+
+199
+00:03:31,750 --> 00:03:31,760
+>> Nie po 100, prvýkrát.
+
+200
+00:03:31,760 --> 00:03:34,229
+>> Nie po 100, prvýkrát.
+>> No hej, hej. Ale po 100 rokoch.
+
+201
+00:03:34,229 --> 00:03:34,239
+>> No hej, hej. Ale po 100 rokoch.
+
+202
+00:03:34,239 --> 00:03:36,190
+>> No hej, hej. Ale po 100 rokoch.
+>> Dobre, ale už sme si zhrnuli, aj kde sme
+
+203
+00:03:36,190 --> 00:03:36,200
+>> Dobre, ale už sme si zhrnuli, aj kde sme
+
+204
+00:03:36,200 --> 00:03:38,789
+>> Dobre, ale už sme si zhrnuli, aj kde sme
+boli cez víkend, aj eh že sme niekoho
+
+205
+00:03:38,789 --> 00:03:38,799
+boli cez víkend, aj eh že sme niekoho
+
+206
+00:03:38,799 --> 00:03:40,509
+boli cez víkend, aj eh že sme niekoho
+dostali z dezinformačnej scény, čo sa
+
+207
+00:03:40,509 --> 00:03:40,519
+dostali z dezinformačnej scény, čo sa
+
+208
+00:03:40,519 --> 00:03:42,750
+dostali z dezinformačnej scény, čo sa
+strašne teším. Tak pozdravujem, pardon,
+
+209
+00:03:42,750 --> 00:03:42,760
+strašne teším. Tak pozdravujem, pardon,
+
+210
+00:03:42,760 --> 00:03:45,710
+strašne teším. Tak pozdravujem, pardon,
+nebol som pri tom rozhovore. A eh dneska
+
+211
+00:03:45,710 --> 00:03:45,720
+nebol som pri tom rozhovore. A eh dneska
+
+212
+00:03:45,720 --> 00:03:47,630
+nebol som pri tom rozhovore. A eh dneska
+sa budeme rozprávať o tečujúcich
+
+213
+00:03:47,630 --> 00:03:47,640
+sa budeme rozprávať o tečujúcich
+
+214
+00:03:47,640 --> 00:03:49,509
+sa budeme rozprávať o tečujúcich
+informáciách a ja si to predstavujem
+
+215
+00:03:49,509 --> 00:03:49,519
+informáciách a ja si to predstavujem
+
+216
+00:03:49,519 --> 00:03:52,229
+informáciách a ja si to predstavujem
+také ako serengety, keď sa presúva
+
+217
+00:03:52,229 --> 00:03:52,239
+také ako serengety, keď sa presúva
+
+218
+00:03:52,239 --> 00:03:54,509
+také ako serengety, keď sa presúva
+proste kedysi sme si len posúvali, vieš,
+
+219
+00:03:54,509 --> 00:03:54,519
+proste kedysi sme si len posúvali, vieš,
+
+220
+00:03:54,519 --> 00:03:55,270
+proste kedysi sme si len posúvali, vieš,
+také
+
+221
+00:03:55,270 --> 00:03:55,280
+také
+
+222
+00:03:55,280 --> 00:03:57,830
+také
+>> také tie historické eh informácie, vieš,
+
+223
+00:03:57,830 --> 00:03:57,840
+>> také tie historické eh informácie, vieš,
+
+224
+00:03:57,840 --> 00:04:00,030
+>> také tie historické eh informácie, vieš,
+že proste tak, že hentam to som ti
+
+225
+00:04:00,030 --> 00:04:00,040
+že proste tak, že hentam to som ti
+
+226
+00:04:00,040 --> 00:04:01,550
+že proste tak, že hentam to som ti
+hovoril, nie, že som čítal o tých
+
+227
+00:04:01,550 --> 00:04:01,560
+hovoril, nie, že som čítal o tých
+
+228
+00:04:01,560 --> 00:04:03,470
+hovoril, nie, že som čítal o tých
+siedmich divoch sveta,
+
+229
+00:04:03,470 --> 00:04:03,480
+siedmich divoch sveta,
+
+230
+00:04:03,480 --> 00:04:06,149
+siedmich divoch sveta,
+>> nie? o tých historických a že o tie
+
+231
+00:04:06,149 --> 00:04:06,159
+>> nie? o tých historických a že o tie
+
+232
+00:04:06,159 --> 00:04:08,670
+>> nie? o tých historických a že o tie
+babylonské záhrady sú jeden zo z tých
+
+233
+00:04:08,670 --> 00:04:08,680
+babylonské záhrady sú jeden zo z tých
+
+234
+00:04:08,680 --> 00:04:11,149
+babylonské záhrady sú jeden zo z tých
+divov sveta, ktorí si myslia, že asi
+
+235
+00:04:11,149 --> 00:04:11,159
+divov sveta, ktorí si myslia, že asi
+
+236
+00:04:11,159 --> 00:04:13,550
+divov sveta, ktorí si myslia, že asi
+reálne ani neexistoval. Len niekto sa eh
+
+237
+00:04:13,550 --> 00:04:13,560
+reálne ani neexistoval. Len niekto sa eh
+
+238
+00:04:13,560 --> 00:04:15,670
+reálne ani neexistoval. Len niekto sa eh
+pomýlil v meste, lebo o nejakých
+
+239
+00:04:15,670 --> 00:04:15,680
+pomýlil v meste, lebo o nejakých
+
+240
+00:04:15,680 --> 00:04:17,870
+pomýlil v meste, lebo o nejakých
+>> 100 míľ vedľa bolo nejaké mesto, ktoré
+
+241
+00:04:17,870 --> 00:04:17,880
+>> 100 míľ vedľa bolo nejaké mesto, ktoré
+
+242
+00:04:17,880 --> 00:04:19,189
+>> 100 míľ vedľa bolo nejaké mesto, ktoré
+malo veľmi
+
+243
+00:04:19,189 --> 00:04:19,199
+malo veľmi
+
+244
+00:04:19,199 --> 00:04:22,629
+malo veľmi
+>> eh pekné vysuté záhrady a že ono to je
+
+245
+00:04:22,629 --> 00:04:22,639
+>> eh pekné vysuté záhrady a že ono to je
+
+246
+00:04:22,639 --> 00:04:24,830
+>> eh pekné vysuté záhrady a že ono to je
+pekne aj zdokumentované, ale že ten
+
+247
+00:04:24,830 --> 00:04:24,840
+pekne aj zdokumentované, ale že ten
+
+248
+00:04:24,840 --> 00:04:27,469
+pekne aj zdokumentované, ale že ten
+>> Babylon sa asi len niekto zle,
+
+249
+00:04:27,469 --> 00:04:27,479
+>> Babylon sa asi len niekto zle,
+
+250
+00:04:27,479 --> 00:04:29,110
+>> Babylon sa asi len niekto zle,
+>> ale asi o tomto to nebude.
+
+251
+00:04:29,110 --> 00:04:29,120
+>> ale asi o tomto to nebude.
+
+252
+00:04:29,120 --> 00:04:30,830
+>> ale asi o tomto to nebude.
+>> Vieš čo, táto epizóda v skutočnosti
+
+253
+00:04:30,830 --> 00:04:30,840
+>> Vieš čo, táto epizóda v skutočnosti
+
+254
+00:04:30,840 --> 00:04:33,189
+>> Vieš čo, táto epizóda v skutočnosti
+nebude konkrétne o ničom. Výborne.
+
+255
+00:04:33,189 --> 00:04:33,199
+nebude konkrétne o ničom. Výborne.
+
+256
+00:04:33,199 --> 00:04:36,710
+nebude konkrétne o ničom. Výborne.
+>> Ja mám taký taký eh ako sa to volá, také
+
+257
+00:04:36,710 --> 00:04:36,720
+>> Ja mám taký taký eh ako sa to volá, také
+
+258
+00:04:36,720 --> 00:04:38,390
+>> Ja mám taký taký eh ako sa to volá, také
+poznámky v mobile, kde si občas píšem
+
+259
+00:04:38,390 --> 00:04:38,400
+poznámky v mobile, kde si občas píšem
+
+260
+00:04:38,400 --> 00:04:40,590
+poznámky v mobile, kde si občas píšem
+nejaké nápady a sem-tam sa niečo utrasí
+
+261
+00:04:40,590 --> 00:04:40,600
+nejaké nápady a sem-tam sa niečo utrasí
+
+262
+00:04:40,600 --> 00:04:42,469
+nejaké nápady a sem-tam sa niečo utrasí
+na celú epizódu a tu sa mi stalo, že som
+
+263
+00:04:42,469 --> 00:04:42,479
+na celú epizódu a tu sa mi stalo, že som
+
+264
+00:04:42,479 --> 00:04:44,270
+na celú epizódu a tu sa mi stalo, že som
+zistil, že tam mám zapísané štyri až päť
+
+265
+00:04:44,270 --> 00:04:44,280
+zistil, že tam mám zapísané štyri až päť
+
+266
+00:04:44,280 --> 00:04:45,790
+zistil, že tam mám zapísané štyri až päť
+poznámok,
+
+267
+00:04:45,790 --> 00:04:45,800
+poznámok,
+
+268
+00:04:45,800 --> 00:04:47,550
+poznámok,
+že je zaujímavý kúsok informácie, čo som
+
+269
+00:04:47,550 --> 00:04:47,560
+že je zaujímavý kúsok informácie, čo som
+
+270
+00:04:47,560 --> 00:04:49,790
+že je zaujímavý kúsok informácie, čo som
+niekde počul, ktoré nespája dokopy
+
+271
+00:04:49,790 --> 00:04:49,800
+niekde počul, ktoré nespája dokopy
+
+272
+00:04:49,800 --> 00:04:51,629
+niekde počul, ktoré nespája dokopy
+žiaden naratív, žiadne ponaučenie,
+
+273
+00:04:51,629 --> 00:04:51,639
+žiaden naratív, žiadne ponaučenie,
+
+274
+00:04:51,639 --> 00:04:54,070
+žiaden naratív, žiadne ponaučenie,
+žiadne nič, ale všetky súvisia tak
+
+275
+00:04:54,070 --> 00:04:54,080
+žiadne nič, ale všetky súvisia tak
+
+276
+00:04:54,080 --> 00:04:55,950
+žiadne nič, ale všetky súvisia tak
+trochu s informáciou.
+
+277
+00:04:55,950 --> 00:04:55,960
+trochu s informáciou.
+
+278
+00:04:55,960 --> 00:04:58,469
+trochu s informáciou.
+>> Bude to vševedátorská epizóda. Bude
+
+279
+00:04:58,469 --> 00:04:58,479
+>> Bude to vševedátorská epizóda. Bude
+
+280
+00:04:58,479 --> 00:05:01,430
+>> Bude to vševedátorská epizóda. Bude
+vševedátorská epizóda. divný eh ako sa
+
+281
+00:05:01,430 --> 00:05:01,440
+vševedátorská epizóda. divný eh ako sa
+
+282
+00:05:01,440 --> 00:05:04,029
+vševedátorská epizóda. divný eh ako sa
+to volá taký ten v dračáu, nie v dračáku
+
+283
+00:05:04,029 --> 00:05:04,039
+to volá taký ten v dračáu, nie v dračáku
+
+284
+00:05:04,039 --> 00:05:04,909
+to volá taký ten v dračáu, nie v dračáku
+taký ten mix.
+
+285
+00:05:04,909 --> 00:05:04,919
+taký ten mix.
+
+286
+00:05:04,919 --> 00:05:07,749
+taký ten mix.
+>> Ja viem eh mega eh
+
+287
+00:05:07,749 --> 00:05:07,759
+>> Ja viem eh mega eh
+
+288
+00:05:07,759 --> 00:05:08,830
+>> Ja viem eh mega eh
+>> ten ten mega mix
+
+289
+00:05:08,830 --> 00:05:08,840
+>> ten ten mega mix
+
+290
+00:05:08,840 --> 00:05:10,350
+>> ten ten mega mix
+>> magamix
+
+291
+00:05:10,350 --> 00:05:10,360
+>> magamix
+
+292
+00:05:10,360 --> 00:05:11,150
+>> magamix
+alebo niečo také, hej.
+
+293
+00:05:11,150 --> 00:05:11,160
+alebo niečo také, hej.
+
+294
+00:05:11,160 --> 00:05:13,350
+alebo niečo také, hej.
+>> Áno. Tak to bude takto bude ono. A a či
+
+295
+00:05:13,350 --> 00:05:13,360
+>> Áno. Tak to bude takto bude ono. A a či
+
+296
+00:05:13,360 --> 00:05:14,350
+>> Áno. Tak to bude takto bude ono. A a či
+si z toho niekto zoberie nejaké
+
+297
+00:05:14,350 --> 00:05:14,360
+si z toho niekto zoberie nejaké
+
+298
+00:05:14,360 --> 00:05:16,990
+si z toho niekto zoberie nejaké
+ponučenie alebo nie, tak to už nechám na
+
+299
+00:05:16,990 --> 00:05:17,000
+ponučenie alebo nie, tak to už nechám na
+
+300
+00:05:17,000 --> 00:05:17,189
+ponučenie alebo nie, tak to už nechám na
+lodi.
+
+301
+00:05:17,189 --> 00:05:17,199
+lodi.
+
+302
+00:05:17,199 --> 00:05:18,670
+lodi.
+>> Dobre. Tak ja som sa na túto epizódu
+
+303
+00:05:18,670 --> 00:05:18,680
+>> Dobre. Tak ja som sa na túto epizódu
+
+304
+00:05:18,680 --> 00:05:20,790
+>> Dobre. Tak ja som sa na túto epizódu
+vôbec nevedel pripraviť, takže
+
+305
+00:05:20,790 --> 00:05:20,800
+vôbec nevedel pripraviť, takže
+
+306
+00:05:20,800 --> 00:05:22,270
+vôbec nevedel pripraviť, takže
+>> ja som ja som ťa dosť ľutoval, keď som
+
+307
+00:05:22,270 --> 00:05:22,280
+>> ja som ja som ťa dosť ľutoval, keď som
+
+308
+00:05:22,280 --> 00:05:23,950
+>> ja som ja som ťa dosť ľutoval, keď som
+písal tie poznámky, ale že
+
+309
+00:05:23,950 --> 00:05:23,960
+písal tie poznámky, ale že
+
+310
+00:05:23,960 --> 00:05:25,309
+písal tie poznámky, ale že
+>> úplne v pohode. Aspoň keď mi to
+
+311
+00:05:25,309 --> 00:05:25,319
+>> úplne v pohode. Aspoň keď mi to
+
+312
+00:05:25,319 --> 00:05:27,029
+>> úplne v pohode. Aspoň keď mi to
+vysvetlíš a naučím sa aspoň dve veci,
+
+313
+00:05:27,029 --> 00:05:27,039
+vysvetlíš a naučím sa aspoň dve veci,
+
+314
+00:05:27,039 --> 00:05:29,309
+vysvetlíš a naučím sa aspoň dve veci,
+tak som rád. Tak poďme rovno do toho, čo
+
+315
+00:05:29,309 --> 00:05:29,319
+tak som rád. Tak poďme rovno do toho, čo
+
+316
+00:05:29,319 --> 00:05:29,790
+tak som rád. Tak poďme rovno do toho, čo
+povieš.
+
+317
+00:05:29,790 --> 00:05:29,800
+povieš.
+
+318
+00:05:29,800 --> 00:05:30,469
+povieš.
+>> Uhm.
+
+319
+00:05:30,469 --> 00:05:30,479
+>> Uhm.
+
+320
+00:05:30,479 --> 00:05:33,830
+>> Uhm.
+>> No. Eh, čo riadi uspariadanosť hmoty? A
+
+321
+00:05:33,830 --> 00:05:33,840
+>> No. Eh, čo riadi uspariadanosť hmoty? A
+
+322
+00:05:33,840 --> 00:05:36,550
+>> No. Eh, čo riadi uspariadanosť hmoty? A
+inak toto je veľmi dobrá otázka, lebo
+
+323
+00:05:36,550 --> 00:05:36,560
+inak toto je veľmi dobrá otázka, lebo
+
+324
+00:05:36,560 --> 00:05:38,830
+inak toto je veľmi dobrá otázka, lebo
+mňa toto, možno hovorím úplne od veci,
+
+325
+00:05:38,830 --> 00:05:38,840
+mňa toto, možno hovorím úplne od veci,
+
+326
+00:05:38,840 --> 00:05:40,950
+mňa toto, možno hovorím úplne od veci,
+ale mňa toto veľmi vždy zaujímalo, že
+
+327
+00:05:40,950 --> 00:05:40,960
+ale mňa toto veľmi vždy zaujímalo, že
+
+328
+00:05:40,960 --> 00:05:44,909
+ale mňa toto veľmi vždy zaujímalo, že
+prečo sa usporiadava hmota tak, ako sa
+
+329
+00:05:44,909 --> 00:05:44,919
+prečo sa usporiadava hmota tak, ako sa
+
+330
+00:05:44,919 --> 00:05:47,189
+prečo sa usporiadava hmota tak, ako sa
+usporiadava. Napríklad ja pri kozmológii
+
+331
+00:05:47,189 --> 00:05:47,199
+usporiadava. Napríklad ja pri kozmológii
+
+332
+00:05:47,199 --> 00:05:49,270
+usporiadava. Napríklad ja pri kozmológii
+ma to vždy zaujíma, že prečo je niekde
+
+333
+00:05:49,270 --> 00:05:49,280
+ma to vždy zaujíma, že prečo je niekde
+
+334
+00:05:49,280 --> 00:05:51,830
+ma to vždy zaujíma, že prečo je niekde
+hmlovina, prečo je niekde
+
+335
+00:05:51,830 --> 00:05:51,840
+hmlovina, prečo je niekde
+
+336
+00:05:51,840 --> 00:05:54,629
+hmlovina, prečo je niekde
+>> slnko eh alebo hviezda, prečo je niekde
+
+337
+00:05:54,629 --> 00:05:54,639
+>> slnko eh alebo hviezda, prečo je niekde
+
+338
+00:05:54,639 --> 00:05:56,390
+>> slnko eh alebo hviezda, prečo je niekde
+pulzár, prečo je niekde čierna diera?
+
+339
+00:05:56,390 --> 00:05:56,400
+pulzár, prečo je niekde čierna diera?
+
+340
+00:05:56,400 --> 00:05:58,469
+pulzár, prečo je niekde čierna diera?
+Áno, to sú nejaké vývojové štádia a tak
+
+341
+00:05:58,469 --> 00:05:58,479
+Áno, to sú nejaké vývojové štádia a tak
+
+342
+00:05:58,479 --> 00:06:02,110
+Áno, to sú nejaké vývojové štádia a tak
+ďalej, ale skorej, že prečo nie je všade
+
+343
+00:06:02,110 --> 00:06:02,120
+ďalej, ale skorej, že prečo nie je všade
+
+344
+00:06:02,120 --> 00:06:04,830
+ďalej, ale skorej, že prečo nie je všade
+tá hmota, ako to bolo eh po tom veľkom
+
+345
+00:06:04,830 --> 00:06:04,840
+tá hmota, ako to bolo eh po tom veľkom
+
+346
+00:06:04,840 --> 00:06:06,950
+tá hmota, ako to bolo eh po tom veľkom
+tresku si hovoril, že to bola taká
+
+347
+00:06:06,950 --> 00:06:06,960
+tresku si hovoril, že to bola taká
+
+348
+00:06:06,960 --> 00:06:10,110
+tresku si hovoril, že to bola taká
+polievočka len eh taká neusporiadaná a
+
+349
+00:06:10,110 --> 00:06:10,120
+polievočka len eh taká neusporiadaná a
+
+350
+00:06:10,120 --> 00:06:13,070
+polievočka len eh taká neusporiadaná a
+tak ďalej, že prečo to neostalo ďalej?
+
+351
+00:06:13,070 --> 00:06:13,080
+tak ďalej, že prečo to neostalo ďalej?
+
+352
+00:06:13,080 --> 00:06:15,990
+tak ďalej, že prečo to neostalo ďalej?
+>> No zložitá otázka. Závisí to v prvom
+
+353
+00:06:15,990 --> 00:06:16,000
+>> No zložitá otázka. Závisí to v prvom
+
+354
+00:06:16,000 --> 00:06:17,830
+>> No zložitá otázka. Závisí to v prvom
+rade
+
+355
+00:06:17,830 --> 00:06:17,840
+rade
+
+356
+00:06:17,840 --> 00:06:19,110
+rade
+teraz poviem, že v prvom rade, ale tam
+
+357
+00:06:19,110 --> 00:06:19,120
+teraz poviem, že v prvom rade, ale tam
+
+358
+00:06:19,120 --> 00:06:20,749
+teraz poviem, že v prvom rade, ale tam
+sú dva rády a oba sú v skutočnosti
+
+359
+00:06:20,749 --> 00:06:20,759
+sú dva rády a oba sú v skutočnosti
+
+360
+00:06:20,759 --> 00:06:24,110
+sú dva rády a oba sú v skutočnosti
+dôležité. Niekedy to závisí od energie.
+
+361
+00:06:24,110 --> 00:06:24,120
+dôležité. Niekedy to závisí od energie.
+
+362
+00:06:24,120 --> 00:06:25,469
+dôležité. Niekedy to závisí od energie.
+V podstate veci sa snažia mať čo
+
+363
+00:06:25,469 --> 00:06:25,479
+V podstate veci sa snažia mať čo
+
+364
+00:06:25,479 --> 00:06:27,430
+V podstate veci sa snažia mať čo
+najmenšiu energiu a v prípade gravitácie
+
+365
+00:06:27,430 --> 00:06:27,440
+najmenšiu energiu a v prípade gravitácie
+
+366
+00:06:27,440 --> 00:06:30,670
+najmenšiu energiu a v prípade gravitácie
+gravitácia sa snaží veci stláčať. Keby
+
+367
+00:06:30,670 --> 00:06:30,680
+gravitácia sa snaží veci stláčať. Keby
+
+368
+00:06:30,680 --> 00:06:33,189
+gravitácia sa snaží veci stláčať. Keby
+bolo len na gravitácii, tak všetko
+
+369
+00:06:33,189 --> 00:06:33,199
+bolo len na gravitácii, tak všetko
+
+370
+00:06:33,199 --> 00:06:35,110
+bolo len na gravitácii, tak všetko
+postupne vytvorí čierne diery. Ak by tam
+
+371
+00:06:35,110 --> 00:06:35,120
+postupne vytvorí čierne diery. Ak by tam
+
+372
+00:06:35,120 --> 00:06:37,390
+postupne vytvorí čierne diery. Ak by tam
+neboli nejaké iné sily, ktoré tomu
+
+373
+00:06:37,390 --> 00:06:37,400
+neboli nejaké iné sily, ktoré tomu
+
+374
+00:06:37,400 --> 00:06:38,189
+neboli nejaké iné sily, ktoré tomu
+dokážu
+
+375
+00:06:38,189 --> 00:06:38,199
+dokážu
+
+376
+00:06:38,199 --> 00:06:40,350
+dokážu
+>> keby bolo len na gravitácii.
+
+377
+00:06:40,350 --> 00:06:40,360
+>> keby bolo len na gravitácii.
+
+378
+00:06:40,360 --> 00:06:42,029
+>> keby bolo len na gravitácii.
+>> Áno. Áno. Že keby sme sa iných síl
+
+379
+00:06:42,029 --> 00:06:42,039
+>> Áno. Áno. Že keby sme sa iných síl
+
+380
+00:06:42,039 --> 00:06:44,110
+>> Áno. Áno. Že keby sme sa iných síl
+nepýtali a gravitácia by mala jediná
+
+381
+00:06:44,110 --> 00:06:44,120
+nepýtali a gravitácia by mala jediná
+
+382
+00:06:44,120 --> 00:06:46,469
+nepýtali a gravitácia by mala jediná
+slovo, tak veci by postupne popadali a
+
+383
+00:06:46,469 --> 00:06:46,479
+slovo, tak veci by postupne popadali a
+
+384
+00:06:46,479 --> 00:06:47,469
+slovo, tak veci by postupne popadali a
+vytvorili čierne diery.
+
+385
+00:06:47,469 --> 00:06:47,479
+vytvorili čierne diery.
+
+386
+00:06:47,479 --> 00:06:50,749
+vytvorili čierne diery.
+>> Takže Takže by sme nemali oblohu takú,
+
+387
+00:06:50,749 --> 00:06:50,759
+>> Takže Takže by sme nemali oblohu takú,
+
+388
+00:06:50,759 --> 00:06:52,990
+>> Takže Takže by sme nemali oblohu takú,
+akú máme, ale možno aj inú. Ani my by
+
+389
+00:06:52,990 --> 00:06:53,000
+akú máme, ale možno aj inú. Ani my by
+
+390
+00:06:53,000 --> 00:06:53,749
+akú máme, ale možno aj inú. Ani my by
+sme tu neboli.
+
+391
+00:06:53,749 --> 00:06:53,759
+sme tu neboli.
+
+392
+00:06:53,759 --> 00:06:55,309
+sme tu neboli.
+>> Ani my by sme Áno. Tak
+
+393
+00:06:55,309 --> 00:06:55,319
+>> Ani my by sme Áno. Tak
+
+394
+00:06:55,319 --> 00:06:56,830
+>> Ani my by sme Áno. Tak
+>> samozrejme, že sú tam iné sily, ktoré
+
+395
+00:06:56,830 --> 00:06:56,840
+>> samozrejme, že sú tam iné sily, ktoré
+
+396
+00:06:56,840 --> 00:06:58,150
+>> samozrejme, že sú tam iné sily, ktoré
+potom povedia, že no počkajte, ale my
+
+397
+00:06:58,150 --> 00:06:58,160
+potom povedia, že no počkajte, ale my
+
+398
+00:06:58,160 --> 00:06:59,950
+potom povedia, že no počkajte, ale my
+chceme minimalizovať inú energiu,
+
+399
+00:06:59,950 --> 00:06:59,960
+chceme minimalizovať inú energiu,
+
+400
+00:06:59,960 --> 00:07:01,710
+chceme minimalizovať inú energiu,
+napríklad elektromagnetickú alebo nejakú
+
+401
+00:07:01,710 --> 00:07:01,720
+napríklad elektromagnetickú alebo nejakú
+
+402
+00:07:01,720 --> 00:07:03,550
+napríklad elektromagnetickú alebo nejakú
+odpudivú a tak ďalej alebo sa dostane do
+
+403
+00:07:03,550 --> 00:07:03,560
+odpudivú a tak ďalej alebo sa dostane do
+
+404
+00:07:03,560 --> 00:07:05,550
+odpudivú a tak ďalej alebo sa dostane do
+hry kvantovka a celý príbeh je
+
+405
+00:07:05,550 --> 00:07:05,560
+hry kvantovka a celý príbeh je
+
+406
+00:07:05,560 --> 00:07:07,790
+hry kvantovka a celý príbeh je
+zložitejší. Ale teda, že gravitácia veci
+
+407
+00:07:07,790 --> 00:07:07,800
+zložitejší. Ale teda, že gravitácia veci
+
+408
+00:07:07,800 --> 00:07:09,710
+zložitejší. Ale teda, že gravitácia veci
+usporiadava a potom iné sily bránia
+
+409
+00:07:09,710 --> 00:07:09,720
+usporiadava a potom iné sily bránia
+
+410
+00:07:09,720 --> 00:07:11,110
+usporiadava a potom iné sily bránia
+tomuto usporiadaniu a to vytvára
+
+411
+00:07:11,110 --> 00:07:11,120
+tomuto usporiadaniu a to vytvára
+
+412
+00:07:11,120 --> 00:07:13,830
+tomuto usporiadaniu a to vytvára
+hviezdy, galaxie,
+
+413
+00:07:13,830 --> 00:07:13,840
+hviezdy, galaxie,
+
+414
+00:07:13,840 --> 00:07:15,950
+hviezdy, galaxie,
+planéty a tak ďalej. Potom je ale druhá
+
+415
+00:07:15,950 --> 00:07:15,960
+planéty a tak ďalej. Potom je ale druhá
+
+416
+00:07:15,960 --> 00:07:17,710
+planéty a tak ďalej. Potom je ale druhá
+tendencia, ako si správne povedal, že
+
+417
+00:07:17,710 --> 00:07:17,720
+tendencia, ako si správne povedal, že
+
+418
+00:07:17,720 --> 00:07:19,350
+tendencia, ako si správne povedal, že
+kedysi to tak nebolo, že kedysi boli
+
+419
+00:07:19,350 --> 00:07:19,360
+kedysi to tak nebolo, že kedysi boli
+
+420
+00:07:19,360 --> 00:07:22,869
+kedysi to tak nebolo, že kedysi boli
+veci halabala porozhadzované.
+
+421
+00:07:22,869 --> 00:07:22,879
+veci halabala porozhadzované.
+
+422
+00:07:22,879 --> 00:07:24,469
+veci halabala porozhadzované.
+A druhá tendencia vecí je byť vo veľmi
+
+423
+00:07:24,469 --> 00:07:24,479
+A druhá tendencia vecí je byť vo veľmi
+
+424
+00:07:24,479 --> 00:07:26,990
+A druhá tendencia vecí je byť vo veľmi
+chaotickom stave, neusporiadanom. Inými
+
+425
+00:07:26,990 --> 00:07:27,000
+chaotickom stave, neusporiadanom. Inými
+
+426
+00:07:27,000 --> 00:07:29,029
+chaotickom stave, neusporiadanom. Inými
+slovami, stave, kde potrebuješ veľa
+
+427
+00:07:29,029 --> 00:07:29,039
+slovami, stave, kde potrebuješ veľa
+
+428
+00:07:29,039 --> 00:07:31,230
+slovami, stave, kde potrebuješ veľa
+informácií na ich presný opis. Keď máš
+
+429
+00:07:31,230 --> 00:07:31,240
+informácií na ich presný opis. Keď máš
+
+430
+00:07:31,240 --> 00:07:32,950
+informácií na ich presný opis. Keď máš
+niečo pekne usporiadané, dajme tomu
+
+431
+00:07:32,950 --> 00:07:32,960
+niečo pekne usporiadané, dajme tomu
+
+432
+00:07:32,960 --> 00:07:34,710
+niečo pekne usporiadané, dajme tomu
+kryštalickú mriežku, tak strašne málo ti
+
+433
+00:07:34,710 --> 00:07:34,720
+kryštalickú mriežku, tak strašne málo ti
+
+434
+00:07:34,720 --> 00:07:36,869
+kryštalickú mriežku, tak strašne málo ti
+stačí na jej odpis. Povieš, kde začína,
+
+435
+00:07:36,869 --> 00:07:36,879
+stačí na jej odpis. Povieš, kde začína,
+
+436
+00:07:36,879 --> 00:07:39,150
+stačí na jej odpis. Povieš, kde začína,
+ktorým smerom sa opakuje a už sa to len
+
+437
+00:07:39,150 --> 00:07:39,160
+ktorým smerom sa opakuje a už sa to len
+
+438
+00:07:39,160 --> 00:07:40,110
+ktorým smerom sa opakuje a už sa to len
+kopíruje.
+
+439
+00:07:40,110 --> 00:07:40,120
+kopíruje.
+
+440
+00:07:40,120 --> 00:07:40,869
+kopíruje.
+>> Jasné.
+
+441
+00:07:40,869 --> 00:07:40,879
+>> Jasné.
+
+442
+00:07:40,879 --> 00:07:43,390
+>> Jasné.
+>> Keď máš dajme tomu, že to bola kryštal,
+
+443
+00:07:43,390 --> 00:07:43,400
+>> Keď máš dajme tomu, že to bola kryštal,
+
+444
+00:07:43,400 --> 00:07:45,149
+>> Keď máš dajme tomu, že to bola kryštal,
+>> to je jednoduchšie pre to kopírovanie.
+
+445
+00:07:45,149 --> 00:07:45,159
+>> to je jednoduchšie pre to kopírovanie.
+
+446
+00:07:45,159 --> 00:07:45,510
+>> to je jednoduchšie pre to kopírovanie.
+Uhm.
+
+447
+00:07:45,510 --> 00:07:45,520
+Uhm.
+
+448
+00:07:45,520 --> 00:07:47,430
+Uhm.
+>> Áno. Áno. Áno. Presne. Že to kopírovanie
+
+449
+00:07:47,430 --> 00:07:47,440
+>> Áno. Áno. Áno. Presne. Že to kopírovanie
+
+450
+00:07:47,440 --> 00:07:49,790
+>> Áno. Áno. Áno. Presne. Že to kopírovanie
+ti šetrí informáciu pri opise.
+
+451
+00:07:49,790 --> 00:07:49,800
+ti šetrí informáciu pri opise.
+
+452
+00:07:49,800 --> 00:07:53,350
+ti šetrí informáciu pri opise.
+>> Keď máš naopak niečo, čo je
+
+453
+00:07:53,350 --> 00:07:53,360
+>> Keď máš naopak niečo, čo je
+
+454
+00:07:53,360 --> 00:07:55,070
+>> Keď máš naopak niečo, čo je
+neusporiadané,
+
+455
+00:07:55,070 --> 00:07:55,080
+neusporiadané,
+
+456
+00:07:55,080 --> 00:07:56,749
+neusporiadané,
+tak strašne veľa informácie musíš zadať
+
+457
+00:07:56,749 --> 00:07:56,759
+tak strašne veľa informácie musíš zadať
+
+458
+00:07:56,759 --> 00:07:59,070
+tak strašne veľa informácie musíš zadať
+na opis. Keď máš ľad zamrznutý, tak ho
+
+459
+00:07:59,070 --> 00:07:59,080
+na opis. Keď máš ľad zamrznutý, tak ho
+
+460
+00:07:59,080 --> 00:08:00,589
+na opis. Keď máš ľad zamrznutý, tak ho
+opíšeš pomerne jednoducho. Tu začína
+
+461
+00:08:00,589 --> 00:08:00,599
+opíšeš pomerne jednoducho. Tu začína
+
+462
+00:08:00,599 --> 00:08:02,110
+opíšeš pomerne jednoducho. Tu začína
+kryštalická mrieška. Poď, pokračuje
+
+463
+00:08:02,110 --> 00:08:02,120
+kryštalická mrieška. Poď, pokračuje
+
+464
+00:08:02,120 --> 00:08:03,270
+kryštalická mrieška. Poď, pokračuje
+takto a tam končí.
+
+465
+00:08:03,270 --> 00:08:03,280
+takto a tam končí.
+
+466
+00:08:03,280 --> 00:08:05,309
+takto a tam končí.
+>> Ty ho opíšeš ako vodu?
+
+467
+00:08:05,309 --> 00:08:05,319
+>> Ty ho opíšeš ako vodu?
+
+468
+00:08:05,319 --> 00:08:07,390
+>> Ty ho opíšeš ako vodu?
+>> Ja ho opíšem ako vodu a keď sa vyparí,
+
+469
+00:08:07,390 --> 00:08:07,400
+>> Ja ho opíšem ako vodu a keď sa vyparí,
+
+470
+00:08:07,400 --> 00:08:09,469
+>> Ja ho opíšem ako vodu a keď sa vyparí,
+tak urobí vodnú paru. A na opis vodnej
+
+471
+00:08:09,469 --> 00:08:09,479
+tak urobí vodnú paru. A na opis vodnej
+
+472
+00:08:09,479 --> 00:08:11,110
+tak urobí vodnú paru. A na opis vodnej
+pary potrebuješ strašne veľa informácie.
+
+473
+00:08:11,110 --> 00:08:11,120
+pary potrebuješ strašne veľa informácie.
+
+474
+00:08:11,120 --> 00:08:12,510
+pary potrebuješ strašne veľa informácie.
+Potrebuješ povedať, že prvá vec je tu,
+
+475
+00:08:12,510 --> 00:08:12,520
+Potrebuješ povedať, že prvá vec je tu,
+
+476
+00:08:12,520 --> 00:08:14,629
+Potrebuješ povedať, že prvá vec je tu,
+druhá tu, tretia tu.
+
+477
+00:08:14,629 --> 00:08:14,639
+druhá tu, tretia tu.
+
+478
+00:08:14,639 --> 00:08:16,589
+druhá tu, tretia tu.
+No a teraz
+
+479
+00:08:16,589 --> 00:08:16,599
+No a teraz
+
+480
+00:08:16,599 --> 00:08:18,869
+No a teraz
+usporiadaniu hmoty sa nedá rozumieť teda
+
+481
+00:08:18,869 --> 00:08:18,879
+usporiadaniu hmoty sa nedá rozumieť teda
+
+482
+00:08:18,879 --> 00:08:20,830
+usporiadaniu hmoty sa nedá rozumieť teda
+bez týchto dvoch pojmov. Neusporiadanosť
+
+483
+00:08:20,830 --> 00:08:20,840
+bez týchto dvoch pojmov. Neusporiadanosť
+
+484
+00:08:20,840 --> 00:08:22,350
+bez týchto dvoch pojmov. Neusporiadanosť
+alebo entrópia
+
+485
+00:08:22,350 --> 00:08:22,360
+alebo entrópia
+
+486
+00:08:22,360 --> 00:08:24,070
+alebo entrópia
+>> a energia. A teraz otázka je, že čo je
+
+487
+00:08:24,070 --> 00:08:24,080
+>> a energia. A teraz otázka je, že čo je
+
+488
+00:08:24,080 --> 00:08:26,469
+>> a energia. A teraz otázka je, že čo je
+dominantnejšie? Tá tvoja otázka, že čo
+
+489
+00:08:26,469 --> 00:08:26,479
+dominantnejšie? Tá tvoja otázka, že čo
+
+490
+00:08:26,479 --> 00:08:28,070
+dominantnejšie? Tá tvoja otázka, že čo
+určuje to usporiadanie? A odpoveďuje je,
+
+491
+00:08:28,070 --> 00:08:28,080
+určuje to usporiadanie? A odpoveďuje je,
+
+492
+00:08:28,080 --> 00:08:29,710
+určuje to usporiadanie? A odpoveďuje je,
+že teplota.
+
+493
+00:08:29,710 --> 00:08:29,720
+že teplota.
+
+494
+00:08:29,720 --> 00:08:32,509
+že teplota.
+Keď je teplota nízka, tak minimalizuješ
+
+495
+00:08:32,509 --> 00:08:32,519
+Keď je teplota nízka, tak minimalizuješ
+
+496
+00:08:32,519 --> 00:08:35,070
+Keď je teplota nízka, tak minimalizuješ
+energiu. Všetko sa pekne usporiada do
+
+497
+00:08:35,070 --> 00:08:35,080
+energiu. Všetko sa pekne usporiada do
+
+498
+00:08:35,080 --> 00:08:37,509
+energiu. Všetko sa pekne usporiada do
+kryštalických štruktúr. Napríklad keď
+
+499
+00:08:37,509 --> 00:08:37,519
+kryštalických štruktúr. Napríklad keď
+
+500
+00:08:37,519 --> 00:08:39,790
+kryštalických štruktúr. Napríklad keď
+máš vysokú teplotu, tak je to totálny
+
+501
+00:08:39,790 --> 00:08:39,800
+máš vysokú teplotu, tak je to totálny
+
+502
+00:08:39,800 --> 00:08:41,949
+máš vysokú teplotu, tak je to totálny
+halabala neporiadok.
+
+503
+00:08:41,949 --> 00:08:41,959
+halabala neporiadok.
+
+504
+00:08:41,959 --> 00:08:43,310
+halabala neporiadok.
+Takže teplota je odpoveď na tvoju
+
+505
+00:08:43,310 --> 00:08:43,320
+Takže teplota je odpoveď na tvoju
+
+506
+00:08:43,320 --> 00:08:44,910
+Takže teplota je odpoveď na tvoju
+otázku, že čo určuje ten poriadok a
+
+507
+00:08:44,910 --> 00:08:44,920
+otázku, že čo určuje ten poriadok a
+
+508
+00:08:44,920 --> 00:08:46,430
+otázku, že čo určuje ten poriadok a
+neporiadok. Hocičo keď zohreješ vo
+
+509
+00:08:46,430 --> 00:08:46,440
+neporiadok. Hocičo keď zohreješ vo
+
+510
+00:08:46,440 --> 00:08:48,710
+neporiadok. Hocičo keď zohreješ vo
+vesmíre, tak sa to roztopí a potom sa to
+
+511
+00:08:48,710 --> 00:08:48,720
+vesmíre, tak sa to roztopí a potom sa to
+
+512
+00:08:48,720 --> 00:08:50,750
+vesmíre, tak sa to roztopí a potom sa to
+riadi nejakou inými pravidlami a keď to
+
+513
+00:08:50,750 --> 00:08:50,760
+riadi nejakou inými pravidlami a keď to
+
+514
+00:08:50,760 --> 00:08:52,230
+riadi nejakou inými pravidlami a keď to
+zohreješ ešte viac, tak sa z toho stane
+
+515
+00:08:52,230 --> 00:08:52,240
+zohreješ ešte viac, tak sa z toho stane
+
+516
+00:08:52,240 --> 00:08:54,230
+zohreješ ešte viac, tak sa z toho stane
+plyn a keď ešte viac, tak sa z toho
+
+517
+00:08:54,230 --> 00:08:54,240
+plyn a keď ešte viac, tak sa z toho
+
+518
+00:08:54,240 --> 00:08:58,590
+plyn a keď ešte viac, tak sa z toho
+stane plazma. Takže teplota určuje ako
+
+519
+00:08:58,590 --> 00:08:58,600
+stane plazma. Takže teplota určuje ako
+
+520
+00:08:58,600 --> 00:09:01,069
+stane plazma. Takže teplota určuje ako
+sa balancuje medzi energiou a
+
+521
+00:09:01,069 --> 00:09:01,079
+sa balancuje medzi energiou a
+
+522
+00:09:01,079 --> 00:09:04,790
+sa balancuje medzi energiou a
+usporiadanosťou alebo nízkoinformačnými
+
+523
+00:09:04,790 --> 00:09:04,800
+usporiadanosťou alebo nízkoinformačnými
+
+524
+00:09:04,800 --> 00:09:07,470
+usporiadanosťou alebo nízkoinformačnými
+a vysokoinformačnými stavmi. Už tam
+
+525
+00:09:07,470 --> 00:09:07,480
+a vysokoinformačnými stavmi. Už tam
+
+526
+00:09:07,480 --> 00:09:08,870
+a vysokoinformačnými stavmi. Už tam
+trošku na silu tlačím to slovo
+
+527
+00:09:08,870 --> 00:09:08,880
+trošku na silu tlačím to slovo
+
+528
+00:09:08,880 --> 00:09:10,670
+trošku na silu tlačím to slovo
+informácie, aby to viacej nadväzovalo.
+
+529
+00:09:10,670 --> 00:09:10,680
+informácie, aby to viacej nadväzovalo.
+
+530
+00:09:10,680 --> 00:09:13,350
+informácie, aby to viacej nadväzovalo.
+Hej. To ale to je kvôli tomu, že som
+
+531
+00:09:13,350 --> 00:09:13,360
+Hej. To ale to je kvôli tomu, že som
+
+532
+00:09:13,360 --> 00:09:15,630
+Hej. To ale to je kvôli tomu, že som
+počúval taký podcast Shana Carola o
+
+533
+00:09:15,630 --> 00:09:15,640
+počúval taký podcast Shana Carola o
+
+534
+00:09:15,640 --> 00:09:16,949
+počúval taký podcast Shana Carola o
+kozmológii nedávno, kde on veľmi
+
+535
+00:09:16,949 --> 00:09:16,959
+kozmológii nedávno, kde on veľmi
+
+536
+00:09:16,959 --> 00:09:18,590
+kozmológii nedávno, kde on veľmi
+zaujímavo rozprával o tom, ako vlastne
+
+537
+00:09:18,590 --> 00:09:18,600
+zaujímavo rozprával o tom, ako vlastne
+
+538
+00:09:18,600 --> 00:09:20,430
+zaujímavo rozprával o tom, ako vlastne
+>> super rozprával o tom, ako vznikal
+
+539
+00:09:20,430 --> 00:09:20,440
+>> super rozprával o tom, ako vznikal
+
+540
+00:09:20,440 --> 00:09:21,790
+>> super rozprával o tom, ako vznikal
+vesmír, ale nie z pohľadu toho, čo sa
+
+541
+00:09:21,790 --> 00:09:21,800
+vesmír, ale nie z pohľadu toho, čo sa
+
+542
+00:09:21,800 --> 00:09:23,470
+vesmír, ale nie z pohľadu toho, čo sa
+dialo s motou, ale čo sa stalo dialo s
+
+543
+00:09:23,470 --> 00:09:23,480
+dialo s motou, ale čo sa stalo dialo s
+
+544
+00:09:23,480 --> 00:09:25,350
+dialo s motou, ale čo sa stalo dialo s
+usporiadanosťou a komplexnosťou a
+
+545
+00:09:25,350 --> 00:09:25,360
+usporiadanosťou a komplexnosťou a
+
+546
+00:09:25,360 --> 00:09:27,069
+usporiadanosťou a komplexnosťou a
+zložitosťou, z ktorej postupne vzišiel
+
+547
+00:09:27,069 --> 00:09:27,079
+zložitosťou, z ktorej postupne vzišiel
+
+548
+00:09:27,079 --> 00:09:28,269
+zložitosťou, z ktorej postupne vzišiel
+aj život.
+
+549
+00:09:28,269 --> 00:09:28,279
+aj život.
+
+550
+00:09:28,279 --> 00:09:29,670
+aj život.
+>> To mohlo byť zaujímavé.
+
+551
+00:09:29,670 --> 00:09:29,680
+>> To mohlo byť zaujímavé.
+
+552
+00:09:29,680 --> 00:09:31,910
+>> To mohlo byť zaujímavé.
+>> Je to zaujímavé. Má to asi má to dlho.
+
+553
+00:09:31,910 --> 00:09:31,920
+>> Je to zaujímavé. Má to asi má to dlho.
+
+554
+00:09:31,920 --> 00:09:33,550
+>> Je to zaujímavé. Má to asi má to dlho.
+On má občas, že solo epizódy, ktoré sú
+
+555
+00:09:33,550 --> 00:09:33,560
+On má občas, že solo epizódy, ktoré sú
+
+556
+00:09:33,560 --> 00:09:36,550
+On má občas, že solo epizódy, ktoré sú
+dlhé a toto je jedna z jeho, niektorí
+
+557
+00:09:36,550 --> 00:09:36,560
+dlhé a toto je jedna z jeho, niektorí
+
+558
+00:09:36,560 --> 00:09:37,389
+dlhé a toto je jedna z jeho, niektorí
+majú tri štyri hodiny.
+
+559
+00:09:37,389 --> 00:09:37,399
+majú tri štyri hodiny.
+
+560
+00:09:37,399 --> 00:09:38,790
+majú tri štyri hodiny.
+>> On je celkovo perfektný podľa mňa,
+
+561
+00:09:38,790 --> 00:09:38,800
+>> On je celkovo perfektný podľa mňa,
+
+562
+00:09:38,800 --> 00:09:40,509
+>> On je celkovo perfektný podľa mňa,
+hlavne ako vysvetľujete tie veci a tak.
+
+563
+00:09:40,509 --> 00:09:40,519
+hlavne ako vysvetľujete tie veci a tak.
+
+564
+00:09:40,519 --> 00:09:40,870
+hlavne ako vysvetľujete tie veci a tak.
+Takže
+
+565
+00:09:40,870 --> 00:09:40,880
+Takže
+
+566
+00:09:40,880 --> 00:09:41,269
+Takže
+>> tak
+
+567
+00:09:41,269 --> 00:09:41,279
+>> tak
+
+568
+00:09:41,279 --> 00:09:42,670
+>> tak
+>> a on tam mal zaujímavý bod a to je
+
+569
+00:09:42,670 --> 00:09:42,680
+>> a on tam mal zaujímavý bod a to je
+
+570
+00:09:42,680 --> 00:09:44,750
+>> a on tam mal zaujímavý bod a to je
+vlastne druhá časť, druhá, druhý kúsok
+
+571
+00:09:44,750 --> 00:09:44,760
+vlastne druhá časť, druhá, druhý kúsok
+
+572
+00:09:44,760 --> 00:09:46,870
+vlastne druhá časť, druhá, druhý kúsok
+informácie tohto podcastu, kde on
+
+573
+00:09:46,870 --> 00:09:46,880
+informácie tohto podcastu, kde on
+
+574
+00:09:46,880 --> 00:09:48,509
+informácie tohto podcastu, kde on
+spomínal knihu, v ktorej sa píše o tom,
+
+575
+00:09:48,509 --> 00:09:48,519
+spomínal knihu, v ktorej sa píše o tom,
+
+576
+00:09:48,519 --> 00:09:52,949
+spomínal knihu, v ktorej sa píše o tom,
+že mnohé významné mylníky v evolúcii
+
+577
+00:09:52,949 --> 00:09:52,959
+že mnohé významné mylníky v evolúcii
+
+578
+00:09:52,959 --> 00:09:56,590
+že mnohé významné mylníky v evolúcii
+života na našej planéte súviseli s
+
+579
+00:09:56,590 --> 00:09:56,600
+života na našej planéte súviseli s
+
+580
+00:09:56,600 --> 00:09:59,310
+života na našej planéte súviseli s
+prácou s informáciami. Napríklad, že sa
+
+581
+00:09:59,310 --> 00:09:59,320
+prácou s informáciami. Napríklad, že sa
+
+582
+00:09:59,320 --> 00:10:02,550
+prácou s informáciami. Napríklad, že sa
+vyvinulo náhodou pohlavné rozmnožovanie,
+
+583
+00:10:02,550 --> 00:10:02,560
+vyvinulo náhodou pohlavné rozmnožovanie,
+
+584
+00:10:02,560 --> 00:10:03,790
+vyvinulo náhodou pohlavné rozmnožovanie,
+tak to je nejaký nástroj, ktorý ti
+
+585
+00:10:03,790 --> 00:10:03,800
+tak to je nejaký nástroj, ktorý ti
+
+586
+00:10:03,800 --> 00:10:06,310
+tak to je nejaký nástroj, ktorý ti
+lepšie umožňuje premiešavať informácie a
+
+587
+00:10:06,310 --> 00:10:06,320
+lepšie umožňuje premiešavať informácie a
+
+588
+00:10:06,320 --> 00:10:09,110
+lepšie umožňuje premiešavať informácie a
+robí organizmy odolnejšie voči
+
+589
+00:10:09,110 --> 00:10:09,120
+robí organizmy odolnejšie voči
+
+590
+00:10:09,120 --> 00:10:11,509
+robí organizmy odolnejšie voči
+parazitom, infekciám a podobne
+
+591
+00:10:11,509 --> 00:10:11,519
+parazitom, infekciám a podobne
+
+592
+00:10:11,519 --> 00:10:14,870
+parazitom, infekciám a podobne
+napríklad. Ale že teda nezískali sme tam
+
+593
+00:10:14,870 --> 00:10:14,880
+napríklad. Ale že teda nezískali sme tam
+
+594
+00:10:14,880 --> 00:10:16,389
+napríklad. Ale že teda nezískali sme tam
+žiadnu schopnosť, že neboli sme zrazu,
+
+595
+00:10:16,389 --> 00:10:16,399
+žiadnu schopnosť, že neboli sme zrazu,
+
+596
+00:10:16,399 --> 00:10:19,910
+žiadnu schopnosť, že neboli sme zrazu,
+že silnejší, neboli sme eh dravejší a
+
+597
+00:10:19,910 --> 00:10:19,920
+že silnejší, neboli sme eh dravejší a
+
+598
+00:10:19,920 --> 00:10:21,829
+že silnejší, neboli sme eh dravejší a
+tak ďalej. Jednoducho sme sa stali
+
+599
+00:10:21,829 --> 00:10:21,839
+tak ďalej. Jednoducho sme sa stali
+
+600
+00:10:21,839 --> 00:10:23,670
+tak ďalej. Jednoducho sme sa stali
+lepšími v práci s informáciou. A teda v
+
+601
+00:10:23,670 --> 00:10:23,680
+lepšími v práci s informáciou. A teda v
+
+602
+00:10:23,680 --> 00:10:25,470
+lepšími v práci s informáciou. A teda v
+tej knihe sa argumentuje, že tie
+
+603
+00:10:25,470 --> 00:10:25,480
+tej knihe sa argumentuje, že tie
+
+604
+00:10:25,480 --> 00:10:27,710
+tej knihe sa argumentuje, že tie
+najvýznamnejšie milniky celej evolúcie
+
+605
+00:10:27,710 --> 00:10:27,720
+najvýznamnejšie milniky celej evolúcie
+
+606
+00:10:27,720 --> 00:10:30,389
+najvýznamnejšie milniky celej evolúcie
+súvisia s prácou s informáciami, čo je v
+
+607
+00:10:30,389 --> 00:10:30,399
+súvisia s prácou s informáciami, čo je v
+
+608
+00:10:30,399 --> 00:10:31,870
+súvisia s prácou s informáciami, čo je v
+niečom zvláštne, lebo typicky, keď sa
+
+609
+00:10:31,870 --> 00:10:31,880
+niečom zvláštne, lebo typicky, keď sa
+
+610
+00:10:31,880 --> 00:10:33,509
+niečom zvláštne, lebo typicky, keď sa
+rozpráva o evolúcii, tak sa rozpráva v
+
+611
+00:10:33,509 --> 00:10:33,519
+rozpráva o evolúcii, tak sa rozpráva v
+
+612
+00:10:33,519 --> 00:10:36,750
+rozpráva o evolúcii, tak sa rozpráva v
+zmysle nejakej sily, vie, že silnejší
+
+613
+00:10:36,750 --> 00:10:36,760
+zmysle nejakej sily, vie, že silnejší
+
+614
+00:10:36,760 --> 00:10:37,030
+zmysle nejakej sily, vie, že silnejší
+prežil.
+
+615
+00:10:37,030 --> 00:10:37,040
+prežil.
+
+616
+00:10:37,040 --> 00:10:38,949
+prežil.
+>> Áno, že je silnejší prežije a vôbec to
+
+617
+00:10:38,949 --> 00:10:38,959
+>> Áno, že je silnejší prežije a vôbec to
+
+618
+00:10:38,959 --> 00:10:39,990
+>> Áno, že je silnejší prežije a vôbec to
+nie je tak
+
+619
+00:10:39,990 --> 00:10:40,000
+nie je tak
+
+620
+00:10:40,000 --> 00:10:42,030
+nie je tak
+>> tak že ono áno, tá energia je tam
+
+621
+00:10:42,030 --> 00:10:42,040
+>> tak že ono áno, tá energia je tam
+
+622
+00:10:42,040 --> 00:10:44,509
+>> tak že ono áno, tá energia je tam
+dôležitá. Aj to, ako sme sa v evolúcii
+
+623
+00:10:44,509 --> 00:10:44,519
+dôležitá. Aj to, ako sme sa v evolúcii
+
+624
+00:10:44,519 --> 00:10:47,629
+dôležitá. Aj to, ako sme sa v evolúcii
+učili pracovať s energiou, je dôležité.
+
+625
+00:10:47,629 --> 00:10:47,639
+učili pracovať s energiou, je dôležité.
+
+626
+00:10:47,639 --> 00:10:50,030
+učili pracovať s energiou, je dôležité.
+Eh, presne, že získal si získal si
+
+627
+00:10:50,030 --> 00:10:50,040
+Eh, presne, že získal si získal si
+
+628
+00:10:50,040 --> 00:10:52,110
+Eh, presne, že získal si získal si
+schopnosť zjesť iné zviera, tak si mal
+
+629
+00:10:52,110 --> 00:10:52,120
+schopnosť zjesť iné zviera, tak si mal
+
+630
+00:10:52,120 --> 00:10:54,430
+schopnosť zjesť iné zviera, tak si mal
+zrazu prístup k obrovskému množstvu
+
+631
+00:10:54,430 --> 00:10:54,440
+zrazu prístup k obrovskému množstvu
+
+632
+00:10:54,440 --> 00:10:55,310
+zrazu prístup k obrovskému množstvu
+energie.
+
+633
+00:10:55,310 --> 00:10:55,320
+energie.
+
+634
+00:10:55,320 --> 00:10:56,910
+energie.
+>> Čiže tá energia je tam dôležitá, ale tá
+
+635
+00:10:56,910 --> 00:10:56,920
+>> Čiže tá energia je tam dôležitá, ale tá
+
+636
+00:10:56,920 --> 00:10:58,350
+>> Čiže tá energia je tam dôležitá, ale tá
+informácia je minimálne rovnako
+
+637
+00:10:58,350 --> 00:10:58,360
+informácia je minimálne rovnako
+
+638
+00:10:58,360 --> 00:11:00,190
+informácia je minimálne rovnako
+dôležitá. A mnohé veci sú o tom, že
+
+639
+00:11:00,190 --> 00:11:00,200
+dôležitá. A mnohé veci sú o tom, že
+
+640
+00:11:00,200 --> 00:11:01,670
+dôležitá. A mnohé veci sú o tom, že
+napríklad chceš získavať informácie, keď
+
+641
+00:11:01,670 --> 00:11:01,680
+napríklad chceš získavať informácie, keď
+
+642
+00:11:01,680 --> 00:11:03,870
+napríklad chceš získavať informácie, keď
+máš dobré oči alebo chceš zabrániť
+
+643
+00:11:03,870 --> 00:11:03,880
+máš dobré oči alebo chceš zabrániť
+
+644
+00:11:03,880 --> 00:11:05,790
+máš dobré oči alebo chceš zabrániť
+ostatným, aby získavali informácie.
+
+645
+00:11:05,790 --> 00:11:05,800
+ostatným, aby získavali informácie.
+
+646
+00:11:05,800 --> 00:11:07,870
+ostatným, aby získavali informácie.
+Napríklad máš dobré mimikry, vieš, máš
+
+647
+00:11:07,870 --> 00:11:07,880
+Napríklad máš dobré mimikry, vieš, máš
+
+648
+00:11:07,880 --> 00:11:10,509
+Napríklad máš dobré mimikry, vieš, máš
+nejaké dobré sfarbenie, kedy si pre
+
+649
+00:11:10,509 --> 00:11:10,519
+nejaké dobré sfarbenie, kedy si pre
+
+650
+00:11:10,519 --> 00:11:13,629
+nejaké dobré sfarbenie, kedy si pre
+ostatných takmer neviditeľný a podobne.
+
+651
+00:11:13,629 --> 00:11:13,639
+ostatných takmer neviditeľný a podobne.
+
+652
+00:11:13,639 --> 00:11:14,030
+ostatných takmer neviditeľný a podobne.
+>> Uhm.
+
+653
+00:11:14,030 --> 00:11:14,040
+>> Uhm.
+
+654
+00:11:14,040 --> 00:11:17,190
+>> Uhm.
+>> Takže toto toto toto ma celkom zaujalo.
+
+655
+00:11:17,190 --> 00:11:17,200
+>> Takže toto toto toto ma celkom zaujalo.
+
+656
+00:11:17,200 --> 00:11:19,269
+>> Takže toto toto toto ma celkom zaujalo.
+Pozeral som sa na evolúciu trochu inými
+
+657
+00:11:19,269 --> 00:11:19,279
+Pozeral som sa na evolúciu trochu inými
+
+658
+00:11:19,279 --> 00:11:21,310
+Pozeral som sa na evolúciu trochu inými
+očami ako do vypočutia tejto myšlienky,
+
+659
+00:11:21,310 --> 00:11:21,320
+očami ako do vypočutia tejto myšlienky,
+
+660
+00:11:21,320 --> 00:11:23,509
+očami ako do vypočutia tejto myšlienky,
+že naozaj, že tie veľké kroky súviseli
+
+661
+00:11:23,509 --> 00:11:23,519
+že naozaj, že tie veľké kroky súviseli
+
+662
+00:11:23,519 --> 00:11:26,030
+že naozaj, že tie veľké kroky súviseli
+hlavne s prácou s informáciami.
+
+663
+00:11:26,030 --> 00:11:26,040
+hlavne s prácou s informáciami.
+
+664
+00:11:26,040 --> 00:11:28,269
+hlavne s prácou s informáciami.
+A je taký na audible, neviem, či
+
+665
+00:11:28,269 --> 00:11:28,279
+A je taký na audible, neviem, či
+
+666
+00:11:28,279 --> 00:11:29,829
+A je taký na audible, neviem, či
+používaš audible.
+
+667
+00:11:29,829 --> 00:11:29,839
+používaš audible.
+
+668
+00:11:29,839 --> 00:11:32,509
+používaš audible.
+>> Áno, troška. Sú tam také, že veľké kurzy
+
+669
+00:11:32,509 --> 00:11:32,519
+>> Áno, troška. Sú tam také, že veľké kurzy
+
+670
+00:11:32,519 --> 00:11:35,190
+>> Áno, troška. Sú tam také, že veľké kurzy
+niečoho a je tam jeden, že veľký kurz eh
+
+671
+00:11:35,190 --> 00:11:35,200
+niečoho a je tam jeden, že veľký kurz eh
+
+672
+00:11:35,200 --> 00:11:38,030
+niečoho a je tam jeden, že veľký kurz eh
+biológie alebo fyziológie ľudského tela
+
+673
+00:11:38,030 --> 00:11:38,040
+biológie alebo fyziológie ľudského tela
+
+674
+00:11:38,040 --> 00:11:40,870
+biológie alebo fyziológie ľudského tela
+je niečo také. A tam sa rozpráva o tom,
+
+675
+00:11:40,870 --> 00:11:40,880
+je niečo také. A tam sa rozpráva o tom,
+
+676
+00:11:40,880 --> 00:11:45,030
+je niečo také. A tam sa rozpráva o tom,
+že ako funguje ľudské telo. Po prvé
+
+677
+00:11:45,030 --> 00:11:45,040
+že ako funguje ľudské telo. Po prvé
+
+678
+00:11:45,040 --> 00:11:46,829
+že ako funguje ľudské telo. Po prvé
+pri spracovaní energie, po druhé pri
+
+679
+00:11:46,829 --> 00:11:46,839
+pri spracovaní energie, po druhé pri
+
+680
+00:11:46,839 --> 00:11:48,710
+pri spracovaní energie, po druhé pri
+spracovaní informácie a tretie si už
+
+681
+00:11:48,710 --> 00:11:48,720
+spracovaní informácie a tretie si už
+
+682
+00:11:48,720 --> 00:11:49,910
+spracovaní informácie a tretie si už
+nepamätám. Tretie tuším bolo, že
+
+683
+00:11:49,910 --> 00:11:49,920
+nepamätám. Tretie tuším bolo, že
+
+684
+00:11:49,920 --> 00:11:51,829
+nepamätám. Tretie tuším bolo, že
+udržiavanie rovnováhy.
+
+685
+00:11:51,829 --> 00:11:51,839
+udržiavanie rovnováhy.
+
+686
+00:11:51,839 --> 00:11:52,150
+udržiavanie rovnováhy.
+>> Uhm.
+
+687
+00:11:52,150 --> 00:11:52,160
+>> Uhm.
+
+688
+00:11:52,160 --> 00:11:53,509
+>> Uhm.
+>> A to je presne o tom, že čo sa stane s
+
+689
+00:11:53,509 --> 00:11:53,519
+>> A to je presne o tom, že čo sa stane s
+
+690
+00:11:53,519 --> 00:11:55,310
+>> A to je presne o tom, že čo sa stane s
+jedlom, keď ho zješ, až kým sa ti pohne
+
+691
+00:11:55,310 --> 00:11:55,320
+jedlom, keď ho zješ, až kým sa ti pohne
+
+692
+00:11:55,320 --> 00:11:57,990
+jedlom, keď ho zješ, až kým sa ti pohne
+nejaký sval. To je tá práca s energiou.
+
+693
+00:11:57,990 --> 00:11:58,000
+nejaký sval. To je tá práca s energiou.
+
+694
+00:11:58,000 --> 00:12:00,670
+nejaký sval. To je tá práca s energiou.
+A potom čo sa stane, akými informačnými
+
+695
+00:12:00,670 --> 00:12:00,680
+A potom čo sa stane, akými informačnými
+
+696
+00:12:00,680 --> 00:12:03,509
+A potom čo sa stane, akými informačnými
+kanálmi sa riadi vlastne naše telo. To
+
+697
+00:12:03,509 --> 00:12:03,519
+kanálmi sa riadi vlastne naše telo. To
+
+698
+00:12:03,519 --> 00:12:05,550
+kanálmi sa riadi vlastne naše telo. To
+znamená, že ako fungujú nervové impulzy,
+
+699
+00:12:05,550 --> 00:12:05,560
+znamená, že ako fungujú nervové impulzy,
+
+700
+00:12:05,560 --> 00:12:08,910
+znamená, že ako fungujú nervové impulzy,
+ako fungujú hormóny a tak ďalej. Takže v
+
+701
+00:12:08,910 --> 00:12:08,920
+ako fungujú hormóny a tak ďalej. Takže v
+
+702
+00:12:08,920 --> 00:12:11,230
+ako fungujú hormóny a tak ďalej. Takže v
+tej kni to bolo veľmi prirodzene a
+
+703
+00:12:11,230 --> 00:12:11,240
+tej kni to bolo veľmi prirodzene a
+
+704
+00:12:11,240 --> 00:12:12,710
+tej kni to bolo veľmi prirodzene a
+strašne sa mi páčila biológia
+
+705
+00:12:12,710 --> 00:12:12,720
+strašne sa mi páčila biológia
+
+706
+00:12:12,720 --> 00:12:14,310
+strašne sa mi páčila biológia
+vyrozprávaná z tohto kontextu, že
+
+707
+00:12:14,310 --> 00:12:14,320
+vyrozprávaná z tohto kontextu, že
+
+708
+00:12:14,320 --> 00:12:15,949
+vyrozprávaná z tohto kontextu, že
+biológia z kontextu energie a
+
+709
+00:12:15,949 --> 00:12:15,959
+biológia z kontextu energie a
+
+710
+00:12:15,959 --> 00:12:17,710
+biológia z kontextu energie a
+informácie. Vieš, žiadne také, že a
+
+711
+00:12:17,710 --> 00:12:17,720
+informácie. Vieš, žiadne také, že a
+
+712
+00:12:17,720 --> 00:12:19,910
+informácie. Vieš, žiadne také, že a
+ideme teraz, že pečeň, pľúca a neviem
+
+713
+00:12:19,910 --> 00:12:19,920
+ideme teraz, že pečeň, pľúca a neviem
+
+714
+00:12:19,920 --> 00:12:20,350
+ideme teraz, že pečeň, pľúca a neviem
+čo.
+
+715
+00:12:20,350 --> 00:12:20,360
+čo.
+
+716
+00:12:20,360 --> 00:12:20,910
+čo.
+>> Uhm.
+
+717
+00:12:20,910 --> 00:12:20,920
+>> Uhm.
+
+718
+00:12:20,920 --> 00:12:22,269
+>> Uhm.
+>> Ale že je to povysvetľované,
+
+719
+00:12:22,269 --> 00:12:22,279
+>> Ale že je to povysvetľované,
+
+720
+00:12:22,279 --> 00:12:23,949
+>> Ale že je to povysvetľované,
+zorganizovaný ten istý materiál, ale
+
+721
+00:12:23,949 --> 00:12:23,959
+zorganizovaný ten istý materiál, ale
+
+722
+00:12:23,959 --> 00:12:25,990
+zorganizovaný ten istý materiál, ale
+takto podľa toho, či sa pracuje s
+
+723
+00:12:25,990 --> 00:12:26,000
+takto podľa toho, či sa pracuje s
+
+724
+00:12:26,000 --> 00:12:28,430
+takto podľa toho, či sa pracuje s
+informáciou alebo s energiou. A prišlo
+
+725
+00:12:28,430 --> 00:12:28,440
+informáciou alebo s energiou. A prišlo
+
+726
+00:12:28,440 --> 00:12:29,710
+informáciou alebo s energiou. A prišlo
+mi to celkom zaujímavé.
+
+727
+00:12:29,710 --> 00:12:29,720
+mi to celkom zaujímavé.
+
+728
+00:12:29,720 --> 00:12:31,350
+mi to celkom zaujímavé.
+>> Tak to je super. Tak to si otvor eh
+
+729
+00:12:31,350 --> 00:12:31,360
+>> Tak to je super. Tak to si otvor eh
+
+730
+00:12:31,360 --> 00:12:33,350
+>> Tak to je super. Tak to si otvor eh
+odpovedal rovno už na tú eh druhú
+
+731
+00:12:33,350 --> 00:12:33,360
+odpovedal rovno už na tú eh druhú
+
+732
+00:12:33,360 --> 00:12:35,310
+odpovedal rovno už na tú eh druhú
+otázku, čo boli tie významné
+
+733
+00:12:35,310 --> 00:12:35,320
+otázku, čo boli tie významné
+
+734
+00:12:35,320 --> 00:12:37,030
+otázku, čo boli tie významné
+>> momenty evolúcie. Ale ešte máš tam
+
+735
+00:12:37,030 --> 00:12:37,040
+>> momenty evolúcie. Ale ešte máš tam
+
+736
+00:12:37,040 --> 00:12:37,590
+>> momenty evolúcie. Ale ešte máš tam
+nejaké
+
+737
+00:12:37,590 --> 00:12:37,600
+nejaké
+
+738
+00:12:37,600 --> 00:12:39,389
+nejaké
+>> Nie, nie, to je to je len to, že že
+
+739
+00:12:39,389 --> 00:12:39,399
+>> Nie, nie, to je to je len to, že že
+
+740
+00:12:39,399 --> 00:12:40,870
+>> Nie, nie, to je to je len to, že že
+pozerať sa na evolúciu nielen, že
+
+741
+00:12:40,870 --> 00:12:40,880
+pozerať sa na evolúciu nielen, že
+
+742
+00:12:40,880 --> 00:12:43,790
+pozerať sa na evolúciu nielen, že
+silnejšie prežije, ale na to, ako dané
+
+743
+00:12:43,790 --> 00:12:43,800
+silnejšie prežije, ale na to, ako dané
+
+744
+00:12:43,800 --> 00:12:45,269
+silnejšie prežije, ale na to, ako dané
+organizmy boli schopné pracovať s
+
+745
+00:12:45,269 --> 00:12:45,279
+organizmy boli schopné pracovať s
+
+746
+00:12:45,279 --> 00:12:46,110
+organizmy boli schopné pracovať s
+informáciou.
+
+747
+00:12:46,110 --> 00:12:46,120
+informáciou.
+
+748
+00:12:46,120 --> 00:12:48,110
+informáciou.
+>> Ale reálne toto je už prekonaná, nie,
+
+749
+00:12:48,110 --> 00:12:48,120
+>> Ale reálne toto je už prekonaná, nie,
+
+750
+00:12:48,120 --> 00:12:50,750
+>> Ale reálne toto je už prekonaná, nie,
+nejaká téza, že silnejšie prežije, lebo
+
+751
+00:12:50,750 --> 00:12:50,760
+nejaká téza, že silnejšie prežije, lebo
+
+752
+00:12:50,760 --> 00:12:53,269
+nejaká téza, že silnejšie prežije, lebo
+eh ty si aj pekný, či ty si neviem, kto
+
+753
+00:12:53,269 --> 00:12:53,279
+eh ty si aj pekný, či ty si neviem, kto
+
+754
+00:12:53,279 --> 00:12:56,110
+eh ty si aj pekný, či ty si neviem, kto
+to písal o tom ultruizme v prírode.
+
+755
+00:12:56,110 --> 00:12:56,120
+to písal o tom ultruizme v prírode.
+
+756
+00:12:56,120 --> 00:12:57,470
+to písal o tom ultruizme v prírode.
+>> Alizme. Hej. Hej. altruizme. Hej.
+
+757
+00:12:57,470 --> 00:12:57,480
+>> Alizme. Hej. Hej. altruizme. Hej.
+
+758
+00:12:57,480 --> 00:13:00,189
+>> Alizme. Hej. Hej. altruizme. Hej.
+>> Áno. To je to je tiež tá vec, ten úplne,
+
+759
+00:13:00,189 --> 00:13:00,199
+>> Áno. To je to je tiež tá vec, ten úplne,
+
+760
+00:13:00,199 --> 00:13:02,509
+>> Áno. To je to je tiež tá vec, ten úplne,
+že nezmysel, že zákon džungle je, že
+
+761
+00:13:02,509 --> 00:13:02,519
+že nezmysel, že zákon džungle je, že
+
+762
+00:13:02,519 --> 00:13:04,069
+že nezmysel, že zákon džungle je, že
+silnejší prežije, pričom že keď ideš do
+
+763
+00:13:04,069 --> 00:13:04,079
+silnejší prežije, pričom že keď ideš do
+
+764
+00:13:04,079 --> 00:13:05,710
+silnejší prežije, pričom že keď ideš do
+dažďového pralesa, tak tam máš také
+
+765
+00:13:05,710 --> 00:13:05,720
+dažďového pralesa, tak tam máš také
+
+766
+00:13:05,720 --> 00:13:07,949
+dažďového pralesa, tak tam máš také
+množstvo symbióz.
+
+767
+00:13:07,949 --> 00:13:07,959
+množstvo symbióz.
+
+768
+00:13:07,959 --> 00:13:10,389
+množstvo symbióz.
+>> Hej. A je to aj v svojej podstate, že
+
+769
+00:13:10,389 --> 00:13:10,399
+>> Hej. A je to aj v svojej podstate, že
+
+770
+00:13:10,399 --> 00:13:13,069
+>> Hej. A je to aj v svojej podstate, že
+žiadne zviera reálne nežije úplne samo.
+
+771
+00:13:13,069 --> 00:13:13,079
+žiadne zviera reálne nežije úplne samo.
+
+772
+00:13:13,079 --> 00:13:13,710
+žiadne zviera reálne nežije úplne samo.
+Proste, že
+
+773
+00:13:13,710 --> 00:13:13,720
+Proste, že
+
+774
+00:13:13,720 --> 00:13:16,150
+Proste, že
+>> Presne. A na okor ostatných akože možno
+
+775
+00:13:16,150 --> 00:13:16,160
+>> Presne. A na okor ostatných akože možno
+
+776
+00:13:16,160 --> 00:13:16,829
+>> Presne. A na okor ostatných akože možno
+nejaký parazit.
+
+777
+00:13:16,829 --> 00:13:16,839
+nejaký parazit.
+
+778
+00:13:16,839 --> 00:13:18,389
+nejaký parazit.
+>> Alebo alebo neviem si predstaviť
+
+779
+00:13:18,389 --> 00:13:18,399
+>> Alebo alebo neviem si predstaviť
+
+780
+00:13:18,399 --> 00:13:20,310
+>> Alebo alebo neviem si predstaviť
+nejakého, vieš, geparda, ktorý všetko
+
+781
+00:13:20,310 --> 00:13:20,320
+nejakého, vieš, geparda, ktorý všetko
+
+782
+00:13:20,320 --> 00:13:22,509
+nejakého, vieš, geparda, ktorý všetko
+rozbije okolo seba, vieš, a
+
+783
+00:13:22,509 --> 00:13:22,519
+rozbije okolo seba, vieš, a
+
+784
+00:13:22,519 --> 00:13:24,509
+rozbije okolo seba, vieš, a
+>> eh leží tam na strome a tie ostatné
+
+785
+00:13:24,509 --> 00:13:24,519
+>> eh leží tam na strome a tie ostatné
+
+786
+00:13:24,519 --> 00:13:25,870
+>> eh leží tam na strome a tie ostatné
+zvieratá. OK. Tak
+
+787
+00:13:25,870 --> 00:13:25,880
+zvieratá. OK. Tak
+
+788
+00:13:25,880 --> 00:13:27,509
+zvieratá. OK. Tak
+>> vieš čo, vírusy by mohli byť príkladom
+
+789
+00:13:27,509 --> 00:13:27,519
+>> vieš čo, vírusy by mohli byť príkladom
+
+790
+00:13:27,519 --> 00:13:29,629
+>> vieš čo, vírusy by mohli byť príkladom
+niečoho, čo neviem, či má nejaký povp,
+
+791
+00:13:29,629 --> 00:13:29,639
+niečoho, čo neviem, či má nejaký povp,
+
+792
+00:13:29,639 --> 00:13:30,790
+niečoho, čo neviem, či má nejaký povp,
+že podľa mňa nič nie je také, že by
+
+793
+00:13:30,790 --> 00:13:30,800
+že podľa mňa nič nie je také, že by
+
+794
+00:13:30,800 --> 00:13:33,590
+že podľa mňa nič nie je také, že by
+žralo vírusy a oni len parazitujú alebo
+
+795
+00:13:33,590 --> 00:13:33,600
+žralo vírusy a oni len parazitujú alebo
+
+796
+00:13:33,600 --> 00:13:33,870
+žralo vírusy a oni len parazitujú alebo
+teda
+
+797
+00:13:33,870 --> 00:13:33,880
+teda
+
+798
+00:13:33,880 --> 00:13:35,990
+teda
+>> eh ja som raz čítal, ale neviem, či to
+
+799
+00:13:35,990 --> 00:13:36,000
+>> eh ja som raz čítal, ale neviem, či to
+
+800
+00:13:36,000 --> 00:13:38,550
+>> eh ja som raz čítal, ale neviem, či to
+bol nejaký reálny eh reálna téza, že oni
+
+801
+00:13:38,550 --> 00:13:38,560
+bol nejaký reálny eh reálna téza, že oni
+
+802
+00:13:38,560 --> 00:13:42,030
+bol nejaký reálny eh reálna téza, že oni
+pomáhajú troška evolúcii, že eh vlastne
+
+803
+00:13:42,030 --> 00:13:42,040
+pomáhajú troška evolúcii, že eh vlastne
+
+804
+00:13:42,040 --> 00:13:44,430
+pomáhajú troška evolúcii, že eh vlastne
+keď sa musia prispôsobovať eh iné
+
+805
+00:13:44,430 --> 00:13:44,440
+keď sa musia prispôsobovať eh iné
+
+806
+00:13:44,440 --> 00:13:45,629
+keď sa musia prispôsobovať eh iné
+organizmy na nich,
+
+807
+00:13:45,629 --> 00:13:45,639
+organizmy na nich,
+
+808
+00:13:45,639 --> 00:13:47,629
+organizmy na nich,
+>> ale neviem. No
+
+809
+00:13:47,629 --> 00:13:47,639
+>> ale neviem. No
+
+810
+00:13:47,639 --> 00:13:49,670
+>> ale neviem. No
+>> ináč Richard Dawkins má vo svojej
+
+811
+00:13:49,670 --> 00:13:49,680
+>> ináč Richard Dawkins má vo svojej
+
+812
+00:13:49,680 --> 00:13:52,949
+>> ináč Richard Dawkins má vo svojej
+ostatnej knihe Book of the Dead takú
+
+813
+00:13:52,949 --> 00:13:52,959
+ostatnej knihe Book of the Dead takú
+
+814
+00:13:52,959 --> 00:13:55,509
+ostatnej knihe Book of the Dead takú
+kontroverznú myšlienku, že celému nášmu
+
+815
+00:13:55,509 --> 00:13:55,519
+kontroverznú myšlienku, že celému nášmu
+
+816
+00:13:55,519 --> 00:13:57,069
+kontroverznú myšlienku, že celému nášmu
+génu vlastne vieme rozumieť, že to je
+
+817
+00:13:57,069 --> 00:13:57,079
+génu vlastne vieme rozumieť, že to je
+
+818
+00:13:57,079 --> 00:13:58,670
+génu vlastne vieme rozumieť, že to je
+proste genomu vieme rozumieť, že to je
+
+819
+00:13:58,670 --> 00:13:58,680
+proste genomu vieme rozumieť, že to je
+
+820
+00:13:58,680 --> 00:14:02,310
+proste genomu vieme rozumieť, že to je
+súbor rôznych vírusov, rôznych malých
+
+821
+00:14:02,310 --> 00:14:02,320
+súbor rôznych vírusov, rôznych malých
+
+822
+00:14:02,320 --> 00:14:04,829
+súbor rôznych vírusov, rôznych malých
+>> sekvencií DNA, ktoré spolu spolupracujú,
+
+823
+00:14:04,829 --> 00:14:04,839
+>> sekvencií DNA, ktoré spolu spolupracujú,
+
+824
+00:14:04,839 --> 00:14:06,269
+>> sekvencií DNA, ktoré spolu spolupracujú,
+aby vytvorili organizmus, z ktorých vie
+
+825
+00:14:06,269 --> 00:14:06,279
+aby vytvorili organizmus, z ktorých vie
+
+826
+00:14:06,279 --> 00:14:07,670
+aby vytvorili organizmus, z ktorých vie
+množiť ďalej.
+
+827
+00:14:07,670 --> 00:14:07,680
+množiť ďalej.
+
+828
+00:14:07,680 --> 00:14:09,150
+množiť ďalej.
+>> Hm.
+
+829
+00:14:09,150 --> 00:14:09,160
+>> Hm.
+
+830
+00:14:09,160 --> 00:14:11,790
+>> Hm.
+A inak tým vírusom veď ale zase oni nie
+
+831
+00:14:11,790 --> 00:14:11,800
+A inak tým vírusom veď ale zase oni nie
+
+832
+00:14:11,800 --> 00:14:14,110
+A inak tým vírusom veď ale zase oni nie
+sú úplne živé, takže vieš je je to
+
+833
+00:14:14,110 --> 00:14:14,120
+sú úplne živé, takže vieš je je to
+
+834
+00:14:14,120 --> 00:14:17,230
+sú úplne živé, takže vieš je je to
+>> sú Áno. Áno. By definition nie. A potom
+
+835
+00:14:17,230 --> 00:14:17,240
+>> sú Áno. Áno. By definition nie. A potom
+
+836
+00:14:17,240 --> 00:14:18,550
+>> sú Áno. Áno. By definition nie. A potom
+sú ľudia, ktorí hovoria, že tú definíciu
+
+837
+00:14:18,550 --> 00:14:18,560
+sú ľudia, ktorí hovoria, že tú definíciu
+
+838
+00:14:18,560 --> 00:14:20,670
+sú ľudia, ktorí hovoria, že tú definíciu
+treba zmeniť, lebo vírusy očividne sú
+
+839
+00:14:20,670 --> 00:14:20,680
+treba zmeniť, lebo vírusy očividne sú
+
+840
+00:14:20,680 --> 00:14:21,470
+treba zmeniť, lebo vírusy očividne sú
+živé a nemám by
+
+841
+00:14:21,470 --> 00:14:21,480
+živé a nemám by
+
+842
+00:14:21,480 --> 00:14:23,230
+živé a nemám by
+>> No ja ja si tiež myslím, že podľa mňa sú
+
+843
+00:14:23,230 --> 00:14:23,240
+>> No ja ja si tiež myslím, že podľa mňa sú
+
+844
+00:14:23,240 --> 00:14:25,150
+>> No ja ja si tiež myslím, že podľa mňa sú
+živé, lebo ten argument, že lebo
+
+845
+00:14:25,150 --> 00:14:25,160
+živé, lebo ten argument, že lebo
+
+846
+00:14:25,160 --> 00:14:26,990
+živé, lebo ten argument, že lebo
+neprežijú bez niečoho iného a ja
+
+847
+00:14:26,990 --> 00:14:27,000
+neprežijú bez niečoho iného a ja
+
+848
+00:14:27,000 --> 00:14:29,509
+neprežijú bez niečoho iného a ja
+neprežijem bez Kauflandu. Takže
+
+849
+00:14:29,509 --> 00:14:29,519
+neprežijem bez Kauflandu. Takže
+
+850
+00:14:29,519 --> 00:14:30,710
+neprežijem bez Kauflandu. Takže
+>> ty vírus.
+
+851
+00:14:30,710 --> 00:14:30,720
+>> ty vírus.
+
+852
+00:14:30,720 --> 00:14:34,110
+>> ty vírus.
+>> No presne tak. Eh to bol vtip. Prežil by
+
+853
+00:14:34,110 --> 00:14:34,120
+>> No presne tak. Eh to bol vtip. Prežil by
+
+854
+00:14:34,120 --> 00:14:37,670
+>> No presne tak. Eh to bol vtip. Prežil by
+som. Dobre. Eh, je ťažšie postaviť cestu
+
+855
+00:14:37,670 --> 00:14:37,680
+som. Dobre. Eh, je ťažšie postaviť cestu
+
+856
+00:14:37,680 --> 00:14:39,749
+som. Dobre. Eh, je ťažšie postaviť cestu
+alebo mať čisté záchody?
+
+857
+00:14:39,749 --> 00:14:39,759
+alebo mať čisté záchody?
+
+858
+00:14:39,759 --> 00:14:41,269
+alebo mať čisté záchody?
+>> Toto je festivalová otázka.
+
+859
+00:14:41,269 --> 00:14:41,279
+>> Toto je festivalová otázka.
+
+860
+00:14:41,279 --> 00:14:42,350
+>> Toto je festivalová otázka.
+>> Asi, že kde
+
+861
+00:14:42,350 --> 00:14:42,360
+>> Asi, že kde
+
+862
+00:14:42,360 --> 00:14:45,269
+>> Asi, že kde
+>> uhm vieš čo toto je? Tá táto otázka mi
+
+863
+00:14:45,269 --> 00:14:45,279
+>> uhm vieš čo toto je? Tá táto otázka mi
+
+864
+00:14:45,279 --> 00:14:47,389
+>> uhm vieš čo toto je? Tá táto otázka mi
+napadla na festivale a potom keď som si
+
+865
+00:14:47,389 --> 00:14:47,399
+napadla na festivale a potom keď som si
+
+866
+00:14:47,399 --> 00:14:49,870
+napadla na festivale a potom keď som si
+bol zabehať deň po festivale a videl
+
+867
+00:14:49,870 --> 00:14:49,880
+bol zabehať deň po festivale a videl
+
+868
+00:14:49,880 --> 00:14:51,430
+bol zabehať deň po festivale a videl
+som, ako sa tu stavia niečo v blízkosti
+
+869
+00:14:51,430 --> 00:14:51,440
+som, ako sa tu stavia niečo v blízkosti
+
+870
+00:14:51,440 --> 00:14:53,150
+som, ako sa tu stavia niečo v blízkosti
+radšej
+
+871
+00:14:53,150 --> 00:14:53,160
+radšej
+
+872
+00:14:53,160 --> 00:14:55,189
+radšej
+a rozmýšľal, tam mi trkla do hlavu taká
+
+873
+00:14:55,189 --> 00:14:55,199
+a rozmýšľal, tam mi trkla do hlavu taká
+
+874
+00:14:55,199 --> 00:14:56,550
+a rozmýšľal, tam mi trkla do hlavu taká
+zaujímavá vec, že keď sme boli na
+
+875
+00:14:56,550 --> 00:14:56,560
+zaujímavá vec, že keď sme boli na
+
+876
+00:14:56,560 --> 00:14:58,829
+zaujímavá vec, že keď sme boli na
+pohode, tak si si všimol, že koľko je
+
+877
+00:14:58,829 --> 00:14:58,839
+pohode, tak si si všimol, že koľko je
+
+878
+00:14:58,839 --> 00:15:01,389
+pohode, tak si si všimol, že koľko je
+tam ľudí, ktorí v podstate, že sedia pri
+
+879
+00:15:01,389 --> 00:15:01,399
+tam ľudí, ktorí v podstate, že sedia pri
+
+880
+00:15:01,399 --> 00:15:02,870
+tam ľudí, ktorí v podstate, že sedia pri
+jednej brane a keď príde auto, tak ju
+
+881
+00:15:02,870 --> 00:15:02,880
+jednej brane a keď príde auto, tak ju
+
+882
+00:15:02,880 --> 00:15:05,110
+jednej brane a keď príde auto, tak ju
+otvoria a potom ju zatvoria. Uhm.
+
+883
+00:15:05,110 --> 00:15:05,120
+otvoria a potom ju zatvoria. Uhm.
+
+884
+00:15:05,120 --> 00:15:06,350
+otvoria a potom ju zatvoria. Uhm.
+>> A potom máš iných ľudí, ktorí majú na
+
+885
+00:15:06,350 --> 00:15:06,360
+>> A potom máš iných ľudí, ktorí majú na
+
+886
+00:15:06,360 --> 00:15:08,470
+>> A potom máš iných ľudí, ktorí majú na
+starosti niečo veľmi malé. A normálne
+
+887
+00:15:08,470 --> 00:15:08,480
+starosti niečo veľmi malé. A normálne
+
+888
+00:15:08,480 --> 00:15:09,870
+starosti niečo veľmi malé. A normálne
+som sa na chvíľku zamyslel, že či by sa
+
+889
+00:15:09,870 --> 00:15:09,880
+som sa na chvíľku zamyslel, že či by sa
+
+890
+00:15:09,880 --> 00:15:11,790
+som sa na chvíľku zamyslel, že či by sa
+dalo urobiť, že dám tam dáš proste toľko
+
+891
+00:15:11,790 --> 00:15:11,800
+dalo urobiť, že dám tam dáš proste toľko
+
+892
+00:15:11,800 --> 00:15:15,230
+dalo urobiť, že dám tam dáš proste toľko
+dobrovoľníkov, že robia úplne všetko. Na
+
+893
+00:15:15,230 --> 00:15:15,240
+dobrovoľníkov, že robia úplne všetko. Na
+
+894
+00:15:15,240 --> 00:15:17,189
+dobrovoľníkov, že robia úplne všetko. Na
+štýl, že máš špinavú tojtojku, tak bude
+
+895
+00:15:17,189 --> 00:15:17,199
+štýl, že máš špinavú tojtojku, tak bude
+
+896
+00:15:17,199 --> 00:15:18,790
+štýl, že máš špinavú tojtojku, tak bude
+okamžite vyčistená, lebo má k sebe
+
+897
+00:15:18,790 --> 00:15:18,800
+okamžite vyčistená, lebo má k sebe
+
+898
+00:15:18,800 --> 00:15:20,230
+okamžite vyčistená, lebo má k sebe
+príslušného človeka.
+
+899
+00:15:20,230 --> 00:15:20,240
+príslušného človeka.
+
+900
+00:15:20,240 --> 00:15:23,030
+príslušného človeka.
+>> Jaj, takto, že aha, že ty si zodpovedný
+
+901
+00:15:23,030 --> 00:15:23,040
+>> Jaj, takto, že aha, že ty si zodpovedný
+
+902
+00:15:23,040 --> 00:15:23,990
+>> Jaj, takto, že aha, že ty si zodpovedný
+za túto tojtojku,
+
+903
+00:15:23,990 --> 00:15:24,000
+za túto tojtojku,
+
+904
+00:15:24,000 --> 00:15:26,430
+za túto tojtojku,
+>> že ty, že že dokonale zorganizovaný
+
+905
+00:15:26,430 --> 00:15:26,440
+>> že ty, že že dokonale zorganizovaný
+
+906
+00:15:26,440 --> 00:15:28,110
+>> že ty, že že dokonale zorganizovaný
+festival, kde máš neobmedzené množstvo
+
+907
+00:15:28,110 --> 00:15:28,120
+festival, kde máš neobmedzené množstvo
+
+908
+00:15:28,120 --> 00:15:29,829
+festival, kde máš neobmedzené množstvo
+dobrovoľníkov, ktorí úplne všetky
+
+909
+00:15:29,829 --> 00:15:29,839
+dobrovoľníkov, ktorí úplne všetky
+
+910
+00:15:29,839 --> 00:15:32,069
+dobrovoľníkov, ktorí úplne všetky
+potreby návštevníkov vedia hneď
+
+911
+00:15:32,069 --> 00:15:32,079
+potreby návštevníkov vedia hneď
+
+912
+00:15:32,079 --> 00:15:34,790
+potreby návštevníkov vedia hneď
+vyriešiť. A dospel som k názoru, že to
+
+913
+00:15:34,790 --> 00:15:34,800
+vyriešiť. A dospel som k názoru, že to
+
+914
+00:15:34,800 --> 00:15:36,670
+vyriešiť. A dospel som k názoru, že to
+asi nie je možné,
+
+915
+00:15:36,670 --> 00:15:36,680
+asi nie je možné,
+
+916
+00:15:36,680 --> 00:15:39,670
+asi nie je možné,
+>> že existujú existujú dva typy úloh a
+
+917
+00:15:39,670 --> 00:15:39,680
+>> že existujú existujú dva typy úloh a
+
+918
+00:15:39,680 --> 00:15:41,829
+>> že existujú existujú dva typy úloh a
+jeden typ úloh sa ti ľahšie robiť, keď
+
+919
+00:15:41,829 --> 00:15:41,839
+jeden typ úloh sa ti ľahšie robiť, keď
+
+920
+00:15:41,839 --> 00:15:43,749
+jeden typ úloh sa ti ľahšie robiť, keď
+naňho prihodíš viacej pracovníkov a
+
+921
+00:15:43,749 --> 00:15:43,759
+naňho prihodíš viacej pracovníkov a
+
+922
+00:15:43,759 --> 00:15:48,069
+naňho prihodíš viacej pracovníkov a
+druhý nie. Veď to je také isté akože, že
+
+923
+00:15:48,069 --> 00:15:48,079
+druhý nie. Veď to je také isté akože, že
+
+924
+00:15:48,079 --> 00:15:51,749
+druhý nie. Veď to je také isté akože, že
+ako rýchlo eh sa narodí dieťa jednej
+
+925
+00:15:51,749 --> 00:15:51,759
+ako rýchlo eh sa narodí dieťa jednej
+
+926
+00:15:51,759 --> 00:15:54,110
+ako rýchlo eh sa narodí dieťa jednej
+matke, že za deväť mesiacov a a že keď
+
+927
+00:15:54,110 --> 00:15:54,120
+matke, že za deväť mesiacov a a že keď
+
+928
+00:15:54,120 --> 00:15:57,069
+matke, že za deväť mesiacov a a že keď
+pridáš deväť žien, či to vedia za mesiac
+
+929
+00:15:57,069 --> 00:15:57,079
+pridáš deväť žien, či to vedia za mesiac
+
+930
+00:15:57,079 --> 00:16:00,189
+pridáš deväť žien, či to vedia za mesiac
+>> akože a a a v niečom áno, ale že keď máš
+
+931
+00:16:00,189 --> 00:16:00,199
+>> akože a a a v niečom áno, ale že keď máš
+
+932
+00:16:00,199 --> 00:16:01,670
+>> akože a a a v niečom áno, ale že keď máš
+napríklad takú lohu, že na festivale
+
+933
+00:16:01,670 --> 00:16:01,680
+napríklad takú lohu, že na festivale
+
+934
+00:16:01,680 --> 00:16:04,150
+napríklad takú lohu, že na festivale
+treba postaviť plot, keď ho necháš stať
+
+935
+00:16:04,150 --> 00:16:04,160
+treba postaviť plot, keď ho necháš stať
+
+936
+00:16:04,160 --> 00:16:05,990
+treba postaviť plot, keď ho necháš stať
+jedného človeka a keď ho necháš stavať
+
+937
+00:16:05,990 --> 00:16:06,000
+jedného človeka a keď ho necháš stavať
+
+938
+00:16:06,000 --> 00:16:08,230
+jedného človeka a keď ho necháš stavať
+10 ľudí, tak tým 10 to bude trvať cca
+
+939
+00:16:08,230 --> 00:16:08,240
+10 ľudí, tak tým 10 to bude trvať cca
+
+940
+00:16:08,240 --> 00:16:10,629
+10 ľudí, tak tým 10 to bude trvať cca
+10krát menej. Možno ešte ešte lepšie to
+
+941
+00:16:10,629 --> 00:16:10,639
+10krát menej. Možno ešte ešte lepšie to
+
+942
+00:16:10,639 --> 00:16:11,629
+10krát menej. Možno ešte ešte lepšie to
+spravia alebo sa nejako dobre
+
+943
+00:16:11,629 --> 00:16:11,639
+spravia alebo sa nejako dobre
+
+944
+00:16:11,639 --> 00:16:12,670
+spravia alebo sa nejako dobre
+zosynchronizujú,
+
+945
+00:16:12,670 --> 00:16:12,680
+zosynchronizujú,
+
+946
+00:16:12,680 --> 00:16:14,350
+zosynchronizujú,
+>> ale niekde sa to už zasekne, nie? Je tam
+
+947
+00:16:14,350 --> 00:16:14,360
+>> ale niekde sa to už zasekne, nie? Je tam
+
+948
+00:16:14,360 --> 00:16:15,470
+>> ale niekde sa to už zasekne, nie? Je tam
+ten botol taký,
+
+949
+00:16:15,470 --> 00:16:15,480
+ten botol taký,
+
+950
+00:16:15,480 --> 00:16:17,509
+ten botol taký,
+>> vieš čo, že pri niektorých činnostiach
+
+951
+00:16:17,509 --> 00:16:17,519
+>> vieš čo, že pri niektorých činnostiach
+
+952
+00:16:17,519 --> 00:16:18,710
+>> vieš čo, že pri niektorých činnostiach
+čím viac ľudí, tým rýchlejšie to
+
+953
+00:16:18,710 --> 00:16:18,720
+čím viac ľudí, tým rýchlejšie to
+
+954
+00:16:18,720 --> 00:16:20,430
+čím viac ľudí, tým rýchlejšie to
+spravia, kým si nebudú zavadzať, že keby
+
+955
+00:16:20,430 --> 00:16:20,440
+spravia, kým si nebudú zavadzať, že keby
+
+956
+00:16:20,440 --> 00:16:21,910
+spravia, kým si nebudú zavadzať, že keby
+si tam niekomu tak som to myslel, že ten
+
+957
+00:16:21,910 --> 00:16:21,920
+si tam niekomu tak som to myslel, že ten
+
+958
+00:16:21,920 --> 00:16:23,030
+si tam niekomu tak som to myslel, že ten
+botoline, že
+
+959
+00:16:23,030 --> 00:16:23,040
+botoline, že
+
+960
+00:16:23,040 --> 00:16:24,550
+botoline, že
+>> tak, že keby si chcel, že lopatou
+
+961
+00:16:24,550 --> 00:16:24,560
+>> tak, že keby si chcel, že lopatou
+
+962
+00:16:24,560 --> 00:16:27,629
+>> tak, že keby si chcel, že lopatou
+presunúť Saharu, tak keď zoberieš 2000
+
+963
+00:16:27,629 --> 00:16:27,639
+presunúť Saharu, tak keď zoberieš 2000
+
+964
+00:16:27,639 --> 00:16:29,829
+presunúť Saharu, tak keď zoberieš 2000
+ľudí, tak im to bude trvať polovicu času
+
+965
+00:16:29,829 --> 00:16:29,839
+ľudí, tak im to bude trvať polovicu času
+
+966
+00:16:29,839 --> 00:16:31,710
+ľudí, tak im to bude trvať polovicu času
+ako 1000 ľuďom, že tam naozaj dvakrát
+
+967
+00:16:31,710 --> 00:16:31,720
+ako 1000 ľuďom, že tam naozaj dvakrát
+
+968
+00:16:31,720 --> 00:16:33,749
+ako 1000 ľuďom, že tam naozaj dvakrát
+toľko ľudí to urobí dvakrát rýchlejšie.
+
+969
+00:16:33,749 --> 00:16:33,759
+toľko ľudí to urobí dvakrát rýchlejšie.
+
+970
+00:16:33,759 --> 00:16:36,230
+toľko ľudí to urobí dvakrát rýchlejšie.
+A potom sú typy činností, kde ti
+
+971
+00:16:36,230 --> 00:16:36,240
+A potom sú typy činností, kde ti
+
+972
+00:16:36,240 --> 00:16:38,710
+A potom sú typy činností, kde ti
+prihadzovanie ďalších pracovníkov nielen
+
+973
+00:16:38,710 --> 00:16:38,720
+prihadzovanie ďalších pracovníkov nielen
+
+974
+00:16:38,720 --> 00:16:41,189
+prihadzovanie ďalších pracovníkov nielen
+že nepomáha, dokonca môže škodiť.
+
+975
+00:16:41,189 --> 00:16:41,199
+že nepomáha, dokonca môže škodiť.
+
+976
+00:16:41,199 --> 00:16:41,590
+že nepomáha, dokonca môže škodiť.
+>> Uhm.
+
+977
+00:16:41,590 --> 00:16:41,600
+>> Uhm.
+
+978
+00:16:41,600 --> 00:16:44,470
+>> Uhm.
+>> Príklad nastaj nejaký chirurgovia.
+
+979
+00:16:44,470 --> 00:16:44,480
+>> Príklad nastaj nejaký chirurgovia.
+
+980
+00:16:44,480 --> 00:16:46,430
+>> Príklad nastaj nejaký chirurgovia.
+napríklad, hej, že niekde kde musíš
+
+981
+00:16:46,430 --> 00:16:46,440
+napríklad, hej, že niekde kde musíš
+
+982
+00:16:46,440 --> 00:16:48,470
+napríklad, hej, že niekde kde musíš
+robiť, kde musíš robiť rozhodnutia, že
+
+983
+00:16:48,470 --> 00:16:48,480
+robiť, kde musíš robiť rozhodnutia, že
+
+984
+00:16:48,480 --> 00:16:50,430
+robiť, kde musíš robiť rozhodnutia, že
+dajme tomu, že
+
+985
+00:16:50,430 --> 00:16:50,440
+dajme tomu, že
+
+986
+00:16:50,440 --> 00:16:52,990
+dajme tomu, že
+>> nastane nejaká 12
+
+987
+00:16:52,990 --> 00:16:53,000
+>> nastane nejaká 12
+
+988
+00:16:53,000 --> 00:16:54,710
+>> nastane nejaká 12
+>> 12 pilotov a každý bude ťahať iným
+
+989
+00:16:54,710 --> 00:16:54,720
+>> 12 pilotov a každý bude ťahať iným
+
+990
+00:16:54,720 --> 00:16:57,230
+>> 12 pilotov a každý bude ťahať iným
+smerom lietadlo
+
+991
+00:16:57,230 --> 00:16:57,240
+smerom lietadlo
+
+992
+00:16:57,240 --> 00:16:59,629
+smerom lietadlo
+>> a každý bude mať eh korbit či ako sa to
+
+993
+00:16:59,629 --> 00:16:59,639
+>> a každý bude mať eh korbit či ako sa to
+
+994
+00:16:59,639 --> 00:17:00,710
+>> a každý bude mať eh korbit či ako sa to
+volá alebo
+
+995
+00:17:00,710 --> 00:17:00,720
+volá alebo
+
+996
+00:17:00,720 --> 00:17:01,110
+volá alebo
+>> páku
+
+997
+00:17:01,110 --> 00:17:01,120
+>> páku
+
+998
+00:17:01,120 --> 00:17:03,110
+>> páku
+>> alebo máš festival a zrazu treba urobiť
+
+999
+00:17:03,110 --> 00:17:03,120
+>> alebo máš festival a zrazu treba urobiť
+
+1000
+00:17:03,120 --> 00:17:05,390
+>> alebo máš festival a zrazu treba urobiť
+nejaké rozhodnutie, dajme tomu, že
+
+1001
+00:17:05,390 --> 00:17:05,400
+nejaké rozhodnutie, dajme tomu, že
+
+1002
+00:17:05,400 --> 00:17:07,110
+nejaké rozhodnutie, dajme tomu, že
+vypadne ti headliner hodinu pred
+
+1003
+00:17:07,110 --> 00:17:07,120
+vypadne ti headliner hodinu pred
+
+1004
+00:17:07,120 --> 00:17:09,750
+vypadne ti headliner hodinu pred
+začiatkom festivalu a teraz tipujem, že
+
+1005
+00:17:09,750 --> 00:17:09,760
+začiatkom festivalu a teraz tipujem, že
+
+1006
+00:17:09,760 --> 00:17:11,270
+začiatkom festivalu a teraz tipujem, že
+to neprebieha tak, že Miško Kaščák
+
+1007
+00:17:11,270 --> 00:17:11,280
+to neprebieha tak, že Miško Kaščák
+
+1008
+00:17:11,280 --> 00:17:13,069
+to neprebieha tak, že Miško Kaščák
+zavolá všetkým dobrovoľníkom a urobí
+
+1009
+00:17:13,069 --> 00:17:13,079
+zavolá všetkým dobrovoľníkom a urobí
+
+1010
+00:17:13,079 --> 00:17:14,870
+zavolá všetkým dobrovoľníkom a urobí
+teraz hlas hlasovanie o tom, že že koho
+
+1011
+00:17:14,870 --> 00:17:14,880
+teraz hlas hlasovanie o tom, že že koho
+
+1012
+00:17:14,880 --> 00:17:16,470
+teraz hlas hlasovanie o tom, že že koho
+zobrať ďalej, ale zoberie nejaký svoj
+
+1013
+00:17:16,470 --> 00:17:16,480
+zobrať ďalej, ale zoberie nejaký svoj
+
+1014
+00:17:16,480 --> 00:17:18,909
+zobrať ďalej, ale zoberie nejaký svoj
+veľmi malý tím a s ním nájde odpoveď, že
+
+1015
+00:17:18,909 --> 00:17:18,919
+veľmi malý tím a s ním nájde odpoveď, že
+
+1016
+00:17:18,919 --> 00:17:21,029
+veľmi malý tím a s ním nájde odpoveď, že
+občas je proste efektívne mať menší tím
+
+1017
+00:17:21,029 --> 00:17:21,039
+občas je proste efektívne mať menší tím
+
+1018
+00:17:21,039 --> 00:17:22,710
+občas je proste efektívne mať menší tím
+alebo mať nejaký rozumne veľký tím, ale
+
+1019
+00:17:22,710 --> 00:17:22,720
+alebo mať nejaký rozumne veľký tím, ale
+
+1020
+00:17:22,720 --> 00:17:25,429
+alebo mať nejaký rozumne veľký tím, ale
+veľmi dobre eh zladený dokopy.
+
+1021
+00:17:25,429 --> 00:17:25,439
+veľmi dobre eh zladený dokopy.
+
+1022
+00:17:25,439 --> 00:17:26,549
+veľmi dobre eh zladený dokopy.
+Napríklad, že tam môžeš mať nejakú
+
+1023
+00:17:26,549 --> 00:17:26,559
+Napríklad, že tam môžeš mať nejakú
+
+1024
+00:17:26,559 --> 00:17:28,069
+Napríklad, že tam môžeš mať nejakú
+hierarchiu, že ti tie informácie chodia
+
+1025
+00:17:28,069 --> 00:17:28,079
+hierarchiu, že ti tie informácie chodia
+
+1026
+00:17:28,079 --> 00:17:29,070
+hierarchiu, že ti tie informácie chodia
+kadeeme.
+
+1027
+00:17:29,070 --> 00:17:29,080
+kadeeme.
+
+1028
+00:17:29,080 --> 00:17:32,590
+kadeeme.
+>> A toto mám pocit, že činnosti, kde ktoré
+
+1029
+00:17:32,590 --> 00:17:32,600
+>> A toto mám pocit, že činnosti, kde ktoré
+
+1030
+00:17:32,600 --> 00:17:35,510
+>> A toto mám pocit, že činnosti, kde ktoré
+od teba vyžadujú dodávanie energie alebo
+
+1031
+00:17:35,510 --> 00:17:35,520
+od teba vyžadujú dodávanie energie alebo
+
+1032
+00:17:35,520 --> 00:17:37,230
+od teba vyžadujú dodávanie energie alebo
+vynakladanie energie na niečo, tak u
+
+1033
+00:17:37,230 --> 00:17:37,240
+vynakladanie energie na niečo, tak u
+
+1034
+00:17:37,240 --> 00:17:39,150
+vynakladanie energie na niečo, tak u
+nich platí, že čím viacej ľudí, tak tým
+
+1035
+00:17:39,150 --> 00:17:39,160
+nich platí, že čím viacej ľudí, tak tým
+
+1036
+00:17:39,160 --> 00:17:40,789
+nich platí, že čím viacej ľudí, tak tým
+rýchlejšie to spravíš.
+
+1037
+00:17:40,789 --> 00:17:40,799
+rýchlejšie to spravíš.
+
+1038
+00:17:40,799 --> 00:17:43,230
+rýchlejšie to spravíš.
+>> Hm. A keď máš činnosti, kde musíš
+
+1039
+00:17:43,230 --> 00:17:43,240
+>> Hm. A keď máš činnosti, kde musíš
+
+1040
+00:17:43,240 --> 00:17:45,430
+>> Hm. A keď máš činnosti, kde musíš
+pracovať s informáciou, tak tam to
+
+1041
+00:17:45,430 --> 00:17:45,440
+pracovať s informáciou, tak tam to
+
+1042
+00:17:45,440 --> 00:17:48,549
+pracovať s informáciou, tak tam to
+platiť nemusí, že tam dokonca, že tam je
+
+1043
+00:17:48,549 --> 00:17:48,559
+platiť nemusí, že tam dokonca, že tam je
+
+1044
+00:17:48,559 --> 00:17:51,710
+platiť nemusí, že tam dokonca, že tam je
+dôležité mať dobré usporiadanie a vedieť
+
+1045
+00:17:51,710 --> 00:17:51,720
+dôležité mať dobré usporiadanie a vedieť
+
+1046
+00:17:51,720 --> 00:17:54,310
+dôležité mať dobré usporiadanie a vedieť
+napríklad vypovať, kto je expert na danú
+
+1047
+00:17:54,310 --> 00:17:54,320
+napríklad vypovať, kto je expert na danú
+
+1048
+00:17:54,320 --> 00:17:55,630
+napríklad vypovať, kto je expert na danú
+činnosť a kto by mal mať najväčšie
+
+1049
+00:17:55,630 --> 00:17:55,640
+činnosť a kto by mal mať najväčšie
+
+1050
+00:17:55,640 --> 00:17:57,350
+činnosť a kto by mal mať najväčšie
+rozhodovacie právo a kto mu v tom môže
+
+1051
+00:17:57,350 --> 00:17:57,360
+rozhodovacie právo a kto mu v tom môže
+
+1052
+00:17:57,360 --> 00:17:59,750
+rozhodovacie právo a kto mu v tom môže
+poradiť a kto to bude v podstate už iba
+
+1053
+00:17:59,750 --> 00:17:59,760
+poradiť a kto to bude v podstate už iba
+
+1054
+00:17:59,760 --> 00:18:01,990
+poradiť a kto to bude v podstate už iba
+komplikovať. Vieš, že mňa keby nechali
+
+1055
+00:18:01,990 --> 00:18:02,000
+komplikovať. Vieš, že mňa keby nechali
+
+1056
+00:18:02,000 --> 00:18:03,470
+komplikovať. Vieš, že mňa keby nechali
+riešiť nejakú krízovú situáciu na
+
+1057
+00:18:03,470 --> 00:18:03,480
+riešiť nejakú krízovú situáciu na
+
+1058
+00:18:03,480 --> 00:18:05,149
+riešiť nejakú krízovú situáciu na
+letisku, tak je mi úplne jasné, že budem
+
+1059
+00:18:05,149 --> 00:18:05,159
+letisku, tak je mi úplne jasné, že budem
+
+1060
+00:18:05,159 --> 00:18:08,630
+letisku, tak je mi úplne jasné, že budem
+len škodiť, aj keď v dobrej viere. Ale
+
+1061
+00:18:08,630 --> 00:18:08,640
+len škodiť, aj keď v dobrej viere. Ale
+
+1062
+00:18:08,640 --> 00:18:10,950
+len škodiť, aj keď v dobrej viere. Ale
+nerozumiem danej problematike a tým
+
+1063
+00:18:10,950 --> 00:18:10,960
+nerozumiem danej problematike a tým
+
+1064
+00:18:10,960 --> 00:18:12,549
+nerozumiem danej problematike a tým
+pádom zhoršiť,
+
+1065
+00:18:12,549 --> 00:18:12,559
+pádom zhoršiť,
+
+1066
+00:18:12,559 --> 00:18:13,830
+pádom zhoršiť,
+>> nech pristanú,
+
+1067
+00:18:13,830 --> 00:18:13,840
+>> nech pristanú,
+
+1068
+00:18:13,840 --> 00:18:15,990
+>> nech pristanú,
+>> hej, že že hej, nemôže zaparkovať,
+
+1069
+00:18:15,990 --> 00:18:16,000
+>> hej, že že hej, nemôže zaparkovať,
+
+1070
+00:18:16,000 --> 00:18:18,110
+>> hej, že že hej, nemôže zaparkovať,
+nemôže zacúvať.
+
+1071
+00:18:18,110 --> 00:18:18,120
+nemôže zacúvať.
+
+1072
+00:18:18,120 --> 00:18:19,909
+nemôže zacúvať.
+Čiže hocijaký kolektív, ktorý by
+
+1073
+00:18:19,909 --> 00:18:19,919
+Čiže hocijaký kolektív, ktorý by
+
+1074
+00:18:19,919 --> 00:18:22,070
+Čiže hocijaký kolektív, ktorý by
+rozhodoval o nejakej leteckej situácii,
+
+1075
+00:18:22,070 --> 00:18:22,080
+rozhodoval o nejakej leteckej situácii,
+
+1076
+00:18:22,080 --> 00:18:23,870
+rozhodoval o nejakej leteckej situácii,
+by horšie pracoval po tom, čo som doňho
+
+1077
+00:18:23,870 --> 00:18:23,880
+by horšie pracoval po tom, čo som doňho
+
+1078
+00:18:23,880 --> 00:18:25,750
+by horšie pracoval po tom, čo som doňho
+pridaný ja, ako keď tam nie som.
+
+1079
+00:18:25,750 --> 00:18:25,760
+pridaný ja, ako keď tam nie som.
+
+1080
+00:18:25,760 --> 00:18:25,990
+pridaný ja, ako keď tam nie som.
+>> Uhm.
+
+1081
+00:18:25,990 --> 00:18:26,000
+>> Uhm.
+
+1082
+00:18:26,000 --> 00:18:28,110
+>> Uhm.
+>> Hocijaký tím, ktorý potrebuje niečo
+
+1083
+00:18:28,110 --> 00:18:28,120
+>> Hocijaký tím, ktorý potrebuje niečo
+
+1084
+00:18:28,120 --> 00:18:30,470
+>> Hocijaký tím, ktorý potrebuje niečo
+robiť napríklad manuálne, tak minimálne
+
+1085
+00:18:30,470 --> 00:18:30,480
+robiť napríklad manuálne, tak minimálne
+
+1086
+00:18:30,480 --> 00:18:32,950
+robiť napríklad manuálne, tak minimálne
+tam nebudem zavadzať. Minimálne budem
+
+1087
+00:18:32,950 --> 00:18:32,960
+tam nebudem zavadzať. Minimálne budem
+
+1088
+00:18:32,960 --> 00:18:35,590
+tam nebudem zavadzať. Minimálne budem
+stáť v rohu a nebudem nič robiť. Hej. Že
+
+1089
+00:18:35,590 --> 00:18:35,600
+stáť v rohu a nebudem nič robiť. Hej. Že
+
+1090
+00:18:35,600 --> 00:18:37,590
+stáť v rohu a nebudem nič robiť. Hej. Že
+vieš sa dať z cesty. Pravdepodobne aspoň
+
+1091
+00:18:37,590 --> 00:18:37,600
+vieš sa dať z cesty. Pravdepodobne aspoň
+
+1092
+00:18:37,600 --> 00:18:39,630
+vieš sa dať z cesty. Pravdepodobne aspoň
+trošku pomôžem. Takže toto mi príde
+
+1093
+00:18:39,630 --> 00:18:39,640
+trošku pomôžem. Takže toto mi príde
+
+1094
+00:18:39,640 --> 00:18:41,630
+trošku pomôžem. Takže toto mi príde
+celkom zaujímavé, že veci, kde sa robí s
+
+1095
+00:18:41,630 --> 00:18:41,640
+celkom zaujímavé, že veci, kde sa robí s
+
+1096
+00:18:41,640 --> 00:18:44,149
+celkom zaujímavé, že veci, kde sa robí s
+energiou, tak tam platí čím viacej, tým
+
+1097
+00:18:44,149 --> 00:18:44,159
+energiou, tak tam platí čím viacej, tým
+
+1098
+00:18:44,159 --> 00:18:45,549
+energiou, tak tam platí čím viacej, tým
+viacej a veci, kde sa pracuje s
+
+1099
+00:18:45,549 --> 00:18:45,559
+viacej a veci, kde sa pracuje s
+
+1100
+00:18:45,559 --> 00:18:46,789
+viacej a veci, kde sa pracuje s
+informáciou, tak tam to už platiť
+
+1101
+00:18:46,789 --> 00:18:46,799
+informáciou, tak tam to už platiť
+
+1102
+00:18:46,799 --> 00:18:47,870
+informáciou, tak tam to už platiť
+nemusí.
+
+1103
+00:18:47,870 --> 00:18:47,880
+nemusí.
+
+1104
+00:18:47,880 --> 00:18:48,870
+nemusí.
+>> Hm.
+
+1105
+00:18:48,870 --> 00:18:48,880
+>> Hm.
+
+1106
+00:18:48,880 --> 00:18:50,230
+>> Hm.
+>> Takže to je tretia poznámka z môjho
+
+1107
+00:18:50,230 --> 00:18:50,240
+>> Takže to je tretia poznámka z môjho
+
+1108
+00:18:50,240 --> 00:18:50,470
+>> Takže to je tretia poznámka z môjho
+mobilu.
+
+1109
+00:18:50,470 --> 00:18:50,480
+mobilu.
+
+1110
+00:18:50,480 --> 00:18:53,669
+mobilu.
+>> To je zaujímavé inak akože hej,
+
+1111
+00:18:53,669 --> 00:18:53,679
+>> To je zaujímavé inak akože hej,
+
+1112
+00:18:53,679 --> 00:18:56,070
+>> To je zaujímavé inak akože hej,
+ale stále zase sú obmedzenia, že nevieš
+
+1113
+00:18:56,070 --> 00:18:56,080
+ale stále zase sú obmedzenia, že nevieš
+
+1114
+00:18:56,080 --> 00:18:58,149
+ale stále zase sú obmedzenia, že nevieš
+sa možno keď stavaš most, tak
+
+1115
+00:18:58,149 --> 00:18:58,159
+sa možno keď stavaš most, tak
+
+1116
+00:18:58,159 --> 00:18:59,830
+sa možno keď stavaš most, tak
+>> jasné, jasné, jasné. A nebudeš stavať,
+
+1117
+00:18:59,830 --> 00:18:59,840
+>> jasné, jasné, jasné. A nebudeš stavať,
+
+1118
+00:18:59,840 --> 00:19:01,470
+>> jasné, jasné, jasné. A nebudeš stavať,
+nebude milión ľudí stavať jeden most.
+
+1119
+00:19:01,470 --> 00:19:01,480
+nebude milión ľudí stavať jeden most.
+
+1120
+00:19:01,480 --> 00:19:01,830
+nebude milión ľudí stavať jeden most.
+Hej.
+
+1121
+00:19:01,830 --> 00:19:01,840
+Hej.
+
+1122
+00:19:01,840 --> 00:19:05,230
+Hej.
+>> Hej, hej. Presne. Dobre. Eh, tomuto inak
+
+1123
+00:19:05,230 --> 00:19:05,240
+>> Hej, hej. Presne. Dobre. Eh, tomuto inak
+
+1124
+00:19:05,240 --> 00:19:07,430
+>> Hej, hej. Presne. Dobre. Eh, tomuto inak
+nerozumiem tejto štvorke. Aké IQ dvoch
+
+1125
+00:19:07,430 --> 00:19:07,440
+nerozumiem tejto štvorke. Aké IQ dvoch
+
+1126
+00:19:07,440 --> 00:19:10,190
+nerozumiem tejto štvorke. Aké IQ dvoch
+ľudí? Akože, že keď dvaja sú, že či sú
+
+1127
+00:19:10,190 --> 00:19:10,200
+ľudí? Akože, že keď dvaja sú, že či sú
+
+1128
+00:19:10,200 --> 00:19:10,950
+ľudí? Akože, že keď dvaja sú, že či sú
+múdrejší?
+
+1129
+00:19:10,950 --> 00:19:10,960
+múdrejší?
+
+1130
+00:19:10,960 --> 00:19:13,350
+múdrejší?
+>> Áno. Že zoberieš viac hláv, viac rozumu.
+
+1131
+00:19:13,350 --> 00:19:13,360
+>> Áno. Že zoberieš viac hláv, viac rozumu.
+
+1132
+00:19:13,360 --> 00:19:15,029
+>> Áno. Že zoberieš viac hláv, viac rozumu.
+>> Áno. Že hovorí sa, že viac hlavu, viac
+
+1133
+00:19:15,029 --> 00:19:15,039
+>> Áno. Že hovorí sa, že viac hlavu, viac
+
+1134
+00:19:15,039 --> 00:19:17,390
+>> Áno. Že hovorí sa, že viac hlavu, viac
+rozumu. A už tušíš po tej pršlej otázke,
+
+1135
+00:19:17,390 --> 00:19:17,400
+rozumu. A už tušíš po tej pršlej otázke,
+
+1136
+00:19:17,400 --> 00:19:19,830
+rozumu. A už tušíš po tej pršlej otázke,
+že voči tomuto sa môžu mať výhradí
+
+1137
+00:19:19,830 --> 00:19:19,840
+že voči tomuto sa môžu mať výhradí
+
+1138
+00:19:19,840 --> 00:19:21,830
+že voči tomuto sa môžu mať výhradí
+ľudia. Predstav si, že zoberieš dvoch
+
+1139
+00:19:21,830 --> 00:19:21,840
+ľudia. Predstav si, že zoberieš dvoch
+
+1140
+00:19:21,840 --> 00:19:25,310
+ľudia. Predstav si, že zoberieš dvoch
+ľudí, Adam a Eva, dajme tomu. Obaja si
+
+1141
+00:19:25,310 --> 00:19:25,320
+ľudí, Adam a Eva, dajme tomu. Obaja si
+
+1142
+00:19:25,320 --> 00:19:29,350
+ľudí, Adam a Eva, dajme tomu. Obaja si
+spravia IQ test a vyjde výsledok 130.
+
+1143
+00:19:29,350 --> 00:19:29,360
+spravia IQ test a vyjde výsledok 130.
+
+1144
+00:19:29,360 --> 00:19:30,070
+spravia IQ test a vyjde výsledok 130.
+A potom
+
+1145
+00:19:30,070 --> 00:19:30,080
+A potom
+
+1146
+00:19:30,080 --> 00:19:30,750
+A potom
+>> 160
+
+1147
+00:19:30,750 --> 00:19:30,760
+>> 160
+
+1148
+00:19:30,760 --> 00:19:33,390
+>> 160
+>> a potom ich necháš riešiť ďalší IQ test.
+
+1149
+00:19:33,390 --> 00:19:33,400
+>> a potom ich necháš riešiť ďalší IQ test.
+
+1150
+00:19:33,400 --> 00:19:35,470
+>> a potom ich necháš riešiť ďalší IQ test.
+kde môžu spolupracovať a otázka je, že
+
+1151
+00:19:35,470 --> 00:19:35,480
+kde môžu spolupracovať a otázka je, že
+
+1152
+00:19:35,480 --> 00:19:37,190
+kde môžu spolupracovať a otázka je, že
+koľko im vyjde na tom spoločnom IQ
+
+1153
+00:19:37,190 --> 00:19:37,200
+koľko im vyjde na tom spoločnom IQ
+
+1154
+00:19:37,200 --> 00:19:38,990
+koľko im vyjde na tom spoločnom IQ
+teste?
+
+1155
+00:19:38,990 --> 00:19:39,000
+teste?
+
+1156
+00:19:39,000 --> 00:19:42,470
+teste?
+>> Podľa mňa pár malinko viacej.
+
+1157
+00:19:42,470 --> 00:19:42,480
+>> Podľa mňa pár malinko viacej.
+
+1158
+00:19:42,480 --> 00:19:45,149
+>> Podľa mňa pár malinko viacej.
+>> A neexistuje jednoznačná odpoveď. Silne
+
+1159
+00:19:45,149 --> 00:19:45,159
+>> A neexistuje jednoznačná odpoveď. Silne
+
+1160
+00:19:45,159 --> 00:19:47,190
+>> A neexistuje jednoznačná odpoveď. Silne
+to závisí. Ja som si ináč, že túto
+
+1161
+00:19:47,190 --> 00:19:47,200
+to závisí. Ja som si ináč, že túto
+
+1162
+00:19:47,200 --> 00:19:48,470
+to závisí. Ja som si ináč, že túto
+otázku som si položil, keď som teraz
+
+1163
+00:19:48,470 --> 00:19:48,480
+otázku som si položil, keď som teraz
+
+1164
+00:19:48,480 --> 00:19:49,950
+otázku som si položil, keď som teraz
+dopisoval knihu,
+
+1165
+00:19:49,950 --> 00:19:49,960
+dopisoval knihu,
+
+1166
+00:19:49,960 --> 00:19:52,750
+dopisoval knihu,
+>> ktorá vyjde na jeseň a
+
+1167
+00:19:52,750 --> 00:19:52,760
+>> ktorá vyjde na jeseň a
+
+1168
+00:19:52,760 --> 00:19:55,669
+>> ktorá vyjde na jeseň a
+a potom som si pozrel, že aké čo k tomu
+
+1169
+00:19:55,669 --> 00:19:55,679
+a potom som si pozrel, že aké čo k tomu
+
+1170
+00:19:55,679 --> 00:19:57,669
+a potom som si pozrel, že aké čo k tomu
+hovoria štúdie. A štúdie hovoria, že
+
+1171
+00:19:57,669 --> 00:19:57,679
+hovoria štúdie. A štúdie hovoria, že
+
+1172
+00:19:57,679 --> 00:19:59,549
+hovoria štúdie. A štúdie hovoria, že
+závisí od toho, akým spôsobom tých dvoch
+
+1173
+00:19:59,549 --> 00:19:59,559
+závisí od toho, akým spôsobom tých dvoch
+
+1174
+00:19:59,559 --> 00:20:01,630
+závisí od toho, akým spôsobom tých dvoch
+ľudí necháš spolupracovať alebo že akým
+
+1175
+00:20:01,630 --> 00:20:01,640
+ľudí necháš spolupracovať alebo že akým
+
+1176
+00:20:01,640 --> 00:20:03,070
+ľudí necháš spolupracovať alebo že akým
+spôsobom sa vyvinie spolupráca medzi
+
+1177
+00:20:03,070 --> 00:20:03,080
+spôsobom sa vyvinie spolupráca medzi
+
+1178
+00:20:03,080 --> 00:20:08,070
+spôsobom sa vyvinie spolupráca medzi
+nimi. Dajme tomu, ak bude Adam Alfa Čáo,
+
+1179
+00:20:08,070 --> 00:20:08,080
+nimi. Dajme tomu, ak bude Adam Alfa Čáo,
+
+1180
+00:20:08,080 --> 00:20:10,270
+nimi. Dajme tomu, ak bude Adam Alfa Čáo,
+čo nepočúva ostatných, lebo sledoval na
+
+1181
+00:20:10,270 --> 00:20:10,280
+čo nepočúva ostatných, lebo sledoval na
+
+1182
+00:20:10,280 --> 00:20:12,390
+čo nepočúva ostatných, lebo sledoval na
+TikToku Andrewho Tata.
+
+1183
+00:20:12,390 --> 00:20:12,400
+TikToku Andrewho Tata.
+
+1184
+00:20:12,400 --> 00:20:14,230
+TikToku Andrewho Tata.
+>> Tak výsledok to aj to potom je divné, že
+
+1185
+00:20:14,230 --> 00:20:14,240
+>> Tak výsledok to aj to potom je divné, že
+
+1186
+00:20:14,240 --> 00:20:18,750
+>> Tak výsledok to aj to potom je divné, že
+mu vyšlo 130 na tom teste. Eh, tak ten
+
+1187
+00:20:18,750 --> 00:20:18,760
+mu vyšlo 130 na tom teste. Eh, tak ten
+
+1188
+00:20:18,760 --> 00:20:20,470
+mu vyšlo 130 na tom teste. Eh, tak ten
+výsledok dvoch nebude lepší ako výsledok
+
+1189
+00:20:20,470 --> 00:20:20,480
+výsledok dvoch nebude lepší ako výsledok
+
+1190
+00:20:20,480 --> 00:20:21,710
+výsledok dvoch nebude lepší ako výsledok
+jedného, lebo ten jeden bude proste
+
+1191
+00:20:21,710 --> 00:20:21,720
+jedného, lebo ten jeden bude proste
+
+1192
+00:20:21,720 --> 00:20:24,510
+jedného, lebo ten jeden bude proste
+dominovať a nedá si poradiť. Naopak, ak
+
+1193
+00:20:24,510 --> 00:20:24,520
+dominovať a nedá si poradiť. Naopak, ak
+
+1194
+00:20:24,520 --> 00:20:26,950
+dominovať a nedá si poradiť. Naopak, ak
+máš dvoch ľudí, ktorí sú si vedomí
+
+1195
+00:20:26,950 --> 00:20:26,960
+máš dvoch ľudí, ktorí sú si vedomí
+
+1196
+00:20:26,960 --> 00:20:28,630
+máš dvoch ľudí, ktorí sú si vedomí
+svojich silných a slabých stránok a prvý
+
+1197
+00:20:28,630 --> 00:20:28,640
+svojich silných a slabých stránok a prvý
+
+1198
+00:20:28,640 --> 00:20:30,110
+svojich silných a slabých stránok a prvý
+vieš, že ja som dobrý na geometrické
+
+1199
+00:20:30,110 --> 00:20:30,120
+vieš, že ja som dobrý na geometrické
+
+1200
+00:20:30,120 --> 00:20:31,789
+vieš, že ja som dobrý na geometrické
+veci a ty si dobrý na prácu so slovami a
+
+1201
+00:20:31,789 --> 00:20:31,799
+veci a ty si dobrý na prácu so slovami a
+
+1202
+00:20:31,799 --> 00:20:33,830
+veci a ty si dobrý na prácu so slovami a
+rozdelia si tie úlohy, tak môžu
+
+1203
+00:20:33,830 --> 00:20:33,840
+rozdelia si tie úlohy, tak môžu
+
+1204
+00:20:33,840 --> 00:20:35,630
+rozdelia si tie úlohy, tak môžu
+dosiahnuť oveľa oveľa oveľa lepší
+
+1205
+00:20:35,630 --> 00:20:35,640
+dosiahnuť oveľa oveľa oveľa lepší
+
+1206
+00:20:35,640 --> 00:20:37,070
+dosiahnuť oveľa oveľa oveľa lepší
+výsledok.
+
+1207
+00:20:37,070 --> 00:20:37,080
+výsledok.
+
+1208
+00:20:37,080 --> 00:20:39,430
+výsledok.
+>> Uhm. A tá štúdia vlastne hovorí, že
+
+1209
+00:20:39,430 --> 00:20:39,440
+>> Uhm. A tá štúdia vlastne hovorí, že
+
+1210
+00:20:39,440 --> 00:20:42,190
+>> Uhm. A tá štúdia vlastne hovorí, že
+výborne fungovali skupiny,
+
+1211
+00:20:42,190 --> 00:20:42,200
+výborne fungovali skupiny,
+
+1212
+00:20:42,200 --> 00:20:45,270
+výborne fungovali skupiny,
+ktoré neboli význačné svojím priemerným
+
+1213
+00:20:45,270 --> 00:20:45,280
+ktoré neboli význačné svojím priemerným
+
+1214
+00:20:45,280 --> 00:20:48,430
+ktoré neboli význačné svojím priemerným
+IQ, ale svojím priemerným EQ v zmysle
+
+1215
+00:20:48,430 --> 00:20:48,440
+IQ, ale svojím priemerným EQ v zmysle
+
+1216
+00:20:48,440 --> 00:20:51,590
+IQ, ale svojím priemerným EQ v zmysle
+schopnosťou vnímať tieto veci, svoje
+
+1217
+00:20:51,590 --> 00:20:51,600
+schopnosťou vnímať tieto veci, svoje
+
+1218
+00:20:51,600 --> 00:20:54,270
+schopnosťou vnímať tieto veci, svoje
+silné stránky, slabé stránky a rovnako
+
+1219
+00:20:54,270 --> 00:20:54,280
+silné stránky, slabé stránky a rovnako
+
+1220
+00:20:54,280 --> 00:20:56,190
+silné stránky, slabé stránky a rovnako
+slabé a silné stránky ostatných a
+
+1221
+00:20:56,190 --> 00:20:56,200
+slabé a silné stránky ostatných a
+
+1222
+00:20:56,200 --> 00:20:57,870
+slabé a silné stránky ostatných a
+zároveň vedeli fungovať ako tým, že
+
+1223
+00:20:57,870 --> 00:20:57,880
+zároveň vedeli fungovať ako tým, že
+
+1224
+00:20:57,880 --> 00:20:59,549
+zároveň vedeli fungovať ako tým, že
+vedeli sa ľudsky zladiť, vieš, že tam
+
+1225
+00:20:59,549 --> 00:20:59,559
+vedeli sa ľudsky zladiť, vieš, že tam
+
+1226
+00:20:59,559 --> 00:21:01,830
+vedeli sa ľudsky zladiť, vieš, že tam
+neboli nejakí egobanáni, ktorí by
+
+1227
+00:21:01,830 --> 00:21:01,840
+neboli nejakí egobanáni, ktorí by
+
+1228
+00:21:01,840 --> 00:21:04,430
+neboli nejakí egobanáni, ktorí by
+>> ktorí by proste tú diskusiu dominovali.
+
+1229
+00:21:04,430 --> 00:21:04,440
+>> ktorí by proste tú diskusiu dominovali.
+
+1230
+00:21:04,440 --> 00:21:06,190
+>> ktorí by proste tú diskusiu dominovali.
+A toto mi príde celkom zaujímavé, teda,
+
+1231
+00:21:06,190 --> 00:21:06,200
+A toto mi príde celkom zaujímavé, teda,
+
+1232
+00:21:06,200 --> 00:21:08,950
+A toto mi príde celkom zaujímavé, teda,
+že nejde len o ingrediencie, ale aj o
+
+1233
+00:21:08,950 --> 00:21:08,960
+že nejde len o ingrediencie, ale aj o
+
+1234
+00:21:08,960 --> 00:21:11,830
+že nejde len o ingrediencie, ale aj o
+to, ako ich zladíš dokopy. Teda, že ako
+
+1235
+00:21:11,830 --> 00:21:11,840
+to, ako ich zladíš dokopy. Teda, že ako
+
+1236
+00:21:11,840 --> 00:21:13,510
+to, ako ich zladíš dokopy. Teda, že ako
+necháš ľudí spolupracovať a od toho
+
+1237
+00:21:13,510 --> 00:21:13,520
+necháš ľudí spolupracovať a od toho
+
+1238
+00:21:13,520 --> 00:21:15,430
+necháš ľudí spolupracovať a od toho
+závisí výsledok, ktorý urobia. A toto
+
+1239
+00:21:15,430 --> 00:21:15,440
+závisí výsledok, ktorý urobia. A toto
+
+1240
+00:21:15,440 --> 00:21:18,310
+závisí výsledok, ktorý urobia. A toto
+podľa mňa my dvaja sme nepresiedeli teda
+
+1241
+00:21:18,310 --> 00:21:18,320
+podľa mňa my dvaja sme nepresiedeli teda
+
+1242
+00:21:18,320 --> 00:21:19,750
+podľa mňa my dvaja sme nepresiedeli teda
+veľa času v korporátoch, ale podľa mňa,
+
+1243
+00:21:19,750 --> 00:21:19,760
+veľa času v korporátoch, ale podľa mňa,
+
+1244
+00:21:19,760 --> 00:21:21,630
+veľa času v korporátoch, ale podľa mňa,
+že každý z našich poslucháčov, ktorý
+
+1245
+00:21:21,630 --> 00:21:21,640
+že každý z našich poslucháčov, ktorý
+
+1246
+00:21:21,640 --> 00:21:23,190
+že každý z našich poslucháčov, ktorý
+robí v korporáte si hovorí, že wau, tak
+
+1247
+00:21:23,190 --> 00:21:23,200
+robí v korporáte si hovorí, že wau, tak
+
+1248
+00:21:23,200 --> 00:21:25,269
+robí v korporáte si hovorí, že wau, tak
+títo dvaja objavili Ameriku, lebo toto
+
+1249
+00:21:25,269 --> 00:21:25,279
+títo dvaja objavili Ameriku, lebo toto
+
+1250
+00:21:25,279 --> 00:21:27,750
+títo dvaja objavili Ameriku, lebo toto
+asi platí v mnohých tímoch, že tam máš
+
+1251
+00:21:27,750 --> 00:21:27,760
+asi platí v mnohých tímoch, že tam máš
+
+1252
+00:21:27,760 --> 00:21:27,990
+asi platí v mnohých tímoch, že tam máš
+proste.
+
+1253
+00:21:27,990 --> 00:21:28,000
+proste.
+
+1254
+00:21:28,000 --> 00:21:30,590
+proste.
+>> Podľa mňa každý v korporáte, že IQ ide
+
+1255
+00:21:30,590 --> 00:21:30,600
+>> Podľa mňa každý v korporáte, že IQ ide
+
+1256
+00:21:30,600 --> 00:21:33,830
+>> Podľa mňa každý v korporáte, že IQ ide
+dole, či viacej ľudí je na tasku. Ale to
+
+1257
+00:21:33,830 --> 00:21:33,840
+dole, či viacej ľudí je na tasku. Ale to
+
+1258
+00:21:33,840 --> 00:21:35,230
+dole, či viacej ľudí je na tasku. Ale to
+sú presne tie situácie, že máš tam
+
+1259
+00:21:35,230 --> 00:21:35,240
+sú presne tie situácie, že máš tam
+
+1260
+00:21:35,240 --> 00:21:39,990
+sú presne tie situácie, že máš tam
+niekoho, kto dominuje diskusii a
+
+1261
+00:21:39,990 --> 00:21:40,000
+niekoho, kto dominuje diskusii a
+
+1262
+00:21:40,000 --> 00:21:41,510
+niekoho, kto dominuje diskusii a
+nechcem povedať, že je blbší ako
+
+1263
+00:21:41,510 --> 00:21:41,520
+nechcem povedať, že je blbší ako
+
+1264
+00:21:41,520 --> 00:21:43,110
+nechcem povedať, že je blbší ako
+ostatní. Nenutne musí, ale nevie
+
+1265
+00:21:43,110 --> 00:21:43,120
+ostatní. Nenutne musí, ale nevie
+
+1266
+00:21:43,120 --> 00:21:44,990
+ostatní. Nenutne musí, ale nevie
+využívať silné stránky ostatných, aby
+
+1267
+00:21:44,990 --> 00:21:45,000
+využívať silné stránky ostatných, aby
+
+1268
+00:21:45,000 --> 00:21:46,230
+využívať silné stránky ostatných, aby
+povzniesol
+
+1269
+00:21:46,230 --> 00:21:46,240
+povzniesol
+
+1270
+00:21:46,240 --> 00:21:47,789
+povzniesol
+>> tie svoje vlastné schopnosti, že toto
+
+1271
+00:21:47,789 --> 00:21:47,799
+>> tie svoje vlastné schopnosti, že toto
+
+1272
+00:21:47,799 --> 00:21:49,190
+>> tie svoje vlastné schopnosti, že toto
+teda oddeľuje
+
+1273
+00:21:49,190 --> 00:21:49,200
+teda oddeľuje
+
+1274
+00:21:49,200 --> 00:21:50,950
+teda oddeľuje
+>> dobrých lídrov od zlých, že dobrí lídri
+
+1275
+00:21:50,950 --> 00:21:50,960
+>> dobrých lídrov od zlých, že dobrí lídri
+
+1276
+00:21:50,960 --> 00:21:53,230
+>> dobrých lídrov od zlých, že dobrí lídri
+sa vedia klopiť šikovnými ľuďmi a vedia,
+
+1277
+00:21:53,230 --> 00:21:53,240
+sa vedia klopiť šikovnými ľuďmi a vedia,
+
+1278
+00:21:53,240 --> 00:21:55,470
+sa vedia klopiť šikovnými ľuďmi a vedia,
+kto je šikovný v čom a podľa toho ich
+
+1279
+00:21:55,470 --> 00:21:55,480
+kto je šikovný v čom a podľa toho ich
+
+1280
+00:21:55,480 --> 00:21:57,390
+kto je šikovný v čom a podľa toho ich
+namiešajú na dané úlohy.
+
+1281
+00:21:57,390 --> 00:21:57,400
+namiešajú na dané úlohy.
+
+1282
+00:21:57,400 --> 00:21:57,669
+namiešajú na dané úlohy.
+>> OK.
+
+1283
+00:21:57,669 --> 00:21:57,679
+>> OK.
+
+1284
+00:21:57,679 --> 00:22:01,310
+>> OK.
+>> Takže Takže také IQ2. že, ale hej, to
+
+1285
+00:22:01,310 --> 00:22:01,320
+>> Takže Takže také IQ2. že, ale hej, to
+
+1286
+00:22:01,320 --> 00:22:03,510
+>> Takže Takže také IQ2. že, ale hej, to
+inak eh veľmi sa to podľa mňa prejavuje
+
+1287
+00:22:03,510 --> 00:22:03,520
+inak eh veľmi sa to podľa mňa prejavuje
+
+1288
+00:22:03,520 --> 00:22:07,110
+inak eh veľmi sa to podľa mňa prejavuje
+v týchto v escape room.
+
+1289
+00:22:07,110 --> 00:22:07,120
+v týchto v escape room.
+
+1290
+00:22:07,120 --> 00:22:08,110
+v týchto v escape room.
+>> Uhm,
+
+1291
+00:22:08,110 --> 00:22:08,120
+>> Uhm,
+
+1292
+00:22:08,120 --> 00:22:09,909
+>> Uhm,
+>> že keď niekto ne Bol som na jednej
+
+1293
+00:22:09,909 --> 00:22:09,919
+>> že keď niekto ne Bol som na jednej
+
+1294
+00:22:09,919 --> 00:22:11,830
+>> že keď niekto ne Bol som na jednej
+escape room s pár ľuďmi, čo som moc
+
+1295
+00:22:11,830 --> 00:22:11,840
+escape room s pár ľuďmi, čo som moc
+
+1296
+00:22:11,840 --> 00:22:14,430
+escape room s pár ľuďmi, čo som moc
+dobre nepoznal a
+
+1297
+00:22:14,430 --> 00:22:14,440
+dobre nepoznal a
+
+1298
+00:22:14,440 --> 00:22:16,549
+dobre nepoznal a
+človek, čo má problém kooperovať, je
+
+1299
+00:22:16,549 --> 00:22:16,559
+človek, čo má problém kooperovať, je
+
+1300
+00:22:16,559 --> 00:22:21,830
+človek, čo má problém kooperovať, je
+hrozný a byť s ním na nejaké
+
+1301
+00:22:21,830 --> 00:22:21,840
+hrozný a byť s ním na nejaké
+
+1302
+00:22:21,840 --> 00:22:25,430
+hrozný a byť s ním na nejaké
+>> hádanie a solovanie a tak ďalej. Takže,
+
+1303
+00:22:25,430 --> 00:22:25,440
+>> hádanie a solovanie a tak ďalej. Takže,
+
+1304
+00:22:25,440 --> 00:22:26,710
+>> hádanie a solovanie a tak ďalej. Takže,
+>> ale to je ináč presne, že aj keď ideme
+
+1305
+00:22:26,710 --> 00:22:26,720
+>> ale to je ináč presne, že aj keď ideme
+
+1306
+00:22:26,720 --> 00:22:28,990
+>> ale to je ináč presne, že aj keď ideme
+na nejakú šifrovačku, tak vieme, že toto
+
+1307
+00:22:28,990 --> 00:22:29,000
+na nejakú šifrovačku, tak vieme, že toto
+
+1308
+00:22:29,000 --> 00:22:31,669
+na nejakú šifrovačku, tak vieme, že toto
+je úloha, ktorá pôjde tomu a tomu a
+
+1309
+00:22:31,669 --> 00:22:31,679
+je úloha, ktorá pôjde tomu a tomu a
+
+1310
+00:22:31,679 --> 00:22:33,269
+je úloha, ktorá pôjde tomu a tomu a
+presne vieš, že
+
+1311
+00:22:33,269 --> 00:22:33,279
+presne vieš, že
+
+1312
+00:22:33,279 --> 00:22:34,470
+presne vieš, že
+>> ja sa pozriem na niektoré osoby a
+
+1313
+00:22:34,470 --> 00:22:34,480
+>> ja sa pozriem na niektoré osoby a
+
+1314
+00:22:34,480 --> 00:22:36,710
+>> ja sa pozriem na niektoré osoby a
+poviem, že že toto toto mi dajte rovno z
+
+1315
+00:22:36,710 --> 00:22:36,720
+poviem, že že toto toto mi dajte rovno z
+
+1316
+00:22:36,720 --> 00:22:38,230
+poviem, že že toto toto mi dajte rovno z
+očí, lebo
+
+1317
+00:22:38,230 --> 00:22:38,240
+očí, lebo
+
+1318
+00:22:38,240 --> 00:22:42,269
+očí, lebo
+>> mne mne sedela mdlo. Fuj.
+
+1319
+00:22:42,269 --> 00:22:42,279
+>> mne mne sedela mdlo. Fuj.
+
+1320
+00:22:42,279 --> 00:22:44,430
+>> mne mne sedela mdlo. Fuj.
+>> Dobre, tak viete, eh keď budete
+
+1321
+00:22:44,430 --> 00:22:44,440
+>> Dobre, tak viete, eh keď budete
+
+1322
+00:22:44,440 --> 00:22:46,149
+>> Dobre, tak viete, eh keď budete
+spočítavať IQ svoje, tak niekoho
+
+1323
+00:22:46,149 --> 00:22:46,159
+spočítavať IQ svoje, tak niekoho
+
+1324
+00:22:46,159 --> 00:22:47,710
+spočítavať IQ svoje, tak niekoho
+inteligentného si zoberte, ktorý je
+
+1325
+00:22:47,710 --> 00:22:47,720
+inteligentného si zoberte, ktorý je
+
+1326
+00:22:47,720 --> 00:22:48,789
+inteligentného si zoberte, ktorý je
+dobrý v kooperácii.
+
+1327
+00:22:48,789 --> 00:22:48,799
+dobrý v kooperácii.
+
+1328
+00:22:48,799 --> 00:22:49,350
+dobrý v kooperácii.
+>> Uhm.
+
+1329
+00:22:49,350 --> 00:22:49,360
+>> Uhm.
+
+1330
+00:22:49,360 --> 00:22:52,230
+>> Uhm.
+>> Eh, o čom je nová kniha Harryho? Eh,
+
+1331
+00:22:52,230 --> 00:22:52,240
+>> Eh, o čom je nová kniha Harryho? Eh,
+
+1332
+00:22:52,240 --> 00:22:54,029
+>> Eh, o čom je nová kniha Harryho? Eh,
+Haro, Hararyho, tak
+
+1333
+00:22:54,029 --> 00:22:54,039
+Haro, Hararyho, tak
+
+1334
+00:22:54,039 --> 00:22:55,269
+Haro, Hararyho, tak
+>> Harryho Pottera,
+
+1335
+00:22:55,269 --> 00:22:55,279
+>> Harryho Pottera,
+
+1336
+00:22:55,279 --> 00:22:57,070
+>> Harryho Pottera,
+>> nie? Ja som z tohto Harryho Sheldona,
+
+1337
+00:22:57,070 --> 00:22:57,080
+>> nie? Ja som z tohto Harryho Sheldona,
+
+1338
+00:22:57,080 --> 00:22:58,669
+>> nie? Ja som z tohto Harryho Sheldona,
+vieš.
+
+1339
+00:22:58,669 --> 00:22:58,679
+vieš.
+
+1340
+00:22:58,679 --> 00:23:00,590
+vieš.
+>> Som na štvrtej nadácii, vieš. Tak
+
+1341
+00:23:00,590 --> 00:23:00,600
+>> Som na štvrtej nadácii, vieš. Tak
+
+1342
+00:23:00,600 --> 00:23:03,110
+>> Som na štvrtej nadácii, vieš. Tak
+>> no. Ty čítavaš eh Hararyho knihy? Mal
+
+1343
+00:23:03,110 --> 00:23:03,120
+>> no. Ty čítavaš eh Hararyho knihy? Mal
+
+1344
+00:23:03,120 --> 00:23:03,789
+>> no. Ty čítavaš eh Hararyho knihy? Mal
+Sapiens Homode?
+
+1345
+00:23:03,789 --> 00:23:03,799
+Sapiens Homode?
+
+1346
+00:23:03,799 --> 00:23:09,190
+Sapiens Homode?
+>> Eh, čítal som Homodeus a eh tá prvá bola
+
+1347
+00:23:09,190 --> 00:23:09,200
+>> Eh, čítal som Homodeus a eh tá prvá bola
+
+1348
+00:23:09,200 --> 00:23:09,710
+>> Eh, čítal som Homodeus a eh tá prvá bola
+eh
+
+1349
+00:23:09,710 --> 00:23:09,720
+eh
+
+1350
+00:23:09,720 --> 00:23:10,590
+eh
+>> Sapiens.
+
+1351
+00:23:10,590 --> 00:23:10,600
+>> Sapiens.
+
+1352
+00:23:10,600 --> 00:23:13,390
+>> Sapiens.
+>> Sapience? Áno. Tieto dve som čítal. Tak
+
+1353
+00:23:13,390 --> 00:23:13,400
+>> Sapience? Áno. Tieto dve som čítal. Tak
+
+1354
+00:23:13,400 --> 00:23:15,870
+>> Sapience? Áno. Tieto dve som čítal. Tak
+on vydal novú, ktorá je o všeličom, ale
+
+1355
+00:23:15,870 --> 00:23:15,880
+on vydal novú, ktorá je o všeličom, ale
+
+1356
+00:23:15,880 --> 00:23:18,909
+on vydal novú, ktorá je o všeličom, ale
+jeden zaujímavý bod tam bol
+
+1357
+00:23:18,909 --> 00:23:18,919
+jeden zaujímavý bod tam bol
+
+1358
+00:23:18,919 --> 00:23:20,750
+jeden zaujímavý bod tam bol
+o tom, ako fungujú rôzne spoločnosti, že
+
+1359
+00:23:20,750 --> 00:23:20,760
+o tom, ako fungujú rôzne spoločnosti, že
+
+1360
+00:23:20,760 --> 00:23:22,390
+o tom, ako fungujú rôzne spoločnosti, že
+my často delíme, že toto je krajina,
+
+1361
+00:23:22,390 --> 00:23:22,400
+my často delíme, že toto je krajina,
+
+1362
+00:23:22,400 --> 00:23:24,870
+my často delíme, že toto je krajina,
+ktorá je viacej ľavicovo orientovaná,
+
+1363
+00:23:24,870 --> 00:23:24,880
+ktorá je viacej ľavicovo orientovaná,
+
+1364
+00:23:24,880 --> 00:23:26,190
+ktorá je viacej ľavicovo orientovaná,
+pravicovo
+
+1365
+00:23:26,190 --> 00:23:26,200
+pravicovo
+
+1366
+00:23:26,200 --> 00:23:26,510
+pravicovo
+>> uhm
+
+1367
+00:23:26,510 --> 00:23:26,520
+>> uhm
+
+1368
+00:23:26,520 --> 00:23:28,950
+>> uhm
+>> demokratická, autoritárska a tak ďalej.
+
+1369
+00:23:28,950 --> 00:23:28,960
+>> demokratická, autoritárska a tak ďalej.
+
+1370
+00:23:28,960 --> 00:23:31,269
+>> demokratická, autoritárska a tak ďalej.
+A on povedal, že rozumný pohľad je na
+
+1371
+00:23:31,269 --> 00:23:31,279
+A on povedal, že rozumný pohľad je na
+
+1372
+00:23:31,279 --> 00:23:33,029
+A on povedal, že rozumný pohľad je na
+to, že čo robia dané spoločnosti s
+
+1373
+00:23:33,029 --> 00:23:33,039
+to, že čo robia dané spoločnosti s
+
+1374
+00:23:33,039 --> 00:23:35,029
+to, že čo robia dané spoločnosti s
+informáciami
+
+1375
+00:23:35,029 --> 00:23:35,039
+informáciami
+
+1376
+00:23:35,039 --> 00:23:36,549
+informáciami
+a že to, čo robia rôzne totalitné
+
+1377
+00:23:36,549 --> 00:23:36,559
+a že to, čo robia rôzne totalitné
+
+1378
+00:23:36,559 --> 00:23:37,909
+a že to, čo robia rôzne totalitné
+režimy, je, že tie informácie
+
+1379
+00:23:37,909 --> 00:23:37,919
+režimy, je, že tie informácie
+
+1380
+00:23:37,919 --> 00:23:40,269
+režimy, je, že tie informácie
+koncentrujú v jednom bode, že máš nejaké
+
+1381
+00:23:40,269 --> 00:23:40,279
+koncentrujú v jednom bode, že máš nejaké
+
+1382
+00:23:40,279 --> 00:23:42,070
+koncentrujú v jednom bode, že máš nejaké
+toho buď jedného vodca alebo nejaké
+
+1383
+00:23:42,070 --> 00:23:42,080
+toho buď jedného vodca alebo nejaké
+
+1384
+00:23:42,080 --> 00:23:43,110
+toho buď jedného vodca alebo nejaké
+biro,
+
+1385
+00:23:43,110 --> 00:23:43,120
+biro,
+
+1386
+00:23:43,120 --> 00:23:44,909
+biro,
+>> kam prichádzajú informácie z celej
+
+1387
+00:23:44,909 --> 00:23:44,919
+>> kam prichádzajú informácie z celej
+
+1388
+00:23:44,919 --> 00:23:47,190
+>> kam prichádzajú informácie z celej
+krajiny a potom tam sa dejú rozhodnutia
+
+1389
+00:23:47,190 --> 00:23:47,200
+krajiny a potom tam sa dejú rozhodnutia
+
+1390
+00:23:47,200 --> 00:23:48,710
+krajiny a potom tam sa dejú rozhodnutia
+a pokyny sa potom vracujú do celej
+
+1391
+00:23:48,710 --> 00:23:48,720
+a pokyny sa potom vracujú do celej
+
+1392
+00:23:48,720 --> 00:23:50,350
+a pokyny sa potom vracujú do celej
+krajiny, že ako keby centrálna nervová
+
+1393
+00:23:50,350 --> 00:23:50,360
+krajiny, že ako keby centrálna nervová
+
+1394
+00:23:50,360 --> 00:23:52,390
+krajiny, že ako keby centrálna nervová
+sústava koncentrovaná v jednom bode,
+
+1395
+00:23:52,390 --> 00:23:52,400
+sústava koncentrovaná v jednom bode,
+
+1396
+00:23:52,400 --> 00:23:52,830
+sústava koncentrovaná v jednom bode,
+>> hej,
+
+1397
+00:23:52,830 --> 00:23:52,840
+>> hej,
+
+1398
+00:23:52,840 --> 00:23:55,149
+>> hej,
+>> signály prichádzajú do toho jedného bodu
+
+1399
+00:23:55,149 --> 00:23:55,159
+>> signály prichádzajú do toho jedného bodu
+
+1400
+00:23:55,159 --> 00:23:57,710
+>> signály prichádzajú do toho jedného bodu
+a odtiaľ sa potom vracajú späť a potom
+
+1401
+00:23:57,710 --> 00:23:57,720
+a odtiaľ sa potom vracajú späť a potom
+
+1402
+00:23:57,720 --> 00:24:00,269
+a odtiaľ sa potom vracajú späť a potom
+až inak iné spoločnosti, otvorené
+
+1403
+00:24:00,269 --> 00:24:00,279
+až inak iné spoločnosti, otvorené
+
+1404
+00:24:00,279 --> 00:24:03,430
+až inak iné spoločnosti, otvorené
+spoločnosti, že kde máš takú sieť, kde
+
+1405
+00:24:03,430 --> 00:24:03,440
+spoločnosti, že kde máš takú sieť, kde
+
+1406
+00:24:03,440 --> 00:24:05,590
+spoločnosti, že kde máš takú sieť, kde
+tie informácie sa šíria tak slobodne,
+
+1407
+00:24:05,590 --> 00:24:05,600
+tie informácie sa šíria tak slobodne,
+
+1408
+00:24:05,600 --> 00:24:07,990
+tie informácie sa šíria tak slobodne,
+ako sa len môžu a potom sa prirodzene
+
+1409
+00:24:07,990 --> 00:24:08,000
+ako sa len môžu a potom sa prirodzene
+
+1410
+00:24:08,000 --> 00:24:09,830
+ako sa len môžu a potom sa prirodzene
+selektujú, že kto je vhodný na riešenie
+
+1411
+00:24:09,830 --> 00:24:09,840
+selektujú, že kto je vhodný na riešenie
+
+1412
+00:24:09,840 --> 00:24:11,110
+selektujú, že kto je vhodný na riešenie
+ktorej úlohy.
+
+1413
+00:24:11,110 --> 00:24:11,120
+ktorej úlohy.
+
+1414
+00:24:11,120 --> 00:24:12,350
+ktorej úlohy.
+>> Hm.
+
+1415
+00:24:12,350 --> 00:24:12,360
+>> Hm.
+
+1416
+00:24:12,360 --> 00:24:15,510
+>> Hm.
+A že ono je to v znova niečom, že len
+
+1417
+00:24:15,510 --> 00:24:15,520
+A že ono je to v znova niečom, že len
+
+1418
+00:24:15,520 --> 00:24:18,350
+A že ono je to v znova niečom, že len
+prerozprávané taký ten rozdiel medzi
+
+1419
+00:24:18,350 --> 00:24:18,360
+prerozprávané taký ten rozdiel medzi
+
+1420
+00:24:18,360 --> 00:24:20,590
+prerozprávané taký ten rozdiel medzi
+totalitnými režimami a demokraciou, ale
+
+1421
+00:24:20,590 --> 00:24:20,600
+totalitnými režimami a demokraciou, ale
+
+1422
+00:24:20,600 --> 00:24:22,190
+totalitnými režimami a demokraciou, ale
+znova, že z pohľadom informácie, že
+
+1423
+00:24:22,190 --> 00:24:22,200
+znova, že z pohľadom informácie, že
+
+1424
+00:24:22,200 --> 00:24:24,710
+znova, že z pohľadom informácie, že
+>> to je to je pekný eh to je pekný pohľad
+
+1425
+00:24:24,710 --> 00:24:24,720
+>> to je to je pekný eh to je pekný pohľad
+
+1426
+00:24:24,720 --> 00:24:26,870
+>> to je to je pekný eh to je pekný pohľad
+na to, lebo to som sa nikdy nezamyslel
+
+1427
+00:24:26,870 --> 00:24:26,880
+na to, lebo to som sa nikdy nezamyslel
+
+1428
+00:24:26,880 --> 00:24:29,269
+na to, lebo to som sa nikdy nezamyslel
+nad tými informáciami, že ako fungujú v
+
+1429
+00:24:29,269 --> 00:24:29,279
+nad tými informáciami, že ako fungujú v
+
+1430
+00:24:29,279 --> 00:24:30,750
+nad tými informáciami, že ako fungujú v
+totalitách a tak. že
+
+1431
+00:24:30,750 --> 00:24:30,760
+totalitách a tak. že
+
+1432
+00:24:30,760 --> 00:24:32,350
+totalitách a tak. že
+>> tak a keď sa na to pozrieš v kontexte
+
+1433
+00:24:32,350 --> 00:24:32,360
+>> tak a keď sa na to pozrieš v kontexte
+
+1434
+00:24:32,360 --> 00:24:33,630
+>> tak a keď sa na to pozrieš v kontexte
+tých predošlých vecí, o ktorých sme sa
+
+1435
+00:24:33,630 --> 00:24:33,640
+tých predošlých vecí, o ktorých sme sa
+
+1436
+00:24:33,640 --> 00:24:36,110
+tých predošlých vecí, o ktorých sme sa
+rozprávali, tak bod aké IQ dvoch ľudí,
+
+1437
+00:24:36,110 --> 00:24:36,120
+rozprávali, tak bod aké IQ dvoch ľudí,
+
+1438
+00:24:36,120 --> 00:24:38,350
+rozprávali, tak bod aké IQ dvoch ľudí,
+keď natiahneš na celý národ, že aké IQ
+
+1439
+00:24:38,350 --> 00:24:38,360
+keď natiahneš na celý národ, že aké IQ
+
+1440
+00:24:38,360 --> 00:24:41,710
+keď natiahneš na celý národ, že aké IQ
+národa, nezávisel od toho, aké aké sú
+
+1441
+00:24:41,710 --> 00:24:41,720
+národa, nezávisel od toho, aké aké sú
+
+1442
+00:24:41,720 --> 00:24:43,710
+národa, nezávisel od toho, aké aké sú
+schopnosti, teda nienne len inteligencia
+
+1443
+00:24:43,710 --> 00:24:43,720
+schopnosti, teda nienne len inteligencia
+
+1444
+00:24:43,720 --> 00:24:45,389
+schopnosti, teda nienne len inteligencia
+jednotlivých členov spoločnosti, ale aj
+
+1445
+00:24:45,389 --> 00:24:45,399
+jednotlivých členov spoločnosti, ale aj
+
+1446
+00:24:45,399 --> 00:24:46,830
+jednotlivých členov spoločnosti, ale aj
+od toho, akým spôsobom ich necháš
+
+1447
+00:24:46,830 --> 00:24:46,840
+od toho, akým spôsobom ich necháš
+
+1448
+00:24:46,840 --> 00:24:48,430
+od toho, akým spôsobom ich necháš
+kooperovať.
+
+1449
+00:24:48,430 --> 00:24:48,440
+kooperovať.
+
+1450
+00:24:48,440 --> 00:24:50,070
+kooperovať.
+A v tomto je samozrejme veľký problém
+
+1451
+00:24:50,070 --> 00:24:50,080
+A v tomto je samozrejme veľký problém
+
+1452
+00:24:50,080 --> 00:24:52,789
+A v tomto je samozrejme veľký problém
+toho centralizovaného systému, lebo ono
+
+1453
+00:24:52,789 --> 00:24:52,799
+toho centralizovaného systému, lebo ono
+
+1454
+00:24:52,799 --> 00:24:54,669
+toho centralizovaného systému, lebo ono
+dáva horné ohraničenie na inteligenciu
+
+1455
+00:24:54,669 --> 00:24:54,679
+dáva horné ohraničenie na inteligenciu
+
+1456
+00:24:54,679 --> 00:24:56,110
+dáva horné ohraničenie na inteligenciu
+celého národa. Že potom je to také
+
+1457
+00:24:56,110 --> 00:24:56,120
+celého národa. Že potom je to také
+
+1458
+00:24:56,120 --> 00:24:58,350
+celého národa. Že potom je to také
+inteligentné, inteligentné v zmysle, že
+
+1459
+00:24:58,350 --> 00:24:58,360
+inteligentné, inteligentné v zmysle, že
+
+1460
+00:24:58,360 --> 00:25:00,510
+inteligentné, inteligentné v zmysle, že
+ako vieš riešiť krízy, ako vieš plánovať
+
+1461
+00:25:00,510 --> 00:25:00,520
+ako vieš riešiť krízy, ako vieš plánovať
+
+1462
+00:25:00,520 --> 00:25:02,350
+ako vieš riešiť krízy, ako vieš plánovať
+do budúcnosti, ako vieš reagovať na
+
+1463
+00:25:02,350 --> 00:25:02,360
+do budúcnosti, ako vieš reagovať na
+
+1464
+00:25:02,360 --> 00:25:04,230
+do budúcnosti, ako vieš reagovať na
+podnety,
+
+1465
+00:25:04,230 --> 00:25:04,240
+podnety,
+
+1466
+00:25:04,240 --> 00:25:05,990
+podnety,
+tak je to také inteligentné, ako je ten
+
+1467
+00:25:05,990 --> 00:25:06,000
+tak je to také inteligentné, ako je ten
+
+1468
+00:25:06,000 --> 00:25:07,789
+tak je to také inteligentné, ako je ten
+centrálny bod, do ktorého sa to všetko
+
+1469
+00:25:07,789 --> 00:25:07,799
+centrálny bod, do ktorého sa to všetko
+
+1470
+00:25:07,799 --> 00:25:10,149
+centrálny bod, do ktorého sa to všetko
+zlieva a vylieva. A preto sú vlastne
+
+1471
+00:25:10,149 --> 00:25:10,159
+zlieva a vylieva. A preto sú vlastne
+
+1472
+00:25:10,159 --> 00:25:12,430
+zlieva a vylieva. A preto sú vlastne
+pomerne neobratné mnohé také režimy.
+
+1473
+00:25:12,430 --> 00:25:12,440
+pomerne neobratné mnohé také režimy.
+
+1474
+00:25:12,440 --> 00:25:15,029
+pomerne neobratné mnohé také režimy.
+>> Takže lepšie sú krajiny, ktoré majú
+
+1475
+00:25:15,029 --> 00:25:15,039
+>> Takže lepšie sú krajiny, ktoré majú
+
+1476
+00:25:15,039 --> 00:25:16,909
+>> Takže lepšie sú krajiny, ktoré majú
+voľný prístup k informáciám a
+
+1477
+00:25:16,909 --> 00:25:16,919
+voľný prístup k informáciám a
+
+1478
+00:25:16,919 --> 00:25:18,230
+voľný prístup k informáciám a
+nekoncentruje sa to nikde.
+
+1479
+00:25:18,230 --> 00:25:18,240
+nekoncentruje sa to nikde.
+
+1480
+00:25:18,240 --> 00:25:20,389
+nekoncentruje sa to nikde.
+>> Tak presne, lebo potom stojíš a padáš na
+
+1481
+00:25:20,389 --> 00:25:20,399
+>> Tak presne, lebo potom stojíš a padáš na
+
+1482
+00:25:20,399 --> 00:25:21,950
+>> Tak presne, lebo potom stojíš a padáš na
+nejakej veľmi malej skupine a nemáš tú
+
+1483
+00:25:21,950 --> 00:25:21,960
+nejakej veľmi malej skupine a nemáš tú
+
+1484
+00:25:21,960 --> 00:25:24,669
+nejakej veľmi malej skupine a nemáš tú
+možnosť eh nechávať ostatných, aby do
+
+1485
+00:25:24,669 --> 00:25:24,679
+možnosť eh nechávať ostatných, aby do
+
+1486
+00:25:24,679 --> 00:25:25,710
+možnosť eh nechávať ostatných, aby do
+toho zapadali.
+
+1487
+00:25:25,710 --> 00:25:25,720
+toho zapadali.
+
+1488
+00:25:25,720 --> 00:25:26,269
+toho zapadali.
+>> Hm.
+
+1489
+00:25:26,269 --> 00:25:26,279
+>> Hm.
+
+1490
+00:25:26,279 --> 00:25:27,789
+>> Hm.
+>> A to v podstate ináč aj teraz vidíš,
+
+1491
+00:25:27,789 --> 00:25:27,799
+>> A to v podstate ináč aj teraz vidíš,
+
+1492
+00:25:27,799 --> 00:25:29,630
+>> A to v podstate ináč aj teraz vidíš,
+akože v mnohých krajinách sveta nielen
+
+1493
+00:25:29,630 --> 00:25:29,640
+akože v mnohých krajinách sveta nielen
+
+1494
+00:25:29,640 --> 00:25:31,510
+akože v mnohých krajinách sveta nielen
+že sa
+
+1495
+00:25:31,510 --> 00:25:31,520
+že sa
+
+1496
+00:25:31,520 --> 00:25:35,350
+že sa
+k moci dostali ľudia, ktorí
+
+1497
+00:25:35,350 --> 00:25:35,360
+k moci dostali ľudia, ktorí
+
+1498
+00:25:35,360 --> 00:25:37,430
+k moci dostali ľudia, ktorí
+>> ani to nemusíš to ani dokončiť. Stačí.
+
+1499
+00:25:37,430 --> 00:25:37,440
+>> ani to nemusíš to ani dokončiť. Stačí.
+
+1500
+00:25:37,440 --> 00:25:39,990
+>> ani to nemusíš to ani dokončiť. Stačí.
+Stačí. Dostali sa ľudia, ktorí tri bodky
+
+1501
+00:25:39,990 --> 00:25:40,000
+Stačí. Dostali sa ľudia, ktorí tri bodky
+
+1502
+00:25:40,000 --> 00:25:42,110
+Stačí. Dostali sa ľudia, ktorí tri bodky
+doplňte si každý tri bodky, ale aj to
+
+1503
+00:25:42,110 --> 00:25:42,120
+doplňte si každý tri bodky, ale aj to
+
+1504
+00:25:42,120 --> 00:25:44,590
+doplňte si každý tri bodky, ale aj to
+potom vidíš na tom, že sa snažia vlastne
+
+1505
+00:25:44,590 --> 00:25:44,600
+potom vidíš na tom, že sa snažia vlastne
+
+1506
+00:25:44,600 --> 00:25:46,190
+potom vidíš na tom, že sa snažia vlastne
+nechať všetky rozhodnutia na seba, že
+
+1507
+00:25:46,190 --> 00:25:46,200
+nechať všetky rozhodnutia na seba, že
+
+1508
+00:25:46,200 --> 00:25:47,830
+nechať všetky rozhodnutia na seba, že
+začnú popierať všetkých expertov.
+
+1509
+00:25:47,830 --> 00:25:47,840
+začnú popierať všetkých expertov.
+
+1510
+00:25:47,840 --> 00:25:48,789
+začnú popierať všetkých expertov.
+>> Hej,
+
+1511
+00:25:48,789 --> 00:25:48,799
+>> Hej,
+
+1512
+00:25:48,799 --> 00:25:50,190
+>> Hej,
+>> expert niečo povie a oni povedia, že
+
+1513
+00:25:50,190 --> 00:25:50,200
+>> expert niečo povie a oni povedia, že
+
+1514
+00:25:50,200 --> 00:25:51,830
+>> expert niečo povie a oni povedia, že
+expert si vymýšľa. Takže sa snažíš
+
+1515
+00:25:51,830 --> 00:25:51,840
+expert si vymýšľa. Takže sa snažíš
+
+1516
+00:25:51,840 --> 00:25:53,870
+expert si vymýšľa. Takže sa snažíš
+delegovať všetky rozhodnutia na seba.
+
+1517
+00:25:53,870 --> 00:25:53,880
+delegovať všetky rozhodnutia na seba.
+
+1518
+00:25:53,880 --> 00:25:55,310
+delegovať všetky rozhodnutia na seba.
+Zároveň sa snažíš zabrániť tomu, aby
+
+1519
+00:25:55,310 --> 00:25:55,320
+Zároveň sa snažíš zabrániť tomu, aby
+
+1520
+00:25:55,320 --> 00:25:57,029
+Zároveň sa snažíš zabrániť tomu, aby
+mali ľudia iný prístup k informáciám,
+
+1521
+00:25:57,029 --> 00:25:57,039
+mali ľudia iný prístup k informáciám,
+
+1522
+00:25:57,039 --> 00:25:58,310
+mali ľudia iný prístup k informáciám,
+ako si ty sám.
+
+1523
+00:25:58,310 --> 00:25:58,320
+ako si ty sám.
+
+1524
+00:25:58,320 --> 00:26:00,750
+ako si ty sám.
+>> Čiže eh zamedzovanie slobodných médií a
+
+1525
+00:26:00,750 --> 00:26:00,760
+>> Čiže eh zamedzovanie slobodných médií a
+
+1526
+00:26:00,760 --> 00:26:01,990
+>> Čiže eh zamedzovanie slobodných médií a
+tak ďalej. A on povie, že len to, čo
+
+1527
+00:26:01,990 --> 00:26:02,000
+tak ďalej. A on povie, že len to, čo
+
+1528
+00:26:02,000 --> 00:26:04,070
+tak ďalej. A on povie, že len to, čo
+poviem, je pravda a to, čo nepoviem ja,
+
+1529
+00:26:04,070 --> 00:26:04,080
+poviem, je pravda a to, čo nepoviem ja,
+
+1530
+00:26:04,080 --> 00:26:05,990
+poviem, je pravda a to, čo nepoviem ja,
+tak to je fake news.
+
+1531
+00:26:05,990 --> 00:26:06,000
+tak to je fake news.
+
+1532
+00:26:06,000 --> 00:26:08,149
+tak to je fake news.
+>> Na nikoho nenarážam. Ale ináčo sa presne
+
+1533
+00:26:08,149 --> 00:26:08,159
+>> Na nikoho nenarážam. Ale ináčo sa presne
+
+1534
+00:26:08,159 --> 00:26:09,909
+>> Na nikoho nenarážam. Ale ináčo sa presne
+presne sa to teraz stalo, že
+
+1535
+00:26:09,909 --> 00:26:09,919
+presne sa to teraz stalo, že
+
+1536
+00:26:09,919 --> 00:26:12,830
+presne sa to teraz stalo, že
+>> Trumpa obvinili z nejakej veci jednej z
+
+1537
+00:26:12,830 --> 00:26:12,840
+>> Trumpa obvinili z nejakej veci jednej z
+
+1538
+00:26:12,840 --> 00:26:14,510
+>> Trumpa obvinili z nejakej veci jednej z
+tých milión, čo sa za posledné dva
+
+1539
+00:26:14,510 --> 00:26:14,520
+tých milión, čo sa za posledné dva
+
+1540
+00:26:14,520 --> 00:26:16,669
+tých milión, čo sa za posledné dva
+týždne stali a jeho reakcia iba bola, že
+
+1541
+00:26:16,669 --> 00:26:16,679
+týždne stali a jeho reakcia iba bola, že
+
+1542
+00:26:16,679 --> 00:26:18,430
+týždne stali a jeho reakcia iba bola, že
+to je fake news, že keď to nemáte odo
+
+1543
+00:26:18,430 --> 00:26:18,440
+to je fake news, že keď to nemáte odo
+
+1544
+00:26:18,440 --> 00:26:20,549
+to je fake news, že keď to nemáte odo
+mňa, tak to to nemáte zaručené.
+
+1545
+00:26:20,549 --> 00:26:20,559
+mňa, tak to to nemáte zaručené.
+
+1546
+00:26:20,559 --> 00:26:22,269
+mňa, tak to to nemáte zaručené.
+>> A samozrejme, že na seba nepovie nič in
+
+1547
+00:26:22,269 --> 00:26:22,279
+>> A samozrejme, že na seba nepovie nič in
+
+1548
+00:26:22,279 --> 00:26:24,549
+>> A samozrejme, že na seba nepovie nič in
+>> to takto funguje. Som nevedel.
+
+1549
+00:26:24,549 --> 00:26:24,559
+>> to takto funguje. Som nevedel.
+
+1550
+00:26:24,559 --> 00:26:25,950
+>> to takto funguje. Som nevedel.
+>> Takže podľa mňa, že toto je celkom
+
+1551
+00:26:25,950 --> 00:26:25,960
+>> Takže podľa mňa, že toto je celkom
+
+1552
+00:26:25,960 --> 00:26:28,430
+>> Takže podľa mňa, že toto je celkom
+zaujímavé ukázať, že ako je tok
+
+1553
+00:26:28,430 --> 00:26:28,440
+zaujímavé ukázať, že ako je tok
+
+1554
+00:26:28,440 --> 00:26:29,909
+zaujímavé ukázať, že ako je tok
+informácií dôležitý pre fungovanie
+
+1555
+00:26:29,909 --> 00:26:29,919
+informácií dôležitý pre fungovanie
+
+1556
+00:26:29,919 --> 00:26:31,710
+informácií dôležitý pre fungovanie
+spoločnosti. A to je vlastne uzavretie
+
+1557
+00:26:31,710 --> 00:26:31,720
+spoločnosti. A to je vlastne uzavretie
+
+1558
+00:26:31,720 --> 00:26:34,070
+spoločnosti. A to je vlastne uzavretie
+tejto epizódy. Eh teda až na otázku na
+
+1559
+00:26:34,070 --> 00:26:34,080
+tejto epizódy. Eh teda až na otázku na
+
+1560
+00:26:34,080 --> 00:26:35,310
+tejto epizódy. Eh teda až na otázku na
+záver.
+
+1561
+00:26:35,310 --> 00:26:35,320
+záver.
+
+1562
+00:26:35,320 --> 00:26:38,549
+záver.
+Tieto body som si napísal do knihy, že
+
+1563
+00:26:38,549 --> 00:26:38,559
+Tieto body som si napísal do knihy, že
+
+1564
+00:26:38,559 --> 00:26:40,549
+Tieto body som si napísal do knihy, že
+všetko, o čom sa často rozprávame, je z
+
+1565
+00:26:40,549 --> 00:26:40,559
+všetko, o čom sa často rozprávame, je z
+
+1566
+00:26:40,559 --> 00:26:42,149
+všetko, o čom sa často rozprávame, je z
+pohľadu informácií, je z pohľadu
+
+1567
+00:26:42,149 --> 00:26:42,159
+pohľadu informácií, je z pohľadu
+
+1568
+00:26:42,159 --> 00:26:45,750
+pohľadu informácií, je z pohľadu
+energie. Aký silný je organizmus, koľko
+
+1569
+00:26:45,750 --> 00:26:45,760
+energie. Aký silný je organizmus, koľko
+
+1570
+00:26:45,760 --> 00:26:48,269
+energie. Aký silný je organizmus, koľko
+koľko ropy vyťaží daná krajina, koľko
+
+1571
+00:26:48,269 --> 00:26:48,279
+koľko ropy vyťaží daná krajina, koľko
+
+1572
+00:26:48,279 --> 00:26:50,350
+koľko ropy vyťaží daná krajina, koľko
+koľko vytvorí áut a tak ďalej.
+
+1573
+00:26:50,350 --> 00:26:50,360
+koľko vytvorí áut a tak ďalej.
+
+1574
+00:26:50,360 --> 00:26:52,110
+koľko vytvorí áut a tak ďalej.
+>> A odporúčaš tú knihu od Hararu.
+
+1575
+00:26:52,110 --> 00:26:52,120
+>> A odporúčaš tú knihu od Hararu.
+
+1576
+00:26:52,120 --> 00:26:54,990
+>> A odporúčaš tú knihu od Hararu.
+>> No jasné, jasné, super je. Zase bola to
+
+1577
+00:26:54,990 --> 00:26:55,000
+>> No jasné, jasné, super je. Zase bola to
+
+1578
+00:26:55,000 --> 00:26:55,990
+>> No jasné, jasné, super je. Zase bola to
+trefa do čierneho.
+
+1579
+00:26:55,990 --> 00:26:56,000
+trefa do čierneho.
+
+1580
+00:26:56,000 --> 00:26:58,310
+trefa do čierneho.
+>> Vieš čo, s ním je trošku problém, že on
+
+1581
+00:26:58,310 --> 00:26:58,320
+>> Vieš čo, s ním je trošku problém, že on
+
+1582
+00:26:58,320 --> 00:27:00,950
+>> Vieš čo, s ním je trošku problém, že on
+robí takú tú interpretačnú históriu, že
+
+1583
+00:27:00,950 --> 00:27:00,960
+robí takú tú interpretačnú históriu, že
+
+1584
+00:27:00,960 --> 00:27:02,630
+robí takú tú interpretačnú históriu, že
+povybrazne tie veci, ktoré mu sedia do
+
+1585
+00:27:02,630 --> 00:27:02,640
+povybrazne tie veci, ktoré mu sedia do
+
+1586
+00:27:02,640 --> 00:27:04,070
+povybrazne tie veci, ktoré mu sedia do
+nejakého naratívu. Tým nechcem povedať,
+
+1587
+00:27:04,070 --> 00:27:04,080
+nejakého naratívu. Tým nechcem povedať,
+
+1588
+00:27:04,080 --> 00:27:06,430
+nejakého naratívu. Tým nechcem povedať,
+že by že by si vymýšľal a tak ďalej, ale
+
+1589
+00:27:06,430 --> 00:27:06,440
+že by že by si vymýšľal a tak ďalej, ale
+
+1590
+00:27:06,440 --> 00:27:07,909
+že by že by si vymýšľal a tak ďalej, ale
+myslím si, že historici by voči nemu
+
+1591
+00:27:07,909 --> 00:27:07,919
+myslím si, že historici by voči nemu
+
+1592
+00:27:07,919 --> 00:27:09,549
+myslím si, že historici by voči nemu
+vedeli mať nejaké výhrady. Ale netreba
+
+1593
+00:27:09,549 --> 00:27:09,559
+vedeli mať nejaké výhrady. Ale netreba
+
+1594
+00:27:09,559 --> 00:27:11,190
+vedeli mať nejaké výhrady. Ale netreba
+to čítať ako historickú knihu, treba to
+
+1595
+00:27:11,190 --> 00:27:11,200
+to čítať ako historickú knihu, treba to
+
+1596
+00:27:11,200 --> 00:27:12,190
+to čítať ako historickú knihu, treba to
+čítať ako
+
+1597
+00:27:12,190 --> 00:27:12,200
+čítať ako
+
+1598
+00:27:12,200 --> 00:27:15,909
+čítať ako
+>> takú veľmi veľmi dlhú esej o o stave
+
+1599
+00:27:15,909 --> 00:27:15,919
+>> takú veľmi veľmi dlhú esej o o stave
+
+1600
+00:27:15,919 --> 00:27:18,870
+>> takú veľmi veľmi dlhú esej o o stave
+spoločnosti alebo eh a
+
+1601
+00:27:18,870 --> 00:27:18,880
+spoločnosti alebo eh a
+
+1602
+00:27:18,880 --> 00:27:20,230
+spoločnosti alebo eh a
+>> z tohto poľadu je to veľmi zaujímavá
+
+1603
+00:27:20,230 --> 00:27:20,240
+>> z tohto poľadu je to veľmi zaujímavá
+
+1604
+00:27:20,240 --> 00:27:22,750
+>> z tohto poľadu je to veľmi zaujímavá
+kniha a presne, že ona obsahuje on je
+
+1605
+00:27:22,750 --> 00:27:22,760
+kniha a presne, že ona obsahuje on je
+
+1606
+00:27:22,760 --> 00:27:24,230
+kniha a presne, že ona obsahuje on je
+podľa mňa strašne silný v tom, že on
+
+1607
+00:27:24,230 --> 00:27:24,240
+podľa mňa strašne silný v tom, že on
+
+1608
+00:27:24,240 --> 00:27:26,029
+podľa mňa strašne silný v tom, že on
+takéto kúsky zaujímavých uhlov pohľadu
+
+1609
+00:27:26,029 --> 00:27:26,039
+takéto kúsky zaujímavých uhlov pohľadu
+
+1610
+00:27:26,039 --> 00:27:27,149
+takéto kúsky zaujímavých uhlov pohľadu
+ti dá na veci.
+
+1611
+00:27:27,149 --> 00:27:27,159
+ti dá na veci.
+
+1612
+00:27:27,159 --> 00:27:27,669
+ti dá na veci.
+>> Hm.
+
+1613
+00:27:27,669 --> 00:27:27,679
+>> Hm.
+
+1614
+00:27:27,679 --> 00:27:29,029
+>> Hm.
+>> Mne sa napríklad veľmi páčilo v tom
+
+1615
+00:27:29,029 --> 00:27:29,039
+>> Mne sa napríklad veľmi páčilo v tom
+
+1616
+00:27:29,039 --> 00:27:32,110
+>> Mne sa napríklad veľmi páčilo v tom
+Sapiens, kde vlastne písal, že ľudia aj
+
+1617
+00:27:32,110 --> 00:27:32,120
+Sapiens, kde vlastne písal, že ľudia aj
+
+1618
+00:27:32,120 --> 00:27:35,070
+Sapiens, kde vlastne písal, že ľudia aj
+ľudstvo ako také interpretuje
+
+1619
+00:27:35,070 --> 00:27:35,080
+ľudstvo ako také interpretuje
+
+1620
+00:27:35,080 --> 00:27:36,789
+ľudstvo ako také interpretuje
+všetko okolo seba v kontexte nejakých
+
+1621
+00:27:36,789 --> 00:27:36,799
+všetko okolo seba v kontexte nejakých
+
+1622
+00:27:36,799 --> 00:27:38,870
+všetko okolo seba v kontexte nejakých
+príbehov. Áno, áno. Hej.
+
+1623
+00:27:38,870 --> 00:27:38,880
+príbehov. Áno, áno. Hej.
+
+1624
+00:27:38,880 --> 00:27:40,310
+príbehov. Áno, áno. Hej.
+>> A to je presne, že to je bod, ktorý on
+
+1625
+00:27:40,310 --> 00:27:40,320
+>> A to je presne, že to je bod, ktorý on
+
+1626
+00:27:40,320 --> 00:27:40,669
+>> A to je presne, že to je bod, ktorý on
+tam rozšíri,
+
+1627
+00:27:40,669 --> 00:27:40,679
+tam rozšíri,
+
+1628
+00:27:40,679 --> 00:27:42,509
+tam rozšíri,
+>> že sme tvorcovia mýtov a príbehov. Hej.
+
+1629
+00:27:42,509 --> 00:27:42,519
+>> že sme tvorcovia mýtov a príbehov. Hej.
+
+1630
+00:27:42,519 --> 00:27:44,470
+>> že sme tvorcovia mýtov a príbehov. Hej.
+>> Áno, áno. On ti to tam akože trošku ešte
+
+1631
+00:27:44,470 --> 00:27:44,480
+>> Áno, áno. On ti to tam akože trošku ešte
+
+1632
+00:27:44,480 --> 00:27:47,549
+>> Áno, áno. On ti to tam akože trošku ešte
+rozšíri a úplne iný uhol pohľadu ti
+
+1633
+00:27:47,549 --> 00:27:47,559
+rozšíri a úplne iný uhol pohľadu ti
+
+1634
+00:27:47,559 --> 00:27:49,830
+rozšíri a úplne iný uhol pohľadu ti
+poskytne na veci, ktoré si videl, ktoré
+
+1635
+00:27:49,830 --> 00:27:49,840
+poskytne na veci, ktoré si videl, ktoré
+
+1636
+00:27:49,840 --> 00:27:51,110
+poskytne na veci, ktoré si videl, ktoré
+si mal celý život pred očami. A v tomto
+
+1637
+00:27:51,110 --> 00:27:51,120
+si mal celý život pred očami. A v tomto
+
+1638
+00:27:51,120 --> 00:27:53,110
+si mal celý život pred očami. A v tomto
+je podľa mňa on úplne skvelý. A presne v
+
+1639
+00:27:53,110 --> 00:27:53,120
+je podľa mňa on úplne skvelý. A presne v
+
+1640
+00:27:53,120 --> 00:27:54,870
+je podľa mňa on úplne skvelý. A presne v
+tomto tá práca s informáciami v rôznych
+
+1641
+00:27:54,870 --> 00:27:54,880
+tomto tá práca s informáciami v rôznych
+
+1642
+00:27:54,880 --> 00:27:57,470
+tomto tá práca s informáciami v rôznych
+typoch spoločnosti, otvorená spoločnosť
+
+1643
+00:27:57,470 --> 00:27:57,480
+typoch spoločnosti, otvorená spoločnosť
+
+1644
+00:27:57,480 --> 00:27:59,110
+typoch spoločnosti, otvorená spoločnosť
+verzus uzavrená spoločnosť, bolo pre mňa
+
+1645
+00:27:59,110 --> 00:27:59,120
+verzus uzavrená spoločnosť, bolo pre mňa
+
+1646
+00:27:59,120 --> 00:28:00,909
+verzus uzavrená spoločnosť, bolo pre mňa
+úplne, že pekné.
+
+1647
+00:28:00,909 --> 00:28:00,919
+úplne, že pekné.
+
+1648
+00:28:00,919 --> 00:28:04,590
+úplne, že pekné.
+>> Hej. Dobre, tak eh ideme do nášho nového
+
+1649
+00:28:04,590 --> 00:28:04,600
+>> Hej. Dobre, tak eh ideme do nášho nového
+
+1650
+00:28:04,600 --> 00:28:08,389
+>> Hej. Dobre, tak eh ideme do nášho nového
+segmentu. Eh otázka na koniec. Eh eh
+
+1651
+00:28:08,389 --> 00:28:08,399
+segmentu. Eh otázka na koniec. Eh eh
+
+1652
+00:28:08,399 --> 00:28:11,310
+segmentu. Eh otázka na koniec. Eh eh
+prečo sa planéty od Udo Prečo sa planéty
+
+1653
+00:28:11,310 --> 00:28:11,320
+prečo sa planéty od Udo Prečo sa planéty
+
+1654
+00:28:11,320 --> 00:28:15,950
+prečo sa planéty od Udo Prečo sa planéty
+otáčajú po ellipse, nie po kružnici?
+
+1655
+00:28:15,950 --> 00:28:15,960
+otáčajú po ellipse, nie po kružnici?
+
+1656
+00:28:15,960 --> 00:28:17,549
+otáčajú po ellipse, nie po kružnici?
+Technicky vzaté by sa mohli aj po
+
+1657
+00:28:17,549 --> 00:28:17,559
+Technicky vzaté by sa mohli aj po
+
+1658
+00:28:17,559 --> 00:28:19,870
+Technicky vzaté by sa mohli aj po
+kružnici otáčať. Kružnica je veľmi
+
+1659
+00:28:19,870 --> 00:28:19,880
+kružnici otáčať. Kružnica je veľmi
+
+1660
+00:28:19,880 --> 00:28:23,509
+kružnici otáčať. Kružnica je veľmi
+špeciálny prípad elipsy, ktorá je
+
+1661
+00:28:23,509 --> 00:28:23,519
+špeciálny prípad elipsy, ktorá je
+
+1662
+00:28:23,519 --> 00:28:25,310
+špeciálny prípad elipsy, ktorá je
+rovnako vychýlená obomi smermi, že keď
+
+1663
+00:28:25,310 --> 00:28:25,320
+rovnako vychýlená obomi smermi, že keď
+
+1664
+00:28:25,320 --> 00:28:26,909
+rovnako vychýlená obomi smermi, že keď
+máš nejakú elipsu, tak ona je jedným
+
+1665
+00:28:26,909 --> 00:28:26,919
+máš nejakú elipsu, tak ona je jedným
+
+1666
+00:28:26,919 --> 00:28:29,149
+máš nejakú elipsu, tak ona je jedným
+smerom viacej natiahnutá ako druhá a je
+
+1667
+00:28:29,149 --> 00:28:29,159
+smerom viacej natiahnutá ako druhá a je
+
+1668
+00:28:29,159 --> 00:28:31,070
+smerom viacej natiahnutá ako druhá a je
+nekonečne veľa takýchto elips rôzne
+
+1669
+00:28:31,070 --> 00:28:31,080
+nekonečne veľa takýchto elips rôzne
+
+1670
+00:28:31,080 --> 00:28:33,630
+nekonečne veľa takýchto elips rôzne
+natiahnutých. A jedna špecifická elipsa,
+
+1671
+00:28:33,630 --> 00:28:33,640
+natiahnutých. A jedna špecifická elipsa,
+
+1672
+00:28:33,640 --> 00:28:34,909
+natiahnutých. A jedna špecifická elipsa,
+ktorá je rovnako natiahnutá obomi
+
+1673
+00:28:34,909 --> 00:28:34,919
+ktorá je rovnako natiahnutá obomi
+
+1674
+00:28:34,919 --> 00:28:37,029
+ktorá je rovnako natiahnutá obomi
+smermi, je vlastne kružnica.
+
+1675
+00:28:37,029 --> 00:28:37,039
+smermi, je vlastne kružnica.
+
+1676
+00:28:37,039 --> 00:28:39,870
+smermi, je vlastne kružnica.
+Inými slovami, ak by si veľmi presne
+
+1677
+00:28:39,870 --> 00:28:39,880
+Inými slovami, ak by si veľmi presne
+
+1678
+00:28:39,880 --> 00:28:41,870
+Inými slovami, ak by si veľmi presne
+nastavil parametre obehu nejakej
+
+1679
+00:28:41,870 --> 00:28:41,880
+nastavil parametre obehu nejakej
+
+1680
+00:28:41,880 --> 00:28:43,269
+nastavil parametre obehu nejakej
+planéty, tak by sa pohybovala po
+
+1681
+00:28:43,269 --> 00:28:43,279
+planéty, tak by sa pohybovala po
+
+1682
+00:28:43,279 --> 00:28:45,029
+planéty, tak by sa pohybovala po
+kružnici, ale musel by si byť dokonale
+
+1683
+00:28:45,029 --> 00:28:45,039
+kružnici, ale musel by si byť dokonale
+
+1684
+00:28:45,039 --> 00:28:47,110
+kružnici, ale musel by si byť dokonale
+presný. A v momente, kedy sa trochu
+
+1685
+00:28:47,110 --> 00:28:47,120
+presný. A v momente, kedy sa trochu
+
+1686
+00:28:47,120 --> 00:28:48,870
+presný. A v momente, kedy sa trochu
+sekneš a dodaješ väčšiu rýchlosť, ako by
+
+1687
+00:28:48,870 --> 00:28:48,880
+sekneš a dodaješ väčšiu rýchlosť, ako by
+
+1688
+00:28:48,880 --> 00:28:51,310
+sekneš a dodaješ väčšiu rýchlosť, ako by
+si chcel, tak už to bude elipsa. A preto
+
+1689
+00:28:51,310 --> 00:28:51,320
+si chcel, tak už to bude elipsa. A preto
+
+1690
+00:28:51,320 --> 00:28:53,710
+si chcel, tak už to bude elipsa. A preto
+sú planéty na eliptických dráhach, aj
+
+1691
+00:28:53,710 --> 00:28:53,720
+sú planéty na eliptických dráhach, aj
+
+1692
+00:28:53,720 --> 00:28:55,190
+sú planéty na eliptických dráhach, aj
+keď sa v niektorých prípadoch veľmi
+
+1693
+00:28:55,190 --> 00:28:55,200
+keď sa v niektorých prípadoch veľmi
+
+1694
+00:28:55,200 --> 00:28:58,470
+keď sa v niektorých prípadoch veľmi
+podobajú na elipsy, eh, na kružnice.
+
+1695
+00:28:58,470 --> 00:28:58,480
+podobajú na elipsy, eh, na kružnice.
+
+1696
+00:28:58,480 --> 00:29:02,029
+podobajú na elipsy, eh, na kružnice.
+>> No ok. A nie je to aj spôsobené tým, že
+
+1697
+00:29:02,029 --> 00:29:02,039
+>> No ok. A nie je to aj spôsobené tým, že
+
+1698
+00:29:02,039 --> 00:29:04,990
+>> No ok. A nie je to aj spôsobené tým, že
+eh keď lebo ja si predstavujem toho
+
+1699
+00:29:04,990 --> 00:29:05,000
+eh keď lebo ja si predstavujem toho
+
+1700
+00:29:05,000 --> 00:29:08,389
+eh keď lebo ja si predstavujem toho
+kladivára na olympiáde, tak sa roztočí a
+
+1701
+00:29:08,389 --> 00:29:08,399
+kladivára na olympiáde, tak sa roztočí a
+
+1702
+00:29:08,399 --> 00:29:10,070
+kladivára na olympiáde, tak sa roztočí a
+on ide v takej elipse, vieš, že ho
+
+1703
+00:29:10,070 --> 00:29:10,080
+on ide v takej elipse, vieš, že ho
+
+1704
+00:29:10,080 --> 00:29:11,630
+on ide v takej elipse, vieš, že ho
+vytáča
+
+1705
+00:29:11,630 --> 00:29:11,640
+vytáča
+
+1706
+00:29:11,640 --> 00:29:13,190
+vytáča
+>> do tých ono strán.
+
+1707
+00:29:13,190 --> 00:29:13,200
+>> do tých ono strán.
+
+1708
+00:29:13,200 --> 00:29:14,990
+>> do tých ono strán.
+>> On ide on ide, hej. To áno, ale on ide
+
+1709
+00:29:14,990 --> 00:29:15,000
+>> On ide on ide, hej. To áno, ale on ide
+
+1710
+00:29:15,000 --> 00:29:16,350
+>> On ide on ide, hej. To áno, ale on ide
+hlavne po kružnici kvôli tomu, že on tam
+
+1711
+00:29:16,350 --> 00:29:16,360
+hlavne po kružnici kvôli tomu, že on tam
+
+1712
+00:29:16,360 --> 00:29:18,990
+hlavne po kružnici kvôli tomu, že on tam
+má ocelový drôt. Keby on namiesto toho
+
+1713
+00:29:18,990 --> 00:29:19,000
+má ocelový drôt. Keby on namiesto toho
+
+1714
+00:29:19,000 --> 00:29:20,269
+má ocelový drôt. Keby on namiesto toho
+drôtu mal nejakú gumu
+
+1715
+00:29:20,269 --> 00:29:20,279
+drôtu mal nejakú gumu
+
+1716
+00:29:20,279 --> 00:29:21,149
+drôtu mal nejakú gumu
+>> gumenú,
+
+1717
+00:29:21,149 --> 00:29:21,159
+>> gumenú,
+
+1718
+00:29:21,159 --> 00:29:23,190
+>> gumenú,
+>> tak by sa tam zložitejšie pohyby diali,
+
+1719
+00:29:23,190 --> 00:29:23,200
+>> tak by sa tam zložitejšie pohyby diali,
+
+1720
+00:29:23,200 --> 00:29:24,350
+>> tak by sa tam zložitejšie pohyby diali,
+takže uňho uňho ten
+
+1721
+00:29:24,350 --> 00:29:24,360
+takže uňho uňho ten
+
+1722
+00:29:24,360 --> 00:29:26,909
+takže uňho uňho ten
+>> a bolo by to neskutočne nebezpečné. No
+
+1723
+00:29:26,909 --> 00:29:26,919
+>> a bolo by to neskutočne nebezpečné. No
+
+1724
+00:29:26,919 --> 00:29:28,630
+>> a bolo by to neskutočne nebezpečné. No
+už teraz podľa mňa je, ale hej, bolo by
+
+1725
+00:29:28,630 --> 00:29:28,640
+už teraz podľa mňa je, ale hej, bolo by
+
+1726
+00:29:28,640 --> 00:29:29,669
+už teraz podľa mňa je, ale hej, bolo by
+to ešte
+
+1727
+00:29:29,669 --> 00:29:29,679
+to ešte
+
+1728
+00:29:29,679 --> 00:29:32,190
+to ešte
+>> akože, že extra. Dobre, tak ďakujeme
+
+1729
+00:29:32,190 --> 00:29:32,200
+>> akože, že extra. Dobre, tak ďakujeme
+
+1730
+00:29:32,200 --> 00:29:34,350
+>> akože, že extra. Dobre, tak ďakujeme
+veľmi pekne, Samko, že si si takýchto
+
+1731
+00:29:34,350 --> 00:29:34,360
+veľmi pekne, Samko, že si si takýchto
+
+1732
+00:29:34,360 --> 00:29:38,269
+veľmi pekne, Samko, že si si takýchto
+päť eh zaujímavých, nespojiteľných vecí
+
+1733
+00:29:38,269 --> 00:29:38,279
+päť eh zaujímavých, nespojiteľných vecí
+
+1734
+00:29:38,279 --> 00:29:40,509
+päť eh zaujímavých, nespojiteľných vecí
+nechal pre náš všepodcast.
+
+1735
+00:29:40,509 --> 00:29:40,519
+nechal pre náš všepodcast.
+
+1736
+00:29:40,519 --> 00:29:42,710
+nechal pre náš všepodcast.
+>> Eh ďakujeme za otázky, dúfam, že nám ich
+
+1737
+00:29:42,710 --> 00:29:42,720
+>> Eh ďakujeme za otázky, dúfam, že nám ich
+
+1738
+00:29:42,720 --> 00:29:44,430
+>> Eh ďakujeme za otázky, dúfam, že nám ich
+posielate. Takto postupne sa ich budeme
+
+1739
+00:29:44,430 --> 00:29:44,440
+posielate. Takto postupne sa ich budeme
+
+1740
+00:29:44,440 --> 00:29:46,190
+posielate. Takto postupne sa ich budeme
+zbavovať a samozrejme budú aj fakt dobré
+
+1741
+00:29:46,190 --> 00:29:46,200
+zbavovať a samozrejme budú aj fakt dobré
+
+1742
+00:29:46,200 --> 00:29:48,710
+zbavovať a samozrejme budú aj fakt dobré
+otázky. A tešíme sa na vás nabudúce.
+
+1743
+00:29:48,710 --> 00:29:48,720
+otázky. A tešíme sa na vás nabudúce.
+
+1744
+00:29:48,720 --> 00:29:50,389
+otázky. A tešíme sa na vás nabudúce.
+Nájdete nás na všetkých dobrých a troška
+
+1745
+00:29:50,389 --> 00:29:50,399
+Nájdete nás na všetkých dobrých a troška
+
+1746
+00:29:50,399 --> 00:29:52,549
+Nájdete nás na všetkých dobrých a troška
+horších podcastových aplikáciách. Užite
+
+1747
+00:29:52,549 --> 00:29:52,559
+horších podcastových aplikáciách. Užite
+
+1748
+00:29:52,559 --> 00:29:54,590
+horších podcastových aplikáciách. Užite
+si leto, pijte veľa vody, buďte v tieni
+
+1749
+00:29:54,590 --> 00:29:54,600
+si leto, pijte veľa vody, buďte v tieni
+
+1750
+00:29:54,600 --> 00:29:56,509
+si leto, pijte veľa vody, buďte v tieni
+a dávajte si na seba pozor. Ahojte,
+
+1751
+00:29:56,509 --> 00:29:56,519
+a dávajte si na seba pozor. Ahojte,
+
+1752
+00:29:56,519 --> 00:29:58,120
+a dávajte si na seba pozor. Ahojte,
+>> majte sa pekne.
+
+1753
+00:29:58,120 --> 00:29:58,130
+>> majte sa pekne.
+
+1754
+00:29:58,130 --> 00:30:04,110
+>> majte sa pekne.
+[Hudba]
+
+1755
+00:30:04,120 --> 00:30:05,909
+>> Volám sa Juraj Rizman a v denníku SME
+
+1756
+00:30:05,909 --> 00:30:05,919
+>> Volám sa Juraj Rizman a v denníku SME
+
+1757
+00:30:05,919 --> 00:30:08,509
+>> Volám sa Juraj Rizman a v denníku SME
+pre vás pripravujem reláciu bezpečne.
+
+1758
+00:30:08,509 --> 00:30:08,519
+pre vás pripravujem reláciu bezpečne.
+
+1759
+00:30:08,519 --> 00:30:10,509
+pre vás pripravujem reláciu bezpečne.
+Reláciu o tom, že obrana a bezpečnosť,
+
+1760
+00:30:10,509 --> 00:30:10,519
+Reláciu o tom, že obrana a bezpečnosť,
+
+1761
+00:30:10,519 --> 00:30:12,350
+Reláciu o tom, že obrana a bezpečnosť,
+či sa nám to páči alebo nie, sa týka nás
+
+1762
+00:30:12,350 --> 00:30:12,360
+či sa nám to páči alebo nie, sa týka nás
+
+1763
+00:30:12,360 --> 00:30:14,710
+či sa nám to páči alebo nie, sa týka nás
+všetkých. Reláciu bezpečne.sk nájdete vo
+
+1764
+00:30:14,710 --> 00:30:14,720
+všetkých. Reláciu bezpečne.sk nájdete vo
+
+1765
+00:30:14,720 --> 00:30:16,909
+všetkých. Reláciu bezpečne.sk nájdete vo
+videekcii denníka SME a jej podcastovú
+
+1766
+00:30:16,909 --> 00:30:16,919
+videekcii denníka SME a jej podcastovú
+
+1767
+00:30:16,919 --> 00:30:18,389
+videekcii denníka SME a jej podcastovú
+verziu vo všetkých podcastových
+
+1768
+00:30:18,389 --> 00:30:18,399
+verziu vo všetkých podcastových
+
+1769
+00:30:18,399 --> 00:30:21,399
+verziu vo všetkých podcastových
+aplikáciách.

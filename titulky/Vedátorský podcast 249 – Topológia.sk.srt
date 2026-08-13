@@ -1,0 +1,6934 @@
+1
+00:00:00,170 --> 00:00:12,190
+[Hudba]
+
+2
+00:00:12,190 --> 00:00:12,200
+[Hudba]
+
+3
+00:00:12,200 --> 00:00:14,749
+[Hudba]
+od strán cez hranoly až po body veda nás
+
+4
+00:00:14,749 --> 00:00:14,759
+od strán cez hranoly až po body veda nás
+
+5
+00:00:14,759 --> 00:00:16,510
+od strán cez hranoly až po body veda nás
+obklopuje na každom kroku Vitajte pri
+
+6
+00:00:16,510 --> 00:00:16,520
+obklopuje na každom kroku Vitajte pri
+
+7
+00:00:16,520 --> 00:00:18,230
+obklopuje na každom kroku Vitajte pri
+vedátor skom podcaste v ktorom sa budeme
+
+8
+00:00:18,230 --> 00:00:18,240
+vedátor skom podcaste v ktorom sa budeme
+
+9
+00:00:18,240 --> 00:00:20,109
+vedátor skom podcaste v ktorom sa budeme
+rozprávať o vede a prírode okolo nás
+
+10
+00:00:20,109 --> 00:00:20,119
+rozprávať o vede a prírode okolo nás
+
+11
+00:00:20,119 --> 00:00:22,349
+rozprávať o vede a prírode okolo nás
+moje meno je Jozef a ja som Samuel tento
+
+12
+00:00:22,349 --> 00:00:22,359
+moje meno je Jozef a ja som Samuel tento
+
+13
+00:00:22,359 --> 00:00:24,870
+moje meno je Jozef a ja som Samuel tento
+podcast vychádza vo spolupráci so sme
+
+14
+00:00:24,870 --> 00:00:24,880
+podcast vychádza vo spolupráci so sme
+
+15
+00:00:24,880 --> 00:00:27,870
+podcast vychádza vo spolupráci so sme
+Samko o topológii sa budeme rozprávať
+
+16
+00:00:27,870 --> 00:00:27,880
+Samko o topológii sa budeme rozprávať
+
+17
+00:00:27,880 --> 00:00:30,029
+Samko o topológii sa budeme rozprávať
+pretože v smrečanoch Kde máte chatu
+
+18
+00:00:30,029 --> 00:00:30,039
+pretože v smrečanoch Kde máte chatu
+
+19
+00:00:30,039 --> 00:00:34,110
+pretože v smrečanoch Kde máte chatu
+spravili nový nový prechod cez rieku áno
+
+20
+00:00:34,110 --> 00:00:34,120
+spravili nový nový prechod cez rieku áno
+
+21
+00:00:34,120 --> 00:00:36,190
+spravili nový nový prechod cez rieku áno
+keď sme tam B veľmi zaujímavý veľmi
+
+22
+00:00:36,190 --> 00:00:36,200
+keď sme tam B veľmi zaujímavý veľmi
+
+23
+00:00:36,200 --> 00:00:39,270
+keď sme tam B veľmi zaujímavý veľmi
+zaujímavý úvod tak poďme na to
+
+24
+00:00:39,270 --> 00:00:39,280
+zaujímavý úvod tak poďme na to
+
+25
+00:00:39,280 --> 00:00:41,229
+zaujímavý úvod tak poďme na to
+smrečanoch pozdravujeme pani starostku
+
+26
+00:00:41,229 --> 00:00:41,239
+smrečanoch pozdravujeme pani starostku
+
+27
+00:00:41,239 --> 00:00:44,990
+smrečanoch pozdravujeme pani starostku
+alebo aj poslancov všetkých eh dvoch že
+
+28
+00:00:44,990 --> 00:00:45,000
+alebo aj poslancov všetkých eh dvoch že
+
+29
+00:00:45,000 --> 00:00:46,990
+alebo aj poslancov všetkých eh dvoch že
+spravili tam krásny nový mostík a pre
+
+30
+00:00:46,990 --> 00:00:47,000
+spravili tam krásny nový mostík a pre
+
+31
+00:00:47,000 --> 00:00:50,790
+spravili tam krásny nový mostík a pre
+zlá reň Pri takej kadi na eh na vodu
+
+32
+00:00:50,790 --> 00:00:50,800
+zlá reň Pri takej kadi na eh na vodu
+
+33
+00:00:50,800 --> 00:00:55,270
+zlá reň Pri takej kadi na eh na vodu
+takže sa veľmi tešíme z toho A prečo
+
+34
+00:00:55,270 --> 00:00:55,280
+takže sa veľmi tešíme z toho A prečo
+
+35
+00:00:55,280 --> 00:00:58,069
+takže sa veľmi tešíme z toho A prečo
+prečo sa rozprávame kvôli tomuto o
+
+36
+00:00:58,069 --> 00:00:58,079
+prečo sa rozprávame kvôli tomuto o
+
+37
+00:00:58,079 --> 00:01:00,590
+prečo sa rozprávame kvôli tomuto o
+topológii lebo
+
+38
+00:01:00,590 --> 00:01:00,600
+topológii lebo
+
+39
+00:01:00,600 --> 00:01:03,469
+topológii lebo
+lebo ja poznám topológiu polovodičových
+
+40
+00:01:03,469 --> 00:01:03,479
+lebo ja poznám topológiu polovodičových
+
+41
+00:01:03,479 --> 00:01:05,870
+lebo ja poznám topológiu polovodičových
+polovodičov je to topológia sú
+
+42
+00:01:05,870 --> 00:01:05,880
+polovodičov je to topológia sú
+
+43
+00:01:05,880 --> 00:01:08,950
+polovodičov je to topológia sú
+topologické polovodiče tak niečo aleo
+
+44
+00:01:08,950 --> 00:01:08,960
+topologické polovodiče tak niečo aleo
+
+45
+00:01:08,960 --> 00:01:11,670
+topologické polovodiče tak niečo aleo
+presne sú topologické izolanty eh Ale to
+
+46
+00:01:11,670 --> 00:01:11,680
+presne sú topologické izolanty eh Ale to
+
+47
+00:01:11,680 --> 00:01:14,990
+presne sú topologické izolanty eh Ale to
+je že to pomerne divočinu poznáš teda
+
+48
+00:01:14,990 --> 00:01:15,000
+je že to pomerne divočinu poznáš teda
+
+49
+00:01:15,000 --> 00:01:18,590
+je že to pomerne divočinu poznáš teda
+eh Smrečany s to kvôli autorskému eh
+
+50
+00:01:18,590 --> 00:01:18,600
+eh Smrečany s to kvôli autorskému eh
+
+51
+00:01:18,600 --> 00:01:20,990
+eh Smrečany s to kvôli autorskému eh
+zákonu lebo aj toto Patrí pod autorstvo
+
+52
+00:01:20,990 --> 00:01:21,000
+zákonu lebo aj toto Patrí pod autorstvo
+
+53
+00:01:21,000 --> 00:01:24,149
+zákonu lebo aj toto Patrí pod autorstvo
+tá topológia polovodičových výrobkov ú
+
+54
+00:01:24,149 --> 00:01:24,159
+tá topológia polovodičových výrobkov ú
+
+55
+00:01:24,159 --> 00:01:28,510
+tá topológia polovodičových výrobkov ú
+zaujímavé Hm hej pokrač to ma to ma
+
+56
+00:01:28,510 --> 00:01:28,520
+zaujímavé Hm hej pokrač to ma to ma
+
+57
+00:01:28,520 --> 00:01:31,390
+zaujímavé Hm hej pokrač to ma to ma
+celkom zaskočilo toto no eh Takže teda
+
+58
+00:01:31,390 --> 00:01:31,400
+celkom zaskočilo toto no eh Takže teda
+
+59
+00:01:31,400 --> 00:01:34,230
+celkom zaskočilo toto no eh Takže teda
+Smrečany malebná Liptovská dedina ktorá
+
+60
+00:01:34,230 --> 00:01:34,240
+Smrečany malebná Liptovská dedina ktorá
+
+61
+00:01:34,240 --> 00:01:37,469
+Smrečany malebná Liptovská dedina ktorá
+cez ktorú preteká rieka ktorú My voláme
+
+62
+00:01:37,469 --> 00:01:37,479
+cez ktorú preteká rieka ktorú My voláme
+
+63
+00:01:37,479 --> 00:01:39,230
+cez ktorú preteká rieka ktorú My voláme
+smrečianka Dúfam že sa tak volá ale
+
+64
+00:01:39,230 --> 00:01:39,240
+smrečianka Dúfam že sa tak volá ale
+
+65
+00:01:39,240 --> 00:01:42,069
+smrečianka Dúfam že sa tak volá ale
+myslím si že hej A keby že nie sa určite
+
+66
+00:01:42,069 --> 00:01:42,079
+myslím si že hej A keby že nie sa určite
+
+67
+00:01:42,079 --> 00:01:43,310
+myslím si že hej A keby že nie sa určite
+keby že nie tak ju môžeme tak hej
+
+68
+00:01:43,310 --> 00:01:43,320
+keby že nie tak ju môžeme tak hej
+
+69
+00:01:43,320 --> 00:01:46,789
+keby že nie tak ju môžeme tak hej
+pomenovať a na tom je milé že oni cez ňu
+
+70
+00:01:46,789 --> 00:01:46,799
+pomenovať a na tom je milé že oni cez ňu
+
+71
+00:01:46,799 --> 00:01:49,469
+pomenovať a na tom je milé že oni cez ňu
+postavili strašne veľa mostov Ale že
+
+72
+00:01:49,469 --> 00:01:49,479
+postavili strašne veľa mostov Ale že
+
+73
+00:01:49,479 --> 00:01:51,789
+postavili strašne veľa mostov Ale že
+strašne Ale že strašne veľa počkaj keď
+
+74
+00:01:51,789 --> 00:01:51,799
+strašne Ale že strašne veľa počkaj keď
+
+75
+00:01:51,799 --> 00:01:54,109
+strašne Ale že strašne veľa počkaj keď
+to tak z hlavy spočítam Len aby ste si
+
+76
+00:01:54,109 --> 00:01:54,119
+to tak z hlavy spočítam Len aby ste si
+
+77
+00:01:54,119 --> 00:01:57,190
+to tak z hlavy spočítam Len aby ste si
+to pr Ja len opíšem situáciu predstavte
+
+78
+00:01:57,190 --> 00:01:57,200
+to pr Ja len opíšem situáciu predstavte
+
+79
+00:01:57,200 --> 00:01:59,350
+to pr Ja len opíšem situáciu predstavte
+si že máte niekoľko mostov cez veľmi
+
+80
+00:01:59,350 --> 00:01:59,360
+si že máte niekoľko mostov cez veľmi
+
+81
+00:01:59,360 --> 00:02:00,709
+si že máte niekoľko mostov cez veľmi
+malú
+
+82
+00:02:00,709 --> 00:02:00,719
+malú
+
+83
+00:02:00,719 --> 00:02:05,149
+malú
+riečku alebo potok by som povedal a tak
+
+84
+00:02:05,149 --> 00:02:05,159
+riečku alebo potok by som povedal a tak
+
+85
+00:02:05,159 --> 00:02:07,389
+riečku alebo potok by som povedal a tak
+chcete ešte ďalší most tak to postavte
+
+86
+00:02:07,389 --> 00:02:07,399
+chcete ešte ďalší most tak to postavte
+
+87
+00:02:07,399 --> 00:02:11,830
+chcete ešte ďalší most tak to postavte
+len o 10 m vedľa ďalší most nový ale je
+
+88
+00:02:11,830 --> 00:02:11,840
+len o 10 m vedľa ďalší most nový ale je
+
+89
+00:02:11,840 --> 00:02:14,710
+len o 10 m vedľa ďalší most nový ale je
+krásny ako všetko Škoda že psíkovia cez
+
+90
+00:02:14,710 --> 00:02:14,720
+krásny ako všetko Škoda že psíkovia cez
+
+91
+00:02:14,720 --> 00:02:16,550
+krásny ako všetko Škoda že psíkovia cez
+neho neprejdú lebo mám moc veľké diery
+
+92
+00:02:16,550 --> 00:02:16,560
+neho neprejdú lebo mám moc veľké diery
+
+93
+00:02:16,560 --> 00:02:19,550
+neho neprejdú lebo mám moc veľké diery
+eh na ich pky ale ti mriežky hej hej hej
+
+94
+00:02:19,550 --> 00:02:19,560
+eh na ich pky ale ti mriežky hej hej hej
+
+95
+00:02:19,560 --> 00:02:22,630
+eh na ich pky ale ti mriežky hej hej hej
+tá mriežka Ale no Každopádne majú veľmi
+
+96
+00:02:22,630 --> 00:02:22,640
+tá mriežka Ale no Každopádne majú veľmi
+
+97
+00:02:22,640 --> 00:02:25,110
+tá mriežka Ale no Každopádne majú veľmi
+veľa mostov majú cez tú rieku ak sa
+
+98
+00:02:25,110 --> 00:02:25,120
+veľa mostov majú cez tú rieku ak sa
+
+99
+00:02:25,120 --> 00:02:27,630
+veľa mostov majú cez tú rieku ak sa
+nemýlim aspoň tri mosty pre autá To je
+
+100
+00:02:27,630 --> 00:02:27,640
+nemýlim aspoň tri mosty pre autá To je
+
+101
+00:02:27,640 --> 00:02:29,350
+nemýlim aspoň tri mosty pre autá To je
+asi že na kilometrovom úseku tri pre
+
+102
+00:02:29,350 --> 00:02:29,360
+asi že na kilometrovom úseku tri pre
+
+103
+00:02:29,360 --> 00:02:32,470
+asi že na kilometrovom úseku tri pre
+autá a pre chodcov podľa mňa ďalších päť
+
+104
+00:02:32,470 --> 00:02:32,480
+autá a pre chodcov podľa mňa ďalších päť
+
+105
+00:02:32,480 --> 00:02:34,350
+autá a pre chodcov podľa mňa ďalších päť
+ale tá rieka sa vetví zároveň prichádza
+
+106
+00:02:34,350 --> 00:02:34,360
+ale tá rieka sa vetví zároveň prichádza
+
+107
+00:02:34,360 --> 00:02:37,830
+ale tá rieka sa vetví zároveň prichádza
+k nej taký potok cez ktorý cez ktorý sú
+
+108
+00:02:37,830 --> 00:02:37,840
+k nej taký potok cez ktorý cez ktorý sú
+
+109
+00:02:37,840 --> 00:02:40,149
+k nej taký potok cez ktorý cez ktorý sú
+tiež mosty a začína sa to náramne
+
+110
+00:02:40,149 --> 00:02:40,159
+tiež mosty a začína sa to náramne
+
+111
+00:02:40,159 --> 00:02:42,149
+tiež mosty a začína sa to náramne
+podobať na matematickú úlohu ktorá bola
+
+112
+00:02:42,149 --> 00:02:42,159
+podobať na matematickú úlohu ktorá bola
+
+113
+00:02:42,159 --> 00:02:44,229
+podobať na matematickú úlohu ktorá bola
+jedným z faktorov ktoré súvisel so
+
+114
+00:02:44,229 --> 00:02:44,239
+jedným z faktorov ktoré súvisel so
+
+115
+00:02:44,239 --> 00:02:48,430
+jedným z faktorov ktoré súvisel so
+vznikom topológie a tá úloha sa volá
+
+116
+00:02:48,430 --> 00:02:48,440
+vznikom topológie a tá úloha sa volá
+
+117
+00:02:48,440 --> 00:02:51,750
+vznikom topológie a tá úloha sa volá
+sedem mostov King bergu To je asi
+
+118
+00:02:51,750 --> 00:02:51,760
+sedem mostov King bergu To je asi
+
+119
+00:02:51,760 --> 00:02:56,910
+sedem mostov King bergu To je asi
+Kaliningrad aktuálne A áno To bol starý
+
+120
+00:02:56,910 --> 00:02:56,920
+Kaliningrad aktuálne A áno To bol starý
+
+121
+00:02:56,920 --> 00:02:59,070
+Kaliningrad aktuálne A áno To bol starý
+hej že to bol To bol starý starý názov a
+
+122
+00:02:59,070 --> 00:02:59,080
+hej že to bol To bol starý starý názov a
+
+123
+00:02:59,080 --> 00:03:01,830
+hej že to bol To bol starý starý názov a
+tam je vlastne je situácia taká že
+
+124
+00:03:01,830 --> 00:03:01,840
+tam je vlastne je situácia taká že
+
+125
+00:03:01,840 --> 00:03:05,270
+tam je vlastne je situácia taká že
+predstav si eh tiež že rieka tečie
+
+126
+00:03:05,270 --> 00:03:05,280
+predstav si eh tiež že rieka tečie
+
+127
+00:03:05,280 --> 00:03:08,710
+predstav si eh tiež že rieka tečie
+mestom ale tá rieka sa poprvé eh na
+
+128
+00:03:08,710 --> 00:03:08,720
+mestom ale tá rieka sa poprvé eh na
+
+129
+00:03:08,720 --> 00:03:10,430
+mestom ale tá rieka sa poprvé eh na
+jednom mieste
+
+130
+00:03:10,430 --> 00:03:10,440
+jednom mieste
+
+131
+00:03:10,440 --> 00:03:12,830
+jednom mieste
+rozdvojuje ešte raz ale potom zase dva
+
+132
+00:03:12,830 --> 00:03:12,840
+rozdvojuje ešte raz ale potom zase dva
+
+133
+00:03:12,840 --> 00:03:14,830
+rozdvojuje ešte raz ale potom zase dva
+toky spoja ťažko sa to predstavuje
+
+134
+00:03:14,830 --> 00:03:14,840
+toky spoja ťažko sa to predstavuje
+
+135
+00:03:14,840 --> 00:03:16,710
+toky spoja ťažko sa to predstavuje
+predstav si písmenko a z ktorého ešte
+
+136
+00:03:16,710 --> 00:03:16,720
+predstav si písmenko a z ktorého ešte
+
+137
+00:03:16,720 --> 00:03:18,990
+predstav si písmenko a z ktorého ešte
+hore vychádza jedna palička tak zhruba
+
+138
+00:03:18,990 --> 00:03:19,000
+hore vychádza jedna palička tak zhruba
+
+139
+00:03:19,000 --> 00:03:21,990
+hore vychádza jedna palička tak zhruba
+takú štruktúru má Rieka pretekajúca cez
+
+140
+00:03:21,990 --> 00:03:22,000
+takú štruktúru má Rieka pretekajúca cez
+
+141
+00:03:22,000 --> 00:03:26,309
+takú štruktúru má Rieka pretekajúca cez
+eh Kaliningrad Aha ja by som povedal že
+
+142
+00:03:26,309 --> 00:03:26,319
+eh Kaliningrad Aha ja by som povedal že
+
+143
+00:03:26,319 --> 00:03:28,070
+eh Kaliningrad Aha ja by som povedal že
+dve rieky sa stretávajú pri jednom
+
+144
+00:03:28,070 --> 00:03:28,080
+dve rieky sa stretávajú pri jednom
+
+145
+00:03:28,080 --> 00:03:30,670
+dve rieky sa stretávajú pri jednom
+štvorčeku a potom pokračujú Sam Ale
+
+146
+00:03:30,670 --> 00:03:30,680
+štvorčeku a potom pokračujú Sam Ale
+
+147
+00:03:30,680 --> 00:03:33,789
+štvorčeku a potom pokračujú Sam Ale
+spolu ale eh Áno alebo Inak inak že
+
+148
+00:03:33,789 --> 00:03:33,799
+spolu ale eh Áno alebo Inak inak že
+
+149
+00:03:33,799 --> 00:03:35,710
+spolu ale eh Áno alebo Inak inak že
+predstav si štvorček a z toho štvorčeka
+
+150
+00:03:35,710 --> 00:03:35,720
+predstav si štvorček a z toho štvorčeka
+
+151
+00:03:35,720 --> 00:03:38,270
+predstav si štvorček a z toho štvorčeka
+z troch jeho vrcholov vychádza Palka
+
+152
+00:03:38,270 --> 00:03:38,280
+z troch jeho vrcholov vychádza Palka
+
+153
+00:03:38,280 --> 00:03:40,789
+z troch jeho vrcholov vychádza Palka
+rieka tak no a teraz na tomto na tomto
+
+154
+00:03:40,789 --> 00:03:40,799
+rieka tak no a teraz na tomto na tomto
+
+155
+00:03:40,799 --> 00:03:44,270
+rieka tak no a teraz na tomto na tomto
+útvare je sedem mostov a ľudia
+
+156
+00:03:44,270 --> 00:03:44,280
+útvare je sedem mostov a ľudia
+
+157
+00:03:44,280 --> 00:03:45,949
+útvare je sedem mostov a ľudia
+rozmýšľali že či si vieš urobiť takú
+
+158
+00:03:45,949 --> 00:03:45,959
+rozmýšľali že či si vieš urobiť takú
+
+159
+00:03:45,959 --> 00:03:48,910
+rozmýšľali že či si vieš urobiť takú
+špacírku aby si po každom moste prešiel
+
+160
+00:03:48,910 --> 00:03:48,920
+špacírku aby si po každom moste prešiel
+
+161
+00:03:48,920 --> 00:03:51,550
+špacírku aby si po každom moste prešiel
+iba raz a to je úloha ktorú si teraz
+
+162
+00:03:51,550 --> 00:03:51,560
+iba raz a to je úloha ktorú si teraz
+
+163
+00:03:51,560 --> 00:03:53,350
+iba raz a to je úloha ktorú si teraz
+vieš klásť aj v smrečanoch preto Vlastne
+
+164
+00:03:53,350 --> 00:03:53,360
+vieš klásť aj v smrečanoch preto Vlastne
+
+165
+00:03:53,360 --> 00:03:55,589
+vieš klásť aj v smrečanoch preto Vlastne
+sme o nich rozprávali že vieš si vieš
+
+166
+00:03:55,589 --> 00:03:55,599
+sme o nich rozprávali že vieš si vieš
+
+167
+00:03:55,599 --> 00:03:57,110
+sme o nich rozprávali že vieš si vieš
+rozmýšľať o tom že či vieš urobiť takú
+
+168
+00:03:57,110 --> 00:03:57,120
+rozmýšľať o tom že či vieš urobiť takú
+
+169
+00:03:57,120 --> 00:03:58,509
+rozmýšľať o tom že či vieš urobiť takú
+prechádzku aby si po každom moste
+
+170
+00:03:58,509 --> 00:03:58,519
+prechádzku aby si po každom moste
+
+171
+00:03:58,519 --> 00:04:02,149
+prechádzku aby si po každom moste
+prešiel iba ras tam jeden most nie No čo
+
+172
+00:04:02,149 --> 00:04:02,159
+prešiel iba ras tam jeden most nie No čo
+
+173
+00:04:02,159 --> 00:04:03,309
+prešiel iba ras tam jeden most nie No čo
+sa týka
+
+174
+00:04:03,309 --> 00:04:03,319
+sa týka
+
+175
+00:04:03,319 --> 00:04:06,910
+sa týka
+eh Kings bergu tak tá situácia bola
+
+176
+00:04:06,910 --> 00:04:06,920
+eh Kings bergu tak tá situácia bola
+
+177
+00:04:06,920 --> 00:04:09,030
+eh Kings bergu tak tá situácia bola
+pomerne zložitá a ľudia dlho rozmýšľali
+
+178
+00:04:09,030 --> 00:04:09,040
+pomerne zložitá a ľudia dlho rozmýšľali
+
+179
+00:04:09,040 --> 00:04:10,670
+pomerne zložitá a ľudia dlho rozmýšľali
+nad tým že či tu by sa nedalo nejaké
+
+180
+00:04:10,670 --> 00:04:10,680
+nad tým že či tu by sa nedalo nejaké
+
+181
+00:04:10,680 --> 00:04:13,390
+nad tým že či tu by sa nedalo nejaké
+špeciálne Kolečko a tak ďalej a úlohu
+
+182
+00:04:13,390 --> 00:04:13,400
+špeciálne Kolečko a tak ďalej a úlohu
+
+183
+00:04:13,400 --> 00:04:16,030
+špeciálne Kolečko a tak ďalej a úlohu
+vyriešil a napísal o tom článok jeden z
+
+184
+00:04:16,030 --> 00:04:16,040
+vyriešil a napísal o tom článok jeden z
+
+185
+00:04:16,040 --> 00:04:18,189
+vyriešil a napísal o tom článok jeden z
+najväčších matematikov Aký Kedy žil
+
+186
+00:04:18,189 --> 00:04:18,199
+najväčších matematikov Aký Kedy žil
+
+187
+00:04:18,199 --> 00:04:20,270
+najväčších matematikov Aký Kedy žil
+Leonard
+
+188
+00:04:20,270 --> 00:04:20,280
+Leonard
+
+189
+00:04:20,280 --> 00:04:24,510
+Leonard
+euler v roku 1736 eh o tom napísal
+
+190
+00:04:24,510 --> 00:04:24,520
+euler v roku 1736 eh o tom napísal
+
+191
+00:04:24,520 --> 00:04:26,710
+euler v roku 1736 eh o tom napísal
+článok ktorý sa stal Okrem iného
+
+192
+00:04:26,710 --> 00:04:26,720
+článok ktorý sa stal Okrem iného
+
+193
+00:04:26,720 --> 00:04:28,830
+článok ktorý sa stal Okrem iného
+záklonom niečo čo sa volá teória grafov
+
+194
+00:04:28,830 --> 00:04:28,840
+záklonom niečo čo sa volá teória grafov
+
+195
+00:04:28,840 --> 00:04:30,870
+záklonom niečo čo sa volá teória grafov
+ale je to v podstate už aj v hrubom
+
+196
+00:04:30,870 --> 00:04:30,880
+ale je to v podstate už aj v hrubom
+
+197
+00:04:30,880 --> 00:04:32,510
+ale je to v podstate už aj v hrubom
+základná myšlienka
+
+198
+00:04:32,510 --> 00:04:32,520
+základná myšlienka
+
+199
+00:04:32,520 --> 00:04:34,950
+základná myšlienka
+topológie a on si vlastne uvedomil že
+
+200
+00:04:34,950 --> 00:04:34,960
+topológie a on si vlastne uvedomil že
+
+201
+00:04:34,960 --> 00:04:37,469
+topológie a on si vlastne uvedomil že
+tak my si vieme zjednodušiť situáciu že
+
+202
+00:04:37,469 --> 00:04:37,479
+tak my si vieme zjednodušiť situáciu že
+
+203
+00:04:37,479 --> 00:04:39,390
+tak my si vieme zjednodušiť situáciu že
+my si nemusíme presne kresliť polohu
+
+204
+00:04:39,390 --> 00:04:39,400
+my si nemusíme presne kresliť polohu
+
+205
+00:04:39,400 --> 00:04:41,670
+my si nemusíme presne kresliť polohu
+každého mostu A koľko metrov je od
+
+206
+00:04:41,670 --> 00:04:41,680
+každého mostu A koľko metrov je od
+
+207
+00:04:41,680 --> 00:04:43,110
+každého mostu A koľko metrov je od
+jedného mostu k druhému že toto sú
+
+208
+00:04:43,110 --> 00:04:43,120
+jedného mostu k druhému že toto sú
+
+209
+00:04:43,120 --> 00:04:45,150
+jedného mostu k druhému že toto sú
+všetko nedôležité
+
+210
+00:04:45,150 --> 00:04:45,160
+všetko nedôležité
+
+211
+00:04:45,160 --> 00:04:47,950
+všetko nedôležité
+informácie teba zaujíma len informácia o
+
+212
+00:04:47,950 --> 00:04:47,960
+informácie teba zaujíma len informácia o
+
+213
+00:04:47,960 --> 00:04:51,749
+informácie teba zaujíma len informácia o
+tom aké tam máš pevniny v hre Čo je taký
+
+214
+00:04:51,749 --> 00:04:51,759
+tom aké tam máš pevniny v hre Čo je taký
+
+215
+00:04:51,759 --> 00:04:53,469
+tom aké tam máš pevniny v hre Čo je taký
+ten tie ostrovčeky ktoré vznikali a
+
+216
+00:04:53,469 --> 00:04:53,479
+ten tie ostrovčeky ktoré vznikali a
+
+217
+00:04:53,479 --> 00:04:55,950
+ten tie ostrovčeky ktoré vznikali a
+potom tie krajné pevniny A ako sú
+
+218
+00:04:55,950 --> 00:04:55,960
+potom tie krajné pevniny A ako sú
+
+219
+00:04:55,960 --> 00:04:59,670
+potom tie krajné pevniny A ako sú
+poprepájané mostami čiže on tú situáciu
+
+220
+00:04:59,670 --> 00:04:59,680
+poprepájané mostami čiže on tú situáciu
+
+221
+00:04:59,680 --> 00:05:02,390
+poprepájané mostami čiže on tú situáciu
+zložitú geografickú nahradil takou veľmi
+
+222
+00:05:02,390 --> 00:05:02,400
+zložitú geografickú nahradil takou veľmi
+
+223
+00:05:02,400 --> 00:05:05,189
+zložitú geografickú nahradil takou veľmi
+jednoduchou abstrakciou také štyri bodky
+
+224
+00:05:05,189 --> 00:05:05,199
+jednoduchou abstrakciou také štyri bodky
+
+225
+00:05:05,199 --> 00:05:07,390
+jednoduchou abstrakciou také štyri bodky
+ktoré predstavovali pevniny A tie bodky
+
+226
+00:05:07,390 --> 00:05:07,400
+ktoré predstavovali pevniny A tie bodky
+
+227
+00:05:07,400 --> 00:05:09,189
+ktoré predstavovali pevniny A tie bodky
+boli pospájané čiarami ktoré
+
+228
+00:05:09,189 --> 00:05:09,199
+boli pospájané čiarami ktoré
+
+229
+00:05:09,199 --> 00:05:11,870
+boli pospájané čiarami ktoré
+predstavovali tie mosty
+
+230
+00:05:11,870 --> 00:05:11,880
+predstavovali tie mosty
+
+231
+00:05:11,880 --> 00:05:14,550
+predstavovali tie mosty
+eh to je niečo čo v teórii grafu by sme
+
+232
+00:05:14,550 --> 00:05:14,560
+eh to je niečo čo v teórii grafu by sme
+
+233
+00:05:14,560 --> 00:05:17,110
+eh to je niečo čo v teórii grafu by sme
+označili za vrcholy a hrany ktoré
+
+234
+00:05:17,110 --> 00:05:17,120
+označili za vrcholy a hrany ktoré
+
+235
+00:05:17,120 --> 00:05:19,390
+označili za vrcholy a hrany ktoré
+spájajú dokopy tie vrcholy
+
+236
+00:05:19,390 --> 00:05:19,400
+spájajú dokopy tie vrcholy
+
+237
+00:05:19,400 --> 00:05:22,749
+spájajú dokopy tie vrcholy
+a tam sa dá pomerne jednoducho ukázať že
+
+238
+00:05:22,749 --> 00:05:22,759
+a tam sa dá pomerne jednoducho ukázať že
+
+239
+00:05:22,759 --> 00:05:24,870
+a tam sa dá pomerne jednoducho ukázať že
+keď prídeš na nejakú pevninu a odídeš z
+
+240
+00:05:24,870 --> 00:05:24,880
+keď prídeš na nejakú pevninu a odídeš z
+
+241
+00:05:24,880 --> 00:05:26,830
+keď prídeš na nejakú pevninu a odídeš z
+tej pevniny tak tam Musíš tam mať dva
+
+242
+00:05:26,830 --> 00:05:26,840
+tej pevniny tak tam Musíš tam mať dva
+
+243
+00:05:26,840 --> 00:05:29,670
+tej pevniny tak tam Musíš tam mať dva
+rôzne mosty A keď na tú pevninu chceš
+
+244
+00:05:29,670 --> 00:05:29,680
+rôzne mosty A keď na tú pevninu chceš
+
+245
+00:05:29,680 --> 00:05:31,629
+rôzne mosty A keď na tú pevninu chceš
+prísť dvakrát ale žiaden most sa
+
+246
+00:05:31,629 --> 00:05:31,639
+prísť dvakrát ale žiaden most sa
+
+247
+00:05:31,639 --> 00:05:33,350
+prísť dvakrát ale žiaden most sa
+neopakuje tak ich musíš mať
+
+248
+00:05:33,350 --> 00:05:33,360
+neopakuje tak ich musíš mať
+
+249
+00:05:33,360 --> 00:05:37,189
+neopakuje tak ich musíš mať
+štyri čiže všetky pevniny Musia mať
+
+250
+00:05:37,189 --> 00:05:37,199
+štyri čiže všetky pevniny Musia mať
+
+251
+00:05:37,199 --> 00:05:39,790
+štyri čiže všetky pevniny Musia mať
+párny počet vchodov a východov alebo
+
+252
+00:05:39,790 --> 00:05:39,800
+párny počet vchodov a východov alebo
+
+253
+00:05:39,800 --> 00:05:41,390
+párny počet vchodov a východov alebo
+parný počet mostov ktoré sú na nej
+
+254
+00:05:41,390 --> 00:05:41,400
+parný počet mostov ktoré sú na nej
+
+255
+00:05:41,400 --> 00:05:43,909
+parný počet mostov ktoré sú na nej
+napojené okrem toho prvého a posledného
+
+256
+00:05:43,909 --> 00:05:43,919
+napojené okrem toho prvého a posledného
+
+257
+00:05:43,919 --> 00:05:46,590
+napojené okrem toho prvého a posledného
+kde chceš začínať a končiť No a on
+
+258
+00:05:46,590 --> 00:05:46,600
+kde chceš začínať a končiť No a on
+
+259
+00:05:46,600 --> 00:05:49,350
+kde chceš začínať a končiť No a on
+ukázal že vlastne tie pevniny majú
+
+260
+00:05:49,350 --> 00:05:49,360
+ukázal že vlastne tie pevniny majú
+
+261
+00:05:49,360 --> 00:05:51,270
+ukázal že vlastne tie pevniny majú
+nepárne počty mostov a tým pádom
+
+262
+00:05:51,270 --> 00:05:51,280
+nepárne počty mostov a tým pádom
+
+263
+00:05:51,280 --> 00:05:53,070
+nepárne počty mostov a tým pádom
+neexistuje trajektória ktorá by ich
+
+264
+00:05:53,070 --> 00:05:53,080
+neexistuje trajektória ktorá by ich
+
+265
+00:05:53,080 --> 00:05:54,670
+neexistuje trajektória ktorá by ich
+pekne pospájala bez
+
+266
+00:05:54,670 --> 00:05:54,680
+pekne pospájala bez
+
+267
+00:05:54,680 --> 00:05:57,150
+pekne pospájala bez
+opakovania Takže zobral zložitú
+
+268
+00:05:57,150 --> 00:05:57,160
+opakovania Takže zobral zložitú
+
+269
+00:05:57,160 --> 00:06:00,230
+opakovania Takže zobral zložitú
+geografickú situáciu abr akne z nej
+
+270
+00:06:00,230 --> 00:06:00,240
+geografickú situáciu abr akne z nej
+
+271
+00:06:00,240 --> 00:06:02,110
+geografickú situáciu abr akne z nej
+extrahovali len tie dôležité veci ktoré
+
+272
+00:06:02,110 --> 00:06:02,120
+extrahovali len tie dôležité veci ktoré
+
+273
+00:06:02,120 --> 00:06:04,510
+extrahovali len tie dôležité veci ktoré
+nezávisia od detailov ako sú konkrétne
+
+274
+00:06:04,510 --> 00:06:04,520
+nezávisia od detailov ako sú konkrétne
+
+275
+00:06:04,520 --> 00:06:07,029
+nezávisia od detailov ako sú konkrétne
+vzdialenosti konkrétne uhly ktoré mosty
+
+276
+00:06:07,029 --> 00:06:07,039
+vzdialenosti konkrétne uhly ktoré mosty
+
+277
+00:06:07,039 --> 00:06:10,430
+vzdialenosti konkrétne uhly ktoré mosty
+zvierajú a tak ďalej a v tejto
+
+278
+00:06:10,430 --> 00:06:10,440
+zvierajú a tak ďalej a v tejto
+
+279
+00:06:10,440 --> 00:06:12,309
+zvierajú a tak ďalej a v tejto
+zjednodušenej abstraktnej situácii
+
+280
+00:06:12,309 --> 00:06:12,319
+zjednodušenej abstraktnej situácii
+
+281
+00:06:12,319 --> 00:06:14,589
+zjednodušenej abstraktnej situácii
+našiel veľmi ľahko už riešenie danej
+
+282
+00:06:14,589 --> 00:06:14,599
+našiel veľmi ľahko už riešenie danej
+
+283
+00:06:14,599 --> 00:06:17,230
+našiel veľmi ľahko už riešenie danej
+úlohy Takže veľmi ľudovo by sa dalo
+
+284
+00:06:17,230 --> 00:06:17,240
+úlohy Takže veľmi ľudovo by sa dalo
+
+285
+00:06:17,240 --> 00:06:19,749
+úlohy Takže veľmi ľudovo by sa dalo
+povedať že to čo on spravil je že z tej
+
+286
+00:06:19,749 --> 00:06:19,759
+povedať že to čo on spravil je že z tej
+
+287
+00:06:19,759 --> 00:06:22,550
+povedať že to čo on spravil je že z tej
+geometrickej úlohy odobral tú geometriu
+
+288
+00:06:22,550 --> 00:06:22,560
+geometrickej úlohy odobral tú geometriu
+
+289
+00:06:22,560 --> 00:06:25,790
+geometrickej úlohy odobral tú geometriu
+respektíve to čo si bežne pod geometriou
+
+290
+00:06:25,790 --> 00:06:25,800
+respektíve to čo si bežne pod geometriou
+
+291
+00:06:25,800 --> 00:06:28,150
+respektíve to čo si bežne pod geometriou
+predstavujeme všetky vzdialenosti uhly a
+
+292
+00:06:28,150 --> 00:06:28,160
+predstavujeme všetky vzdialenosti uhly a
+
+293
+00:06:28,160 --> 00:06:30,150
+predstavujeme všetky vzdialenosti uhly a
+tak ďalej Boli preč jediné D bolo to
+
+294
+00:06:30,150 --> 00:06:30,160
+tak ďalej Boli preč jediné D bolo to
+
+295
+00:06:30,160 --> 00:06:32,430
+tak ďalej Boli preč jediné D bolo to
+usporiadanie tých vecí čo je blízko čoho
+
+296
+00:06:32,430 --> 00:06:32,440
+usporiadanie tých vecí čo je blízko čoho
+
+297
+00:06:32,440 --> 00:06:33,749
+usporiadanie tých vecí čo je blízko čoho
+čo je s čím
+
+298
+00:06:33,749 --> 00:06:33,759
+čo je s čím
+
+299
+00:06:33,759 --> 00:06:36,110
+čo je s čím
+prepojené a tomu vlastne stačilo na
+
+300
+00:06:36,110 --> 00:06:36,120
+prepojené a tomu vlastne stačilo na
+
+301
+00:06:36,120 --> 00:06:37,390
+prepojené a tomu vlastne stačilo na
+vyriešenie
+
+302
+00:06:37,390 --> 00:06:37,400
+vyriešenie
+
+303
+00:06:37,400 --> 00:06:40,469
+vyriešenie
+úlohy on ešte topológiu nevytvoril z
+
+304
+00:06:40,469 --> 00:06:40,479
+úlohy on ešte topológiu nevytvoril z
+
+305
+00:06:40,479 --> 00:06:43,790
+úlohy on ešte topológiu nevytvoril z
+toho sa potom neskôr diala oblasť Ale
+
+306
+00:06:43,790 --> 00:06:43,800
+toho sa potom neskôr diala oblasť Ale
+
+307
+00:06:43,800 --> 00:06:45,589
+toho sa potom neskôr diala oblasť Ale
+skôr by mohlo byť fajn ešte dať zopár
+
+308
+00:06:45,589 --> 00:06:45,599
+skôr by mohlo byť fajn ešte dať zopár
+
+309
+00:06:45,599 --> 00:06:47,950
+skôr by mohlo byť fajn ešte dať zopár
+iných príkladov kde narážame
+
+310
+00:06:47,950 --> 00:06:47,960
+iných príkladov kde narážame
+
+311
+00:06:47,960 --> 00:06:50,870
+iných príkladov kde narážame
+na topológiu V bežnom živote tiež sa z
+
+312
+00:06:50,870 --> 00:06:50,880
+na topológiu V bežnom živote tiež sa z
+
+313
+00:06:50,880 --> 00:06:52,870
+na topológiu V bežnom živote tiež sa z
+tohto vyvinula samostatná oblasť
+
+314
+00:06:52,870 --> 00:06:52,880
+tohto vyvinula samostatná oblasť
+
+315
+00:06:52,880 --> 00:06:56,670
+tohto vyvinula samostatná oblasť
+matematiky ale veľmi v hrubom súvisí s
+
+316
+00:06:56,670 --> 00:06:56,680
+matematiky ale veľmi v hrubom súvisí s
+
+317
+00:06:56,680 --> 00:06:59,629
+matematiky ale veľmi v hrubom súvisí s
+topológiou a to je že teória uzlov
+
+318
+00:06:59,629 --> 00:06:59,639
+topológiou a to je že teória uzlov
+
+319
+00:06:59,639 --> 00:07:02,550
+topológiou a to je že teória uzlov
+zoberieš nejaký špagátik nejakú slučku
+
+320
+00:07:02,550 --> 00:07:02,560
+zoberieš nejaký špagátik nejakú slučku
+
+321
+00:07:02,560 --> 00:07:05,070
+zoberieš nejaký špagátik nejakú slučku
+ako keby gumička do vlasov Tak tomu
+
+322
+00:07:05,070 --> 00:07:05,080
+ako keby gumička do vlasov Tak tomu
+
+323
+00:07:05,080 --> 00:07:06,390
+ako keby gumička do vlasov Tak tomu
+povieš že toto je taký takzvaný
+
+324
+00:07:06,390 --> 00:07:06,400
+povieš že toto je taký takzvaný
+
+325
+00:07:06,400 --> 00:07:08,270
+povieš že toto je taký takzvaný
+triviálny uzol jednoduchá slučka Teraz
+
+326
+00:07:08,270 --> 00:07:08,280
+triviálny uzol jednoduchá slučka Teraz
+
+327
+00:07:08,280 --> 00:07:12,790
+triviálny uzol jednoduchá slučka Teraz
+je otázka že keď ho
+
+328
+00:07:12,800 --> 00:07:15,589
+rozcvičiť tak ľudia sa takýmto úlohám
+
+329
+00:07:15,589 --> 00:07:15,599
+rozcvičiť tak ľudia sa takýmto úlohám
+
+330
+00:07:15,599 --> 00:07:18,670
+rozcvičiť tak ľudia sa takýmto úlohám
+začali venovať a možno si na Instagrame
+
+331
+00:07:18,670 --> 00:07:18,680
+začali venovať a možno si na Instagrame
+
+332
+00:07:18,680 --> 00:07:20,550
+začali venovať a možno si na Instagrame
+videl také videá ako má niekto zamotanú
+
+333
+00:07:20,550 --> 00:07:20,560
+videl také videá ako má niekto zamotanú
+
+334
+00:07:20,560 --> 00:07:22,950
+videl také videá ako má niekto zamotanú
+predlžovačku pod stolom a potom veľmi
+
+335
+00:07:22,950 --> 00:07:22,960
+predlžovačku pod stolom a potom veľmi
+
+336
+00:07:22,960 --> 00:07:24,990
+predlžovačku pod stolom a potom veľmi
+šikovne vie na tom vytvoriť nejaký uzol
+
+337
+00:07:24,990 --> 00:07:25,000
+šikovne vie na tom vytvoriť nejaký uzol
+
+338
+00:07:25,000 --> 00:07:26,790
+šikovne vie na tom vytvoriť nejaký uzol
+potiahne A zrazu sa to celé rozpadne že
+
+339
+00:07:26,790 --> 00:07:26,800
+potiahne A zrazu sa to celé rozpadne že
+
+340
+00:07:26,800 --> 00:07:29,749
+potiahne A zrazu sa to celé rozpadne že
+ten uzol zmizne vieš ako keby tam pridal
+
+341
+00:07:29,749 --> 00:07:29,759
+ten uzol zmizne vieš ako keby tam pridal
+
+342
+00:07:29,759 --> 00:07:32,510
+ten uzol zmizne vieš ako keby tam pridal
+anti zol ktorý Ten pôvodný vyruší a celé
+
+343
+00:07:32,510 --> 00:07:32,520
+anti zol ktorý Ten pôvodný vyruší a celé
+
+344
+00:07:32,520 --> 00:07:33,710
+anti zol ktorý Ten pôvodný vyruší a celé
+sa mu to
+
+345
+00:07:33,710 --> 00:07:33,720
+sa mu to
+
+346
+00:07:33,720 --> 00:07:36,390
+sa mu to
+rozpadne takže ľudia ktorí potrebujú
+
+347
+00:07:36,390 --> 00:07:36,400
+rozpadne takže ľudia ktorí potrebujú
+
+348
+00:07:36,400 --> 00:07:38,390
+rozpadne takže ľudia ktorí potrebujú
+odseknúť nejaké zaseknuté uzly tak
+
+349
+00:07:38,390 --> 00:07:38,400
+odseknúť nejaké zaseknuté uzly tak
+
+350
+00:07:38,400 --> 00:07:40,990
+odseknúť nejaké zaseknuté uzly tak
+niekedy hľadajú teda útočisko v teórii
+
+351
+00:07:40,990 --> 00:07:41,000
+niekedy hľadajú teda útočisko v teórii
+
+352
+00:07:41,000 --> 00:07:45,909
+niekedy hľadajú teda útočisko v teórii
+topológie a ja som mal z tohto tiež taký
+
+353
+00:07:45,909 --> 00:07:45,919
+topológie a ja som mal z tohto tiež taký
+
+354
+00:07:45,919 --> 00:07:47,869
+topológie a ja som mal z tohto tiež taký
+trošku stresujúci zážitok nedávno lebo
+
+355
+00:07:47,869 --> 00:07:47,879
+trošku stresujúci zážitok nedávno lebo
+
+356
+00:07:47,879 --> 00:07:50,469
+trošku stresujúci zážitok nedávno lebo
+keď chodím lo zeva tak si dávam dole
+
+357
+00:07:50,469 --> 00:07:50,479
+keď chodím lo zeva tak si dávam dole
+
+358
+00:07:50,479 --> 00:07:54,070
+keď chodím lo zeva tak si dávam dole
+prsteň svadobný a dám si ho na taký
+
+359
+00:07:54,070 --> 00:07:54,080
+prsteň svadobný a dám si ho na taký
+
+360
+00:07:54,080 --> 00:07:56,589
+prsteň svadobný a dám si ho na taký
+špagátik na na krk vieš že urobím takú
+
+361
+00:07:56,589 --> 00:07:56,599
+špagátik na na krk vieš že urobím takú
+
+362
+00:07:56,599 --> 00:07:59,749
+špagátik na na krk vieš že urobím takú
+takú mašličku uviažeme
+
+363
+00:07:59,749 --> 00:07:59,759
+takú mašličku uviažeme
+
+364
+00:07:59,759 --> 00:08:01,869
+takú mašličku uviažeme
+mi spadol čo som sa dozvedel doma takže
+
+365
+00:08:01,869 --> 00:08:01,879
+mi spadol čo som sa dozvedel doma takže
+
+366
+00:08:01,879 --> 00:08:04,070
+mi spadol čo som sa dozvedel doma takže
+som ho potom musel ísť hľadať a keď som
+
+367
+00:08:04,070 --> 00:08:04,080
+som ho potom musel ísť hľadať a keď som
+
+368
+00:08:04,080 --> 00:08:05,589
+som ho potom musel ísť hľadať a keď som
+rozmýšľal Ako je to možné tak mne sa
+
+369
+00:08:05,589 --> 00:08:05,599
+rozmýšľal Ako je to možné tak mne sa
+
+370
+00:08:05,599 --> 00:08:07,350
+rozmýšľal Ako je to možné tak mne sa
+pravdepodobne stala presne táto situácia
+
+371
+00:08:07,350 --> 00:08:07,360
+pravdepodobne stala presne táto situácia
+
+372
+00:08:07,360 --> 00:08:09,149
+pravdepodobne stala presne táto situácia
+že ja keď som mal nejaký trošku dokrmeny
+
+373
+00:08:09,149 --> 00:08:09,159
+že ja keď som mal nejaký trošku dokrmeny
+
+374
+00:08:09,159 --> 00:08:11,710
+že ja keď som mal nejaký trošku dokrmeny
+špagátik vo vrecku tak sa mi na ňom
+
+375
+00:08:11,710 --> 00:08:11,720
+špagátik vo vrecku tak sa mi na ňom
+
+376
+00:08:11,720 --> 00:08:13,550
+špagátik vo vrecku tak sa mi na ňom
+urobil taký ten antiz lí A keď som tam
+
+377
+00:08:13,550 --> 00:08:13,560
+urobil taký ten antiz lí A keď som tam
+
+378
+00:08:13,560 --> 00:08:15,390
+urobil taký ten antiz lí A keď som tam
+dal prsteň a urobil tam ten bežný Uzel
+
+379
+00:08:15,390 --> 00:08:15,400
+dal prsteň a urobil tam ten bežný Uzel
+
+380
+00:08:15,400 --> 00:08:17,110
+dal prsteň a urobil tam ten bežný Uzel
+tak keď sa stretli tak sa navzájom
+
+381
+00:08:17,110 --> 00:08:17,120
+tak keď sa stretli tak sa navzájom
+
+382
+00:08:17,120 --> 00:08:19,670
+tak keď sa stretli tak sa navzájom
+vyrušili a prsteň padol dole zo
+
+383
+00:08:19,670 --> 00:08:19,680
+vyrušili a prsteň padol dole zo
+
+384
+00:08:19,680 --> 00:08:22,070
+vyrušili a prsteň padol dole zo
+špagátika toto je moje vysvetlenie toho
+
+385
+00:08:22,070 --> 00:08:22,080
+špagátika toto je moje vysvetlenie toho
+
+386
+00:08:22,080 --> 00:08:25,430
+špagátika toto je moje vysvetlenie toho
+čo sa stalo nie som si úplne Ster istý
+
+387
+00:08:25,430 --> 00:08:25,440
+čo sa stalo nie som si úplne Ster istý
+
+388
+00:08:25,440 --> 00:08:28,909
+čo sa stalo nie som si úplne Ster istý
+No ale čo majú spoločné špagátiky a
+
+389
+00:08:28,909 --> 00:08:28,919
+No ale čo majú spoločné špagátiky a
+
+390
+00:08:28,919 --> 00:08:30,550
+No ale čo majú spoločné špagátiky a
+mosty
+
+391
+00:08:30,550 --> 00:08:30,560
+mosty
+
+392
+00:08:30,560 --> 00:08:32,909
+mosty
+keď hľadáš odpoveď na otázku že či sa
+
+393
+00:08:32,909 --> 00:08:32,919
+keď hľadáš odpoveď na otázku že či sa
+
+394
+00:08:32,919 --> 00:08:36,509
+keď hľadáš odpoveď na otázku že či sa
+špagátik dá rozviazať alebo nie tak
+
+395
+00:08:36,509 --> 00:08:36,519
+špagátik dá rozviazať alebo nie tak
+
+396
+00:08:36,519 --> 00:08:38,430
+špagátik dá rozviazať alebo nie tak
+nezávisí od konkrétnych detailov že tu
+
+397
+00:08:38,430 --> 00:08:38,440
+nezávisí od konkrétnych detailov že tu
+
+398
+00:08:38,440 --> 00:08:41,350
+nezávisí od konkrétnych detailov že tu
+máš 2 cm špagátika tu máš zákrutu a tak
+
+399
+00:08:41,350 --> 00:08:41,360
+máš 2 cm špagátika tu máš zákrutu a tak
+
+400
+00:08:41,360 --> 00:08:43,230
+máš 2 cm špagátika tu máš zákrutu a tak
+ďalej dôležité len ako je
+
+401
+00:08:43,230 --> 00:08:43,240
+ďalej dôležité len ako je
+
+402
+00:08:43,240 --> 00:08:45,790
+ďalej dôležité len ako je
+zauzlené rovnako ako pri tých mostoch
+
+403
+00:08:45,790 --> 00:08:45,800
+zauzlené rovnako ako pri tých mostoch
+
+404
+00:08:45,800 --> 00:08:48,150
+zauzlené rovnako ako pri tých mostoch
+nebolo dôležité či sú dlhé 100 m alebo
+
+405
+00:08:48,150 --> 00:08:48,160
+nebolo dôležité či sú dlhé 100 m alebo
+
+406
+00:08:48,160 --> 00:08:51,230
+nebolo dôležité či sú dlhé 100 m alebo
+200 alebo ako sú natočené dôležité bolo
+
+407
+00:08:51,230 --> 00:08:51,240
+200 alebo ako sú natočené dôležité bolo
+
+408
+00:08:51,240 --> 00:08:53,630
+200 alebo ako sú natočené dôležité bolo
+len ako sú pospájané tak aj pri tom
+
+409
+00:08:53,630 --> 00:08:53,640
+len ako sú pospájané tak aj pri tom
+
+410
+00:08:53,640 --> 00:08:56,710
+len ako sú pospájané tak aj pri tom
+špagátiku nie je dôležité ako presne
+
+411
+00:08:56,710 --> 00:08:56,720
+špagátiku nie je dôležité ako presne
+
+412
+00:08:56,720 --> 00:08:58,630
+špagátiku nie je dôležité ako presne
+vyzerá konkrétny ten uzlík ktorý si
+
+413
+00:08:58,630 --> 00:08:58,640
+vyzerá konkrétny ten uzlík ktorý si
+
+414
+00:08:58,640 --> 00:09:01,230
+vyzerá konkrétny ten uzlík ktorý si
+vytvoril ale len že či ide tuto špagátik
+
+415
+00:09:01,230 --> 00:09:01,240
+vytvoril ale len že či ide tuto špagátik
+
+416
+00:09:01,240 --> 00:09:03,470
+vytvoril ale len že či ide tuto špagátik
+nad alebo či ide pod a či sa tuto
+
+417
+00:09:03,470 --> 00:09:03,480
+nad alebo či ide pod a či sa tuto
+
+418
+00:09:03,480 --> 00:09:07,030
+nad alebo či ide pod a či sa tuto
+križuje alebo či sa neku buš len takéto
+
+419
+00:09:07,030 --> 00:09:07,040
+križuje alebo či sa neku buš len takéto
+
+420
+00:09:07,040 --> 00:09:09,509
+križuje alebo či sa neku buš len takéto
+hrubé detaily celej úlohy závisia na tom
+
+421
+00:09:09,509 --> 00:09:09,519
+hrubé detaily celej úlohy závisia na tom
+
+422
+00:09:09,519 --> 00:09:11,030
+hrubé detaily celej úlohy závisia na tom
+aká je odpoveď na otázku či sa dá
+
+423
+00:09:11,030 --> 00:09:11,040
+aká je odpoveď na otázku či sa dá
+
+424
+00:09:11,040 --> 00:09:12,949
+aká je odpoveď na otázku či sa dá
+rozmotať alebo
+
+425
+00:09:12,949 --> 00:09:12,959
+rozmotať alebo
+
+426
+00:09:12,959 --> 00:09:17,829
+rozmotať alebo
+nie matem z že oer zapichol do niečoho
+
+427
+00:09:17,829 --> 00:09:17,839
+nie matem z že oer zapichol do niečoho
+
+428
+00:09:17,839 --> 00:09:20,990
+nie matem z že oer zapichol do niečoho
+čo Ani sám nečakal a zapichnúť je
+
+429
+00:09:20,990 --> 00:09:21,000
+čo Ani sám nečakal a zapichnúť je
+
+430
+00:09:21,000 --> 00:09:23,550
+čo Ani sám nečakal a zapichnúť je
+vlastne veľmi dobré slovo lebo prepich
+
+431
+00:09:23,550 --> 00:09:23,560
+vlastne veľmi dobré slovo lebo prepich
+
+432
+00:09:23,560 --> 00:09:24,949
+vlastne veľmi dobré slovo lebo prepich
+je
+
+433
+00:09:24,949 --> 00:09:24,959
+je
+
+434
+00:09:24,959 --> 00:09:27,430
+je
+typický spôsob ako z jedného telesa
+
+435
+00:09:27,430 --> 00:09:27,440
+typický spôsob ako z jedného telesa
+
+436
+00:09:27,440 --> 00:09:29,590
+typický spôsob ako z jedného telesa
+urobíš druhé
+
+437
+00:09:29,590 --> 00:09:29,600
+urobíš druhé
+
+438
+00:09:29,600 --> 00:09:31,110
+urobíš druhé
+je k tomuto taký ten príklad ktorý podľa
+
+439
+00:09:31,110 --> 00:09:31,120
+je k tomuto taký ten príklad ktorý podľa
+
+440
+00:09:31,120 --> 00:09:33,030
+je k tomuto taký ten príklad ktorý podľa
+mňa Bol niekde použitý V
+
+441
+00:09:33,030 --> 00:09:33,040
+mňa Bol niekde použitý V
+
+442
+00:09:33,040 --> 00:09:36,630
+mňa Bol niekde použitý V
+Simpsonovcoch že kobliha je topologicky
+
+443
+00:09:36,630 --> 00:09:36,640
+Simpsonovcoch že kobliha je topologicky
+
+444
+00:09:36,640 --> 00:09:38,470
+Simpsonovcoch že kobliha je topologicky
+to isté ako
+
+445
+00:09:38,470 --> 00:09:38,480
+to isté ako
+
+446
+00:09:38,480 --> 00:09:42,670
+to isté ako
+hrnček Uhm Áno A A tým sa vlastne myslí
+
+447
+00:09:42,670 --> 00:09:42,680
+hrnček Uhm Áno A A tým sa vlastne myslí
+
+448
+00:09:42,680 --> 00:09:46,269
+hrnček Uhm Áno A A tým sa vlastne myslí
+toto že topologicky považuješ za rovnaké
+
+449
+00:09:46,269 --> 00:09:46,279
+toto že topologicky považuješ za rovnaké
+
+450
+00:09:46,279 --> 00:09:51,069
+toto že topologicky považuješ za rovnaké
+dva útvary ak sa dajú na seba premeniť
+
+451
+00:09:51,069 --> 00:09:51,079
+dva útvary ak sa dajú na seba premeniť
+
+452
+00:09:51,079 --> 00:09:54,509
+dva útvary ak sa dajú na seba premeniť
+malými postupnými transformáciami takže
+
+453
+00:09:54,509 --> 00:09:54,519
+malými postupnými transformáciami takže
+
+454
+00:09:54,519 --> 00:09:56,590
+malými postupnými transformáciami takže
+ak zoberieš v kaliningrade jeden most A
+
+455
+00:09:56,590 --> 00:09:56,600
+ak zoberieš v kaliningrade jeden most A
+
+456
+00:09:56,600 --> 00:09:58,350
+ak zoberieš v kaliningrade jeden most A
+posunieš ho o meter vedľa tak tá úloha
+
+457
+00:09:58,350 --> 00:09:58,360
+posunieš ho o meter vedľa tak tá úloha
+
+458
+00:09:58,360 --> 00:10:01,389
+posunieš ho o meter vedľa tak tá úloha
+sa nijak nezmení ak ho zase posunieš o o
+
+459
+00:10:01,389 --> 00:10:01,399
+sa nijak nezmení ak ho zase posunieš o o
+
+460
+00:10:01,399 --> 00:10:04,269
+sa nijak nezmení ak ho zase posunieš o o
+meter úloha sa nijak nezmení to isté keď
+
+461
+00:10:04,269 --> 00:10:04,279
+meter úloha sa nijak nezmení to isté keď
+
+462
+00:10:04,279 --> 00:10:06,350
+meter úloha sa nijak nezmení to isté keď
+máš ten špagátik a len lanko posunieš o
+
+463
+00:10:06,350 --> 00:10:06,360
+máš ten špagátik a len lanko posunieš o
+
+464
+00:10:06,360 --> 00:10:11,190
+máš ten špagátik a len lanko posunieš o
+1 cm bez toho aby si ho
+
+465
+00:10:11,200 --> 00:10:14,710
+precvič si predstavíš ako máš hrnček z
+
+466
+00:10:14,710 --> 00:10:14,720
+precvič si predstavíš ako máš hrnček z
+
+467
+00:10:14,720 --> 00:10:16,710
+precvič si predstavíš ako máš hrnček z
+plastelíny tak postupne by si do neho
+
+468
+00:10:16,710 --> 00:10:16,720
+plastelíny tak postupne by si do neho
+
+469
+00:10:16,720 --> 00:10:18,430
+plastelíny tak postupne by si do neho
+trošku ťukal ťukal rukami a za chvíľku
+
+470
+00:10:18,430 --> 00:10:18,440
+trošku ťukal ťukal rukami a za chvíľku
+
+471
+00:10:18,440 --> 00:10:20,030
+trošku ťukal ťukal rukami a za chvíľku
+by si z neho vytvoril taký ten valček v
+
+472
+00:10:20,030 --> 00:10:20,040
+by si z neho vytvoril taký ten valček v
+
+473
+00:10:20,040 --> 00:10:20,910
+by si z neho vytvoril taký ten valček v
+tvare
+
+474
+00:10:20,910 --> 00:10:20,920
+tvare
+
+475
+00:10:20,920 --> 00:10:26,310
+tvare
+koblihy tomuto sa hovorí eh že spojité
+
+476
+00:10:26,310 --> 00:10:26,320
+koblihy tomuto sa hovorí eh že spojité
+
+477
+00:10:26,320 --> 00:10:29,509
+koblihy tomuto sa hovorí eh že spojité
+zmeny robíš postupnosť malých zmien a
+
+478
+00:10:29,509 --> 00:10:29,519
+zmeny robíš postupnosť malých zmien a
+
+479
+00:10:29,519 --> 00:10:32,150
+zmeny robíš postupnosť malých zmien a
+nič veľké sa nestalo príkladom veľkej
+
+480
+00:10:32,150 --> 00:10:32,160
+nič veľké sa nestalo príkladom veľkej
+
+481
+00:10:32,160 --> 00:10:34,110
+nič veľké sa nestalo príkladom veľkej
+zmeny je to slovo ktoré si ty použil že
+
+482
+00:10:34,110 --> 00:10:34,120
+zmeny je to slovo ktoré si ty použil že
+
+483
+00:10:34,120 --> 00:10:35,670
+zmeny je to slovo ktoré si ty použil že
+alebo slovné spojenie že spraviť do
+
+484
+00:10:35,670 --> 00:10:35,680
+alebo slovné spojenie že spraviť do
+
+485
+00:10:35,680 --> 00:10:37,030
+alebo slovné spojenie že spraviť do
+niečoho
+
+486
+00:10:37,030 --> 00:10:37,040
+niečoho
+
+487
+00:10:37,040 --> 00:10:39,870
+niečoho
+dieru keď máš tú koblihu tak kobliha má
+
+488
+00:10:39,870 --> 00:10:39,880
+dieru keď máš tú koblihu tak kobliha má
+
+489
+00:10:39,880 --> 00:10:41,870
+dieru keď máš tú koblihu tak kobliha má
+jednu dieru alebo hrnček má jednu dieru
+
+490
+00:10:41,870 --> 00:10:41,880
+jednu dieru alebo hrnček má jednu dieru
+
+491
+00:10:41,880 --> 00:10:42,990
+jednu dieru alebo hrnček má jednu dieru
+ktorú voláme
+
+492
+00:10:42,990 --> 00:10:43,000
+ktorú voláme
+
+493
+00:10:43,000 --> 00:10:46,230
+ktorú voláme
+uško A keď do toho spravíš inú dieru tak
+
+494
+00:10:46,230 --> 00:10:46,240
+uško A keď do toho spravíš inú dieru tak
+
+495
+00:10:46,240 --> 00:10:48,110
+uško A keď do toho spravíš inú dieru tak
+je to Zrazu úplne iný objekt ktorý už
+
+496
+00:10:48,110 --> 00:10:48,120
+je to Zrazu úplne iný objekt ktorý už
+
+497
+00:10:48,120 --> 00:10:49,790
+je to Zrazu úplne iný objekt ktorý už
+malými transformáciami nedokážeš
+
+498
+00:10:49,790 --> 00:10:49,800
+malými transformáciami nedokážeš
+
+499
+00:10:49,800 --> 00:10:52,430
+malými transformáciami nedokážeš
+pretvoriť na ten
+
+500
+00:10:52,430 --> 00:10:52,440
+pretvoriť na ten
+
+501
+00:10:52,440 --> 00:10:55,550
+pretvoriť na ten
+veľký Čiže z pohľadu topológie všetky
+
+502
+00:10:55,550 --> 00:10:55,560
+veľký Čiže z pohľadu topológie všetky
+
+503
+00:10:55,560 --> 00:10:58,230
+veľký Čiže z pohľadu topológie všetky
+objekty ktoré vieš vytvoriť z plastelínu
+
+504
+00:10:58,230 --> 00:10:58,240
+objekty ktoré vieš vytvoriť z plastelínu
+
+505
+00:10:58,240 --> 00:11:00,470
+objekty ktoré vieš vytvoriť z plastelínu
+a majú jednu dier sú
+
+506
+00:11:00,470 --> 00:11:00,480
+a majú jednu dier sú
+
+507
+00:11:00,480 --> 00:11:03,509
+a majú jednu dier sú
+rovnaké lebo proces vytvárania dier je
+
+508
+00:11:03,509 --> 00:11:03,519
+rovnaké lebo proces vytvárania dier je
+
+509
+00:11:03,519 --> 00:11:05,829
+rovnaké lebo proces vytvárania dier je
+zakázaný keď už vytvoríš dieru tak je to
+
+510
+00:11:05,829 --> 00:11:05,839
+zakázaný keď už vytvoríš dieru tak je to
+
+511
+00:11:05,839 --> 00:11:07,629
+zakázaný keď už vytvoríš dieru tak je to
+iný typ
+
+512
+00:11:07,629 --> 00:11:07,639
+iný typ
+
+513
+00:11:07,639 --> 00:11:09,509
+iný typ
+transformácie Takže máš prvá
+
+514
+00:11:09,509 --> 00:11:09,519
+transformácie Takže máš prvá
+
+515
+00:11:09,519 --> 00:11:11,670
+transformácie Takže máš prvá
+transformácia postupné malé zmeny a
+
+516
+00:11:11,670 --> 00:11:11,680
+transformácia postupné malé zmeny a
+
+517
+00:11:11,680 --> 00:11:13,790
+transformácia postupné malé zmeny a
+druhá transformácia urobiť
+
+518
+00:11:13,790 --> 00:11:13,800
+druhá transformácia urobiť
+
+519
+00:11:13,800 --> 00:11:17,590
+druhá transformácia urobiť
+dierku to isté pri tých špagátik malinké
+
+520
+00:11:17,590 --> 00:11:17,600
+dierku to isté pri tých špagátik malinké
+
+521
+00:11:17,600 --> 00:11:19,350
+dierku to isté pri tých špagátik malinké
+transformácie že s tým špagátom len
+
+522
+00:11:19,350 --> 00:11:19,360
+transformácie že s tým špagátom len
+
+523
+00:11:19,360 --> 00:11:30,069
+transformácie že s tým špagátom len
+hýbeš presúva veľká transformácia že ho
+
+524
+00:11:30,079 --> 00:11:32,030
+veľká transformácia je že ho vybúrať A
+
+525
+00:11:32,030 --> 00:11:32,040
+veľká transformácia je že ho vybúrať A
+
+526
+00:11:32,040 --> 00:11:33,870
+veľká transformácia je že ho vybúrať A
+pripojíš na inú pevninu alebo niečo na
+
+527
+00:11:33,870 --> 00:11:33,880
+pripojíš na inú pevninu alebo niečo na
+
+528
+00:11:33,880 --> 00:11:36,990
+pripojíš na inú pevninu alebo niečo na
+tento štýl alebo ho celý odoberie Takže
+
+529
+00:11:36,990 --> 00:11:37,000
+tento štýl alebo ho celý odoberie Takže
+
+530
+00:11:37,000 --> 00:11:39,110
+tento štýl alebo ho celý odoberie Takže
+máš také spojité transformácie a potom
+
+531
+00:11:39,110 --> 00:11:39,120
+máš také spojité transformácie a potom
+
+532
+00:11:39,120 --> 00:11:42,990
+máš také spojité transformácie a potom
+také tie drastické skokové a topológia
+
+533
+00:11:42,990 --> 00:11:43,000
+také tie drastické skokové a topológia
+
+534
+00:11:43,000 --> 00:11:44,790
+také tie drastické skokové a topológia
+sa pozerá na veci že ak sa delia len
+
+535
+00:11:44,790 --> 00:11:44,800
+sa pozerá na veci že ak sa delia len
+
+536
+00:11:44,800 --> 00:11:46,790
+sa pozerá na veci že ak sa delia len
+tými malými transformáciami tak ako keby
+
+537
+00:11:46,790 --> 00:11:46,800
+tými malými transformáciami tak ako keby
+
+538
+00:11:46,800 --> 00:11:49,389
+tými malými transformáciami tak ako keby
+to bolo jedno a to isté takže všetky
+
+539
+00:11:49,389 --> 00:11:49,399
+to bolo jedno a to isté takže všetky
+
+540
+00:11:49,399 --> 00:11:51,350
+to bolo jedno a to isté takže všetky
+veci ktoré majú jednu dierku sú jedno a
+
+541
+00:11:51,350 --> 00:11:51,360
+veci ktoré majú jednu dierku sú jedno a
+
+542
+00:11:51,360 --> 00:11:52,870
+veci ktoré majú jednu dierku sú jedno a
+to isté všetky veci ktoré majú dve
+
+543
+00:11:52,870 --> 00:11:52,880
+to isté všetky veci ktoré majú dve
+
+544
+00:11:52,880 --> 00:11:56,629
+to isté všetky veci ktoré majú dve
+dierky sú jedno a to isté a jeden jedna
+
+545
+00:11:56,629 --> 00:11:56,639
+dierky sú jedno a to isté a jeden jedna
+
+546
+00:11:56,639 --> 00:11:57,910
+dierky sú jedno a to isté a jeden jedna
+z takých úloh na ktorých sa to dá
+
+547
+00:11:57,910 --> 00:11:57,920
+z takých úloh na ktorých sa to dá
+
+548
+00:11:57,920 --> 00:12:00,870
+z takých úloh na ktorých sa to dá
+predstaviť eh eh sa volá že česanie
+
+549
+00:12:00,870 --> 00:12:00,880
+predstaviť eh eh sa volá že česanie
+
+550
+00:12:00,880 --> 00:12:04,190
+predstaviť eh eh sa volá že česanie
+lopty Počul si niekedy takúto úlohu eh
+
+551
+00:12:04,190 --> 00:12:04,200
+lopty Počul si niekedy takúto úlohu eh
+
+552
+00:12:04,200 --> 00:12:07,750
+lopty Počul si niekedy takúto úlohu eh
+nie eh našťastie Predstav si že máš
+
+553
+00:12:07,750 --> 00:12:07,760
+nie eh našťastie Predstav si že máš
+
+554
+00:12:07,760 --> 00:12:09,150
+nie eh našťastie Predstav si že máš
+futbalovú loptu ktorá je kompletne
+
+555
+00:12:09,150 --> 00:12:09,160
+futbalovú loptu ktorá je kompletne
+
+556
+00:12:09,160 --> 00:12:10,470
+futbalovú loptu ktorá je kompletne
+zarastená
+
+557
+00:12:10,470 --> 00:12:10,480
+zarastená
+
+558
+00:12:10,480 --> 00:12:14,310
+zarastená
+vlasmi máš Ok takže takú tenisovú loptu
+
+559
+00:12:14,310 --> 00:12:14,320
+vlasmi máš Ok takže takú tenisovú loptu
+
+560
+00:12:14,320 --> 00:12:17,030
+vlasmi máš Ok takže takú tenisovú loptu
+tenisovú loptu ale že také dlhé hladké
+
+561
+00:12:17,030 --> 00:12:17,040
+tenisovú loptu ale že také dlhé hladké
+
+562
+00:12:17,040 --> 00:12:20,509
+tenisovú loptu ale že také dlhé hladké
+vlasy dajme tomu 5 cm OK a otázka je že
+
+563
+00:12:20,509 --> 00:12:20,519
+vlasy dajme tomu 5 cm OK a otázka je že
+
+564
+00:12:20,519 --> 00:12:23,030
+vlasy dajme tomu 5 cm OK a otázka je že
+či ju dokážeš učesať tak aby si nikde
+
+565
+00:12:23,030 --> 00:12:23,040
+či ju dokážeš učesať tak aby si nikde
+
+566
+00:12:23,040 --> 00:12:24,629
+či ju dokážeš učesať tak aby si nikde
+nemal niečo čo sa po anglicky volá že
+
+567
+00:12:24,629 --> 00:12:24,639
+nemal niečo čo sa po anglicky volá že
+
+568
+00:12:24,639 --> 00:12:27,949
+nemal niečo čo sa po anglicky volá že
+kulik také to miesto vieš kde kde nie sú
+
+569
+00:12:27,949 --> 00:12:27,959
+kulik také to miesto vieš kde kde nie sú
+
+570
+00:12:27,959 --> 00:12:31,350
+kulik také to miesto vieš kde kde nie sú
+žiadne vlasy ako keby Aha OK taká taká
+
+571
+00:12:31,350 --> 00:12:31,360
+žiadne vlasy ako keby Aha OK taká taká
+
+572
+00:12:31,360 --> 00:12:34,269
+žiadne vlasy ako keby Aha OK taká taká
+malá bodka A topologicky sa dá ukázať že
+
+573
+00:12:34,269 --> 00:12:34,279
+malá bodka A topologicky sa dá ukázať že
+
+574
+00:12:34,279 --> 00:12:36,310
+malá bodka A topologicky sa dá ukázať že
+sa to nedá že proste Musíš tam mať
+
+575
+00:12:36,310 --> 00:12:36,320
+sa to nedá že proste Musíš tam mať
+
+576
+00:12:36,320 --> 00:12:37,949
+sa to nedá že proste Musíš tam mať
+miesto kde sa tie vlasy rozbiehajú a
+
+577
+00:12:37,949 --> 00:12:37,959
+miesto kde sa tie vlasy rozbiehajú a
+
+578
+00:12:37,959 --> 00:12:39,430
+miesto kde sa tie vlasy rozbiehajú a
+potom musíš mať iné miesto kde sa tie
+
+579
+00:12:39,430 --> 00:12:39,440
+potom musíš mať iné miesto kde sa tie
+
+580
+00:12:39,440 --> 00:12:42,110
+potom musíš mať iné miesto kde sa tie
+vlasy zbiehajú A nedokážeš s tým nič
+
+581
+00:12:42,110 --> 00:12:42,120
+vlasy zbiehajú A nedokážeš s tým nič
+
+582
+00:12:42,120 --> 00:12:45,470
+vlasy zbiehajú A nedokážeš s tým nič
+spraviť Takže topológia skúma aj takéto
+
+583
+00:12:45,470 --> 00:12:45,480
+spraviť Takže topológia skúma aj takéto
+
+584
+00:12:45,480 --> 00:12:47,230
+spraviť Takže topológia skúma aj takéto
+obskurní
+
+585
+00:12:47,230 --> 00:12:47,240
+obskurní
+
+586
+00:12:47,240 --> 00:12:51,509
+obskurní
+a skúmaj také veci poznáš mobiov pásku
+
+587
+00:12:51,509 --> 00:12:51,519
+a skúmaj také veci poznáš mobiov pásku
+
+588
+00:12:51,519 --> 00:12:54,829
+a skúmaj také veci poznáš mobiov pásku
+eh Áno to je páska vlastne čo si vieš aj
+
+589
+00:12:54,829 --> 00:12:54,839
+eh Áno to je páska vlastne čo si vieš aj
+
+590
+00:12:54,839 --> 00:12:56,750
+eh Áno to je páska vlastne čo si vieš aj
+doma spraviť nie z lepiacej napríklad že
+
+591
+00:12:56,750 --> 00:12:56,760
+doma spraviť nie z lepiacej napríklad že
+
+592
+00:12:56,760 --> 00:12:59,269
+doma spraviť nie z lepiacej napríklad že
+otočíš ten koniec Jeden áno to je že l
+
+593
+00:12:59,269 --> 00:12:59,279
+otočíš ten koniec Jeden áno to je že l
+
+594
+00:12:59,279 --> 00:13:00,870
+otočíš ten koniec Jeden áno to je že l
+papiera ktorý mal len jednu stranu čiže
+
+595
+00:13:00,870 --> 00:13:00,880
+papiera ktorý mal len jednu stranu čiže
+
+596
+00:13:00,880 --> 00:13:03,550
+papiera ktorý mal len jednu stranu čiže
+Si predstav pokladničný bloček
+
+597
+00:13:03,550 --> 00:13:03,560
+Si predstav pokladničný bloček
+
+598
+00:13:03,560 --> 00:13:06,910
+Si predstav pokladničný bloček
+polmetrový ti vytlačia a teraz ho môžeš
+
+599
+00:13:06,910 --> 00:13:06,920
+polmetrový ti vytlačia a teraz ho môžeš
+
+600
+00:13:06,920 --> 00:13:08,430
+polmetrový ti vytlačia a teraz ho môžeš
+spojiť takým spôsobom že ho spojíš A
+
+601
+00:13:08,430 --> 00:13:08,440
+spojiť takým spôsobom že ho spojíš A
+
+602
+00:13:08,440 --> 00:13:12,110
+spojiť takým spôsobom že ho spojíš A
+urobíš si taký valček Nuda hej nuda ale
+
+603
+00:13:12,110 --> 00:13:12,120
+urobíš si taký valček Nuda hej nuda ale
+
+604
+00:13:12,120 --> 00:13:13,470
+urobíš si taký valček Nuda hej nuda ale
+môžeš urobiť takú vec že jeden koniec
+
+605
+00:13:13,470 --> 00:13:13,480
+môžeš urobiť takú vec že jeden koniec
+
+606
+00:13:13,480 --> 00:13:15,710
+môžeš urobiť takú vec že jeden koniec
+otočíš o 180° a potom ich zlepí dokopy
+
+607
+00:13:15,710 --> 00:13:15,720
+otočíš o 180° a potom ich zlepí dokopy
+
+608
+00:13:15,720 --> 00:13:18,230
+otočíš o 180° a potom ich zlepí dokopy
+vieš A máš taký ten papier na ktorý keď
+
+609
+00:13:18,230 --> 00:13:18,240
+vieš A máš taký ten papier na ktorý keď
+
+610
+00:13:18,240 --> 00:13:20,150
+vieš A máš taký ten papier na ktorý keď
+priložíš ceruzku tak vieš písať Po oboj
+
+611
+00:13:20,150 --> 00:13:20,160
+priložíš ceruzku tak vieš písať Po oboj
+
+612
+00:13:20,160 --> 00:13:21,670
+priložíš ceruzku tak vieš písať Po oboj
+jeho stranách bez toho aby si ho zdvihol
+
+613
+00:13:21,670 --> 00:13:21,680
+jeho stranách bez toho aby si ho zdvihol
+
+614
+00:13:21,680 --> 00:13:25,230
+jeho stranách bez toho aby si ho zdvihol
+čiže má vlastne len jednu stranu a tiež
+
+615
+00:13:25,230 --> 00:13:25,240
+čiže má vlastne len jednu stranu a tiež
+
+616
+00:13:25,240 --> 00:13:27,189
+čiže má vlastne len jednu stranu a tiež
+si teraz môžeš položiť otázku že vieš z
+
+617
+00:13:27,189 --> 00:13:27,199
+si teraz môžeš položiť otázku že vieš z
+
+618
+00:13:27,199 --> 00:13:30,470
+si teraz môžeš položiť otázku že vieš z
+mho pásky spraviť obyčajný zlepený
+
+619
+00:13:30,470 --> 00:13:30,480
+mho pásky spraviť obyčajný zlepený
+
+620
+00:13:30,480 --> 00:13:32,829
+mho pásky spraviť obyčajný zlepený
+valček tak môžeš skúsiť No zoberieš
+
+621
+00:13:32,829 --> 00:13:32,839
+valček tak môžeš skúsiť No zoberieš
+
+622
+00:13:32,839 --> 00:13:35,870
+valček tak môžeš skúsiť No zoberieš
+žehličku a začneš to vyrovnávať a Dôjdeš
+
+623
+00:13:35,870 --> 00:13:35,880
+žehličku a začneš to vyrovnávať a Dôjdeš
+
+624
+00:13:35,880 --> 00:13:37,150
+žehličku a začneš to vyrovnávať a Dôjdeš
+do jedného miesta kde ti to nebude
+
+625
+00:13:37,150 --> 00:13:37,160
+do jedného miesta kde ti to nebude
+
+626
+00:13:37,160 --> 00:13:38,910
+do jedného miesta kde ti to nebude
+pasovať že všetko bude krásne krásne
+
+627
+00:13:38,910 --> 00:13:38,920
+pasovať že všetko bude krásne krásne
+
+628
+00:13:38,920 --> 00:13:41,990
+pasovať že všetko bude krásne krásne
+rovné a potom príde ten zlom a znova
+
+629
+00:13:41,990 --> 00:13:42,000
+rovné a potom príde ten zlom a znova
+
+630
+00:13:42,000 --> 00:13:44,150
+rovné a potom príde ten zlom a znova
+robíš veľa spojitých zmien ale nastane
+
+631
+00:13:44,150 --> 00:13:44,160
+robíš veľa spojitých zmien ale nastane
+
+632
+00:13:44,160 --> 00:13:45,829
+robíš veľa spojitých zmien ale nastane
+tam nejaký zlom Ktorý nevieš odstrániť
+
+633
+00:13:45,829 --> 00:13:45,839
+tam nejaký zlom Ktorý nevieš odstrániť
+
+634
+00:13:45,839 --> 00:13:48,750
+tam nejaký zlom Ktorý nevieš odstrániť
+na to aby si to spojil takže preto vieme
+
+635
+00:13:48,750 --> 00:13:48,760
+na to aby si to spojil takže preto vieme
+
+636
+00:13:48,760 --> 00:13:50,230
+na to aby si to spojil takže preto vieme
+povedať že topologicky sú tieto dva
+
+637
+00:13:50,230 --> 00:13:50,240
+povedať že topologicky sú tieto dva
+
+638
+00:13:50,240 --> 00:13:53,550
+povedať že topologicky sú tieto dva
+objekty odlišné nedokážeš ich spoj tými
+
+639
+00:13:53,550 --> 00:13:53,560
+objekty odlišné nedokážeš ich spoj tými
+
+640
+00:13:53,560 --> 00:13:59,150
+objekty odlišné nedokážeš ich spoj tými
+transformáciami na seba pretransformovať
+
+641
+00:13:59,160 --> 00:14:00,269
+sa vlastne z tohto vyvinula celá
+
+642
+00:14:00,269 --> 00:14:00,279
+sa vlastne z tohto vyvinula celá
+
+643
+00:14:00,279 --> 00:14:03,790
+sa vlastne z tohto vyvinula celá
+matematická oblasť kde vlastne ľudia
+
+644
+00:14:03,790 --> 00:14:03,800
+matematická oblasť kde vlastne ľudia
+
+645
+00:14:03,800 --> 00:14:06,069
+matematická oblasť kde vlastne ľudia
+skúmajú objekty ktoré považujú za
+
+646
+00:14:06,069 --> 00:14:06,079
+skúmajú objekty ktoré považujú za
+
+647
+00:14:06,079 --> 00:14:07,870
+skúmajú objekty ktoré považujú za
+ekvivalentné ak sú spojené niečím čo sa
+
+648
+00:14:07,870 --> 00:14:07,880
+ekvivalentné ak sú spojené niečím čo sa
+
+649
+00:14:07,880 --> 00:14:11,550
+ekvivalentné ak sú spojené niečím čo sa
+volá Že
+
+650
+00:14:11,560 --> 00:14:14,749
+homorizia malá postupná
+
+651
+00:14:14,749 --> 00:14:14,759
+homorizia malá postupná
+
+652
+00:14:14,759 --> 00:14:18,030
+homorizia malá postupná
+Uhm a Stala sa z toho úplne brutálne
+
+653
+00:14:18,030 --> 00:14:18,040
+Uhm a Stala sa z toho úplne brutálne
+
+654
+00:14:18,040 --> 00:14:20,749
+Uhm a Stala sa z toho úplne brutálne
+významná oblasť matematiky eh lebo Okrem
+
+655
+00:14:20,749 --> 00:14:20,759
+významná oblasť matematiky eh lebo Okrem
+
+656
+00:14:20,759 --> 00:14:23,350
+významná oblasť matematiky eh lebo Okrem
+iného to poodhalil mnoho rôznych
+
+657
+00:14:23,350 --> 00:14:23,360
+iného to poodhalil mnoho rôznych
+
+658
+00:14:23,360 --> 00:14:24,990
+iného to poodhalil mnoho rôznych
+vlastností napríklad Predstav si že máš
+
+659
+00:14:24,990 --> 00:14:25,000
+vlastností napríklad Predstav si že máš
+
+660
+00:14:25,000 --> 00:14:27,310
+vlastností napríklad Predstav si že máš
+futbalovú loptu a na ňu nakreslí bodky
+
+661
+00:14:27,310 --> 00:14:27,320
+futbalovú loptu a na ňu nakreslí bodky
+
+662
+00:14:27,320 --> 00:14:28,710
+futbalovú loptu a na ňu nakreslí bodky
+takže si môžeš predstaviť normálnu
+
+663
+00:14:28,710 --> 00:14:28,720
+takže si môžeš predstaviť normálnu
+
+664
+00:14:28,720 --> 00:14:31,389
+takže si môžeš predstaviť normálnu
+futbalov lebo tam sú občas bodky
+
+665
+00:14:31,389 --> 00:14:31,399
+futbalov lebo tam sú občas bodky
+
+666
+00:14:31,399 --> 00:14:34,470
+futbalov lebo tam sú občas bodky
+nakreslené bodky pospája paličkami
+
+667
+00:14:34,470 --> 00:14:34,480
+nakreslené bodky pospája paličkami
+
+668
+00:14:34,480 --> 00:14:37,110
+nakreslené bodky pospája paličkami
+takže ti vznikne nejaká forma grafu a
+
+669
+00:14:37,110 --> 00:14:37,120
+takže ti vznikne nejaká forma grafu a
+
+670
+00:14:37,120 --> 00:14:38,829
+takže ti vznikne nejaká forma grafu a
+opýtaš sa že koľko bude mať tento graf
+
+671
+00:14:38,829 --> 00:14:38,839
+opýtaš sa že koľko bude mať tento graf
+
+672
+00:14:38,839 --> 00:14:42,350
+opýtaš sa že koľko bude mať tento graf
+tvári nezávislých od seba vieš že koľko
+
+673
+00:14:42,350 --> 00:14:42,360
+tvári nezávislých od seba vieš že koľko
+
+674
+00:14:42,360 --> 00:14:45,430
+tvári nezávislých od seba vieš že koľko
+Koľko tých plôšok ti to vytvorí a na to
+
+675
+00:14:45,430 --> 00:14:45,440
+Koľko tých plôšok ti to vytvorí a na to
+
+676
+00:14:45,440 --> 00:14:47,590
+Koľko tých plôšok ti to vytvorí a na to
+áno tých plošak a euler na toto našiel
+
+677
+00:14:47,590 --> 00:14:47,600
+áno tých plošak a euler na toto našiel
+
+678
+00:14:47,600 --> 00:14:49,790
+áno tých plošak a euler na toto našiel
+vzorček krásny úplne jednoduchý ktorý
+
+679
+00:14:49,790 --> 00:14:49,800
+vzorček krásny úplne jednoduchý ktorý
+
+680
+00:14:49,800 --> 00:14:52,150
+vzorček krásny úplne jednoduchý ktorý
+ukázal že keď poznáš celkový počet tých
+
+681
+00:14:52,150 --> 00:14:52,160
+ukázal že keď poznáš celkový počet tých
+
+682
+00:14:52,160 --> 00:14:55,430
+ukázal že keď poznáš celkový počet tých
+bodov tých tvári a tých hrán tak dokopy
+
+683
+00:14:55,430 --> 00:14:55,440
+bodov tých tvári a tých hrán tak dokopy
+
+684
+00:14:55,440 --> 00:14:58,269
+bodov tých tvári a tých hrán tak dokopy
+eh ti to dá nejaké fixné číslo jedno
+
+685
+00:14:58,269 --> 00:14:58,279
+eh ti to dá nejaké fixné číslo jedno
+
+686
+00:14:58,279 --> 00:15:00,829
+eh ti to dá nejaké fixné číslo jedno
+pripočítava odpočítava a potom vlastne
+
+687
+00:15:00,829 --> 00:15:00,839
+pripočítava odpočítava a potom vlastne
+
+688
+00:15:00,839 --> 00:15:02,269
+pripočítava odpočítava a potom vlastne
+zistil že takýmto spôsobom sa dajú
+
+689
+00:15:02,269 --> 00:15:02,279
+zistil že takýmto spôsobom sa dajú
+
+690
+00:15:02,279 --> 00:15:03,949
+zistil že takýmto spôsobom sa dajú
+klasifikovať rôzne objekty že keby si
+
+691
+00:15:03,949 --> 00:15:03,959
+klasifikovať rôzne objekty že keby si
+
+692
+00:15:03,959 --> 00:15:06,030
+klasifikovať rôzne objekty že keby si
+takúto grafov štruktúru nakreslil na
+
+693
+00:15:06,030 --> 00:15:06,040
+takúto grafov štruktúru nakreslil na
+
+694
+00:15:06,040 --> 00:15:08,550
+takúto grafov štruktúru nakreslil na
+koblihu tak dostaneš iný výsledok a keď
+
+695
+00:15:08,550 --> 00:15:08,560
+koblihu tak dostaneš iný výsledok a keď
+
+696
+00:15:08,560 --> 00:15:11,550
+koblihu tak dostaneš iný výsledok a keď
+to nakreslí na dvojdielnu tak zase iný
+
+697
+00:15:11,550 --> 00:15:11,560
+to nakreslí na dvojdielnu tak zase iný
+
+698
+00:15:11,560 --> 00:15:14,350
+to nakreslí na dvojdielnu tak zase iný
+takže sa začal ukazovať nejaká taký
+
+699
+00:15:14,350 --> 00:15:14,360
+takže sa začal ukazovať nejaká taký
+
+700
+00:15:14,360 --> 00:15:16,749
+takže sa začal ukazovať nejaká taký
+hlboký súvis medzi grafmi a tým na Čo
+
+701
+00:15:16,749 --> 00:15:16,759
+hlboký súvis medzi grafmi a tým na Čo
+
+702
+00:15:16,759 --> 00:15:18,990
+hlboký súvis medzi grafmi a tým na Čo
+kreslíš takéto takéto veci čiže
+
+703
+00:15:18,990 --> 00:15:19,000
+kreslíš takéto takéto veci čiže
+
+704
+00:15:19,000 --> 00:15:23,870
+kreslíš takéto takéto veci čiže
+topológia je matematika geometrie bez
+
+705
+00:15:23,870 --> 00:15:23,880
+topológia je matematika geometrie bez
+
+706
+00:15:23,880 --> 00:15:26,350
+topológia je matematika geometrie bez
+geometrie trošku nadnesené samozrejme
+
+707
+00:15:26,350 --> 00:15:26,360
+geometrie trošku nadnesené samozrejme
+
+708
+00:15:26,360 --> 00:15:27,590
+geometrie trošku nadnesené samozrejme
+povedané lebo keby sme povedali tú
+
+709
+00:15:27,590 --> 00:15:27,600
+povedané lebo keby sme povedali tú
+
+710
+00:15:27,600 --> 00:15:30,110
+povedané lebo keby sme povedali tú
+formálnu definíciu tak
+
+711
+00:15:30,110 --> 00:15:30,120
+formálnu definíciu tak
+
+712
+00:15:30,120 --> 00:15:32,550
+formálnu definíciu tak
+No je to to je to je divočina lebo
+
+713
+00:15:32,550 --> 00:15:32,560
+No je to to je to je divočina lebo
+
+714
+00:15:32,560 --> 00:15:34,389
+No je to to je to je divočina lebo
+matematici spravili to čo sa to čo
+
+715
+00:15:34,389 --> 00:15:34,399
+matematici spravili to čo sa to čo
+
+716
+00:15:34,399 --> 00:15:36,350
+matematici spravili to čo sa to čo
+zvyknú oni robiť že všetko extrémne
+
+717
+00:15:36,350 --> 00:15:36,360
+zvyknú oni robiť že všetko extrémne
+
+718
+00:15:36,360 --> 00:15:39,309
+zvyknú oni robiť že všetko extrémne
+formalizmu začnú do toho vkladať rovnice
+
+719
+00:15:39,309 --> 00:15:39,319
+formalizmu začnú do toho vkladať rovnice
+
+720
+00:15:39,319 --> 00:15:41,590
+formalizmu začnú do toho vkladať rovnice
+Čo je samozrejme super užitočné lebo o
+
+721
+00:15:41,590 --> 00:15:41,600
+Čo je samozrejme super užitočné lebo o
+
+722
+00:15:41,600 --> 00:15:44,030
+Čo je samozrejme super užitočné lebo o
+rovniciach sme sa už toho dozvedeli vo
+
+723
+00:15:44,030 --> 00:15:44,040
+rovniciach sme sa už toho dozvedeli vo
+
+724
+00:15:44,040 --> 00:15:45,949
+rovniciach sme sa už toho dozvedeli vo
+svete veľa Takže keď
+
+725
+00:15:45,949 --> 00:15:45,959
+svete veľa Takže keď
+
+726
+00:15:45,959 --> 00:15:48,309
+svete veľa Takže keď
+topologické úlohy vieš previesť do
+
+727
+00:15:48,309 --> 00:15:48,319
+topologické úlohy vieš previesť do
+
+728
+00:15:48,319 --> 00:15:50,189
+topologické úlohy vieš previesť do
+previesť do reči rovníc tak strašne veľa
+
+729
+00:15:50,189 --> 00:15:50,199
+previesť do reči rovníc tak strašne veľa
+
+730
+00:15:50,199 --> 00:15:53,230
+previesť do reči rovníc tak strašne veľa
+toho budeš vedieť vyriešiť Takže
+
+731
+00:15:53,230 --> 00:15:53,240
+toho budeš vedieť vyriešiť Takže
+
+732
+00:15:53,240 --> 00:15:55,550
+toho budeš vedieť vyriešiť Takže
+matematika sa začala rozvetvená skúmať
+
+733
+00:15:55,550 --> 00:15:55,560
+matematika sa začala rozvetvená skúmať
+
+734
+00:15:55,560 --> 00:15:57,430
+matematika sa začala rozvetvená skúmať
+také veci ako napríklad že algebraická
+
+735
+00:15:57,430 --> 00:15:57,440
+také veci ako napríklad že algebraická
+
+736
+00:15:57,440 --> 00:16:00,069
+také veci ako napríklad že algebraická
+topológia to je že topológia kde riešiš
+
+737
+00:16:00,069 --> 00:16:00,079
+topológia to je že topológia kde riešiš
+
+738
+00:16:00,079 --> 00:16:02,069
+topológia to je že topológia kde riešiš
+veci pomocou pomocou rovníc
+
+739
+00:16:02,069 --> 00:16:02,079
+veci pomocou pomocou rovníc
+
+740
+00:16:02,079 --> 00:16:04,069
+veci pomocou pomocou rovníc
+diferenciálna topológia geometrická
+
+741
+00:16:04,069 --> 00:16:04,079
+diferenciálna topológia geometrická
+
+742
+00:16:04,079 --> 00:16:06,030
+diferenciálna topológia geometrická
+topológia a tak ďalej že začalo sa to
+
+743
+00:16:06,030 --> 00:16:06,040
+topológia a tak ďalej že začalo sa to
+
+744
+00:16:06,040 --> 00:16:10,389
+topológia a tak ďalej že začalo sa to
+vetviť ale v podstate je to celé o tomto
+
+745
+00:16:10,389 --> 00:16:10,399
+vetviť ale v podstate je to celé o tomto
+
+746
+00:16:10,399 --> 00:16:13,230
+vetviť ale v podstate je to celé o tomto
+skúmať vlastnosti geometrických objektov
+
+747
+00:16:13,230 --> 00:16:13,240
+skúmať vlastnosti geometrických objektov
+
+748
+00:16:13,240 --> 00:16:16,189
+skúmať vlastnosti geometrických objektov
+keď prižmúri oko a všetky tie
+
+749
+00:16:16,189 --> 00:16:16,199
+keď prižmúri oko a všetky tie
+
+750
+00:16:16,199 --> 00:16:18,710
+keď prižmúri oko a všetky tie
+deformácie berieš ako keby niečo čo vieš
+
+751
+00:16:18,710 --> 00:16:18,720
+deformácie berieš ako keby niečo čo vieš
+
+752
+00:16:18,720 --> 00:16:21,389
+deformácie berieš ako keby niečo čo vieš
+robiť zadarmo že hrnček a kobliha je to
+
+753
+00:16:21,389 --> 00:16:21,399
+robiť zadarmo že hrnček a kobliha je to
+
+754
+00:16:21,399 --> 00:16:26,590
+robiť zadarmo že hrnček a kobliha je to
+isté lebo sú oddelené len malým malým
+
+755
+00:16:26,600 --> 00:16:28,550
+pretvarovanie takáto vec už bude potom
+
+756
+00:16:28,550 --> 00:16:28,560
+pretvarovanie takáto vec už bude potom
+
+757
+00:16:28,560 --> 00:16:30,749
+pretvarovanie takáto vec už bude potom
+úplná že načo mi geometria bez geometrie
+
+758
+00:16:30,749 --> 00:16:30,759
+úplná že načo mi geometria bez geometrie
+
+759
+00:16:30,759 --> 00:16:31,990
+úplná že načo mi geometria bez geometrie
+že toto už bude úpl no to som chcel
+
+760
+00:16:31,990 --> 00:16:32,000
+že toto už bude úpl no to som chcel
+
+761
+00:16:32,000 --> 00:16:35,389
+že toto už bude úpl no to som chcel
+povedať že že že poďme robiť geometriu
+
+762
+00:16:35,389 --> 00:16:35,399
+povedať že že že poďme robiť geometriu
+
+763
+00:16:35,399 --> 00:16:36,189
+povedať že že že poďme robiť geometriu
+bez
+
+764
+00:16:36,189 --> 00:16:36,199
+bez
+
+765
+00:16:36,199 --> 00:16:40,949
+bez
+geometrie Hej a a ten dôvod je taký že v
+
+766
+00:16:40,949 --> 00:16:40,959
+geometrie Hej a a ten dôvod je taký že v
+
+767
+00:16:40,959 --> 00:16:43,389
+geometrie Hej a a ten dôvod je taký že v
+skutočnosti je to brutálne užitočné lebo
+
+768
+00:16:43,389 --> 00:16:43,399
+skutočnosti je to brutálne užitočné lebo
+
+769
+00:16:43,399 --> 00:16:45,870
+skutočnosti je to brutálne užitočné lebo
+ti to poprvé umožňuje extrahovať tie
+
+770
+00:16:45,870 --> 00:16:45,880
+ti to poprvé umožňuje extrahovať tie
+
+771
+00:16:45,880 --> 00:16:48,629
+ti to poprvé umožňuje extrahovať tie
+abstraktné kľúčové rozdiely že vlastne
+
+772
+00:16:48,629 --> 00:16:48,639
+abstraktné kľúčové rozdiely že vlastne
+
+773
+00:16:48,639 --> 00:16:51,389
+abstraktné kľúčové rozdiely že vlastne
+odmyslieť si tie drobné zmeny alebo
+
+774
+00:16:51,389 --> 00:16:51,399
+odmyslieť si tie drobné zmeny alebo
+
+775
+00:16:51,399 --> 00:16:53,470
+odmyslieť si tie drobné zmeny alebo
+zmeny ktoré sa dajú urobiť po malých
+
+776
+00:16:53,470 --> 00:16:53,480
+zmeny ktoré sa dajú urobiť po malých
+
+777
+00:16:53,480 --> 00:16:56,629
+zmeny ktoré sa dajú urobiť po malých
+kúskoch tak to vlastne že odmyslím avé
+
+778
+00:16:56,629 --> 00:16:56,639
+kúskoch tak to vlastne že odmyslím avé
+
+779
+00:16:56,639 --> 00:16:59,629
+kúskoch tak to vlastne že odmyslím avé
+detaily danej úlohy presne tak ako euler
+
+780
+00:16:59,629 --> 00:16:59,639
+detaily danej úlohy presne tak ako euler
+
+781
+00:16:59,639 --> 00:17:01,030
+detaily danej úlohy presne tak ako euler
+si
+
+782
+00:17:01,030 --> 00:17:01,040
+si
+
+783
+00:17:01,040 --> 00:17:04,230
+si
+odmyslím mostoch tak niečo podobné teraz
+
+784
+00:17:04,230 --> 00:17:04,240
+odmyslím mostoch tak niečo podobné teraz
+
+785
+00:17:04,240 --> 00:17:06,029
+odmyslím mostoch tak niečo podobné teraz
+robia ľudia ktorí napríklad robia
+
+786
+00:17:06,029 --> 00:17:06,039
+robia ľudia ktorí napríklad robia
+
+787
+00:17:06,039 --> 00:17:08,789
+robia ľudia ktorí napríklad robia
+Machine learning Pozeral som si že
+
+788
+00:17:08,789 --> 00:17:08,799
+Machine learning Pozeral som si že
+
+789
+00:17:08,799 --> 00:17:10,350
+Machine learning Pozeral som si že
+existuje disciplína ktorá sa vol že
+
+790
+00:17:10,350 --> 00:17:10,360
+existuje disciplína ktorá sa vol že
+
+791
+00:17:10,360 --> 00:17:12,309
+existuje disciplína ktorá sa vol že
+topologické spracovanie
+
+792
+00:17:12,309 --> 00:17:12,319
+topologické spracovanie
+
+793
+00:17:12,319 --> 00:17:15,069
+topologické spracovanie
+dát ktorého Podstata je plus mínus taká
+
+794
+00:17:15,069 --> 00:17:15,079
+dát ktorého Podstata je plus mínus taká
+
+795
+00:17:15,079 --> 00:17:17,669
+dát ktorého Podstata je plus mínus taká
+akú mal eh euler pri riešení úlohy s
+
+796
+00:17:17,669 --> 00:17:17,679
+akú mal eh euler pri riešení úlohy s
+
+797
+00:17:17,679 --> 00:17:20,309
+akú mal eh euler pri riešení úlohy s
+mostom že hľadáš či sa tá úloha dá
+
+798
+00:17:20,309 --> 00:17:20,319
+mostom že hľadáš či sa tá úloha dá
+
+799
+00:17:20,319 --> 00:17:21,949
+mostom že hľadáš či sa tá úloha dá
+rozbiť na nejaké drobné celky ako to
+
+800
+00:17:21,949 --> 00:17:21,959
+rozbiť na nejaké drobné celky ako to
+
+801
+00:17:21,959 --> 00:17:24,150
+rozbiť na nejaké drobné celky ako to
+zbaviť všetkých nepodstatných detailov
+
+802
+00:17:24,150 --> 00:17:24,160
+zbaviť všetkých nepodstatných detailov
+
+803
+00:17:24,160 --> 00:17:29,750
+zbaviť všetkých nepodstatných detailov
+aby si z extrémne zložitej úlohy
+
+804
+00:17:29,760 --> 00:17:31,549
+takže to je jedna vec druhá vec je taká
+
+805
+00:17:31,549 --> 00:17:31,559
+takže to je jedna vec druhá vec je taká
+
+806
+00:17:31,559 --> 00:17:34,270
+takže to je jedna vec druhá vec je taká
+že na skutočnosti často zaujíma
+
+807
+00:17:34,270 --> 00:17:34,280
+že na skutočnosti často zaujíma
+
+808
+00:17:34,280 --> 00:17:35,990
+že na skutočnosti často zaujíma
+topológia niečoho Na čom žijeme
+
+809
+00:17:35,990 --> 00:17:36,000
+topológia niečoho Na čom žijeme
+
+810
+00:17:36,000 --> 00:17:39,230
+topológia niečoho Na čom žijeme
+napríklad zem sa úplne inak správa Ak je
+
+811
+00:17:39,230 --> 00:17:39,240
+napríklad zem sa úplne inak správa Ak je
+
+812
+00:17:39,240 --> 00:17:41,230
+napríklad zem sa úplne inak správa Ak je
+to topologicky guľa ako by sa správala
+
+813
+00:17:41,230 --> 00:17:41,240
+to topologicky guľa ako by sa správala
+
+814
+00:17:41,240 --> 00:17:43,110
+to topologicky guľa ako by sa správala
+ak by to bola topologicky
+
+815
+00:17:43,110 --> 00:17:43,120
+ak by to bola topologicky
+
+816
+00:17:43,120 --> 00:17:46,029
+ak by to bola topologicky
+plocha napríklad tu máme krivosť máme tu
+
+817
+00:17:46,029 --> 00:17:46,039
+plocha napríklad tu máme krivosť máme tu
+
+818
+00:17:46,039 --> 00:17:48,150
+plocha napríklad tu máme krivosť máme tu
+rôzne prejavy krivosti zeme ale to isté
+
+819
+00:17:48,150 --> 00:17:48,160
+rôzne prejavy krivosti zeme ale to isté
+
+820
+00:17:48,160 --> 00:17:51,110
+rôzne prejavy krivosti zeme ale to isté
+vlastne platí pre vesmír ako celok bolo
+
+821
+00:17:51,110 --> 00:17:51,120
+vlastne platí pre vesmír ako celok bolo
+
+822
+00:17:51,120 --> 00:17:53,590
+vlastne platí pre vesmír ako celok bolo
+odhalené a rozmýšľam toto pravdepodobne
+
+823
+00:17:53,590 --> 00:17:53,600
+odhalené a rozmýšľam toto pravdepodobne
+
+824
+00:17:53,600 --> 00:17:56,870
+odhalené a rozmýšľam toto pravdepodobne
+robil Alexander friedman že vesmír Môže
+
+825
+00:17:56,870 --> 00:17:56,880
+robil Alexander friedman že vesmír Môže
+
+826
+00:17:56,880 --> 00:17:59,669
+robil Alexander friedman že vesmír Môže
+mať tri rôzne topológie vesmír môže
+
+827
+00:17:59,669 --> 00:17:59,679
+mať tri rôzne topológie vesmír môže
+
+828
+00:17:59,679 --> 00:18:03,029
+mať tri rôzne topológie vesmír môže
+pripomínať sféru takzvanú tris fér alebo
+
+829
+00:18:03,029 --> 00:18:03,039
+pripomínať sféru takzvanú tris fér alebo
+
+830
+00:18:03,039 --> 00:18:04,950
+pripomínať sféru takzvanú tris fér alebo
+môže pripomínať konské sedlo alebo
+
+831
+00:18:04,950 --> 00:18:04,960
+môže pripomínať konské sedlo alebo
+
+832
+00:18:04,960 --> 00:18:07,190
+môže pripomínať konské sedlo alebo
+otvorenú plochu a tá jeho geometrie
+
+833
+00:18:07,190 --> 00:18:07,200
+otvorenú plochu a tá jeho geometrie
+
+834
+00:18:07,200 --> 00:18:09,310
+otvorenú plochu a tá jeho geometrie
+nejako súvisí s touto s týmto jeho
+
+835
+00:18:09,310 --> 00:18:09,320
+nejako súvisí s touto s týmto jeho
+
+836
+00:18:09,320 --> 00:18:10,230
+nejako súvisí s touto s týmto jeho
+celkovým
+
+837
+00:18:10,230 --> 00:18:10,240
+celkovým
+
+838
+00:18:10,240 --> 00:18:13,430
+celkovým
+tvarom ten príklad s uzlami už asi zažil
+
+839
+00:18:13,430 --> 00:18:13,440
+tvarom ten príklad s uzlami už asi zažil
+
+840
+00:18:13,440 --> 00:18:15,430
+tvarom ten príklad s uzlami už asi zažil
+každý že to ako fungujú nefungujú uzly
+
+841
+00:18:15,430 --> 00:18:15,440
+každý že to ako fungujú nefungujú uzly
+
+842
+00:18:15,440 --> 00:18:17,350
+každý že to ako fungujú nefungujú uzly
+ako držia
+
+843
+00:18:17,350 --> 00:18:17,360
+ako držia
+
+844
+00:18:17,360 --> 00:18:20,029
+ako držia
+ale tá topológia sa schováva vo veciach
+
+845
+00:18:20,029 --> 00:18:20,039
+ale tá topológia sa schováva vo veciach
+
+846
+00:18:20,039 --> 00:18:22,110
+ale tá topológia sa schováva vo veciach
+kde ich na prvú šupu nevidíme napríklad
+
+847
+00:18:22,110 --> 00:18:22,120
+kde ich na prvú šupu nevidíme napríklad
+
+848
+00:18:22,120 --> 00:18:25,870
+kde ich na prvú šupu nevidíme napríklad
+ty si spomínal tie topologické eh
+
+849
+00:18:25,870 --> 00:18:25,880
+ty si spomínal tie topologické eh
+
+850
+00:18:25,880 --> 00:18:28,870
+ty si spomínal tie topologické eh
+polovodiče topografia polovodičových
+
+851
+00:18:28,870 --> 00:18:28,880
+polovodiče topografia polovodičových
+
+852
+00:18:28,880 --> 00:18:31,230
+polovodiče topografia polovodičových
+výrobkov Aha tak tak to bola topografia
+
+853
+00:18:31,230 --> 00:18:31,240
+výrobkov Aha tak tak to bola topografia
+
+854
+00:18:31,240 --> 00:18:32,630
+výrobkov Aha tak tak to bola topografia
+tak to potom niečo iné ako topológia
+
+855
+00:18:32,630 --> 00:18:32,640
+tak to potom niečo iné ako topológia
+
+856
+00:18:32,640 --> 00:18:36,070
+tak to potom niečo iné ako topológia
+Lebo existuje topologické vodiče kde Hej
+
+857
+00:18:36,070 --> 00:18:36,080
+Lebo existuje topologické vodiče kde Hej
+
+858
+00:18:36,080 --> 00:18:39,510
+Lebo existuje topologické vodiče kde Hej
+Hej prepáč ja som si to ale nie je ti to
+
+859
+00:18:39,510 --> 00:18:39,520
+Hej prepáč ja som si to ale nie je ti to
+
+860
+00:18:39,520 --> 00:18:41,110
+Hej prepáč ja som si to ale nie je ti to
+úplne zavinu lebo naozaj že existuje
+
+861
+00:18:41,110 --> 00:18:41,120
+úplne zavinu lebo naozaj že existuje
+
+862
+00:18:41,120 --> 00:18:42,750
+úplne zavinu lebo naozaj že existuje
+veľmi podobná vec ktorá ktorú sa volajú
+
+863
+00:18:42,750 --> 00:18:42,760
+veľmi podobná vec ktorá ktorú sa volajú
+
+864
+00:18:42,760 --> 00:18:45,310
+veľmi podobná vec ktorá ktorú sa volajú
+teda že topologické izolanty kde vlastne
+
+865
+00:18:45,310 --> 00:18:45,320
+teda že topologické izolanty kde vlastne
+
+866
+00:18:45,320 --> 00:18:47,990
+teda že topologické izolanty kde vlastne
+ide o to že ty máš nejaké vlastnosti
+
+867
+00:18:47,990 --> 00:18:48,000
+ide o to že ty máš nejaké vlastnosti
+
+868
+00:18:48,000 --> 00:18:50,950
+ide o to že ty máš nejaké vlastnosti
+materiálov nie konkrétne ich skutočný
+
+869
+00:18:50,950 --> 00:18:50,960
+materiálov nie konkrétne ich skutočný
+
+870
+00:18:50,960 --> 00:18:53,750
+materiálov nie konkrétne ich skutočný
+tvar ale nejakú ich vlastnosť ktorá tiež
+
+871
+00:18:53,750 --> 00:18:53,760
+tvar ale nejakú ich vlastnosť ktorá tiež
+
+872
+00:18:53,760 --> 00:18:56,750
+tvar ale nejakú ich vlastnosť ktorá tiež
+má svoju štruktúru topologické a môže
+
+873
+00:18:56,750 --> 00:18:56,760
+má svoju štruktúru topologické a môže
+
+874
+00:18:56,760 --> 00:18:58,750
+má svoju štruktúru topologické a môže
+pripomínať napríklad
+
+875
+00:18:58,750 --> 00:18:58,760
+pripomínať napríklad
+
+876
+00:18:58,760 --> 00:19:00,830
+pripomínať napríklad
+f alebo nejaký geometrický útvar a potom
+
+877
+00:19:00,830 --> 00:19:00,840
+f alebo nejaký geometrický útvar a potom
+
+878
+00:19:00,840 --> 00:19:02,909
+f alebo nejaký geometrický útvar a potom
+si môžeš položiť otázku že viem s týmto
+
+879
+00:19:02,909 --> 00:19:02,919
+si môžeš položiť otázku že viem s týmto
+
+880
+00:19:02,919 --> 00:19:04,669
+si môžeš položiť otázku že viem s týmto
+materiálom spraviť niečo aby sa začal
+
+881
+00:19:04,669 --> 00:19:04,679
+materiálom spraviť niečo aby sa začal
+
+882
+00:19:04,679 --> 00:19:07,510
+materiálom spraviť niečo aby sa začal
+správať ako iný materiál A tá topológia
+
+883
+00:19:07,510 --> 00:19:07,520
+správať ako iný materiál A tá topológia
+
+884
+00:19:07,520 --> 00:19:09,950
+správať ako iný materiál A tá topológia
+ti niekedy môže dávať takú odpoveď na
+
+885
+00:19:09,950 --> 00:19:09,960
+ti niekedy môže dávať takú odpoveď na
+
+886
+00:19:09,960 --> 00:19:12,549
+ti niekedy môže dávať takú odpoveď na
+túto otázku podobne ako si môžeš položiť
+
+887
+00:19:12,549 --> 00:19:12,559
+túto otázku podobne ako si môžeš položiť
+
+888
+00:19:12,559 --> 00:19:15,430
+túto otázku podobne ako si môžeš položiť
+otázku že viem spraviť z lopty koblihu
+
+889
+00:19:15,430 --> 00:19:15,440
+otázku že viem spraviť z lopty koblihu
+
+890
+00:19:15,440 --> 00:19:17,549
+otázku že viem spraviť z lopty koblihu
+bez toho aby som ju prepichol A odpoveď
+
+891
+00:19:17,549 --> 00:19:17,559
+bez toho aby som ju prepichol A odpoveď
+
+892
+00:19:17,559 --> 00:19:20,230
+bez toho aby som ju prepichol A odpoveď
+topologické je že nie kobliha má jednu
+
+893
+00:19:20,230 --> 00:19:20,240
+topologické je že nie kobliha má jednu
+
+894
+00:19:20,240 --> 00:19:22,310
+topologické je že nie kobliha má jednu
+dieru lopta má nula dier Takže nespravíš
+
+895
+00:19:22,310 --> 00:19:22,320
+dieru lopta má nula dier Takže nespravíš
+
+896
+00:19:22,320 --> 00:19:24,510
+dieru lopta má nula dier Takže nespravíš
+jedno druhé z plastelíny bez toho aby si
+
+897
+00:19:24,510 --> 00:19:24,520
+jedno druhé z plastelíny bez toho aby si
+
+898
+00:19:24,520 --> 00:19:27,149
+jedno druhé z plastelíny bez toho aby si
+to niekde praskol tak podobne topológia
+
+899
+00:19:27,149 --> 00:19:27,159
+to niekde praskol tak podobne topológia
+
+900
+00:19:27,159 --> 00:19:29,510
+to niekde praskol tak podobne topológia
+nám veľa hovorí o materiáloch
+
+901
+00:19:29,510 --> 00:19:29,520
+nám veľa hovorí o materiáloch
+
+902
+00:19:29,520 --> 00:19:32,270
+nám veľa hovorí o materiáloch
+a má veľa takých pekných
+
+903
+00:19:32,270 --> 00:19:32,280
+a má veľa takých pekných
+
+904
+00:19:32,280 --> 00:19:34,950
+a má veľa takých pekných
+príkladov Kedy vieš robiť malé opravy
+
+905
+00:19:34,950 --> 00:19:34,960
+príkladov Kedy vieš robiť malé opravy
+
+906
+00:19:34,960 --> 00:19:38,909
+príkladov Kedy vieš robiť malé opravy
+ale veľké sa ti robia ťažko napríklad
+
+907
+00:19:38,909 --> 00:19:38,919
+ale veľké sa ti robia ťažko napríklad
+
+908
+00:19:38,919 --> 00:19:41,909
+ale veľké sa ti robia ťažko napríklad
+zaspomínajme si na ľad pol roka dozadu
+
+909
+00:19:41,909 --> 00:19:41,919
+zaspomínajme si na ľad pol roka dozadu
+
+910
+00:19:41,919 --> 00:19:45,029
+zaspomínajme si na ľad pol roka dozadu
+alebo pol roka dopredu keď máš niekde
+
+911
+00:19:45,029 --> 00:19:45,039
+alebo pol roka dopredu keď máš niekde
+
+912
+00:19:45,039 --> 00:19:47,590
+alebo pol roka dopredu keď máš niekde
+kaluš a začne ti na tom zamŕzať nejaký
+
+913
+00:19:47,590 --> 00:19:47,600
+kaluš a začne ti na tom zamŕzať nejaký
+
+914
+00:19:47,600 --> 00:19:50,070
+kaluš a začne ti na tom zamŕzať nejaký
+kryštalove strany kaluš začne zamŕzať
+
+915
+00:19:50,070 --> 00:19:50,080
+kryštalove strany kaluš začne zamŕzať
+
+916
+00:19:50,080 --> 00:19:51,549
+kryštalove strany kaluš začne zamŕzať
+jedným spôsobom a je to pekná
+
+917
+00:19:51,549 --> 00:19:51,559
+jedným spôsobom a je to pekná
+
+918
+00:19:51,559 --> 00:19:54,110
+jedným spôsobom a je to pekná
+kryštalická mriežka z pravej strany
+
+919
+00:19:54,110 --> 00:19:54,120
+kryštalická mriežka z pravej strany
+
+920
+00:19:54,120 --> 00:19:56,270
+kryštalická mriežka z pravej strany
+kaluže začne zamŕzať a keď sa to stretne
+
+921
+00:19:56,270 --> 00:19:56,280
+kaluže začne zamŕzať a keď sa to stretne
+
+922
+00:19:56,280 --> 00:19:58,950
+kaluže začne zamŕzať a keď sa to stretne
+tak to nepasuje dokopy
+
+923
+00:19:58,950 --> 00:19:58,960
+tak to nepasuje dokopy
+
+924
+00:19:58,960 --> 00:20:00,510
+tak to nepasuje dokopy
+máš dve kryštalické mriežky ktoré
+
+925
+00:20:00,510 --> 00:20:00,520
+máš dve kryštalické mriežky ktoré
+
+926
+00:20:00,520 --> 00:20:04,750
+máš dve kryštalické mriežky ktoré
+nepasujú dokopy a teraz je ťažké malými
+
+927
+00:20:04,750 --> 00:20:04,760
+nepasujú dokopy a teraz je ťažké malými
+
+928
+00:20:04,760 --> 00:20:06,789
+nepasujú dokopy a teraz je ťažké malými
+zmenami to odrobiť že ty vieš robiť malé
+
+929
+00:20:06,789 --> 00:20:06,799
+zmenami to odrobiť že ty vieš robiť malé
+
+930
+00:20:06,799 --> 00:20:10,270
+zmenami to odrobiť že ty vieš robiť malé
+zmeny niekde na úrovni nejakého malého
+
+931
+00:20:10,270 --> 00:20:10,280
+zmeny niekde na úrovni nejakého malého
+
+932
+00:20:10,280 --> 00:20:13,110
+zmeny niekde na úrovni nejakého malého
+malého okolia pár atómov ale celé to
+
+933
+00:20:13,110 --> 00:20:13,120
+malého okolia pár atómov ale celé to
+
+934
+00:20:13,120 --> 00:20:14,990
+malého okolia pár atómov ale celé to
+nedokážeš zmeniť vznikne ti tam nejaký
+
+935
+00:20:14,990 --> 00:20:15,000
+nedokážeš zmeniť vznikne ti tam nejaký
+
+936
+00:20:15,000 --> 00:20:17,350
+nedokážeš zmeniť vznikne ti tam nejaký
+takzvaný topologicky defekt často sa
+
+937
+00:20:17,350 --> 00:20:17,360
+takzvaný topologicky defekt často sa
+
+938
+00:20:17,360 --> 00:20:20,230
+takzvaný topologicky defekt často sa
+toto deje keď eh Tvoríme materiály ktoré
+
+939
+00:20:20,230 --> 00:20:20,240
+toto deje keď eh Tvoríme materiály ktoré
+
+940
+00:20:20,240 --> 00:20:22,669
+toto deje keď eh Tvoríme materiály ktoré
+majú kryštalickú štruktúru trojrozmernú
+
+941
+00:20:22,669 --> 00:20:22,679
+majú kryštalickú štruktúru trojrozmernú
+
+942
+00:20:22,679 --> 00:20:26,710
+majú kryštalickú štruktúru trojrozmernú
+napríklad kovy Toto je vlastne podstata
+
+943
+00:20:26,710 --> 00:20:26,720
+napríklad kovy Toto je vlastne podstata
+
+944
+00:20:26,720 --> 00:20:30,470
+napríklad kovy Toto je vlastne podstata
+kováčstva OK podstata kováčstva je práca
+
+945
+00:20:30,470 --> 00:20:30,480
+kováčstva OK podstata kováčstva je práca
+
+946
+00:20:30,480 --> 00:20:34,310
+kováčstva OK podstata kováčstva je práca
+s topologicky defektami aj keď nie každý
+
+947
+00:20:34,310 --> 00:20:34,320
+s topologicky defektami aj keď nie každý
+
+948
+00:20:34,320 --> 00:20:41,029
+s topologicky defektami aj keď nie každý
+z nich to takto
+
+949
+00:20:41,039 --> 00:20:50,549
+verbalizovať
+
+950
+00:20:50,559 --> 00:20:54,990
+apku pomáha nám s našou aplikáciou a on
+
+951
+00:20:54,990 --> 00:20:55,000
+apku pomáha nám s našou aplikáciou a on
+
+952
+00:20:55,000 --> 00:20:57,149
+apku pomáha nám s našou aplikáciou a on
+teda je aj Hobby Kováč a vlastne sme sa
+
+953
+00:20:57,149 --> 00:20:57,159
+teda je aj Hobby Kováč a vlastne sme sa
+
+954
+00:20:57,159 --> 00:20:59,990
+teda je aj Hobby Kováč a vlastne sme sa
+rozprávali o tom že keď teda zohreje
+
+955
+00:20:59,990 --> 00:21:00,000
+rozprávali o tom že keď teda zohreje
+
+956
+00:21:00,000 --> 00:21:02,070
+rozprávali o tom že keď teda zohreje
+železo a ono začne sa chladiť tak ono
+
+957
+00:21:02,070 --> 00:21:02,080
+železo a ono začne sa chladiť tak ono
+
+958
+00:21:02,080 --> 00:21:04,750
+železo a ono začne sa chladiť tak ono
+vytvorí nejakú kryštalickú mriežku
+
+959
+00:21:04,750 --> 00:21:04,760
+vytvorí nejakú kryštalickú mriežku
+
+960
+00:21:04,760 --> 00:21:07,149
+vytvorí nejakú kryštalickú mriežku
+typicky tá kryštalická mriežka nie je
+
+961
+00:21:07,149 --> 00:21:07,159
+typicky tá kryštalická mriežka nie je
+
+962
+00:21:07,159 --> 00:21:09,070
+typicky tá kryštalická mriežka nie je
+úplne dokonalá začnú tam vznikať nejaké
+
+963
+00:21:09,070 --> 00:21:09,080
+úplne dokonalá začnú tam vznikať nejaké
+
+964
+00:21:09,080 --> 00:21:11,590
+úplne dokonalá začnú tam vznikať nejaké
+defekty nejaké tie nerovnomernosti kde
+
+965
+00:21:11,590 --> 00:21:11,600
+defekty nejaké tie nerovnomernosti kde
+
+966
+00:21:11,600 --> 00:21:14,750
+defekty nejaké tie nerovnomernosti kde
+tá štruktúra nepasuje úplne pekne dokopy
+
+967
+00:21:14,750 --> 00:21:14,760
+tá štruktúra nepasuje úplne pekne dokopy
+
+968
+00:21:14,760 --> 00:21:16,470
+tá štruktúra nepasuje úplne pekne dokopy
+to čo sa deje keď potom začneš TLC
+
+969
+00:21:16,470 --> 00:21:16,480
+to čo sa deje keď potom začneš TLC
+
+970
+00:21:16,480 --> 00:21:17,990
+to čo sa deje keď potom začneš TLC
+kladivom je že tie defekty sa začnú
+
+971
+00:21:17,990 --> 00:21:18,000
+kladivom je že tie defekty sa začnú
+
+972
+00:21:18,000 --> 00:21:21,669
+kladivom je že tie defekty sa začnú
+posúvať že celá tá vrstva sa posunie o
+
+973
+00:21:21,669 --> 00:21:21,679
+posúvať že celá tá vrstva sa posunie o
+
+974
+00:21:21,679 --> 00:21:25,870
+posúvať že celá tá vrstva sa posunie o
+20 atomárny o 20 atómov Doprava Takže je
+
+975
+00:21:25,870 --> 00:21:25,880
+20 atomárny o 20 atómov Doprava Takže je
+
+976
+00:21:25,880 --> 00:21:28,909
+20 atomárny o 20 atómov Doprava Takže je
+tam zlom ale ten zlom sa posunie a teraz
+
+977
+00:21:28,909 --> 00:21:28,919
+tam zlom ale ten zlom sa posunie a teraz
+
+978
+00:21:28,919 --> 00:21:31,549
+tam zlom ale ten zlom sa posunie a teraz
+je otázka že či ho vieš či keď tam máš
+
+979
+00:21:31,549 --> 00:21:31,559
+je otázka že či ho vieš či keď tam máš
+
+980
+00:21:31,559 --> 00:21:33,269
+je otázka že či ho vieš či keď tam máš
+nejaký uzol Napríklad tak či ten uzol
+
+981
+00:21:33,269 --> 00:21:33,279
+nejaký uzol Napríklad tak či ten uzol
+
+982
+00:21:33,279 --> 00:21:35,230
+nejaký uzol Napríklad tak či ten uzol
+vieš rozmotať alebo sa stretne s iným
+
+983
+00:21:35,230 --> 00:21:35,240
+vieš rozmotať alebo sa stretne s iným
+
+984
+00:21:35,240 --> 00:21:37,269
+vieš rozmotať alebo sa stretne s iným
+takýmto defektom a zamotajú sa do seba a
+
+985
+00:21:37,269 --> 00:21:37,279
+takýmto defektom a zamotajú sa do seba a
+
+986
+00:21:37,279 --> 00:21:40,070
+takýmto defektom a zamotajú sa do seba a
+začnú ti vytvárať materiál ktorý stráca
+
+987
+00:21:40,070 --> 00:21:40,080
+začnú ti vytvárať materiál ktorý stráca
+
+988
+00:21:40,080 --> 00:21:41,149
+začnú ti vytvárať materiál ktorý stráca
+tie dobré
+
+989
+00:21:41,149 --> 00:21:41,159
+tie dobré
+
+990
+00:21:41,159 --> 00:21:43,390
+tie dobré
+vlastnosti Takže kováčstvo je vlastne
+
+991
+00:21:43,390 --> 00:21:43,400
+vlastnosti Takže kováčstvo je vlastne
+
+992
+00:21:43,400 --> 00:21:46,029
+vlastnosti Takže kováčstvo je vlastne
+celého manip od takých eh robíš drobné
+
+993
+00:21:46,029 --> 00:21:46,039
+celého manip od takých eh robíš drobné
+
+994
+00:21:46,039 --> 00:21:48,590
+celého manip od takých eh robíš drobné
+transformácie a snažíš sa niečo docieliť
+
+995
+00:21:48,590 --> 00:21:48,600
+transformácie a snažíš sa niečo docieliť
+
+996
+00:21:48,600 --> 00:21:50,630
+transformácie a snažíš sa niečo docieliť
+Snažíš sa ich odrobiť Snažíš sa ich pop
+
+997
+00:21:50,630 --> 00:21:50,640
+Snažíš sa ich odrobiť Snažíš sa ich pop
+
+998
+00:21:50,640 --> 00:21:53,430
+Snažíš sa ich odrobiť Snažíš sa ich pop
+posúvať a vo všeobecnosti vo
+
+999
+00:21:53,430 --> 00:21:53,440
+posúvať a vo všeobecnosti vo
+
+1000
+00:21:53,440 --> 00:21:55,909
+posúvať a vo všeobecnosti vo
+všeobecnosti eh je to pomerne zložité
+
+1001
+00:21:55,909 --> 00:21:55,919
+všeobecnosti eh je to pomerne zložité
+
+1002
+00:21:55,919 --> 00:21:57,710
+všeobecnosti eh je to pomerne zložité
+našťastie v kováčstvo máš možnosť ako to
+
+1003
+00:21:57,710 --> 00:21:57,720
+našťastie v kováčstvo máš možnosť ako to
+
+1004
+00:21:57,720 --> 00:21:59,909
+našťastie v kováčstvo máš možnosť ako to
+zresetovať keď sa ti to všetko pokazí
+
+1005
+00:21:59,909 --> 00:21:59,919
+zresetovať keď sa ti to všetko pokazí
+
+1006
+00:21:59,919 --> 00:22:02,430
+zresetovať keď sa ti to všetko pokazí
+tak to môžeš znova celé zohriať a skúsiť
+
+1007
+00:22:02,430 --> 00:22:02,440
+tak to môžeš znova celé zohriať a skúsiť
+
+1008
+00:22:02,440 --> 00:22:05,510
+tak to môžeš znova celé zohriať a skúsiť
+nanovo Takže kováčstvo je o robení
+
+1009
+00:22:05,510 --> 00:22:05,520
+nanovo Takže kováčstvo je o robení
+
+1010
+00:22:05,520 --> 00:22:07,390
+nanovo Takže kováčstvo je o robení
+malých transformácií a potom si kladieš
+
+1011
+00:22:07,390 --> 00:22:07,400
+malých transformácií a potom si kladieš
+
+1012
+00:22:07,400 --> 00:22:09,549
+malých transformácií a potom si kladieš
+otázku či vieš Niečo veľké prerobiť
+
+1013
+00:22:09,549 --> 00:22:09,559
+otázku či vieš Niečo veľké prerobiť
+
+1014
+00:22:09,559 --> 00:22:12,149
+otázku či vieš Niečo veľké prerobiť
+alebo nie typicky postupnosť tých malých
+
+1015
+00:22:12,149 --> 00:22:12,159
+alebo nie typicky postupnosť tých malých
+
+1016
+00:22:12,159 --> 00:22:14,029
+alebo nie typicky postupnosť tých malých
+transformácií nedokáže úplne všetko
+
+1017
+00:22:14,029 --> 00:22:14,039
+transformácií nedokáže úplne všetko
+
+1018
+00:22:14,039 --> 00:22:15,789
+transformácií nedokáže úplne všetko
+niekedy sa ti to zasekne Lebo ti tam
+
+1019
+00:22:15,789 --> 00:22:15,799
+niekedy sa ti to zasekne Lebo ti tam
+
+1020
+00:22:15,799 --> 00:22:26,750
+niekedy sa ti to zasekne Lebo ti tam
+vznikli nejaké defekty ktoré sú
+
+1021
+00:22:26,760 --> 00:22:30,070
+neodráža Kováč neviem či to tam budeme
+
+1022
+00:22:30,070 --> 00:22:30,080
+neodráža Kováč neviem či to tam budeme
+
+1023
+00:22:30,080 --> 00:22:32,350
+neodráža Kováč neviem či to tam budeme
+dávať že to je tiež možnos on on on ju
+
+1024
+00:22:32,350 --> 00:22:32,360
+dávať že to je tiež možnos on on on ju
+
+1025
+00:22:32,360 --> 00:22:34,669
+dávať že to je tiež možnos on on on ju
+on ju nepotrebuje poznať na na to aby to
+
+1026
+00:22:34,669 --> 00:22:34,679
+on ju nepotrebuje poznať na na to aby to
+
+1027
+00:22:34,679 --> 00:22:36,230
+on ju nepotrebuje poznať na na to aby to
+kováčstvo mohlo robiť aj keď je to teda
+
+1028
+00:22:36,230 --> 00:22:36,240
+kováčstvo mohlo robiť aj keď je to teda
+
+1029
+00:22:36,240 --> 00:22:38,350
+kováčstvo mohlo robiť aj keď je to teda
+také vysvetlenie toho čo sa tam deje
+
+1030
+00:22:38,350 --> 00:22:38,360
+také vysvetlenie toho čo sa tam deje
+
+1031
+00:22:38,360 --> 00:22:41,870
+také vysvetlenie toho čo sa tam deje
+ehm existuje niekoľko príkladov jeden z
+
+1032
+00:22:41,870 --> 00:22:41,880
+ehm existuje niekoľko príkladov jeden z
+
+1033
+00:22:41,880 --> 00:22:43,750
+ehm existuje niekoľko príkladov jeden z
+nich je Ed witten ktorého sme spomínali
+
+1034
+00:22:43,750 --> 00:22:43,760
+nich je Ed witten ktorého sme spomínali
+
+1035
+00:22:43,760 --> 00:22:46,710
+nich je Ed witten ktorého sme spomínali
+v predošlej epizóde A on
+
+1036
+00:22:46,710 --> 00:22:46,720
+v predošlej epizóde A on
+
+1037
+00:22:46,720 --> 00:22:49,430
+v predošlej epizóde A on
+je fyzik
+
+1038
+00:22:49,430 --> 00:22:49,440
+je fyzik
+
+1039
+00:22:49,440 --> 00:22:51,590
+je fyzik
+pravdepodobne jeden z tých najväčších
+
+1040
+00:22:51,590 --> 00:22:51,600
+pravdepodobne jeden z tých najväčších
+
+1041
+00:22:51,600 --> 00:22:53,510
+pravdepodobne jeden z tých najväčších
+géniov žijúcich v teoretickej fyzike
+
+1042
+00:22:53,510 --> 00:22:53,520
+géniov žijúcich v teoretickej fyzike
+
+1043
+00:22:53,520 --> 00:22:54,390
+géniov žijúcich v teoretickej fyzike
+vôbec
+
+1044
+00:22:54,390 --> 00:22:54,400
+vôbec
+
+1045
+00:22:54,400 --> 00:22:57,470
+vôbec
+úplne že génius Mimozemšťan šiesteho
+
+1046
+00:22:57,470 --> 00:22:57,480
+úplne že génius Mimozemšťan šiesteho
+
+1047
+00:22:57,480 --> 00:22:58,950
+úplne že génius Mimozemšťan šiesteho
+rádu
+
+1048
+00:22:58,950 --> 00:22:58,960
+rádu
+
+1049
+00:22:58,960 --> 00:23:01,630
+rádu
+že veľmi ťažko sa čítajú jeho práce lebo
+
+1050
+00:23:01,630 --> 00:23:01,640
+že veľmi ťažko sa čítajú jeho práce lebo
+
+1051
+00:23:01,640 --> 00:23:03,710
+že veľmi ťažko sa čítajú jeho práce lebo
+on nevie úplne ako komunikovať s nami
+
+1052
+00:23:03,710 --> 00:23:03,720
+on nevie úplne ako komunikovať s nami
+
+1053
+00:23:03,720 --> 00:23:06,590
+on nevie úplne ako komunikovať s nami
+pozemšťan a teda akože sú ľudia ktorí mu
+
+1054
+00:23:06,590 --> 00:23:06,600
+pozemšťan a teda akože sú ľudia ktorí mu
+
+1055
+00:23:06,600 --> 00:23:08,710
+pozemšťan a teda akože sú ľudia ktorí mu
+rozumejú ale stojí ich to veľa úsilia
+
+1056
+00:23:08,710 --> 00:23:08,720
+rozumejú ale stojí ich to veľa úsilia
+
+1057
+00:23:08,720 --> 00:23:11,070
+rozumejú ale stojí ich to veľa úsilia
+aby aby prenikli do tých Jeho veľmi
+
+1058
+00:23:11,070 --> 00:23:11,080
+aby aby prenikli do tých Jeho veľmi
+
+1059
+00:23:11,080 --> 00:23:12,870
+aby aby prenikli do tých Jeho veľmi
+hlbokých myšlienok a on získal filcovou
+
+1060
+00:23:12,870 --> 00:23:12,880
+hlbokých myšlienok a on získal filcovou
+
+1061
+00:23:12,880 --> 00:23:15,470
+hlbokých myšlienok a on získal filcovou
+medailu Čo je v podstate že matematická
+
+1062
+00:23:15,470 --> 00:23:15,480
+medailu Čo je v podstate že matematická
+
+1063
+00:23:15,480 --> 00:23:18,269
+medailu Čo je v podstate že matematická
+nobelovka a to je veľmi vzácne ak sa
+
+1064
+00:23:18,269 --> 00:23:18,279
+nobelovka a to je veľmi vzácne ak sa
+
+1065
+00:23:18,279 --> 00:23:20,190
+nobelovka a to je veľmi vzácne ak sa
+nemýlim minimálne vtedy bol jediný fyzik
+
+1066
+00:23:20,190 --> 00:23:20,200
+nemýlim minimálne vtedy bol jediný fyzik
+
+1067
+00:23:20,200 --> 00:23:22,070
+nemýlim minimálne vtedy bol jediný fyzik
+a možno dokonca doteraz je jediný fyzik
+
+1068
+00:23:22,070 --> 00:23:22,080
+a možno dokonca doteraz je jediný fyzik
+
+1069
+00:23:22,080 --> 00:23:24,549
+a možno dokonca doteraz je jediný fyzik
+ktorý získal tú matematickú
+
+1070
+00:23:24,549 --> 00:23:24,559
+ktorý získal tú matematickú
+
+1071
+00:23:24,559 --> 00:23:27,430
+ktorý získal tú matematickú
+nobelovku za prácu ktorá sa týka
+
+1072
+00:23:27,430 --> 00:23:27,440
+nobelovku za prácu ktorá sa týka
+
+1073
+00:23:27,440 --> 00:23:29,149
+nobelovku za prácu ktorá sa týka
+uzlov
+
+1074
+00:23:29,149 --> 00:23:29,159
+uzlov
+
+1075
+00:23:29,159 --> 00:23:31,710
+uzlov
+Hm tak ako sme si povedali že pri tých
+
+1076
+00:23:31,710 --> 00:23:31,720
+Hm tak ako sme si povedali že pri tých
+
+1077
+00:23:31,720 --> 00:23:33,510
+Hm tak ako sme si povedali že pri tých
+uzloch teba zaujíma otázka či sa dajú
+
+1078
+00:23:33,510 --> 00:23:33,520
+uzloch teba zaujíma otázka či sa dajú
+
+1079
+00:23:33,520 --> 00:23:35,269
+uzloch teba zaujíma otázka či sa dajú
+rozmotať alebo nedajú rozmotať prípadne
+
+1080
+00:23:35,269 --> 00:23:35,279
+rozmotať alebo nedajú rozmotať prípadne
+
+1081
+00:23:35,279 --> 00:23:43,470
+rozmotať alebo nedajú rozmotať prípadne
+či z jedného uzla vieš spraviť druhý bez
+
+1082
+00:23:43,480 --> 00:23:48,390
+rozcvičuje na to taký postup že eh budeš
+
+1083
+00:23:48,390 --> 00:23:48,400
+rozcvičuje na to taký postup že eh budeš
+
+1084
+00:23:48,400 --> 00:23:49,909
+rozcvičuje na to taký postup že eh budeš
+spočítať niečo čo sa volá že jonesov
+
+1085
+00:23:49,909 --> 00:23:49,919
+spočítať niečo čo sa volá že jonesov
+
+1086
+00:23:49,919 --> 00:23:51,710
+spočítať niečo čo sa volá že jonesov
+polynomial ne už je to hocičo je to
+
+1087
+00:23:51,710 --> 00:23:51,720
+polynomial ne už je to hocičo je to
+
+1088
+00:23:51,720 --> 00:23:54,110
+polynomial ne už je to hocičo je to
+jasne daný postup ako zoberieš uzol a
+
+1089
+00:23:54,110 --> 00:23:54,120
+jasne daný postup ako zoberieš uzol a
+
+1090
+00:23:54,120 --> 00:23:55,549
+jasne daný postup ako zoberieš uzol a
+priradí mu nejakú
+
+1091
+00:23:55,549 --> 00:23:55,559
+priradí mu nejakú
+
+1092
+00:23:55,559 --> 00:23:57,870
+priradí mu nejakú
+hodnotu potom zoberieš iný uzol a
+
+1093
+00:23:57,870 --> 00:23:57,880
+hodnotu potom zoberieš iný uzol a
+
+1094
+00:23:57,880 --> 00:23:59,510
+hodnotu potom zoberieš iný uzol a
+priradí mu mu inú hodnotu a keď sa tie
+
+1095
+00:23:59,510 --> 00:23:59,520
+priradí mu mu inú hodnotu a keď sa tie
+
+1096
+00:23:59,520 --> 00:24:02,269
+priradí mu mu inú hodnotu a keď sa tie
+hodnoty rovnajú tak sa na seba môžu dať
+
+1097
+00:24:02,269 --> 00:24:02,279
+hodnoty rovnajú tak sa na seba môžu dať
+
+1098
+00:24:02,279 --> 00:24:04,149
+hodnoty rovnajú tak sa na seba môžu dať
+prerobiť a keď sa nerovnajú tak sa to
+
+1099
+00:24:04,149 --> 00:24:04,159
+prerobiť a keď sa nerovnajú tak sa to
+
+1100
+00:24:04,159 --> 00:24:07,110
+prerobiť a keď sa nerovnajú tak sa to
+nedá podobne ako keď sme mali nejaké
+
+1101
+00:24:07,110 --> 00:24:07,120
+nedá podobne ako keď sme mali nejaké
+
+1102
+00:24:07,120 --> 00:24:09,750
+nedá podobne ako keď sme mali nejaké
+teleso z plastelíny tak keď malo iný
+
+1103
+00:24:09,750 --> 00:24:09,760
+teleso z plastelíny tak keď malo iný
+
+1104
+00:24:09,760 --> 00:24:11,789
+teleso z plastelíny tak keď malo iný
+počet dierok tak sme vedeli že sa na
+
+1105
+00:24:11,789 --> 00:24:11,799
+počet dierok tak sme vedeli že sa na
+
+1106
+00:24:11,799 --> 00:24:13,990
+počet dierok tak sme vedeli že sa na
+seba nedá pretvoriť len takým postupným
+
+1107
+00:24:13,990 --> 00:24:14,000
+seba nedá pretvoriť len takým postupným
+
+1108
+00:24:14,000 --> 00:24:16,190
+seba nedá pretvoriť len takým postupným
+upravovaním tvaru A keď malo rovnaký
+
+1109
+00:24:16,190 --> 00:24:16,200
+upravovaním tvaru A keď malo rovnaký
+
+1110
+00:24:16,200 --> 00:24:18,430
+upravovaním tvaru A keď malo rovnaký
+počet dierok tak sa v princípe mohlo dať
+
+1111
+00:24:18,430 --> 00:24:18,440
+počet dierok tak sa v princípe mohlo dať
+
+1112
+00:24:18,440 --> 00:24:20,590
+počet dierok tak sa v princípe mohlo dať
+aj keď Ešte to nebolo úplne garantované
+
+1113
+00:24:20,590 --> 00:24:20,600
+aj keď Ešte to nebolo úplne garantované
+
+1114
+00:24:20,600 --> 00:24:22,110
+aj keď Ešte to nebolo úplne garantované
+že tie dierky môžu byť nejako do seba
+
+1115
+00:24:22,110 --> 00:24:22,120
+že tie dierky môžu byť nejako do seba
+
+1116
+00:24:22,120 --> 00:24:23,350
+že tie dierky môžu byť nejako do seba
+divne pomotané
+
+1117
+00:24:23,350 --> 00:24:23,360
+divne pomotané
+
+1118
+00:24:23,360 --> 00:24:25,909
+divne pomotané
+Takže takéto niečo funguje pre tie uzly
+
+1119
+00:24:25,909 --> 00:24:25,919
+Takže takéto niečo funguje pre tie uzly
+
+1120
+00:24:25,919 --> 00:24:27,470
+Takže takéto niečo funguje pre tie uzly
+a ľuďom nebolo úplne jasné ako to
+
+1121
+00:24:27,470 --> 00:24:27,480
+a ľuďom nebolo úplne jasné ako to
+
+1122
+00:24:27,480 --> 00:24:29,070
+a ľuďom nebolo úplne jasné ako to
+funguje
+
+1123
+00:24:29,070 --> 00:24:29,080
+funguje
+
+1124
+00:24:29,080 --> 00:24:32,310
+funguje
+a a Wien sa venoval ešte trošku z
+
+1125
+00:24:32,310 --> 00:24:32,320
+a a Wien sa venoval ešte trošku z
+
+1126
+00:24:32,320 --> 00:24:34,750
+a a Wien sa venoval ešte trošku z
+všeobecnejšej teórii v troch rozmeroch
+
+1127
+00:24:34,750 --> 00:24:34,760
+všeobecnejšej teórii v troch rozmeroch
+
+1128
+00:24:34,760 --> 00:24:38,830
+všeobecnejšej teórii v troch rozmeroch
+také trošku zložitejšie pomotané veci a
+
+1129
+00:24:38,830 --> 00:24:38,840
+také trošku zložitejšie pomotané veci a
+
+1130
+00:24:38,840 --> 00:24:40,470
+také trošku zložitejšie pomotané veci a
+ukázal že na túto otázku sa dá
+
+1131
+00:24:40,470 --> 00:24:40,480
+ukázal že na túto otázku sa dá
+
+1132
+00:24:40,480 --> 00:24:42,830
+ukázal že na túto otázku sa dá
+nahliadnuť cez kvantovú teóriu
+
+1133
+00:24:42,830 --> 00:24:42,840
+nahliadnuť cez kvantovú teóriu
+
+1134
+00:24:42,840 --> 00:24:46,149
+nahliadnuť cez kvantovú teóriu
+pola čiže on Našiel on našiel nejakú
+
+1135
+00:24:46,149 --> 00:24:46,159
+pola čiže on Našiel on našiel nejakú
+
+1136
+00:24:46,159 --> 00:24:48,350
+pola čiže on Našiel on našiel nejakú
+formuláciu kvantovej teórie pola ktorá
+
+1137
+00:24:48,350 --> 00:24:48,360
+formuláciu kvantovej teórie pola ktorá
+
+1138
+00:24:48,360 --> 00:24:51,070
+formuláciu kvantovej teórie pola ktorá
+ľuďom poodhalila nejaké vlastnosti známe
+
+1139
+00:24:51,070 --> 00:24:51,080
+ľuďom poodhalila nejaké vlastnosti známe
+
+1140
+00:24:51,080 --> 00:24:52,070
+ľuďom poodhalila nejaké vlastnosti známe
+z teórie
+
+1141
+00:24:52,070 --> 00:24:52,080
+z teórie
+
+1142
+00:24:52,080 --> 00:24:55,389
+z teórie
+uzlov OK a za toto dostal tú matematickú
+
+1143
+00:24:55,389 --> 00:24:55,399
+uzlov OK a za toto dostal tú matematickú
+
+1144
+00:24:55,399 --> 00:24:58,789
+uzlov OK a za toto dostal tú matematickú
+nobelovku je to úplne že brutálna vec Ak
+
+1145
+00:24:58,789 --> 00:24:58,799
+nobelovku je to úplne že brutálna vec Ak
+
+1146
+00:24:58,799 --> 00:25:00,909
+nobelovku je to úplne že brutálna vec Ak
+nám ľudia napíšu že by extrémne veľmi
+
+1147
+00:25:00,909 --> 00:25:00,919
+nám ľudia napíšu že by extrémne veľmi
+
+1148
+00:25:00,919 --> 00:25:03,310
+nám ľudia napíšu že by extrémne veľmi
+chceli tak si o tomto môžeme spraviť
+
+1149
+00:25:03,310 --> 00:25:03,320
+chceli tak si o tomto môžeme spraviť
+
+1150
+00:25:03,320 --> 00:25:06,350
+chceli tak si o tomto môžeme spraviť
+epizódu ale bude to možno trošku záhul
+
+1151
+00:25:06,350 --> 00:25:06,360
+epizódu ale bude to možno trošku záhul
+
+1152
+00:25:06,360 --> 00:25:08,110
+epizódu ale bude to možno trošku záhul
+ale možno bude stáť za to ja som si k
+
+1153
+00:25:08,110 --> 00:25:08,120
+ale možno bude stáť za to ja som si k
+
+1154
+00:25:08,120 --> 00:25:09,789
+ale možno bude stáť za to ja som si k
+tomuto prečítal jeho blog ktorý o tom
+
+1155
+00:25:09,789 --> 00:25:09,799
+tomuto prečítal jeho blog ktorý o tom
+
+1156
+00:25:09,799 --> 00:25:13,149
+tomuto prečítal jeho blog ktorý o tom
+písal a je celkom zaujímavý ale
+
+1157
+00:25:13,149 --> 00:25:13,159
+písal a je celkom zaujímavý ale
+
+1158
+00:25:13,159 --> 00:25:15,510
+písal a je celkom zaujímavý ale
+len Dal som do slovenčiny preložiť
+
+1159
+00:25:15,510 --> 00:25:15,520
+len Dal som do slovenčiny preložiť
+
+1160
+00:25:15,520 --> 00:25:17,470
+len Dal som do slovenčiny preložiť
+abstrakt jeho článku Len aby ste vedeli
+
+1161
+00:25:17,470 --> 00:25:17,480
+abstrakt jeho článku Len aby ste vedeli
+
+1162
+00:25:17,480 --> 00:25:20,590
+abstrakt jeho článku Len aby ste vedeli
+že aká je to podivnosť tak odcitujem
+
+1163
+00:25:20,590 --> 00:25:20,600
+že aká je to podivnosť tak odcitujem
+
+1164
+00:25:20,600 --> 00:25:23,190
+že aká je to podivnosť tak odcitujem
+teraz on opísal nejaký systém a potom
+
+1165
+00:25:23,190 --> 00:25:23,200
+teraz on opísal nejaký systém a potom
+
+1166
+00:25:23,200 --> 00:25:25,549
+teraz on opísal nejaký systém a potom
+povedal Na jednej strane môže byť tento
+
+1167
+00:25:25,549 --> 00:25:25,559
+povedal Na jednej strane môže byť tento
+
+1168
+00:25:25,559 --> 00:25:28,310
+povedal Na jednej strane môže byť tento
+systém sťahovaný na ch simonov
+
+1169
+00:25:28,310 --> 00:25:28,320
+systém sťahovaný na ch simonov
+
+1170
+00:25:28,320 --> 00:25:30,389
+systém sťahovaný na ch simonov
+kalibračnú teóriu na hranici objemu D3
+
+1171
+00:25:30,389 --> 00:25:30,399
+kalibračnú teóriu na hranici objemu D3
+
+1172
+00:25:30,399 --> 00:25:32,350
+kalibračnú teóriu na hranici objemu D3
+brány na druhej strane ho možno študovať
+
+1173
+00:25:32,350 --> 00:25:32,360
+brány na druhej strane ho možno študovať
+
+1174
+00:25:32,360 --> 00:25:34,149
+brány na druhej strane ho možno študovať
+pomocou štandardných techník s duality a
+
+1175
+00:25:34,149 --> 00:25:34,159
+pomocou štandardných techník s duality a
+
+1176
+00:25:34,159 --> 00:25:36,269
+pomocou štandardných techník s duality a
+t duality kombinácia týchto dvoch
+
+1177
+00:25:36,269 --> 00:25:36,279
+t duality kombinácia týchto dvoch
+
+1178
+00:25:36,279 --> 00:25:37,909
+t duality kombinácia týchto dvoch
+prístupu vedie k novému a jednoznačne
+
+1179
+00:25:37,909 --> 00:25:37,919
+prístupu vedie k novému a jednoznačne
+
+1180
+00:25:37,919 --> 00:25:40,789
+prístupu vedie k novému a jednoznačne
+invariantné opisu johnsonov polynómu
+
+1181
+00:25:40,789 --> 00:25:40,799
+invariantné opisu johnsonov polynómu
+
+1182
+00:25:40,799 --> 00:25:43,870
+invariantné opisu johnsonov polynómu
+uzlov a jeho generalizácii ako k
+
+1183
+00:25:43,870 --> 00:25:43,880
+uzlov a jeho generalizácii ako k
+
+1184
+00:25:43,880 --> 00:25:46,269
+uzlov a jeho generalizácii ako k
+jednoznačne invariantné opisu kovan
+
+1185
+00:25:46,269 --> 00:25:46,279
+jednoznačne invariantné opisu kovan
+
+1186
+00:25:46,279 --> 00:25:49,149
+jednoznačne invariantné opisu kovan
+novej homoli v zmysle určitých
+
+1187
+00:25:49,149 --> 00:25:49,159
+novej homoli v zmysle určitých
+
+1188
+00:25:49,159 --> 00:25:50,830
+novej homoli v zmysle určitých
+eliptických parciálnych diferenciálnych
+
+1189
+00:25:50,830 --> 00:25:50,840
+eliptických parciálnych diferenciálnych
+
+1190
+00:25:50,840 --> 00:25:53,510
+eliptických parciálnych diferenciálnych
+rovníc štyroch a piatich rozmeroch takže
+
+1191
+00:25:53,510 --> 00:25:53,520
+rovníc štyroch a piatich rozmeroch takže
+
+1192
+00:25:53,520 --> 00:25:55,389
+rovníc štyroch a piatich rozmeroch takže
+toto je ten článok Toto je abstrakt
+
+1193
+00:25:55,389 --> 00:25:55,399
+toto je ten článok Toto je abstrakt
+
+1194
+00:25:55,399 --> 00:25:57,230
+toto je ten článok Toto je abstrakt
+článku ktorý niečo
+
+1195
+00:25:57,230 --> 00:25:57,240
+článku ktorý niečo
+
+1196
+00:25:57,240 --> 00:26:00,669
+článku ktorý niečo
+vysvetľuje podľa mňa že pre
+
+1197
+00:26:00,669 --> 00:26:00,679
+vysvetľuje podľa mňa že pre
+
+1198
+00:26:00,679 --> 00:26:03,669
+vysvetľuje podľa mňa že pre
+absolventa štúdia fyziky je už ten
+
+1199
+00:26:03,669 --> 00:26:03,679
+absolventa štúdia fyziky je už ten
+
+1200
+00:26:03,679 --> 00:26:05,789
+absolventa štúdia fyziky je už ten
+abstrakt pomerne zložitý ak nerobil
+
+1201
+00:26:05,789 --> 00:26:05,799
+abstrakt pomerne zložitý ak nerobil
+
+1202
+00:26:05,799 --> 00:26:07,830
+abstrakt pomerne zložitý ak nerobil
+priam teóriu strún alebo nejaké úzko
+
+1203
+00:26:07,830 --> 00:26:07,840
+priam teóriu strún alebo nejaké úzko
+
+1204
+00:26:07,840 --> 00:26:10,310
+priam teóriu strún alebo nejaké úzko
+súvisiace veci Takže to len že aby ľudia
+
+1205
+00:26:10,310 --> 00:26:10,320
+súvisiace veci Takže to len že aby ľudia
+
+1206
+00:26:10,320 --> 00:26:11,710
+súvisiace veci Takže to len že aby ľudia
+boli opatrní či budú chcieť o tomto
+
+1207
+00:26:11,710 --> 00:26:11,720
+boli opatrní či budú chcieť o tomto
+
+1208
+00:26:11,720 --> 00:26:13,149
+boli opatrní či budú chcieť o tomto
+vedieť niečo viacej ale teda že on
+
+1209
+00:26:13,149 --> 00:26:13,159
+vedieť niečo viacej ale teda že on
+
+1210
+00:26:13,159 --> 00:26:15,510
+vedieť niečo viacej ale teda že on
+naozaj že zobral
+
+1211
+00:26:15,510 --> 00:26:15,520
+naozaj že zobral
+
+1212
+00:26:15,520 --> 00:26:18,669
+naozaj že zobral
+nejaký systém z kvantovej teórie pola a
+
+1213
+00:26:18,669 --> 00:26:18,679
+nejaký systém z kvantovej teórie pola a
+
+1214
+00:26:18,679 --> 00:26:20,350
+nejaký systém z kvantovej teórie pola a
+pomocou neho podal nejaké známe
+
+1215
+00:26:20,350 --> 00:26:20,360
+pomocou neho podal nejaké známe
+
+1216
+00:26:20,360 --> 00:26:22,310
+pomocou neho podal nejaké známe
+vlastnosti o uzloch a za toto dostal
+
+1217
+00:26:22,310 --> 00:26:22,320
+vlastnosti o uzloch a za toto dostal
+
+1218
+00:26:22,320 --> 00:26:23,950
+vlastnosti o uzloch a za toto dostal
+alebo teda aj za toto dostal filcovou
+
+1219
+00:26:23,950 --> 00:26:23,960
+alebo teda aj za toto dostal filcovou
+
+1220
+00:26:23,960 --> 00:26:26,070
+alebo teda aj za toto dostal filcovou
+medailu to je jedna možnosť ale druhá
+
+1221
+00:26:26,070 --> 00:26:26,080
+medailu to je jedna možnosť ale druhá
+
+1222
+00:26:26,080 --> 00:26:27,350
+medailu to je jedna možnosť ale druhá
+možnosť je že sme spomínali tie
+
+1223
+00:26:27,350 --> 00:26:27,360
+možnosť je že sme spomínali tie
+
+1224
+00:26:27,360 --> 00:26:28,830
+možnosť je že sme spomínali tie
+miléniové problémy
+
+1225
+00:26:28,830 --> 00:26:28,840
+miléniové problémy
+
+1226
+00:26:28,840 --> 00:26:30,870
+miléniové problémy
+A ty si v predošlej epizóde keď sme mali
+
+1227
+00:26:30,870 --> 00:26:30,880
+A ty si v predošlej epizóde keď sme mali
+
+1228
+00:26:30,880 --> 00:26:35,430
+A ty si v predošlej epizóde keď sme mali
+fakt Dobré otázky spomínal toho rusa Uhm
+
+1229
+00:26:35,430 --> 00:26:35,440
+fakt Dobré otázky spomínal toho rusa Uhm
+
+1230
+00:26:35,440 --> 00:26:38,470
+fakt Dobré otázky spomínal toho rusa Uhm
+ktorý vyriešil jeden z tých problémov
+
+1231
+00:26:38,470 --> 00:26:38,480
+ktorý vyriešil jeden z tých problémov
+
+1232
+00:26:38,480 --> 00:26:40,630
+ktorý vyriešil jeden z tých problémov
+Jeden z mála vyriešených problémov ktorý
+
+1233
+00:26:40,630 --> 00:26:40,640
+Jeden z mála vyriešených problémov ktorý
+
+1234
+00:26:40,640 --> 00:26:43,389
+Jeden z mála vyriešených problémov ktorý
+sa volá no ale vyriešil ho ešte ako
+
+1235
+00:26:43,389 --> 00:26:43,399
+sa volá no ale vyriešil ho ešte ako
+
+1236
+00:26:43,399 --> 00:26:46,630
+sa volá no ale vyriešil ho ešte ako
+pán PR proste len došiel hodil výsledok
+
+1237
+00:26:46,630 --> 00:26:46,640
+pán PR proste len došiel hodil výsledok
+
+1238
+00:26:46,640 --> 00:26:50,430
+pán PR proste len došiel hodil výsledok
+a odišiel proste Áno volal sa stále sa
+
+1239
+00:26:50,430 --> 00:26:50,440
+a odišiel proste Áno volal sa stále sa
+
+1240
+00:26:50,440 --> 00:26:53,789
+a odišiel proste Áno volal sa stále sa
+volá teda Grigor perelman a v roku 2002
+
+1241
+00:26:53,789 --> 00:26:53,799
+volá teda Grigor perelman a v roku 2002
+
+1242
+00:26:53,799 --> 00:26:56,549
+volá teda Grigor perelman a v roku 2002
+2003 zavesil vlastne na voľne dostupnú
+
+1243
+00:26:56,549 --> 00:26:56,559
+2003 zavesil vlastne na voľne dostupnú
+
+1244
+00:26:56,559 --> 00:26:58,389
+2003 zavesil vlastne na voľne dostupnú
+stránku archív kde sa dávajú vedecké
+
+1245
+00:26:58,389 --> 00:26:58,399
+stránku archív kde sa dávajú vedecké
+
+1246
+00:26:58,399 --> 00:26:59,990
+stránku archív kde sa dávajú vedecké
+články predtým ako ich pošle niekde do
+
+1247
+00:26:59,990 --> 00:27:00,000
+články predtým ako ich pošle niekde do
+
+1248
+00:27:00,000 --> 00:27:01,230
+články predtým ako ich pošle niekde do
+časopisu aby ti to ľudia mohli
+
+1249
+00:27:01,230 --> 00:27:01,240
+časopisu aby ti to ľudia mohli
+
+1250
+00:27:01,240 --> 00:27:03,269
+časopisu aby ti to ľudia mohli
+okomentovať a prípadne ti dať nejaké
+
+1251
+00:27:03,269 --> 00:27:03,279
+okomentovať a prípadne ti dať nejaké
+
+1252
+00:27:03,279 --> 00:27:04,590
+okomentovať a prípadne ti dať nejaké
+návrhy na zlepšenie tak on to tam
+
+1253
+00:27:04,590 --> 00:27:04,600
+návrhy na zlepšenie tak on to tam
+
+1254
+00:27:04,600 --> 00:27:07,710
+návrhy na zlepšenie tak on to tam
+zavesil d riešenie veľmi známeho
+
+1255
+00:27:07,710 --> 00:27:07,720
+zavesil d riešenie veľmi známeho
+
+1256
+00:27:07,720 --> 00:27:13,029
+zavesil d riešenie veľmi známeho
+problému od roku 1904 anry Pan kare eh
+
+1257
+00:27:13,029 --> 00:27:13,039
+problému od roku 1904 anry Pan kare eh
+
+1258
+00:27:13,039 --> 00:27:14,950
+problému od roku 1904 anry Pan kare eh
+zadefinoval takú hypotézu ktorá vlastne
+
+1259
+00:27:14,950 --> 00:27:14,960
+zadefinoval takú hypotézu ktorá vlastne
+
+1260
+00:27:14,960 --> 00:27:19,269
+zadefinoval takú hypotézu ktorá vlastne
+hovorí že ak máš trojrozmerné
+
+1261
+00:27:19,269 --> 00:27:19,279
+hovorí že ak máš trojrozmerné
+
+1262
+00:27:19,279 --> 00:27:22,190
+hovorí že ak máš trojrozmerné
+teleso na ktorom keď spravíš slučku tak
+
+1263
+00:27:22,190 --> 00:27:22,200
+teleso na ktorom keď spravíš slučku tak
+
+1264
+00:27:22,200 --> 00:27:23,470
+teleso na ktorom keď spravíš slučku tak
+tá slučka sa dá
+
+1265
+00:27:23,470 --> 00:27:23,480
+tá slučka sa dá
+
+1266
+00:27:23,480 --> 00:27:28,190
+tá slučka sa dá
+stiahnuť tak to teleso je
+
+1267
+00:27:28,200 --> 00:27:29,750
+to znamená že ak by bolo z plastelíny
+
+1268
+00:27:29,750 --> 00:27:29,760
+to znamená že ak by bolo z plastelíny
+
+1269
+00:27:29,760 --> 00:27:40,750
+to znamená že ak by bolo z plastelíny
+tak sa na ňu dá pretvarovať a
+
+1270
+00:27:40,760 --> 00:27:42,549
+trojslabičné teleso na ktorom sa dá
+
+1271
+00:27:42,549 --> 00:27:42,559
+trojslabičné teleso na ktorom sa dá
+
+1272
+00:27:42,559 --> 00:27:44,549
+trojslabičné teleso na ktorom sa dá
+stiahnuť slučka tak to znamená že
+
+1273
+00:27:44,549 --> 00:27:44,559
+stiahnuť slučka tak to znamená že
+
+1274
+00:27:44,559 --> 00:27:49,669
+stiahnuť slučka tak to znamená že
+vlastne je to len nejaká zdeformovaná
+
+1275
+00:27:49,679 --> 00:27:52,110
+trojspolku túto úlohu anry po ankare
+
+1276
+00:27:52,110 --> 00:27:52,120
+trojspolku túto úlohu anry po ankare
+
+1277
+00:27:52,120 --> 00:27:56,389
+trojspolku túto úlohu anry po ankare
+1904 a o slabých 98 a 99 rokov neskôr
+
+1278
+00:27:56,389 --> 00:27:56,399
+1904 a o slabých 98 a 99 rokov neskôr
+
+1279
+00:27:56,399 --> 00:27:59,110
+1904 a o slabých 98 a 99 rokov neskôr
+zavesil teda perelman č na archív kde
+
+1280
+00:27:59,110 --> 00:27:59,120
+zavesil teda perelman č na archív kde
+
+1281
+00:27:59,120 --> 00:28:01,789
+zavesil teda perelman č na archív kde
+túto úlohu vyriešil zovšeobecnením
+
+1282
+00:28:01,789 --> 00:28:01,799
+túto úlohu vyriešil zovšeobecnením
+
+1283
+00:28:01,799 --> 00:28:05,110
+túto úlohu vyriešil zovšeobecnením
+teórie eh rho tokov Nech už je to hocičo
+
+1284
+00:28:05,110 --> 00:28:05,120
+teórie eh rho tokov Nech už je to hocičo
+
+1285
+00:28:05,120 --> 00:28:07,070
+teórie eh rho tokov Nech už je to hocičo
+dostal za
+
+1286
+00:28:07,070 --> 00:28:07,080
+dostal za
+
+1287
+00:28:07,080 --> 00:28:09,669
+dostal za
+to dostal za to v roku 2006 tiež
+
+1288
+00:28:09,669 --> 00:28:09,679
+to dostal za to v roku 2006 tiež
+
+1289
+00:28:09,679 --> 00:28:13,470
+to dostal za to v roku 2006 tiež
+filcovou medailu a neprebral si
+
+1290
+00:28:13,470 --> 00:28:13,480
+filcovou medailu a neprebral si
+
+1291
+00:28:13,480 --> 00:28:16,509
+filcovou medailu a neprebral si
+ju OK zároveň
+
+1292
+00:28:16,509 --> 00:28:16,519
+ju OK zároveň
+
+1293
+00:28:16,519 --> 00:28:19,830
+ju OK zároveň
+eh bol tým že vyriešil niečo niečo Ak
+
+1294
+00:28:19,830 --> 00:28:19,840
+eh bol tým že vyriešil niečo niečo Ak
+
+1295
+00:28:19,840 --> 00:28:22,509
+eh bol tým že vyriešil niečo niečo Ak
+keby vo vzduchu mali Títo ľudia Alebo ak
+
+1296
+00:28:22,509 --> 00:28:22,519
+keby vo vzduchu mali Títo ľudia Alebo ak
+
+1297
+00:28:22,519 --> 00:28:25,149
+keby vo vzduchu mali Títo ľudia Alebo ak
+keby jedli Niečo zvláštne tak tak tak
+
+1298
+00:28:25,149 --> 00:28:25,159
+keby jedli Niečo zvláštne tak tak tak
+
+1299
+00:28:25,159 --> 00:28:27,870
+keby jedli Niečo zvláštne tak tak tak
+eh rovnako dostal teda milión dolárov
+
+1300
+00:28:27,870 --> 00:28:27,880
+eh rovnako dostal teda milión dolárov
+
+1301
+00:28:27,880 --> 00:28:29,110
+eh rovnako dostal teda milión dolárov
+lebo Le to bol aj ten vyhlásený
+
+1302
+00:28:29,110 --> 00:28:29,120
+lebo Le to bol aj ten vyhlásený
+
+1303
+00:28:29,120 --> 00:28:32,590
+lebo Le to bol aj ten vyhlásený
+miléniový problém a v roku 2010 mu to
+
+1304
+00:28:32,590 --> 00:28:32,600
+miléniový problém a v roku 2010 mu to
+
+1305
+00:28:32,600 --> 00:28:35,669
+miléniový problém a v roku 2010 mu to
+bolo priznané a odmietol tú cenu kvôli
+
+1306
+00:28:35,669 --> 00:28:35,679
+bolo priznané a odmietol tú cenu kvôli
+
+1307
+00:28:35,679 --> 00:28:37,630
+bolo priznané a odmietol tú cenu kvôli
+tomu Okrem iného že on nadviazal na
+
+1308
+00:28:37,630 --> 00:28:37,640
+tomu Okrem iného že on nadviazal na
+
+1309
+00:28:37,640 --> 00:28:41,190
+tomu Okrem iného že on nadviazal na
+prácu Richarda hamiltona
+
+1310
+00:28:41,190 --> 00:28:41,200
+prácu Richarda hamiltona
+
+1311
+00:28:41,200 --> 00:28:43,669
+prácu Richarda hamiltona
+ktorý položil nejaké základy ktoré on
+
+1312
+00:28:43,669 --> 00:28:43,679
+ktorý položil nejaké základy ktoré on
+
+1313
+00:28:43,679 --> 00:28:46,190
+ktorý položil nejaké základy ktoré on
+rozšíril No a on povedal že jeho
+
+1314
+00:28:46,190 --> 00:28:46,200
+rozšíril No a on povedal že jeho
+
+1315
+00:28:46,200 --> 00:28:48,630
+rozšíril No a on povedal že jeho
+príspevok bol vlastne nie menší ako môj
+
+1316
+00:28:48,630 --> 00:28:48,640
+príspevok bol vlastne nie menší ako môj
+
+1317
+00:28:48,640 --> 00:28:51,590
+príspevok bol vlastne nie menší ako môj
+a teda odmietam prijať tieto peniaze ak
+
+1318
+00:28:51,590 --> 00:28:51,600
+a teda odmietam prijať tieto peniaze ak
+
+1319
+00:28:51,600 --> 00:28:54,110
+a teda odmietam prijať tieto peniaze ak
+sa ním tak išiel niekde na tú chatku eh
+
+1320
+00:28:54,110 --> 00:28:54,120
+sa ním tak išiel niekde na tú chatku eh
+
+1321
+00:28:54,120 --> 00:28:59,149
+sa ním tak išiel niekde na tú chatku eh
+sibírsku či či kam No to
+
+1322
+00:28:59,149 --> 00:28:59,159
+sibírsku či či kam No to
+
+1323
+00:28:59,159 --> 00:29:01,269
+sibírsku či či kam No to
+No a táto úloha je teda vyriešená
+
+1324
+00:29:01,269 --> 00:29:01,279
+No a táto úloha je teda vyriešená
+
+1325
+00:29:01,279 --> 00:29:04,509
+No a táto úloha je teda vyriešená
+bohužiaľ Takto sa dal získať milión ale
+
+1326
+00:29:04,509 --> 00:29:04,519
+bohužiaľ Takto sa dal získať milión ale
+
+1327
+00:29:04,519 --> 00:29:06,350
+bohužiaľ Takto sa dal získať milión ale
+ale odmietol ho a zostala ešte jedna
+
+1328
+00:29:06,350 --> 00:29:06,360
+ale odmietol ho a zostala ešte jedna
+
+1329
+00:29:06,360 --> 00:29:09,310
+ale odmietol ho a zostala ešte jedna
+mileniova nevyriešená
+
+1330
+00:29:09,310 --> 00:29:09,320
+mileniova nevyriešená
+
+1331
+00:29:09,320 --> 00:29:11,590
+mileniova nevyriešená
+topologicka ktorá sa volá že hodova
+
+1332
+00:29:11,590 --> 00:29:11,600
+topologicka ktorá sa volá že hodova
+
+1333
+00:29:11,600 --> 00:29:14,149
+topologicka ktorá sa volá že hodova
+hypotéza a to sa nedá ani úplne rozumne
+
+1334
+00:29:14,149 --> 00:29:14,159
+hypotéza a to sa nedá ani úplne rozumne
+
+1335
+00:29:14,159 --> 00:29:17,630
+hypotéza a to sa nedá ani úplne rozumne
+vysvetliť ale prepája to dve oblasti
+
+1336
+00:29:17,630 --> 00:29:17,640
+vysvetliť ale prepája to dve oblasti
+
+1337
+00:29:17,640 --> 00:29:19,950
+vysvetliť ale prepája to dve oblasti
+znova v podstate matematiky alebo
+
+1338
+00:29:19,950 --> 00:29:19,960
+znova v podstate matematiky alebo
+
+1339
+00:29:19,960 --> 00:29:23,110
+znova v podstate matematiky alebo
+nejakej takej teórie topológie blízkeho
+
+1340
+00:29:23,110 --> 00:29:23,120
+nejakej takej teórie topológie blízkeho
+
+1341
+00:29:23,120 --> 00:29:26,029
+nejakej takej teórie topológie blízkeho
+okolia a hovorí vlastne o tom o
+
+1342
+00:29:26,029 --> 00:29:26,039
+okolia a hovorí vlastne o tom o
+
+1343
+00:29:26,039 --> 00:29:27,630
+okolia a hovorí vlastne o tom o
+vlastnostiach dvoch objektov ktorý jeden
+
+1344
+00:29:27,630 --> 00:29:27,640
+vlastnostiach dvoch objektov ktorý jeden
+
+1345
+00:29:27,640 --> 00:29:30,909
+vlastnostiach dvoch objektov ktorý jeden
+spadá pod algebraické topológiu a jeden
+
+1346
+00:29:30,909 --> 00:29:30,919
+spadá pod algebraické topológiu a jeden
+
+1347
+00:29:30,919 --> 00:29:32,710
+spadá pod algebraické topológiu a jeden
+pod niečo čo by si nazval v podstate
+
+1348
+00:29:32,710 --> 00:29:32,720
+pod niečo čo by si nazval v podstate
+
+1349
+00:29:32,720 --> 00:29:34,549
+pod niečo čo by si nazval v podstate
+geometriou čiže hľadanie nejakého
+
+1350
+00:29:34,549 --> 00:29:34,559
+geometriou čiže hľadanie nejakého
+
+1351
+00:29:34,559 --> 00:29:37,630
+geometriou čiže hľadanie nejakého
+geometrického topologické súvisu a je to
+
+1352
+00:29:37,630 --> 00:29:37,640
+geometrického topologické súvisu a je to
+
+1353
+00:29:37,640 --> 00:29:39,070
+geometrického topologické súvisu a je to
+presne taká tá oblasť Kde sa tá
+
+1354
+00:29:39,070 --> 00:29:39,080
+presne taká tá oblasť Kde sa tá
+
+1355
+00:29:39,080 --> 00:29:42,870
+presne taká tá oblasť Kde sa tá
+topológia eh stretáva s rovni Kami a s
+
+1356
+00:29:42,870 --> 00:29:42,880
+topológia eh stretáva s rovni Kami a s
+
+1357
+00:29:42,880 --> 00:29:44,870
+topológia eh stretáva s rovni Kami a s
+počítaním vecí a tak ďalej takže
+
+1358
+00:29:44,870 --> 00:29:44,880
+počítaním vecí a tak ďalej takže
+
+1359
+00:29:44,880 --> 00:29:48,029
+počítaním vecí a tak ďalej takže
+existuje ešte Hodžova hypotéza
+
+1360
+00:29:48,029 --> 00:29:48,039
+existuje ešte Hodžova hypotéza
+
+1361
+00:29:48,039 --> 00:29:50,389
+existuje ešte Hodžova hypotéza
+ktorá nie je Podľa mňa ani v
+
+1362
+00:29:50,389 --> 00:29:50,399
+ktorá nie je Podľa mňa ani v
+
+1363
+00:29:50,399 --> 00:29:51,710
+ktorá nie je Podľa mňa ani v
+popularizačné
+
+1364
+00:29:51,710 --> 00:29:51,720
+popularizačné
+
+1365
+00:29:51,720 --> 00:29:55,710
+popularizačné
+eh podcaste pretlmočiť tak aby to znelo
+
+1366
+00:29:55,710 --> 00:29:55,720
+eh podcaste pretlmočiť tak aby to znelo
+
+1367
+00:29:55,720 --> 00:29:58,350
+eh podcaste pretlmočiť tak aby to znelo
+lepšie ako ten Vito abstrakt To sú
+
+1368
+00:29:58,350 --> 00:29:58,360
+lepšie ako ten Vito abstrakt To sú
+
+1369
+00:29:58,360 --> 00:30:01,149
+lepšie ako ten Vito abstrakt To sú
+proste že í pustíme sa do toho
+
+1370
+00:30:01,149 --> 00:30:01,159
+proste že í pustíme sa do toho
+
+1371
+00:30:01,159 --> 00:30:05,990
+proste že í pustíme sa do toho
+eh vieš čo Že dlho som mal takú
+
+1372
+00:30:05,990 --> 00:30:06,000
+eh vieš čo Že dlho som mal takú
+
+1373
+00:30:06,000 --> 00:30:07,669
+eh vieš čo Že dlho som mal takú
+predstavu že Však poďme urobiť všetky
+
+1374
+00:30:07,669 --> 00:30:07,679
+predstavu že Však poďme urobiť všetky
+
+1375
+00:30:07,679 --> 00:30:10,669
+predstavu že Však poďme urobiť všetky
+tie miléniové problémy ako hej hej To
+
+1376
+00:30:10,669 --> 00:30:10,679
+tie miléniové problémy ako hej hej To
+
+1377
+00:30:10,679 --> 00:30:12,750
+tie miléniové problémy ako hej hej To
+sme aj hovorili niekde že to spravíme a
+
+1378
+00:30:12,750 --> 00:30:12,760
+sme aj hovorili niekde že to spravíme a
+
+1379
+00:30:12,760 --> 00:30:14,909
+sme aj hovorili niekde že to spravíme a
+a Hodžova hypotéza jeden z tých dôvodov
+
+1380
+00:30:14,909 --> 00:30:14,919
+a Hodžova hypotéza jeden z tých dôvodov
+
+1381
+00:30:14,919 --> 00:30:16,950
+a Hodžova hypotéza jeden z tých dôvodov
+prečo sa mi za toho fakt nechce že to je
+
+1382
+00:30:16,950 --> 00:30:16,960
+prečo sa mi za toho fakt nechce že to je
+
+1383
+00:30:16,960 --> 00:30:18,710
+prečo sa mi za toho fakt nechce že to je
+proste
+
+1384
+00:30:18,710 --> 00:30:18,720
+proste
+
+1385
+00:30:18,720 --> 00:30:23,750
+proste
+eh to je nie že ešte slovenčinu písal a
+
+1386
+00:30:23,750 --> 00:30:23,760
+eh to je nie že ešte slovenčinu písal a
+
+1387
+00:30:23,760 --> 00:30:28,669
+eh to je nie že ešte slovenčinu písal a
+ešte matematik Iný Iný Iný hoda Jáj Jáj
+
+1388
+00:30:28,669 --> 00:30:28,679
+ešte matematik Iný Iný Iný hoda Jáj Jáj
+
+1389
+00:30:28,679 --> 00:30:32,110
+ešte matematik Iný Iný Iný hoda Jáj Jáj
+to je ten diktátor z albánska čo tak eh
+
+1390
+00:30:32,110 --> 00:30:32,120
+to je ten diktátor z albánska čo tak eh
+
+1391
+00:30:32,120 --> 00:30:34,029
+to je ten diktátor z albánska čo tak eh
+Vieš čo ale eh frico alá neviem či ho
+
+1392
+00:30:34,029 --> 00:30:34,039
+Vieš čo ale eh frico alá neviem či ho
+
+1393
+00:30:34,039 --> 00:30:35,549
+Vieš čo ale eh frico alá neviem či ho
+poznáš on píše na vedátor články
+
+1394
+00:30:35,549 --> 00:30:35,559
+poznáš on píše na vedátor články
+
+1395
+00:30:35,559 --> 00:30:37,070
+poznáš on píše na vedátor články
+špeciálne o
+
+1396
+00:30:37,070 --> 00:30:37,080
+špeciálne o
+
+1397
+00:30:37,080 --> 00:30:40,230
+špeciálne o
+matematike tak on napísal sériu o o
+
+1398
+00:30:40,230 --> 00:30:40,240
+matematike tak on napísal sériu o o
+
+1399
+00:30:40,240 --> 00:30:42,549
+matematike tak on napísal sériu o o
+milený hypotézach a tam sa to trošku
+
+1400
+00:30:42,549 --> 00:30:42,559
+milený hypotézach a tam sa to trošku
+
+1401
+00:30:42,559 --> 00:30:46,389
+milený hypotézach a tam sa to trošku
+snaží eh snaží vysvetliť ale no prečítam
+
+1402
+00:30:46,389 --> 00:30:46,399
+snaží eh snaží vysvetliť ale no prečítam
+
+1403
+00:30:46,399 --> 00:30:48,950
+snaží eh snaží vysvetliť ale no prečítam
+jeho záver že skratka hodova domnienka
+
+1404
+00:30:48,950 --> 00:30:48,960
+jeho záver že skratka hodova domnienka
+
+1405
+00:30:48,960 --> 00:30:54,350
+jeho záver že skratka hodova domnienka
+hovorí o tom ako sa
+
+1406
+00:30:54,360 --> 00:30:58,710
+nesingwary a algebraická topológia on
+
+1407
+00:30:58,710 --> 00:30:58,720
+nesingwary a algebraická topológia on
+
+1408
+00:30:58,720 --> 00:31:01,029
+nesingwary a algebraická topológia on
+tie veci v tom článku volá čudá a pod
+
+1409
+00:31:01,029 --> 00:31:01,039
+tie veci v tom článku volá čudá a pod
+
+1410
+00:31:01,039 --> 00:31:03,190
+tie veci v tom článku volá čudá a pod
+čudá a podobne takže je to aspoň
+
+1411
+00:31:03,190 --> 00:31:03,200
+čudá a podobne takže je to aspoň
+
+1412
+00:31:03,200 --> 00:31:08,389
+čudá a podobne takže je to aspoň
+zaujímavý článok eh a tak že uvedomil si
+
+1413
+00:31:08,389 --> 00:31:08,399
+zaujímavý článok eh a tak že uvedomil si
+
+1414
+00:31:08,399 --> 00:31:12,509
+zaujímavý článok eh a tak že uvedomil si
+že obsahom nezaujme tak skúsil vi čo že
+
+1415
+00:31:12,509 --> 00:31:12,519
+že obsahom nezaujme tak skúsil vi čo že
+
+1416
+00:31:12,519 --> 00:31:14,110
+že obsahom nezaujme tak skúsil vi čo že
+on si dal presne túto vízu Ale teda nie
+
+1417
+00:31:14,110 --> 00:31:14,120
+on si dal presne túto vízu Ale teda nie
+
+1418
+00:31:14,120 --> 00:31:16,190
+on si dal presne túto vízu Ale teda nie
+na úrovni podcastov ale na úrovni na
+
+1419
+00:31:16,190 --> 00:31:16,200
+na úrovni podcastov ale na úrovni na
+
+1420
+00:31:16,200 --> 00:31:17,750
+na úrovni podcastov ale na úrovni na
+úrovni že článkov na vedátor Takže
+
+1421
+00:31:17,750 --> 00:31:17,760
+úrovni že článkov na vedátor Takže
+
+1422
+00:31:17,760 --> 00:31:20,669
+úrovni že článkov na vedátor Takže
+popísali všetkých sedem Ale toto bolo
+
+1423
+00:31:20,669 --> 00:31:20,679
+popísali všetkých sedem Ale toto bolo
+
+1424
+00:31:20,679 --> 00:31:22,470
+popísali všetkých sedem Ale toto bolo
+presne Vidno že tu tu sa človek strašne
+
+1425
+00:31:22,470 --> 00:31:22,480
+presne Vidno že tu tu sa človek strašne
+
+1426
+00:31:22,480 --> 00:31:25,149
+presne Vidno že tu tu sa človek strašne
+trápi že niektoré sú krásne dobre krásne
+
+1427
+00:31:25,149 --> 00:31:25,159
+trápi že niektoré sú krásne dobre krásne
+
+1428
+00:31:25,159 --> 00:31:28,669
+trápi že niektoré sú krásne dobre krásne
+zrozumiteľné niektoré sú vysvetliteľné A
+
+1429
+00:31:28,669 --> 00:31:28,679
+zrozumiteľné niektoré sú vysvetliteľné A
+
+1430
+00:31:28,679 --> 00:31:31,230
+zrozumiteľné niektoré sú vysvetliteľné A
+niektoré sú sú sú extrémne extrémne
+
+1431
+00:31:31,230 --> 00:31:31,240
+niektoré sú sú sú extrémne extrémne
+
+1432
+00:31:31,240 --> 00:31:33,029
+niektoré sú sú sú extrémne extrémne
+zložité táto Hodžova topologicka je
+
+1433
+00:31:33,029 --> 00:31:33,039
+zložité táto Hodžova topologicka je
+
+1434
+00:31:33,039 --> 00:31:35,950
+zložité táto Hodžova topologicka je
+naozaj to prepojenie topológie
+
+1435
+00:31:35,950 --> 00:31:35,960
+naozaj to prepojenie topológie
+
+1436
+00:31:35,960 --> 00:31:38,149
+naozaj to prepojenie topológie
+vyjadrenej cez rovnice
+
+1437
+00:31:38,149 --> 00:31:38,159
+vyjadrenej cez rovnice
+
+1438
+00:31:38,159 --> 00:31:41,310
+vyjadrenej cez rovnice
+a geometria komplexných priestorov No
+
+1439
+00:31:41,310 --> 00:31:41,320
+a geometria komplexných priestorov No
+
+1440
+00:31:41,320 --> 00:31:44,669
+a geometria komplexných priestorov No
+ďakujem pekne eh ale je za to milión
+
+1441
+00:31:44,669 --> 00:31:44,679
+ďakujem pekne eh ale je za to milión
+
+1442
+00:31:44,679 --> 00:31:47,750
+ďakujem pekne eh ale je za to milión
+dolárov aj ťažšie spôsoby ako sa dostať
+
+1443
+00:31:47,750 --> 00:31:47,760
+dolárov aj ťažšie spôsoby ako sa dostať
+
+1444
+00:31:47,760 --> 00:31:49,230
+dolárov aj ťažšie spôsoby ako sa dostať
+k miliónu aj keď vlastne neviem či si
+
+1445
+00:31:49,230 --> 00:31:49,240
+k miliónu aj keď vlastne neviem či si
+
+1446
+00:31:49,240 --> 00:31:50,710
+k miliónu aj keď vlastne neviem či si
+viem predstaviť ťažšie spôsoby ako sa
+
+1447
+00:31:50,710 --> 00:31:50,720
+viem predstaviť ťažšie spôsoby ako sa
+
+1448
+00:31:50,720 --> 00:31:52,470
+viem predstaviť ťažšie spôsoby ako sa
+dostať k miliónu ch povedať že viem si
+
+1449
+00:31:52,470 --> 00:31:52,480
+dostať k miliónu ch povedať že viem si
+
+1450
+00:31:52,480 --> 00:31:54,950
+dostať k miliónu ch povedať že viem si
+predstaviť o dosť ľahšie spôsoby ak
+
+1451
+00:31:54,950 --> 00:31:54,960
+predstaviť o dosť ľahšie spôsoby ak
+
+1452
+00:31:54,960 --> 00:31:58,509
+predstaviť o dosť ľahšie spôsoby ak
+predstaviť ľahšie hej no každopádne
+
+1453
+00:31:58,509 --> 00:31:58,519
+predstaviť ľahšie hej no každopádne
+
+1454
+00:31:58,519 --> 00:32:00,909
+predstaviť ľahšie hej no každopádne
+záver je taký že topológia je o hľadaní
+
+1455
+00:32:00,909 --> 00:32:00,919
+záver je taký že topológia je o hľadaní
+
+1456
+00:32:00,919 --> 00:32:03,789
+záver je taký že topológia je o hľadaní
+esencie v geometrii A to asi dáva tuči
+
+1457
+00:32:03,789 --> 00:32:03,799
+esencie v geometrii A to asi dáva tuči
+
+1458
+00:32:03,799 --> 00:32:05,629
+esencie v geometrii A to asi dáva tuči
+že je to pomerne užitočná vec všelikde
+
+1459
+00:32:05,629 --> 00:32:05,639
+že je to pomerne užitočná vec všelikde
+
+1460
+00:32:05,639 --> 00:32:09,149
+že je to pomerne užitočná vec všelikde
+okolo nás takže sa to oplatí minimálne
+
+1461
+00:32:09,149 --> 00:32:09,159
+okolo nás takže sa to oplatí minimálne
+
+1462
+00:32:09,159 --> 00:32:12,269
+okolo nás takže sa to oplatí minimálne
+poznať eh tie základné myšlienky každý z
+
+1463
+00:32:12,269 --> 00:32:12,279
+poznať eh tie základné myšlienky každý z
+
+1464
+00:32:12,279 --> 00:32:15,549
+poznať eh tie základné myšlienky každý z
+nás to zažil miliónkrát okolo seba
+
+1465
+00:32:15,549 --> 00:32:15,559
+nás to zažil miliónkrát okolo seba
+
+1466
+00:32:15,559 --> 00:32:19,110
+nás to zažil miliónkrát okolo seba
+a len len tomu nedával možno tento názov
+
+1467
+00:32:19,110 --> 00:32:19,120
+a len len tomu nedával možno tento názov
+
+1468
+00:32:19,120 --> 00:32:21,549
+a len len tomu nedával možno tento názov
+Dobre perfekt tak ja ďakujem všetkým že
+
+1469
+00:32:21,549 --> 00:32:21,559
+Dobre perfekt tak ja ďakujem všetkým že
+
+1470
+00:32:21,559 --> 00:32:23,830
+Dobre perfekt tak ja ďakujem všetkým že
+si nás dneska počúvali eh dneska sme sa
+
+1471
+00:32:23,830 --> 00:32:23,840
+si nás dneska počúvali eh dneska sme sa
+
+1472
+00:32:23,840 --> 00:32:26,590
+si nás dneska počúvali eh dneska sme sa
+rozprávali o topológii Nečakal som že
+
+1473
+00:32:26,590 --> 00:32:26,600
+rozprávali o topológii Nečakal som že
+
+1474
+00:32:26,600 --> 00:32:30,310
+rozprávali o topológii Nečakal som že
+nový Smrečianska cik eh nás do tohto
+
+1475
+00:32:30,310 --> 00:32:30,320
+nový Smrečianska cik eh nás do tohto
+
+1476
+00:32:30,320 --> 00:32:33,230
+nový Smrečianska cik eh nás do tohto
+nejako dostane ale a musíme sa zamyslieť
+
+1477
+00:32:33,230 --> 00:32:33,240
+nejako dostane ale a musíme sa zamyslieť
+
+1478
+00:32:33,240 --> 00:32:36,029
+nejako dostane ale a musíme sa zamyslieť
+nad tým že ak Akú Akú hej že akú Aké
+
+1479
+00:32:36,029 --> 00:32:36,039
+nad tým že ak Akú Akú hej že akú Aké
+
+1480
+00:32:36,039 --> 00:32:37,669
+nad tým že ak Akú Akú hej že akú Aké
+riešenie má vlastne Smrečianska úloha o
+
+1481
+00:32:37,669 --> 00:32:37,679
+riešenie má vlastne Smrečianska úloha o
+
+1482
+00:32:37,679 --> 00:32:39,310
+riešenie má vlastne Smrečianska úloha o
+tých mostoch že či sa dájú najprv musíme
+
+1483
+00:32:39,310 --> 00:32:39,320
+tých mostoch že či sa dájú najprv musíme
+
+1484
+00:32:39,320 --> 00:32:41,950
+tých mostoch že či sa dájú najprv musíme
+zistiť koľko tých mostov je hej a je to
+
+1485
+00:32:41,950 --> 00:32:41,960
+zistiť koľko tých mostov je hej a je to
+
+1486
+00:32:41,960 --> 00:32:45,070
+zistiť koľko tých mostov je hej a je to
+ťažké z mapy a z pamäte Hej presne eh
+
+1487
+00:32:45,070 --> 00:32:45,080
+ťažké z mapy a z pamäte Hej presne eh
+
+1488
+00:32:45,080 --> 00:32:46,669
+ťažké z mapy a z pamäte Hej presne eh
+Dobre ďakujem veľmi pekne že nás
+
+1489
+00:32:46,669 --> 00:32:46,679
+Dobre ďakujem veľmi pekne že nás
+
+1490
+00:32:46,679 --> 00:32:49,789
+Dobre ďakujem veľmi pekne že nás
+Počúvate ponožky niečo také máme či máme
+
+1491
+00:32:49,789 --> 00:32:49,799
+Počúvate ponožky niečo také máme či máme
+
+1492
+00:32:49,799 --> 00:32:51,710
+Počúvate ponožky niečo také máme či máme
+Áno áno u nás na stránke nájdete máme
+
+1493
+00:32:51,710 --> 00:32:51,720
+Áno áno u nás na stránke nájdete máme
+
+1494
+00:32:51,720 --> 00:32:53,750
+Áno áno u nás na stránke nájdete máme
+dobre sa ozvite na stránke nás nájdete
+
+1495
+00:32:53,750 --> 00:32:53,760
+dobre sa ozvite na stránke nás nájdete
+
+1496
+00:32:53,760 --> 00:32:56,149
+dobre sa ozvite na stránke nás nájdete
+nájdete aj super informácie v našej
+
+1497
+00:32:56,149 --> 00:32:56,159
+nájdete aj super informácie v našej
+
+1498
+00:32:56,159 --> 00:33:00,110
+nájdete aj super informácie v našej
+aplikácii bez žiadnych ovaní alebo bez
+
+1499
+00:33:00,110 --> 00:33:00,120
+aplikácii bez žiadnych ovaní alebo bez
+
+1500
+00:33:00,120 --> 00:33:02,470
+aplikácii bez žiadnych ovaní alebo bez
+reklám dokonca máme Night Mode aj pre
+
+1501
+00:33:02,470 --> 00:33:02,480
+reklám dokonca máme Night Mode aj pre
+
+1502
+00:33:02,480 --> 00:33:05,549
+reklám dokonca máme Night Mode aj pre
+ľudí ktorí majú slabšie videnie pre
+
+1503
+00:33:05,549 --> 00:33:05,559
+ľudí ktorí majú slabšie videnie pre
+
+1504
+00:33:05,559 --> 00:33:07,830
+ľudí ktorí majú slabšie videnie pre
+slabozrakých ľudí máme mó Takže a
+
+1505
+00:33:07,830 --> 00:33:07,840
+slabozrakých ľudí máme mó Takže a
+
+1506
+00:33:07,840 --> 00:33:10,629
+slabozrakých ľudí máme mó Takže a
+ďakujeme Danovi nášmu kováčovi internému
+
+1507
+00:33:10,629 --> 00:33:10,639
+ďakujeme Danovi nášmu kováčovi internému
+
+1508
+00:33:10,639 --> 00:33:14,190
+ďakujeme Danovi nášmu kováčovi internému
+že nám spravil túto vytesal túto
+
+1509
+00:33:14,190 --> 00:33:14,200
+že nám spravil túto vytesal túto
+
+1510
+00:33:14,200 --> 00:33:18,470
+že nám spravil túto vytesal túto
+aplikáciu do Majte sa veľmi pekne Majte
+
+1511
+00:33:18,470 --> 00:33:18,480
+aplikáciu do Majte sa veľmi pekne Majte
+
+1512
+00:33:18,480 --> 00:33:22,710
+aplikáciu do Majte sa veľmi pekne Majte
+[Hudba]
+
+1513
+00:33:22,710 --> 00:33:22,720
+[Hudba]
+
+1514
+00:33:22,720 --> 00:33:25,789
+[Hudba]
+sa dlhé roky mali prácu ktorá ich bavila
+
+1515
+00:33:25,789 --> 00:33:25,799
+sa dlhé roky mali prácu ktorá ich bavila
+
+1516
+00:33:25,799 --> 00:33:28,190
+sa dlhé roky mali prácu ktorá ich bavila
+no potom sa niečo stalo začali všímať
+
+1517
+00:33:28,190 --> 00:33:28,200
+no potom sa niečo stalo začali všímať
+
+1518
+00:33:28,200 --> 00:33:30,070
+no potom sa niečo stalo začali všímať
+pochybné tendre zvláštne neetické
+
+1519
+00:33:30,070 --> 00:33:30,080
+pochybné tendre zvláštne neetické
+
+1520
+00:33:30,080 --> 00:33:32,549
+pochybné tendre zvláštne neetické
+rozhodnutia či očividný konflikt záujmov
+
+1521
+00:33:32,549 --> 00:33:32,559
+rozhodnutia či očividný konflikt záujmov
+
+1522
+00:33:32,559 --> 00:33:34,710
+rozhodnutia či očividný konflikt záujmov
+keď na to upozornili svojho šéfa Stali
+
+1523
+00:33:34,710 --> 00:33:34,720
+keď na to upozornili svojho šéfa Stali
+
+1524
+00:33:34,720 --> 00:33:36,590
+keď na to upozornili svojho šéfa Stali
+sa neželanou osobou aj príbehy
+
+1525
+00:33:36,590 --> 00:33:36,600
+sa neželanou osobou aj príbehy
+
+1526
+00:33:36,600 --> 00:33:40,149
+sa neželanou osobou aj príbehy
+slovenských vob overovali dych vypočujte
+
+1527
+00:33:40,149 --> 00:33:40,159
+slovenských vob overovali dych vypočujte
+
+1528
+00:33:40,159 --> 00:33:41,870
+slovenských vob overovali dych vypočujte
+si osudy odvážnych ľudí ktorí sa
+
+1529
+00:33:41,870 --> 00:33:41,880
+si osudy odvážnych ľudí ktorí sa
+
+1530
+00:33:41,880 --> 00:33:43,909
+si osudy odvážnych ľudí ktorí sa
+postavili za správnu vec a napriek
+
+1531
+00:33:43,909 --> 00:33:43,919
+postavili za správnu vec a napriek
+
+1532
+00:33:43,919 --> 00:33:46,190
+postavili za správnu vec a napriek
+útrapám ktoré zažili by to urobili znova
+
+1533
+00:33:46,190 --> 00:33:46,200
+útrapám ktoré zažili by to urobili znova
+
+1534
+00:33:46,200 --> 00:33:48,190
+útrapám ktoré zažili by to urobili znova
+nový podkast neum lč aný pre vás vytvára
+
+1535
+00:33:48,190 --> 00:33:48,200
+nový podkast neum lč aný pre vás vytvára
+
+1536
+00:33:48,200 --> 00:33:49,830
+nový podkast neum lč aný pre vás vytvára
+úrad na ochranu oznamovateľov v
+
+1537
+00:33:49,830 --> 00:33:49,840
+úrad na ochranu oznamovateľov v
+
+1538
+00:33:49,840 --> 00:33:51,909
+úrad na ochranu oznamovateľov v
+produkcii denníka SME a nájdete ho na
+
+1539
+00:33:51,909 --> 00:33:51,919
+produkcii denníka SME a nájdete ho na
+
+1540
+00:33:51,919 --> 00:33:55,140
+produkcii denníka SME a nájdete ho na
+všetkých podcastov
+
+1541
+00:33:55,150 --> 00:33:56,710
+[Hudba]
+
+1542
+00:33:56,710 --> 00:33:56,720
+[Hudba]
+
+1543
+00:33:56,720 --> 00:34:00,760
+[Hudba]
+platformách y

@@ -1,0 +1,5132 @@
+1
+00:00:00,170 --> 00:00:12,390
+[Hudba]
+
+2
+00:00:12,390 --> 00:00:12,400
+[Hudba]
+
+3
+00:00:12,400 --> 00:00:14,589
+[Hudba]
+Od básiny cez s hudbu až po programy.
+
+4
+00:00:14,589 --> 00:00:14,599
+Od básiny cez s hudbu až po programy.
+
+5
+00:00:14,599 --> 00:00:16,230
+Od básiny cez s hudbu až po programy.
+Veda nás obklopuje na každom kroku.
+
+6
+00:00:16,230 --> 00:00:16,240
+Veda nás obklopuje na každom kroku.
+
+7
+00:00:16,240 --> 00:00:17,910
+Veda nás obklopuje na každom kroku.
+Vitajte pri vedátorskom podcaste, v
+
+8
+00:00:17,910 --> 00:00:17,920
+Vitajte pri vedátorskom podcaste, v
+
+9
+00:00:17,920 --> 00:00:19,630
+Vitajte pri vedátorskom podcaste, v
+ktorom sa budeme rozprávať o vede a
+
+10
+00:00:19,630 --> 00:00:19,640
+ktorom sa budeme rozprávať o vede a
+
+11
+00:00:19,640 --> 00:00:21,630
+ktorom sa budeme rozprávať o vede a
+prírode Olko na. Moje meno je Jozef. Ja
+
+12
+00:00:21,630 --> 00:00:21,640
+prírode Olko na. Moje meno je Jozef. Ja
+
+13
+00:00:21,640 --> 00:00:24,150
+prírode Olko na. Moje meno je Jozef. Ja
+som Samuel. Tento podcast vychádza ve
+
+14
+00:00:24,150 --> 00:00:24,160
+som Samuel. Tento podcast vychádza ve
+
+15
+00:00:24,160 --> 00:00:27,150
+som Samuel. Tento podcast vychádza ve
+spolupráci so SME. Samko, ja som sa
+
+16
+00:00:27,150 --> 00:00:27,160
+spolupráci so SME. Samko, ja som sa
+
+17
+00:00:27,160 --> 00:00:28,669
+spolupráci so SME. Samko, ja som sa
+preto aj teraz zastavil. Spravil som
+
+18
+00:00:28,669 --> 00:00:28,679
+preto aj teraz zastavil. Spravil som
+
+19
+00:00:28,679 --> 00:00:33,229
+preto aj teraz zastavil. Spravil som
+chybičku, lebo si mi pouľahodil tým, že
+
+20
+00:00:33,229 --> 00:00:33,239
+chybičku, lebo si mi pouľahodil tým, že
+
+21
+00:00:33,239 --> 00:00:36,229
+chybičku, lebo si mi pouľahodil tým, že
+eh sa budeme rozprávať o ďalšej žene vo
+
+22
+00:00:36,229 --> 00:00:36,239
+eh sa budeme rozprávať o ďalšej žene vo
+
+23
+00:00:36,239 --> 00:00:38,350
+eh sa budeme rozprávať o ďalšej žene vo
+vede. Hm. Áno. Áno. A kým sa o nej
+
+24
+00:00:38,350 --> 00:00:38,360
+vede. Hm. Áno. Áno. A kým sa o nej
+
+25
+00:00:38,360 --> 00:00:39,750
+vede. Hm. Áno. Áno. A kým sa o nej
+začneme rozprávať, ja by som len veľmi
+
+26
+00:00:39,750 --> 00:00:39,760
+začneme rozprávať, ja by som len veľmi
+
+27
+00:00:39,760 --> 00:00:41,630
+začneme rozprávať, ja by som len veľmi
+krátko pozdravil Veroniku, ktorá nám
+
+28
+00:00:41,630 --> 00:00:41,640
+krátko pozdravil Veroniku, ktorá nám
+
+29
+00:00:41,640 --> 00:00:44,990
+krátko pozdravil Veroniku, ktorá nám
+písala, že nás počúva od roku 2022 a že
+
+30
+00:00:44,990 --> 00:00:45,000
+písala, že nás počúva od roku 2022 a že
+
+31
+00:00:45,000 --> 00:00:46,590
+písala, že nás počúva od roku 2022 a že
+aj keď mala ťažšie životné chvíle, že
+
+32
+00:00:46,590 --> 00:00:46,600
+aj keď mala ťažšie životné chvíle, že
+
+33
+00:00:46,600 --> 00:00:49,189
+aj keď mala ťažšie životné chvíle, že
+sme ju veľmi potešili a a tak. Tak
+
+34
+00:00:49,189 --> 00:00:49,199
+sme ju veľmi potešili a a tak. Tak
+
+35
+00:00:49,199 --> 00:00:52,310
+sme ju veľmi potešili a a tak. Tak
+dúfam, že ťa Veronika poteší. epizóda o
+
+36
+00:00:52,310 --> 00:00:52,320
+dúfam, že ťa Veronika poteší. epizóda o
+
+37
+00:00:52,320 --> 00:00:53,830
+dúfam, že ťa Veronika poteší. epizóda o
+tejto
+
+38
+00:00:53,830 --> 00:00:53,840
+tejto
+
+39
+00:00:53,840 --> 00:00:56,549
+tejto
+pravdepodobne prvej programátorke na
+
+40
+00:00:56,549 --> 00:00:56,559
+pravdepodobne prvej programátorke na
+
+41
+00:00:56,559 --> 00:00:59,830
+pravdepodobne prvej programátorke na
+svete. Vau. To je to je úplne strašne
+
+42
+00:00:59,830 --> 00:00:59,840
+svete. Vau. To je to je úplne strašne
+
+43
+00:00:59,840 --> 00:01:01,869
+svete. Vau. To je to je úplne strašne
+cool. Špeciálne na to, že táto prvá
+
+44
+00:01:01,869 --> 00:01:01,879
+cool. Špeciálne na to, že táto prvá
+
+45
+00:01:01,879 --> 00:01:04,829
+cool. Špeciálne na to, že táto prvá
+programátorka sa narodila v roku 1815.
+
+46
+00:01:04,829 --> 00:01:04,839
+programátorka sa narodila v roku 1815.
+
+47
+00:01:04,839 --> 00:01:08,710
+programátorka sa narodila v roku 1815.
+To som chcel povedať, že veľmi veľmi
+
+48
+00:01:08,710 --> 00:01:08,720
+To som chcel povedať, že veľmi veľmi
+
+49
+00:01:08,720 --> 00:01:11,990
+To som chcel povedať, že veľmi veľmi
+skoro sa narodila na na to, aby Jo, ale
+
+50
+00:01:11,990 --> 00:01:12,000
+skoro sa narodila na na to, aby Jo, ale
+
+51
+00:01:12,000 --> 00:01:14,190
+skoro sa narodila na na to, aby Jo, ale
+dobre. Tak začneme. Tak narodila som v
+
+52
+00:01:14,190 --> 00:01:14,200
+dobre. Tak začneme. Tak narodila som v
+
+53
+00:01:14,200 --> 00:01:18,749
+dobre. Tak začneme. Tak narodila som v
+1815 v Londýne. Dokonca bola aj Grovka.
+
+54
+00:01:18,749 --> 00:01:18,759
+1815 v Londýne. Dokonca bola aj Grovka.
+
+55
+00:01:18,759 --> 00:01:21,429
+1815 v Londýne. Dokonca bola aj Grovka.
+Vau. Áno, áno. Nemala moc dlhý život.
+
+56
+00:01:21,429 --> 00:01:21,439
+Vau. Áno, áno. Nemala moc dlhý život.
+
+57
+00:01:21,439 --> 00:01:23,910
+Vau. Áno, áno. Nemala moc dlhý život.
+Hm. Na nešťastie. Hej. To bolo tak
+
+58
+00:01:23,910 --> 00:01:23,920
+Hm. Na nešťastie. Hej. To bolo tak
+
+59
+00:01:23,920 --> 00:01:25,789
+Hm. Na nešťastie. Hej. To bolo tak
+nešťastie. Inak to toto troška tak spája
+
+60
+00:01:25,789 --> 00:01:25,799
+nešťastie. Inak to toto troška tak spája
+
+61
+00:01:25,799 --> 00:01:29,270
+nešťastie. Inak to toto troška tak spája
+tie ženy vo vede. Ináč. Hej, celkom
+
+62
+00:01:29,270 --> 00:01:29,280
+tie ženy vo vede. Ináč. Hej, celkom
+
+63
+00:01:29,280 --> 00:01:30,710
+tie ženy vo vede. Ináč. Hej, celkom
+zaujímavá poznámka, že čím to vlastne
+
+64
+00:01:30,710 --> 00:01:30,720
+zaujímavá poznámka, že čím to vlastne
+
+65
+00:01:30,720 --> 00:01:32,069
+zaujímavá poznámka, že čím to vlastne
+môže byť. Lebo naozaj, že všetky
+
+66
+00:01:32,069 --> 00:01:32,079
+môže byť. Lebo naozaj, že všetky
+
+67
+00:01:32,079 --> 00:01:33,830
+môže byť. Lebo naozaj, že všetky
+minimálne tý o týchto historických
+
+68
+00:01:33,830 --> 00:01:33,840
+minimálne tý o týchto historických
+
+69
+00:01:33,840 --> 00:01:35,469
+minimálne tý o týchto historických
+osobnostiach, čo sme sa rozprávali, tak
+
+70
+00:01:35,469 --> 00:01:35,479
+osobnostiach, čo sme sa rozprávali, tak
+
+71
+00:01:35,479 --> 00:01:37,950
+osobnostiach, čo sme sa rozprávali, tak
+mali uhm veľmi krátke životy. Napríklad
+
+72
+00:01:37,950 --> 00:01:37,960
+mali uhm veľmi krátke životy. Napríklad
+
+73
+00:01:37,960 --> 00:01:40,870
+mali uhm veľmi krátke životy. Napríklad
+Ema Nether, tá myslím si, že 50 ročná
+
+74
+00:01:40,870 --> 00:01:40,880
+Ema Nether, tá myslím si, že 50 ročná
+
+75
+00:01:40,880 --> 00:01:44,069
+Ema Nether, tá myslím si, že 50 ročná
+približne zomrela tiež tak, že nie až
+
+76
+00:01:44,069 --> 00:01:44,079
+približne zomrela tiež tak, že nie až
+
+77
+00:01:44,079 --> 00:01:46,789
+približne zomrela tiež tak, že nie až
+tak eh dlhé životy mali. No ale tak snáď
+
+78
+00:01:46,789 --> 00:01:46,799
+tak eh dlhé životy mali. No ale tak snáď
+
+79
+00:01:46,799 --> 00:01:49,310
+tak eh dlhé životy mali. No ale tak snáď
+to nie je korelácia, len kauzalita,
+
+80
+00:01:49,310 --> 00:01:49,320
+to nie je korelácia, len kauzalita,
+
+81
+00:01:49,320 --> 00:01:51,350
+to nie je korelácia, len kauzalita,
+takže no snáď to nie je tá kauzalita.
+
+82
+00:01:51,350 --> 00:01:51,360
+takže no snáď to nie je tá kauzalita.
+
+83
+00:01:51,360 --> 00:01:53,990
+takže no snáď to nie je tá kauzalita.
+Snáď to je len náhoda. Eh tak tak Ada
+
+84
+00:01:53,990 --> 00:01:54,000
+Snáď to je len náhoda. Eh tak tak Ada
+
+85
+00:01:54,000 --> 00:01:56,429
+Snáď to je len náhoda. Eh tak tak Ada
+Lavlej sa dožila 36 rokov. To je naozaj,
+
+86
+00:01:56,429 --> 00:01:56,439
+Lavlej sa dožila 36 rokov. To je naozaj,
+
+87
+00:01:56,439 --> 00:01:58,389
+Lavlej sa dožila 36 rokov. To je naozaj,
+že vo veľmi mladom veku zomrela a ona
+
+88
+00:01:58,389 --> 00:01:58,399
+že vo veľmi mladom veku zomrela a ona
+
+89
+00:01:58,399 --> 00:02:00,109
+že vo veľmi mladom veku zomrela a ona
+mala aj napriek tomu, vieš, že človek by
+
+90
+00:02:00,109 --> 00:02:00,119
+mala aj napriek tomu, vieš, že človek by
+
+91
+00:02:00,119 --> 00:02:01,469
+mala aj napriek tomu, vieš, že človek by
+povedal, že grofka, že ak si musela
+
+92
+00:02:01,469 --> 00:02:01,479
+povedal, že grofka, že ak si musela
+
+93
+00:02:01,479 --> 00:02:05,190
+povedal, že grofka, že ak si musela
+užívať života. Ona mala pomerne ťažký
+
+94
+00:02:05,190 --> 00:02:05,200
+užívať života. Ona mala pomerne ťažký
+
+95
+00:02:05,200 --> 00:02:09,990
+užívať života. Ona mala pomerne ťažký
+život. Ona bola dcérou básnika eh lorda
+
+96
+00:02:09,990 --> 00:02:10,000
+život. Ona bola dcérou básnika eh lorda
+
+97
+00:02:10,000 --> 00:02:11,670
+život. Ona bola dcérou básnika eh lorda
+Byrona.
+
+98
+00:02:11,670 --> 00:02:11,680
+Byrona.
+
+99
+00:02:11,680 --> 00:02:15,750
+Byrona.
+Neviem, či si niečo spomínaš, že od neho
+
+100
+00:02:15,750 --> 00:02:15,760
+Neviem, či si niečo spomínaš, že od neho
+
+101
+00:02:15,760 --> 00:02:18,750
+Neviem, či si niečo spomínaš, že od neho
+z Nevespomínam si, ale to meno poznám
+
+102
+00:02:18,750 --> 00:02:18,760
+z Nevespomínam si, ale to meno poznám
+
+103
+00:02:18,760 --> 00:02:20,589
+z Nevespomínam si, ale to meno poznám
+ako nev spomínam si, ale to napríklad
+
+104
+00:02:20,589 --> 00:02:20,599
+ako nev spomínam si, ale to napríklad
+
+105
+00:02:20,599 --> 00:02:23,670
+ako nev spomínam si, ale to napríklad
+napísal Don Juana,
+
+106
+00:02:23,670 --> 00:02:23,680
+napísal Don Juana,
+
+107
+00:02:23,680 --> 00:02:27,990
+napísal Don Juana,
+takže pomerne známy básnik, ktorý sa
+
+108
+00:02:27,990 --> 00:02:28,000
+takže pomerne známy básnik, ktorý sa
+
+109
+00:02:28,000 --> 00:02:31,990
+takže pomerne známy básnik, ktorý sa
+veľmi tešil na to, ako sa mu narodí syn.
+
+110
+00:02:31,990 --> 00:02:32,000
+veľmi tešil na to, ako sa mu narodí syn.
+
+111
+00:02:32,000 --> 00:02:37,030
+veľmi tešil na to, ako sa mu narodí syn.
+A jeho žena Anna Izabela Milbank
+
+112
+00:02:37,030 --> 00:02:37,040
+A jeho žena Anna Izabela Milbank
+
+113
+00:02:37,040 --> 00:02:39,110
+A jeho žena Anna Izabela Milbank
+mu porodila dcéru, čo ho naštvalo. Tak
+
+114
+00:02:39,110 --> 00:02:39,120
+mu porodila dcéru, čo ho naštvalo. Tak
+
+115
+00:02:39,120 --> 00:02:40,949
+mu porodila dcéru, čo ho naštvalo. Tak
+proste že odišiel, ale nielen, že od
+
+116
+00:02:40,949 --> 00:02:40,959
+proste že odišiel, ale nielen, že od
+
+117
+00:02:40,959 --> 00:02:44,470
+proste že odišiel, ale nielen, že od
+svojej rodiny, ale odišiel z Anglicka,
+
+118
+00:02:44,470 --> 00:02:44,480
+svojej rodiny, ale odišiel z Anglicka,
+
+119
+00:02:44,480 --> 00:02:47,830
+svojej rodiny, ale odišiel z Anglicka,
+takže bol fakt nahnevaný. Takže no, že
+
+120
+00:02:47,830 --> 00:02:47,840
+takže bol fakt nahnevaný. Takže no, že
+
+121
+00:02:47,840 --> 00:02:51,430
+takže bol fakt nahnevaný. Takže no, že
+on bol podivín trošku aj predtým, akože
+
+122
+00:02:51,430 --> 00:02:51,440
+on bol podivín trošku aj predtým, akože
+
+123
+00:02:51,440 --> 00:02:55,149
+on bol podivín trošku aj predtým, akože
+naozaj, že taký eh bonvivánsky básnik. A
+
+124
+00:02:55,149 --> 00:02:55,159
+naozaj, že taký eh bonvivánsky básnik. A
+
+125
+00:02:55,159 --> 00:02:58,270
+naozaj, že taký eh bonvivánsky básnik. A
+keď sa stalo toto a on dúfal, že sa mu
+
+126
+00:02:58,270 --> 00:02:58,280
+keď sa stalo toto a on dúfal, že sa mu
+
+127
+00:02:58,280 --> 00:03:00,750
+keď sa stalo toto a on dúfal, že sa mu
+teda narodí. Glorious Boy to označoval
+
+128
+00:03:00,750 --> 00:03:00,760
+teda narodí. Glorious Boy to označoval
+
+129
+00:03:00,760 --> 00:03:04,149
+teda narodí. Glorious Boy to označoval
+akože veľký veľký a významný syn. Tak
+
+130
+00:03:04,149 --> 00:03:04,159
+akože veľký veľký a významný syn. Tak
+
+131
+00:03:04,159 --> 00:03:07,589
+akože veľký veľký a významný syn. Tak
+potom čo sa narodila Ada, aj keď teda
+
+132
+00:03:07,589 --> 00:03:07,599
+potom čo sa narodila Ada, aj keď teda
+
+133
+00:03:07,599 --> 00:03:12,070
+potom čo sa narodila Ada, aj keď teda
+Augusta Ada, King ešte rodina, tak
+
+134
+00:03:12,070 --> 00:03:12,080
+Augusta Ada, King ešte rodina, tak
+
+135
+00:03:12,080 --> 00:03:14,070
+Augusta Ada, King ešte rodina, tak
+neskrýval svoje sklamanie a proste, že
+
+136
+00:03:14,070 --> 00:03:14,080
+neskrýval svoje sklamanie a proste, že
+
+137
+00:03:14,080 --> 00:03:17,910
+neskrýval svoje sklamanie a proste, že
+odišiel eh, ak sa ak si dobre spomínam,
+
+138
+00:03:17,910 --> 00:03:17,920
+odišiel eh, ak sa ak si dobre spomínam,
+
+139
+00:03:17,920 --> 00:03:19,430
+odišiel eh, ak sa ak si dobre spomínam,
+niekde na juh Európy, tuším, že do
+
+140
+00:03:19,430 --> 00:03:19,440
+niekde na juh Európy, tuším, že do
+
+141
+00:03:19,440 --> 00:03:21,750
+niekde na juh Európy, tuším, že do
+Grécka alebo kam a tam o pár rokov
+
+142
+00:03:21,750 --> 00:03:21,760
+Grécka alebo kam a tam o pár rokov
+
+143
+00:03:21,760 --> 00:03:26,110
+Grécka alebo kam a tam o pár rokov
+zomrel. Takže hm niečo ako reverzná mama
+
+144
+00:03:26,110 --> 00:03:26,120
+zomrel. Takže hm niečo ako reverzná mama
+
+145
+00:03:26,120 --> 00:03:29,110
+zomrel. Takže hm niečo ako reverzná mama
+Mia.
+
+146
+00:03:29,110 --> 00:03:29,120
+Mia.
+
+147
+00:03:29,120 --> 00:03:32,670
+Mia.
+Ospravedňujem sa všetkým za tento vtip.
+
+148
+00:03:32,670 --> 00:03:32,680
+Ospravedňujem sa všetkým za tento vtip.
+
+149
+00:03:32,680 --> 00:03:36,309
+Ospravedňujem sa všetkým za tento vtip.
+Všetkým fanúšikom mama Mia. Eh,
+
+150
+00:03:36,309 --> 00:03:36,319
+Všetkým fanúšikom mama Mia. Eh,
+
+151
+00:03:36,319 --> 00:03:39,710
+Všetkým fanúšikom mama Mia. Eh,
+zároveň sa na Adu pomerne divných
+
+152
+00:03:39,710 --> 00:03:39,720
+zároveň sa na Adu pomerne divných
+
+153
+00:03:39,720 --> 00:03:43,190
+zároveň sa na Adu pomerne divných
+dôvodov hnevala jej mama, lebo proste
+
+154
+00:03:43,190 --> 00:03:43,200
+dôvodov hnevala jej mama, lebo proste
+
+155
+00:03:43,200 --> 00:03:45,910
+dôvodov hnevala jej mama, lebo proste
+tiež ju asi nejako brala, že po prvé, že
+
+156
+00:03:45,910 --> 00:03:45,920
+tiež ju asi nejako brala, že po prvé, že
+
+157
+00:03:45,920 --> 00:03:47,789
+tiež ju asi nejako brala, že po prvé, že
+som tým sklamala svojho manžela lorda
+
+158
+00:03:47,789 --> 00:03:47,799
+som tým sklamala svojho manžela lorda
+
+159
+00:03:47,799 --> 00:03:53,030
+som tým sklamala svojho manžela lorda
+Byrona a často adu označovala tak, že to
+
+160
+00:03:53,030 --> 00:03:53,040
+Byrona a často adu označovala tak, že to
+
+161
+00:03:53,040 --> 00:03:55,229
+Byrona a často adu označovala tak, že to
+akože nie, že ona, ale ako o veci o nej
+
+162
+00:03:55,229 --> 00:03:55,239
+akože nie, že ona, ale ako o veci o nej
+
+163
+00:03:55,239 --> 00:03:58,589
+akože nie, že ona, ale ako o veci o nej
+rozprávala a
+
+164
+00:03:58,589 --> 00:03:58,599
+rozprávala a
+
+165
+00:03:58,599 --> 00:04:01,630
+rozprávala a
+snažila sa, aby sa Ada nestala takou
+
+166
+00:04:01,630 --> 00:04:01,640
+snažila sa, aby sa Ada nestala takou
+
+167
+00:04:01,640 --> 00:04:03,710
+snažila sa, aby sa Ada nestala takou
+zýralou, akou je otec. Čiže to brala ako
+
+168
+00:04:03,710 --> 00:04:03,720
+zýralou, akou je otec. Čiže to brala ako
+
+169
+00:04:03,720 --> 00:04:06,229
+zýralou, akou je otec. Čiže to brala ako
+teda také veľké zlyhanie
+
+170
+00:04:06,229 --> 00:04:06,239
+teda také veľké zlyhanie
+
+171
+00:04:06,239 --> 00:04:08,390
+teda také veľké zlyhanie
+až na štýl, že proste platila ľudí a
+
+172
+00:04:08,390 --> 00:04:08,400
+až na štýl, že proste platila ľudí a
+
+173
+00:04:08,400 --> 00:04:11,630
+až na štýl, že proste platila ľudí a
+tutorov, aby ju strážili, aby eh hneď
+
+174
+00:04:11,630 --> 00:04:11,640
+tutorov, aby ju strážili, aby eh hneď
+
+175
+00:04:11,640 --> 00:04:13,949
+tutorov, aby ju strážili, aby eh hneď
+dali vedieť, keď sa odkloní zo správnych
+
+176
+00:04:13,949 --> 00:04:13,959
+dali vedieť, keď sa odkloní zo správnych
+
+177
+00:04:13,959 --> 00:04:16,110
+dali vedieť, keď sa odkloní zo správnych
+chodníčkov. Čiže v podstate, že v
+
+178
+00:04:16,110 --> 00:04:16,120
+chodníčkov. Čiže v podstate, že v
+
+179
+00:04:16,120 --> 00:04:18,550
+chodníčkov. Čiže v podstate, že v
+úvodzovkách držala ju nakrátko. Veľmi
+
+180
+00:04:18,550 --> 00:04:18,560
+úvodzovkách držala ju nakrátko. Veľmi
+
+181
+00:04:18,560 --> 00:04:21,150
+úvodzovkách držala ju nakrátko. Veľmi
+zdravá rodina tu zn. Áno. A teda nielen
+
+182
+00:04:21,150 --> 00:04:21,160
+zdravá rodina tu zn. Áno. A teda nielen
+
+183
+00:04:21,160 --> 00:04:23,070
+zdravá rodina tu zn. Áno. A teda nielen
+že to bolo toxické prostredie, v ktorom
+
+184
+00:04:23,070 --> 00:04:23,080
+že to bolo toxické prostredie, v ktorom
+
+185
+00:04:23,080 --> 00:04:25,270
+že to bolo toxické prostredie, v ktorom
+vyrastala takto na psychologickej
+
+186
+00:04:25,270 --> 00:04:25,280
+vyrastala takto na psychologickej
+
+187
+00:04:25,280 --> 00:04:28,670
+vyrastala takto na psychologickej
+úrovni, ale aj na úrovni chorôb, lebo
+
+188
+00:04:28,670 --> 00:04:28,680
+úrovni, ale aj na úrovni chorôb, lebo
+
+189
+00:04:28,680 --> 00:04:30,230
+úrovni, ale aj na úrovni chorôb, lebo
+1815
+
+190
+00:04:30,230 --> 00:04:30,240
+1815
+
+191
+00:04:30,240 --> 00:04:33,629
+1815
+nebol ešte úplne bezpečný rok na život,
+
+192
+00:04:33,629 --> 00:04:33,639
+nebol ešte úplne bezpečný rok na život,
+
+193
+00:04:33,639 --> 00:04:36,350
+nebol ešte úplne bezpečný rok na život,
+takže ona dostala osypky a bola
+
+194
+00:04:36,350 --> 00:04:36,360
+takže ona dostala osypky a bola
+
+195
+00:04:36,360 --> 00:04:39,390
+takže ona dostala osypky a bola
+paralyzovaná kvôli tomu dosť dlho. Uhm.
+
+196
+00:04:39,390 --> 00:04:39,400
+paralyzovaná kvôli tomu dosť dlho. Uhm.
+
+197
+00:04:39,400 --> 00:04:42,310
+paralyzovaná kvôli tomu dosť dlho. Uhm.
+Podarilo sa aj z toho dostať, ale
+
+198
+00:04:42,310 --> 00:04:42,320
+Podarilo sa aj z toho dostať, ale
+
+199
+00:04:42,320 --> 00:04:43,950
+Podarilo sa aj z toho dostať, ale
+myslím si, že rok trvalo, kým bola v
+
+200
+00:04:43,950 --> 00:04:43,960
+myslím si, že rok trvalo, kým bola v
+
+201
+00:04:43,960 --> 00:04:46,749
+myslím si, že rok trvalo, kým bola v
+podstate pripútaná na lôžkoch kvôli
+
+202
+00:04:46,749 --> 00:04:46,759
+podstate pripútaná na lôžkoch kvôli
+
+203
+00:04:46,759 --> 00:04:51,110
+podstate pripútaná na lôžkoch kvôli
+tomu, ako dostala eh 1829 ako dostala
+
+204
+00:04:51,110 --> 00:04:51,120
+tomu, ako dostala eh 1829 ako dostala
+
+205
+00:04:51,120 --> 00:04:53,590
+tomu, ako dostala eh 1829 ako dostala
+osýpky.
+
+206
+00:04:53,590 --> 00:04:53,600
+osýpky.
+
+207
+00:04:53,600 --> 00:04:57,350
+osýpky.
+Ale už vtedy sa začal ukazovať eh jej
+
+208
+00:04:57,350 --> 00:04:57,360
+Ale už vtedy sa začal ukazovať eh jej
+
+209
+00:04:57,360 --> 00:05:00,950
+Ale už vtedy sa začal ukazovať eh jej
+talent, že ako jej to v hlave myslelo.
+
+210
+00:05:00,950 --> 00:05:00,960
+talent, že ako jej to v hlave myslelo.
+
+211
+00:05:00,960 --> 00:05:04,230
+talent, že ako jej to v hlave myslelo.
+začala eh sa venovať lietaniu, čo
+
+212
+00:05:04,230 --> 00:05:04,240
+začala eh sa venovať lietaniu, čo
+
+213
+00:05:04,240 --> 00:05:06,310
+začala eh sa venovať lietaniu, čo
+pravdepodobne súviselo s tým, že vieš,
+
+214
+00:05:06,310 --> 00:05:06,320
+pravdepodobne súviselo s tým, že vieš,
+
+215
+00:05:06,320 --> 00:05:08,189
+pravdepodobne súviselo s tým, že vieš,
+že keď si pripútaný na lôžku, tak máš
+
+216
+00:05:08,189 --> 00:05:08,199
+že keď si pripútaný na lôžku, tak máš
+
+217
+00:05:08,199 --> 00:05:12,310
+že keď si pripútaný na lôžku, tak máš
+proste deficit pohybu a urobila také
+
+218
+00:05:12,310 --> 00:05:12,320
+proste deficit pohybu a urobila také
+
+219
+00:05:12,320 --> 00:05:14,629
+proste deficit pohybu a urobila také
+svoje detské dielo, ako ona ho naozaj
+
+220
+00:05:14,629 --> 00:05:14,639
+svoje detské dielo, ako ona ho naozaj
+
+221
+00:05:14,639 --> 00:05:16,469
+svoje detské dielo, ako ona ho naozaj
+robila ešte ako dieťa a o ktoré sa
+
+222
+00:05:16,469 --> 00:05:16,479
+robila ešte ako dieťa a o ktoré sa
+
+223
+00:05:16,479 --> 00:05:18,830
+robila ešte ako dieťa a o ktoré sa
+volal, že Flyology,
+
+224
+00:05:18,830 --> 00:05:18,840
+volal, že Flyology,
+
+225
+00:05:18,840 --> 00:05:21,830
+volal, že Flyology,
+ako keby, že náv je to, že super názov.
+
+226
+00:05:21,830 --> 00:05:21,840
+ako keby, že náv je to, že super názov.
+
+227
+00:05:21,840 --> 00:05:26,270
+ako keby, že náv je to, že super názov.
+Eh, takže napísala takúto knihu, kde
+
+228
+00:05:26,270 --> 00:05:26,280
+Eh, takže napísala takúto knihu, kde
+
+229
+00:05:26,280 --> 00:05:29,629
+Eh, takže napísala takúto knihu, kde
+ona sa narodila 1815, toto bolo 1828,
+
+230
+00:05:29,629 --> 00:05:29,639
+ona sa narodila 1815, toto bolo 1828,
+
+231
+00:05:29,639 --> 00:05:32,510
+ona sa narodila 1815, toto bolo 1828,
+myslím, čiže 13 ročná. Sa začala teda
+
+232
+00:05:32,510 --> 00:05:32,520
+myslím, čiže 13 ročná. Sa začala teda
+
+233
+00:05:32,520 --> 00:05:34,670
+myslím, čiže 13 ročná. Sa začala teda
+venovať lietaniu, ale už sa ukazovalo,
+
+234
+00:05:34,670 --> 00:05:34,680
+venovať lietaniu, ale už sa ukazovalo,
+
+235
+00:05:34,680 --> 00:05:37,070
+venovať lietaniu, ale už sa ukazovalo,
+že ako ona systematicky myslí. Eh, inak
+
+236
+00:05:37,070 --> 00:05:37,080
+že ako ona systematicky myslí. Eh, inak
+
+237
+00:05:37,080 --> 00:05:39,189
+že ako ona systematicky myslí. Eh, inak
+sa mi páči, že človek, čo sa narodil
+
+238
+00:05:39,189 --> 00:05:39,199
+sa mi páči, že človek, čo sa narodil
+
+239
+00:05:39,199 --> 00:05:43,070
+sa mi páči, že človek, čo sa narodil
+pred pred lietadlom a pred počítačom,
+
+240
+00:05:43,070 --> 00:05:43,080
+pred pred lietadlom a pred počítačom,
+
+241
+00:05:43,080 --> 00:05:45,629
+pred pred lietadlom a pred počítačom,
+tak je eh známa ako že sa venoval
+
+242
+00:05:45,629 --> 00:05:45,639
+tak je eh známa ako že sa venoval
+
+243
+00:05:45,639 --> 00:05:50,150
+tak je eh známa ako že sa venoval
+lietaniu a počítačom. a v podstate eh
+
+244
+00:05:50,150 --> 00:05:50,160
+lietaniu a počítačom. a v podstate eh
+
+245
+00:05:50,160 --> 00:05:53,430
+lietaniu a počítačom. a v podstate eh
+študovala anatómiu vtákov a zisťovala,
+
+246
+00:05:53,430 --> 00:05:53,440
+študovala anatómiu vtákov a zisťovala,
+
+247
+00:05:53,440 --> 00:05:55,990
+študovala anatómiu vtákov a zisťovala,
+že aký je napríklad správny pomer krídla
+
+248
+00:05:55,990 --> 00:05:56,000
+že aký je napríklad správny pomer krídla
+
+249
+00:05:56,000 --> 00:05:57,590
+že aký je napríklad správny pomer krídla
+k zbytku tela, aby potom vedela
+
+250
+00:05:57,590 --> 00:05:57,600
+k zbytku tela, aby potom vedela
+
+251
+00:05:57,600 --> 00:06:00,790
+k zbytku tela, aby potom vedela
+navrhnúť, že ako by mohla vyrobiť krídla
+
+252
+00:06:00,790 --> 00:06:00,800
+navrhnúť, že ako by mohla vyrobiť krídla
+
+253
+00:06:00,800 --> 00:06:02,390
+navrhnúť, že ako by mohla vyrobiť krídla
+pre seba a dokonca sa venovala aj takým
+
+254
+00:06:02,390 --> 00:06:02,400
+pre seba a dokonca sa venovala aj takým
+
+255
+00:06:02,400 --> 00:06:04,629
+pre seba a dokonca sa venovala aj takým
+praktickým otázkam potom, že ako sa
+
+256
+00:06:04,629 --> 00:06:04,639
+praktickým otázkam potom, že ako sa
+
+257
+00:06:04,639 --> 00:06:07,350
+praktickým otázkam potom, že ako sa
+navigovať, ako mať nejaký kompas alebo
+
+258
+00:06:07,350 --> 00:06:07,360
+navigovať, ako mať nejaký kompas alebo
+
+259
+00:06:07,360 --> 00:06:08,909
+navigovať, ako mať nejaký kompas alebo
+niečo na tento štýl, aby vedela teda
+
+260
+00:06:08,909 --> 00:06:08,919
+niečo na tento štýl, aby vedela teda
+
+261
+00:06:08,919 --> 00:06:11,870
+niečo na tento štýl, aby vedela teda
+prechádzať na veľké vzdialenosti.
+
+262
+00:06:11,870 --> 00:06:11,880
+prechádzať na veľké vzdialenosti.
+
+263
+00:06:11,880 --> 00:06:15,430
+prechádzať na veľké vzdialenosti.
+Takže no pomerne divoké detstvo, ktoré
+
+264
+00:06:15,430 --> 00:06:15,440
+Takže no pomerne divoké detstvo, ktoré
+
+265
+00:06:15,440 --> 00:06:18,990
+Takže no pomerne divoké detstvo, ktoré
+naozaj bolo sprevádzané
+
+266
+00:06:18,990 --> 00:06:19,000
+naozaj bolo sprevádzané
+
+267
+00:06:19,000 --> 00:06:22,189
+naozaj bolo sprevádzané
+extrémne nepodporujúcou rodinou,
+
+268
+00:06:22,189 --> 00:06:22,199
+extrémne nepodporujúcou rodinou,
+
+269
+00:06:22,199 --> 00:06:25,110
+extrémne nepodporujúcou rodinou,
+ale talentom, ktorý bol teda ukrytý v
+
+270
+00:06:25,110 --> 00:06:25,120
+ale talentom, ktorý bol teda ukrytý v
+
+271
+00:06:25,120 --> 00:06:28,390
+ale talentom, ktorý bol teda ukrytý v
+jej hlave, ktorý sa postupne eh začalť
+
+272
+00:06:28,390 --> 00:06:28,400
+jej hlave, ktorý sa postupne eh začalť
+
+273
+00:06:28,400 --> 00:06:31,870
+jej hlave, ktorý sa postupne eh začalť
+na svetlo sveta. Ona mala pomerne veľké
+
+274
+00:06:31,870 --> 00:06:31,880
+na svetlo sveta. Ona mala pomerne veľké
+
+275
+00:06:31,880 --> 00:06:34,670
+na svetlo sveta. Ona mala pomerne veľké
+matematické nadanie, že jej to v hlave
+
+276
+00:06:34,670 --> 00:06:34,680
+matematické nadanie, že jej to v hlave
+
+277
+00:06:34,680 --> 00:06:37,230
+matematické nadanie, že jej to v hlave
+išlo s číslami a keď sa presťahovala,
+
+278
+00:06:37,230 --> 00:06:37,240
+išlo s číslami a keď sa presťahovala,
+
+279
+00:06:37,240 --> 00:06:40,029
+išlo s číslami a keď sa presťahovala,
+tak potom začala mať rôznych súkromných
+
+280
+00:06:40,029 --> 00:06:40,039
+tak potom začala mať rôznych súkromných
+
+281
+00:06:40,039 --> 00:06:42,790
+tak potom začala mať rôznych súkromných
+tutorov.
+
+282
+00:06:42,790 --> 00:06:42,800
+tutorov.
+
+283
+00:06:42,800 --> 00:06:44,710
+tutorov.
+Jedna z nich bola mimochodom Mary
+
+284
+00:06:44,710 --> 00:06:44,720
+Jedna z nich bola mimochodom Mary
+
+285
+00:06:44,720 --> 00:06:46,830
+Jedna z nich bola mimochodom Mary
+Summerville, čo nechcem povedať, že o
+
+286
+00:06:46,830 --> 00:06:46,840
+Summerville, čo nechcem povedať, že o
+
+287
+00:06:46,840 --> 00:06:48,469
+Summerville, čo nechcem povedať, že o
+nej by sme mali spraviť epizódu, ale
+
+288
+00:06:48,469 --> 00:06:48,479
+nej by sme mali spraviť epizódu, ale
+
+289
+00:06:48,479 --> 00:06:51,270
+nej by sme mali spraviť epizódu, ale
+škótská matematická spisovateľka,
+
+290
+00:06:51,270 --> 00:06:51,280
+škótská matematická spisovateľka,
+
+291
+00:06:51,280 --> 00:06:53,390
+škótská matematická spisovateľka,
+ktorá bola jedna z prvých
+
+292
+00:06:53,390 --> 00:06:53,400
+ktorá bola jedna z prvých
+
+293
+00:06:53,400 --> 00:06:55,950
+ktorá bola jedna z prvých
+popularizátorok vedy,
+
+294
+00:06:55,950 --> 00:06:55,960
+popularizátorok vedy,
+
+295
+00:06:55,960 --> 00:06:58,790
+popularizátorok vedy,
+napísala napríklad knihu o atómoch alebo
+
+296
+00:06:58,790 --> 00:06:58,800
+napísala napríklad knihu o atómoch alebo
+
+297
+00:06:58,800 --> 00:07:00,510
+napísala napríklad knihu o atómoch alebo
+nie o atómoch, ale teda, že o
+
+298
+00:07:00,510 --> 00:07:00,520
+nie o atómoch, ale teda, že o
+
+299
+00:07:00,520 --> 00:07:02,230
+nie o atómoch, ale teda, že o
+mikrosvete. Tak atómy ešte ľudia
+
+300
+00:07:02,230 --> 00:07:02,240
+mikrosvete. Tak atómy ešte ľudia
+
+301
+00:07:02,240 --> 00:07:04,390
+mikrosvete. Tak atómy ešte ľudia
+nepoznali, ale o tom, ako vyzerá
+
+302
+00:07:04,390 --> 00:07:04,400
+nepoznali, ale o tom, ako vyzerá
+
+303
+00:07:04,400 --> 00:07:08,150
+nepoznali, ale o tom, ako vyzerá
+mikrosvet. mala tam v roku 1869 napísala
+
+304
+00:07:08,150 --> 00:07:08,160
+mikrosvet. mala tam v roku 1869 napísala
+
+305
+00:07:08,160 --> 00:07:09,950
+mikrosvet. mala tam v roku 1869 napísala
+knihu o molekulárnej a mikroskopickej
+
+306
+00:07:09,950 --> 00:07:09,960
+knihu o molekulárnej a mikroskopickej
+
+307
+00:07:09,960 --> 00:07:13,589
+knihu o molekulárnej a mikroskopickej
+vede, čo je proste, že brutálne. To to
+
+308
+00:07:13,589 --> 00:07:13,599
+vede, čo je proste, že brutálne. To to
+
+309
+00:07:13,599 --> 00:07:15,990
+vede, čo je proste, že brutálne. To to
+sa mi až nie, že nechce veriť, ale že
+
+310
+00:07:15,990 --> 00:07:16,000
+sa mi až nie, že nechce veriť, ale že
+
+311
+00:07:16,000 --> 00:07:18,830
+sa mi až nie, že nechce veriť, ale že
+vau, že na tú dobu úžasné. A Mary
+
+312
+00:07:18,830 --> 00:07:18,840
+vau, že na tú dobu úžasné. A Mary
+
+313
+00:07:18,840 --> 00:07:21,510
+vau, že na tú dobu úžasné. A Mary
+Summerville naozaj povedala v nejakom
+
+314
+00:07:21,510 --> 00:07:21,520
+Summerville naozaj povedala v nejakom
+
+315
+00:07:21,520 --> 00:07:22,990
+Summerville naozaj povedala v nejakom
+bode svojej kariéry, že proste sa bude
+
+316
+00:07:22,990 --> 00:07:23,000
+bode svojej kariéry, že proste sa bude
+
+317
+00:07:23,000 --> 00:07:25,350
+bode svojej kariéry, že proste sa bude
+venovať tomu, aby prenikala do
+
+318
+00:07:25,350 --> 00:07:25,360
+venovať tomu, aby prenikala do
+
+319
+00:07:25,360 --> 00:07:27,749
+venovať tomu, aby prenikala do
+spoločnosti veda, že naozaj, že ju
+
+320
+00:07:27,749 --> 00:07:27,759
+spoločnosti veda, že naozaj, že ju
+
+321
+00:07:27,759 --> 00:07:30,070
+spoločnosti veda, že naozaj, že ju
+proste cielene popularizovala
+
+322
+00:07:30,070 --> 00:07:30,080
+proste cielene popularizovala
+
+323
+00:07:30,080 --> 00:07:32,550
+proste cielene popularizovala
+a nabúrava to trošku taký ten mýtus, že
+
+324
+00:07:32,550 --> 00:07:32,560
+a nabúrava to trošku taký ten mýtus, že
+
+325
+00:07:32,560 --> 00:07:35,629
+a nabúrava to trošku taký ten mýtus, že
+ženy k vede nepustili do nejakého roku.
+
+326
+00:07:35,629 --> 00:07:35,639
+ženy k vede nepustili do nejakého roku.
+
+327
+00:07:35,639 --> 00:07:38,510
+ženy k vede nepustili do nejakého roku.
+Minimálne tie z dobre situovaných rodín
+
+328
+00:07:38,510 --> 00:07:38,520
+Minimálne tie z dobre situovaných rodín
+
+329
+00:07:38,520 --> 00:07:42,510
+Minimálne tie z dobre situovaných rodín
+sa k vede dokázali dostať. Takže eh
+
+330
+00:07:42,510 --> 00:07:42,520
+sa k vede dokázali dostať. Takže eh
+
+331
+00:07:42,520 --> 00:07:44,029
+sa k vede dokázali dostať. Takže eh
+Summerville bola jedna z jej prvých
+
+332
+00:07:44,029 --> 00:07:44,039
+Summerville bola jedna z jej prvých
+
+333
+00:07:44,039 --> 00:07:47,510
+Summerville bola jedna z jej prvých
+tutoriek a začala sa teda formovať.
+
+334
+00:07:47,510 --> 00:07:47,520
+tutoriek a začala sa teda formovať.
+
+335
+00:07:47,520 --> 00:07:48,950
+tutoriek a začala sa teda formovať.
+Občas to tak býva, ale však teraz
+
+336
+00:07:48,950 --> 00:07:48,960
+Občas to tak býva, ale však teraz
+
+337
+00:07:48,960 --> 00:07:50,589
+Občas to tak býva, ale však teraz
+nechcem psychologizovať, ale že keď je
+
+338
+00:07:50,589 --> 00:07:50,599
+nechcem psychologizovať, ale že keď je
+
+339
+00:07:50,599 --> 00:07:53,469
+nechcem psychologizovať, ale že keď je
+niekto držaný skrátka a potom má možnosť
+
+340
+00:07:53,469 --> 00:07:53,479
+niekto držaný skrátka a potom má možnosť
+
+341
+00:07:53,479 --> 00:07:54,990
+niekto držaný skrátka a potom má možnosť
+niečo robiť, tak sa začne správať zase
+
+342
+00:07:54,990 --> 00:07:55,000
+niečo robiť, tak sa začne správať zase
+
+343
+00:07:55,000 --> 00:07:57,909
+niečo robiť, tak sa začne správať zase
+pomerne divoko. Takže ona mala, myslím
+
+344
+00:07:57,909 --> 00:07:57,919
+pomerne divoko. Takže ona mala, myslím
+
+345
+00:07:57,919 --> 00:08:01,149
+pomerne divoko. Takže ona mala, myslím
+si, že už ako 18 ročná pletky s nejakým
+
+346
+00:08:01,149 --> 00:08:01,159
+si, že už ako 18 ročná pletky s nejakým
+
+347
+00:08:01,159 --> 00:08:05,230
+si, že už ako 18 ročná pletky s nejakým
+svojím tutorom. Eh, hej. Takže eh som s
+
+348
+00:08:05,230 --> 00:08:05,240
+svojím tutorom. Eh, hej. Takže eh som s
+
+349
+00:08:05,240 --> 00:08:09,350
+svojím tutorom. Eh, hej. Takže eh som s
+tými tak ale že potom potom eh potom to
+
+350
+00:08:09,350 --> 00:08:09,360
+tými tak ale že potom potom eh potom to
+
+351
+00:08:09,360 --> 00:08:12,589
+tými tak ale že potom potom eh potom to
+ukončila, mala rôzne takéto komplikované
+
+352
+00:08:12,589 --> 00:08:12,599
+ukončila, mala rôzne takéto komplikované
+
+353
+00:08:12,599 --> 00:08:13,990
+ukončila, mala rôzne takéto komplikované
+situácie a keď som si k tomuto čítal
+
+354
+00:08:13,990 --> 00:08:14,000
+situácie a keď som si k tomuto čítal
+
+355
+00:08:14,000 --> 00:08:17,149
+situácie a keď som si k tomuto čítal
+podklady, tak toto bolo takéto obdobie,
+
+356
+00:08:17,149 --> 00:08:17,159
+podklady, tak toto bolo takéto obdobie,
+
+357
+00:08:17,159 --> 00:08:19,510
+podklady, tak toto bolo takéto obdobie,
+kedy táto vyššia vrstva v Británii
+
+358
+00:08:19,510 --> 00:08:19,520
+kedy táto vyššia vrstva v Británii
+
+359
+00:08:19,520 --> 00:08:22,990
+kedy táto vyššia vrstva v Británii
+pomerne divoko sa medzi sebou miešala a
+
+360
+00:08:22,990 --> 00:08:23,000
+pomerne divoko sa medzi sebou miešala a
+
+361
+00:08:23,000 --> 00:08:25,309
+pomerne divoko sa medzi sebou miešala a
+nebolo úplne nezvyčajné, že niekto mal
+
+362
+00:08:25,309 --> 00:08:25,319
+nebolo úplne nezvyčajné, že niekto mal
+
+363
+00:08:25,319 --> 00:08:29,149
+nebolo úplne nezvyčajné, že niekto mal
+deti so svojou pomerne blízkou rodinou.
+
+364
+00:08:29,149 --> 00:08:29,159
+deti so svojou pomerne blízkou rodinou.
+
+365
+00:08:29,159 --> 00:08:31,909
+deti so svojou pomerne blízkou rodinou.
+Takže aj v takomto zvláštnom prostredí
+
+366
+00:08:31,909 --> 00:08:31,919
+Takže aj v takomto zvláštnom prostredí
+
+367
+00:08:31,919 --> 00:08:35,630
+Takže aj v takomto zvláštnom prostredí
+ona sa potom snažila nejako vyvíjať a
+
+368
+00:08:35,630 --> 00:08:35,640
+ona sa potom snažila nejako vyvíjať a
+
+369
+00:08:35,640 --> 00:08:37,149
+ona sa potom snažila nejako vyvíjať a
+spadla do niektorých škandálov, ktorých
+
+370
+00:08:37,149 --> 00:08:37,159
+spadla do niektorých škandálov, ktorých
+
+371
+00:08:37,159 --> 00:08:41,029
+spadla do niektorých škandálov, ktorých
+sa napríklad jeden týkal eh gamblingu,
+
+372
+00:08:41,029 --> 00:08:41,039
+sa napríklad jeden týkal eh gamblingu,
+
+373
+00:08:41,039 --> 00:08:44,949
+sa napríklad jeden týkal eh gamblingu,
+kde mala pocit, že prišla na matematický
+
+374
+00:08:44,949 --> 00:08:44,959
+kde mala pocit, že prišla na matematický
+
+375
+00:08:44,959 --> 00:08:47,790
+kde mala pocit, že prišla na matematický
+model a s istou skupinou eh že prišla na
+
+376
+00:08:47,790 --> 00:08:47,800
+model a s istou skupinou eh že prišla na
+
+377
+00:08:47,800 --> 00:08:51,230
+model a s istou skupinou eh že prišla na
+matematický model neskôr. Áno. Narodiť z
+
+378
+00:08:51,230 --> 00:08:51,240
+matematický model neskôr. Áno. Narodiť z
+
+379
+00:08:51,240 --> 00:08:54,230
+matematický model neskôr. Áno. Narodiť z
+nej bol úplne epický človek.
+
+380
+00:08:54,230 --> 00:08:54,240
+nej bol úplne epický človek.
+
+381
+00:08:54,240 --> 00:08:56,630
+nej bol úplne epický človek.
+Takže, takže mali pocit, že objavili
+
+382
+00:08:56,630 --> 00:08:56,640
+Takže, takže mali pocit, že objavili
+
+383
+00:08:56,640 --> 00:09:00,310
+Takže, takže mali pocit, že objavili
+matematický model eh gamblovania a
+
+384
+00:09:00,310 --> 00:09:00,320
+matematický model eh gamblovania a
+
+385
+00:09:00,320 --> 00:09:02,750
+matematický model eh gamblovania a
+pomíňali na to úplne všetky peniaze.
+
+386
+00:09:02,750 --> 00:09:02,760
+pomíňali na to úplne všetky peniaze.
+
+387
+00:09:02,760 --> 00:09:05,269
+pomíňali na to úplne všetky peniaze.
+Takže potom potom sa z tohto musela
+
+388
+00:09:05,269 --> 00:09:05,279
+Takže potom potom sa z tohto musela
+
+389
+00:09:05,279 --> 00:09:07,590
+Takže potom potom sa z tohto musela
+vysekať a musela sa s tým priznať. Eh
+
+390
+00:09:07,590 --> 00:09:07,600
+vysekať a musela sa s tým priznať. Eh
+
+391
+00:09:07,600 --> 00:09:09,790
+vysekať a musela sa s tým priznať. Eh
+teraz neviem, že že komu presne, že či
+
+392
+00:09:09,790 --> 00:09:09,800
+teraz neviem, že že komu presne, že či
+
+393
+00:09:09,800 --> 00:09:11,750
+teraz neviem, že že komu presne, že či
+eh nejakému svojmu tutorovi alebo potom
+
+394
+00:09:11,750 --> 00:09:11,760
+eh nejakému svojmu tutorovi alebo potom
+
+395
+00:09:11,760 --> 00:09:13,990
+eh nejakému svojmu tutorovi alebo potom
+od rodiny ťať. O to už bolo od od jej
+
+396
+00:09:13,990 --> 00:09:14,000
+od rodiny ťať. O to už bolo od od jej
+
+397
+00:09:14,000 --> 00:09:16,389
+od rodiny ťať. O to už bolo od od jej
+manžela neskoršieho, ktorý z nej vlastne
+
+398
+00:09:16,389 --> 00:09:16,399
+manžela neskoršieho, ktorý z nej vlastne
+
+399
+00:09:16,399 --> 00:09:20,509
+manžela neskoršieho, ktorý z nej vlastne
+spravil grofa. Takže to to len tak na
+
+400
+00:09:20,509 --> 00:09:20,519
+spravil grofa. Takže to to len tak na
+
+401
+00:09:20,519 --> 00:09:23,949
+spravil grofa. Takže to to len tak na
+aby sme ju tu ako nejakú eh sväticu
+
+402
+00:09:23,949 --> 00:09:23,959
+aby sme ju tu ako nejakú eh sväticu
+
+403
+00:09:23,959 --> 00:09:26,069
+aby sme ju tu ako nejakú eh sväticu
+neopisovali, že aj ona mala teda eh
+
+404
+00:09:26,069 --> 00:09:26,079
+neopisovali, že aj ona mala teda eh
+
+405
+00:09:26,079 --> 00:09:27,949
+neopisovali, že aj ona mala teda eh
+svoju dávku divokých zážitkov, ktoré
+
+406
+00:09:27,949 --> 00:09:27,959
+svoju dávku divokých zážitkov, ktoré
+
+407
+00:09:27,959 --> 00:09:29,710
+svoju dávku divokých zážitkov, ktoré
+teda čiastočne možno zdedila po tom
+
+408
+00:09:29,710 --> 00:09:29,720
+teda čiastočne možno zdedila po tom
+
+409
+00:09:29,720 --> 00:09:32,069
+teda čiastočne možno zdedila po tom
+svojom otcovi, ktorý ju ale teda
+
+410
+00:09:32,069 --> 00:09:32,079
+svojom otcovi, ktorý ju ale teda
+
+411
+00:09:32,079 --> 00:09:34,750
+svojom otcovi, ktorý ju ale teda
+formoval v tom, že v niečom ho
+
+412
+00:09:34,750 --> 00:09:34,760
+formoval v tom, že v niečom ho
+
+413
+00:09:34,760 --> 00:09:37,790
+formoval v tom, že v niečom ho
+obdivovala a v niečom ho nenávidela.
+
+414
+00:09:37,790 --> 00:09:37,800
+obdivovala a v niečom ho nenávidela.
+
+415
+00:09:37,800 --> 00:09:39,230
+obdivovala a v niečom ho nenávidela.
+Pravdepodobne kvôli tomu, že kým sa
+
+416
+00:09:39,230 --> 00:09:39,240
+Pravdepodobne kvôli tomu, že kým sa
+
+417
+00:09:39,240 --> 00:09:42,630
+Pravdepodobne kvôli tomu, že kým sa
+dalo, tak jej mama jej nadávala na lorda
+
+418
+00:09:42,630 --> 00:09:42,640
+dalo, tak jej mama jej nadávala na lorda
+
+419
+00:09:42,640 --> 00:09:44,310
+dalo, tak jej mama jej nadávala na lorda
+Byrona, ale zároveň ho v niečom
+
+420
+00:09:44,310 --> 00:09:44,320
+Byrona, ale zároveň ho v niečom
+
+421
+00:09:44,320 --> 00:09:46,550
+Byrona, ale zároveň ho v niečom
+obdivovala ako takú až mytickú mytickú
+
+422
+00:09:46,550 --> 00:09:46,560
+obdivovala ako takú až mytickú mytickú
+
+423
+00:09:46,560 --> 00:09:50,910
+obdivovala ako takú až mytickú mytickú
+postavu. Hej. A kto bol taký najväčší
+
+424
+00:09:50,910 --> 00:09:50,920
+postavu. Hej. A kto bol taký najväčší
+
+425
+00:09:50,920 --> 00:09:55,870
+postavu. Hej. A kto bol taký najväčší
+vplyv na ňom eh z tých tutorov?
+
+426
+00:09:55,870 --> 00:09:55,880
+vplyv na ňom eh z tých tutorov?
+
+427
+00:09:55,880 --> 00:09:57,750
+vplyv na ňom eh z tých tutorov?
+Ona ich ona ich postretávala veľa
+
+428
+00:09:57,750 --> 00:09:57,760
+Ona ich ona ich postretávala veľa
+
+429
+00:09:57,760 --> 00:10:00,030
+Ona ich ona ich postretávala veľa
+zaujímavých. Spomeniem teda okrem toho,
+
+430
+00:10:00,030 --> 00:10:00,040
+zaujímavých. Spomeniem teda okrem toho,
+
+431
+00:10:00,040 --> 00:10:02,110
+zaujímavých. Spomeniem teda okrem toho,
+okrem tej Mary Summerville eh napríklad
+
+432
+00:10:02,110 --> 00:10:02,120
+okrem tej Mary Summerville eh napríklad
+
+433
+00:10:02,120 --> 00:10:04,670
+okrem tej Mary Summerville eh napríklad
+Charlesa Dickinsa,
+
+434
+00:10:04,670 --> 00:10:04,680
+Charlesa Dickinsa,
+
+435
+00:10:04,680 --> 00:10:08,190
+Charlesa Dickinsa,
+ktorého by som použil na
+
+436
+00:10:08,190 --> 00:10:08,200
+ktorého by som použil na
+
+437
+00:10:08,200 --> 00:10:10,590
+ktorého by som použil na
+dôkaz toho, že ona nebola len vedecký
+
+438
+00:10:10,590 --> 00:10:10,600
+dôkaz toho, že ona nebola len vedecký
+
+439
+00:10:10,600 --> 00:10:12,550
+dôkaz toho, že ona nebola len vedecký
+mysliaca, ale aj umelecký. bola v
+
+440
+00:10:12,550 --> 00:10:12,560
+mysliaca, ale aj umelecký. bola v
+
+441
+00:10:12,560 --> 00:10:15,790
+mysliaca, ale aj umelecký. bola v
+kontakte s mnohými umelcami a rozprávala
+
+442
+00:10:15,790 --> 00:10:15,800
+kontakte s mnohými umelcami a rozprávala
+
+443
+00:10:15,800 --> 00:10:18,949
+kontakte s mnohými umelcami a rozprávala
+o poetike vedy, že ona nebola super
+
+444
+00:10:18,949 --> 00:10:18,959
+o poetike vedy, že ona nebola super
+
+445
+00:10:18,959 --> 00:10:21,110
+o poetike vedy, že ona nebola super
+silná v tom, že by robila teraz brutálne
+
+446
+00:10:21,110 --> 00:10:21,120
+silná v tom, že by robila teraz brutálne
+
+447
+00:10:21,120 --> 00:10:23,030
+silná v tom, že by robila teraz brutálne
+exaktné 20stranové matematické
+
+448
+00:10:23,030 --> 00:10:23,040
+exaktné 20stranové matematické
+
+449
+00:10:23,040 --> 00:10:26,110
+exaktné 20stranové matematické
+odvodenia, ale veľmi stávala na intuícii
+
+450
+00:10:26,110 --> 00:10:26,120
+odvodenia, ale veľmi stávala na intuícii
+
+451
+00:10:26,120 --> 00:10:28,949
+odvodenia, ale veľmi stávala na intuícii
+a na takej tej poetike vedy, kde sa
+
+452
+00:10:28,949 --> 00:10:28,959
+a na takej tej poetike vedy, kde sa
+
+453
+00:10:28,959 --> 00:10:31,190
+a na takej tej poetike vedy, kde sa
+snažila tak vycítiť tie správne odpovede
+
+454
+00:10:31,190 --> 00:10:31,200
+snažila tak vycítiť tie správne odpovede
+
+455
+00:10:31,200 --> 00:10:32,550
+snažila tak vycítiť tie správne odpovede
+a potom ich akože dokázať v rámci
+
+456
+00:10:32,550 --> 00:10:32,560
+a potom ich akože dokázať v rámci
+
+457
+00:10:32,560 --> 00:10:34,829
+a potom ich akože dokázať v rámci
+možností, ale že umenie v jej živote
+
+458
+00:10:34,829 --> 00:10:34,839
+možností, ale že umenie v jej živote
+
+459
+00:10:34,839 --> 00:10:36,790
+možností, ale že umenie v jej živote
+zohrávalo veľmi významnú úlohu, ale
+
+460
+00:10:36,790 --> 00:10:36,800
+zohrávalo veľmi významnú úlohu, ale
+
+461
+00:10:36,800 --> 00:10:37,829
+zohrávalo veľmi významnú úlohu, ale
+zároveň mala kontakt aj s
+
+462
+00:10:37,829 --> 00:10:37,839
+zároveň mala kontakt aj s
+
+463
+00:10:37,839 --> 00:10:40,190
+zároveň mala kontakt aj s
+najprominentnejšími fyzikmi tej doby,
+
+464
+00:10:40,190 --> 00:10:40,200
+najprominentnejšími fyzikmi tej doby,
+
+465
+00:10:40,200 --> 00:10:43,150
+najprominentnejšími fyzikmi tej doby,
+napríklad Michaelom Faradajom. Vau. A
+
+466
+00:10:43,150 --> 00:10:43,160
+napríklad Michaelom Faradajom. Vau. A
+
+467
+00:10:43,160 --> 00:10:45,550
+napríklad Michaelom Faradajom. Vau. A
+úplne najväčší vplyv mali teda
+
+468
+00:10:45,550 --> 00:10:45,560
+úplne najväčší vplyv mali teda
+
+469
+00:10:45,560 --> 00:10:48,110
+úplne najväčší vplyv mali teda
+samozrejme na ňu dvaja ľudia, z ktorých
+
+470
+00:10:48,110 --> 00:10:48,120
+samozrejme na ňu dvaja ľudia, z ktorých
+
+471
+00:10:48,120 --> 00:10:50,310
+samozrejme na ňu dvaja ľudia, z ktorých
+jeden je jej manžel,
+
+472
+00:10:50,310 --> 00:10:50,320
+jeden je jej manžel,
+
+473
+00:10:50,320 --> 00:10:52,550
+jeden je jej manžel,
+ktorý vďaka ktorému sa potom aj stala
+
+474
+00:10:52,550 --> 00:10:52,560
+ktorý vďaka ktorému sa potom aj stala
+
+475
+00:10:52,560 --> 00:10:55,790
+ktorý vďaka ktorému sa potom aj stala
+teda grófkou. Eh,
+
+476
+00:10:55,790 --> 00:10:55,800
+teda grófkou. Eh,
+
+477
+00:10:55,800 --> 00:10:58,910
+teda grófkou. Eh,
+a to bol William Barón King, ale teda
+
+478
+00:10:58,910 --> 00:10:58,920
+a to bol William Barón King, ale teda
+
+479
+00:10:58,920 --> 00:11:01,670
+a to bol William Barón King, ale teda
+nebolo to meno King. Preto ja som v
+
+480
+00:11:01,670 --> 00:11:01,680
+nebolo to meno King. Preto ja som v
+
+481
+00:11:01,680 --> 00:11:02,949
+nebolo to meno King. Preto ja som v
+úvode povedal, že ona sa narodila ako
+
+482
+00:11:02,949 --> 00:11:02,959
+úvode povedal, že ona sa narodila ako
+
+483
+00:11:02,959 --> 00:11:04,670
+úvode povedal, že ona sa narodila ako
+King. Opravujem, až neskôr sa stala
+
+484
+00:11:04,670 --> 00:11:04,680
+King. Opravujem, až neskôr sa stala
+
+485
+00:11:04,680 --> 00:11:07,030
+King. Opravujem, až neskôr sa stala
+King. Vďaka vďaka nemu, však bola
+
+486
+00:11:07,030 --> 00:11:07,040
+King. Vďaka vďaka nemu, však bola
+
+487
+00:11:07,040 --> 00:11:09,350
+King. Vďaka vďaka nemu, však bola
+Byronovou dcérou. Ale teda, že ten jej
+
+488
+00:11:09,350 --> 00:11:09,360
+Byronovou dcérou. Ale teda, že ten jej
+
+489
+00:11:09,360 --> 00:11:11,750
+Byronovou dcérou. Ale teda, že ten jej
+manžel, ktorý
+
+490
+00:11:11,750 --> 00:11:11,760
+manžel, ktorý
+
+491
+00:11:11,760 --> 00:11:14,310
+manžel, ktorý
+sa ju vraci. Volá sa Baron King po
+
+492
+00:11:14,310 --> 00:11:14,320
+sa ju vraci. Volá sa Baron King po
+
+493
+00:11:14,320 --> 00:11:16,430
+sa ju vraci. Volá sa Baron King po
+anglicky nie je tvor. Áno. Ja viem si
+
+494
+00:11:16,430 --> 00:11:16,440
+anglicky nie je tvor. Áno. Ja viem si
+
+495
+00:11:16,440 --> 00:11:19,550
+anglicky nie je tvor. Áno. Ja viem si
+presne, že by to mohlo niekoho dráždiť,
+
+496
+00:11:19,550 --> 00:11:19,560
+presne, že by to mohlo niekoho dráždiť,
+
+497
+00:11:19,560 --> 00:11:21,870
+presne, že by to mohlo niekoho dráždiť,
+ale teda, že snažil sa ju snažil sa jej
+
+498
+00:11:21,870 --> 00:11:21,880
+ale teda, že snažil sa ju snažil sa jej
+
+499
+00:11:21,880 --> 00:11:24,030
+ale teda, že snažil sa ju snažil sa jej
+rozvíjať, rozvíjať jej talenty, pomáhať
+
+500
+00:11:24,030 --> 00:11:24,040
+rozvíjať, rozvíjať jej talenty, pomáhať
+
+501
+00:11:24,040 --> 00:11:27,430
+rozvíjať, rozvíjať jej talenty, pomáhať
+jej v takých tých prekerných situáciách,
+
+502
+00:11:27,430 --> 00:11:27,440
+jej v takých tých prekerných situáciách,
+
+503
+00:11:27,440 --> 00:11:28,990
+jej v takých tých prekerných situáciách,
+ale mala s ním nie úplne jednoduchý
+
+504
+00:11:28,990 --> 00:11:29,000
+ale mala s ním nie úplne jednoduchý
+
+505
+00:11:29,000 --> 00:11:31,389
+ale mala s ním nie úplne jednoduchý
+vzťah. No ako už bolo povedané, že bola
+
+506
+00:11:31,389 --> 00:11:31,399
+vzťah. No ako už bolo povedané, že bola
+
+507
+00:11:31,399 --> 00:11:34,629
+vzťah. No ako už bolo povedané, že bola
+proste trošku trošku divoká.
+
+508
+00:11:34,629 --> 00:11:34,639
+proste trošku trošku divoká.
+
+509
+00:11:34,639 --> 00:11:37,069
+proste trošku trošku divoká.
+Druhý veľký človek, ktorý má myslíš
+
+510
+00:11:37,069 --> 00:11:37,079
+Druhý veľký človek, ktorý má myslíš
+
+511
+00:11:37,079 --> 00:11:41,350
+Druhý veľký človek, ktorý má myslíš
+dovolila si to, čo muž? Áno. Tak druhý
+
+512
+00:11:41,350 --> 00:11:41,360
+dovolila si to, čo muž? Áno. Tak druhý
+
+513
+00:11:41,360 --> 00:11:43,990
+dovolila si to, čo muž? Áno. Tak druhý
+veľký človek, ktorý mal Áno, to je
+
+514
+00:11:43,990 --> 00:11:44,000
+veľký človek, ktorý mal Áno, to je
+
+515
+00:11:44,000 --> 00:11:46,269
+veľký človek, ktorý mal Áno, to je
+pravda. Správala sa tak, ako sa tam
+
+516
+00:11:46,269 --> 00:11:46,279
+pravda. Správala sa tak, ako sa tam
+
+517
+00:11:46,279 --> 00:11:48,470
+pravda. Správala sa tak, ako sa tam
+správal priemerný muž. Eh, nielen v tom
+
+518
+00:11:48,470 --> 00:11:48,480
+správal priemerný muž. Eh, nielen v tom
+
+519
+00:11:48,480 --> 00:11:50,470
+správal priemerný muž. Eh, nielen v tom
+období. Hej. A to bolo to bolo
+
+520
+00:11:50,470 --> 00:11:50,480
+období. Hej. A to bolo to bolo
+
+521
+00:11:50,480 --> 00:11:53,069
+období. Hej. A to bolo to bolo
+neprípustné. Tak dosiahla emancipáciu aj
+
+522
+00:11:53,069 --> 00:11:53,079
+neprípustné. Tak dosiahla emancipáciu aj
+
+523
+00:11:53,079 --> 00:11:56,269
+neprípustné. Tak dosiahla emancipáciu aj
+v tejto oblasti. Ten druhý veľký človek,
+
+524
+00:11:56,269 --> 00:11:56,279
+v tejto oblasti. Ten druhý veľký človek,
+
+525
+00:11:56,279 --> 00:11:58,310
+v tejto oblasti. Ten druhý veľký človek,
+ktorý jej teda pomôhol stať sa
+
+526
+00:11:58,310 --> 00:11:58,320
+ktorý jej teda pomôhol stať sa
+
+527
+00:11:58,320 --> 00:12:01,750
+ktorý jej teda pomôhol stať sa
+velikánkou, bol Charles Bebich.
+
+528
+00:12:01,750 --> 00:12:01,760
+velikánkou, bol Charles Bebich.
+
+529
+00:12:01,760 --> 00:12:04,110
+velikánkou, bol Charles Bebich.
+Charles Beb ináč tak skvelé britské
+
+530
+00:12:04,110 --> 00:12:04,120
+Charles Beb ináč tak skvelé britské
+
+531
+00:12:04,120 --> 00:12:06,110
+Charles Beb ináč tak skvelé britské
+meno, že neviem, či existuje
+
+532
+00:12:06,110 --> 00:12:06,120
+meno, že neviem, či existuje
+
+533
+00:12:06,120 --> 00:12:09,230
+meno, že neviem, či existuje
+britskejšie. Musí mať také káované sako
+
+534
+00:12:09,230 --> 00:12:09,240
+britskejšie. Musí mať také káované sako
+
+535
+00:12:09,240 --> 00:12:12,470
+britskejšie. Musí mať také káované sako
+vždy, keď ide okolo morning.
+
+536
+00:12:12,470 --> 00:12:12,480
+vždy, keď ide okolo morning.
+
+537
+00:12:12,480 --> 00:12:16,030
+vždy, keď ide okolo morning.
+A a Charles Bebil
+
+538
+00:12:16,030 --> 00:12:16,040
+A a Charles Bebil
+
+539
+00:12:16,040 --> 00:12:18,670
+A a Charles Bebil
+hlavne matematiku. Venoval sa mimochodom
+
+540
+00:12:18,670 --> 00:12:18,680
+hlavne matematiku. Venoval sa mimochodom
+
+541
+00:12:18,680 --> 00:12:20,710
+hlavne matematiku. Venoval sa mimochodom
+aj eliptickým krivkám, o ktor o ktorých
+
+542
+00:12:20,710 --> 00:12:20,720
+aj eliptickým krivkám, o ktor o ktorých
+
+543
+00:12:20,720 --> 00:12:23,069
+aj eliptickým krivkám, o ktor o ktorých
+sme mali predošlú epizódu podcastu a
+
+544
+00:12:23,069 --> 00:12:23,079
+sme mali predošlú epizódu podcastu a
+
+545
+00:12:23,079 --> 00:12:24,990
+sme mali predošlú epizódu podcastu a
+choval Korgil
+
+546
+00:12:24,990 --> 00:12:25,000
+choval Korgil
+
+547
+00:12:25,000 --> 00:12:30,150
+choval Korgil
+a robil také eh Soaré, vedecké Soare. To
+
+548
+00:12:30,150 --> 00:12:30,160
+a robil také eh Soaré, vedecké Soare. To
+
+549
+00:12:30,160 --> 00:12:32,310
+a robil také eh Soaré, vedecké Soare. To
+znamená, že urobil väčší rok, kde
+
+550
+00:12:32,310 --> 00:12:32,320
+znamená, že urobil väčší rok, kde
+
+551
+00:12:32,320 --> 00:12:35,189
+znamená, že urobil väčší rok, kde
+popozýval v Londýne mnohých významných
+
+552
+00:12:35,189 --> 00:12:35,199
+popozýval v Londýne mnohých významných
+
+553
+00:12:35,199 --> 00:12:37,949
+popozýval v Londýne mnohých významných
+výskumníkov a nechal, aby tak neformálne
+
+554
+00:12:37,949 --> 00:12:37,959
+výskumníkov a nechal, aby tak neformálne
+
+555
+00:12:37,959 --> 00:12:39,750
+výskumníkov a nechal, aby tak neformálne
+sa rozprávali o veciach a že uvidíme, čo
+
+556
+00:12:39,750 --> 00:12:39,760
+sa rozprávali o veciach a že uvidíme, čo
+
+557
+00:12:39,760 --> 00:12:42,829
+sa rozprávali o veciach a že uvidíme, čo
+z toho vyjde. Na takomto soare spoznal
+
+558
+00:12:42,829 --> 00:12:42,839
+z toho vyjde. Na takomto soare spoznal
+
+559
+00:12:42,839 --> 00:12:45,829
+z toho vyjde. Na takomto soare spoznal
+aj Adu Lovel.
+
+560
+00:12:45,829 --> 00:12:45,839
+aj Adu Lovel.
+
+561
+00:12:45,839 --> 00:12:48,790
+aj Adu Lovel.
+hneď identifikoval obrovský talent. Eh,
+
+562
+00:12:48,790 --> 00:12:48,800
+hneď identifikoval obrovský talent. Eh,
+
+563
+00:12:48,800 --> 00:12:54,269
+hneď identifikoval obrovský talent. Eh,
+označil ju za The Enchan of number, čiže
+
+564
+00:12:54,269 --> 00:12:54,279
+označil ju za The Enchan of number, čiže
+
+565
+00:12:54,279 --> 00:12:58,389
+označil ju za The Enchan of number, čiže
+zaklínačku čísiel. Zaklínačku, čo je
+
+566
+00:12:58,389 --> 00:12:58,399
+zaklínačku čísiel. Zaklínačku, čo je
+
+567
+00:12:58,399 --> 00:13:01,189
+zaklínačku čísiel. Zaklínačku, čo je
+úplne, že skvelý skvelé označenie. Lebo
+
+568
+00:13:01,189 --> 00:13:01,199
+úplne, že skvelý skvelé označenie. Lebo
+
+569
+00:13:01,199 --> 00:13:04,550
+úplne, že skvelý skvelé označenie. Lebo
+ako som povedem, či v 19 to je pravda.
+
+570
+00:13:04,550 --> 00:13:04,560
+ako som povedem, či v 19 to je pravda.
+
+571
+00:13:04,560 --> 00:13:07,590
+ako som povedem, či v 19 to je pravda.
+Prestali páliť, že čas, hej. Hej. Že
+
+572
+00:13:07,590 --> 00:13:07,600
+Prestali páliť, že čas, hej. Hej. Že
+
+573
+00:13:07,600 --> 00:13:09,189
+Prestali páliť, že čas, hej. Hej. Že
+toto je vlastne mohlo prísť 100 rokov
+
+574
+00:13:09,189 --> 00:13:09,199
+toto je vlastne mohlo prísť 100 rokov
+
+575
+00:13:09,199 --> 00:13:11,870
+toto je vlastne mohlo prísť 100 rokov
+dozadu by som bol, že kľudne sa s tým
+
+576
+00:13:11,870 --> 00:13:11,880
+dozadu by som bol, že kľudne sa s tým
+
+577
+00:13:11,880 --> 00:13:15,269
+dozadu by som bol, že kľudne sa s tým
+zak. Mám rada čísla. No takže na týchto
+
+578
+00:13:15,269 --> 00:13:15,279
+zak. Mám rada čísla. No takže na týchto
+
+579
+00:13:15,279 --> 00:13:18,110
+zak. Mám rada čísla. No takže na týchto
+večierkoch sa proste kecalo o matike,
+
+580
+00:13:18,110 --> 00:13:18,120
+večierkoch sa proste kecalo o matike,
+
+581
+00:13:18,120 --> 00:13:20,629
+večierkoch sa proste kecalo o matike,
+fyzike, chémii a možno ešte nejakých
+
+582
+00:13:20,629 --> 00:13:20,639
+fyzike, chémii a možno ešte nejakých
+
+583
+00:13:20,639 --> 00:13:22,430
+fyzike, chémii a možno ešte nejakých
+pozostatkoch alchymie, aj keď teda už ju
+
+584
+00:13:22,430 --> 00:13:22,440
+pozostatkoch alchymie, aj keď teda už ju
+
+585
+00:13:22,440 --> 00:13:24,629
+pozostatkoch alchymie, aj keď teda už ju
+postupne nahradzovala chémia. Eh, ale aj
+
+586
+00:13:24,629 --> 00:13:24,639
+postupne nahradzovala chémia. Eh, ale aj
+
+587
+00:13:24,639 --> 00:13:26,750
+postupne nahradzovala chémia. Eh, ale aj
+o divných veciach ako o frenológii, že o
+
+588
+00:13:26,750 --> 00:13:26,760
+o divných veciach ako o frenológii, že o
+
+589
+00:13:26,760 --> 00:13:30,269
+o divných veciach ako o frenológii, že o
+takéto veci mala záujem eh Ada Llace.
+
+590
+00:13:30,269 --> 00:13:30,279
+takéto veci mala záujem eh Ada Llace.
+
+591
+00:13:30,279 --> 00:13:33,389
+takéto veci mala záujem eh Ada Llace.
+A potom si povedal, že ukáže svoj návrh
+
+592
+00:13:33,389 --> 00:13:33,399
+A potom si povedal, že ukáže svoj návrh
+
+593
+00:13:33,399 --> 00:13:35,430
+A potom si povedal, že ukáže svoj návrh
+počítača. A toto je ten moment, kedy to
+
+594
+00:13:35,430 --> 00:13:35,440
+počítača. A toto je ten moment, kedy to
+
+595
+00:13:35,440 --> 00:13:37,310
+počítača. A toto je ten moment, kedy to
+začne byť celkom zaujímavé, lebo my sme
+
+596
+00:13:37,310 --> 00:13:37,320
+začne byť celkom zaujímavé, lebo my sme
+
+597
+00:13:37,320 --> 00:13:38,949
+začne byť celkom zaujímavé, lebo my sme
+mali epizódu vedátorského podcastu o
+
+598
+00:13:38,949 --> 00:13:38,959
+mali epizódu vedátorského podcastu o
+
+599
+00:13:38,959 --> 00:13:40,470
+mali epizódu vedátorského podcastu o
+dvoch ľuďoch, ktorí sú označovaní za
+
+600
+00:13:40,470 --> 00:13:40,480
+dvoch ľuďoch, ktorí sú označovaní za
+
+601
+00:13:40,480 --> 00:13:42,230
+dvoch ľuďoch, ktorí sú označovaní za
+autorov prvých počítačov. Jeden z nich
+
+602
+00:13:42,230 --> 00:13:42,240
+autorov prvých počítačov. Jeden z nich
+
+603
+00:13:42,240 --> 00:13:44,910
+autorov prvých počítačov. Jeden z nich
+bol eh John von Neuman a druhý bol Alan
+
+604
+00:13:44,910 --> 00:13:44,920
+bol eh John von Neuman a druhý bol Alan
+
+605
+00:13:44,920 --> 00:13:46,790
+bol eh John von Neuman a druhý bol Alan
+Touring,
+
+606
+00:13:46,790 --> 00:13:46,800
+Touring,
+
+607
+00:13:46,800 --> 00:13:49,069
+Touring,
+ktorí ale žili alebo pôsobili až
+
+608
+00:13:49,069 --> 00:13:49,079
+ktorí ale žili alebo pôsobili až
+
+609
+00:13:49,079 --> 00:13:52,110
+ktorí ale žili alebo pôsobili až
+začiatkom toho ďalšieho storočia,
+
+610
+00:13:52,110 --> 00:13:52,120
+začiatkom toho ďalšieho storočia,
+
+611
+00:13:52,120 --> 00:13:53,870
+začiatkom toho ďalšieho storočia,
+čiže o približne 100 rokov neskôr. Takže
+
+612
+00:13:53,870 --> 00:13:53,880
+čiže o približne 100 rokov neskôr. Takže
+
+613
+00:13:53,880 --> 00:13:56,590
+čiže o približne 100 rokov neskôr. Takže
+aký vlastne počítač vymyslel Charles
+
+614
+00:13:56,590 --> 00:13:56,600
+aký vlastne počítač vymyslel Charles
+
+615
+00:13:56,600 --> 00:13:58,110
+aký vlastne počítač vymyslel Charles
+Bebč?
+
+616
+00:13:58,110 --> 00:13:58,120
+Bebč?
+
+617
+00:13:58,120 --> 00:14:00,030
+Bebč?
+A
+
+618
+00:14:00,030 --> 00:14:00,040
+A
+
+619
+00:14:00,040 --> 00:14:01,710
+A
+on naozaj vymyslel počítač, ktorý sa mu
+
+620
+00:14:01,710 --> 00:14:01,720
+on naozaj vymyslel počítač, ktorý sa mu
+
+621
+00:14:01,720 --> 00:14:04,310
+on naozaj vymyslel počítač, ktorý sa mu
+nikdy nepodarilo postaviť. Postavili ho
+
+622
+00:14:04,310 --> 00:14:04,320
+nikdy nepodarilo postaviť. Postavili ho
+
+623
+00:14:04,320 --> 00:14:06,670
+nikdy nepodarilo postaviť. Postavili ho
+ľudia až pár rokov dozadu od teraz. eh
+
+624
+00:14:06,670 --> 00:14:06,680
+ľudia až pár rokov dozadu od teraz. eh
+
+625
+00:14:06,680 --> 00:14:09,550
+ľudia až pár rokov dozadu od teraz. eh
+eh už len ako také hm historické
+
+626
+00:14:09,550 --> 00:14:09,560
+eh už len ako také hm historické
+
+627
+00:14:09,560 --> 00:14:11,949
+eh už len ako také hm historické
+prikyvnutie alebo teda, že na ukážku
+
+628
+00:14:11,949 --> 00:14:11,959
+prikyvnutie alebo teda, že na ukážku
+
+629
+00:14:11,959 --> 00:14:15,389
+prikyvnutie alebo teda, že na ukážku
+toho, že to naozaj mohlo fungovať.
+
+630
+00:14:15,389 --> 00:14:15,399
+toho, že to naozaj mohlo fungovať.
+
+631
+00:14:15,399 --> 00:14:17,790
+toho, že to naozaj mohlo fungovať.
+Uvedomil si
+
+632
+00:14:17,790 --> 00:14:17,800
+Uvedomil si
+
+633
+00:14:17,800 --> 00:14:20,870
+Uvedomil si
+Bebach, že také tie mechanické stroje,
+
+634
+00:14:20,870 --> 00:14:20,880
+Bebach, že také tie mechanické stroje,
+
+635
+00:14:20,880 --> 00:14:23,310
+Bebach, že také tie mechanické stroje,
+ktoré používaš napríklad na tkanie
+
+636
+00:14:23,310 --> 00:14:23,320
+ktoré používaš napríklad na tkanie
+
+637
+00:14:23,320 --> 00:14:25,230
+ktoré používaš napríklad na tkanie
+kobercov a podobne, že však oni by
+
+638
+00:14:25,230 --> 00:14:25,240
+kobercov a podobne, že však oni by
+
+639
+00:14:25,240 --> 00:14:26,790
+kobercov a podobne, že však oni by
+vlastne mohli robiť aj zložitejšie veci.
+
+640
+00:14:26,790 --> 00:14:26,800
+vlastne mohli robiť aj zložitejšie veci.
+
+641
+00:14:26,800 --> 00:14:28,629
+vlastne mohli robiť aj zložitejšie veci.
+Už vtedy boli známe nejaké formy
+
+642
+00:14:28,629 --> 00:14:28,639
+Už vtedy boli známe nejaké formy
+
+643
+00:14:28,639 --> 00:14:30,949
+Už vtedy boli známe nejaké formy
+mechanických kalkulačiek, kde si robil,
+
+644
+00:14:30,949 --> 00:14:30,959
+mechanických kalkulačiek, kde si robil,
+
+645
+00:14:30,959 --> 00:14:32,590
+mechanických kalkulačiek, kde si robil,
+nastavil si nejaké veci a oni ti potom
+
+646
+00:14:32,590 --> 00:14:32,600
+nastavil si nejaké veci a oni ti potom
+
+647
+00:14:32,600 --> 00:14:34,670
+nastavil si nejaké veci a oni ti potom
+posčítavali nejaké čísla. Ty si tie
+
+648
+00:14:34,670 --> 00:14:34,680
+posčítavali nejaké čísla. Ty si tie
+
+649
+00:14:34,680 --> 00:14:36,189
+posčítavali nejaké čísla. Ty si tie
+čísla chcel napríklad kvôli tomu, že si
+
+650
+00:14:36,189 --> 00:14:36,199
+čísla chcel napríklad kvôli tomu, že si
+
+651
+00:14:36,199 --> 00:14:38,069
+čísla chcel napríklad kvôli tomu, že si
+robil astronomické tabuľky, potreboval
+
+652
+00:14:38,069 --> 00:14:38,079
+robil astronomické tabuľky, potreboval
+
+653
+00:14:38,079 --> 00:14:40,310
+robil astronomické tabuľky, potreboval
+si v úvodzovkách, no nie vôdzovka
+
+654
+00:14:40,310 --> 00:14:40,320
+si v úvodzovkách, no nie vôdzovka
+
+655
+00:14:40,320 --> 00:14:41,790
+si v úvodzovkách, no nie vôdzovka
+vlastne presne, ale ťažko sa to bude
+
+656
+00:14:41,790 --> 00:14:41,800
+vlastne presne, ale ťažko sa to bude
+
+657
+00:14:41,800 --> 00:14:43,430
+vlastne presne, ale ťažko sa to bude
+vysvetľovať, riešiť diferenciálne
+
+658
+00:14:43,430 --> 00:14:43,440
+vysvetľovať, riešiť diferenciálne
+
+659
+00:14:43,440 --> 00:14:46,150
+vysvetľovať, riešiť diferenciálne
+rovnice, zisťovať ako sa správa hodnota
+
+660
+00:14:46,150 --> 00:14:46,160
+rovnice, zisťovať ako sa správa hodnota
+
+661
+00:14:46,160 --> 00:14:48,550
+rovnice, zisťovať ako sa správa hodnota
+funkcie v nejakom bode a tak ďalej. To
+
+662
+00:14:48,550 --> 00:14:48,560
+funkcie v nejakom bode a tak ďalej. To
+
+663
+00:14:48,560 --> 00:14:50,590
+funkcie v nejakom bode a tak ďalej. To
+bolo proste, že spočítať veľmi veľa
+
+664
+00:14:50,590 --> 00:14:50,600
+bolo proste, že spočítať veľmi veľa
+
+665
+00:14:50,600 --> 00:14:52,310
+bolo proste, že spočítať veľmi veľa
+operácií po sebe. Malo sa to robiť
+
+666
+00:14:52,310 --> 00:14:52,320
+operácií po sebe. Malo sa to robiť
+
+667
+00:14:52,320 --> 00:14:54,949
+operácií po sebe. Malo sa to robiť
+automaticky. Ona to vymyslel stroj,
+
+668
+00:14:54,949 --> 00:14:54,959
+automaticky. Ona to vymyslel stroj,
+
+669
+00:14:54,959 --> 00:14:57,470
+automaticky. Ona to vymyslel stroj,
+ktorý bol ale špecifický v tom, že vedel
+
+670
+00:14:57,470 --> 00:14:57,480
+ktorý bol ale špecifický v tom, že vedel
+
+671
+00:14:57,480 --> 00:15:01,350
+ktorý bol ale špecifický v tom, že vedel
+si s ním robiť rôznorodjšie veci, že on
+
+672
+00:15:01,350 --> 00:15:01,360
+si s ním robiť rôznorodjšie veci, že on
+
+673
+00:15:01,360 --> 00:15:03,030
+si s ním robiť rôznorodjšie veci, že on
+v princípe obsahoval strašne veľa
+
+674
+00:15:03,030 --> 00:15:03,040
+v princípe obsahoval strašne veľa
+
+675
+00:15:03,040 --> 00:15:04,509
+v princípe obsahoval strašne veľa
+otáčajúcich sa koliečok, ktorými si
+
+676
+00:15:04,509 --> 00:15:04,519
+otáčajúcich sa koliečok, ktorými si
+
+677
+00:15:04,519 --> 00:15:07,629
+otáčajúcich sa koliečok, ktorými si
+potom točil a oni analyzovali nejaké
+
+678
+00:15:07,629 --> 00:15:07,639
+potom točil a oni analyzovali nejaké
+
+679
+00:15:07,639 --> 00:15:10,269
+potom točil a oni analyzovali nejaké
+veci, krútili sa, zapadávali do seba a
+
+680
+00:15:10,269 --> 00:15:10,279
+veci, krútili sa, zapadávali do seba a
+
+681
+00:15:10,279 --> 00:15:13,670
+veci, krútili sa, zapadávali do seba a
+tak ďalej a dospeli k nejakému výsledku.
+
+682
+00:15:13,670 --> 00:15:13,680
+tak ďalej a dospeli k nejakému výsledku.
+
+683
+00:15:13,680 --> 00:15:15,590
+tak ďalej a dospeli k nejakému výsledku.
+V princípe by to naozaj mohlo fungovať
+
+684
+00:15:15,590 --> 00:15:15,600
+V princípe by to naozaj mohlo fungovať
+
+685
+00:15:15,600 --> 00:15:17,670
+V princípe by to naozaj mohlo fungovať
+ako počítač a spätne sa dá ukázať
+
+686
+00:15:17,670 --> 00:15:17,680
+ako počítač a spätne sa dá ukázať
+
+687
+00:15:17,680 --> 00:15:19,670
+ako počítač a spätne sa dá ukázať
+naozaj, že že to, čo očakávame od
+
+688
+00:15:19,670 --> 00:15:19,680
+naozaj, že že to, čo očakávame od
+
+689
+00:15:19,680 --> 00:15:22,030
+naozaj, že že to, čo očakávame od
+počítača, tú ringovskú úplnosť spĺňa
+
+690
+00:15:22,030 --> 00:15:22,040
+počítača, tú ringovskú úplnosť spĺňa
+
+691
+00:15:22,040 --> 00:15:24,629
+počítača, tú ringovskú úplnosť spĺňa
+tento BBJ počítač. Problém však bol, že
+
+692
+00:15:24,629 --> 00:15:24,639
+tento BBJ počítač. Problém však bol, že
+
+693
+00:15:24,639 --> 00:15:27,910
+tento BBJ počítač. Problém však bol, že
+v tých rokoch 1800, dajme tomu 40 plus
+
+694
+00:15:27,910 --> 00:15:27,920
+v tých rokoch 1800, dajme tomu 40 plus
+
+695
+00:15:27,920 --> 00:15:30,030
+v tých rokoch 1800, dajme tomu 40 plus
+mínus pár rokov,
+
+696
+00:15:30,030 --> 00:15:30,040
+mínus pár rokov,
+
+697
+00:15:30,040 --> 00:15:33,110
+mínus pár rokov,
+bol takýto stroj technicky
+
+698
+00:15:33,110 --> 00:15:33,120
+bol takýto stroj technicky
+
+699
+00:15:33,120 --> 00:15:35,110
+bol takýto stroj technicky
+nezostrojiteľný,
+
+700
+00:15:35,110 --> 00:15:35,120
+nezostrojiteľný,
+
+701
+00:15:35,120 --> 00:15:38,590
+nezostrojiteľný,
+že nedali sa urobiť tak presné presne
+
+702
+00:15:38,590 --> 00:15:38,600
+že nedali sa urobiť tak presné presne
+
+703
+00:15:38,600 --> 00:15:41,230
+že nedali sa urobiť tak presné presne
+vytvarované kolesá a súčiastky, tak aby
+
+704
+00:15:41,230 --> 00:15:41,240
+vytvarované kolesá a súčiastky, tak aby
+
+705
+00:15:41,240 --> 00:15:43,350
+vytvarované kolesá a súčiastky, tak aby
+sa ti to napríklad celé nezadrhlo. Hej.
+
+706
+00:15:43,350 --> 00:15:43,360
+sa ti to napríklad celé nezadrhlo. Hej.
+
+707
+00:15:43,360 --> 00:15:45,230
+sa ti to napríklad celé nezadrhlo. Hej.
+To je teraz s modernou technikou sa to
+
+708
+00:15:45,230 --> 00:15:45,240
+To je teraz s modernou technikou sa to
+
+709
+00:15:45,240 --> 00:15:48,629
+To je teraz s modernou technikou sa to
+asi dalo, nie? Áno. Čo on tie dizajny
+
+710
+00:15:48,629 --> 00:15:48,639
+asi dalo, nie? Áno. Čo on tie dizajny
+
+711
+00:15:48,639 --> 00:15:51,910
+asi dalo, nie? Áno. Čo on tie dizajny
+tých svojich výpočtových strojov začal
+
+712
+00:15:51,910 --> 00:15:51,920
+tých svojich výpočtových strojov začal
+
+713
+00:15:51,920 --> 00:15:54,230
+tých svojich výpočtových strojov začal
+robiť v roku 1820 a začal drankať
+
+714
+00:15:54,230 --> 00:15:54,240
+robiť v roku 1820 a začal drankať
+
+715
+00:15:54,240 --> 00:15:56,590
+robiť v roku 1820 a začal drankať
+peniaze od vlád eh alebo teda
+
+716
+00:15:56,590 --> 00:15:56,600
+peniaze od vlád eh alebo teda
+
+717
+00:15:56,600 --> 00:15:58,749
+peniaze od vlád eh alebo teda
+pravdepodobne britskej vlády vtedy, aby
+
+718
+00:15:58,749 --> 00:15:58,759
+pravdepodobne britskej vlády vtedy, aby
+
+719
+00:15:58,759 --> 00:16:00,790
+pravdepodobne britskej vlády vtedy, aby
+aby mu nejako prispievali a podobne a to
+
+720
+00:16:00,790 --> 00:16:00,800
+aby mu nejako prispievali a podobne a to
+
+721
+00:16:00,800 --> 00:16:02,230
+aby mu nejako prispievali a podobne a to
+nadšenie najprv z nich vzbudil, ale
+
+722
+00:16:02,230 --> 00:16:02,240
+nadšenie najprv z nich vzbudil, ale
+
+723
+00:16:02,240 --> 00:16:05,230
+nadšenie najprv z nich vzbudil, ale
+nedarilo sa mu nedarilo sa mu prinášať
+
+724
+00:16:05,230 --> 00:16:05,240
+nedarilo sa mu nedarilo sa mu prinášať
+
+725
+00:16:05,240 --> 00:16:06,749
+nedarilo sa mu nedarilo sa mu prinášať
+výsledky. Akože úplne, že príbeh zo
+
+726
+00:16:06,749 --> 00:16:06,759
+výsledky. Akože úplne, že príbeh zo
+
+727
+00:16:06,759 --> 00:16:09,030
+výsledky. Akože úplne, že príbeh zo
+Silicon Wall. Robíš funding a potom
+
+728
+00:16:09,030 --> 00:16:09,040
+Silicon Wall. Robíš funding a potom
+
+729
+00:16:09,040 --> 00:16:11,590
+Silicon Wall. Robíš funding a potom
+neprinesieš výsledok, tak sa to stopne.
+
+730
+00:16:11,590 --> 00:16:11,600
+neprinesieš výsledok, tak sa to stopne.
+
+731
+00:16:11,600 --> 00:16:13,910
+neprinesieš výsledok, tak sa to stopne.
+Ale také dosť eh zaujímavé, nie? že
+
+732
+00:16:13,910 --> 00:16:13,920
+Ale také dosť eh zaujímavé, nie? že
+
+733
+00:16:13,920 --> 00:16:15,949
+Ale také dosť eh zaujímavé, nie? že
+vymyslel, že reálne, že predstav si, že
+
+734
+00:16:15,949 --> 00:16:15,959
+vymyslel, že reálne, že predstav si, že
+
+735
+00:16:15,959 --> 00:16:18,550
+vymyslel, že reálne, že predstav si, že
+by to dokázal spraviť, že čo by to bolo,
+
+736
+00:16:18,550 --> 00:16:18,560
+by to dokázal spraviť, že čo by to bolo,
+
+737
+00:16:18,560 --> 00:16:20,269
+by to dokázal spraviť, že čo by to bolo,
+nie? O 100 rokov skorej počítať, čo by
+
+738
+00:16:20,269 --> 00:16:20,279
+nie? O 100 rokov skorej počítať, čo by
+
+739
+00:16:20,279 --> 00:16:22,269
+nie? O 100 rokov skorej počítať, čo by
+bol No áno, že keby keby mu to naozaj
+
+740
+00:16:22,269 --> 00:16:22,279
+bol No áno, že keby keby mu to naozaj
+
+741
+00:16:22,279 --> 00:16:25,069
+bol No áno, že keby keby mu to naozaj
+vyšlo, že bol limitovaný len tou dobou,
+
+742
+00:16:25,069 --> 00:16:25,079
+vyšlo, že bol limitovaný len tou dobou,
+
+743
+00:16:25,079 --> 00:16:27,150
+vyšlo, že bol limitovaný len tou dobou,
+vieš, že to presne bol limitovaný dobou
+
+744
+00:16:27,150 --> 00:16:27,160
+vieš, že to presne bol limitovaný dobou
+
+745
+00:16:27,160 --> 00:16:29,110
+vieš, že to presne bol limitovaný dobou
+a konkrétne tým, že remeselníci aké veci
+
+746
+00:16:29,110 --> 00:16:29,120
+a konkrétne tým, že remeselníci aké veci
+
+747
+00:16:29,120 --> 00:16:30,870
+a konkrétne tým, že remeselníci aké veci
+zvládali, nezvládali urobiť. A ten počaš
+
+748
+00:16:30,870 --> 00:16:30,880
+zvládali, nezvládali urobiť. A ten počaš
+
+749
+00:16:30,880 --> 00:16:32,790
+zvládali, nezvládali urobiť. A ten počaš
+sa naozaj potom podarilo urobiť niekde v
+
+750
+00:16:32,790 --> 00:16:32,800
+sa naozaj potom podarilo urobiť niekde v
+
+751
+00:16:32,800 --> 00:16:35,790
+sa naozaj potom podarilo urobiť niekde v
+múzeu eh eh Science Museum v Londýne sa
+
+752
+00:16:35,790 --> 00:16:35,800
+múzeu eh eh Science Museum v Londýne sa
+
+753
+00:16:35,800 --> 00:16:37,470
+múzeu eh eh Science Museum v Londýne sa
+naňho dá ísť pozrieť. On dokonca už
+
+754
+00:16:37,470 --> 00:16:37,480
+naňho dá ísť pozrieť. On dokonca už
+
+755
+00:16:37,480 --> 00:16:38,949
+naňho dá ísť pozrieť. On dokonca už
+robil potom také veci, že ako to má
+
+756
+00:16:38,949 --> 00:16:38,959
+robil potom také veci, že ako to má
+
+757
+00:16:38,959 --> 00:16:40,470
+robil potom také veci, že ako to má
+tlačiť výsledky, že nejaká taká
+
+758
+00:16:40,470 --> 00:16:40,480
+tlačiť výsledky, že nejaká taká
+
+759
+00:16:40,480 --> 00:16:42,590
+tlačiť výsledky, že nejaká taká
+prototlačiareň
+
+760
+00:16:42,590 --> 00:16:42,600
+prototlačiareň
+
+761
+00:16:42,600 --> 00:16:44,910
+prototlačiareň
+a ale bol to hlavne stroj na robenie
+
+762
+00:16:44,910 --> 00:16:44,920
+a ale bol to hlavne stroj na robenie
+
+763
+00:16:44,920 --> 00:16:48,430
+a ale bol to hlavne stroj na robenie
+výpočtov. Tak o ňom rozmýšľal a to
+
+764
+00:16:48,430 --> 00:16:48,440
+výpočtov. Tak o ňom rozmýšľal a to
+
+765
+00:16:48,440 --> 00:16:51,350
+výpočtov. Tak o ňom rozmýšľal a to
+označenie dovtedy sa týmto strojom
+
+766
+00:16:51,350 --> 00:16:51,360
+označenie dovtedy sa týmto strojom
+
+767
+00:16:51,360 --> 00:16:52,910
+označenie dovtedy sa týmto strojom
+hovorilo, že difference engine, že oni
+
+768
+00:16:52,910 --> 00:16:52,920
+hovorilo, že difference engine, že oni
+
+769
+00:16:52,920 --> 00:16:56,110
+hovorilo, že difference engine, že oni
+proste počítali nejaké veci. Už tomuto
+
+770
+00:16:56,110 --> 00:16:56,120
+proste počítali nejaké veci. Už tomuto
+
+771
+00:16:56,120 --> 00:16:58,069
+proste počítali nejaké veci. Už tomuto
+babyovu strojmu stroju sa hovorí, že
+
+772
+00:16:58,069 --> 00:16:58,079
+babyovu strojmu stroju sa hovorí, že
+
+773
+00:16:58,079 --> 00:17:00,230
+babyovu strojmu stroju sa hovorí, že
+analytical engine, že to už je trošku
+
+774
+00:17:00,230 --> 00:17:00,240
+analytical engine, že to už je trošku
+
+775
+00:17:00,240 --> 00:17:01,590
+analytical engine, že to už je trošku
+niečo zložitejšie, že vieš dávať
+
+776
+00:17:01,590 --> 00:17:01,600
+niečo zložitejšie, že vieš dávať
+
+777
+00:17:01,600 --> 00:17:03,150
+niečo zložitejšie, že vieš dávať
+rôznorodé inštrukcie a vieš ho nútiť
+
+778
+00:17:03,150 --> 00:17:03,160
+rôznorodé inštrukcie a vieš ho nútiť
+
+779
+00:17:03,160 --> 00:17:06,429
+rôznorodé inštrukcie a vieš ho nútiť
+robiť iné veci. Uhm. V tomto do príbehu
+
+780
+00:17:06,429 --> 00:17:06,439
+robiť iné veci. Uhm. V tomto do príbehu
+
+781
+00:17:06,439 --> 00:17:09,630
+robiť iné veci. Uhm. V tomto do príbehu
+vstupuje Adala Vles, ktorá urobila niečo
+
+782
+00:17:09,630 --> 00:17:09,640
+vstupuje Adala Vles, ktorá urobila niečo
+
+783
+00:17:09,640 --> 00:17:11,590
+vstupuje Adala Vles, ktorá urobila niečo
+v podstate neviné, že toho Bebida
+
+784
+00:17:11,590 --> 00:17:11,600
+v podstate neviné, že toho Bebida
+
+785
+00:17:11,600 --> 00:17:13,909
+v podstate neviné, že toho Bebida
+pozvali v roku 1840
+
+786
+00:17:13,909 --> 00:17:13,919
+pozvali v roku 1840
+
+787
+00:17:13,919 --> 00:17:17,029
+pozvali v roku 1840
+dať seminár na Turinskej univerzite o
+
+788
+00:17:17,029 --> 00:17:17,039
+dať seminár na Turinskej univerzite o
+
+789
+00:17:17,039 --> 00:17:19,270
+dať seminár na Turinskej univerzite o
+jeho výpočtovom stroji. Nadchlo to
+
+790
+00:17:19,270 --> 00:17:19,280
+jeho výpočtovom stroji. Nadchlo to
+
+791
+00:17:19,280 --> 00:17:22,309
+jeho výpočtovom stroji. Nadchlo to
+mladého talianskeho inžiniera Luigiho
+
+792
+00:17:22,309 --> 00:17:22,319
+mladého talianskeho inžiniera Luigiho
+
+793
+00:17:22,319 --> 00:17:26,110
+mladého talianskeho inžiniera Luigiho
+Manabrea, ktorý bol neskôr eh vždy
+
+794
+00:17:26,110 --> 00:17:26,120
+Manabrea, ktorý bol neskôr eh vždy
+
+795
+00:17:26,120 --> 00:17:29,470
+Manabrea, ktorý bol neskôr eh vždy
+premiérom Talianska. Takže, takže držal
+
+796
+00:17:29,470 --> 00:17:29,480
+premiérom Talianska. Takže, takže držal
+
+797
+00:17:29,480 --> 00:17:31,270
+premiérom Talianska. Takže, takže držal
+si prehľad o tom, ako fungujú veci
+
+798
+00:17:31,270 --> 00:17:31,280
+si prehľad o tom, ako fungujú veci
+
+799
+00:17:31,280 --> 00:17:35,350
+si prehľad o tom, ako fungujú veci
+kadetade. No a do Ženevskej knižnice
+
+800
+00:17:35,350 --> 00:17:35,360
+kadetade. No a do Ženevskej knižnice
+
+801
+00:17:35,360 --> 00:17:37,150
+kadetade. No a do Ženevskej knižnice
+univerzitnej mal ísť prepis týchto
+
+802
+00:17:37,150 --> 00:17:37,160
+univerzitnej mal ísť prepis týchto
+
+803
+00:17:37,160 --> 00:17:39,750
+univerzitnej mal ísť prepis týchto
+prednášok o dva roky neskôr a Adala
+
+804
+00:17:39,750 --> 00:17:39,760
+prednášok o dva roky neskôr a Adala
+
+805
+00:17:39,760 --> 00:17:41,390
+prednášok o dva roky neskôr a Adala
+Vlest vlastne prekladala tie prednášky
+
+806
+00:17:41,390 --> 00:17:41,400
+Vlest vlastne prekladala tie prednášky
+
+807
+00:17:41,400 --> 00:17:43,190
+Vlest vlastne prekladala tie prednášky
+tak, aby mohli byť publikované v inom
+
+808
+00:17:43,190 --> 00:17:43,200
+tak, aby mohli byť publikované v inom
+
+809
+00:17:43,200 --> 00:17:46,990
+tak, aby mohli byť publikované v inom
+jazyku. No a tá sranda je, že po prvé
+
+810
+00:17:46,990 --> 00:17:47,000
+jazyku. No a tá sranda je, že po prvé
+
+811
+00:17:47,000 --> 00:17:48,789
+jazyku. No a tá sranda je, že po prvé
+ona tam vysvetlila, aký je rozdiel medzi
+
+812
+00:17:48,789 --> 00:17:48,799
+ona tam vysvetlila, aký je rozdiel medzi
+
+813
+00:17:48,799 --> 00:17:51,029
+ona tam vysvetlila, aký je rozdiel medzi
+tým analytic engine, tým analytickým
+
+814
+00:17:51,029 --> 00:17:51,039
+tým analytic engine, tým analytickým
+
+815
+00:17:51,039 --> 00:17:52,710
+tým analytic engine, tým analytickým
+prístrojom, ktorý vytvoral BBIč a tými
+
+816
+00:17:52,710 --> 00:17:52,720
+prístrojom, ktorý vytvoral BBIč a tými
+
+817
+00:17:52,720 --> 00:17:55,990
+prístrojom, ktorý vytvoral BBIč a tými
+predošlými difference engine, takými len
+
+818
+00:17:55,990 --> 00:17:56,000
+predošlými difference engine, takými len
+
+819
+00:17:56,000 --> 00:17:57,750
+predošlými difference engine, takými len
+veciami, ktoré robia, ktoré slúžia na
+
+820
+00:17:57,750 --> 00:17:57,760
+veciami, ktoré robia, ktoré slúžia na
+
+821
+00:17:57,760 --> 00:18:01,789
+veciami, ktoré robia, ktoré slúžia na
+počítače, ale obohatila
+
+822
+00:18:01,789 --> 00:18:01,799
+počítače, ale obohatila
+
+823
+00:18:01,799 --> 00:18:04,789
+počítače, ale obohatila
+ten text o svoje poznámky. A teraz si
+
+824
+00:18:04,789 --> 00:18:04,799
+ten text o svoje poznámky. A teraz si
+
+825
+00:18:04,799 --> 00:18:05,990
+ten text o svoje poznámky. A teraz si
+pod tým nepredstavuje, že to sú také
+
+826
+00:18:05,990 --> 00:18:06,000
+pod tým nepredstavuje, že to sú také
+
+827
+00:18:06,000 --> 00:18:09,630
+pod tým nepredstavuje, že to sú také
+poznámky za čiarou, že dve vety boli
+
+828
+00:18:09,630 --> 00:18:09,640
+poznámky za čiarou, že dve vety boli
+
+829
+00:18:09,640 --> 00:18:11,350
+poznámky za čiarou, že dve vety boli
+poznámky, ktoré sa natiahli, ak sa
+
+830
+00:18:11,350 --> 00:18:11,360
+poznámky, ktoré sa natiahli, ak sa
+
+831
+00:18:11,360 --> 00:18:13,710
+poznámky, ktoré sa natiahli, ak sa
+nemýlim, na desiatky strán textu.
+
+832
+00:18:13,710 --> 00:18:13,720
+nemýlim, na desiatky strán textu.
+
+833
+00:18:13,720 --> 00:18:15,789
+nemýlim, na desiatky strán textu.
+som chcel povedať, že to, že ona určite
+
+834
+00:18:15,789 --> 00:18:15,799
+som chcel povedať, že to, že ona určite
+
+835
+00:18:15,799 --> 00:18:18,310
+som chcel povedať, že to, že ona určite
+asi nespravila len dva riadky poznámky.
+
+836
+00:18:18,310 --> 00:18:18,320
+asi nespravila len dva riadky poznámky.
+
+837
+00:18:18,320 --> 00:18:20,549
+asi nespravila len dva riadky poznámky.
+ona v podstate, že
+
+838
+00:18:20,549 --> 00:18:20,559
+ona v podstate, že
+
+839
+00:18:20,559 --> 00:18:23,390
+ona v podstate, že
+síce prekladala, ale ten text rozšírila
+
+840
+00:18:23,390 --> 00:18:23,400
+síce prekladala, ale ten text rozšírila
+
+841
+00:18:23,400 --> 00:18:26,830
+síce prekladala, ale ten text rozšírila
+o o mnohých o mnohé iné časti, ktoré
+
+842
+00:18:26,830 --> 00:18:26,840
+o o mnohých o mnohé iné časti, ktoré
+
+843
+00:18:26,840 --> 00:18:29,230
+o o mnohých o mnohé iné časti, ktoré
+úplne presahovali to, čo tam predtým v
+
+844
+00:18:29,230 --> 00:18:29,240
+úplne presahovali to, čo tam predtým v
+
+845
+00:18:29,240 --> 00:18:31,830
+úplne presahovali to, čo tam predtým v
+texte bolo. Tých poznámok bolo viacero.
+
+846
+00:18:31,830 --> 00:18:31,840
+texte bolo. Tých poznámok bolo viacero.
+
+847
+00:18:31,840 --> 00:18:33,310
+texte bolo. Tých poznámok bolo viacero.
+Ja som si niektoré z nich pozrel a to sú
+
+848
+00:18:33,310 --> 00:18:33,320
+Ja som si niektoré z nich pozrel a to sú
+
+849
+00:18:33,320 --> 00:18:34,430
+Ja som si niektoré z nich pozrel a to sú
+naozaj, že pomerne technické
+
+850
+00:18:34,430 --> 00:18:34,440
+naozaj, že pomerne technické
+
+851
+00:18:34,440 --> 00:18:35,990
+naozaj, že pomerne technické
+záležitosti. A jedna z tých technických
+
+852
+00:18:35,990 --> 00:18:36,000
+záležitosti. A jedna z tých technických
+
+853
+00:18:36,000 --> 00:18:37,990
+záležitosti. A jedna z tých technických
+záležitostí, ktorá je teraz známa ako
+
+854
+00:18:37,990 --> 00:18:38,000
+záležitostí, ktorá je teraz známa ako
+
+855
+00:18:38,000 --> 00:18:40,669
+záležitostí, ktorá je teraz známa ako
+poznámka G, čo nie je úplne chytľavý
+
+856
+00:18:40,669 --> 00:18:40,679
+poznámka G, čo nie je úplne chytľavý
+
+857
+00:18:40,679 --> 00:18:44,630
+poznámka G, čo nie je úplne chytľavý
+názov, eh súvisela s výpočtom Bernulyho
+
+858
+00:18:44,630 --> 00:18:44,640
+názov, eh súvisela s výpočtom Bernulyho
+
+859
+00:18:44,640 --> 00:18:46,350
+názov, eh súvisela s výpočtom Bernulyho
+čísel. Bernolio čísla sú proste
+
+860
+00:18:46,350 --> 00:18:46,360
+čísel. Bernolio čísla sú proste
+
+861
+00:18:46,360 --> 00:18:49,789
+čísel. Bernolio čísla sú proste
+matematicky zadefinované čísla, ktoré
+
+862
+00:18:49,789 --> 00:18:49,799
+matematicky zadefinované čísla, ktoré
+
+863
+00:18:49,799 --> 00:18:52,470
+matematicky zadefinované čísla, ktoré
+sa objavujú na úplne rôznorodých
+
+864
+00:18:52,470 --> 00:18:52,480
+sa objavujú na úplne rôznorodých
+
+865
+00:18:52,480 --> 00:18:54,789
+sa objavujú na úplne rôznorodých
+oblastiach astronómie, matematiky,
+
+866
+00:18:54,789 --> 00:18:54,799
+oblastiach astronómie, matematiky,
+
+867
+00:18:54,799 --> 00:18:56,350
+oblastiach astronómie, matematiky,
+fyziky a tak ďalej. Takže bolo veľmi
+
+868
+00:18:56,350 --> 00:18:56,360
+fyziky a tak ďalej. Takže bolo veľmi
+
+869
+00:18:56,360 --> 00:18:59,190
+fyziky a tak ďalej. Takže bolo veľmi
+užitočné ich vedieť rýchlo počítať eh na
+
+870
+00:18:59,190 --> 00:18:59,200
+užitočné ich vedieť rýchlo počítať eh na
+
+871
+00:18:59,200 --> 00:19:01,350
+užitočné ich vedieť rýchlo počítať eh na
+veľa desatinných miest pre rôzne hodnoty
+
+872
+00:19:01,350 --> 00:19:01,360
+veľa desatinných miest pre rôzne hodnoty
+
+873
+00:19:01,360 --> 00:19:03,149
+veľa desatinných miest pre rôzne hodnoty
+vstupných parametrov. Takže to bola
+
+874
+00:19:03,149 --> 00:19:03,159
+vstupných parametrov. Takže to bola
+
+875
+00:19:03,159 --> 00:19:05,350
+vstupných parametrov. Takže to bola
+veľká výzva a ona vlastne napísala
+
+876
+00:19:05,350 --> 00:19:05,360
+veľká výzva a ona vlastne napísala
+
+877
+00:19:05,360 --> 00:19:07,470
+veľká výzva a ona vlastne napísala
+postupnosť inštrukcií, ako by ten Baby
+
+878
+00:19:07,470 --> 00:19:07,480
+postupnosť inštrukcií, ako by ten Baby
+
+879
+00:19:07,480 --> 00:19:09,310
+postupnosť inštrukcií, ako by ten Baby
+Joe počítač mohol tieto čísla
+
+880
+00:19:09,310 --> 00:19:09,320
+Joe počítač mohol tieto čísla
+
+881
+00:19:09,320 --> 00:19:10,830
+Joe počítač mohol tieto čísla
+rekonštruovať.
+
+882
+00:19:10,830 --> 00:19:10,840
+rekonštruovať.
+
+883
+00:19:10,840 --> 00:19:12,270
+rekonštruovať.
+A naozaj si pod tým môžeš predstaviť
+
+884
+00:19:12,270 --> 00:19:12,280
+A naozaj si pod tým môžeš predstaviť
+
+885
+00:19:12,280 --> 00:19:14,630
+A naozaj si pod tým môžeš predstaviť
+také, že no teraz zober túto hodnotu,
+
+886
+00:19:14,630 --> 00:19:14,640
+také, že no teraz zober túto hodnotu,
+
+887
+00:19:14,640 --> 00:19:17,230
+také, že no teraz zober túto hodnotu,
+vlož ju tam a urob s ňou to a to a potom
+
+888
+00:19:17,230 --> 00:19:17,240
+vlož ju tam a urob s ňou to a to a potom
+
+889
+00:19:17,240 --> 00:19:20,669
+vlož ju tam a urob s ňou to a to a potom
+prebehni cez tieto hodnoty a daj mi
+
+890
+00:19:20,669 --> 00:19:20,679
+prebehni cez tieto hodnoty a daj mi
+
+891
+00:19:20,679 --> 00:19:22,350
+prebehni cez tieto hodnoty a daj mi
+výsledok.
+
+892
+00:19:22,350 --> 00:19:22,360
+výsledok.
+
+893
+00:19:22,360 --> 00:19:24,549
+výsledok.
+A toto vlastne už pripomína počítačový
+
+894
+00:19:24,549 --> 00:19:24,559
+A toto vlastne už pripomína počítačový
+
+895
+00:19:24,559 --> 00:19:26,909
+A toto vlastne už pripomína počítačový
+program. Hej. To som chcel povedať, že
+
+896
+00:19:26,909 --> 00:19:26,919
+program. Hej. To som chcel povedať, že
+
+897
+00:19:26,919 --> 00:19:30,350
+program. Hej. To som chcel povedať, že
+vau, že to prvý Thecision 3 ten naozaj,
+
+898
+00:19:30,350 --> 00:19:30,360
+vau, že to prvý Thecision 3 ten naozaj,
+
+899
+00:19:30,360 --> 00:19:31,710
+vau, že to prvý Thecision 3 ten naozaj,
+že tam bol taký postup, že zober túto
+
+900
+00:19:31,710 --> 00:19:31,720
+že tam bol taký postup, že zober túto
+
+901
+00:19:31,720 --> 00:19:34,789
+že tam bol taký postup, že zober túto
+hodnotu a odpočítaj od nej toto a prejel
+
+902
+00:19:34,789 --> 00:19:34,799
+hodnotu a odpočítaj od nej toto a prejel
+
+903
+00:19:34,799 --> 00:19:36,710
+hodnotu a odpočítaj od nej toto a prejel
+to hentou hodnotou a potom to vynásob s
+
+904
+00:19:36,710 --> 00:19:36,720
+to hentou hodnotou a potom to vynásob s
+
+905
+00:19:36,720 --> 00:19:39,990
+to hentou hodnotou a potom to vynásob s
+týmto. A ale zase program nie je na
+
+906
+00:19:39,990 --> 00:19:40,000
+týmto. A ale zase program nie je na
+
+907
+00:19:40,000 --> 00:19:42,310
+týmto. A ale zase program nie je na
+počítači, ktorý sa dalo zostruiť. Takže
+
+908
+00:19:42,310 --> 00:19:42,320
+počítači, ktorý sa dalo zostruiť. Takže
+
+909
+00:19:42,320 --> 00:19:44,870
+počítači, ktorý sa dalo zostruiť. Takže
+sa toto označuje. Ako sú ľudia, ktorí
+
+910
+00:19:44,870 --> 00:19:44,880
+sa toto označuje. Ako sú ľudia, ktorí
+
+911
+00:19:44,880 --> 00:19:46,390
+sa toto označuje. Ako sú ľudia, ktorí
+hovoria, že niekto iný vymyslel tiež
+
+912
+00:19:46,390 --> 00:19:46,400
+hovoria, že niekto iný vymyslel tiež
+
+913
+00:19:46,400 --> 00:19:48,110
+hovoria, že niekto iný vymyslel tiež
+programy dokonca možno pred ňou, ale vo
+
+914
+00:19:48,110 --> 00:19:48,120
+programy dokonca možno pred ňou, ale vo
+
+915
+00:19:48,120 --> 00:19:50,590
+programy dokonca možno pred ňou, ale vo
+všeobecnosti, keď si pozrieš, že čo je
+
+916
+00:19:50,590 --> 00:19:50,600
+všeobecnosti, keď si pozrieš, že čo je
+
+917
+00:19:50,600 --> 00:19:52,830
+všeobecnosti, keď si pozrieš, že čo je
+konsenzus, že bol prvý napísaný počačový
+
+918
+00:19:52,830 --> 00:19:52,840
+konsenzus, že bol prvý napísaný počačový
+
+919
+00:19:52,840 --> 00:19:55,789
+konsenzus, že bol prvý napísaný počačový
+program, tak to je poznámka G. ktorú
+
+920
+00:19:55,789 --> 00:19:55,799
+program, tak to je poznámka G. ktorú
+
+921
+00:19:55,799 --> 00:19:57,909
+program, tak to je poznámka G. ktorú
+Adala Vlest napísala pri preklade Baby
+
+922
+00:19:57,909 --> 00:19:57,919
+Adala Vlest napísala pri preklade Baby
+
+923
+00:19:57,919 --> 00:20:01,110
+Adala Vlest napísala pri preklade Baby
+Jových prednášok. To je strašne
+
+924
+00:20:01,110 --> 00:20:01,120
+Jových prednášok. To je strašne
+
+925
+00:20:01,120 --> 00:20:04,350
+Jových prednášok. To je strašne
+zaujímavé. Nie, že z takéto, ale ak je
+
+926
+00:20:04,350 --> 00:20:04,360
+zaujímavé. Nie, že z takéto, ale ak je
+
+927
+00:20:04,360 --> 00:20:06,270
+zaujímavé. Nie, že z takéto, ale ak je
+to náhoda, vieš, že si len zober, že ona
+
+928
+00:20:06,270 --> 00:20:06,280
+to náhoda, vieš, že si len zober, že ona
+
+929
+00:20:06,280 --> 00:20:07,950
+to náhoda, vieš, že si len zober, že ona
+to prekladala, vieš, že nerobil to
+
+930
+00:20:07,950 --> 00:20:07,960
+to prekladala, vieš, že nerobil to
+
+931
+00:20:07,960 --> 00:20:09,990
+to prekladala, vieš, že nerobil to
+niekto iný.
+
+932
+00:20:09,990 --> 00:20:10,000
+niekto iný.
+
+933
+00:20:10,000 --> 00:20:12,669
+niekto iný.
+No neviem. Proste toto mi príde až taká
+
+934
+00:20:12,669 --> 00:20:12,679
+No neviem. Proste toto mi príde až taká
+
+935
+00:20:12,679 --> 00:20:15,909
+No neviem. Proste toto mi príde až taká
+hm h ako keby vyššia moc dakedy pri
+
+936
+00:20:15,909 --> 00:20:15,919
+hm h ako keby vyššia moc dakedy pri
+
+937
+00:20:15,919 --> 00:20:19,549
+hm h ako keby vyššia moc dakedy pri
+týchto veciach. Tak a tá je silná to, že
+
+938
+00:20:19,549 --> 00:20:19,559
+týchto veciach. Tak a tá je silná to, že
+
+939
+00:20:19,559 --> 00:20:21,190
+týchto veciach. Tak a tá je silná to, že
+toto je prvá vec, kvôli ktorej je ona
+
+940
+00:20:21,190 --> 00:20:21,200
+toto je prvá vec, kvôli ktorej je ona
+
+941
+00:20:21,200 --> 00:20:23,909
+toto je prvá vec, kvôli ktorej je ona
+slávna, že teda, že je možné teda, že
+
+942
+00:20:23,909 --> 00:20:23,919
+slávna, že teda, že je možné teda, že
+
+943
+00:20:23,919 --> 00:20:25,510
+slávna, že teda, že je možné teda, že
+napísala prvý program alebo teda napísal
+
+944
+00:20:25,510 --> 00:20:25,520
+napísala prvý program alebo teda napísal
+
+945
+00:20:25,520 --> 00:20:27,669
+napísala prvý program alebo teda napísal
+jeden z prvých programov.
+
+946
+00:20:27,669 --> 00:20:27,679
+jeden z prvých programov.
+
+947
+00:20:27,679 --> 00:20:30,190
+jeden z prvých programov.
+A druhá vec je, že si uvedomila,
+
+948
+00:20:30,190 --> 00:20:30,200
+A druhá vec je, že si uvedomila,
+
+949
+00:20:30,200 --> 00:20:33,430
+A druhá vec je, že si uvedomila,
+že takéto stroje nemusia počítať iba s
+
+950
+00:20:33,430 --> 00:20:33,440
+že takéto stroje nemusia počítať iba s
+
+951
+00:20:33,440 --> 00:20:35,510
+že takéto stroje nemusia počítať iba s
+číslami. A toto je ten dôvod, prečo som
+
+952
+00:20:35,510 --> 00:20:35,520
+číslami. A toto je ten dôvod, prečo som
+
+953
+00:20:35,520 --> 00:20:36,990
+číslami. A toto je ten dôvod, prečo som
+spomínal, že ona mala veľmi blízko k
+
+954
+00:20:36,990 --> 00:20:37,000
+spomínal, že ona mala veľmi blízko k
+
+955
+00:20:37,000 --> 00:20:39,029
+spomínal, že ona mala veľmi blízko k
+umeniu. nielen, že ju to nútilo o tej
+
+956
+00:20:39,029 --> 00:20:39,039
+umeniu. nielen, že ju to nútilo o tej
+
+957
+00:20:39,039 --> 00:20:42,029
+umeniu. nielen, že ju to nútilo o tej
+matematike a informatike vlastne
+
+958
+00:20:42,029 --> 00:20:42,039
+matematike a informatike vlastne
+
+959
+00:20:42,039 --> 00:20:44,950
+matematike a informatike vlastne
+rozmýšľať na intuitívnej úrovni, ale
+
+960
+00:20:44,950 --> 00:20:44,960
+rozmýšľať na intuitívnej úrovni, ale
+
+961
+00:20:44,960 --> 00:20:46,710
+rozmýšľať na intuitívnej úrovni, ale
+potom rozmýšľa o veciach v kontexte
+
+962
+00:20:46,710 --> 00:20:46,720
+potom rozmýšľa o veciach v kontexte
+
+963
+00:20:46,720 --> 00:20:48,590
+potom rozmýšľa o veciach v kontexte
+napríklad hudby, že povedal, že však
+
+964
+00:20:48,590 --> 00:20:48,600
+napríklad hudby, že povedal, že však
+
+965
+00:20:48,600 --> 00:20:50,669
+napríklad hudby, že povedal, že však
+keby sme hudbu vedeli zmeniť na čísla,
+
+966
+00:20:50,669 --> 00:20:50,679
+keby sme hudbu vedeli zmeniť na čísla,
+
+967
+00:20:50,679 --> 00:20:52,230
+keby sme hudbu vedeli zmeniť na čísla,
+tak ju tiež vieme analyzovať v takomto
+
+968
+00:20:52,230 --> 00:20:52,240
+tak ju tiež vieme analyzovať v takomto
+
+969
+00:20:52,240 --> 00:20:54,789
+tak ju tiež vieme analyzovať v takomto
+stroji a keby sme malbu vedeli
+
+970
+00:20:54,789 --> 00:20:54,799
+stroji a keby sme malbu vedeli
+
+971
+00:20:54,799 --> 00:20:56,310
+stroji a keby sme malbu vedeli
+pretlmočiť na čísla, tak tiež vieme
+
+972
+00:20:56,310 --> 00:20:56,320
+pretlmočiť na čísla, tak tiež vieme
+
+973
+00:20:56,320 --> 00:20:58,830
+pretlmočiť na čísla, tak tiež vieme
+spracovať v tomto stroji. Takže ona si
+
+974
+00:20:58,830 --> 00:20:58,840
+spracovať v tomto stroji. Takže ona si
+
+975
+00:20:58,840 --> 00:21:01,110
+spracovať v tomto stroji. Takže ona si
+asi a toto už je naozaj asi jej, že
+
+976
+00:21:01,110 --> 00:21:01,120
+asi a toto už je naozaj asi jej, že
+
+977
+00:21:01,120 --> 00:21:03,470
+asi a toto už je naozaj asi jej, že
+úplne najunikátnejšie prvenstvo, že ona
+
+978
+00:21:03,470 --> 00:21:03,480
+úplne najunikátnejšie prvenstvo, že ona
+
+979
+00:21:03,480 --> 00:21:06,669
+úplne najunikátnejšie prvenstvo, že ona
+si uvedomila, že výpočtové stroje dokážu
+
+980
+00:21:06,669 --> 00:21:06,679
+si uvedomila, že výpočtové stroje dokážu
+
+981
+00:21:06,679 --> 00:21:09,070
+si uvedomila, že výpočtové stroje dokážu
+spracovávať oveľa všeobecnejšie veci v
+
+982
+00:21:09,070 --> 00:21:09,080
+spracovávať oveľa všeobecnejšie veci v
+
+983
+00:21:09,080 --> 00:21:11,669
+spracovávať oveľa všeobecnejšie veci v
+princípe takmer hocijaké než len čísla.
+
+984
+00:21:11,669 --> 00:21:11,679
+princípe takmer hocijaké než len čísla.
+
+985
+00:21:11,679 --> 00:21:14,190
+princípe takmer hocijaké než len čísla.
+Ona rozmýšľal napríklad nad tým, ako by
+
+986
+00:21:14,190 --> 00:21:14,200
+Ona rozmýšľal napríklad nad tým, ako by
+
+987
+00:21:14,200 --> 00:21:16,350
+Ona rozmýšľal napríklad nad tým, ako by
+mohol matematický, aký by mohol byť
+
+988
+00:21:16,350 --> 00:21:16,360
+mohol matematický, aký by mohol byť
+
+989
+00:21:16,360 --> 00:21:18,789
+mohol matematický, aký by mohol byť
+matematický model mysle, že ako to dať
+
+990
+00:21:18,789 --> 00:21:18,799
+matematický model mysle, že ako to dať
+
+991
+00:21:18,799 --> 00:21:22,590
+matematický model mysle, že ako to dať
+dokopy. Aj keď pri týchto strojoch Áno,
+
+992
+00:21:22,590 --> 00:21:22,600
+dokopy. Aj keď pri týchto strojoch Áno,
+
+993
+00:21:22,600 --> 00:21:24,390
+dokopy. Aj keď pri týchto strojoch Áno,
+presne, že úplne, že predtucha toho, že
+
+994
+00:21:24,390 --> 00:21:24,400
+presne, že úplne, že predtucha toho, že
+
+995
+00:21:24,400 --> 00:21:26,870
+presne, že úplne, že predtucha toho, že
+by malo existovať niečo ako AI. Aj keď
+
+996
+00:21:26,870 --> 00:21:26,880
+by malo existovať niečo ako AI. Aj keď
+
+997
+00:21:26,880 --> 00:21:28,430
+by malo existovať niečo ako AI. Aj keď
+pri týchto strojoch povedala, že oni
+
+998
+00:21:28,430 --> 00:21:28,440
+pri týchto strojoch povedala, že oni
+
+999
+00:21:28,440 --> 00:21:30,789
+pri týchto strojoch povedala, že oni
+nedokážu kreatívne myslieť, že oni len
+
+1000
+00:21:30,789 --> 00:21:30,799
+nedokážu kreatívne myslieť, že oni len
+
+1001
+00:21:30,799 --> 00:21:33,070
+nedokážu kreatívne myslieť, že oni len
+robia tie inštrukcie, ktoré si tam zadal
+
+1002
+00:21:33,070 --> 00:21:33,080
+robia tie inštrukcie, ktoré si tam zadal
+
+1003
+00:21:33,080 --> 00:21:34,630
+robia tie inštrukcie, ktoré si tam zadal
+a prídu k výsledku, ale že to nie je
+
+1004
+00:21:34,630 --> 00:21:34,640
+a prídu k výsledku, ale že to nie je
+
+1005
+00:21:34,640 --> 00:21:36,789
+a prídu k výsledku, ale že to nie je
+kreatívna činnosť.
+
+1006
+00:21:36,789 --> 00:21:36,799
+kreatívna činnosť.
+
+1007
+00:21:36,799 --> 00:21:39,110
+kreatívna činnosť.
+A táto je poznámka o nekreatívnosti
+
+1008
+00:21:39,110 --> 00:21:39,120
+A táto je poznámka o nekreatívnosti
+
+1009
+00:21:39,120 --> 00:21:41,390
+A táto je poznámka o nekreatívnosti
+strojov. Je tak významná, že sa jej
+
+1010
+00:21:41,390 --> 00:21:41,400
+strojov. Je tak významná, že sa jej
+
+1011
+00:21:41,400 --> 00:21:45,710
+strojov. Je tak významná, že sa jej
+venoval aj Turing vo svojom článku o
+
+1012
+00:21:45,710 --> 00:21:45,720
+venoval aj Turing vo svojom článku o
+
+1013
+00:21:45,720 --> 00:21:48,070
+venoval aj Turing vo svojom článku o
+Computer Machinery and Intelligence.
+
+1014
+00:21:48,070 --> 00:21:48,080
+Computer Machinery and Intelligence.
+
+1015
+00:21:48,080 --> 00:21:50,190
+Computer Machinery and Intelligence.
+Samo, povedal by si, že Adam má
+
+1016
+00:21:50,190 --> 00:21:50,200
+Samo, povedal by si, že Adam má
+
+1017
+00:21:50,200 --> 00:21:53,110
+Samo, povedal by si, že Adam má
+najvýznamnejšie poznámky vo vede?
+
+1018
+00:21:53,110 --> 00:21:53,120
+najvýznamnejšie poznámky vo vede?
+
+1019
+00:21:53,120 --> 00:21:56,269
+najvýznamnejšie poznámky vo vede?
+Áno, pravdepodobne áno, lebo poznámka G
+
+1020
+00:21:56,269 --> 00:21:56,279
+Áno, pravdepodobne áno, lebo poznámka G
+
+1021
+00:21:56,279 --> 00:22:00,149
+Áno, pravdepodobne áno, lebo poznámka G
+a teraz táto ďalšia akože, že na toto
+
+1022
+00:22:00,149 --> 00:22:00,159
+a teraz táto ďalšia akože, že na toto
+
+1023
+00:22:00,159 --> 00:22:02,390
+a teraz táto ďalšia akože, že na toto
+vlastne nadviazal Alan Turing, ktorý ako
+
+1024
+00:22:02,390 --> 00:22:02,400
+vlastne nadviazal Alan Turing, ktorý ako
+
+1025
+00:22:02,400 --> 00:22:04,190
+vlastne nadviazal Alan Turing, ktorý ako
+prvý napísal, že väčšina vedcov robí
+
+1026
+00:22:04,190 --> 00:22:04,200
+prvý napísal, že väčšina vedcov robí
+
+1027
+00:22:04,200 --> 00:22:05,750
+prvý napísal, že väčšina vedcov robí
+články, ona robí poznámky. Ona robí
+
+1028
+00:22:05,750 --> 00:22:05,760
+články, ona robí poznámky. Ona robí
+
+1029
+00:22:05,760 --> 00:22:07,430
+články, ona robí poznámky. Ona robí
+poznámky a stačí to na to, že úplne
+
+1030
+00:22:07,430 --> 00:22:07,440
+poznámky a stačí to na to, že úplne
+
+1031
+00:22:07,440 --> 00:22:10,669
+poznámky a stačí to na to, že úplne
+zadefinovala oblasť počítačov, ktorá
+
+1032
+00:22:10,669 --> 00:22:10,679
+zadefinovala oblasť počítačov, ktorá
+
+1033
+00:22:10,679 --> 00:22:12,110
+zadefinovala oblasť počítačov, ktorá
+bola storočie predtým, ako vôbec
+
+1034
+00:22:12,110 --> 00:22:12,120
+bola storočie predtým, ako vôbec
+
+1035
+00:22:12,120 --> 00:22:16,190
+bola storočie predtým, ako vôbec
+vznikli. Hej. Vau.
+
+1036
+00:22:16,190 --> 00:22:16,200
+vznikli. Hej. Vau.
+
+1037
+00:22:16,200 --> 00:22:19,430
+vznikli. Hej. Vau.
+Takže Adala Vles,
+
+1038
+00:22:19,430 --> 00:22:19,440
+Takže Adala Vles,
+
+1039
+00:22:19,440 --> 00:22:21,590
+Takže Adala Vles,
+grofka počítačov storočie predtým, než
+
+1040
+00:22:21,590 --> 00:22:21,600
+grofka počítačov storočie predtým, než
+
+1041
+00:22:21,600 --> 00:22:24,070
+grofka počítačov storočie predtým, než
+počítače vznikli.
+
+1042
+00:22:24,070 --> 00:22:24,080
+počítače vznikli.
+
+1043
+00:22:24,080 --> 00:22:26,350
+počítače vznikli.
+A letkyňa
+
+1044
+00:22:26,350 --> 00:22:26,360
+A letkyňa
+
+1045
+00:22:26,360 --> 00:22:29,669
+A letkyňa
+a najvieme čo letkyňa, matematička,
+
+1046
+00:22:29,669 --> 00:22:29,679
+a najvieme čo letkyňa, matematička,
+
+1047
+00:22:29,679 --> 00:22:31,789
+a najvieme čo letkyňa, matematička,
+žena, ktorá si evidentne vedela užívať
+
+1048
+00:22:31,789 --> 00:22:31,799
+žena, ktorá si evidentne vedela užívať
+
+1049
+00:22:31,799 --> 00:22:34,269
+žena, ktorá si evidentne vedela užívať
+život. Veľmi veľa cien je teraz poj
+
+1050
+00:22:34,269 --> 00:22:34,279
+život. Veľmi veľa cien je teraz poj
+
+1051
+00:22:34,279 --> 00:22:37,070
+život. Veľmi veľa cien je teraz poj
+pomenovaných. Eh, počačový jazyk
+
+1052
+00:22:37,070 --> 00:22:37,080
+pomenovaných. Eh, počačový jazyk
+
+1053
+00:22:37,080 --> 00:22:38,750
+pomenovaných. Eh, počačový jazyk
+napríklad.
+
+1054
+00:22:38,750 --> 00:22:38,760
+napríklad.
+
+1055
+00:22:38,760 --> 00:22:40,630
+napríklad.
+Kto by to povedal? To už je celkom flex,
+
+1056
+00:22:40,630 --> 00:22:40,640
+Kto by to povedal? To už je celkom flex,
+
+1057
+00:22:40,640 --> 00:22:42,630
+Kto by to povedal? To už je celkom flex,
+hej, že
+
+1058
+00:22:42,630 --> 00:22:42,640
+hej, že
+
+1059
+00:22:42,640 --> 00:22:46,910
+hej, že
+áno, si na tej úrovni ako pitón.
+
+1060
+00:22:46,910 --> 00:22:46,920
+áno, si na tej úrovni ako pitón.
+
+1061
+00:22:46,920 --> 00:22:49,630
+áno, si na tej úrovni ako pitón.
+[Smiech]
+
+1062
+00:22:49,630 --> 00:22:49,640
+[Smiech]
+
+1063
+00:22:49,640 --> 00:22:52,269
+[Smiech]
+Dobre, super. Tak díky, že si takto o
+
+1064
+00:22:52,269 --> 00:22:52,279
+Dobre, super. Tak díky, že si takto o
+
+1065
+00:22:52,279 --> 00:22:54,110
+Dobre, super. Tak díky, že si takto o
+nej viacej povedal. Eh, strašne
+
+1066
+00:22:54,110 --> 00:22:54,120
+nej viacej povedal. Eh, strašne
+
+1067
+00:22:54,120 --> 00:22:57,870
+nej viacej povedal. Eh, strašne
+zaujímavé žena. A eh, ďalší prírastok do
+
+1068
+00:22:57,870 --> 00:22:57,880
+zaujímavé žena. A eh, ďalší prírastok do
+
+1069
+00:22:57,880 --> 00:23:00,830
+zaujímavé žena. A eh, ďalší prírastok do
+našej minisérie Ženy vo vede. To je, že
+
+1070
+00:23:00,830 --> 00:23:00,840
+našej minisérie Ženy vo vede. To je, že
+
+1071
+00:23:00,840 --> 00:23:03,990
+našej minisérie Ženy vo vede. To je, že
+aj mega séria pomaly. Inak už je asi
+
+1072
+00:23:03,990 --> 00:23:04,000
+aj mega séria pomaly. Inak už je asi
+
+1073
+00:23:04,000 --> 00:23:05,990
+aj mega séria pomaly. Inak už je asi
+väčšia, čo ako hľadanie mimozemského
+
+1074
+00:23:05,990 --> 00:23:06,000
+väčšia, čo ako hľadanie mimozemského
+
+1075
+00:23:06,000 --> 00:23:08,669
+väčšia, čo ako hľadanie mimozemského
+života by som predpokal. Mohol niekto by
+
+1076
+00:23:08,669 --> 00:23:08,679
+života by som predpokal. Mohol niekto by
+
+1077
+00:23:08,679 --> 00:23:11,990
+života by som predpokal. Mohol niekto by
+si mohol dať domácu úlohu eh a dať
+
+1078
+00:23:11,990 --> 00:23:12,000
+si mohol dať domácu úlohu eh a dať
+
+1079
+00:23:12,000 --> 00:23:14,549
+si mohol dať domácu úlohu eh a dať
+dokopy všetky tieto, ktoré sme takto eh
+
+1080
+00:23:14,549 --> 00:23:14,559
+dokopy všetky tieto, ktoré sme takto eh
+
+1081
+00:23:14,559 --> 00:23:17,190
+dokopy všetky tieto, ktoré sme takto eh
+niekde opísali, všetky významné vedkyne,
+
+1082
+00:23:17,190 --> 00:23:17,200
+niekde opísali, všetky významné vedkyne,
+
+1083
+00:23:17,200 --> 00:23:18,990
+niekde opísali, všetky významné vedkyne,
+nech to máme pokope v nejakom článku.
+
+1084
+00:23:18,990 --> 00:23:19,000
+nech to máme pokope v nejakom článku.
+
+1085
+00:23:19,000 --> 00:23:20,510
+nech to máme pokope v nejakom článku.
+Takže keď to má niekto po ruke, tak nám
+
+1086
+00:23:20,510 --> 00:23:20,520
+Takže keď to má niekto po ruke, tak nám
+
+1087
+00:23:20,520 --> 00:23:22,590
+Takže keď to má niekto po ruke, tak nám
+dajte vedieť a keď nie, tak počkáme, kým
+
+1088
+00:23:22,590 --> 00:23:22,600
+dajte vedieť a keď nie, tak počkáme, kým
+
+1089
+00:23:22,600 --> 00:23:24,669
+dajte vedieť a keď nie, tak počkáme, kým
+tu za nás spraví umelá inteligencia, kým
+
+1090
+00:23:24,669 --> 00:23:24,679
+tu za nás spraví umelá inteligencia, kým
+
+1091
+00:23:24,679 --> 00:23:26,590
+tu za nás spraví umelá inteligencia, kým
+to niekto iný spraví. Dobre, tak
+
+1092
+00:23:26,590 --> 00:23:26,600
+to niekto iný spraví. Dobre, tak
+
+1093
+00:23:26,600 --> 00:23:28,310
+to niekto iný spraví. Dobre, tak
+ďakujem, že nás počúvate. Nájdete nás na
+
+1094
+00:23:28,310 --> 00:23:28,320
+ďakujem, že nás počúvate. Nájdete nás na
+
+1095
+00:23:28,320 --> 00:23:29,830
+ďakujem, že nás počúvate. Nájdete nás na
+všetkých dobrých a aj troška horších
+
+1096
+00:23:29,830 --> 00:23:29,840
+všetkých dobrých a aj troška horších
+
+1097
+00:23:29,840 --> 00:23:33,310
+všetkých dobrých a aj troška horších
+podcastových aplikáciách. Eh, máme appku
+
+1098
+00:23:33,310 --> 00:23:33,320
+podcastových aplikáciách. Eh, máme appku
+
+1099
+00:23:33,320 --> 00:23:35,669
+podcastových aplikáciách. Eh, máme appku
+eh Vedator. Nikto vás tam nesleduje,
+
+1100
+00:23:35,669 --> 00:23:35,679
+eh Vedator. Nikto vás tam nesleduje,
+
+1101
+00:23:35,679 --> 00:23:38,990
+eh Vedator. Nikto vás tam nesleduje,
+nič. Ani žiadne reklamy tam nie sú. A
+
+1102
+00:23:38,990 --> 00:23:39,000
+nič. Ani žiadne reklamy tam nie sú. A
+
+1103
+00:23:39,000 --> 00:23:41,269
+nič. Ani žiadne reklamy tam nie sú. A
+môžete ísť na vedor.space, podporiť nás
+
+1104
+00:23:41,269 --> 00:23:41,279
+môžete ísť na vedor.space, podporiť nás
+
+1105
+00:23:41,279 --> 00:23:42,789
+môžete ísť na vedor.space, podporiť nás
+na Patreon. A Samko nebúchaj do tej
+
+1106
+00:23:42,789 --> 00:23:42,799
+na Patreon. A Samko nebúchaj do tej
+
+1107
+00:23:42,799 --> 00:23:45,390
+na Patreon. A Samko nebúchaj do tej
+klávesnice, lebo nič nepočujem. Majte sa
+
+1108
+00:23:45,390 --> 00:23:45,400
+klávesnice, lebo nič nepočujem. Majte sa
+
+1109
+00:23:45,400 --> 00:23:48,149
+klávesnice, lebo nič nepočujem. Majte sa
+veľmi pekne. Majte sa. Nebude to nebude
+
+1110
+00:23:48,149 --> 00:23:48,159
+veľmi pekne. Majte sa. Nebude to nebude
+
+1111
+00:23:48,159 --> 00:23:50,040
+veľmi pekne. Majte sa. Nebude to nebude
+v tom hlavnom mikrofóne.
+
+1112
+00:23:50,040 --> 00:23:50,050
+v tom hlavnom mikrofóne.
+
+1113
+00:23:50,050 --> 00:23:56,789
+v tom hlavnom mikrofóne.
+[Hudba]
+
+1114
+00:23:56,799 --> 00:23:58,830
+Existuje Boh, ak je na svete toľko
+
+1115
+00:23:58,830 --> 00:23:58,840
+Existuje Boh, ak je na svete toľko
+
+1116
+00:23:58,840 --> 00:24:01,390
+Existuje Boh, ak je na svete toľko
+utrpenia? Je environmentalizmus nové
+
+1117
+00:24:01,390 --> 00:24:01,400
+utrpenia? Je environmentalizmus nové
+
+1118
+00:24:01,400 --> 00:24:03,669
+utrpenia? Je environmentalizmus nové
+náboženstvo? Je lepšie nespravodlivo
+
+1119
+00:24:03,669 --> 00:24:03,679
+náboženstvo? Je lepšie nespravodlivo
+
+1120
+00:24:03,679 --> 00:24:06,110
+náboženstvo? Je lepšie nespravodlivo
+znášať, ako ju konať? Ja som Jakub
+
+1121
+00:24:06,110 --> 00:24:06,120
+znášať, ako ju konať? Ja som Jakub
+
+1122
+00:24:06,120 --> 00:24:08,190
+znášať, ako ju konať? Ja som Jakub
+Betinský a ja Andrej Zeman a spolu
+
+1123
+00:24:08,190 --> 00:24:08,200
+Betinský a ja Andrej Zeman a spolu
+
+1124
+00:24:08,200 --> 00:24:10,470
+Betinský a ja Andrej Zeman a spolu
+tvoríme pravidelnú dávku. Vzdelávací
+
+1125
+00:24:10,470 --> 00:24:10,480
+tvoríme pravidelnú dávku. Vzdelávací
+
+1126
+00:24:10,480 --> 00:24:12,269
+tvoríme pravidelnú dávku. Vzdelávací
+podcast pre zvedochtivých, ktorý vás
+
+1127
+00:24:12,269 --> 00:24:12,279
+podcast pre zvedochtivých, ktorý vás
+
+1128
+00:24:12,279 --> 00:24:14,950
+podcast pre zvedochtivých, ktorý vás
+rozrozmýšľa nad aktuálnymi a nadčasovými
+
+1129
+00:24:14,950 --> 00:24:14,960
+rozrozmýšľa nad aktuálnymi a nadčasovými
+
+1130
+00:24:14,960 --> 00:24:18,269
+rozrozmýšľa nad aktuálnymi a nadčasovými
+otázkami filozofie, vedy a náboženstva.
+
+1131
+00:24:18,269 --> 00:24:18,279
+otázkami filozofie, vedy a náboženstva.
+
+1132
+00:24:18,279 --> 00:24:20,750
+otázkami filozofie, vedy a náboženstva.
+Vychádzame každý utorok. Nájdete nás na
+
+1133
+00:24:20,750 --> 00:24:20,760
+Vychádzame každý utorok. Nájdete nás na
+
+1134
+00:24:20,760 --> 00:24:22,909
+Vychádzame každý utorok. Nájdete nás na
+pravidelnadávka.sk
+
+1135
+00:24:22,909 --> 00:24:22,919
+pravidelnadávka.sk
+
+1136
+00:24:22,919 --> 00:24:25,350
+pravidelnadávka.sk
+Facebooku a Instagrame a tiež na denníku
+
+1137
+00:24:25,350 --> 00:24:25,360
+Facebooku a Instagrame a tiež na denníku
+
+1138
+00:24:25,360 --> 00:24:30,470
+Facebooku a Instagrame a tiež na denníku
+SME. Tešíme sa na vás.
+
+1139
+00:24:30,480 --> 00:24:32,630
+เฮ
+
+1140
+00:24:32,630 --> 00:24:32,640
+เฮ
+
+1141
+00:24:32,640 --> 00:24:36,059
+เฮ
+[Hudba]
