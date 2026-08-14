@@ -13,6 +13,7 @@
     {"number":311,"title":"Carbon capture","cleanMinutes":59,"maxQuestions":29,"questionCount":25,"cs":"shrnuti/cs/311-carbon-capture.html","sk":"shrnuti/sk/311-carbon-capture.html"},
     {"number":310,"title":"Nekonečná civilizácia","cleanMinutes":36,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/310-nekonecna-civilizacia.html","sk":"shrnuti/sk/310-nekonecna-civilizacia.html"},
     {"number":309,"title":"Chémia fotovoltiky","cleanMinutes":26,"maxQuestions":13,"questionCount":13,"cs":"shrnuti/cs/309-chemia-fotovoltiky.html","sk":"shrnuti/sk/309-chemia-fotovoltiky.html"},
-    {"number":308,"title":"Nobelove ceny 2025","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/308-nobelove-ceny-2025.html","sk":"shrnuti/sk/308-nobelove-ceny-2025.html"}
+    {"number":308,"title":"Nobelove ceny 2025","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/308-nobelove-ceny-2025.html","sk":"shrnuti/sk/308-nobelove-ceny-2025.html"},
+    {"number":307,"title":"Ig Nobelove ceny 2025","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/307-ig-nobelove-ceny-2025.html","sk":"shrnuti/sk/307-ig-nobelove-ceny-2025.html"}
   ]
 }
