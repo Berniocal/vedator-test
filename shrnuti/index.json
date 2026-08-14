@@ -23,6 +23,7 @@
     {"number":301,"title":"Komáre","cleanMinutes":40,"maxQuestions":20,"questionCount":20,"cs":"shrnuti/cs/301-komari.html","sk":"shrnuti/sk/301-komare.html"},
     {"number":299,"title":"Záporná teplota","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/299-zaporna-teplota.html","sk":"shrnuti/sk/299-zaporna-teplota.html"},
     {"number":298,"title":"Tsunami","cleanMinutes":30,"maxQuestions":15,"questionCount":15,"cs":"shrnuti/cs/298-tsunami.html","sk":"shrnuti/sk/298-tsunami.html"},
-    {"number":297,"title":"Mesačné preteky","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/297-mesacne-preteky.html","sk":"shrnuti/sk/297-mesacne-preteky.html"}
+    {"number":297,"title":"Mesačné preteky","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/297-mesacne-preteky.html","sk":"shrnuti/sk/297-mesacne-preteky.html"},
+    {"number":296,"title":"Primordiálne čierne diery","cleanMinutes":23,"maxQuestions":11,"questionCount":11,"cs":"shrnuti/cs/296-primordialne-cierne-diery.html","sk":"shrnuti/sk/296-primordialne-cierne-diery.html"}
   ]
 }
