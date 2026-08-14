@@ -10,6 +10,7 @@
     {"number":316,"title":"Santa Claus","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/316-santa-claus.html","sk":"shrnuti/sk/316-santa-claus.html"},
     {"number":315,"title":"Technické výzvy Santa Clausa","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/315-technicke-vyzvy-santa-clausa.html","sk":"shrnuti/sk/315-technicke-vyzvy-santa-clausa.html"},
     {"number":312,"title":"Kométa 3I/ATLAS","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/312-kometa-3i-atlas.html","sk":"shrnuti/sk/312-kometa-3i-atlas.html"},
-    {"number":311,"title":"Carbon capture","cleanMinutes":59,"maxQuestions":29,"questionCount":25,"cs":"shrnuti/cs/311-carbon-capture.html","sk":"shrnuti/sk/311-carbon-capture.html"}
+    {"number":311,"title":"Carbon capture","cleanMinutes":59,"maxQuestions":29,"questionCount":25,"cs":"shrnuti/cs/311-carbon-capture.html","sk":"shrnuti/sk/311-carbon-capture.html"},
+    {"number":310,"title":"Nekonečná civilizácia","cleanMinutes":36,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/310-nekonecna-civilizacia.html","sk":"shrnuti/sk/310-nekonecna-civilizacia.html"}
   ]
 }
