@@ -19,6 +19,7 @@
     {"number":305,"title":"Jane Goodall","cleanMinutes":17,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/305-jane-goodall.html","sk":"shrnuti/sk/305-jane-goodall.html"},
     {"number":304,"title":"Školy v čase AI","cleanMinutes":32,"maxQuestions":16,"questionCount":16,"cs":"shrnuti/cs/304-skoly-v-case-ai.html","sk":"shrnuti/sk/304-skoly-v-case-ai.html"},
     {"number":303,"title":"Inovatívne využitia húb","cleanMinutes":59,"maxQuestions":29,"questionCount":20,"cs":"shrnuti/cs/303-inovativni-vyuziti-hub.html","sk":"shrnuti/sk/303-inovativne-vyuzitia-hub.html"},
-    {"number":302,"title":"Vera Rubin","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/302-vera-rubin.html","sk":"shrnuti/sk/302-vera-rubin.html"}
+    {"number":302,"title":"Vera Rubin","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/302-vera-rubin.html","sk":"shrnuti/sk/302-vera-rubin.html"},
+    {"number":301,"title":"Komáre","cleanMinutes":40,"maxQuestions":20,"questionCount":20,"cs":"shrnuti/cs/301-komari.html","sk":"shrnuti/sk/301-komare.html"}
   ]
 }
