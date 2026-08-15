@@ -32,6 +32,7 @@
     {"number":288,"title":"Ada Lovelace","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/288-ada-lovelace.html","sk":"shrnuti/sk/288-ada-lovelace.html"},
     {"number":287,"title":"Fyzika tieňov","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/287-fyzika-tienu.html","sk":"shrnuti/sk/287-fyzika-tienov.html"},
     {"number":286,"title":"Miléniové problémy 2: Birchova a Swinnerton-Dyerova hypotéza","cleanMinutes":19,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/286-mileniove-problemy-2-birchova-a-swinnerton-dyerova-hypoteza.html","sk":"shrnuti/sk/286-mileniove-problemy-2-birchova-a-swinnerton-dyerova-hypoteza.html"},
-    {"number":285,"title":"Veľká kniha o klíme 4","cleanMinutes":26,"maxQuestions":13,"questionCount":13,"cs":"shrnuti/cs/285-velka-kniha-o-klime-4.html","sk":"shrnuti/sk/285-velka-kniha-o-klime-4.html"}
+    {"number":285,"title":"Veľká kniha o klíme 4","cleanMinutes":26,"maxQuestions":13,"questionCount":13,"cs":"shrnuti/cs/285-velka-kniha-o-klime-4.html","sk":"shrnuti/sk/285-velka-kniha-o-klime-4.html"},
+    {"number":283,"title":"Kozmologická kríza","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/283-kozmologicka-krize.html","sk":"shrnuti/sk/283-kozmologicka-kriza.html"}
   ]
 }
