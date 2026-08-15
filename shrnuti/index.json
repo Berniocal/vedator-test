@@ -28,6 +28,7 @@
     {"number":294,"title":"Ako tečú informácie","cleanMinutes":24,"maxQuestions":12,"questionCount":9,"cs":"shrnuti/cs/294-ako-tecu-informacie.html","sk":"shrnuti/sk/294-ako-tecu-informacie.html"},
     {"number":293,"title":"Liptovská Mara","cleanMinutes":32,"maxQuestions":16,"questionCount":16,"cs":"shrnuti/cs/293-liptovska-mara.html","sk":"shrnuti/sk/293-liptovska-mara.html"},
     {"number":292,"title":"Hranica vesmíru","cleanMinutes":18,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/292-hranica-vesmiru.html","sk":"shrnuti/sk/292-hranica-vesmiru.html"},
-    {"number":290,"title":"Najsilnejší gama záblesk","cleanMinutes":28,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/290-najsilnejsi-gama-zablesk.html","sk":"shrnuti/sk/290-najsilnejsi-gama-zablesk.html"}
+    {"number":290,"title":"Najsilnejší gama záblesk","cleanMinutes":28,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/290-najsilnejsi-gama-zablesk.html","sk":"shrnuti/sk/290-najsilnejsi-gama-zablesk.html"},
+    {"number":288,"title":"Ada Lovelace","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/288-ada-lovelace.html","sk":"shrnuti/sk/288-ada-lovelace.html"}
   ]
 }
