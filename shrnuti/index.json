@@ -30,6 +30,7 @@
     {"number":292,"title":"Hranica vesmíru","cleanMinutes":18,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/292-hranica-vesmiru.html","sk":"shrnuti/sk/292-hranica-vesmiru.html"},
     {"number":290,"title":"Najsilnejší gama záblesk","cleanMinutes":28,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/290-najsilnejsi-gama-zablesk.html","sk":"shrnuti/sk/290-najsilnejsi-gama-zablesk.html"},
     {"number":288,"title":"Ada Lovelace","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/288-ada-lovelace.html","sk":"shrnuti/sk/288-ada-lovelace.html"},
-    {"number":287,"title":"Fyzika tieňov","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/287-fyzika-tienu.html","sk":"shrnuti/sk/287-fyzika-tienov.html"}
+    {"number":287,"title":"Fyzika tieňov","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/287-fyzika-tienu.html","sk":"shrnuti/sk/287-fyzika-tienov.html"},
+    {"number":286,"title":"Miléniové problémy 2: Birchova a Swinnerton-Dyerova hypotéza","cleanMinutes":19,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/286-mileniove-problemy-2-birchova-a-swinnerton-dyerova-hypoteza.html","sk":"shrnuti/sk/286-mileniove-problemy-2-birchova-a-swinnerton-dyerova-hypoteza.html"}
   ]
 }
