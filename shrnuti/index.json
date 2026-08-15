@@ -41,6 +41,7 @@
     {"number":277,"title":"Odvarenie vajíčka","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/277-odvareni-vajicka.html","sk":"shrnuti/sk/277-odvarenie-vajicka.html"},
     {"number":276,"title":"Záhada rotujúcich galaxií","cleanMinutes":23,"maxQuestions":11,"questionCount":11,"cs":"shrnuti/cs/276-zahada-rotujicich-galaxii.html","sk":"shrnuti/sk/276-zahada-rotujucich-galaxii.html"},
     {"number":274,"title":"Ultraenergetické vesmírne častice","cleanMinutes":30,"maxQuestions":15,"questionCount":15,"cs":"shrnuti/cs/274-ultraenergeticke-vesmirne-castice.html","sk":"shrnuti/sk/274-ultraenergeticke-vesmirne-castice.html"},
-    {"number":273,"title":"Rádiové teleskopy","cleanMinutes":47,"maxQuestions":23,"questionCount":23,"cs":"shrnuti/cs/273-radiove-teleskopy.html","sk":"shrnuti/sk/273-radiove-teleskopy.html"}
+    {"number":273,"title":"Rádiové teleskopy","cleanMinutes":47,"maxQuestions":23,"questionCount":23,"cs":"shrnuti/cs/273-radiove-teleskopy.html","sk":"shrnuti/sk/273-radiove-teleskopy.html"},
+    {"number":271,"title":"Rubikova kocka","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/271-rubikova-kostka.html","sk":"shrnuti/sk/271-rubikova-kocka.html"}
   ]
 }
