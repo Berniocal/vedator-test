@@ -47,6 +47,7 @@
     {"number":268,"title":"Úspech krajín","cleanMinutes":52,"maxQuestions":26,"questionCount":18,"cs":"shrnuti/cs/268-uspech-zemi.html","sk":"shrnuti/sk/268-uspech-krajin.html"},
     {"number":267,"title":"Jürgen Schukraft","cleanMinutes":41,"maxQuestions":20,"questionCount":20,"cs":"shrnuti/cs/267-jurgen-schukraft.html","sk":"shrnuti/sk/267-jurgen-schukraft.html"},
     {"number":266,"title":"Nobelove ceny 2024","cleanMinutes":15,"maxQuestions":7,"questionCount":7,"cs":"shrnuti/cs/266-nobelove-ceny-2024.html","sk":"shrnuti/sk/266-nobelove-ceny-2024.html"},
-    {"number":265,"title":"Emmanuelle Charpentier","cleanMinutes":23,"maxQuestions":11,"questionCount":11,"cs":"shrnuti/cs/265-emmanuelle-charpentier.html","sk":"shrnuti/sk/265-emmanuelle-charpentier.html"}
+    {"number":265,"title":"Emmanuelle Charpentier","cleanMinutes":23,"maxQuestions":11,"questionCount":11,"cs":"shrnuti/cs/265-emmanuelle-charpentier.html","sk":"shrnuti/sk/265-emmanuelle-charpentier.html"},
+    {"number":262,"title":"Črevný mikrobióm","cleanMinutes":46,"maxQuestions":23,"questionCount":23,"cs":"shrnuti/cs/262-crevny-mikrobiom.html","sk":"shrnuti/sk/262-crevny-mikrobiom.html"}
   ]
 }
