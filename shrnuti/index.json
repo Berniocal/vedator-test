@@ -50,6 +50,7 @@
     {"number":265,"title":"Emmanuelle Charpentier","cleanMinutes":23,"maxQuestions":11,"questionCount":11,"cs":"shrnuti/cs/265-emmanuelle-charpentier.html","sk":"shrnuti/sk/265-emmanuelle-charpentier.html"},
     {"number":262,"title":"Črevný mikrobióm","cleanMinutes":46,"maxQuestions":23,"questionCount":23,"cs":"shrnuti/cs/262-crevny-mikrobiom.html","sk":"shrnuti/sk/262-crevny-mikrobiom.html"},
     {"number":261,"title":"Nové riešenie Fermiho paradoxu 2","cleanMinutes":30,"maxQuestions":15,"questionCount":15,"cs":"shrnuti/cs/261-nove-riesenie-fermiho-paradoxu-2.html","sk":"shrnuti/sk/261-nove-riesenie-fermiho-paradoxu-2.html"},
-    {"number":260,"title":"Knižné tipy 2024","cleanMinutes":24,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/260-knizni-tipy-2024.html","sk":"shrnuti/sk/260-knizne-tipy-2024.html"}
+    {"number":260,"title":"Knižné tipy 2024","cleanMinutes":24,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/260-knizni-tipy-2024.html","sk":"shrnuti/sk/260-knizne-tipy-2024.html"},
+    {"number":259,"title":"Peter Bewise Búran","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/259-peter-bewise-buran.html","sk":"shrnuti/sk/259-peter-bewise-buran.html"}
   ]
 }
