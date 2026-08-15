@@ -37,6 +37,7 @@
     {"number":282,"title":"Miléniové problémy 1: Riemannova hypotéza","cleanMinutes":29,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/282-mileniove-problemy-1-riemannova-hypoteza.html","sk":"shrnuti/sk/282-mileniove-problemy-1-riemannova-hypoteza.html"},
     {"number":281,"title":"Nová farba","cleanMinutes":18,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/281-nova-farba.html","sk":"shrnuti/sk/281-nova-farba.html"},
     {"number":280,"title":"Kvantový mysticizmus","cleanMinutes":28,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/280-kvantovy-mysticizmus.html","sk":"shrnuti/sk/280-kvantovy-mysticizmus.html"},
-    {"number":279,"title":"Veda v Last of us","cleanMinutes":40,"maxQuestions":20,"questionCount":20,"cs":"shrnuti/cs/279-veda-v-last-of-us.html","sk":"shrnuti/sk/279-veda-v-last-of-us.html"}
+    {"number":279,"title":"Veda v Last of us","cleanMinutes":40,"maxQuestions":20,"questionCount":20,"cs":"shrnuti/cs/279-veda-v-last-of-us.html","sk":"shrnuti/sk/279-veda-v-last-of-us.html"},
+    {"number":277,"title":"Odvarenie vajíčka","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/277-odvareni-vajicka.html","sk":"shrnuti/sk/277-odvarenie-vajicka.html"}
   ]
 }
