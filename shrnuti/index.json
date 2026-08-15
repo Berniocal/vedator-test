@@ -44,6 +44,7 @@
     {"number":273,"title":"Rádiové teleskopy","cleanMinutes":47,"maxQuestions":23,"questionCount":23,"cs":"shrnuti/cs/273-radiove-teleskopy.html","sk":"shrnuti/sk/273-radiove-teleskopy.html"},
     {"number":271,"title":"Rubikova kocka","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/271-rubikova-kostka.html","sk":"shrnuti/sk/271-rubikova-kocka.html"},
     {"number":269,"title":"Ako spomaliť svetlo","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/269-jak-zpomalit-svetlo.html","sk":"shrnuti/sk/269-ako-spomalit-svetlo.html"},
-    {"number":268,"title":"Úspech krajín","cleanMinutes":52,"maxQuestions":26,"questionCount":18,"cs":"shrnuti/cs/268-uspech-zemi.html","sk":"shrnuti/sk/268-uspech-krajin.html"}
+    {"number":268,"title":"Úspech krajín","cleanMinutes":52,"maxQuestions":26,"questionCount":18,"cs":"shrnuti/cs/268-uspech-zemi.html","sk":"shrnuti/sk/268-uspech-krajin.html"},
+    {"number":267,"title":"Jürgen Schukraft","cleanMinutes":41,"maxQuestions":20,"questionCount":20,"cs":"shrnuti/cs/267-jurgen-schukraft.html","sk":"shrnuti/sk/267-jurgen-schukraft.html"}
   ]
 }
