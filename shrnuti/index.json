@@ -66,6 +66,7 @@
     {"number":245,"title":"Teória hier 4: Náhodnosť","cleanMinutes":19,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/245-teorie-her-4-nahodnost.html","sk":"shrnuti/sk/245-teoria-hier-4-nahodnost.html"},
     {"number":243,"title":"Fotenie (nielen) Perzeíd","cleanMinutes":39,"maxQuestions":19,"questionCount":19,"cs":"shrnuti/cs/243-foteni-nejen-perzeid.html","sk":"shrnuti/sk/243-fotenie-nielen-perzeid.html"},
     {"number":241,"title":"Opakujúce sa novy","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/241-opakujici-se-novy.html","sk":"shrnuti/sk/241-opakujuce-sa-novy.html"},
-    {"number":240,"title":"Carole Mundell (STARMUS interview)","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/240-carole-mundell-starmus-interview.html","sk":"shrnuti/sk/240-carole-mundell-starmus-interview.html"}
+    {"number":240,"title":"Carole Mundell (STARMUS interview)","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/240-carole-mundell-starmus-interview.html","sk":"shrnuti/sk/240-carole-mundell-starmus-interview.html"},
+    {"number":239,"title":"Warpový pohon","cleanMinutes":18,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/239-warpovy-pohon.html","sk":"shrnuti/sk/239-warpovy-pohon.html"}
   ]
 }
