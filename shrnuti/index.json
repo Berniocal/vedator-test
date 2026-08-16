@@ -64,6 +64,7 @@
     {"number":247,"title":"Fosfor","cleanMinutes":31,"maxQuestions":15,"questionCount":15,"cs":"shrnuti/cs/247-fosfor.html","sk":"shrnuti/sk/247-fosfor.html"},
     {"number":246,"title":"Interview with Stefano Buono","cleanMinutes":28,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/246-interview-with-stefano-buono.html","sk":"shrnuti/sk/246-interview-with-stefano-buono.html"},
     {"number":245,"title":"Teória hier 4: Náhodnosť","cleanMinutes":19,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/245-teorie-her-4-nahodnost.html","sk":"shrnuti/sk/245-teoria-hier-4-nahodnost.html"},
-    {"number":243,"title":"Fotenie (nielen) Perzeíd","cleanMinutes":39,"maxQuestions":19,"questionCount":19,"cs":"shrnuti/cs/243-foteni-nejen-perzeid.html","sk":"shrnuti/sk/243-fotenie-nielen-perzeid.html"}
+    {"number":243,"title":"Fotenie (nielen) Perzeíd","cleanMinutes":39,"maxQuestions":19,"questionCount":19,"cs":"shrnuti/cs/243-foteni-nejen-perzeid.html","sk":"shrnuti/sk/243-fotenie-nielen-perzeid.html"},
+    {"number":241,"title":"Opakujúce sa novy","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/241-opakujici-se-novy.html","sk":"shrnuti/sk/241-opakujuce-sa-novy.html"}
   ]
 }
