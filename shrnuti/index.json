@@ -70,6 +70,7 @@
     {"number":239,"title":"Warpový pohon","cleanMinutes":18,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/239-warpovy-pohon.html","sk":"shrnuti/sk/239-warpovy-pohon.html"},
     {"number":238,"title":"Kip Thorne (STARMUS interview)","cleanMinutes":31,"maxQuestions":15,"questionCount":15,"cs":"shrnuti/cs/238-kip-thorne-starmus-interview.html","sk":"shrnuti/sk/238-kip-thorne-starmus-interview.html"},
     {"number":237,"title":"Rozpad protónu","cleanMinutes":14,"maxQuestions":7,"questionCount":7,"cs":"shrnuti/cs/237-rozpad-protonu.html","sk":"shrnuti/sk/237-rozpad-protonu.html"},
-    {"number":236,"title":"Steven Chu (STARMUS interview)","cleanMinutes":51,"maxQuestions":25,"questionCount":25,"cs":"shrnuti/cs/236-steven-chu-starmus-interview.html","sk":"shrnuti/sk/236-steven-chu-starmus-interview.html"}
+    {"number":236,"title":"Steven Chu (STARMUS interview)","cleanMinutes":51,"maxQuestions":25,"questionCount":25,"cs":"shrnuti/cs/236-steven-chu-starmus-interview.html","sk":"shrnuti/sk/236-steven-chu-starmus-interview.html"},
+    {"number":235,"title":"Novacén","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/235-novacen.html","sk":"shrnuti/sk/235-novacen.html"}
   ]
 }
