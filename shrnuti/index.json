@@ -57,6 +57,7 @@
     {"number":255,"title":"Vedecké náhrobky","cleanMinutes":26,"maxQuestions":13,"questionCount":13,"cs":"shrnuti/cs/255-vedecke-nahrobky.html","sk":"shrnuti/sk/255-vedecke-nahrobky.html"},
     {"number":254,"title":"Teória hier 5: Riziko","cleanMinutes":37,"maxQuestions":18,"questionCount":18,"cs":"shrnuti/cs/254-teorie-her-5-riziko.html","sk":"shrnuti/sk/254-teoria-hier-5-riziko.html"},
     {"number":253,"title":"Michal Valko","cleanMinutes":50,"maxQuestions":25,"questionCount":18,"cs":"shrnuti/cs/253-michal-valko.html","sk":"shrnuti/sk/253-michal-valko.html"},
-    {"number":252,"title":"Ig Nobelove ceny 2024","cleanMinutes":33,"maxQuestions":16,"questionCount":11,"cs":"shrnuti/cs/252-ig-nobelove-ceny-2024.html","sk":"shrnuti/sk/252-ig-nobelove-ceny-2024.html"}
+    {"number":252,"title":"Ig Nobelove ceny 2024","cleanMinutes":33,"maxQuestions":16,"questionCount":11,"cs":"shrnuti/cs/252-ig-nobelove-ceny-2024.html","sk":"shrnuti/sk/252-ig-nobelove-ceny-2024.html"},
+    {"number":251,"title":"Klimatická zmena 3","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/251-klimaticka-zmena-3.html","sk":"shrnuti/sk/251-klimaticka-zmena-3.html"}
   ]
 }
