@@ -62,6 +62,7 @@
     {"number":250,"title":"Lawrence Krauss","cleanMinutes":64,"maxQuestions":32,"questionCount":32,"cs":"shrnuti/cs/250-lawrence-krauss.html","sk":"shrnuti/sk/250-lawrence-krauss.html"},
     {"number":249,"title":"Topológia","cleanMinutes":29,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/249-topologie.html","sk":"shrnuti/sk/249-topologia.html"},
     {"number":247,"title":"Fosfor","cleanMinutes":31,"maxQuestions":15,"questionCount":15,"cs":"shrnuti/cs/247-fosfor.html","sk":"shrnuti/sk/247-fosfor.html"},
-    {"number":246,"title":"Interview with Stefano Buono","cleanMinutes":28,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/246-interview-with-stefano-buono.html","sk":"shrnuti/sk/246-interview-with-stefano-buono.html"}
+    {"number":246,"title":"Interview with Stefano Buono","cleanMinutes":28,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/246-interview-with-stefano-buono.html","sk":"shrnuti/sk/246-interview-with-stefano-buono.html"},
+    {"number":245,"title":"Teória hier 4: Náhodnosť","cleanMinutes":19,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/245-teorie-her-4-nahodnost.html","sk":"shrnuti/sk/245-teoria-hier-4-nahodnost.html"}
   ]
 }
