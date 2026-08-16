@@ -59,6 +59,7 @@
     {"number":253,"title":"Michal Valko","cleanMinutes":50,"maxQuestions":25,"questionCount":18,"cs":"shrnuti/cs/253-michal-valko.html","sk":"shrnuti/sk/253-michal-valko.html"},
     {"number":252,"title":"Ig Nobelove ceny 2024","cleanMinutes":33,"maxQuestions":16,"questionCount":11,"cs":"shrnuti/cs/252-ig-nobelove-ceny-2024.html","sk":"shrnuti/sk/252-ig-nobelove-ceny-2024.html"},
     {"number":251,"title":"Klimatická zmena 3","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/251-klimaticka-zmena-3.html","sk":"shrnuti/sk/251-klimaticka-zmena-3.html"},
-    {"number":250,"title":"Lawrence Krauss","cleanMinutes":64,"maxQuestions":32,"questionCount":32,"cs":"shrnuti/cs/250-lawrence-krauss.html","sk":"shrnuti/sk/250-lawrence-krauss.html"}
+    {"number":250,"title":"Lawrence Krauss","cleanMinutes":64,"maxQuestions":32,"questionCount":32,"cs":"shrnuti/cs/250-lawrence-krauss.html","sk":"shrnuti/sk/250-lawrence-krauss.html"},
+    {"number":249,"title":"Topológia","cleanMinutes":29,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/249-topologie.html","sk":"shrnuti/sk/249-topologia.html"}
   ]
 }
