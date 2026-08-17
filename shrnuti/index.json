@@ -83,6 +83,7 @@
     {"number":225,"title":"Gluóny","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/225-gluony.html","sk":"shrnuti/sk/225-gluony.html"},
     {"number":224,"title":"Klimatická zmena 2","cleanMinutes":26,"maxQuestions":13,"questionCount":13,"cs":"shrnuti/cs/224-klimaticka-zmena-2.html","sk":"shrnuti/sk/224-klimaticka-zmena-2.html"},
     {"number":223,"title":"Ako funguje internet","cleanMinutes":59,"maxQuestions":29,"questionCount":25,"cs":"shrnuti/cs/223-jak-funguje-internet.html","sk":"shrnuti/sk/223-ako-funguje-internet.html"},
-    {"number":222,"title":"Caroline Herschel","cleanMinutes":26,"maxQuestions":13,"questionCount":13,"cs":"shrnuti/cs/222-caroline-herschel.html","sk":"shrnuti/sk/222-caroline-herschel.html"}
+    {"number":222,"title":"Caroline Herschel","cleanMinutes":26,"maxQuestions":13,"questionCount":13,"cs":"shrnuti/cs/222-caroline-herschel.html","sk":"shrnuti/sk/222-caroline-herschel.html"},
+    {"number":221,"title":"Zabije nás supernova?","cleanMinutes":17,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/221-zabije-nas-supernova.html","sk":"shrnuti/sk/221-zabije-nas-supernova.html"}
   ]
 }
