@@ -88,6 +88,7 @@
     {"number":220,"title":"Inge Lehmann","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/220-inge-lehmann.html","sk":"shrnuti/sk/220-inge-lehmann.html"},
     {"number":219,"title":"Najstaršia hviezda","cleanMinutes":17,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/219-nejstarsi-hvezda.html","sk":"shrnuti/sk/219-najstarsia-hviezda.html"},
     {"number":217,"title":"Japonci na Mesiaci","cleanMinutes":14,"maxQuestions":7,"questionCount":7,"cs":"shrnuti/cs/217-japonci-na-mesici.html","sk":"shrnuti/sk/217-japonci-na-mesiaci.html"},
-    {"number":216,"title":"Goldbachova hypotéza","cleanMinutes":24,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/216-goldbachova-hypoteza.html","sk":"shrnuti/sk/216-goldbachova-hypoteza.html"}
+    {"number":216,"title":"Goldbachova hypotéza","cleanMinutes":24,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/216-goldbachova-hypoteza.html","sk":"shrnuti/sk/216-goldbachova-hypoteza.html"},
+    {"number":215,"title":"Ako možno prebiehal Veľký tresk?","cleanMinutes":19,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/215-jak-mohl-probihat-velky-tresk.html","sk":"shrnuti/sk/215-ako-mozno-prebiehal-velky-tresk.html"}
   ]
 }
