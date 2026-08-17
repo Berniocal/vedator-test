@@ -98,6 +98,7 @@
     {"number":207,"title":"Mágia Nikolu Teslu","cleanMinutes":64,"maxQuestions":32,"questionCount":32,"cs":"shrnuti/cs/207-magie-nikoly-tesly.html","sk":"shrnuti/sk/207-magia-nikolu-teslu.html"},
     {"number":206,"title":"Srinivasa Ramanujan","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/206-srinivasa-ramanujan.html","sk":"shrnuti/sk/206-srinivasa-ramanujan.html"},
     {"number":205,"title":"Sophie Germain","cleanMinutes":30,"maxQuestions":15,"questionCount":15,"cs":"shrnuti/cs/205-sophie-germain.html","sk":"shrnuti/sk/205-sophie-germain.html"},
-    {"number":202,"title":"Čerenkovovo žiarenie","cleanMinutes":16,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/202-cerenkovovo-zareni.html","sk":"shrnuti/sk/202-cerenkovovo-ziarenie.html"}
+    {"number":202,"title":"Čerenkovovo žiarenie","cleanMinutes":16,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/202-cerenkovovo-zareni.html","sk":"shrnuti/sk/202-cerenkovovo-ziarenie.html"},
+    {"number":201,"title":"Posledná Fermatova veta","cleanMinutes":29,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/201-posledna-fermatova-veta.html","sk":"shrnuti/sk/201-posledna-fermatova-veta.html"}
   ]
 }
