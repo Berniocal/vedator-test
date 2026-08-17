@@ -91,6 +91,7 @@
     {"number":216,"title":"Goldbachova hypotéza","cleanMinutes":24,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/216-goldbachova-hypoteza.html","sk":"shrnuti/sk/216-goldbachova-hypoteza.html"},
     {"number":215,"title":"Ako možno prebiehal Veľký tresk?","cleanMinutes":19,"maxQuestions":9,"questionCount":9,"cs":"shrnuti/cs/215-jak-mohl-probihat-velky-tresk.html","sk":"shrnuti/sk/215-ako-mozno-prebiehal-velky-tresk.html"},
     {"number":214,"title":"Klimatická zmena 1","cleanMinutes":27,"maxQuestions":13,"questionCount":13,"cs":"shrnuti/cs/214-klimaticka-zmena-1.html","sk":"shrnuti/sk/214-klimaticka-zmena-1.html"},
-    {"number":213,"title":"Nobelove ceny 2023","cleanMinutes":16,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/213-nobelove-ceny-2023.html","sk":"shrnuti/sk/213-nobelove-ceny-2023.html"}
+    {"number":213,"title":"Nobelove ceny 2023","cleanMinutes":16,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/213-nobelove-ceny-2023.html","sk":"shrnuti/sk/213-nobelove-ceny-2023.html"},
+    {"number":212,"title":"Rok 2023 vo vede","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/212-rok-2023-ve-vede.html","sk":"shrnuti/sk/212-rok-2023-vo-vede.html"}
   ]
 }
