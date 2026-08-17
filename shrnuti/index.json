@@ -85,6 +85,7 @@
     {"number":223,"title":"Ako funguje internet","cleanMinutes":59,"maxQuestions":29,"questionCount":25,"cs":"shrnuti/cs/223-jak-funguje-internet.html","sk":"shrnuti/sk/223-ako-funguje-internet.html"},
     {"number":222,"title":"Caroline Herschel","cleanMinutes":26,"maxQuestions":13,"questionCount":13,"cs":"shrnuti/cs/222-caroline-herschel.html","sk":"shrnuti/sk/222-caroline-herschel.html"},
     {"number":221,"title":"Zabije nás supernova?","cleanMinutes":17,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/221-zabije-nas-supernova.html","sk":"shrnuti/sk/221-zabije-nas-supernova.html"},
-    {"number":220,"title":"Inge Lehmann","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/220-inge-lehmann.html","sk":"shrnuti/sk/220-inge-lehmann.html"}
+    {"number":220,"title":"Inge Lehmann","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/220-inge-lehmann.html","sk":"shrnuti/sk/220-inge-lehmann.html"},
+    {"number":219,"title":"Najstaršia hviezda","cleanMinutes":17,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/219-nejstarsi-hvezda.html","sk":"shrnuti/sk/219-najstarsia-hviezda.html"}
   ]
 }
