@@ -105,6 +105,7 @@
     {"number":198,"title":"Neeuklidovská geometria","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/198-neeuklidovska-geometrie.html","sk":"shrnuti/sk/198-neeuklidovska-geometria.html"},
     {"number":197,"title":"Hľadanie mimozemského života 11: Hyceánová planéta","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/197-hledani-mimozemskeho-zivota-11-hyceanova-planeta.html","sk":"shrnuti/sk/197-hladanie-mimozemskeho-zivota-11-hyceanova-planeta.html"},
     {"number":196,"title":"Cesty na Mesiac","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/196-cesty-na-mesic.html","sk":"shrnuti/sk/196-cesty-na-mesiac.html"},
-    {"number":195,"title":"Pytagorova veta","cleanMinutes":24,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/195-pythagorova-veta.html","sk":"shrnuti/sk/195-pytagorova-veta.html"}
+    {"number":195,"title":"Pytagorova veta","cleanMinutes":24,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/195-pythagorova-veta.html","sk":"shrnuti/sk/195-pytagorova-veta.html"},
+    {"number":194,"title":"Supravodivosť","cleanMinutes":49,"maxQuestions":24,"questionCount":24,"cs":"shrnuti/cs/194-supravodivost.html","sk":"shrnuti/sk/194-supravodivost.html"}
   ]
 }
