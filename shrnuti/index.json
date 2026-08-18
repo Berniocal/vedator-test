@@ -99,6 +99,7 @@
     {"number":206,"title":"Srinivasa Ramanujan","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/206-srinivasa-ramanujan.html","sk":"shrnuti/sk/206-srinivasa-ramanujan.html"},
     {"number":205,"title":"Sophie Germain","cleanMinutes":30,"maxQuestions":15,"questionCount":15,"cs":"shrnuti/cs/205-sophie-germain.html","sk":"shrnuti/sk/205-sophie-germain.html"},
     {"number":202,"title":"Čerenkovovo žiarenie","cleanMinutes":16,"maxQuestions":8,"questionCount":8,"cs":"shrnuti/cs/202-cerenkovovo-zareni.html","sk":"shrnuti/sk/202-cerenkovovo-ziarenie.html"},
-    {"number":201,"title":"Posledná Fermatova veta","cleanMinutes":29,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/201-posledna-fermatova-veta.html","sk":"shrnuti/sk/201-posledna-fermatova-veta.html"}
+    {"number":201,"title":"Posledná Fermatova veta","cleanMinutes":29,"maxQuestions":14,"questionCount":14,"cs":"shrnuti/cs/201-posledna-fermatova-veta.html","sk":"shrnuti/sk/201-posledna-fermatova-veta.html"},
+    {"number":200,"title":"Ig Nobelove ceny 2023","cleanMinutes":40,"maxQuestions":20,"questionCount":11,"cs":"shrnuti/cs/200-ig-nobelove-ceny-2023.html","sk":"shrnuti/sk/200-ig-nobelove-ceny-2023.html"}
   ]
 }
