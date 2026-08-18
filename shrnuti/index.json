@@ -103,6 +103,7 @@
     {"number":200,"title":"Ig Nobelove ceny 2023","cleanMinutes":40,"maxQuestions":20,"questionCount":11,"cs":"shrnuti/cs/200-ig-nobelove-ceny-2023.html","sk":"shrnuti/sk/200-ig-nobelove-ceny-2023.html"},
     {"number":199,"title":"Misia Lucy","cleanMinutes":21,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/199-mise-lucy.html","sk":"shrnuti/sk/199-misia-lucy.html"},
     {"number":198,"title":"Neeuklidovská geometria","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/198-neeuklidovska-geometrie.html","sk":"shrnuti/sk/198-neeuklidovska-geometria.html"},
-    {"number":197,"title":"Hľadanie mimozemského života 11: Hyceánová planéta","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/197-hledani-mimozemskeho-zivota-11-hyceanova-planeta.html","sk":"shrnuti/sk/197-hladanie-mimozemskeho-zivota-11-hyceanova-planeta.html"}
+    {"number":197,"title":"Hľadanie mimozemského života 11: Hyceánová planéta","cleanMinutes":20,"maxQuestions":10,"questionCount":10,"cs":"shrnuti/cs/197-hledani-mimozemskeho-zivota-11-hyceanova-planeta.html","sk":"shrnuti/sk/197-hladanie-mimozemskeho-zivota-11-hyceanova-planeta.html"},
+    {"number":196,"title":"Cesty na Mesiac","cleanMinutes":25,"maxQuestions":12,"questionCount":12,"cs":"shrnuti/cs/196-cesty-na-mesic.html","sk":"shrnuti/sk/196-cesty-na-mesiac.html"}
   ]
 }
