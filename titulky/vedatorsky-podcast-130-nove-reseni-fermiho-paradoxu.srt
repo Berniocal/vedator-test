@@ -1,0 +1,1595 @@
+﻿1
+00:00:00,000 --> 00:00:04,953
+Vy vzniku, ceskolabs až povíčilovanie.
+
+2
+00:00:04,993 --> 00:00:09,322
+Veda nás obkopuje na každém kroku.
+
+3
+00:00:09,362 --> 00:00:14,003
+Vytajte priveda torskom potkasti, v
+
+4
+00:00:14,043 --> 00:00:17,747
+ktorom sa bude môjero spravť.
+
+5
+00:00:17,787 --> 00:00:22,000
+A prirodě oklomás mojmeno józov.
+
+6
+00:00:26,100 --> 00:00:31,094
+Samko neskanej ni moc
+čilersky děň povento takto,
+
+7
+00:00:31,134 --> 00:00:36,373
+uprimne, ale bude môžeme
+rozprávať o niečom čo mu zme
+
+8
+00:00:36,413 --> 00:00:38,460
+už venovali doščasu.
+
+9
+00:00:38,500 --> 00:00:43,460
+A bude môžeme rozprávať o
+novom riešení fermiho paradoksu.
+
+10
+00:00:43,500 --> 00:00:48,776
+Tak. Taká to mi
+
+11
+00:00:48,816 --> 00:00:52,278
+ozemskotémá tak si zaspomeľi nám na tu
+sériu, o hladení mi ozemsko životá až disom
+
+12
+00:00:52,318 --> 00:00:53,880
+zňou tak spetné spokojný, že...
+
+13
+00:00:54,520 --> 00:00:55,800
+Ži to sami páčilo?
+
+14
+00:00:56,200 --> 00:00:58,960
+Ďan, no to naozaj krásno to bylo.
+
+15
+00:00:59,000 --> 00:01:03,480
+A do teraz dostávamej inak náního,
+a i pochvali říte by chodí, ale...
+
+16
+00:01:12,000 --> 00:01:15,460
+Zaniedbali, ktorú realne sme
+mali o velkých vecach a veďkyňach.
+
+17
+00:01:15,500 --> 00:01:20,884
+Môchli by sme spravit, v
+najbližšej dobe, nejakú veďkyňu, ja by som
+
+18
+00:01:20,924 --> 00:01:22,460
+bol radke, byže znova podporíme.
+
+19
+00:01:22,500 --> 00:01:25,460
+Dobrý napat. Tak vrádme sa k tomu.
+
+20
+00:01:25,500 --> 00:01:28,460
+Samko vysvetli na
+mriglossi čo je fermiopáradoksi.
+
+21
+00:01:28,500 --> 00:01:29,300
+Uč
+
+22
+00:01:35,500 --> 00:01:40,042
+Podívejne je nad tým, že evidentň nebo ve
+smire može existovat život a zarovenie ve
+
+23
+00:01:40,082 --> 00:01:44,623
+smir veľmi velký, tak je pre nás
+prehvapíve, že sme ešte neoběvili žeden mimozem ský
+
+24
+00:01:44,663 --> 00:01:49,702
+život. To je úplnoj krásne si to
+povedal jednoducho a teraz vlastem
+
+25
+00:01:49,742 --> 00:01:54,769
+uzmešao tom rozpravoly čo je
+firmy o páradok, že to može byť velký
+
+26
+00:01:59,000 --> 00:02:02,726
+Páčí tu jednastých k rásnych temel, bo
+to prchad za stej físíky a stej vedy do
+
+27
+00:02:02,766 --> 00:02:05,500
+filozofický debati aj, že
+per niekto v nich tých temach.
+
+28
+00:02:06,500 --> 00:02:11,080
+A pobecť nám, že vyšel
+nový článok, ktorý ponuka nám
+
+29
+00:02:11,120 --> 00:02:15,855
+odpovedť na tento
+fermiopára doksť, alebo je to nejaké
+
+30
+00:02:15,895 --> 00:02:18,500
+modifikacia, alebo čo sa tam jedno.
+
+31
+00:02:22,500 --> 00:02:27,846
+Ďem nekdo poveži, takto to už bolo dobre
+pre myslone, ale minimálne, že prvíkrat
+
+32
+00:02:27,886 --> 00:02:33,004
+priniesli takutou odpojeť
+fermio-paradoxu, tým žeho porložili nekimi vypočtami
+
+33
+00:02:33,044 --> 00:02:37,575
+analizami, rovnícami, nebude je do preru
+prezeráze, že to je najprzyk tomu, robime
+
+34
+00:02:37,615 --> 00:02:40,385
+neký taký základ, ale teda, že to, čo
+
+35
+00:02:46,000 --> 00:02:49,664
+Ďčiú všetky, že miho paradoksú, ktoré je
+podľa mňa zajmáve samé osebe odľiadnú od
+
+36
+00:02:49,704 --> 00:02:53,460
+otasky hladaniem mihozemských ciglyzáci.
+
+37
+00:02:53,500 --> 00:02:58,960
+Dobre, tak záčujeme, co si
+mítím, co siho pripravdu, mňa byte
+
+38
+00:02:59,000 --> 00:03:00,460
+kato to zvička nechrývne.
+
+39
+00:03:00,500 --> 00:03:02,808
+Nie napadla, ale aký je rozzio
+
+40
+00:03:09,500 --> 00:03:14,960
+sú časti vedecké obce, ktoré sa
+záľberajú komplexnými systémami.
+
+41
+00:03:15,000 --> 00:03:20,394
+A mecy komplexné systémi napríklad patre
+ludské osidlenie, kde máž veľa obyvatilo,
+
+42
+00:03:20,434 --> 00:03:25,806
+ktorý sprú interagujú roznými spôsobmi,
+posuvajú si informácie pracujú z energíami
+
+43
+00:03:25,846 --> 00:03:27,960
+vznikého rozneformy kooperácie.
+
+44
+00:03:28,000 --> 00:03:33,417
+No ludi, Kieť sa
+
+45
+00:03:33,457 --> 00:03:36,460
+tý dany systém zvečí a ko
+sa zménieho vlastnosti.
+
+46
+00:03:36,500 --> 00:03:41,886
+Kieť máš dějenu sped sto
+obivatialmi a postupne na rasti je na
+
+47
+00:03:41,926 --> 00:03:46,460
+mesto spedíšit sto
+obivatialmi, čiže 10 kraca zvečí.
+
+48
+00:03:46,500 --> 00:03:51,865
+Tak čo sa stanie z
+jednotlivými parametrami daného osidlia,
+
+49
+00:03:51,905 --> 00:03:54,500
+že čo sa stanie z držko úciest.
+
+50
+00:03:56,500 --> 00:03:59,771
+Najvne by si čakal, že to bude, že bude
+10 na sobnia viac ciesť, 10 na sobnia viac
+
+51
+00:03:59,811 --> 00:04:04,395
+obchodou, 10 na sobnia veči energetická
+spotreba, a pravde takáže nie, že sú vecí,
+
+52
+00:04:04,435 --> 00:04:08,960
+ktoré rastú rýchlejšie a sú
+vecí, ktoré rastú pomalšie.
+
+53
+00:04:09,000 --> 00:04:13,538
+Čiže napríklad za robok, ktorý
+vyprodukuje, alebo nejaká ek
+
+54
+00:04:20,000 --> 00:04:23,775
+To musou vrý, že superliny arne
+škalovanie, že to výac ako byslen očakával na
+
+55
+00:04:23,815 --> 00:04:28,960
+zakladie velkosti. A takýchto prikalo je
+velaž, napríklad stupne kriminalitach.
+
+56
+00:04:29,000 --> 00:04:33,706
+Máš 10 krad večšie mesto, oporotyte je
+jedinie, ale maš tam výac ako 10 krad
+
+57
+00:04:33,746 --> 00:04:36,460
+zločinu. Čiže napríklad že 40 krad.
+
+58
+00:04:36,500 --> 00:04:37,300
+Vý
+
+59
+00:04:43,500 --> 00:04:45,960
+a máš to za husteniešie, máš viacé
+interakci, takže sa tím možu viacéší ich choroby.
+
+60
+00:04:46,000 --> 00:04:50,960
+A no a možno to mesto aj priťahu je
+niekto reťa elementy napríklad tu kriminálitu.
+
+61
+00:04:51,000 --> 00:04:52,596
+Tak, tak, tak, presne.
+
+62
+00:04:52,636 --> 00:04:56,960
+Na druhu stranu sú
+aspekti, ktoré rastu pomalšie.
+
+63
+00:04:57,000 --> 00:05:00,077
+Napríklad, počet, pům, alebo dalška natě
+
+64
+00:05:07,000 --> 00:05:10,048
+a tož káci je ste celkova. Niekto reweci
+to tiť vyžroby je efektivnejšie, a tým
+
+65
+00:05:10,088 --> 00:05:12,000
+padou je nie potrebuje
+što koho na sobne zvečiť.
+
+66
+00:05:13,000 --> 00:05:16,460
+Napríklad staveš viac podlažné domí.
+
+67
+00:05:16,500 --> 00:05:21,879
+Ano, ano, ano, ano, presne. Takže nikto
+nepostavi, dějínu v oforméť na opanelaku pre
+
+68
+00:05:21,919 --> 00:05:22,577
+500 ľudí,
+
+69
+00:05:30,500 --> 00:05:32,600
+Poľskej, ale vody niej,
+ktorúže je celá dědiná žije.
+
+70
+00:05:32,640 --> 00:05:35,000
+A existuje vlastne taká dědiná nály aške.
+
+71
+00:05:35,040 --> 00:05:36,840
+Oni som požadal na YouTube video.
+
+72
+00:05:36,880 --> 00:05:38,340
+Je jeden panelak.
+
+73
+00:05:38,380 --> 00:05:41,040
+A lý aškej máte tam starostu.
+
+74
+00:05:41,080 --> 00:05:43,520
+Štětko je jednom panelaku proste.
+
+75
+00:05:43,560 --> 00:05:44,840
+Ať policívo tak...
+
+76
+00:05:45,640 --> 00:05:46,840
+Dobrým osprávastom.
+
+77
+00:05:46,880 --> 00:05:47,680
+To je to
+
+78
+00:05:54,000 --> 00:05:56,560
+Čím se zabero ľudia, že ako sa
+škálujú veci, či sa škálujú.
+
+79
+00:05:56,600 --> 00:05:59,060
+Super linaárne, alebo sub linaárne.
+
+80
+00:05:59,100 --> 00:06:00,600
+Čiže pomalši alebo rýchliši.
+
+81
+00:06:01,400 --> 00:06:03,340
+No a toto sa pokusili 5.
+
+82
+00:06:03,380 --> 00:06:08,290
+veci, ale teraz konkrétne 2
+z nich Michael Wong a Stuart
+
+83
+00:06:08,330 --> 00:06:13,526
+Barlett. Apliková na čo
+nevedši možni systém a idealne čo
+
+84
+00:06:13,566 --> 00:06:18,923
+najvšie a vychadzali z výskomu, ktorý
+
+85
+00:06:18,963 --> 00:06:23,460
+se zauberal mestami. A
+povedali, že mňa mestami a napríklad
+
+86
+00:06:23,500 --> 00:06:26,960
+organizmami maštiežň ako podobnost.
+
+87
+00:06:27,000 --> 00:06:31,973
+Ži organizmi se skladou zbuniek a teraz
+keď spojšviace bunek do kopitak niekto
+
+88
+00:06:32,013 --> 00:06:37,470
+rýchlastnosti. Ako napríklad rýchlo z
+metabolizmu a podobne sú iné ako pri
+
+89
+00:06:37,510 --> 00:06:42,793
+listáve Takže znova, maž
+malé děliki, ktoré keď
+
+90
+00:06:42,833 --> 00:06:46,500
+pospaž do kopi tak sa vniečom spáralau
+inak, len ako jednoduchy súčet dělou.
+
+91
+00:06:48,500 --> 00:06:53,511
+Človiegie viacil než kopa bunej,
+klobo tie bunki spolu interagujú sú
+
+92
+00:06:53,551 --> 00:06:55,500
+efektívnejšie a tak dalej.
+
+93
+00:06:56,500 --> 00:07:01,269
+Pôdobne sa spravujú mesta, že
+máš tam dela obyvatilou a do kop
+
+94
+00:07:04,500 --> 00:07:06,960
+10 000 ludi, albu 5000 ludi.
+
+95
+00:07:07,000 --> 00:07:11,025
+A tak vlastne ovrý, že tak je co je zobrš
+celú civilizáciu, ktorá nekde, že je tak
+
+96
+00:07:11,065 --> 00:07:12,960
+moža plikova toto isterozmišlenie.
+
+97
+00:07:13,000 --> 00:07:18,051
+že nieto len súčást,
+nieto len súčetie notlívých
+
+98
+00:07:18,091 --> 00:07:22,873
+ludi, ktorí žinete, planete
+ale že vytvártodokopin nejaký
+
+99
+00:07:22,913 --> 00:07:28,183
+kompleksny systém, ktorého vlast No a
+
+100
+00:07:28,223 --> 00:07:32,949
+oni nie chceli rozmišlo v nejakých
+konkrétnych pripadoch, takže sa vrátili v
+
+101
+00:07:32,989 --> 00:07:37,790
+podstatiek samotné definici života, že
+životi niečo čo operuje z informáciu a
+
+102
+00:07:37,830 --> 00:07:43,235
+zenergiou. Takže rozmišlo li o tom,
+že ako sa práca zenergiou a informáciu
+
+103
+00:07:43,275 --> 00:07:48,665
+mení pri válkozji systému stoním
+pracuješa, ako pracuje z informáciu
+
+104
+00:07:48,705 --> 00:07:53,971
+energiou bunka, jedinci, A pokusili se
+
+105
+00:07:54,011 --> 00:07:59,285
+odhali dňaké v stěji. Tež napríklad
+pysali, že je výskum, ktorí ukazaľ, že tok
+
+106
+00:07:59,325 --> 00:08:02,680
+informáci v meste je
+rýchlojšie ako tok informáci v dědním.
+
+107
+00:08:03,240 --> 00:08:07,920
+že čo by možno je povedalo,
+že také staré Slovomské dědním
+
+108
+00:08:08,520 --> 00:08:10,212
+taký babkúski internet
+
+109
+00:08:15,000 --> 00:08:19,255
+Ďakáč že neve napadi inovácie, že
+rýchloži sa širia mesť tam, je do tam príniesia,
+
+110
+00:08:19,295 --> 00:08:23,260
+rozluženie sa to rýchložiť, mezi
+100 000 ľudí napríkladá podobne.
+
+111
+00:08:23,300 --> 00:08:27,847
+Jasne. A v stochto čo
+tušíme o tom ako dopadne na
+
+112
+00:08:27,887 --> 00:08:32,900
+šacivilizacie, že budeme
+sa nie zvečovať, tým zbôsob
+
+113
+00:08:38,500 --> 00:08:41,920
+ale skoraj budeme na jednom svetie, ktorý
+budeme výace, a výace obývane, a výace,
+
+114
+00:08:41,960 --> 00:08:44,160
+toto mesta.
+
+115
+00:08:44,200 --> 00:08:48,384
+Tak oni poprobej, povedali, že my sme sa
+už dostal to štady, že informácia v našom
+
+116
+00:08:48,424 --> 00:08:53,540
+svetie zohrava úplne rozhodou cúloho, že
+teraz z násupom internetalo v posate odkdy
+
+117
+00:08:53,580 --> 00:08:55,400
+sa objevila reč a kníhy,
+
+118
+00:09:02,000 --> 00:09:06,765
+a je preto také pekne
+slovou ako maš biom, pre súhrn
+
+119
+00:09:06,805 --> 00:09:11,918
+všetkoho života, tak datáom,
+akože súhrn všetké informácie a je
+
+120
+00:09:11,958 --> 00:09:14,460
+spracovania ktorí prebieha na zemi.
+
+121
+00:09:14,500 --> 00:09:19,275
+On vlastne horo, že ta biologická
+motastou informášto na našie plalneťu, že ako
+
+122
+00:09:19,315 --> 00:09:23,423
+kebyž spolu na živa a maju
+taku pozitivny feedback-ug mezi
+
+123
+00:09:25,500 --> 00:09:29,771
+že ke na preduje jedno, na preduje naša
+schopnou zrobiť z informácí a my tak sa aj
+
+124
+00:09:29,811 --> 00:09:31,960
+nám viac jej daria koživočišne mu druhu.
+
+125
+00:09:32,000 --> 00:09:37,172
+Aksitelnie pokazujeme čo
+skoro, a vlastne možnost, a
+
+126
+00:09:37,212 --> 00:09:39,960
+kový iračka, nepokáste si to.
+
+127
+00:09:40,000 --> 00:09:45,300
+No a vlastne toto pokazenie je
+hlavný analitický prvých članku, že oni
+
+128
+00:09:45,340 --> 00:09:50,367
+použivaj Všuživajú rovnicu
+
+129
+00:09:50,407 --> 00:09:55,557
+odvodenu v nekompréhošnom článku od
+Betenku ta, ktorý vlastně odvodil
+
+130
+00:09:55,597 --> 00:09:58,500
+rovnicu pre vstjách velkosti populaci.
+
+131
+00:10:00,000 --> 00:10:04,460
+Závyslosti o ty škalovacých
+parametrov, ktoré sme spomínali.
+
+132
+00:10:04,500 --> 00:10:06,496
+Žekeď systém zvečiš 10.
+
+133
+00:10:06,536 --> 00:10:09,000
+ako seho vlastnosti zménie.
+
+134
+00:10:12,500 --> 00:10:17,560
+A vykoumalí, že za velmi všich podmienok,
+
+135
+00:10:17,600 --> 00:10:22,893
+posláte dobre z nama
+informácia, že spieje každá
+
+136
+00:10:22,933 --> 00:10:24,760
+civilizácia k tz.
+
+137
+00:10:24,800 --> 00:10:29,909
+singularitie, respektive
+kríze, tý vlastne stau,
+
+138
+00:10:29,949 --> 00:10:35,400
+kedy záčne si vyžadováť
+nekoniečne zdroje energie.
+
+139
+00:10:36,000 --> 00:10:39,880
+energie. Láho prosi začne rástak prútko,
+že nedokáže už vydzve vlastne potrebí.
+
+140
+00:10:42,680 --> 00:10:45,960
+Čo je mnečo čo zmôž videli
+nekogú krad vistoť, že sa objavilo?
+
+141
+00:10:46,520 --> 00:10:48,371
+Respektiveže hrozilo.
+
+142
+00:10:48,411 --> 00:10:53,747
+A pred tým, aby prišla to zlasi
+gularite respektive krizatia možu
+
+143
+00:10:53,787 --> 00:10:55,380
+odvratit inovácie.
+
+144
+00:10:59,500 --> 00:11:03,528
+Na to, žeho populáci rastla tak, kdy hože
+sa očakávalo, že nastanie celo světových
+
+145
+00:11:03,568 --> 00:11:08,406
+ládomor. Ale podajdelo sa obnavidě noi
+objevidě nojíva, ktoré ten to problém
+
+146
+00:11:08,446 --> 00:11:13,000
+odvrátili. Abo teda umelo tým pan,
+ktorý to objevionie dostalajno belovycenou.
+
+147
+00:11:14,000 --> 00:11:16,846
+Dostalčně dostal neviem. Dostal dost
+
+148
+00:11:23,000 --> 00:11:28,269
+ale to je pomimo, to si možeme, také dí
+povedin, a nejpáme tam si prestne, ale viem,
+
+149
+00:11:28,309 --> 00:11:30,460
+že dostal, za to to mám bylo hoťca.
+
+150
+00:11:30,500 --> 00:11:35,753
+Takže lucelo mohlo dopadnú
+na to, že býzme nespravili
+
+151
+00:11:35,793 --> 00:11:40,686
+inovaciu v
+poľnohospodarskom sektore, a by mohlo
+
+152
+00:11:40,726 --> 00:11:45,137
+nastáč hoz na co môžete
+a mohlo by sa zvluteci
+
+153
+00:11:45,177 --> 00:11:46,460
+civilizacie.
+
+154
+00:11:46,500 --> 00:11:50,873
+a oni v postate preto vykresili nejaké
+grafik, ktoré vyzdrajo, takže máš veľko z
+
+155
+00:11:50,913 --> 00:11:56,160
+civilizací, ktorá prútko rasti s časom,
+a potom tam nastanie ten zlom, nejaká ta
+
+156
+00:11:56,200 --> 00:12:00,571
+inovácia, ktorá tia vyvedi stej krízovej
+
+157
+00:12:00,611 --> 00:12:02,000
+trajektory.
+
+158
+00:12:03,000 --> 00:12:05,800
+Problujeme, že kieci
+zvikneš na túnovu inováciu, tak z
+
+159
+00:12:10,000 --> 00:12:11,123
+a nový nováciu.
+
+160
+00:12:11,163 --> 00:12:15,679
+A je hlavný zajmalo, že čo sa
+děje z týmto časom meditým, ako
+
+161
+00:12:15,719 --> 00:12:19,460
+potrebuješ odvrátit
+djalšiu blyžetu sa krízu.
+
+162
+00:12:19,500 --> 00:12:24,569
+A znova ukazali, že sto
+škálovania, veľkých kompleksných
+
+163
+00:12:24,609 --> 00:12:29,500
+systémov, za pomehrně
+všubesných predpokladov platí,
+
+164
+00:12:33,500 --> 00:12:36,000
+a komušiš obýovadnové
+inováci, ktoré ti kupujú čas.
+
+165
+00:12:38,000 --> 00:12:41,960
+A to znamená, že ti inováci
+musí obýt častíšie, potom...
+
+166
+00:12:42,000 --> 00:12:44,960
+No, že nojvan......toť k
+tým inovaciem častíšie.
+
+167
+00:12:45,000 --> 00:12:49,960
+Tak presne, že najmedom,
+že nojvanám kupili 50 d.
+
+168
+00:12:50,000 --> 00:12:53,615
+A potom prýdje problém,
+že potrebujem zasem a m
+
+169
+00:12:58,500 --> 00:13:01,460
+Z razu o 30 rogu, musíž niečo riešiť.
+
+170
+00:13:01,500 --> 00:13:04,460
+Máme špinou vôdusty hnojum, ktorý.
+
+171
+00:13:04,500 --> 00:13:09,764
+Napríklad, a že postupne sa
+skracujú vzdialnost mezi, tím, kedy musíš
+
+172
+00:13:09,804 --> 00:13:13,460
+piliensiť inováci, aby si odvratil k rizu.
+
+173
+00:13:13,500 --> 00:13:14,300
+Až
+
+174
+00:13:20,500 --> 00:13:23,960
+V spieš, ktorý je to, že tomu
+provo umú se nebyž vejť výhnu.
+
+175
+00:13:24,000 --> 00:13:28,531
+Když je to, že každý rok potrebujem
+vlklapují nováciu, takto je na ducho nemusi
+
+176
+00:13:28,571 --> 00:13:33,512
+stíhať, a vlastne zrazunie či
+nepredvídateľné, čo ti spomali
+
+177
+00:13:33,552 --> 00:13:34,960
+progrezí nováci.
+
+178
+00:13:35,000 --> 00:13:38,308
+Napríklad prije celo
+svete vapandémia, spom
+
+179
+00:13:44,500 --> 00:13:49,864
+A skutočnosti, že u nas auš také to
+veci ukazvaliž, na priklad, že nicili sme
+
+180
+00:13:49,904 --> 00:13:54,253
+si ozonovú, ozonovú vrstvo, a zara zami
+zisili, že aha máme problem, musíme stým
+
+181
+00:13:54,293 --> 00:13:56,460
+preste, trošku sme sa od toho odvrátili.
+
+182
+00:13:56,500 --> 00:14:00,423
+Zisili sme, že sme na
+trektori, ktorá viediek vážne
+
+183
+00:14:07,500 --> 00:14:11,239
+Těž sa povedal, že tak nemožeme takto
+pokračať večně lebo, kdy budí je mať milion i
+
+184
+00:14:11,279 --> 00:14:15,000
+a drových lávíc takto sa zničíme a dača
+tak a deskalacia počas studie nejvojni.
+
+185
+00:14:16,000 --> 00:14:18,000
+Kiesmezi stili donedám.
+
+186
+00:14:19,000 --> 00:14:24,172
+Kiesmezi stili, že oce anoglovíme
+tálkori, že ich čo skoro vilovíme
+
+187
+00:14:24,212 --> 00:14:25,538
+celé tak tiež sme
+
+188
+00:14:31,000 --> 00:14:35,460
+Vyčši také kratko doby uvedomenia, že v
+nečom robime chybu musíme sa napravit.
+
+189
+00:14:35,500 --> 00:14:38,556
+Na staré v recu novodá plota.
+
+190
+00:14:38,596 --> 00:14:43,788
+Jo. A autoritera članku
+povedali, že Ak nie príde k
+
+191
+00:14:43,828 --> 00:14:48,736
+dostatočnem uvedomeniu,
+tak skorči neskorna sto
+
+192
+00:14:48,776 --> 00:14:49,500
+zomeľi.
+
+193
+00:14:54,500 --> 00:14:57,960
+ktoré odistomaľom tu proste
+prirovne záklina z možno nemusia pustiť.
+
+194
+00:14:58,000 --> 00:15:03,210
+Vyčerpáme všetky dostupné možnosti,
+rastieme stále a vtedy žeda odjenutný
+
+195
+00:15:03,250 --> 00:15:06,684
+kúkolapsu. Ovdé, že
+stochto možu by dve vynimky.
+
+196
+00:15:06,724 --> 00:15:11,944
+Poprová, veľmi nepraud je podobna
+možnost, že nájdeme schopnost ako
+
+197
+00:15:11,984 --> 00:15:12,923
+energetick
+
+198
+00:15:18,000 --> 00:15:23,215
+ale být napríklad populácia 3 kategorie,
+ktorá vyvživa energiú celou vesmiru, ale
+
+199
+00:15:23,255 --> 00:15:26,460
+toto vyzerabit extrémně,
+ktorá dojby bolo galaxin.
+
+200
+00:15:26,500 --> 00:15:28,460
+A na nám, a toto to zelo.
+
+201
+00:15:28,500 --> 00:15:33,460
+No toto to zelo. Sąka svojho a 3
+galaxie, a potom štore tábola, že celou
+
+202
+00:15:33,500 --> 00:15:36,038
+govéču vesmé. Tak to vyzerá, že to
+
+203
+00:15:41,500 --> 00:15:45,120
+Majde lubovolne velkou populáciu, ale
+vidie knéj veľmi nepradě porobná cesta.
+
+204
+00:15:45,160 --> 00:15:48,320
+Dúkázej taký, že ještí sa to
+evidentňa vôvysměry nepodávby rilo.
+
+205
+00:15:48,360 --> 00:15:49,960
+Minimálne čateká toh, nebo potry.
+
+206
+00:15:50,000 --> 00:15:54,800
+A môde vlebu keby. Niekvomu sa to
+podarí tak asi vidíme, že niktor bery ener
+
+207
+00:16:05,000 --> 00:16:10,110
+a ako civilizacia nastanie kolaps a
+vrátíme sa o tisíce ať, alebo možno
+
+208
+00:16:10,150 --> 00:16:14,994
+dokonce 10 000 roko do zadu, to
+neznamená, že vyhynie život, možnoľin
+
+209
+00:16:15,034 --> 00:16:20,055
+lúdskej životy akože kompletne, že
+by lúdstvo vyhynulo, ale že nejaký
+
+210
+00:16:20,095 --> 00:16:24,761
+život, by na planetie ostal a
+povstal znova pripadne by sa lúdska
+
+211
+00:16:24,801 --> 00:16:30,023
+populacia zúžila nejak Zostanie
+par jedin, co oni u robia na volu
+
+212
+00:16:30,063 --> 00:16:31,160
+civilizaciu, to sa nám nepáčí.
+
+213
+00:16:31,200 --> 00:16:36,515
+Že to je ako tam pripisovaný výrok a niž
+na ino než neviem, ako sa bude v bojova 30.
+
+214
+00:16:36,555 --> 00:16:39,360
+vojnali 4. tovojna sa bude bojovať kýakmi.
+
+215
+00:16:39,400 --> 00:16:41,160
+Jo, presne.
+
+216
+00:16:41,200 --> 00:16:45,431
+Tam možno skolapsu sa mimo
+zne páčí, povcem od rúhoj mo
+
+217
+00:16:52,000 --> 00:16:53,860
+bude niemožné alebo velmi
+na ročne a neprodje probne.
+
+218
+00:16:53,900 --> 00:16:58,460
+Takže to sa nám těženie páči
+spolehacená takúto možnost, a tretie možnost.
+
+219
+00:16:58,500 --> 00:17:03,720
+Ako sa vyhnúť tak zvanomu tomu Burnout
+a koto oni nazvaliť, že civilizatčnemu
+
+220
+00:17:03,760 --> 00:17:08,885
+vyhoreňiu je niečo čo sa vôla, že
+preorientovať sa na stałho môl st
+
+221
+00:17:16,800 --> 00:17:21,760
+Musíme nečo zménit,
+musíme prestať rázdťalej.
+
+222
+00:17:21,800 --> 00:17:25,560
+Vydome prosti zastavíš rastpopulácie.
+
+223
+00:17:25,600 --> 00:17:29,360
+Lebo výšte skočne
+skočne, to prostie dobehnie.
+
+224
+00:17:29,400 --> 00:17:33,560
+A povejšte, že ok, som
+spokojný tak ako som.
+
+225
+00:17:33,600 --> 00:17:35,985
+Nájde mi si nejakú takýte nakvá
+
+226
+00:17:39,000 --> 00:17:44,020
+vôde, že vyčilovaný stau, kedy
+prestániež ráš a výazmenie, že si v rovnováhy.
+
+227
+00:17:44,060 --> 00:17:47,020
+Taký údržil v odsý stau takú stabilitou.
+
+228
+00:17:47,060 --> 00:17:51,440
+A no. Oviní to teda
+nazvali, že homeo statická
+
+229
+00:17:51,480 --> 00:17:55,860
+reorientácia akože z nieto trošku zložíto.
+
+230
+00:17:55,900 --> 00:18:00,131
+A myslí sa tým, že prostě
+nahradíť tu neustalu expanzíu
+
+231
+00:18:03,680 --> 00:18:07,452
+A to sú tie veci, ktoré se nám zateľ
+podarali čiastočne, že kezme si povedali, že
+
+232
+00:18:07,492 --> 00:18:11,746
+nebude mi vypušťa, nebude mi si nicuť od
+zonovu díru, lebo zme uvideli, že to vedie
+
+233
+00:18:11,786 --> 00:18:14,320
+k nejaké mu problému a
+odklonializm sa od neho.
+
+234
+00:18:14,360 --> 00:18:15,160
+Videli sme
+
+235
+00:18:26,000 --> 00:18:31,060
+všetky doslatočne vyspalecivilizacje
+si vyberali jednúz dvoho možnosti.
+
+236
+00:18:31,100 --> 00:18:36,139
+Budce neodklonili a skočne skoro došli
+k tomu kolapsu, alebo sa odklonili a
+
+237
+00:18:36,179 --> 00:18:41,512
+existuje v nejakom vodzokách
+vegetativnom stave, že nie expandili do vesmilu,
+
+238
+00:18:41,552 --> 00:18:45,500
+nevisela ju si gnali kade
+tady, ale sú jednoduku spokojne
+
+239
+00:18:49,500 --> 00:18:51,460
+ale sú ty dať ať ať k
+kontaktovateľni a preto ich nevidíme.
+
+240
+00:18:51,500 --> 00:18:53,860
+A asi ani nechciu byť kontaktovateľmi?
+
+241
+00:18:53,900 --> 00:18:55,360
+Posláte a no, a no.
+
+242
+00:18:55,400 --> 00:19:00,460
+Čiže vlastne akože
+prehodno tění nejakých priory.
+
+243
+00:19:00,500 --> 00:19:05,817
+A tam je ještě stov
+vlastne z tím pre budením, bo to
+
+244
+00:19:05,857 --> 00:19:07,960
+je na takéj troj osi spravene.
+
+245
+00:19:08,000 --> 00:19:09,308
+A tak tam je ješt
+
+246
+00:19:13,000 --> 00:19:14,980
+Nikoniečna expanzia do dálších dimenzí.
+
+247
+00:19:15,740 --> 00:19:19,460
+To byla výchad ze s toho homeo patické.
+
+248
+00:19:19,500 --> 00:19:22,460
+Homeo statické.
+
+249
+00:19:22,500 --> 00:19:24,460
+Homeo patické.
+
+250
+00:19:24,500 --> 00:19:29,915
+Homeo statické reo orientacie,
+že sici veľzáce pověže možno
+
+251
+00:19:29,955 --> 00:19:34,642
+nevideme expandovat toto, ale
+pojďame do dôtej dimenzí a tam sa
+
+252
+00:19:34,682 --> 00:19:37,051
+posunieme. Ono sa tým ale mi se Pošanieme.
+
+253
+00:19:37,091 --> 00:19:41,448
+Ono sa tým ale myslí nie, že pre storevedi
+menzi ale napríklad žeden rozmerie, že sa
+
+254
+00:19:41,488 --> 00:19:43,220
+vyvijame v biologickom smereže.
+
+255
+00:19:43,260 --> 00:19:48,601
+Naraz ta komplexnost biologických
+systémôže je rozděl mezi a nekým jednobunkou coo a
+
+256
+00:19:48,641 --> 00:19:53,500
+nami. Nektorí lude sa tvárieže
+opřaznie ale vôvšu besnosti je.
+
+257
+00:19:53,540 --> 00:19:54,617
+A potom je roz
+
+258
+00:20:00,000 --> 00:20:04,493
+Vysformací mi pracovali velmi nesikovne
+a v týrásme sa v tomholo, že brutalne
+
+259
+00:20:04,533 --> 00:20:08,613
+zlepšili. A možno sú dálšie smerí akými
+celizací doka, že raz, ktoré si zateľa,
+
+260
+00:20:08,653 --> 00:20:10,060
+nevieme ještě predstavit.
+
+261
+00:20:10,100 --> 00:20:15,259
+A patrie do toho napríklad ať, že
+by sa pre neslo tak a civilizacia do
+
+262
+00:20:15,299 --> 00:20:17,946
+napríklad nejakého online sveta
+
+263
+00:20:24,600 --> 00:20:27,260
+V prínci pe sú aj takéto možnosti ano.
+
+264
+00:20:27,300 --> 00:20:32,027
+Oni dokonce aj v tom članku toto
+toto, ktoré je šie, že ako sa rozpráveľ
+
+265
+00:20:32,067 --> 00:20:37,240
+škalovanie tých systémou taká je
+hovoria o škalovanie, že vlastne ten biodom a
+
+266
+00:20:37,280 --> 00:20:42,208
+datáom, že oni rastu rozňa
+rýchlo a vlastne, že ako
+
+267
+00:20:47,000 --> 00:20:51,867
+takže v budučnosti vlastne možno nebudu
+rozhoduuce interakcie človek človek, ako je
+
+268
+00:20:51,907 --> 00:20:55,460
+to pozať ještě teraz, ale že bude
+človek stroj, alebo stroj stroj.
+
+269
+00:20:55,500 --> 00:20:57,332
+A to je to predda človeků.
+
+270
+00:20:57,372 --> 00:21:02,575
+Ale znaže prezáveri ich analizy by
+to nemlo by doložite, alebo oni se
+
+271
+00:21:02,615 --> 00:21:07,577
+snažili v veľmi všudecnih
+vlastnosti škalovania systémou výh
+
+272
+00:21:11,380 --> 00:21:16,340
+A teda navrú, že tie štiri podmienky
+vlastne nejaké formy udržatelnosti,
+
+273
+00:21:16,380 --> 00:21:20,560
+alebo také to ustávoho
+myostazi rauvnováhy.
+
+274
+00:21:20,600 --> 00:21:25,960
+Je teda, že máť nejaký udržatelný
+socioekonomický rozvoj, čiže musíž máť
+
+275
+00:21:26,000 --> 00:21:29,800
+spôčnostága by nie bolo odkaza na to, že
+
+276
+00:21:34,000 --> 00:21:37,460
+Čiže potrebujem šprýrodov,
+tohle kapitalstom je bydě pračvýť.
+
+277
+00:21:37,500 --> 00:21:42,960
+Zároveň zachovávanie nejaké
+formy kultury, hotež potrebujem v
+
+278
+00:21:43,000 --> 00:21:48,460
+tomto nejakú stalo,
+zároveň stalo zpravovanie veci,
+
+279
+00:21:48,500 --> 00:21:52,460
+čiže gór gavornence, aby to
+bolo udržateľné dlhodobo.
+
+280
+00:21:52,500 --> 00:21:57,848
+Čo superé popilo veci, k Možno
+
+281
+00:21:57,888 --> 00:22:01,960
+vlastne to, co si si máme teraz je
+to, co im vyšlo stajte točne dloho.
+
+282
+00:22:02,000 --> 00:22:07,163
+A no, a no, a no, a no, a no, a
+no, a no, a no, a no, a no, a no, a
+
+283
+00:22:07,203 --> 00:22:12,518
+no, a no, a no, a no, a no, a no, a
+no, a no, a no, a no, a no, a no,
+
+284
+00:22:12,558 --> 00:22:16,231
+a no, a no, a no, a no,
+a no, a no, a no, a no,
+
+285
+00:22:21,000 --> 00:22:24,100
+na transformuci budú potrojeť stale
+kračia kračičas na to abysnikali.
+
+286
+00:22:24,860 --> 00:22:30,300
+A potom hoci, aká hoci, aké
+zakopnutie a o meškanie može vieskú kolapsu.
+
+287
+00:22:30,860 --> 00:22:34,940
+Preto teď dovne tôrde, že
+skočne skotne kolapsu musí nastáť.
+
+288
+00:22:35,220 --> 00:22:40,098
+Sam zervyratili kdo može v
+pradře, že tak aj veľmi prútko rastie,
+
+289
+00:22:40,138 --> 00:22:45,433
+schopnost s nedojeci, ktoré sa
+
+290
+00:22:45,473 --> 00:22:49,000
+predtikaju velkost populácie a
+inovácie, ktoré stímulú ďoši inováci.
+
+291
+00:22:50,000 --> 00:22:55,000
+Ale otázke po to, že čo rasti ako
+rýchlo, z akými močným na mi sa to škáluje.
+
+292
+00:22:58,000 --> 00:23:03,118
+Žečí dokáže ta populácie
+predbehnuť, alebo ta inovácie tej
+
+293
+00:23:03,158 --> 00:23:06,000
+vývoľkóci, ten kolopsové okruhí.
+
+294
+00:23:08,500 --> 00:23:12,460
+A to mu to myslím, že kte to je
+prizaděby sme moly potom nalikovaj ten...
+
+295
+00:23:12,500 --> 00:23:16,793
+V podstatě odbordny čánok, ktorý o tom
+pojednava, on obsahu je zopára rovnice, ktorí
+
+296
+00:23:16,833 --> 00:23:20,460
+je chcane treba zlaknúť, po sa
+tějiš človek možajú poniekery.
+
+297
+00:23:20,500 --> 00:23:21,731
+Svráčujte to, že
+
+298
+00:23:32,000 --> 00:23:36,960
+To ako keď minie, k níhu s votkami,
+tak votky absolutne skoro ignorujam.
+
+299
+00:23:37,000 --> 00:23:41,960
+Až potou sa vráce, o keď si
+prečíte v celu kdy je hodatia votky.
+
+300
+00:23:42,000 --> 00:23:47,120
+Takže možno nové riešenie
+firmy o paradoxu, mimozem
+
+301
+00:23:47,160 --> 00:23:49,960
+štiania, mimozem s kecilizacie.
+
+302
+00:23:50,000 --> 00:23:55,184
+Vyromi zamiame veľ To
+
+303
+00:23:55,224 --> 00:24:00,660
+odzrkadlenie, čo sa dějí našie
+planete, že niekto rí ľudia sa
+
+304
+00:24:00,700 --> 00:24:04,460
+rozhodujenie, nie ma
+děti, že kulinia kemu...
+
+305
+00:24:04,500 --> 00:24:09,223
+Asi to nebra lina na
+tu teoriu, oglad na tu
+
+306
+00:24:09,263 --> 00:24:14,707
+homeostatícu
+reorientaciu, ale je to záváv, že
+
+307
+00:24:14,747 --> 00:24:20,202
+ako sa tém myšlenkovi pochodáš, že ten
+myšlenkovi pochodaj spájať na z tôv reali
+
+308
+00:24:20,242 --> 00:24:21,660
+to niekto rýchtych bôdoch. Jo.
+
+309
+00:24:21,700 --> 00:24:25,798
+To je jeden z dôdot, prčeba vlastne teto
+tema tak zavijala, ako že okram to, že som
+
+310
+00:24:25,838 --> 00:24:29,160
+v nadpise fermihopára doks, tak
+sa si pravž, to si musím prečiteť.
+
+311
+00:24:29,200 --> 00:24:31,360
+Tak samko má řešli nicu.
+
+312
+00:24:31,400 --> 00:24:32,862
+Že oni vlastne na z
+
+313
+00:24:42,000 --> 00:24:45,146
+Vlastne máne ako preditívnu schopnost, kyt
+začne mi byť schopni pozoradmi hozam skat
+
+314
+00:24:45,186 --> 00:24:49,446
+silízať. Tako nieho vrierže je možne,
+že množe silízať, ktoré uvidíme budú na
+
+315
+00:24:49,486 --> 00:24:54,889
+pokrají kolapsu. Ať sa
+nechajú nať prudky mrastom k tej
+
+316
+00:24:54,929 --> 00:24:56,460
+singularite.
+
+317
+00:24:56,500 --> 00:24:59,500
+Tak vtedy budú vodzoká žiady najasnešie.
+
+318
+00:25:05,500 --> 00:25:09,931
+Takže jak by sme uvidili práve, takéto
+divoké civilizácie a potom je zrazupiť
+
+319
+00:25:09,971 --> 00:25:14,471
+prestaneme vidieť tak výmé, že aha a si
+nejaké to veci sa tam uděli, že došlo k tomu
+
+320
+00:25:14,511 --> 00:25:19,040
+kolapsu. Takže toto by
+malo byť osinobelóka potom.
+
+321
+00:25:19,080 --> 00:25:20,960
+Tak by sa to potvrdí.
+
+322
+00:25:21,000 --> 00:25:25,769
+Nejame si najblviše ich na to
+potvrdilo ale ško reživne da vaj
+
+323
+00:25:29,000 --> 00:25:33,764
+Dobre, tak veľmi pekne vám všetkém,
+dě ako je mňa, že na spocúvať, že na
+
+324
+00:25:33,804 --> 00:25:39,013
+spotporujete, větě na spotporujete
+na patrónie, alebo cez našu stránku
+
+325
+00:25:39,053 --> 00:25:44,439
+veda Torbotka Space, kde sú
+superčovánky, samko skologami robi, samko robí
+
+326
+00:25:44,479 --> 00:25:49,421
+aj perfektné veda v storki na
+Instagramy a na dětě na Facebooku veda
+
+327
+00:25:49,461 --> 00:25:54,627
+Torpotrženíkezka Máte sa
+
+328
+00:25:54,667 --> 00:25:55,960
+vám mipieknem.
+
+329
+00:25:56,000 --> 00:26:00,830
+Máte sa a znova pripominame,
+že čo skoro bude nagravať veda
+
+330
+00:26:00,870 --> 00:26:06,140
+tořskopotkastu na živo a
+dupročka musím si pozradi harmonogram,
+
+331
+00:26:06,180 --> 00:26:11,385
+že si stíneme oznamiť vlastne, že
+kedy a kde, ale kde je takto si dost
+
+332
+00:26:16,500 --> 00:26:18,460
+Kteď se dozvujeme, tak to jsem do streň?
+
+333
+00:26:18,500 --> 00:26:20,460
+Dobre, dobra, kteď se
+dozvame, tak vám poviem.
+
+334
+00:26:20,500 --> 00:26:23,460
+Máte sa pekný, ať oši
+sme sa na vás na live.
+
+335
+00:26:23,500 --> 00:26:27,460
+Na gravaní. Tak, a ja pozdravujam seba
+do budučnosti, ktorý se mniečo streň.
+
+336
+00:26:27,500 --> 00:26:28,300
+Máte sa.
+
+337
+00:26:40,000 --> 00:26:42,000
+Ďakú, ktorý je to výsledník.
+
+338
+00:26:44,000 --> 00:26:46,000
+Ďakú, ktorý je to výsledník.
+
+339
+00:26:48,000 --> 00:26:49,960
+Ďakú, ktorý je to výsledník.
+
+340
+00:26:50,000 --> 00:26:51,615
+Ďakú, ktorý je to výs
+
+341
+00:27:04,100 --> 00:27:09,158
+bajte nbaj botka SK, a tam si to už
+odsledujete z tím, že prvebajte zmechím i a
+
+342
+00:27:09,198 --> 00:27:12,500
+druhé stvrdými, takže se nedá pomíliť.
+
+343
+00:27:27,000 --> 00:27:31,441
+Najditeho každý útor gvovšetkých
+podkastových aplikáciách, na YouTube či na stránke
+
+344
+00:27:31,481 --> 00:27:35,000
+zmejska.
+Stino-paholighamárovou a Lukášom on dercčanínom.
