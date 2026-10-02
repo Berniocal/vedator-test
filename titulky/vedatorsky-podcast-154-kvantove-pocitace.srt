@@ -1,0 +1,1847 @@
+﻿1
+00:00:00,000 --> 00:00:04,042
+Vydajte pri
+
+2
+00:00:04,082 --> 00:00:08,531
+veda toh skom
+
+3
+00:00:08,571 --> 00:00:11,797
+potkazte,
+
+4
+00:00:11,837 --> 00:00:17,103
+ktorom sa videm
+
+5
+00:00:17,143 --> 00:00:21,460
+rozpráť, a prirode okol nás.
+
+6
+00:00:21,500 --> 00:00:23,000
+Moje mene aj josef.
+
+7
+00:00:26,180 --> 00:00:27,980
+Samko asi...
+
+8
+00:00:28,020 --> 00:00:33,459
+Tento podkaz som podľa mňa
+nabrhováme ciprými podkazami a hovorím
+
+9
+00:00:33,499 --> 00:00:38,491
+možno oňom... No je neši fanšikou
+je bude vydit lepši ale ja sem i se
+
+10
+00:00:38,531 --> 00:00:43,842
+neskáždý druhý trétí podkaz
+hovorím, že o tomto by sme mali spravít
+
+11
+00:00:48,500 --> 00:00:52,885
+Ďčiš, že je to pro rozvazmená planěli
+okvántových počítačov sa končšem, bude mérou
+
+12
+00:00:52,925 --> 00:00:57,096
+spravať. Ja by som to násval intro do
+
+13
+00:00:57,136 --> 00:01:00,340
+kvantových počítačov.
+
+14
+00:01:00,380 --> 00:01:05,186
+A akože jeden z dôdo, prečo sme to
+to dôho odkladili, poprvže nie je to
+
+15
+00:01:05,226 --> 00:01:09,922
+jednoduchá tema, ale za
+arovanie ekstremne zajmáva, že tam veľ
+
+16
+00:01:12,500 --> 00:01:17,481
+Oto je, že od toho ako sa robí a kem aj v
+technické problémy, až po nejaké físikalne
+
+17
+00:01:17,521 --> 00:01:20,460
+princípí až po matematické obumé.
+
+18
+00:01:20,500 --> 00:01:22,460
+Naoze, že to šiela nevela.
+
+19
+00:01:22,500 --> 00:01:26,300
+A má som počičaký, kým človak
+dojde, kde je niečom mu zájemavé, můžete
+
+20
+00:01:36,600 --> 00:01:41,805
+alebo ako som povedal ako prvůvlastnosti,
+kvantují, počuže, že je to zložita fizika
+
+21
+00:01:41,845 --> 00:01:43,240
+v podstatie. Hej, presem.
+
+22
+00:01:43,280 --> 00:01:48,160
+Takže nebujte sa toho asi
+spravíme výjacej epizod pred poklodam.
+
+23
+00:01:48,200 --> 00:01:52,123
+Ale to mi občaslobím, a
+potom niež je spravíme roga
+
+24
+00:01:59,000 --> 00:02:02,355
+Nie da vám, že je aj do inčasový horizon,
+ale berť je toto ako uvod do kwantových
+
+25
+00:02:02,395 --> 00:02:06,388
+počítačom. Po ktorou na moší respetnú
+vesbú, ktorá napríklad može z niej tak, že
+
+26
+00:02:06,428 --> 00:02:10,646
+toto je všetko čo ste o nich celý a
+potrebovali vydíť a vlastne vždy vždyť nechce
+
+27
+00:02:10,686 --> 00:02:13,726
+tie, alebo že nejaká nejaký aspekt va zauj
+
+28
+00:02:22,500 --> 00:02:24,960
+ktoré fungu na kwantových
+počítačov, kvantové algoritmi.
+
+29
+00:02:25,000 --> 00:02:29,343
+Ale o nejťaž často sa
+pomárneť, časko sa ných
+
+30
+00:02:29,383 --> 00:02:34,783
+rozprážete, nejaký nakres, nejaká
+schémá, že čo sa vlastne udej zostupnými, tak
+
+31
+00:02:34,823 --> 00:02:39,723
+zvanými ki u bitmiť, ktoré si čo
+skorovy svetlíme, ale s nimi sa nečo stanie
+
+32
+00:02:46,500 --> 00:02:48,460
+Tak, tak, tak.
+
+33
+00:02:48,500 --> 00:02:53,406
+Ale pre mňaj naizamovajú,
+že to ako sú odlišné od
+
+34
+00:02:53,446 --> 00:02:55,460
+normálnych počitečov.
+
+35
+00:02:55,500 --> 00:02:57,410
+Takže by sme se môli začaty.
+
+36
+00:02:57,450 --> 00:02:58,960
+Normalými normalnými.
+
+37
+00:02:59,000 --> 00:03:02,960
+Normalý počeži takas randa, že každý na
+tom pracujá má věd z mojej pocídziesek.
+
+38
+00:03:03,000 --> 00:03:07,960
+Tý také oné do ktoré hoťukniem
+a niečo zobrazi na obrazouke.
+
+39
+00:03:08,000 --> 00:03:09,460
+Ale to čo počte čerobia.
+
+40
+00:03:09,500 --> 00:03:14,652
+To čo počteče robia na
+fundamentalne úrovne, že manipulujú zbitmi,
+
+41
+00:03:14,692 --> 00:03:19,560
+abytí sú jednotky anuli, čiže
+realizácié dvoch možných stavou.
+
+42
+00:03:19,600 --> 00:03:24,698
+Napríklad, že
+elektrické obot v těče prúda v
+
+43
+00:03:24,738 --> 00:03:25,840
+těče prúd.
+
+44
+00:03:25,880 --> 00:03:29,560
+Ano, v tôrnu těče je
+jednotka, v tôrnu těče jedno.
+
+45
+00:03:33,000 --> 00:03:36,460
+Ďastne meneľo, že čo to sú býti, že
+čo má prestava to nuloa jednotku.
+
+46
+00:03:36,500 --> 00:03:41,373
+V prínci 5. možem počítač na
+papiery zmysla, že na papier napišeš
+
+47
+00:03:41,413 --> 00:03:46,665
+jednotky a noľky, a potom pneľ
+kompovže, aby ste mi manipuloval, že keď
+
+48
+00:03:46,705 --> 00:03:48,460
+vidíš tu to vedla seba 2.
+
+49
+00:03:48,500 --> 00:03:50,799
+takto ho právnulku a tak dalej.
+
+50
+00:03:50,839 --> 00:03:51,962
+Takže klasick
+
+51
+00:03:56,500 --> 00:04:00,376
+počitačoch majú rozne realizacie a ako sa
+vyjali počitač tak sa meneho, že čo je to
+
+52
+00:04:00,416 --> 00:04:05,169
+vlastne být. O tom by
+som keď tak sprava sa
+
+53
+00:04:05,209 --> 00:04:07,960
+môstatnú epizodu, alebo...
+
+54
+00:04:08,000 --> 00:04:11,960
+Ale nemusím, že byto čo je máme
+kuklantovým počičom dostaným.
+
+55
+00:04:12,000 --> 00:04:16,692
+Ale tam sa tak je tie smiešne
+začetky, že keď sa počiť, že za
+
+56
+00:04:20,000 --> 00:04:24,077
+Je to, že bylo to také divoké
+obdobia, ale to, že býdje zaklad na jednotka
+
+57
+00:04:24,117 --> 00:04:26,460
+informacie, či niečo čo možeme dva staví.
+
+58
+00:04:26,500 --> 00:04:31,627
+A možno prekvapí výaspek, že na takmer
+
+59
+00:04:31,667 --> 00:04:36,127
+szedko čo bežne, záživo ta priž do
+
+60
+00:04:36,167 --> 00:04:41,019
+kontaktu, súbyti
+dostatočně zložitá vec na tabisto
+
+61
+00:04:41,059 --> 00:04:45,700
+dokazaľ obce, že pomoc obitou, Počečešať
+pomocov býtou, výjež napisajť počečový
+
+62
+00:04:45,740 --> 00:04:48,100
+program, ktorý opisuje
+predpovede počasia na príklad.
+
+63
+00:04:48,140 --> 00:04:53,447
+Alebo opisuje koduje video zozvůkom
+to reztivíš pozreť, či tak mačetko
+
+64
+00:04:53,487 --> 00:04:58,340
+čo výslovov nímáť, výzeraže
+výzedať dobro opisajť pomocov býtou.
+
+65
+00:04:58,380 --> 00:04:59,180
+A tepoč
+
+66
+00:05:07,000 --> 00:05:12,153
+a v podstatie uplnežená štíl, ako
+som povedal, že majú operácie do
+
+67
+00:05:12,193 --> 00:05:17,051
+tejto krabičky vojdu dve čísla
+a ako sa več čísla rovnaké tak
+
+68
+00:05:17,091 --> 00:05:21,500
+vypadne jedna a ako sa ve
+rôzne vypadne nula na prýklad.
+
+69
+00:05:30,500 --> 00:05:32,450
+Čisla pomocuje jednotiek a núl.
+
+70
+00:05:32,490 --> 00:05:37,348
+Čisla rozložiš v dvojkovej sústave,
+dvojko vlastiš toto, že obsovielen núl je
+
+71
+00:05:37,388 --> 00:05:42,486
+jednotky. A potom daž do kopi
+nejaký obvod, ktorý ti realizuje s
+
+72
+00:05:42,526 --> 00:05:43,960
+čítavanie čísil.
+
+73
+00:05:44,000 --> 00:05:49,400
+Prestne naštýl, že s čítam toto, a
+keď mám nejaký zvyšok, tak oposujem
+
+74
+00:05:49,440 --> 00:05:50,090
+d
+
+75
+00:05:54,000 --> 00:05:58,460
+kaľkúlačka vlastne len
+počíta čova kaľkúlačka tak.
+
+76
+00:05:58,500 --> 00:06:03,462
+A toto stači nao zajže na takmeršetko a
+
+77
+00:06:03,502 --> 00:06:08,869
+nebíť nejakých veci, ktoré sme objevili
+v milom 100 ročí, konkrétne kwantovej
+
+78
+00:06:08,909 --> 00:06:12,860
+fyziki, tak by na manie na parlo, že
+normálne počšače možu by nie dostatečne.
+
+79
+00:06:12,900 --> 00:06:18,249
+Ždibizm je mo ktoré sú večie,
+
+80
+00:06:18,289 --> 00:06:22,585
+ma je lepšu paméť a tak dalej,
+ale fizikalne stačia na to, čo
+
+81
+00:06:22,625 --> 00:06:23,960
+potrebujeme.
+
+82
+00:06:24,000 --> 00:06:27,960
+Potom sa lobe veľa kvantova
+fizika, ktorá svetko prekovala.
+
+83
+00:06:28,000 --> 00:06:32,989
+Ktoré všetko prekovala a
+obsahu je stavi častíc, ktoré nesu
+
+84
+00:06:33,029 --> 00:06:38,000
+konkrétne jednotky alebo
+nuli, ktoré sú nejakou ich tak z
+
+85
+00:06:41,000 --> 00:06:45,538
+Tak by si mal kvantový bit,
+tak zvaný kýubit, tak on by bol
+
+86
+00:06:45,578 --> 00:06:50,843
+kombinacio 200, kde ani jeden
+je je 100% nič, že si sa tpítal
+
+87
+00:06:50,883 --> 00:06:53,860
+daného kýubitu, že si jednotka.
+
+88
+00:06:53,900 --> 00:06:58,876
+Tego on byte napríklad na 80%
+povedal, že ano a na 20% byť je
+
+89
+00:06:58,916 --> 00:07:00,660
+povedal, že som nula.
+
+90
+00:07:00,700 --> 00:07:05,678
+Čo vizera napríť, až
+je Napriejteš, že to je
+
+91
+00:07:05,718 --> 00:07:11,176
+pokazený tý. Je stavíš sa v tomto vám,
+ktorý, ktorý spravných hápem, svéťal,
+
+92
+00:07:11,216 --> 00:07:13,960
+v tomto výzvíšeké meňé veľmi často.
+
+93
+00:07:14,000 --> 00:07:16,040
+Neňi stabilny ten stál.
+
+94
+00:07:16,080 --> 00:07:18,040
+A no. A...
+
+95
+00:07:18,080 --> 00:07:22,388
+To je to výzvrá, že mal
+býzmou vydne šťastný, ale vlastn
+
+96
+00:07:28,000 --> 00:07:32,460
+50% dole, 50% 0, 50% jednotka.
+
+97
+00:07:32,500 --> 00:07:35,460
+Tak to vlastne znamenie,
+že to jednotka 0 na raz.
+
+98
+00:07:35,500 --> 00:07:40,673
+A toto zrazu vizira ako super zajmava
+možnosti, kýma šklásický program, takovl
+
+99
+00:07:40,713 --> 00:07:45,528
+može fungovat napríklad,
+takže povedzmi aký vstup vyhodí
+
+100
+00:07:45,568 --> 00:07:47,460
+najlepsši výsledok.
+
+101
+00:07:47,500 --> 00:07:50,500
+Hodíš do neho jedna jedna jedna.
+
+102
+00:07:52,000 --> 00:07:53,960
+Potom odž 1.0.
+
+103
+00:07:54,000 --> 00:07:55,960
+Pojďte dálši vyslodok.
+
+104
+00:07:56,000 --> 00:07:57,960
+A musíš vyskúša četky možnosti.
+
+105
+00:07:58,000 --> 00:08:01,960
+A týmpadom musíš program zbenuť
+veľa, krada by si sa nečo nove dozvedil.
+
+106
+00:08:02,000 --> 00:08:07,043
+Akvantový počítač, aby teda
+kvantové bity QBT, súvovia celých
+
+107
+00:08:07,083 --> 00:08:09,077
+stavog na raz, takže to vzbud
+
+108
+00:08:15,000 --> 00:08:18,872
+Četky odpvede, ktoré si chcel respekti do
+20 odpvede to ráte zajma, bez toho, aby si
+
+109
+00:08:18,912 --> 00:08:21,460
+vyskúšal všetky možnosti.
+
+110
+00:08:21,500 --> 00:08:26,762
+Čiže z razu nám je to 2 na
+n 2, čo može byť obrovské
+
+111
+00:08:26,802 --> 00:08:31,746
+číslo, zbehnu ti programu ti o stači
+zbehnu děraz, len v nejakom šikovnom
+
+112
+00:08:31,786 --> 00:08:33,577
+nastavení. Ate data super
+
+113
+00:08:38,500 --> 00:08:42,277
+A to je to najvte očakáveniu odkvám tových
+počítačov, ktorá odtrebaz mrazej tým, že
+
+114
+00:08:42,317 --> 00:08:44,960
+keď máš takutou superpoziciu stupou.
+
+115
+00:08:45,000 --> 00:08:49,630
+Takovôš obesnosti by si moho očaká, že
+by už ma superpoziciu výstupou, že tým je
+
+116
+00:08:49,670 --> 00:08:51,160
+nieúčitý výsledok.
+
+117
+00:08:51,200 --> 00:08:53,738
+To preste sa se chcou opite, že č
+
+118
+00:09:02,500 --> 00:09:07,460
+A toto je vlastne to maje stroztvo a
+ta velka vizova kvantových počítačov.
+
+119
+00:09:07,500 --> 00:09:12,668
+Zostredích tak, aby
+vyhadzoveľi tie výsledky, ktoréť je
+
+120
+00:09:12,708 --> 00:09:17,845
+závýmau. že tiebie vlastne tie
+kvantovéky je býtí si osahajú šetky
+
+121
+00:09:17,885 --> 00:09:20,808
+možnosti, alebo výsledku zostania len
+
+122
+00:09:25,500 --> 00:09:29,585
+a ješ svoj program tak, aby ta možnostora
+hačinej lepši výsledok sa zvýraz nila a
+
+123
+00:09:29,625 --> 00:09:30,960
+všetky ostatné sa zrušili.
+
+124
+00:09:31,000 --> 00:09:33,960
+No teraz čo znamená, že
+zvýraznika zvýzášili?
+
+125
+00:09:34,000 --> 00:09:37,960
+Přetečni sam by
+filtruje tu spravnout po veču.
+
+126
+00:09:38,000 --> 00:09:43,286
+A teraz, že ako je toto možné, no a
+možné to tak, že kwantla mechanika
+
+127
+00:09:43,326 --> 00:09:44,231
+ona nielen
+
+128
+00:09:49,500 --> 00:09:53,460
+Ono súto Kvantové stavi
+
+129
+00:09:53,500 --> 00:09:58,603
+Ktoré sú výstom slázmi s
+leprádia porobne ale sú vniečom
+
+130
+00:09:58,643 --> 00:10:03,998
+trošku věc A najdúšli spôsob Ako to
+opisať asi taký, že V Kvantovom svetie by si
+
+131
+00:10:04,038 --> 00:10:08,577
+moľmať Prádia porobnosti
+zaporne Réspektive prádia porobnost
+
+132
+00:10:12,500 --> 00:10:17,365
+a prídaž dělšiu možnost, ako sa moženie
+čo stať, tak vysledná právdje pro noz bude
+
+133
+00:10:17,405 --> 00:10:21,985
+ždy večia. Napríklad náhodne chodíš
+pomesto a chcúž vydíš, že zako právdje
+
+134
+00:10:22,025 --> 00:10:23,960
+porobnostiho prídeš do roboty?
+
+135
+00:10:24,000 --> 00:10:28,960
+Tak keď uvažíš len možnosti,
+kedy si prešlo poráčianské ulici?
+
+136
+00:10:29,000 --> 00:10:29,800
+A
+
+137
+00:10:36,000 --> 00:10:39,214
+tak tých možnosti je viat, a teda vysl
+enough pravdje pro nožni se dostal do pracé
+
+138
+00:10:39,254 --> 00:10:44,460
+večia. Pridlás si dálším možnost a z
+razu veča pro je prože se tam dostal.
+
+139
+00:10:44,500 --> 00:10:49,460
+Stým samozrejme, že tože sa príbudla
+druhá možnost nejak neovplivnilo tu prv.
+
+140
+00:10:49,500 --> 00:10:53,192
+Máden z razu nováce
+stáko se dostáť, takže mažno
+
+141
+00:10:59,500 --> 00:11:02,960
+A v kvantovom svetie sa
+možnosti mezi sový dí a rúšit.
+
+142
+00:11:03,000 --> 00:11:07,960
+Máž možnost, že predděspo ga
+garynke a dojdeš do prace 10%.
+
+143
+00:11:08,000 --> 00:11:09,960
+Po ráčianské je to 10%.
+
+144
+00:11:10,000 --> 00:11:15,000
+A keď maš obet je to možnosti
+prípusne, tak je to zrazunulá per cent.
+
+145
+00:11:16,000 --> 00:11:17,960
+Když maš obe pri prípusť?
+
+146
+00:11:18,000 --> 00:11:23,161
+Máža ráčiansk Zreľ
+
+147
+00:11:23,201 --> 00:11:24,820
+saméto je souvírušia a mažnula per cent.
+
+148
+00:11:24,860 --> 00:11:29,785
+Kouličo môže nevěž prejspotých
+obydvohulíceh narazal, bo nejno rúši
+
+149
+00:11:29,825 --> 00:11:35,119
+víseť l enough také,
+že točo je v kvantovej
+
+150
+00:11:35,159 --> 00:11:40,060
+físíke, ta dynamická veť je
+pravdje probnost navlana.
+
+151
+00:11:40,100 --> 00:11:43,420
+A válny ma ju svoje minima a maxima, a keď
+
+152
+00:11:46,500 --> 00:11:47,866
+ksum druhý tak so ceba vidie odpočiteť.
+
+153
+00:11:47,906 --> 00:11:52,014
+Čo sa vyrušie normalne ako vlnový
+sýgnal, bie maximom a minumom jednej vlnica na
+
+154
+00:11:52,054 --> 00:11:55,960
+vzom vybíú. Vyže veľmi
+kladne miesto, veľmi záporne.
+
+155
+00:11:56,000 --> 00:12:00,198
+Takže kvantové
+počiteče pracujú teď nelem z
+
+156
+00:12:00,238 --> 00:12:04,223
+superpoziciostavou
+druhý klúčový aspekte tam
+
+157
+00:12:10,000 --> 00:12:14,610
+Na prikaľ by se videl do sehnu takú vec,
+že máš to možné hriešení a chci, že by ti
+
+158
+00:12:14,650 --> 00:12:19,560
+prežil na jelé pšie, tak nechášť 9-9 abysá
+odséba odralatáľ, ale jakú keby, abysá na
+
+159
+00:12:19,600 --> 00:12:24,787
+vzom vyrušili. Ďastné a ostanitil
+lento hriešenie posledné, ktoré je
+
+160
+00:12:24,827 --> 00:12:26,654
+spravné. Ďastné šta, o k
+
+161
+00:12:33,500 --> 00:12:36,960
+a teda te mášte štíky v tom, že aby tam
+nedochadzala kuchý bám pred pokladam.
+
+162
+00:12:37,000 --> 00:12:40,849
+Tym mášte štíky v tom, že to pripadě, že
+zostavit to tak, aby to robilo toto čo
+
+163
+00:12:40,889 --> 00:12:43,960
+chcete, že aby sa zlemožnosti
+vyrušili a dobré aby sa našiť.
+
+164
+00:12:44,000 --> 00:12:47,422
+Aby ten počíteč vydel,
+že toto je zlámožnost.
+
+165
+00:12:47,462 --> 00:12:48,615
+Čiže často máš
+
+166
+00:12:57,000 --> 00:13:00,840
+ale gorytmus na nějaký konkretny problém,
+aby dokonca, že je na designovaný dokonca,
+
+167
+00:13:00,880 --> 00:13:05,480
+jakýdy celý ten kvantový počiteč, na
+riešenie nejaké úlhy, že to veľmi specifické,
+
+168
+00:13:05,520 --> 00:13:10,552
+nie ma što také univerzalne, a kokeci
+pusíš počite, že rozmyšla šťú škalku, a čkolbo
+
+169
+00:13:10,592 --> 00:13:13,034
+vort. Tu už te architek, ktoré č
+
+170
+00:13:22,000 --> 00:13:26,219
+To je niečo čo čo sme rozprávali z
+jednejch prôšich epizod, bo je za to noboľva ce
+
+171
+00:13:26,259 --> 00:13:29,960
+na ten to rok, rozprávali z
+moňom aj pre epizodie o teleportie.
+
+172
+00:13:30,000 --> 00:13:35,043
+Kvantové previazanie, že keď máš
+dve, napríklad častice, zdanívo na
+
+173
+00:13:35,083 --> 00:13:37,462
+hodnom stave, ale skutošnosi sumé
+
+174
+00:13:44,000 --> 00:13:48,460
+Tote kvantove pre vězanie, ktoré ti
+umožňuje veľmi šikovným spôsobo maný polovat.
+
+175
+00:13:48,500 --> 00:13:53,586
+Ženiečou robiš z jednou časťou toho
+paru a niečo nemojšu robíš toho druhú
+
+176
+00:13:53,626 --> 00:13:58,460
+časťou a dost nejakou uprovatie
+výsledky tak aby odražali tvojú volu.
+
+177
+00:13:58,500 --> 00:14:01,346
+A do teda sme sa tak veľmi vám je roz
+
+178
+00:14:08,000 --> 00:14:09,960
+Takže nefungujete na elektr...
+
+179
+00:14:10,000 --> 00:14:14,184
+Aho, vlastne. V pocať, že može, ale že
+fotóní také na jednodužší priklastorím sa v
+
+180
+00:14:14,224 --> 00:14:15,960
+nohé veci robia. Mhm.
+
+181
+00:14:16,000 --> 00:14:19,214
+Alebo on može byť
+polarizovaný rozne mi spôsobmi.
+
+182
+00:14:19,254 --> 00:14:20,960
+Takže može, že polarizacia...
+
+183
+00:14:21,000 --> 00:14:24,000
+...vorizontalnom smere je nula, polariz
+
+184
+00:14:31,000 --> 00:14:33,280
+Počet fotonov, že možno
+pošložnila fotonov a možno pošlo ž jeden.
+
+185
+00:14:33,320 --> 00:14:37,437
+Ale da sa to robí je za všoli čiminým
+napríklad, že z elektronovými spínmi, ktorý
+
+186
+00:14:37,477 --> 00:14:42,080
+možno byť stáve hore a bodele, tak pověže
+stáv hore jednotka a stáv dole jednula.
+
+187
+00:14:42,120 --> 00:14:47,100
+Alebo to možno je z jadrami, kde ich sp
+
+188
+00:14:54,500 --> 00:14:57,715
+možma napríklad elektrický obvot, ktorý
+je v smere alebo v proti smere hodinových
+
+189
+00:14:57,755 --> 00:14:58,860
+rúčičík a pre klapažo.
+
+190
+00:14:58,900 --> 00:15:04,073
+Takže vlastne veľa rúzných
+možností ako zeralizováť kvantové
+
+191
+00:15:04,113 --> 00:15:09,315
+počítače. Takže kie dostanieš na
+vrach, ktorý ti hovorí, že jsem přijdu
+
+192
+00:15:09,355 --> 00:15:11,054
+dva QBT. Potom ich, ktor
+
+193
+00:15:18,000 --> 00:15:22,460
+Čič objež robice elektronmi, s
+fotonmi, supravodivimi obvodmi a tak dělej.
+
+194
+00:15:22,500 --> 00:15:27,576
+Takže to je takové, že kým pri
+normálnych počítačoch, moderných je
+
+195
+00:15:27,616 --> 00:15:31,460
+relativnie malý početi
+hralizací jednotiega nů.
+
+196
+00:15:31,500 --> 00:15:35,460
+Takho kvantovom svetě ich v
+momentálne pomernie veľa.
+
+197
+00:15:35,500 --> 00:15:39,192
+Takže sa nezavislé
+rozprava o kvantových počítač
+
+198
+00:15:41,500 --> 00:15:43,960
+Konkretne realizacje, ako
+pracujú z nekimi kejubitmi.
+
+199
+00:15:44,000 --> 00:15:48,054
+A ptom sa vôvori o tých quantových
+algoritm, chcú vlastne tie návody, že čo ste imáž
+
+200
+00:15:48,094 --> 00:15:52,360
+robit, ktoré ký už si vyberé, že iméž
+robit, ako potom postopujú športla návodu.
+
+201
+00:15:52,400 --> 00:15:55,700
+Čo ste také tie abstrakne návody, čo budíž
+
+202
+00:16:05,000 --> 00:16:06,660
+Máme aj tie QBT a IKVBT.
+
+203
+00:16:06,700 --> 00:16:12,072
+Existuje vlastne nejaký KVB poučiteč, čo
+lebo asi keď povedem do Aozia, ale vodu
+
+204
+00:16:12,112 --> 00:16:13,460
+nejakého iném obchodu.
+
+205
+00:16:13,500 --> 00:16:18,260
+A vypítam si IKVB poučiteč,
+že už mane o travojíte s tymi
+
+206
+00:16:18,300 --> 00:16:19,860
+stárimí učitečmi.
+
+207
+00:16:19,900 --> 00:16:23,669
+A Simi povedia, že som
+mase pár 10 ročí do predum
+
+208
+00:16:28,500 --> 00:16:32,802
+že normalno obchodia si vysmeju, ale
+skutošao si, že kvantové počečo už existujú,
+
+209
+00:16:32,842 --> 00:16:36,946
+niekteré sú dokonca voľnie dostupné, to
+si môže aj bie mania, takže sa na to výž
+
+210
+00:16:36,986 --> 00:16:39,840
+normalé pripojdať, bo že
+toto skúzu robí je on to urobi.
+
+211
+00:16:39,880 --> 00:16:44,689
+Ale odie existujú, nie chcem
+podaže osucho nie roší rene, ale v
+
+212
+00:16:44,729 --> 00:16:46,572
+podstatie, že úplnie je
+
+213
+00:16:52,000 --> 00:16:55,627
+nečo čo si všetšie v mierde pokročšelom
+a bakú robiť a chcete že realizovať neké
+
+214
+00:16:55,667 --> 00:16:56,960
+velmi jednoduché algoritmi.
+
+215
+00:16:57,000 --> 00:17:01,849
+Nieke už také zložitéišie
+existujú ale ukazuje sa je hvolky
+
+216
+00:17:01,889 --> 00:17:05,760
+problém a si ceže
+kvantové stavisu velmi kréhke.
+
+217
+00:17:05,800 --> 00:17:10,954
+Vzmysle, že aby si udržal tu
+superpozíciu, tako je to že je to nieč
+
+218
+00:17:16,000 --> 00:17:21,372
+a keď sa ti pokazit, tak je razú obyčená
+je dotka obyčená nula a strácaš celé čáro
+
+219
+00:17:21,412 --> 00:17:22,960
+kwantových počítačů.
+
+220
+00:17:23,000 --> 00:17:25,960
+A je velmi těšky to udrať v tomto
+stáve, a tom sa vríš dekoherenci.
+
+221
+00:17:26,000 --> 00:17:30,923
+A keď sa ti to ako keby
+rozpadní, keď sa to stáne tak lásická je
+
+222
+00:17:40,100 --> 00:17:45,142
+tak momentálne čo do počtuky u býtou
+največši počí tajšich zvláda niečo
+
+223
+00:17:45,182 --> 00:17:46,866
+okolo 120. Čo nejvelace?
+
+224
+00:17:46,906 --> 00:17:48,103
+To je nejvelace?
+
+225
+00:17:48,143 --> 00:17:49,380
+To je nejvelace?
+
+226
+00:17:50,380 --> 00:17:54,226
+120 cedem tu šim, že IBM
+ma takýže Eagle Procesor.
+
+227
+00:18:02,500 --> 00:18:07,759
+Na druhú stranu, že ty kiu by ty slubujú
+ovlávečšie možnosti najvne by se daľa pláče
+
+228
+00:18:07,799 --> 00:18:09,240
+exponenciálne výacej.
+
+229
+00:18:09,280 --> 00:18:11,960
+Takže mily...
+
+230
+00:18:12,000 --> 00:18:15,960
+To by som toho, co povodat,
+že je taká teoria, alebo...
+
+231
+00:18:16,000 --> 00:18:18,000
+No, teoria povodzme.
+
+232
+00:18:26,000 --> 00:18:31,368
+prvíkrat formuloval a
+hovoril, že programové
+
+233
+00:18:31,408 --> 00:18:36,206
+kvantumové zájadenie, dokáže vypočiteť
+
+234
+00:18:36,246 --> 00:18:41,329
+rýchlejšie, a kikolové
+k problémii ako hoci
+
+235
+00:18:41,369 --> 00:18:44,460
+najpokročilišie počiteč.
+
+236
+00:18:44,500 --> 00:18:49,460
+A toto sa prvíkrat podarilo
+v roku 2019 Google sa vôla.
+
+237
+00:18:49,500 --> 00:18:54,776
+svovla AI-quantum z
+pomocov nasa, že dokazali nejaké
+
+238
+00:18:54,816 --> 00:18:59,350
+kalkulacie, výkonáť,
+ktoré boli 3 milion krad
+
+239
+00:18:59,390 --> 00:19:04,666
+rýchlišie ako keby ich, ale
+si je robil zároveň, samiť
+
+240
+00:19:04,706 --> 00:19:09,858
+počiteč od IBM, ktorý je
+považovaný za najrýchlišý
+
+241
+00:19:09,898 --> 00:19:12,000
+počiteč nišnej doby.
+
+242
+00:19:13,000 --> 00:19:16,766
+Ale po tom sa okazavala, že to čo
+dobyl ten najbím počiteč se da uroby ovláj
+
+243
+00:19:16,806 --> 00:19:21,016
+jednodučšie a ksenie milym tak ten
+kvantový počiteč nakujem znik do prebehoľ na
+
+244
+00:19:21,056 --> 00:19:25,834
+laptope. No i to vlastne ukáška
+toho, že tíkajť mažný je čo čo robí
+
+245
+00:19:25,874 --> 00:19:30,346
+normalny počiteč nejaká
+uloha a teraz, že čo znamená ulo
+
+246
+00:19:36,500 --> 00:19:38,240
+a pověž může nájdím jedno konkrétnu.
+
+247
+00:19:38,280 --> 00:19:41,080
+Vyžším, že tu mám subor za 10 000 mn.
+
+248
+00:19:41,120 --> 00:19:43,080
+A tymi nájdí toto.
+
+249
+00:19:43,120 --> 00:19:47,080
+A k tam je pozití se na chádza napríklad.
+
+250
+00:19:47,120 --> 00:19:52,444
+A návrhnieš, ako to tam
+podšaž má robí napríklad, že chod
+
+251
+00:19:52,484 --> 00:19:55,360
+je jedno za druhým a až kým ho nenajděš.
+
+252
+00:19:55,400 --> 00:20:00,819
+A v no ale počakým masžem
+
+253
+00:20:00,859 --> 00:20:04,631
+mati algoritmustorí, ktorým udodáš milion
+čísiel a povež může zradio hod najmenči po
+
+254
+00:20:04,671 --> 00:20:09,161
+največie. Tak sa to da spravidanie lepši
+ako takže iděrad za radomaž disavracio
+
+255
+00:20:09,201 --> 00:20:12,060
+odzaciat kulobo všelé
+nevél akrabím musel béhať.
+
+256
+00:20:12,100 --> 00:20:15,331
+A mnoých prípadoch, niené jasne, že či alg
+
+257
+00:20:23,500 --> 00:20:28,803
+a toto sa potom stáva pri tých
+bojoch od nad vlado, že urobyl sa
+
+258
+00:20:28,843 --> 00:20:33,740
+kwantový algoritmú, s tôry predbeho ten
+klasický, klobo ten klasický nebolné lepší
+
+259
+00:20:33,780 --> 00:20:38,974
+možný, ale poslužilo to na inspirací
+ako zlepší ten klasický a zrazu byl ten
+
+260
+00:20:39,014 --> 00:20:43,034
+ještě lepší. Takže aj
+kebych kwantove počasče, k nečom
+
+261
+00:20:47,500 --> 00:20:52,889
+Ale teď akvantové počasť je
+existujú, pomerne strédaj
+
+262
+00:20:52,929 --> 00:20:56,460
+po dobe, kde je tjažkej
+na škalovad na velke.
+
+263
+00:20:56,500 --> 00:21:01,183
+Momentálne je to zastavenáči
+slestodvacacetiem a hovorí se, že úplna petska bude, že
+
+264
+00:21:01,223 --> 00:21:03,460
+kytobud je tak nejme to
+možie milionky býtou.
+
+265
+00:21:03,500 --> 00:21:04,300
+že
+
+266
+00:21:11,580 --> 00:21:14,040
+meď z ľudí je, že to
+dokáže veľmi dobré rieši čifry.
+
+267
+00:21:14,080 --> 00:21:16,380
+To byli ten takých
+prví z namih algoritmou.
+
+268
+00:21:18,120 --> 00:21:23,246
+Teraz my vypoľomeno to, či mňa sa
+vláženšou rú algoritmos, ktorí dokáže veľmi
+
+269
+00:21:23,286 --> 00:21:27,400
+dobre lúskáť rozdielovať vľoké
+
+270
+00:21:34,000 --> 00:21:39,299
+kripto všichromanii, lebo přichromanie
+založené na uloha, ktoré takoto typu, že
+
+271
+00:21:39,339 --> 00:21:43,020
+rozděli dvelke pročí slajde
+těžky, ale spojí jí hlachke.
+
+272
+00:21:43,060 --> 00:21:48,237
+A zrazuprišil šorzio algoritmom,
+ktorý to dokáže v polinomialnom čase, to
+
+273
+00:21:48,277 --> 00:21:51,060
+znamená, že vyrazně vyrazně líchlojšie.
+
+274
+00:21:51,100 --> 00:21:51,946
+A o tomto t
+
+275
+00:21:58,900 --> 00:22:04,003
+No a toto zrazu bolo že super, že
+budemeť kvancove počasť, aby sme
+
+276
+00:22:04,043 --> 00:22:06,860
+ďudom lámať hesla.
+
+277
+00:22:06,900 --> 00:22:11,929
+Uka zalo sa však žinie lebo v
+posate ty vež mien jej klasické
+
+278
+00:22:11,969 --> 00:22:16,260
+algoritmi, tak aby odolali to mu
+to kvancove mušu romu algoritmu.
+
+279
+00:22:16,300 --> 00:22:21,613
+Ale na v a naozaj
+
+280
+00:22:21,653 --> 00:22:26,460
+sú znamenú ulohy, ktoré kvantove
+počeče zvládajú o veľa lepšie.
+
+281
+00:22:26,500 --> 00:22:31,392
+Napríklad, takáte ulo,
+ktorú sa na schláspomenú o
+
+282
+00:22:31,432 --> 00:22:35,460
+zoradování čísiel, že hládaž zoznamenú.
+
+283
+00:22:35,500 --> 00:22:40,537
+Máštám na jzn. prvok, tak
+klasický algoritmus musí prejstéšetkých
+
+284
+00:22:40,577 --> 00:22:45,997
+enmožnosti, aby to ďkry nádzieš
+
+285
+00:22:46,037 --> 00:22:51,445
+na 10. m. je kedy je na
+konci, kde je co to sprémeruje
+
+286
+00:22:51,485 --> 00:22:53,960
+do pojentu zrba takto.
+
+287
+00:22:54,000 --> 00:22:55,960
+Takže našte se sme odolali.
+
+288
+00:22:56,000 --> 00:23:01,006
+A no a grovrou algoritmus,
+kwantový, to to dokáže na
+
+289
+00:23:01,046 --> 00:23:03,960
+odmocní nús en rádovo pokusu.
+
+290
+00:23:04,000 --> 00:23:07,000
+Čiže keď máš milion veci, a...
+
+291
+00:23:08,000 --> 00:23:11,460
+A máš bez nejaké štru,
+ktorý v nich naješť z niečo.
+
+292
+00:23:11,500 --> 00:23:15,460
+Tak plantový algoritmos to
+dokáž na tisíc pokusou rádowo.
+
+293
+00:23:15,500 --> 00:23:20,460
+Kým klasický potrebujete rádowo
+milio na polmilio na pokusou.
+
+294
+00:23:20,500 --> 00:23:22,460
+A tože brutá na šupa.
+
+295
+00:23:22,500 --> 00:23:26,460
+Ok, to je to možu rádout.
+
+296
+00:23:26,500 --> 00:23:30,654
+No. Existují ni, taký
+znamy algoritmos dojtov
+
+297
+00:23:31,500 --> 00:23:36,587
+dojčou, ktorý zase rieši tako
+tásku, že presosujem až krabičku, ktorá
+
+298
+00:23:36,627 --> 00:23:37,960
+nevěž ako funguje.
+
+299
+00:23:38,000 --> 00:23:43,066
+Skratke z funguje tak, že doňom si
+vhodí dnulu a jednotku a pozili sečití
+
+300
+00:23:43,106 --> 00:23:46,960
+vypadne 0 a 1 alebo, či se to
+preklapa, alebo nie preklapa.
+
+301
+00:23:47,000 --> 00:23:50,769
+A když tam hoťal iba
+jedno z nich, tak sa nedozvě
+
+302
+00:23:55,000 --> 00:23:57,261
+A pobože je jednotka preklopena na nú.
+
+303
+00:23:57,301 --> 00:24:02,605
+Takže klasický musíže robíť obe možnosti a
+kvantovou ti stačší prehnadielen cubeit a
+
+304
+00:24:02,645 --> 00:24:04,460
+on ti vyhodí spravno odpovedť.
+
+305
+00:24:04,500 --> 00:24:08,460
+Žeke je to nula tak sa děje proáveť, za
+kde je to jednotka tak sa děje druháveť.
+
+306
+00:24:08,500 --> 00:24:12,460
+Takže si už je trého
+vlastne polovicu času.
+
+307
+00:24:12,500 --> 00:24:13,300
+A polov
+
+308
+00:24:18,500 --> 00:24:23,548
+Prítom čo si typo vydal, samozrejme keď
+budeme, a si tneydje oto říč, aby sme
+
+309
+00:24:23,588 --> 00:24:28,806
+zisili říči, jednotkále bony vlále,
+odoz tjakšie tie operacie, tak tam by sme
+
+310
+00:24:28,846 --> 00:24:31,520
+asi už šetrilý dosvolke per centučasu.
+
+311
+00:24:31,560 --> 00:24:36,778
+Tak, a na druhú stranu premia
+osobně sú najzámavesi také možnosti, že
+
+312
+00:24:36,818 --> 00:24:37,945
+kwantile počí
+
+313
+00:24:42,000 --> 00:24:44,460
+náprikať hémijú a pomáhať
+obyvo v odno deľiečíva.
+
+314
+00:24:44,500 --> 00:24:49,903
+Poľa mňa najzajmé vješia
+možnosti, kvantový počičem aleby sú
+
+315
+00:24:49,943 --> 00:24:52,460
+pojržiť točné na
+simulovanie kvantové fiziky.
+
+316
+00:24:52,500 --> 00:24:57,529
+Lebo kvantová fizika, ko sme si
+povedali je enormie zložite, je še do počtu
+
+317
+00:24:57,569 --> 00:24:58,346
+možnosti,
+
+318
+00:25:05,500 --> 00:25:10,710
+Počštešmi skumatť kvantou v fiziku,
+ale kvantou v fiziku takto už vyzera ako
+
+319
+00:25:10,750 --> 00:25:11,960
+zadoť na Sherbell.
+
+320
+00:25:12,000 --> 00:25:14,960
+Takto byto moľa byť prestne našite.
+
+321
+00:25:15,000 --> 00:25:17,960
+Treba však pre konatem
+problém škalovatielnosti.
+
+322
+00:25:18,000 --> 00:25:23,441
+Po prve a podúde sa treba
+vysporiedet z toho korechostiou QBTO, ktoré
+
+323
+00:25:23,481 --> 00:25:25,692
+veľmi často, že s nimi urobiž
+
+324
+00:25:29,500 --> 00:25:34,840
+Vložiš tam Qbit, alebo viací, kýubíto,
+alebo všelíčo a niečo si z toho vypadne.
+
+325
+00:25:34,880 --> 00:25:39,160
+A tam je nie zelenie
+bátil nemála po ruchovosti.
+
+326
+00:25:39,200 --> 00:25:42,400
+Lanké seď to nejde pokazí
+tak čo už z takym istlotkom.
+
+327
+00:25:42,440 --> 00:25:45,825
+Maž potom nejaké
+možnosti, ako opravovaj ten
+
+328
+00:25:52,500 --> 00:25:56,419
+Vyďte veci sa potom vedenia ako o
+kontrolať mezi seú, takže ak ty chybne spravišľa
+
+329
+00:25:56,459 --> 00:25:59,000
+mi vela takéto šťúch
+poriadku, ale je to proste výzva.
+
+330
+00:26:01,000 --> 00:26:02,960
+Nisím si, že celko výzva?
+
+331
+00:26:03,000 --> 00:26:08,238
+Ja, no, no. A toto zmelen
+naozaj, že presne ako sa moho
+
+332
+00:26:08,278 --> 00:26:12,615
+povedali. Je tam toľko vela
+matematiky, fiziky, inžinér
+
+333
+00:26:16,000 --> 00:26:20,840
+tak by sme asi mohli sme potkazlen o
+tomto a stálo by sme mali asi nejaké temy.
+
+334
+00:26:20,880 --> 00:26:24,700
+Ale aj tak platiže to na toľko
+zemá vezi, že sa to môli devenujú.
+
+335
+00:26:24,740 --> 00:26:29,640
+Aj keď za starva povedať, že
+bolo teraz pár nových článkov.
+
+336
+00:26:29,680 --> 00:26:34,340
+Jo vešem vkomala scientifica
+Americana, alebo o quanta magazín.
+
+337
+00:26:34,380 --> 00:26:36,104
+Neviem už teraz děprez.
+
+338
+00:26:36,144 --> 00:26:41,340
+Niekde pisa že klesa množto
+investicí do kwantových počítačov.
+
+339
+00:26:41,380 --> 00:26:45,660
+Čiastočne koli to můžu náslubovali
+hory doli a ten progré sa spomalio.
+
+340
+00:26:45,700 --> 00:26:48,340
+A čaká sa tam na dálšší veľmi dobrý napat.
+
+341
+00:26:48,380 --> 00:26:50,840
+Ak obol napríklad nejak
+ty sprôšli halgoritmou.
+
+342
+00:26:50,880 --> 00:26:54,680
+Takže no, uvidíme čo
+sa budete jeť a o no ob
+
+343
+00:27:03,000 --> 00:27:07,373
+Toto dokaže robičetky možnosti náraz, nie
+bude môsede obtežovať a tak dalej, ale oni
+
+344
+00:27:07,413 --> 00:27:12,732
+majú toho problémou. Praktycký
+vyľčene, že by úplně nahradili tie klasické,
+
+345
+00:27:12,772 --> 00:27:15,960
+klobo tie klasické sú brutalne robustné.
+
+346
+00:27:16,000 --> 00:27:19,960
+Na nohé ulohy
+tiekvantové ani nepotrebujete.
+
+347
+00:27:20,000 --> 00:27:22,538
+Nebude je štom práť po rôvne voto
+
+348
+00:27:28,000 --> 00:27:30,960
+Čo cháchá cháchá sa mô. Keby si
+videl hej, že čo dokážu potočič.
+
+349
+00:27:31,000 --> 00:27:32,960
+Si čo dokáž sem kvantovým počitačem.
+
+350
+00:27:33,000 --> 00:27:38,103
+Ale žono sa skurujem, že
+kvantové počeče doplnia klasické
+
+351
+00:27:38,143 --> 00:27:39,800
+počitače. Ažež d
+
+352
+00:27:50,000 --> 00:27:55,441
+a budeme si vývžel, že takom tandeme
+žináte to hľohelé pši takýto a na týto
+
+353
+00:27:55,481 --> 00:27:59,460
+taký, takže si vyberieš to,
+čo potrebujem što, takže tak.
+
+354
+00:27:59,500 --> 00:28:01,460
+Takže nemúš se sa
+vôdia, že budujem hathovat.
+
+355
+00:28:01,500 --> 00:28:06,585
+Čo sa si kázi naznáčilo, že
+pricháza možno ta zima je to budutnou z
+
+356
+00:28:06,625 --> 00:28:08,269
+informatiky, si mysl
+
+357
+00:28:15,000 --> 00:28:20,379
+Uplnoj mimo mi, co ja se mi
+som, že sú budúcnostu informatikí
+
+358
+00:28:20,419 --> 00:28:21,960
+len ako zdělenou.
+
+359
+00:28:22,000 --> 00:28:26,800
+No, sú budúcnostu snať, ale nie
+v tom zmi som, že by informatiku
+
+360
+00:28:26,840 --> 00:28:30,000
+nagradili, a co tam teda proži doplnili.
+
+361
+00:28:37,000 --> 00:28:41,073
+To bylo nejde sa pláže béž na veť ale že
+názeže už je že rysíť na nejaký úlohu a pre
+
+362
+00:28:41,113 --> 00:28:45,100
+mysl si že akú čas niej niecháž na
+kwantove poštáče a ako niecháž na niečo iné.
+
+363
+00:28:46,300 --> 00:28:49,060
+Takže... Žesko rejta ktorže kombinaciem?
+
+364
+00:28:49,100 --> 00:28:51,800
+Ano ano, hodem že nemú
+se sa udjabáť že by...
+
+365
+00:28:52,300 --> 00:28:53,300
+...že by priš
+
+366
+00:29:00,500 --> 00:29:03,460
+ale dľá cesta ještě pred nami.
+
+367
+00:29:03,500 --> 00:29:07,893
+Čo názaj sa teda ještě prývilo to na tým
+žludia, ktorý na to, moja ustavit svoje
+
+368
+00:29:07,933 --> 00:29:11,960
+milionie a miliardy do larou, tak
+začne byť opatrně šistými to investícemi.
+
+369
+00:29:12,000 --> 00:29:17,300
+A no je asiť Ďažke investovat
+do ničoho miliardu do larou, k
+
+370
+00:29:25,300 --> 00:29:30,677
+Alebo ani nikdy. Dobr, mašiští nečo, čo
+by si chcel, ktú múto dodáť, ktú múto
+
+371
+00:29:30,717 --> 00:29:35,820
+uvodu do kwantovej, kwantovej,
+stálech jsem povedať mechaniki ale...
+
+372
+00:29:36,340 --> 00:29:37,740
+Ale počite, čoho je vedy.
+
+373
+00:29:39,860 --> 00:29:43,180
+Asi nie, v obezimovanie
+prikva poľžike, byla to,
+
+374
+00:29:47,500 --> 00:29:49,240
+A sa stový týši, že nie je to
+úplně, že prehad skorúžovým parkom.
+
+375
+00:29:49,280 --> 00:29:53,799
+Ale chcel som ablude nie malý, len také
+tie z jednodušujúce predstaví, ktoré sa tom
+
+376
+00:29:53,839 --> 00:29:55,840
+bežněho vôria, že ak búru velkou lepe.
+
+377
+00:29:55,880 --> 00:30:00,941
+Je tam naozaj, že veľa velkých
+prekážoch či už konceptuálnych alebo
+
+378
+00:30:00,981 --> 00:30:02,803
+technologických, ktoré
+
+379
+00:30:13,500 --> 00:30:17,500
+Tak samo povedal slovo
+žužo, tak tento podkaz končí.
+
+380
+00:30:18,500 --> 00:30:23,391
+Klasickým podščešmi samoště prílasi na
+odberveda tořskonňu zletrá v popisé, pizody
+
+381
+00:30:23,431 --> 00:30:25,500
+a... Možno aj kvantovými.
+
+382
+00:30:26,500 --> 00:30:28,962
+Kieď se někdo prílasi kvantovými
+
+383
+00:30:37,500 --> 00:30:39,000
+Míme náhodne vyberiem.
+
+384
+00:30:40,500 --> 00:30:43,000
+Kvantový stavu po nožkem pošho len jednu.
+
+385
+00:30:43,500 --> 00:30:47,960
+Dobre, dějakujem vám velmi pekne, že nás
+počuvajte, možete nás podporidná patrónne,
+
+386
+00:30:48,000 --> 00:30:52,800
+nájdete nás našetkých dobrých
+podkastových aplikacích, ako samkosmínal, veda to
+
+387
+00:30:58,000 --> 00:31:03,171
+Vyla dajte a na stránke veda to
+robotka space a všadí, kde sludujete samka
+
+388
+00:31:03,211 --> 00:31:06,060
+veda tora. Máte sa veľmi pekným.
+
+389
+00:31:06,100 --> 00:31:07,100
+Máte sa.
+
+390
+00:31:21,500 --> 00:31:44,960
+Čewáš.
+
+391
+00:31:45,000 --> 00:31:50,116
+Veda nám ukazuje, že okolo
+seba vidíme len 4 % ve smiru.
+
+392
+00:31:50,156 --> 00:31:54,912
+Veda nám hovorí ako sa
+zaušikovných primátov za
+
+393
+00:31:54,952 --> 00:31:58,389
+milioní rokovstali moderni ľudia.
+
+394
+00:31:58,429 --> 00:32:03,544
+Veda nám prínáša vakcínia,
+ale je ki uľiak čo je život
+
+395
+00:32:03,584 --> 00:32:08,500
+naznačuje ako boujovať
+sklimatickou zvyskotov.
+
+396
+00:32:09,000 --> 00:32:11,960
+Ja som to máš prokupčak a vedu.
+
+397
+00:32:12,000 --> 00:32:16,960
+Milujem pretovám každý týždén v
+spolu práci z našymýkologami prínášeme
+
+398
+00:32:17,000 --> 00:32:22,182
+podka Zoom. Plným najnouších a
+najzaujímavejších vedeckých objavou Zoom nájdete
+
+399
+00:32:22,222 --> 00:32:25,800
+každú strédu na webdeňíka sme alebo

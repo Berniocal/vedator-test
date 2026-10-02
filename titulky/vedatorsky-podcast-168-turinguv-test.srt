@@ -1,0 +1,2424 @@
+﻿1
+00:00:00,000 --> 00:00:05,303
+Od výpodštolce spočiteče
+
+2
+00:00:05,343 --> 00:00:10,160
+až po umeluji telegénců.
+
+3
+00:00:10,200 --> 00:00:14,289
+Veda nas obkopuje na
+
+4
+00:00:14,329 --> 00:00:16,960
+každom kroku.
+
+5
+00:00:17,000 --> 00:00:19,960
+Witajte pri veda torovskom
+podkasté, pozanáso vydame rozpráky.
+
+6
+00:00:20,000 --> 00:00:22,879
+A prirodě okovnás moj meno jazov.
+
+7
+00:00:22,919 --> 00:00:28,088
+Ja, som samol. Ten to podkaz
+vychadza spoulu pracízov s mko, ako sa
+
+8
+00:00:28,128 --> 00:00:31,500
+mnošu. Dobre, ja čo ty
+je dobré si sa vyspál.
+
+9
+00:00:32,500 --> 00:00:34,500
+Dobre, som sa vyspál.
+
+10
+00:00:35,500 --> 00:00:39,500
+A neská sa vydíme rozprávať o
+velikánový námo za jednom znaj veči.
+
+11
+00:00:40,500 --> 00:00:43,500
+To to bol rýchli skok na hlavnú temu.
+
+12
+00:00:44,500 --> 00:00:49,465
+Vidéže chcel, že znovu spadť Chcel som, že
+
+13
+00:00:49,505 --> 00:00:54,791
+určité rád spála, ale děvě to,
+takže o Ellenový Turingový som bude
+
+14
+00:00:54,831 --> 00:01:00,017
+mérou spravad, ktorí je otec
+počitačovej vedy a aj počitačovou
+
+15
+00:01:00,057 --> 00:01:00,707
+celkou.
+
+16
+00:01:14,700 --> 00:01:19,500
+Drúj z nich bol John Fone
+Noiman, o ktorom zme už mali potkazne.
+
+17
+00:01:21,500 --> 00:01:23,500
+Neznam, že hej.
+
+18
+00:01:24,500 --> 00:01:29,500
+Můžeme v tom štádiu,
+kedy nám ho razyžená hradu.
+
+19
+00:01:32,500 --> 00:01:35,460
+Dobre, tak Alan Turingžil.
+
+20
+00:01:35,500 --> 00:01:40,782
+Anturing žilo, a holo bo jeho na
+aktivnešie obdoby boho počas asi jedne z največej
+
+21
+00:01:40,822 --> 00:01:43,960
+historických udavostí a
+to druhé sveto je wojny.
+
+22
+00:01:44,000 --> 00:01:49,120
+Vtedy ako viemé armada
+veľmi hým vestuje do šetkých
+
+23
+00:01:49,160 --> 00:01:53,560
+nových technoví a druhá
+sveto a vojna v tomto
+
+24
+00:01:53,600 --> 00:01:56,000
+neboľovôbec nejakú iná.
+
+25
+00:01:59,000 --> 00:02:04,014
+bo teraz neme pre se nevkto rejde vyzije,
+ale viem že patrilo pod nejakúm boli neskú
+
+26
+00:02:04,054 --> 00:02:09,460
+zložku. On sa venoval
+lúšeniu kodo, my sa mi si si
+
+27
+00:02:09,500 --> 00:02:12,460
+že... Tak tak. Videl si ten film?
+
+28
+00:02:12,500 --> 00:02:14,500
+Imitation game.
+
+29
+00:02:15,500 --> 00:02:19,764
+Vy je videosom, hej, ale neberem filmi tak
+
+30
+00:02:19,804 --> 00:02:21,500
+faktografické.
+
+31
+00:02:22,500 --> 00:02:26,000
+ale kapem, že tam
+vychadzali z niektovi véci realnych.
+
+32
+00:02:27,000 --> 00:02:32,177
+Co kompre s nejakou, že vlastne
+strušná historie byla taká, že Niemci mali
+
+33
+00:02:32,217 --> 00:02:37,210
+veľmi sofistikovaný šifrovací
+stroj, Enigma, ktorý vlastne pod každom
+
+34
+00:02:37,250 --> 00:02:41,889
+čuknutí měrně změnilo svoje
+kodovanie, takže veľmi těšku se na to
+
+35
+00:02:41,929 --> 00:02:47,280
+aplikovali maliz som je
+spominali enigma ako velmi, velmi
+
+36
+00:02:47,320 --> 00:02:52,273
+sofistikovaný stroj, ktorý
+vyúžíval dva krokí príší
+
+37
+00:02:52,313 --> 00:02:56,978
+frování, čo si vlastne turinku veľmi, že
+sa da vyúžík prioho desí frování, že viesil
+
+38
+00:02:57,018 --> 00:02:58,700
+vlastne tňažkulou rozbí na dve.
+
+39
+00:02:59,500 --> 00:03:04,192
+A vlastne vými sleiden sprvých
+posetě takých elektromechanick
+
+40
+00:03:09,500 --> 00:03:13,210
+v rozumlom čase, rozmny čas bol
+limitovaný tým, že nemci každý děhn meněli
+
+41
+00:03:13,250 --> 00:03:18,627
+všifruváněch, s to roby chádzali, takže
+Axi dokázal všifru rozlušit za 50 hodin, tak
+
+42
+00:03:18,667 --> 00:03:22,000
+týto bol osbytočne,
+potrovast nečo vyjrázne po 24.
+
+43
+00:03:23,000 --> 00:03:26,923
+No asi nebo úplnoš
+býtočne, a ospom by si to videop
+
+44
+00:03:34,400 --> 00:03:38,602
+No a hej, ale spravňa hovoriže, že
+nejkedy aj ta informacie možete byť alevant
+
+45
+00:03:38,642 --> 00:03:41,160
+najduchšie, ale to
+šifrovanie sa po tom zmieni.
+
+46
+00:03:41,200 --> 00:03:46,058
+No a po tom čo skončila wojna, tak on sa
+
+47
+00:03:46,098 --> 00:03:49,160
+vlastne zostaľvo fahu.
+
+48
+00:03:49,200 --> 00:03:53,508
+Venoval sa počitečom,
+pokušal sa na vrú napríklad, že po
+
+49
+00:03:56,500 --> 00:04:01,925
+všetko vsebe. Upronuje provočné počeče
+bolo i také, že došlo si k nému niečo si doňo
+
+50
+00:04:01,965 --> 00:04:06,655
+na tukál a niečo zňo vypadlo a on si
+poset je niepame tal, že man je ke pred
+
+51
+00:04:06,695 --> 00:04:08,000
+programované veci.
+
+52
+00:04:20,000 --> 00:04:24,460
+aby sme čo pametali a zároveň
+sevenoval po seď by seľa pláželými tom počita.
+
+53
+00:04:24,500 --> 00:04:29,276
+Čože chcel veď, že čo tie počitače
+vlastne dokážu ako oni hrozmyšla trošku
+
+54
+00:04:29,316 --> 00:04:30,460
+univerzálnejšie.
+
+55
+00:04:30,500 --> 00:04:35,141
+V jednej epizodie sme spominali tak zvané
+Turingo vestroje, kde on vlastne ukazaľ,
+
+56
+00:04:35,181 --> 00:04:37,423
+že existenia kateria da ekvy
+
+57
+00:04:45,000 --> 00:04:49,960
+Takže aj veľmi primytivnej stroj,
+dvalsem sestku, keby sviť hlospovalých.
+
+58
+00:04:50,000 --> 00:04:55,293
+Tak dokáže urobiť taký stevi počiť, aby
+malá dostatok pamete, ako najmodernieši
+
+59
+00:04:55,333 --> 00:04:59,960
+počitežnom by to trvalo nejme
+milion krat tu kšiaľa boko oko.
+
+60
+00:05:00,000 --> 00:05:00,923
+Tak vi počto
+
+61
+00:05:07,000 --> 00:05:10,947
+kvandá mentalny iné problémyrieši, jak to
+napríklad nejkvantový počte, že klasické
+
+62
+00:05:10,987 --> 00:05:15,710
+počte česú rôznými spôsobmi limitovatiel.
+
+63
+00:05:15,750 --> 00:05:17,750
+A on silo.
+
+64
+00:05:18,000 --> 00:05:22,808
+Na to, že ukazaľ rinia, že základne
+
+65
+00:05:22,848 --> 00:05:27,860
+matematické otázky, na
+ktoré se dotuvrede ľanú nie,
+
+66
+00:05:27,900 --> 00:05:30,400
+je največšie.
+
+67
+00:05:30,500 --> 00:05:35,292
+Je največ je prvočí slok, ktoré děli toto
+blablablá, takže sa nie dajú zísít pomocou
+
+68
+00:05:35,332 --> 00:05:40,060
+počiteča. Čiže ukazaľ, že
+niecaľa matematika je spraviteľ na
+
+69
+00:05:40,100 --> 00:05:44,560
+počiteči. Čo je toho kum
+peknáved z nás zašetok karierí?
+
+70
+00:05:44,600 --> 00:05:48,000
+Prviem matematikov je to do speknaved.
+
+71
+00:05:54,000 --> 00:05:58,919
+súvisí znečím čo sa volá halting
+problem, to je, že halte je, že čiť si
+
+72
+00:05:58,959 --> 00:06:04,060
+zbehnie program, že keď je
+zpustíš, a on beží a beží a beží.
+
+73
+00:06:04,100 --> 00:06:07,738
+Otázka je, že čiť do behnie, alebo či on
+beží, beží, beží, kôj to musí se dostal do
+
+74
+00:06:07,778 --> 00:06:09,962
+nejakého cyklu, že skoro kúdej sa d
+
+75
+00:06:17,500 --> 00:06:22,280
+Vydeľme dnejaki program, ktoré mu ukážeš
+iný program, a on ti povuj, že daj si pozor
+
+76
+00:06:22,320 --> 00:06:23,960
+ten to sať zasekne alebo nie.
+
+77
+00:06:24,000 --> 00:06:27,960
+A ukazaľ, že taký to
+program sa ne da zostrujť.
+
+78
+00:06:28,000 --> 00:06:31,960
+Čo je? Ktorý by sa, ktorý by
+vydil predpovedatí zasekne?
+
+79
+00:06:32,000 --> 00:06:35,000
+Ďan, a no, no. Čo je ako, že celkom zámáv
+
+80
+00:06:41,500 --> 00:06:45,511
+že ak vysme vedel výrieši tu tu hlohu,
+tak by se dal výleši halting problém a tým
+
+81
+00:06:45,551 --> 00:06:50,324
+pádométo nemožná. ťa úroblovom je na
+duchy výsledo, ktorý dokazaľ ženie možný a
+
+82
+00:06:50,364 --> 00:06:51,760
+potom věž robí také domino.
+
+83
+00:06:51,800 --> 00:06:54,000
+Cest... Praveť cesto to dáluj.
+
+84
+00:06:55,800 --> 00:06:56,600
+�
+
+85
+00:07:04,500 --> 00:07:09,827
+homoseksuál včasek, kedy to bylo
+také odsuzovane, bol vlastně úplne,
+
+86
+00:07:09,867 --> 00:07:15,246
+že na to, že omboľ pieneznají
+významnějších účasníkou, druhý svetojiho
+
+87
+00:07:15,286 --> 00:07:18,960
+vzmyslili, že kolko jediniec
+dokázal za chraní v životou.
+
+88
+00:07:19,000 --> 00:07:23,462
+Tak pocate, vzostal úplne, že
+nepovšímnutí dokoncáštaki od
+
+89
+00:07:28,000 --> 00:07:29,260
+Ďužášdu kýany dom.
+
+90
+00:07:29,300 --> 00:07:34,460
+Hej, hovorí sa, že si napusev, ja vlko
+kýany dom, ale nedá sa to, že vraj dokazať.
+
+91
+00:07:34,500 --> 00:07:36,005
+Préď tým ježdo sa o 40.
+
+92
+00:07:36,045 --> 00:07:37,460
+druhej národí jiný.
+
+93
+00:07:37,500 --> 00:07:42,794
+Všiálené na to, že zomroveľmi
+malady úplně kolý smutnemu a ekstravne
+
+94
+00:07:42,834 --> 00:07:46,577
+hlupému do vodu vlastne,
+ale že aj napriektomu za
+
+95
+00:07:51,500 --> 00:07:55,878
+a pro toko fastilou cich vysletkov a
+jedným z nich je Turingo test, o ktorom sa
+
+96
+00:07:55,918 --> 00:07:58,531
+poslomu dobu tak vela rozprava.
+
+97
+00:07:58,571 --> 00:07:59,960
+Poznačten pojem?
+
+98
+00:08:00,000 --> 00:08:05,389
+Ano, a myslím si, že každýk do Stiffi
+nejakost sleduje, alebo z niečo z AI
+
+99
+00:08:05,429 --> 00:08:08,960
+tak Turingo test, asi
+druhá več čo náň moždý.
+
+100
+00:08:09,000 --> 00:08:10,960
+Vyskúče prava.
+
+101
+00:08:11,000 --> 00:08:16,432
+No Ďak je si si vyžať, že prosi,
+
+102
+00:08:16,472 --> 00:08:21,058
+že kýca dozveš, že umelá inteligencia tak
+potom je, že aj je to umelá inteligencia,
+
+103
+00:08:21,098 --> 00:08:22,460
+podelil sa to rin goleze.
+
+104
+00:08:22,500 --> 00:08:27,614
+Toto mne prijecoku mzameval, bo kdy sme
+mali a spomíš si sme mali ten podcast o John
+
+105
+00:08:27,654 --> 00:08:31,460
+F. Manový a kde je tak myto on
+spomínaliť nekominom nepizodie.
+
+106
+00:08:31,500 --> 00:08:32,300
+Tak to zme
+
+107
+00:08:38,500 --> 00:08:41,400
+kde sa snažili pochopiť ako
+prebiegeľ jadrové procesy pri výbuchu Bombi.
+
+108
+00:08:42,200 --> 00:08:47,322
+Urobili jedni sporych počitačov,
+ktoré Noiman zdokonaloval a pomerne
+
+109
+00:08:47,362 --> 00:08:50,600
+dihose začal zamišlo na
+tým, že čistrém islie.
+
+110
+00:08:52,000 --> 00:08:57,318
+Druga velka vetva vývoja počitačo
+bila v Britanii, pohnana práve uloho
+
+111
+00:08:57,358 --> 00:09:02,679
+udeši frovania počas druhý
+
+112
+00:09:02,719 --> 00:09:07,713
+svecovývojny a těž keď boli těto vecik se
+začali rozběta ktěži na sprvyhotazo, ktorú
+
+113
+00:09:07,753 --> 00:09:10,393
+si položil, turing je
+že čistrém možu myslíť.
+
+114
+00:09:10,433 --> 00:09:15,378
+Čiž na dvoch městach po sať je vovolkom
+začali vznikajť počitače a ich neveči
+
+115
+00:09:15,418 --> 00:09:17,346
+veľkanie ktorý vyvěli ve
+
+116
+00:09:25,500 --> 00:09:30,046
+Ďakúlačky. Je to sranda ako ľudia,
+týmto sa zauberať, ajúc niž dý dojdu k tomu
+
+117
+00:09:30,086 --> 00:09:35,524
+istemu, a nejakou mu znatku ťímu, že
+alebo ktej stej hiploteze ťímu, že už
+
+118
+00:09:35,564 --> 00:09:38,160
+stroje mi sreži, že to tak je zaujnou.
+
+119
+00:09:38,200 --> 00:09:41,738
+Ineršloviť by čakala,
+že keď sa Turing stretné
+
+120
+00:09:49,000 --> 00:09:52,793
+konferenciálbo seminaral, bol nekaj je
+dalní universití a že niečo prehodíli mezi
+
+121
+00:09:52,833 --> 00:09:57,986
+sebo a dedzíte. Kde som oto
+měkde čítal, takto bylo také malé
+
+122
+00:09:58,026 --> 00:09:59,500
+sklamanie že som čakal že...
+
+123
+00:10:01,500 --> 00:10:04,500
+že čo s toho byjí
+produky, hej, hej, a sa to že...
+
+124
+00:10:05,500 --> 00:10:09,460
+prijatel stónávky a tak nevíšlo no.
+
+125
+00:10:09,500 --> 00:10:11,192
+Tak nemôme manovť, kaž
+
+126
+00:10:15,000 --> 00:10:18,778
+Uformoj má na to potom viedlo, kto
+může se rozmišla, začo je rozmišla na tým
+
+127
+00:10:18,818 --> 00:10:23,385
+vlastne, že ako posatia jednáť zakladmi u
+mala inteligencie, ale aj na tým, že ako
+
+128
+00:10:23,425 --> 00:10:28,517
+vlastne mikroskopické, veľmi
+jednoduché veci do kažuré plikova
+
+129
+00:10:28,557 --> 00:10:30,077
+život, to bolata hra
+
+130
+00:10:36,000 --> 00:10:41,345
+Ďčiláno, ktorý sa volá computing machinery
+and intelligence, čiže vypočto ve stroje
+
+131
+00:10:41,385 --> 00:10:43,800
+a inteligencia z roku 1950.
+
+132
+00:10:45,300 --> 00:10:50,036
+Ktorým sa vlastne zamýšla
+nad tým čímužu aj stroje
+
+133
+00:10:50,076 --> 00:10:55,000
+rozmišlať a na vrhu je
+jednoduchý experiment a kotúovéry.
+
+134
+00:10:59,500 --> 00:11:03,127
+Pozlecie, že když poždú, že o to skúže veď
+a stroje rozmišlať, tak sa starašne začne
+
+135
+00:11:03,167 --> 00:11:05,793
+žádajť na tým, že čo to vlastne
+znamená rozmišlať a tak dale.
+
+136
+00:11:05,833 --> 00:11:08,000
+A samozermieš takto to
+byla je v tomto pripadie.
+
+137
+00:11:09,000 --> 00:11:11,960
+Čo podľom nekrasnou vyriešil?
+
+138
+00:11:12,000 --> 00:11:14,462
+Žej, že nebíme sa hnedo, o tom č
+
+139
+00:11:23,000 --> 00:11:27,942
+Na egenialniši test na
+sutej poznam, že máš dvoch, máš
+
+140
+00:11:27,982 --> 00:11:32,460
+obrazouku a píši s dvomí
+osobami, osobo a osobo b.
+
+141
+00:11:32,500 --> 00:11:37,660
+A má sa ich pít, možiš s nemí sa
+rozpravať, písací sa je skálesnicu,
+
+142
+00:11:37,700 --> 00:11:39,460
+oni ti možu odpovedať.
+
+143
+00:11:39,500 --> 00:11:44,682
+A máš determinovat, ktorý z
+nich je človek a ktorý z nich je
+
+144
+00:11:44,722 --> 00:11:49,778
+počiteč. Ono toj nač
+vychadza niečoho inoč sa o
+
+145
+00:11:49,818 --> 00:11:50,960
+imitation game.
+
+146
+00:11:51,000 --> 00:11:55,940
+Čo byla v postaci, že párty hra,
+ktorú spomína Turink, ktorá sa hra
+
+147
+00:11:55,980 --> 00:12:01,305
+naštilo, že máš muža a ženu,
+ktorý strete osoba môžu komunikovélem
+
+148
+00:12:01,345 --> 00:12:02,960
+pomocu papierikou.
+
+149
+00:12:03,000 --> 00:12:05,692
+Oni môže klazio tásky, oni sa omajo
+
+150
+00:12:10,000 --> 00:12:14,326
+a na prist. A nám povedaľ žel, kiesiak na
+hrať miedného človeka robotom, ale počiť
+
+151
+00:12:14,366 --> 00:12:19,534
+to. Ale veľmi jednoduchá hra,
+
+152
+00:12:19,574 --> 00:12:24,769
+kieť sa človek na tým zamysli,
+ale je veľmi tjažke na podobiť toho
+
+153
+00:12:24,809 --> 00:12:25,500
+človeka.
+
+154
+00:12:33,500 --> 00:12:37,960
+napríklad kde z nejakým četom si
+píšete, tak veľa krátu nedokonalete čety.
+
+155
+00:12:38,000 --> 00:12:43,041
+A dokážu sa po par odaskáho
+dosta doslepe ulyčky, alebo týho
+
+156
+00:12:43,081 --> 00:12:48,227
+odpovede už nejsu také
+presten, takže keby náhodov fagnék do
+
+157
+00:12:48,267 --> 00:12:53,360
+vytvéril takého počite, že obo
+také program, že by si to pomimo
+
+158
+00:12:53,400 --> 00:12:58,156
+všelvekom, tak je to vznaní hodno.
+
+159
+00:12:58,196 --> 00:12:59,460
+Tak, tak presne.
+
+160
+00:12:59,500 --> 00:13:02,460
+No a vlastne to rynk si rovno peložišak.
+
+161
+00:13:02,500 --> 00:13:07,935
+Jasne, že keby sme vytvoryli strovovú
+kopiu človeka identickú, hipotetyckého a keby
+
+162
+00:13:07,975 --> 00:13:12,875
+Androidá. Tak jasne, že tam byť sa
+dokazaľ spravedinť intelligentne ale že nevieme
+
+163
+00:13:12,915 --> 00:13:14,460
+wobec, že tak je to niečo bude možné.
+
+164
+00:13:14,500 --> 00:13:15,808
+A a no tak po tom
+
+165
+00:13:23,000 --> 00:13:28,358
+Po prvez takto dôdu, že viemé, že
+existujú, už v roku 1945 rexistovali, a
+
+166
+00:13:28,398 --> 00:13:33,603
+po druhé ten jeho znamy výsledok, kde
+vlastne ukázal, že odistý urovne sú si tie
+
+167
+00:13:33,643 --> 00:13:35,000
+počita čejky valentne.
+
+168
+00:13:36,000 --> 00:13:38,769
+Siceby velmi tu pučky počite dokázal
+
+169
+00:13:47,000 --> 00:13:51,874
+Takže toto nabrhol a takže záchraná
+
+170
+00:13:51,914 --> 00:13:56,500
+pred nejakým zlim aj aj daťho do 38.
+
+171
+00:13:57,500 --> 00:13:59,460
+Jej máš, půjateči časodává.
+
+172
+00:13:59,500 --> 00:14:01,500
+Aby byl omedzený prasé.
+
+173
+00:14:03,500 --> 00:14:07,460
+No a toto bola prvačasť
+vlastne toho slavne očlaná.
+
+174
+00:14:07,500 --> 00:14:11,527
+vlastne toho slavneho članku, kde
+vlastne akože nastolout ten problém rozmišla o
+
+175
+00:14:11,567 --> 00:14:13,620
+tom, že čo to vlastne
+stroje robí a tak dalej.
+
+176
+00:14:13,660 --> 00:14:15,151
+A ptom sa venuje 9.
+
+177
+00:14:15,191 --> 00:14:20,621
+vyčítkám svoje vlastnej
+myšlenky, čo je caľkom zajmuj, že ako
+
+178
+00:14:20,661 --> 00:14:25,762
+keby už sždédy boli znamenia
+kéto nazori na stroje na jej
+
+179
+00:14:25,802 --> 00:14:27,880
+rozmišlenia tak dalej.
+
+180
+00:14:31,000 --> 00:14:33,460
+a zfukniem zostaľa, aby bol klut.
+
+181
+00:14:33,500 --> 00:14:38,753
+A osobnie si vysním, že bol
+pomarnie štiedrl, bo napríklad prva
+
+182
+00:14:38,793 --> 00:14:43,740
+vyčítka byla taká, že strojenie majú
+dúšu ako človek, a tým pádom nie môžu
+
+183
+00:14:43,780 --> 00:14:48,523
+rozmišlať. Čo on pôvdá, že no
+
+184
+00:14:48,563 --> 00:14:52,269
+oka... Nemalé, by sme
+te datvríť, že človek
+
+185
+00:14:54,500 --> 00:14:58,310
+Človek dokaže vytvrdi neho človek a tak
+prčočo by človek nemoho vytvrdi nečo je nemi
+
+186
+00:14:58,350 --> 00:15:00,000
+sliace. Zruba toto v skratke povedal.
+
+187
+00:15:01,000 --> 00:15:02,660
+Hej, to je asi tak nává.
+
+188
+00:15:02,700 --> 00:15:04,960
+Skorý na ložanska dogma ako.
+
+189
+00:15:05,000 --> 00:15:09,960
+Realmi. Né, ako vyčitka.
+
+190
+00:15:10,000 --> 00:15:14,308
+Druga je podľa mňže
+predkvapivoj roši rena do dnes a hov
+
+191
+00:15:18,000 --> 00:15:22,275
+tak by to malo proudi velmi mizerné dô
+sletky a tým padom nebudeme veť že tak je to
+
+192
+00:15:22,315 --> 00:15:26,660
+nieče je možné. Je to že
+argument hlavý v piesku.
+
+193
+00:15:26,700 --> 00:15:31,511
+Si pověže keby to to vplatilo, tak je
+to pre názvalmi nie prijeme tak byť byť
+
+194
+00:15:31,551 --> 00:15:33,260
+predpukalo, že to nie platí.
+
+195
+00:15:33,300 --> 00:15:36,260
+Takže... Prej.
+
+196
+00:15:36,300 --> 00:15:39,760
+Bolt to je videntne v tedy rácio.
+
+197
+00:15:39,800 --> 00:15:44,000
+Z Zdjalka to je najhoší proti
+argument, ktoré musa venuval.
+
+198
+00:15:46,000 --> 00:15:51,425
+Takže povrož, že toto je
+argumentač na hýba tým, že a plůž na
+
+199
+00:15:51,465 --> 00:15:55,960
+konsekvencí, ale že to v
+matematiky nie funguje.
+
+200
+00:15:56,000 --> 00:16:01,218
+Zajmavají argument, ktorí sa
+objavuje často a je Roger Penrose.
+
+201
+00:16:01,258 --> 00:16:05,000
+Také tým znamy fizik, ho
+povžil nedávno 30.000.
+
+202
+00:16:09,500 --> 00:16:12,460
+Tôry vlastneho vori, že
+viem, že matematiké nie úplna.
+
+203
+00:16:12,500 --> 00:16:16,438
+To je ten gudolote odomu nie úplnosti,
+že sú matematiké tvrdinie, a ktoré nie
+
+204
+00:16:16,478 --> 00:16:21,222
+dokážeš dokázať, aj keď sú
+pravťí veľčí vidne, tak si ich
+
+205
+00:16:21,262 --> 00:16:24,500
+zostrojú. A z toho
+bydní ako malo vyplínúť,
+
+206
+00:16:28,500 --> 00:16:33,713
+Ďčo je tiešne uplnelogické
+lebo, a ľudia robia veľmi vela
+
+207
+00:16:33,753 --> 00:16:38,000
+hip a a sponť sa
+považujeme za inteligentnych.
+
+208
+00:16:39,000 --> 00:16:44,393
+Ďčo je tie hipi v tematématik,
+bina zabrziili pred vítvoriem do
+
+209
+00:16:44,433 --> 00:16:45,960
+koľa môho program.
+
+210
+00:16:46,000 --> 00:16:47,960
+Tak tak tak.
+
+211
+00:16:48,000 --> 00:16:49,351
+Ďčieš nej.
+
+212
+00:16:49,391 --> 00:16:52,000
+Zájma v jargument.
+
+213
+00:16:52,800 --> 00:16:58,012
+Jeden profesor Geoffrey
+Jefferson Poviedal, že nie
+
+214
+00:16:58,052 --> 00:17:03,193
+budem považovať stroje za misliacé a
+kde no kažu napísad v sonet alebo zložiť
+
+215
+00:17:03,233 --> 00:17:05,300
+koncert abo trakoncert.
+
+216
+00:17:06,300 --> 00:17:09,260
+To našte stěj plamne
+neoplačilebo takom pripadiať.
+
+217
+00:17:09,300 --> 00:17:10,800
+Ďenie som inteligentnych.
+
+218
+00:17:12,300 --> 00:17:15,460
+Do těžnou. Ale vlastne...
+
+219
+00:17:15,500 --> 00:17:20,734
+Ale vlastne narežal na to, že či
+straj dokážu vlastne cítit ľemocie a
+
+220
+00:17:20,774 --> 00:17:23,560
+dokážujích preta vydňaké myšlinky.
+
+221
+00:17:23,600 --> 00:17:28,891
+Věže urobi, že zálubeni sonet
+a tak dál neoksi moho zálubeni
+
+222
+00:17:28,931 --> 00:17:33,896
+sonet, ale proste, že věže
+emocčné niečovložiž do svojho
+
+223
+00:17:33,936 --> 00:17:34,586
+diela.
+
+224
+00:17:39,500 --> 00:17:43,830
+Tý věži si, že si, že své vlastne, ale
+ty ostatné silen nejakou domíšla, že na
+
+225
+00:17:43,870 --> 00:17:48,934
+zaklady svoje skúsenosti, takže aý stroje
+možno budú funguvať, ale mi podobne, že
+
+226
+00:17:48,974 --> 00:17:51,460
+nebude mi rozumie to mu čo sa v nich děje.
+
+227
+00:17:51,500 --> 00:17:54,115
+Ale budu z nich vypadávať také výs
+
+228
+00:18:04,000 --> 00:18:08,994
+No, no, no, pre sne. Všetávajú do
+toho giga, giga v dát, a zrazujú nečo
+
+229
+00:18:09,034 --> 00:18:12,960
+vypluje čo si cech
+celý, a o nevedia pre čo.
+
+230
+00:18:13,000 --> 00:18:17,960
+Tak, takže to by je podporovalo.
+
+231
+00:18:18,000 --> 00:18:21,960
+To by je to by už pre sne, že
+dostávame sa tam, že by to skorpovalo.
+
+232
+00:18:22,000 --> 00:18:27,360
+Djalší, Počitač ľudia hovorili, že
+
+233
+00:18:27,400 --> 00:18:29,460
+počitač niktid je dokáže spravit to a to.
+
+234
+00:18:29,500 --> 00:18:34,723
+Šdiket pověže sa nedá tak skorčný
+skorčný, je kdo spraví, na pravýkoľ bolo, že
+
+235
+00:18:34,763 --> 00:18:36,460
+počitač nemožu robiť hiby.
+
+236
+00:18:36,500 --> 00:18:39,460
+Ale ty věž do počitaču
+programovéť, aby spravil hibu.
+
+237
+00:18:39,500 --> 00:18:40,962
+Pozatě pomérť nejed
+
+238
+00:18:51,000 --> 00:18:54,000
+Ale počitač, čo vajutá
+mofomisí, na prožide badování.
+
+239
+00:18:55,000 --> 00:18:59,360
+Hej, že počitač věj kontrolovať
+programy, ktoré na nią běžia sledovať čo robia,
+
+240
+00:18:59,400 --> 00:19:02,400
+takže těž s fúkol zostaľa.
+
+241
+00:19:04,600 --> 00:19:09,385
+Ada Lavlays, veľmi z náma Figur
+
+242
+00:19:13,000 --> 00:19:17,500
+ktorá jále vlastne tiež námá, kokebi
+jedná z takých pionierok počítačou.
+
+243
+00:19:19,500 --> 00:19:24,852
+Tak ona malá osobnie si myslím, že
+najplodnejší proti argument, proti
+
+244
+00:19:24,892 --> 00:19:29,642
+umelé inteligencii, stořím sa
+tým tožním, ale veľmi za malovňom
+
+245
+00:19:29,682 --> 00:19:34,850
+premyšlať. V podstatě,
+že počítače nesuschopne
+
+246
+00:19:34,890 --> 00:19:36,500
+originaliti.
+
+247
+00:19:37,000 --> 00:19:41,317
+že berú len točo si mkedy si povedal a
+nejakot o pomenia a dajúť možno výstup, ktorý
+
+248
+00:19:41,357 --> 00:19:44,000
+ale variáciu na točo si
+do nich keli si vložil.
+
+249
+00:19:45,000 --> 00:19:47,960
+Ok, minimálne z moho pohladu.
+
+250
+00:19:48,000 --> 00:19:53,242
+Problem z týmto argumentom
+je taký, že sú ľudia schopni
+
+251
+00:19:53,282 --> 00:19:55,846
+úplne originalnej myšlingi, nie s
+
+252
+00:20:00,000 --> 00:20:05,212
+Originalnych, preštench som
+copovodá, že paní kôko originalnych
+
+253
+00:20:05,252 --> 00:20:10,099
+véci vídalo za svojšiô, že by
+sa podľom načudováva, že všetých
+
+254
+00:20:10,139 --> 00:20:12,100
+originaluje veľmi malo.
+
+255
+00:20:13,300 --> 00:20:18,335
+Abo veš jež vymysleť pribych, tak si jež
+vymysleť nejakú zapletkoľ, že on štruktora
+
+256
+00:20:18,375 --> 00:20:22,354
+zapletky podobne
+podobránie, kde bola kôko formatou
+
+257
+00:20:23,500 --> 00:20:26,000
+Pozateľa, že antickou grecká
+veje želou z nedrámi, a podobne.
+
+258
+00:20:27,000 --> 00:20:32,249
+Je velmi táskevi, mi slniečoče, nejakou
+variace, že je to dokunala myšlenka zmotne
+
+259
+00:20:32,289 --> 00:20:37,706
+na zničoho. Dokunala neo
+original, že pro neskášte aj v
+
+260
+00:20:37,746 --> 00:20:42,735
+lúdskom po nímani je
+prerába, nie je to, čo si kedy si
+
+261
+00:20:42,775 --> 00:20:48,144
+počul a zažil a je to vlastne nejčo,
+
+262
+00:20:48,184 --> 00:20:52,500
+ale to nové produktom toho stáreho, že
+to vlastne je problem z originalitou.
+
+263
+00:20:54,500 --> 00:20:57,460
+Originalitou takže neberé žweci.
+
+264
+00:20:57,500 --> 00:21:00,537
+Ako žinnej enn. Česí
+absolutný toto, co mi svojím.
+
+265
+00:21:00,577 --> 00:21:04,460
+Je to také troška skerysie, to
+takové domíť, že nic šospravížné.
+
+266
+00:21:04,500 --> 00:21:06,885
+Už aj toho, bo šiťkoť šospravíš
+
+267
+00:21:10,500 --> 00:21:15,762
+ale je to účšité závame na zámi
+zlenie, a nebra oby som to tým
+
+268
+00:21:15,802 --> 00:21:19,960
+počšitočem, že nie sú až
+taký originalny ako mi.
+
+269
+00:21:20,000 --> 00:21:21,172
+Tak, tak, tak, tak.
+
+270
+00:21:21,212 --> 00:21:26,627
+Ale co to je to veď z okto repekná
+premyšla, že do Akemi Erý si možeme
+
+271
+00:21:26,667 --> 00:21:30,000
+myslým, že sme originalnější ako stroje.
+
+272
+00:21:35,500 --> 00:21:40,612
+Viem, že na toto je argument v
+proti tým umelými televigenciám,
+
+273
+00:21:40,652 --> 00:21:45,500
+ktoré robias tými obrazkami,
+že je mňať zavalbovým darňať.
+
+274
+00:21:46,500 --> 00:21:51,616
+Obrazov, že problém je, že oni, a
+spoň, co som počú, neviem, asi nie
+
+275
+00:21:51,656 --> 00:21:55,654
+všetky, ale že vyčina z
+nich, že len vytvára už zn
+
+276
+00:21:57,500 --> 00:22:01,483
+obraskov, jakých obroských data, a teda
+zvítvárat túnovu, to nové umenie, takže
+
+277
+00:22:01,523 --> 00:22:03,860
+vlastnielen prehraba stare.
+
+278
+00:22:03,900 --> 00:22:09,257
+Tak môr každý umnelet spoča štúdi,
+a tieš si naštudoval díla starých
+
+279
+00:22:09,297 --> 00:22:11,040
+maestrov. Ja je...
+
+280
+00:22:11,080 --> 00:22:14,040
+Samozrej. Absolutnie.
+
+281
+00:22:14,080 --> 00:22:17,465
+Teraz je otázka
+prešté, to som chcel povede,
+
+282
+00:22:21,000 --> 00:22:26,238
+od stárších uméleckých
+dialuřečíví aj niečo prídať a
+
+283
+00:22:26,278 --> 00:22:30,460
+keď vý je tak po vto
+akom pripadenie problém.
+
+284
+00:22:30,500 --> 00:22:34,545
+A hlavne to asi je tak a tak a tak a
+těnka hranica nieme zitím, že kedy nieko
+
+285
+00:22:34,585 --> 00:22:38,768
+copiruješ a kedy si ním len o
+vprívniený a už robiš niečočo čo považel reza
+
+286
+00:22:38,808 --> 00:22:39,500
+originalne.
+
+287
+00:22:44,500 --> 00:22:49,021
+Taký nudni argumento, že mozgi
+nie funguji digitalne, že mažnou
+
+288
+00:22:49,061 --> 00:22:50,600
+neurologický signal.
+
+289
+00:22:50,640 --> 00:22:54,741
+Ok, je se v nezpravou počiteč, ale to
+je že, ok, je už je robiť programa, aby
+
+290
+00:22:54,781 --> 00:22:57,920
+simulová mozov, takže by to
+mohl pokračo dať podobne.
+
+291
+00:22:57,960 --> 00:23:03,208
+Preste se si predstavil také 3D
+mozov, kde je proste, že asimuluje sa
+
+292
+00:23:03,248 --> 00:23:08,473
+tam každé to prepleň A po tomu
+
+293
+00:23:08,513 --> 00:23:13,161
+také argumentrům, těžně bym vynuvať
+vôlačasú, ale te da vlastne len, že když máš
+
+294
+00:23:13,201 --> 00:23:17,262
+spravánie ludské, tako no sa nedapopised
+nejakými pravidlami podobň ako sa nemída
+
+295
+00:23:17,302 --> 00:23:22,651
+popísed na priklad počítač, ale
+skutočnosti když máš doch statočne sofistikovane
+
+296
+00:23:22,691 --> 00:23:24,657
+program, těžně věž prestne
+
+297
+00:23:31,500 --> 00:23:34,719
+Ten program ako celok može fungúvať
+pomervne záhadne, ako funguľa preklal algoritmi
+
+298
+00:23:34,759 --> 00:23:39,003
+na socialnych sít, jak diť ľiť, že mi
+nevieme ako to presne funguje, prostě máme
+
+299
+00:23:39,043 --> 00:23:44,307
+obrovský program, do ktorou zmyšalatili
+data roky a teraz stový pluvať nejaké
+
+300
+00:23:44,347 --> 00:23:45,000
+vysledky.
+
+301
+00:23:50,000 --> 00:23:55,379
+Najdivnejšie argument, ktoré no než se som
+si našel ten povod Ďak je to čišlano, tak
+
+302
+00:23:55,419 --> 00:23:56,860
+nezabiniem dajem hodopopisou epizet,
+alebo je to celkom peknia či tánie.
+
+303
+00:23:56,900 --> 00:24:02,400
+Nie to náročne. Prejemne, že je staršie,
+veď je članki sú celkom prístupné likeom.
+
+304
+00:24:03,200 --> 00:24:04,870
+Argoven či slodia 9.
+
+305
+00:24:04,910 --> 00:24:09,400
+9 bol taký, že čo ak
+existuje mimo zmyslové v nímanie.
+
+306
+00:24:09,700 --> 00:24:11,085
+Žeg existuje nejak
+
+307
+00:24:18,500 --> 00:24:21,647
+ale pat, priniem už dí podvádzať a
+dokáže určit, ktorý je počite, že ktorý nie
+
+308
+00:24:21,687 --> 00:24:26,935
+dokáže. A tu rým v tom
+článku píše, že starášně rad by
+
+309
+00:24:26,975 --> 00:24:32,273
+som zvodotil, že toto je celé bolo, sť,
+alebo vydatá, ktorý poznáme tak bez takých
+
+310
+00:24:32,313 --> 00:24:36,000
+to veci dokaže úplně
+dobre fungovať, ale máme veľa
+
+311
+00:24:42,000 --> 00:24:45,663
+Všie zvlášte, že v tej doby sa javilo,
+že je telepatia vedecky dokázana a tedaž
+
+312
+00:24:45,703 --> 00:24:46,820
+potom sa ukázalo, že nie.
+
+313
+00:24:47,800 --> 00:24:52,979
+Čo mňa osomňa teda nie
+čakal som, že toto bolo 1950 a
+
+314
+00:24:53,019 --> 00:24:56,000
+spon preturinga viznam na vec.
+
+315
+00:24:57,500 --> 00:24:59,500
+A si to nejí.
+
+316
+00:25:00,000 --> 00:25:02,500
+Na hranie ještě veži,
+čo musam usilivenovať.
+
+317
+00:25:03,300 --> 00:25:08,500
+Hej, Nahrane, že to označo, že to
+je pozor, toto už je vážná vyčitka.
+
+318
+00:25:09,000 --> 00:25:13,840
+To to boli srandi do teraz a teraz je
+taká vážná, kde budem důfa, že neplatí jej
+
+319
+00:25:13,880 --> 00:25:15,000
+pred pokladný.
+
+320
+00:25:17,000 --> 00:25:18,960
+Nejviem, na...
+Zaskočilo má to cemšli, takový.
+
+321
+00:25:19,000 --> 00:25:23,385
+Čažko sa pozera na niečočočov
+pre nazi jasné a pre nich e
+
+322
+00:25:29,000 --> 00:25:32,980
+Neviem presno, takže
+ľovojú tých 90-50 ako to bolu.
+
+323
+00:25:33,020 --> 00:25:38,260
+Možno to bol, vešu, možno mi si, ti to
+dával do swoich člankov teraz, že...
+
+324
+00:25:38,300 --> 00:25:43,060
+...kdybyte 50, bylo když
+sa ini se tím videa vešte.
+
+325
+00:25:43,100 --> 00:25:48,243
+No a to boli to bola druhá
+často članku, prvabl také to na
+
+326
+00:25:48,283 --> 00:25:53,431
+záklane nastolanie, ptom byla sa venuje
+
+327
+00:25:53,471 --> 00:25:58,167
+mysliacím strojom v
+roku 1950, akože ekstremne
+
+328
+00:25:58,207 --> 00:26:02,697
+trúfala a zajmava myšlenka, kde on vlastne
+
+329
+00:26:02,737 --> 00:26:07,907
+premyšla trošku vezo
+ty originalite a o tom
+
+330
+00:26:07,947 --> 00:26:12,778
+ako vlastne dospeje
+ludský mozov, niekedy ko
+
+331
+00:26:12,818 --> 00:26:15,000
+originalne a velké myšlenke.
+
+332
+00:26:16,000 --> 00:26:21,360
+Ol môto mu taký pekný
+períklad, že prestał si
+
+333
+00:26:21,400 --> 00:26:23,460
+jadrovú reakciu.
+
+334
+00:26:23,500 --> 00:26:26,460
+Viem, že je to zvlášnou výsvetlenie.
+
+335
+00:26:26,500 --> 00:26:31,869
+Aže presta si, že máš napríklad
+vela uránu, ale nie toľko, aby bol,
+
+336
+00:26:31,909 --> 00:26:33,460
+aby hrozil výbuch.
+
+337
+00:26:33,500 --> 00:26:38,636
+A teraz ke doňho skočí,
+doňho skočí jeden eutron, tak sa
+
+338
+00:26:38,676 --> 00:26:43,909
+zahytiť. Neutron, tak sa zahytí rozbí je
+možno jednojadro, ale nie vyvolatú retiazov
+
+339
+00:26:43,949 --> 00:26:46,120
+reakci. Nie znikne ta
+super myšlingka stov.
+
+340
+00:26:47,320 --> 00:26:52,545
+Když máš ale dostatočne mnoštvo,
+štěpneho materiálu a straliž do toho
+
+341
+00:26:52,585 --> 00:26:57,940
+neutron. Takstý zrazvnik
+retiazova reakci a vychrali sa obrovské
+
+342
+00:26:57,980 --> 00:27:03,437
+mnoštvo nových záme típická
+
+343
+00:27:03,477 --> 00:27:05,960
+misl človeké v takom
+tom podkritickom stave.
+
+344
+00:27:06,000 --> 00:27:10,983
+Ďž dostaniež nových usog informácije,
+niečosniho spravíš, ale nevyvolato takutú
+
+345
+00:27:11,023 --> 00:27:12,460
+eropcinových myšlinok.
+
+346
+00:27:12,500 --> 00:27:17,763
+Aže posvete je behalen zopar ľudí v
+takom tom super kritickom stave, že z
+
+347
+00:27:17,803 --> 00:27:22,808
+razu dostanú nových usog
+informáci, a nastanete na heuré kamoment,
+
+348
+00:27:26,500 --> 00:27:31,806
+poznatkou. A pojďal, že takto asi
+teda vlastne funguje lúdska originalita,
+
+349
+00:27:31,846 --> 00:27:36,889
+že typický lanc pracovom
+informácie ale niekto rý jedinci se dostanú
+
+350
+00:27:36,929 --> 00:27:42,235
+dostavu, kedy ta nova informácia veď
+obroske umnostu nohymišlinok, ktorý
+
+351
+00:27:42,275 --> 00:27:47,581
+tonto stávna zíva, že super kritický a
+je to pekne okasho v tiech rokov bôla
+
+352
+00:27:47,621 --> 00:27:52,907
+tendencia rozmišlať o ve Jezu, by
+si a si ľudia našli iný priklad
+
+353
+00:27:52,947 --> 00:27:58,304
+típujem. A teda rozmišlo, že či
+by stroj dokázal takto, byjí takto
+
+354
+00:27:58,344 --> 00:28:00,460
+originalny a takto to v rivi.
+
+355
+00:28:00,500 --> 00:28:02,460
+Nahovorí si, že tak dobre.
+
+356
+00:28:02,500 --> 00:28:04,460
+Dospeli človek to dokáže.
+
+357
+00:28:04,500 --> 00:28:09,577
+A dospeliho človek, aby sme asi
+ako pročitečový program napísali t
+
+358
+00:28:13,500 --> 00:28:18,741
+ľudské dětko je
+pomervne tupé, minimálne prvej
+
+359
+00:28:18,781 --> 00:28:19,960
+dní života.
+
+360
+00:28:20,000 --> 00:28:25,132
+Či by sme nedokal zjalign na
+programovať, mysel batoliatia a
+
+361
+00:28:25,172 --> 00:28:30,512
+potom odsimulovať jeho proces
+učenie a zyskavania skusenozí
+
+362
+00:28:30,552 --> 00:28:32,000
+zokoliteo sveta.
+
+363
+00:28:37,000 --> 00:28:41,148
+by toto výdlo k misli,
+ktorá by vydela by na
+
+364
+00:28:41,188 --> 00:28:45,460
+nerozlíšenie od misle do spéleho človeka.
+
+365
+00:28:45,500 --> 00:28:50,460
+Dobre. No ale kde je problem z tymto?
+
+366
+00:28:50,500 --> 00:28:54,460
+Niegde, toto je tak ako
+funguje v podstatě strové učenie.
+
+367
+00:28:54,500 --> 00:28:56,460
+Zoberyš program, ktorý na začiatku neroby.
+
+368
+00:28:56,500 --> 00:28:59,500
+A ja teraz me v som,
+že vovývoj to plienok.
+
+369
+00:29:00,500 --> 00:29:05,860
+Jej, že toto on v podstatie na čertol
+ako funguje umelany telegencia respektive
+
+370
+00:29:05,900 --> 00:29:11,039
+strove učenie presnešie,
+nie umelany telegencia, ale
+
+371
+00:29:11,079 --> 00:29:16,304
+nejde to koli tomo, že
+napríklad nejaký vypočšto výlimitami a
+
+372
+00:29:16,344 --> 00:29:20,460
+ovo nečo také. Uľoho máme
+zrazu rozbytu na dvečastí.
+
+373
+00:29:20,500 --> 00:29:23,900
+Po prve na programovanie misel díjteť ať.
+
+374
+00:29:24,000 --> 00:29:26,460
+a potom procesučenia.
+
+375
+00:29:26,500 --> 00:29:31,127
+Kde je róvno
+identifikálne, že je doložíte tématne
+
+376
+00:29:31,167 --> 00:29:36,251
+nekemutáci, nekej obmeny,
+nahodne, čiže máš tu mysel, a postopňa
+
+377
+00:29:36,291 --> 00:29:41,523
+umeníš a skúšaš pomocom nejaké
+metody prilodzeného vyberu, že
+
+378
+00:29:41,563 --> 00:29:45,500
+ktoré vedú k lepším
+vysladku mák, ktoré gohoším.
+
+379
+00:29:47,500 --> 00:29:50,642
+Če na príklad v prípade Turingo hote,
+stubi si malto hodnotícela a máš teda
+
+380
+00:29:50,682 --> 00:29:52,520
+jednoduchý program,
+ktorý si môli je dějtia.
+
+381
+00:29:52,560 --> 00:29:57,356
+Urobížný a malu zmenu a pozrieš,
+že ja spon občazne neošáli štoho
+
+382
+00:29:57,396 --> 00:30:02,341
+hodnotícela. A keď a no, tak ten
+program si zobery, že ostatnáte
+
+383
+00:30:02,381 --> 00:30:03,708
+zahodiš a za sa o
+
+384
+00:30:12,400 --> 00:30:15,360
+kde je by si videl pokrok,
+ale náváš to je by si po údra.
+
+385
+00:30:15,400 --> 00:30:17,400
+Prezne, prezne, prezne, prezne.
+
+386
+00:30:19,400 --> 00:30:24,806
+Takže, caľkom pekne nastolil, to ako
+funguje v podstatie do dne z velké časti
+
+387
+00:30:24,846 --> 00:30:29,631
+strove učenie.
+Počiarkoľ do ulež to si toho,
+
+388
+00:30:34,500 --> 00:30:39,292
+v pliu ty na hodnosti, tým náhodných
+obdumien, sto obmien, z ktorých nekým
+
+389
+00:30:39,332 --> 00:30:43,960
+evolúčným mechanizmom, evolúčnou
+selekcio vyberáme dálšie dálšie.
+
+390
+00:30:44,000 --> 00:30:47,607
+Ale ansčučne je už len
+potom, že róvno je na vrođ.
+
+391
+00:30:47,647 --> 00:30:52,117
+Tytovec, by sme mohli
+testovad neje, možno začetku njedna
+
+392
+00:30:52,157 --> 00:30:53,692
+konversácia podob
+
+393
+00:31:00,500 --> 00:31:05,813
+Čo sa ukázalo, že a tam teda
+konversacené nieni neká, a tam
+
+394
+00:31:05,853 --> 00:31:08,500
+vidíšlo na tém líslodu ktoho pohybu.
+
+395
+00:31:09,500 --> 00:31:14,523
+A ukázalo sa, že takýto
+prístup naozaj vidie k
+
+396
+00:31:14,563 --> 00:31:18,731
+algoritmom, algú podšičovým
+programom, ktoré hrajušach posate lepši ako
+
+397
+00:31:21,500 --> 00:31:24,560
+Ale počšť lepš ako jate, alebo aj
+mýdve, do kupíky, býzme si moly našepkávať.
+
+398
+00:31:24,600 --> 00:31:25,860
+Hej, hej.
+
+399
+00:31:25,900 --> 00:31:31,360
+Ale veďš, šách je už v myslím,
+že v tej hrách to resoporazane.
+
+400
+00:31:31,400 --> 00:31:34,560
+Počší to, čo môže žaden čo je.
+
+401
+00:31:34,600 --> 00:31:38,360
+Aj to go, čo sa těž
+hrádolo, že takte na toľko vás.
+
+402
+00:31:38,400 --> 00:31:39,200
+To go
+
+403
+00:31:45,700 --> 00:31:47,460
+prečo sa dějú a potom z razu.
+
+404
+00:31:47,500 --> 00:31:52,537
+Új, go je niekulko násobný zlužitý šehrá
+
+405
+00:31:52,577 --> 00:31:55,500
+košách. Odporučovím je o tom...
+
+406
+00:31:56,000 --> 00:32:01,208
+Je o tom dokumentarný film na
+YouTube, kde je najdem, tak pošlo link
+
+407
+00:32:01,248 --> 00:32:02,860
+dohovedno popisote.
+
+408
+00:32:02,900 --> 00:32:05,300
+Pošlo výzame, malý, děl o tom.
+
+409
+00:32:06,000 --> 00:32:08,460
+A samko, poču si o nejakých...
+
+410
+00:32:08,500 --> 00:32:13,742
+A samko poču si o nejakých týchto
+tejsto, ktoré by spolnil nejaký robot, že
+
+411
+00:32:13,782 --> 00:32:19,111
+nejko oklamal, ale by ničo také o tom
+šáchu, viemé už asi povedať, že tam asi na
+
+412
+00:32:19,151 --> 00:32:20,960
+nerozodinania o človeka.
+
+413
+00:32:21,000 --> 00:32:22,960
+Môžne šte lepšie.
+
+414
+00:32:23,000 --> 00:32:28,225
+Je tak a cenach, ktoré na to
+prestne vyhlasená, že možne tam posilať
+
+415
+00:32:28,265 --> 00:32:33,173
+svoje programi, a oni a začal nikto
+
+416
+00:32:33,213 --> 00:32:38,136
+nezyskáto uplmou ocenu, že by
+tím prešel, jak sa hovorí s
+
+417
+00:32:38,176 --> 00:32:39,500
+čistým štítom.
+
+418
+00:32:41,000 --> 00:32:46,417
+Dávajú odniel, ale potom nejaké menši ceny
+na úrovní parti s íc dolarou, tak zvana,
+
+419
+00:32:46,457 --> 00:32:51,460
+že bronzova cena a strejborna a zlata
+je za to skutočne rozlušnutie testu.
+
+420
+00:32:51,500 --> 00:32:56,952
+Tiesne dostal nikdo, ale hentie bron Výnom
+zovecený dajú, to může do sa veľmi dobre
+
+421
+00:32:56,992 --> 00:33:01,960
+snažila, bol veľmi pre svečívi. V
+jednom zprvých ročníkům napríklad veľmi
+
+422
+00:33:02,000 --> 00:33:07,098
+dobre zabral program, ktorí jednoducho,
+daval, jednoducho odpovedia a daval do nich
+
+423
+00:33:07,138 --> 00:33:09,960
+gramatické hiby. To celko mnober veľmi.
+
+424
+00:33:10,000 --> 00:33:12,000
+Tako by sa skám osvombavíš
+
+425
+00:33:19,000 --> 00:33:24,100
+také, ktoré postate by dokázali napuno
+odsimulovať človeka ešte nebo livi vývínute.
+
+426
+00:33:25,200 --> 00:33:30,616
+Keď si dáš do Google, tak ti náhodí
+nejaké výsledky, ale sú to náštilo, že v
+
+427
+00:33:30,656 --> 00:33:35,131
+nejakom specialnom
+kontextie došlo naozekto může umela
+
+428
+00:33:35,171 --> 00:33:40,499
+inteligencia, alebo teda nejaký
+algoritmus vyprodukoval výstu, ktorí
+
+429
+00:33:40,539 --> 00:33:43,698
+človek nie od veľa správna, prekl.
+
+430
+00:33:43,738 --> 00:33:48,960
+4 na internete už môžu byť vyrobené počita
+čovo veľa pechných obrazku, veď ja robiť.
+
+431
+00:33:49,000 --> 00:33:54,067
+Takže sú nejaké to veci, kde je
+keď nevěž, a nie porovna vás výstup
+
+432
+00:33:54,107 --> 00:33:59,273
+človeka a výstup storoja, tak tým
+je napadne, že to bolu vytvorene
+
+433
+00:33:59,313 --> 00:34:01,846
+strojom. To znamená, že už me cel
+
+434
+00:34:06,000 --> 00:34:11,226
+Po slovenský, že či sa mô podarilo
+spliníť, alebo preisturingovým testom,
+
+435
+00:34:11,266 --> 00:34:16,404
+ale mi odpisaľ, že Turingotesť diete,
+ktorým sa mery a schopnos počita čo
+
+436
+00:34:16,444 --> 00:34:21,758
+vých systémou simulovať
+intelynentne správanie, ktorý bolo považovane
+
+437
+00:34:21,798 --> 00:34:22,500
+za lúdské.
+
+438
+00:34:31,360 --> 00:34:35,134
+Pertos a stále pracuje na vylepšovanie
+algoritma technologii, ktoré mi pomahajú sa
+
+439
+00:34:35,174 --> 00:34:36,700
+učiť a zlepšovať moje schopnosti.
+
+440
+00:34:37,600 --> 00:34:43,100
+Wow! Čo je, kurže píkná odpovedť, ktorú
+možno písavne jaký brigadnik z Philippin.
+
+441
+00:34:44,600 --> 00:34:46,900
+A zjedou by som mutože.
+
+442
+00:34:56,500 --> 00:35:01,660
+Já som študentom počas kúšky dal prečiteť
+krátku SN temu, na ktorú oni pret ti me
+
+443
+00:35:01,700 --> 00:35:06,500
+referovali. Tu SN je chalná před GPD.
+
+444
+00:35:07,500 --> 00:35:10,500
+To bylo vlastne na to, že kýmo
+právým písom kúnech sa nečím zabaví.
+
+445
+00:35:11,500 --> 00:35:13,500
+A potom som na nodych co
+ho, že krátky feedback.
+
+446
+00:35:14,500 --> 00:35:19,791
+A večšinno ten feedback, bo o tak Je
+to ok, nejto velmi dohobky, vizera
+
+447
+00:35:19,831 --> 00:35:24,960
+to niečo ako povrchnieši
+sloh alebo víc úc zviki pedie.
+
+448
+00:35:25,000 --> 00:35:29,960
+Na študentka sa opitala, že či
+to bolo vyrobena tým chat GPT.
+
+449
+00:35:30,000 --> 00:35:31,924
+Prezredeľ si?
+
+450
+00:35:31,964 --> 00:35:34,960
+Prezredeľ potom hej.
+
+451
+00:35:35,000 --> 00:35:40,000
+Ráčenie, ne. Rozmišal som či to
+etickém nepovedne, že to boloť.
+
+452
+00:35:42,500 --> 00:35:46,500
+Kdež som tomov čeratú, rene
+tak som sa opitaľ zosrandi
+
+453
+00:35:47,500 --> 00:35:52,500
+Čedžipiti, že kde to králik
+frida, máme doma králika frida,
+
+454
+00:35:53,500 --> 00:35:58,922
+kde pokial viem, ona ešte neboľa
+na svete keď Čedžipiti hrumál data
+
+455
+00:35:58,962 --> 00:36:04,247
+zosveta. Alebo oni ho d ťačo oni,
+
+456
+00:36:04,287 --> 00:36:09,640
+nejaký rok 2019, ale neviem,
+že či ho násávanie dať nezáčalo
+
+457
+00:36:09,680 --> 00:36:14,360
+skor a minimálne, že o
+Fridje do vtedy nikto nevedel.
+
+458
+00:36:14,400 --> 00:36:19,400
+Ja je, že do Kedy, boho do 21,
+neviem, kedy záčali z tými do tam.
+
+459
+00:36:27,000 --> 00:36:29,460
+Ďušiš, že čiš je to tenone čer pre
+kliaty celé výmyslel, alebo nie.
+
+460
+00:36:29,500 --> 00:36:33,460
+Uplne to bylo rozpíse ne do podroku.
+
+461
+00:36:33,500 --> 00:36:38,953
+A to je to, že je to, že je to, že
+je to, že je to, že je to, že je to,
+
+462
+00:36:38,993 --> 00:36:44,317
+že je to, že je to, že je to, že je
+to, že je to, že je to, že je to,
+
+463
+00:36:44,357 --> 00:36:47,423
+že je to, že je to, že je to, že je to,
+
+464
+00:36:50,500 --> 00:36:53,572
+Je to bolo rozpíse ne do podróbna ešte
+midal líng na članov, ktorý keď som klikol,
+
+465
+00:36:53,612 --> 00:36:55,000
+tak už bolo, že članov už nejak tývni.
+
+466
+00:36:56,000 --> 00:36:59,000
+A nevidel som či si ještě aj
+ten líng, ktomu vými slelov.
+
+467
+00:37:03,000 --> 00:37:06,910
+To kemi... Ktemi, že si
+aj ten líng, vými slel?
+
+468
+00:37:06,950 --> 00:37:10,231
+Co mi to vými slel? A ten líng, ktom
+
+469
+00:37:14,000 --> 00:37:17,532
+Jaže máš k tomu nejaké zdroje on, že na
+nech sa parčí a dalmi ten link, na to, režké
+
+470
+00:37:17,572 --> 00:37:19,500
+som si klikol tak som
+si stvo žené aktivný.
+
+471
+00:37:20,500 --> 00:37:22,500
+Lepši ako politici naši.
+
+472
+00:37:23,500 --> 00:37:28,632
+Uch, a vlastne akdualny veľký
+problém všetkých tých tých ced
+
+473
+00:37:28,672 --> 00:37:33,836
+boto, že oniž dýpo sobie
+dokonale seba ve domo a nie
+
+474
+00:37:33,876 --> 00:37:39,319
+věžiť totalne si Hej,
+misuj si, že pracová na tychto
+
+475
+00:37:39,359 --> 00:37:44,460
+čo boto je jedná z najfrusstru, jože
+si všetím, a seďže, alem tak sredíš, že
+
+476
+00:37:44,500 --> 00:37:47,920
+niečo to robi, a ho neviem, bali čo.
+
+477
+00:37:47,960 --> 00:37:53,284
+A najhoršie, že to potom daž do
+kontaktu z ľudmi, ktorý z toho bota spravia
+
+478
+00:37:53,324 --> 00:37:54,480
+velmi rýchlo.
+
+479
+00:37:54,520 --> 00:37:56,058
+Rasystú, alebo niečo
+
+480
+00:38:01,500 --> 00:38:03,460
+Vy ješil, že dáme do linku chat gpt.
+
+481
+00:38:03,500 --> 00:38:05,460
+Možete si vyskúšet,
+kdyto nekdy no je skusio.
+
+482
+00:38:05,500 --> 00:38:07,460
+A hovoriai poslovenský.
+
+483
+00:38:07,500 --> 00:38:09,460
+Hovorí poslovenský.
+
+484
+00:38:09,500 --> 00:38:11,460
+Čo je super.
+
+485
+00:38:11,500 --> 00:38:15,460
+Nie návad zame na odozdávanie sloho
+vypracovani chpohoco, že chat gpt.
+
+486
+00:38:15,500 --> 00:38:16,300
+Ale da sa
+
+487
+00:38:25,000 --> 00:38:27,960
+Da sa to ale neropytetom.
+
+488
+00:38:28,000 --> 00:38:32,960
+Je, no, týtále ten školski systém sa
+stému si skočně skor vysporiať, že jasné.
+
+489
+00:38:33,000 --> 00:38:37,960
+Ja toho hovorím už doho roky veči
+na uloch sú hluposti, takže keď sa.
+
+490
+00:38:38,000 --> 00:38:43,243
+Ráčer bý sa zame reali na
+kreativné ulohy, na koko
+
+491
+00:38:43,283 --> 00:38:48,585
+operativné ako, a Ale to jsme ovoje
+
+492
+00:38:48,625 --> 00:38:50,460
+malé problémiskú ostom,
+ktorý nikogo nezavím majú.
+
+493
+00:38:50,500 --> 00:38:55,559
+Samko, ja myslím, že takto to možeme
+ukončitý, oddjálšom užasnom človeku
+
+494
+00:38:55,599 --> 00:38:57,460
+zmesarô spravalých zvedí.
+
+495
+00:38:57,500 --> 00:38:59,460
+A je mi luto te nieho...
+
+496
+00:38:59,500 --> 00:39:02,460
+Nechcem povedať, že smutníko nezlebo...
+
+497
+00:39:02,500 --> 00:39:04,460
+Nechcem a byto tak vysnilo, alebo ur...
+
+498
+00:39:04,500 --> 00:39:05,300
+Sm
+
+499
+00:39:11,500 --> 00:39:16,858
+a nechcomej nejakú
+bagatelyzovate nejoživod, ale skorej, že
+
+500
+00:39:16,898 --> 00:39:22,312
+nemohlo dožiť výši, aby vydel aj
+veľa pokrokov, v počítačov za tých
+
+501
+00:39:22,352 --> 00:39:24,340
+30 rokov, kdyžže žije pobomne.
+
+502
+00:39:24,380 --> 00:39:26,960
+Takže bylo pobomne absolutne načeni.
+
+503
+00:39:27,000 --> 00:39:32,308
+Děakujem veľmi, že na spôčovate
+samko máme niečo, oho dom, po nožek č
+
+504
+00:39:35,500 --> 00:39:37,460
+Što u sabližie? 17.
+
+505
+00:39:37,500 --> 00:39:39,460
+Dobre. Bledžíš sa živa.
+
+506
+00:39:39,500 --> 00:39:41,460
+Na jeditie na zvrdu. A nočiži sa živa.
+
+507
+00:39:41,500 --> 00:39:43,460
+Epizoda 30. prevego 3.
+
+508
+00:39:43,500 --> 00:39:45,460
+Kéci spravmajš pominam, že? Da, Melink.
+
+509
+00:39:45,500 --> 00:39:48,500
+A je to 5. Vydíme sa v
+Bitem Bite, Bratí Slavé
+
+510
+00:39:58,500 --> 00:40:01,720
+Do mi sa na vlastišime, máme
+stránku veda to rbotka space.
+
+511
+00:40:01,760 --> 00:40:07,007
+Blížie sa dvéperceň ta zdanie,
+možete odozdať na žmôvčičskému združeniu
+
+512
+00:40:07,047 --> 00:40:12,400
+veda to rôzet. Těždame asylignato do
+tle tohle pizody a lbo na stránke bude.
+
+513
+00:40:12,440 --> 00:40:16,360
+A sam kovrobe perfektne
+instagram storki na instagramy.
+
+514
+00:40:16,400 --> 00:40:17,246
+Tak chodího
+
+515
+00:40:22,000 --> 00:40:27,230
+Vám sa Barbora Marikova
+a v djeniku zmé preva
+
+516
+00:40:27,270 --> 00:40:30,221
+zrobím podkaz ľudskosti.
+
+517
+00:40:30,261 --> 00:40:35,205
+Oto m. ako na
+našemmentalne zdravie v plýva
+
+518
+00:40:35,245 --> 00:40:37,627
+rodina a spoločnost.
+
+519
+00:40:37,667 --> 00:40:43,039
+Zodborník mía
+odborníčkami rozuberám ako sa
+
+520
+00:40:43,079 --> 00:40:45,460
+v rodina hdidi trajú.
+
+521
+00:40:45,500 --> 00:40:47,960
+ako sa v rodina hdědí trauma, a
+ako sa dá v dospelosti uzdravit.
+
+522
+00:40:48,000 --> 00:40:50,960
+Ale rozpravám sa aj z
+ľudmi, ktorí vyskúšali terapil.
+
+523
+00:40:51,000 --> 00:40:55,925
+A zauj máma aj celospolocensky pohľat, ako
+sa ménia Slovenské rodiny, alebo ako sa v
+
+524
+00:40:55,965 --> 00:41:00,000
+našej spolocnosti cítia
+romky, romovia, Ďuďia čo sú kvýr.
+
+525
+00:41:09,000 --> 00:41:11,319
+Všetky podkastových aplikáciách.
