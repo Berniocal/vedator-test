@@ -1,0 +1,2734 @@
+﻿1
+00:00:00,000 --> 00:00:04,721
+Od zdroja, cest zvečenie až po obraz.
+
+2
+00:00:04,761 --> 00:00:09,318
+Veda nas opkopuje na každém kroku.
+
+3
+00:00:09,358 --> 00:00:14,079
+Vytajte priveda tořskom podkaste,
+
+4
+00:00:14,119 --> 00:00:17,691
+ktorom sa vydeme rozprávť.
+
+5
+00:00:17,731 --> 00:00:22,000
+A prirode okolás moj meno józiv.
+
+6
+00:00:26,500 --> 00:00:31,378
+Možnosti nevedeli ale berno
+je hlavne mesto elektronových
+
+7
+00:00:31,418 --> 00:00:36,111
+mikroskopov. Sidljetam tu tištri
+velke firmy, ktoré tvory a štrétinu
+
+8
+00:00:36,151 --> 00:00:37,460
+mikroskopu na svete.
+
+9
+00:00:37,500 --> 00:00:42,793
+A takéto mikroskopi služená priklad na
+vyskúm virusu a bakteri moderných materiálu a
+
+10
+00:00:42,833 --> 00:00:43,500
+mikročipu,
+
+11
+00:00:48,500 --> 00:00:53,960
+Tymofišer Scientific odkál sa nám
+pryslubili 2 výskumnicy honza iša a on drobaca.
+
+12
+00:00:54,000 --> 00:00:58,960
+Skúzme si ich násiča to k prestaví, ja
+hala ni po to mnečo povedte na úvod o sebe.
+
+13
+00:00:59,000 --> 00:01:03,960
+Môžete to doplný, bo sme vás
+redukovali do jednej veti a obo do 2 káštevo.
+
+14
+00:01:04,000 --> 00:01:06,154
+Takže sam k prestav honzu iš
+
+15
+00:01:14,060 --> 00:01:19,014
+Vyštudová fiziku konnenzovaných látok
+na priodoveďské fakultie masarikový
+
+16
+00:01:19,054 --> 00:01:23,949
+úniverestých brne, a kde
+absolvať na pedagogické minimum pre vyu
+
+17
+00:01:23,989 --> 00:01:29,358
+kúfiziki a okremino volkom faní
+popularizací vedy a teda dnes kne idé prispieť
+
+18
+00:01:29,398 --> 00:01:34,154
+aj sam. Super a druheho
+hosta máme on druhú bacha
+
+19
+00:01:35,500 --> 00:01:40,516
+elektronový optik, absolvent,
+fizikalného inženérství na pakujte strojního
+
+20
+00:01:40,556 --> 00:01:45,960
+inženérství vysokého učený technického
+vbrne a načené zdovedí a je popularizácie.
+
+21
+00:01:46,000 --> 00:01:49,960
+Takže sme sa tu super
+stretlizme tu 4 popularizáto rí vedy.
+
+22
+00:01:50,000 --> 00:01:55,431
+A ja sa veľmi těším levo tu to temu
+som myslím, že sa môjú hovedu medzi
+
+23
+00:01:55,471 --> 00:02:00,229
+prv že by sme mohli robíť podkast.
+
+24
+00:02:00,269 --> 00:02:03,560
+Tak nejčí si samo spomínah že jo som
+týs pomínal aj elektronovej mikroskopi.
+
+25
+00:02:03,600 --> 00:02:06,460
+Som tý povedal že si netrúfám.
+
+26
+00:02:06,500 --> 00:02:08,860
+Do, do, do, že nižaných neviem.
+
+27
+00:02:08,900 --> 00:02:12,260
+A sa povedal že si o tom netrúfa.
+
+28
+00:02:12,300 --> 00:02:16,560
+A výchala ni se sa nam ozvali a že
+byste nám niečovo nikto povedali.
+
+29
+00:02:16,600 --> 00:02:17,400
+Tak sme
+
+30
+00:02:22,500 --> 00:02:26,267
+prijali a neskaj pre hosíhovorím, že
+sa bude môžete rozpráť o elektroných
+
+31
+00:02:26,307 --> 00:02:30,760
+mikroskopov čo je keď ohocik dovidel v
+nejaký obrazok ze elektronomého mikroskopuje
+
+32
+00:02:30,800 --> 00:02:35,560
+taký malý Hubble o teleskop,
+by sa povedalo do mikrosueta.
+
+33
+00:02:35,600 --> 00:02:40,260
+To je myslím seko pěkrách
+arachteristika, každopádne díky zapozvání.
+
+34
+00:02:40,300 --> 00:02:41,100
+A no,
+
+35
+00:02:46,000 --> 00:02:51,160
+Ďak znežíme divatnať úplne nejmenší a
+nejfundamentálne, zé, kterých se skláda
+
+36
+00:02:51,200 --> 00:02:52,500
+svět vokolonás.
+
+37
+00:02:54,500 --> 00:02:59,185
+Kluť si možete predstavit a povedad, že
+kde pracujete, a konkrétne, že na čo má byte
+
+38
+00:02:59,225 --> 00:03:01,500
+daľu ďa si vás veděli nejde za radíť?
+
+39
+00:03:02,500 --> 00:03:04,500
+Míme a možete treba začíť.
+
+40
+00:03:09,500 --> 00:03:13,489
+a teďka se tady zabiven, elektronovou
+optikou automatizaci, obad vás ondrou
+
+41
+00:03:13,529 --> 00:03:14,960
+pracujeme v efirmne Ermofy.
+
+42
+00:03:15,000 --> 00:03:20,460
+Saintyfik v brenie a
+podstatie tu, co jsem ťíkladak je
+
+43
+00:03:20,500 --> 00:03:25,318
+věčinou náplni neprace, to
+znamená zabivene, tak tanti
+
+44
+00:03:25,358 --> 00:03:30,846
+elektrony v tých tubusách lýtají,
+jak to udělat a by lýtali správne ale
+
+45
+00:03:33,000 --> 00:03:37,564
+a je převato uděvát abytem mikroskopce
+uměl, všetit sa, nebo sechová trochu
+
+46
+00:03:37,604 --> 00:03:38,900
+chytřejneš nešto teď.
+
+47
+00:03:40,180 --> 00:03:43,860
+Ja, miasto je zmuslouvo
+teďkom, ktoré ja ondrabačo ahoj.
+
+48
+00:03:43,900 --> 00:03:48,605
+Já se zaprívám hodně podobnými
+večmi jako hondza, a hlavně tedy to
+
+49
+00:03:48,645 --> 00:03:51,414
+elektronovou optikou, mám trochu jiný
+
+50
+00:03:56,500 --> 00:03:58,200
+a všetké se zaměřením na
+fizygání inženíjírství.
+
+51
+00:03:58,240 --> 00:04:03,082
+A kde jsem se práve po prvé svetkále
+selekternomu mikroskopí a ukámbřím těme to
+
+52
+00:04:03,122 --> 00:04:08,259
+nadchlo. Už bychem studia s
+vlastně vy užel možnost učasť něco tady
+
+53
+00:04:08,299 --> 00:04:10,880
+internčipu v rámci programu BIN.
+
+54
+00:04:10,920 --> 00:04:14,766
+Takže to byla super
+příležitost a pak jsem plinule
+
+55
+00:04:20,000 --> 00:04:24,347
+Takže kao hodňa zábavne se zabýváme, tým
+máme by nám te elektronilitali, tam, kde
+
+56
+00:04:24,387 --> 00:04:28,060
+máí, dopadali, tam kam máí a aby
+bylo všichno krásnia s nedefinovaný.
+
+57
+00:04:28,100 --> 00:04:31,300
+Prípadne si to spočí
+dám, jak to má výdopředu.
+
+58
+00:04:33,100 --> 00:04:38,331
+Jaké díkde rozpráva môto, že ako
+som sa dostal k viziky, tak spomí n
+
+59
+00:04:43,500 --> 00:04:47,399
+kde bol akapitol elektronomom mikroskopie
+a to mi v tedy píš všeté tak zvláš na vec,
+
+60
+00:04:47,439 --> 00:04:50,875
+že toto vôbec funguje, že je to je baz
+veci čo má do tiale k fizikia, kde som je
+
+61
+00:04:50,915 --> 00:04:53,000
+jako, že níkdy úplne
+podedniny neporozumil.
+
+62
+00:04:54,000 --> 00:04:59,308
+Toho no jest to s to tržeba mnozdy
+ráci, kdyžím, protože nie obečný f
+
+63
+00:05:08,500 --> 00:05:13,531
+Jak byla tady zmínia akumtova mechanika,
+to tam máme uzdroju, máme tady elektrinova
+
+64
+00:05:13,571 --> 00:05:18,847
+magnetizmus, tím, jak posíva a meni kam
+tý elektoné kontrole me kam dopadaji, máme
+
+65
+00:05:18,887 --> 00:05:23,492
+tady nejakou latématikla
+spracováni, obrazu, mechaniku a
+
+66
+00:05:23,532 --> 00:05:25,731
+konstrukci, a nevediní tepla
+
+67
+00:05:30,500 --> 00:05:32,902
+kde je to je to pravdú si přesniechce ve
+spôčitat nejakou energi, ale ktorý mají a
+
+68
+00:05:32,942 --> 00:05:38,330
+kudite na poletí. Takže mě na tom
+hodstom hrozne bavi, že to takové
+
+69
+00:05:38,370 --> 00:05:42,760
+říště, kde si hraje hrozne moď
+poboru tefizikia spojú si do hromány.
+
+70
+00:05:42,800 --> 00:05:46,415
+Opelnia, ideálne když tu
+môjšte umíte programov
+
+71
+00:05:54,000 --> 00:05:57,994
+kde robíte elektronov, alebo kde robíte na
+tých elektronových mikroskopov, musíte by
+
+72
+00:05:58,034 --> 00:06:02,560
+všecho uch, vlasti všetkých tých odborov.
+
+73
+00:06:02,600 --> 00:06:08,006
+Dobrý super. A si záčím je úplne
+od taková dama, že povezme si, že
+
+74
+00:06:08,046 --> 00:06:13,405
+ako funguje obyčaná lupa, to asi
+každý pozna a prejdem je vlastne a
+
+75
+00:06:13,445 --> 00:06:18,680
+štím elektronových mik Myslím si právez on
+
+76
+00:06:18,720 --> 00:06:21,960
+druhéka, jak to sú hlepe
+vysvětlit vyspovoňový opáš.
+
+77
+00:06:22,000 --> 00:06:23,960
+A jedan takhle v podkástu.
+
+78
+00:06:24,000 --> 00:06:29,335
+Przez tatme si, že máme nejakého
+paráčká, ktorí stoji pred obří lupou, a vžak
+
+79
+00:06:29,375 --> 00:06:31,960
+nieme, že nás bude
+třeba zajímat jeho hlala.
+
+80
+00:06:32,000 --> 00:06:33,769
+To parášak nejak vysokí
+
+81
+00:06:41,000 --> 00:06:44,860
+V tom bude vycházet paprasky, že k je mne
+dva nejaké paprasky, s mělem ktej čočce.
+
+82
+00:06:44,900 --> 00:06:46,069
+V nebo kte lupie.
+
+83
+00:06:46,109 --> 00:06:51,276
+A tady zda obří lupla, potom
+funguje, takže podle toho, na které místo v
+
+84
+00:06:51,316 --> 00:06:55,460
+jeho paprasky dopadnou, tak
+o nejakým spúksúbeno ohné.
+
+85
+00:06:55,500 --> 00:06:58,115
+Když to bude vlišu osy, také ohnet
+
+86
+00:07:04,500 --> 00:07:08,701
+Tehle papresky, které do zhlaví panáčka,
+které se rozbíhají, tak po prúchodu to
+
+87
+00:07:08,741 --> 00:07:09,960
+úplou se záčnou zbíhat.
+
+88
+00:07:10,000 --> 00:07:15,142
+No a joo metriete úplou je tak
+šikovne udělána, že ona papresky ochiva
+
+89
+00:07:15,182 --> 00:07:20,233
+systematický, to znamená, jakého
+lidva papresky se potom za to úplou
+
+90
+00:07:20,273 --> 00:07:21,960
+protnou v jednom bodie.
+
+91
+00:07:22,000 --> 00:07:23,154
+To je to místo,
+
+92
+00:07:28,000 --> 00:07:31,977
+zniklí to vlupou a tamo můžeme zachytit,
+když si tam dáme treba stínít kone, bo naše
+
+93
+00:07:32,017 --> 00:07:33,701
+okone, bo neco podogného.
+
+94
+00:07:33,741 --> 00:07:38,809
+A tadyk ten bót nemusí výstejne daleko
+osté optické osy, výškate hlaví toho panáčka
+
+95
+00:07:38,849 --> 00:07:42,885
+nemusí výstej na ako ta původní
+může to být větší nebo menešší.
+
+96
+00:07:51,500 --> 00:07:54,520
+papresky procnou na te
+stranie lúty, kde se na to divane.
+
+97
+00:07:54,560 --> 00:07:59,392
+Můžou ipotovný třeba výhave a my si
+je musíme protáhnou, tak seba výmlo
+
+98
+00:07:59,432 --> 00:08:04,286
+zkutečných výrtuáň, ale
+myslím, že proto základní
+
+99
+00:08:04,326 --> 00:08:07,360
+představu, by to tak
+lemohlo mohlo stášice.
+
+100
+00:08:07,400 --> 00:08:09,169
+Čiže kuloho lupie vlast
+
+101
+00:08:15,000 --> 00:08:17,108
+nágrniem do kopí, aby sa stretli.
+
+102
+00:08:17,148 --> 00:08:22,395
+A kože úplný naivná otázka a každý z
+nastos kúsi, a neto hrve sa ženie, že dávne sa
+
+103
+00:08:22,435 --> 00:08:24,460
+ve dve lupi, trí lupi šty rí lupi.
+
+104
+00:08:24,500 --> 00:08:29,460
+Tak máto to nekiel hymíť, že
+dokážem rozlišovť stále ménšie veci.
+
+105
+00:08:29,500 --> 00:08:30,603
+S pravo otázka.
+
+106
+00:08:30,643 --> 00:08:31,500
+Zrôvna úte
+
+107
+00:08:38,500 --> 00:08:41,960
+No, tam vidíme, je nom co si
+rozmozane, ho už nejsme schopným vlastnostiť.
+
+108
+00:08:42,000 --> 00:08:43,195
+Co to pozurujeme?
+
+109
+00:08:43,235 --> 00:08:47,960
+U tiech luby na zastavili toť a
+vady, tiech lube ako výchtech čoček.
+
+110
+00:08:48,000 --> 00:08:50,288
+Toho, že ty čočky nejsou dokonale.
+
+111
+00:08:50,328 --> 00:08:55,712
+Ale je pokudom ty luby udělí
+dokonale, a sme schopný udělat čočky tak, aby
+
+112
+00:08:55,752 --> 00:08:56,538
+se k dokon
+
+113
+00:09:02,500 --> 00:09:05,948
+Tak si rýkále, tak mi můžeme za sebedáť
+libovolní počet lup, a do sahnováť, tak si
+
+114
+00:09:05,988 --> 00:09:10,603
+rýkáleť, tak mi můžeme za
+sebedáť, libovolní počet lup, a do
+
+115
+00:09:10,643 --> 00:09:15,423
+sahnováť, tak si rýkáleť, tak mi
+můžeme za sebedáť, libovolní po
+
+116
+00:09:25,500 --> 00:09:29,640
+počet lup a dosáhnout obrovského
+zvětšení milionů, miliard krát a tak dále.
+
+117
+00:09:29,680 --> 00:09:35,080
+Ale od určiteho zvětšení už nám
+to nepřináší dálší informácii.
+
+118
+00:09:35,120 --> 00:09:40,379
+Je to jako, kdybych, ja se vyfotil na
+mobilu nějakou fotku, a potom negré
+
+119
+00:09:40,419 --> 00:09:44,120
+vkúčite a či si prostěno zvěčoval, tak
+
+120
+00:09:49,000 --> 00:09:51,560
+rozmazaný fleck jednotlivé pixely, ale
+nemám v tom obceženo vžal dálší žádnou
+
+121
+00:09:51,600 --> 00:09:56,620
+informací. A to, jaká informací v tom
+obcežená je praviedáno tím, odzlišením
+
+122
+00:09:57,620 --> 00:10:00,060
+a limity toho rozlišení sú dvojí.
+
+123
+00:10:00,580 --> 00:10:05,640
+Jednak teda pravěto optickou sú
+ustavou, vadami těch čoček nebo je těch lúk,
+
+124
+00:10:12,500 --> 00:10:17,793
+svetlen v tom hledú příkladie, což je
+elektromagnetické vlniení a vlíní díky
+
+125
+00:10:17,833 --> 00:10:22,460
+differeakcijna, drékne
+mela, čočká, nebo na
+
+126
+00:10:22,500 --> 00:10:27,960
+clojách, a pertúrách, takov, tak má nejaké
+
+127
+00:10:28,000 --> 00:10:32,894
+limity, jak blíské body vám
+můžeme rozlišit, jak detelní
+
+128
+00:10:32,934 --> 00:10:35,000
+informáci dukaže přenez.
+
+129
+00:10:36,000 --> 00:10:40,772
+Na tohlensto byva omezením, nebo
+teďka už tím hlenstím, s mne omezení u
+
+130
+00:10:40,812 --> 00:10:45,989
+svetelných mikroskopů, kdy našiečočky, jak
+ťikál on drádo kažeme vyrubit velice, pre
+
+131
+00:10:46,029 --> 00:10:51,460
+sned, tak by nám nevnášeli přílšvolke
+vady, a omezvená svolnová delka světla.
+
+132
+00:10:51,500 --> 00:10:52,962
+A proto seli de, dí
+
+133
+00:10:59,500 --> 00:11:01,500
+mohli sme komocíteho pozorovat
+meneši věci, s lepším rozlišení.
+
+134
+00:11:02,500 --> 00:11:03,710
+No a cože nechciel?
+
+135
+00:11:03,750 --> 00:11:06,000
+No to sa uzrovnatý elektronikže.
+
+136
+00:11:06,500 --> 00:11:11,837
+On je to sa občiáme komodletické veliny,
+ale tam se pak dostáváme do plastia rengenu
+
+137
+00:11:11,877 --> 00:11:16,802
+a tak dává. A to sebu přináší
+učite svoje komplikát se limity,
+
+138
+00:11:16,842 --> 00:11:18,154
+protože zistíte,
+
+139
+00:11:23,000 --> 00:11:26,589
+vůbec nefunguje ako sklenie náčečka, že
+ty paprský se vlastne ledí pohrát stejne
+
+140
+00:11:26,629 --> 00:11:29,300
+rovne. Je už je tieške je ovládát.
+
+141
+00:11:29,500 --> 00:11:32,978
+Tak, preto by sme sa môli na chvoku
+zastavit, že vlastne ako se o tělimití optických
+
+142
+00:11:33,018 --> 00:11:37,100
+mikroskopovže. Po prvej je
+mikroskop len sofistikovanie šia lupa.
+
+143
+00:11:37,700 --> 00:11:39,008
+A no, teď daže do
+
+144
+00:11:46,500 --> 00:11:49,640
+A si říkať žeto som fistikovanieš
+lupabý na jednostarno moho mnoho mnohe,
+
+145
+00:11:49,680 --> 00:11:51,360
+mikroskopiekej a konstruktéry urazit.
+
+146
+00:11:51,400 --> 00:11:53,160
+On je tam spodzáv.
+
+147
+00:11:53,200 --> 00:11:54,960
+Můc za imem.
+
+148
+00:11:55,000 --> 00:11:59,923
+Ale je to pravda. Ale
+počičičičičičičičičičičičičičičičičičičičičičič
+
+149
+00:12:10,000 --> 00:12:13,860
+máme velmi dobrou kontrový nad tím, jak
+přesně sem esityčočky vyrobit a hlavně, jaký
+
+150
+00:12:13,900 --> 00:12:18,460
+mají mít efekt na to světlo v
+druhné v dálnosti od své osy.
+
+151
+00:12:18,500 --> 00:12:20,163
+Protože ono to soumať.
+
+152
+00:12:20,203 --> 00:12:25,460
+Já alle večočky a my si vôlíme ten
+jej efekt na to naši světelnou vynu,
+
+153
+00:12:25,500 --> 00:12:28,500
+tím, že zvolíme ten konkrétným material
+
+154
+00:12:34,000 --> 00:12:38,883
+Zvolíme si povrchtečočke vybraušení jako
+kulový, nebo ako arabolický, nebo jako
+
+155
+00:12:38,923 --> 00:12:44,182
+ještě něco iného. Díky tady, co môj,
+sme schopní potlačíc ty vady, které
+
+156
+00:12:44,222 --> 00:12:48,923
+by nám spúsobovali, že ten
+náš původní jeden bot, by se ne
+
+157
+00:12:57,000 --> 00:13:01,160
+spusúbené no to u Geometrie, či by umíte
+jednu vlnovou delku svetla, tak by stávám
+
+158
+00:13:01,200 --> 00:13:03,260
+za ostřeba do jednohokonkretního podů.
+
+159
+00:13:03,300 --> 00:13:08,531
+A můžeme kombinací vhodných čoček
+kompenzovat, i to, že nepožíváme jednu
+
+160
+00:13:08,571 --> 00:13:12,660
+vlnovou delku svetla, jednu
+energii a různé vlnové delky.
+
+161
+00:13:12,700 --> 00:13:13,777
+A díky tomu, v
+
+162
+00:13:21,540 --> 00:13:23,860
+Jedom to, že máme prostý vlnov...
+
+163
+00:13:23,900 --> 00:13:27,220
+že zuprazem vlnov, o učite vlnovae dialce.
+
+164
+00:13:28,420 --> 00:13:33,877
+Z optickým mikroskopom jsme omedzeni to
+
+165
+00:13:33,917 --> 00:13:35,660
+vlnovu dôžkoho svetla vlastne.
+
+166
+00:13:35,700 --> 00:13:40,060
+A. Zoto zlane, tisť,
+kresu tak nelimitované.
+
+167
+00:13:40,100 --> 00:13:45,363
+Ale to je taký zvlášný lý
+Mysláš, že vľnová dalška nie ma
+
+168
+00:13:45,403 --> 00:13:49,067
+dolny límit, môže byť lubovol nemalá a
+perejde to ceste na rengén, kamáži a renie a
+
+169
+00:13:49,107 --> 00:13:54,146
+podobne. Takže den a bola prvýkrad
+vlastne štruktura odhalená pomoc ho rengénovego
+
+170
+00:13:54,186 --> 00:13:58,460
+svétla a pomoc ho vlastne takéte i
+vrášne štruktury, ktorú viť to vydla.
+
+171
+00:13:58,500 --> 00:13:59,423
+Takže v akum
+
+172
+00:14:07,500 --> 00:14:10,960
+tak sem vlastne môro světelných
+mikroskopnych vesmyslú v oboru vyditelného světla.
+
+173
+00:14:11,000 --> 00:14:15,674
+Čili nejakých těch klasických
+4760 nm, ale je samozvěně pravde, že
+
+174
+00:14:15,714 --> 00:14:20,912
+elektromagnetské závrhení můžeme
+nohem dôží a zajmé na mlechem krátší
+
+175
+00:14:20,952 --> 00:14:25,154
+vlnové realky, a tam potom
+nastávají problény v praktick
+
+176
+00:14:31,500 --> 00:14:36,824
+Tak už ty našie čočky je ich
+indexlomuje v velmi blísky až limitě blísky
+
+177
+00:14:36,864 --> 00:14:42,039
+je ničce. To znamená to rozhrani čočka
+vzduch, nám potom neohjívávene po persek
+
+178
+00:14:42,079 --> 00:14:43,460
+takéko bychom chceli.
+
+179
+00:14:43,500 --> 00:14:44,852
+Dá se to na hradit.
+
+180
+00:14:44,892 --> 00:14:47,577
+Ruznými, inými, vychitávkami, typ
+
+181
+00:14:54,500 --> 00:14:57,000
+a konstrukci, dráší a hóž se stím za hází.
+
+182
+00:15:00,000 --> 00:15:05,114
+Pozasí aj problém, že odístej hranici to
+začne byť do znebezpečne svetlní, že gama,
+
+183
+00:15:05,154 --> 00:15:07,000
+že ja redí to už je neče také, že...
+
+184
+00:15:08,000 --> 00:15:13,357
+Pozasne byť to začinať
+vytnebezpečné, už nekým vytnebezpečné, už nekým
+
+185
+00:15:13,397 --> 00:15:18,672
+vytnebezpečné, už Pupice na nicu
+
+186
+00:15:18,712 --> 00:15:23,355
+diváme palíme do toho nečím takovým to tak
+všakúšie vlka, pravdě pormozjetem zoreksi
+
+187
+00:15:23,395 --> 00:15:24,500
+zároveň zničíme.
+
+188
+00:15:25,500 --> 00:15:29,500
+Než aby v tomhle elektronii
+byli o něco liornýšich těm zurku.
+
+189
+00:15:30,500 --> 00:15:32,500
+Či da majú, či zabel.
+
+190
+00:15:33,500 --> 00:15:36,885
+Je pravdé, že vlastne
+podle toho, co používá
+
+191
+00:15:41,500 --> 00:15:46,397
+svetlo o rúzné vynove dálce, tak tím z
+toho v zorgu dostáme i různou informaci a
+
+192
+00:15:46,437 --> 00:15:50,960
+tímho můžeme různi ovlivnovat,
+nevřiká odránie, kde i poškozovat.
+
+193
+00:15:51,000 --> 00:15:56,116
+Všechno toho, vlastne oto není, o tom,
+že bychom se snažili najít jednu útymátní
+
+194
+00:15:56,156 --> 00:15:57,846
+metodu, jedan útymátní
+
+195
+00:16:05,000 --> 00:16:06,109
+ale tedy se doplnují.
+
+196
+00:16:06,149 --> 00:16:07,460
+Jako informací získáme?
+
+197
+00:16:07,500 --> 00:16:12,460
+Vyditále jeho svetla,
+zrengenu, infračerveného, jeho z
+
+198
+00:16:12,500 --> 00:16:17,546
+elektronu. Dobre, a toto se
+nám povedali o tom limitrě tých
+
+199
+00:16:17,586 --> 00:16:22,492
+optických mikroskopov a asi
+prišel niktoveľmi můdrí a
+
+200
+00:16:22,532 --> 00:16:27,668
+povedal si, že čo takto spravite
+elektromový mikroskop, že aby nám
+
+201
+00:16:27,708 --> 00:16:33,072
+toto ne neám toto nevadilo, ale
+vysme toto obyšli tak ako povysenom,
+
+202
+00:16:33,112 --> 00:16:38,460
+že tu podstatú vyúžíte a
+tých elektronom prýví tvárání
+
+203
+00:16:38,500 --> 00:16:43,512
+obrazu, že či si máme
+presovi, že poselate tam nejaký
+
+204
+00:16:43,552 --> 00:16:47,860
+elektrický průvda, alebo magnetí
+zmuzný, jaký používate, ako vo čo sa dějí.
+
+205
+00:16:47,900 --> 00:16:53,221
+Tak ja si bude možná dobrý
+rozlí Je o jakých elektronových
+
+206
+00:16:53,261 --> 00:16:56,661
+mikroskopek se ba výme, protože to má
+pak zásední vylev práve na to, na co se
+
+207
+00:16:56,701 --> 00:16:58,880
+vlastně díváme a pomocí
+čo to vôžíme ten obraz.
+
+208
+00:16:59,380 --> 00:17:04,440
+Rozlíšujeme mezi rádkovacími,
+rastrovacími elektronovými mikroskopy,
+
+209
+00:17:04,840 --> 00:17:09,686
+kdy se vlastně díváme a zorek
+dopadají elektrony a my se pak dí
+
+210
+00:17:15,500 --> 00:17:17,440
+ale detekujeme signal nad zorkem.
+
+211
+00:17:17,480 --> 00:17:22,523
+A nebo máme prozažovací elektronové
+mikroskopy, transmystní elektronové
+
+212
+00:17:22,563 --> 00:17:25,660
+mikroskopy, kém se tedy
+zabi vámem medvazon zou.
+
+213
+00:17:25,700 --> 00:17:31,123
+A tam se nedíváme na tu nad zorek,
+ale necháme ty elektronik, proto
+
+214
+00:17:31,163 --> 00:17:34,900
+leti tým zorkem, zorek teré
+musí by to rozumětenky, ne
+
+215
+00:17:39,000 --> 00:17:43,460
+a na sledne si ten obraz vyzvečujeme
+a ten pak, da tekujeme na kamerze.
+
+216
+00:17:43,500 --> 00:17:46,460
+Takže toto sú dvahľa v mňa prínci pý.
+
+217
+00:17:46,500 --> 00:17:51,950
+Byto na sviť posvítím na jednom místo
+v zorku seberu signal a tak získávam
+
+218
+00:17:51,990 --> 00:17:56,901
+intenzituje jednogopikselu a tak
+le postupněskénový po vzorku a
+
+219
+00:17:56,941 --> 00:17:59,731
+získávam intenzituje jednotlivých
+
+220
+00:18:04,500 --> 00:18:09,350
+Čiže vlastne ako keby jeden pristobie
+taký, že pozrým sa na povrch svoje ruky a po
+
+221
+00:18:09,390 --> 00:18:14,293
+budkách sa pozrán na každém jistá druhé,
+že se stúku preženiem rengen a získám ten
+
+222
+00:18:14,333 --> 00:18:17,000
+obraz, čo preletelce zňu.
+
+223
+00:18:18,000 --> 00:18:21,385
+A no, a no, ja dá sa,
+že dá sa, tak rície to
+
+224
+00:18:26,000 --> 00:18:31,032
+No a toto je niečečo asi ľudią, wobec
+niejasne, že prečo má vôbec elektroni akú
+
+225
+00:18:31,072 --> 00:18:35,500
+vlomu dulšku a akom slova zmyslo
+do kaže elektron zastupíť svetlo.
+
+226
+00:18:37,000 --> 00:18:41,991
+Je to je hrozně dobra otázka,
+protože většinou s lidím, že
+
+227
+00:18:42,031 --> 00:18:44,160
+elektronísovýnom malé nabite kuličky.
+
+228
+00:18:44,200 --> 00:18:49,000
+Ale si si už se povlety,
+tak okudovate na 20...
+
+229
+00:18:49,500 --> 00:18:54,765
+22. až 9. či slasemy pletov, tak
+přištenu pan Louis de Brulí, že elektroný
+
+230
+00:18:54,805 --> 00:18:59,885
+vlastně nejsověno má na byte
+kuličky, klasické částice, ale že mají
+
+231
+00:18:59,925 --> 00:19:01,560
+iniákej svoje vlnění.
+
+232
+00:19:01,600 --> 00:19:06,971
+On nežíkal nebo vynou delku, on
+nežíkal co se tam vlní, ale návrhnul, že
+
+233
+00:19:07,011 --> 00:19:09,523
+se moho uchvčitých ohledých ch
+
+234
+00:19:13,000 --> 00:19:18,400
+o hledy chovate ako světla svetlo, tím že
+mají právětůvlnou v reelku, a potom pozdí
+
+235
+00:19:18,440 --> 00:19:22,460
+experimentálne devysen a želmer
+to i prokázali v roce 30.000.
+
+236
+00:19:22,500 --> 00:19:27,284
+Prokázali to tak, že
+nechaliposívat elektronový
+
+237
+00:19:27,324 --> 00:19:32,342
+svazek na nějaký kristav
+atomu a nastinitku viděli
+
+238
+00:19:32,382 --> 00:19:37,791
+diffractční obrazec, Což
+im indikovalo, že to, co
+
+239
+00:19:37,831 --> 00:19:40,960
+tam muselo dopadat, tak muselo
+mít jákej vynovej vlastnosti.
+
+240
+00:19:41,000 --> 00:19:46,380
+V tomuľ opledú, tedy elektrony
+jsou podúbne světlu, tím že vse tam
+
+241
+00:19:46,420 --> 00:19:49,960
+nieco bruní a má jákej vynovej vlastnosti.
+
+242
+00:19:50,000 --> 00:19:54,941
+Ta jej vynovádeal
+pátvoj na tom zainímavé je
+
+243
+00:19:54,981 --> 00:19:57,000
+uměrna jej energi.
+
+244
+00:20:00,000 --> 00:20:05,150
+rýchlejší elektrón, tak má v krátší
+vynou delku, to znamená v prínci pudo
+
+245
+00:20:05,190 --> 00:20:09,460
+káže zobrazovat větší detaily,
+než takový, který leďý pomal.
+
+246
+00:20:09,500 --> 00:20:14,789
+U světla se dážíc tamto len
+nispěté z rýchlozstí jeho pohyvu, to je
+
+247
+00:20:14,829 --> 00:20:19,269
+to vždy vývaku, ale je to
+všetl větší energi, tak má v krát
+
+248
+00:20:23,500 --> 00:20:28,322
+Podle toho, jakém elektodovém mikroskopu
+se na věci zrůvna diváme, tak v jednom
+
+249
+00:20:28,362 --> 00:20:32,960
+případěta v novádelka veľi se dôležitá
+a v druhém je dôležitá o něco nejnie.
+
+250
+00:20:33,000 --> 00:20:38,374
+To kde to dôležite, jak když se
+diváme v tom prozažovacím mikroskopu a
+
+251
+00:20:38,414 --> 00:20:42,308
+obraz se nám tvouží
+podobne, ako vydíšmále ty klas
+
+252
+00:20:47,000 --> 00:20:52,253
+a tím, jak se odklání v jednotlivých
+části v tomho vzorku, tak nám zniká
+
+253
+00:20:52,293 --> 00:20:57,546
+kontrast, a tady, ktoré založené
+pravina, nejakém pázvem posvúť, ktoré
+
+254
+00:20:57,586 --> 00:20:59,960
+procházejí skrstej naš vzorek.
+
+255
+00:21:00,000 --> 00:21:05,373
+Na opabdyž se dívá moci
+skenovacího, rohastrovacího mikroskopu, tak
+
+256
+00:21:05,413 --> 00:21:10,688
+tam, jak ideme bote po bode, tak ale
+
+257
+00:21:10,728 --> 00:21:15,693
+spíše co najmenší oblasti interacti
+nekolika elektronu z tov hmotov a kolik to
+
+258
+00:21:15,733 --> 00:21:20,926
+vyrazí těch sekundávných elektronov je
+říkal on dra nebo kolik sej spětně odrazí a
+
+259
+00:21:20,966 --> 00:21:23,960
+na základie toho mí
+zbíráme celkojí ten sygnavo.
+
+260
+00:21:24,000 --> 00:21:29,171
+Takže tam si lepe vystečíme z toho
+predstavouta malé nabite kuličky,
+
+261
+00:21:29,211 --> 00:21:34,668
+prisať diváme potržete vlastne
+
+262
+00:21:34,708 --> 00:21:36,500
+učitá předstala toho, že
+ten elektron je i voda.
+
+263
+00:21:37,500 --> 00:21:42,104
+Čiže to vlastne postavene na takum zruba
+storočnom debrulyho objave, že aj v pohybe
+
+264
+00:21:42,144 --> 00:21:44,500
+elektronou sú nejaké volnové vlastnosti?
+
+265
+00:21:45,500 --> 00:21:50,028
+O ktorý sme vlastne mi mali nekloko
+podkastou, že zaklady kwantovej fizyky a že čo
+
+266
+00:21:50,068 --> 00:21:51,500
+za volnú to tam vlastne je.
+
+267
+00:21:57,500 --> 00:22:02,000
+od rôni, od rázi sa 5 a potom usudzujete z
+tohto rozdílu, že od čo sa to od rázilo?
+
+268
+00:22:03,000 --> 00:22:08,415
+Vlastne se ukážne tam je celá
+zologickáťéch elektronů a káždy bude to se
+
+269
+00:22:08,455 --> 00:22:13,801
+od rázi, nebo má to má týálu má nekú
+specifickou energii a právetej podle
+
+270
+00:22:13,841 --> 00:22:17,769
+toho sejakú energii
+odchází ten elektronostohov z
+
+271
+00:22:21,000 --> 00:22:23,860
+Ďak je vlastně ten signal, vytvôžit
+na základie toho různé kontrasty.
+
+272
+00:22:23,900 --> 00:22:28,473
+Můžu je tekovatstý, které se vyloženie
+spetne od rázi, to znamená detekujte
+
+273
+00:22:28,513 --> 00:22:32,927
+mprimární, který dopadlo od rázil se, a
+nemůmůžu je tekovatstý, které byli v tom
+
+274
+00:22:32,967 --> 00:22:34,500
+materiálu a já seme vyrazil,
+
+275
+00:22:45,000 --> 00:22:46,960
+Toho poberhu toho vzorku?
+
+276
+00:22:47,000 --> 00:22:52,264
+Je někto raz z týchto možnosti
+prestnešie, že je prestneš je
+
+277
+00:22:52,304 --> 00:22:57,460
+pozerať ten elektron, ktorý
+lejtí na ten objekt a sa odrazi,
+
+278
+00:22:57,500 --> 00:23:01,500
+alebo ten vyrazený z
+toho objektu je prestneši.
+
+279
+00:23:08,000 --> 00:23:10,500
+a ako sa spôčí ta
+vlastnita rýchlo zašytko.
+
+280
+00:23:11,500 --> 00:23:15,460
+Tam už pak ohodne zálezi, on nám to
+čiž každý dáva to šičko inou informacem.
+
+281
+00:23:15,500 --> 00:23:20,500
+Tam už musíme idu výdziť zodaťla toho, co
+se vlastne, děje přidopadu toho elektronu.
+
+282
+00:23:21,500 --> 00:23:26,269
+A už budu mít tešky alehky pre
+veľký vér leh sa batery velky a
+
+283
+00:23:31,500 --> 00:23:34,651
+neporunost, že pokud budú sčileta ten
+velky a tom, že ty elektroni se mi v rátí
+
+284
+00:23:34,691 --> 00:23:37,960
+spátky. To znamená, že z
+takovego místá bych dostal víc signalu.
+
+285
+00:23:38,000 --> 00:23:43,374
+Takže na detektoru nebo až se stavím celý
+obraz videl bych tady byla místo, letním,
+
+286
+00:23:43,414 --> 00:23:47,000
+co tam lehky a tom by byl černý,
+protože očut přišlo malo signalu,
+
+287
+00:23:55,000 --> 00:23:59,388
+Včorou informací o to po grafé, nebudu mi
+tak silný materiálový kontrast, ale budu
+
+288
+00:23:59,428 --> 00:24:03,816
+mi dobrou informací o to po grafé,
+povrchu, tedy jak je zvolniený, protože pokuj ten
+
+289
+00:24:03,856 --> 00:24:06,460
+povrch bude orientovaný
+preč od toho detektoru.
+
+290
+00:24:06,500 --> 00:24:11,833
+Tak ty alektoraný, které budou
+opouštět povrch, tak se k tomu detektoru ne
+
+291
+00:24:11,873 --> 00:24:12,523
+dostanú.
+
+292
+00:24:19,380 --> 00:24:21,000
+Jak vlastne vypadá.
+
+293
+00:24:21,040 --> 00:24:24,140
+Takže to vlastne
+kombinacia tých oboh zposobl.
+
+294
+00:24:24,180 --> 00:24:27,960
+Čo nám dáva pre snyší obraz?
+
+295
+00:24:28,000 --> 00:24:33,340
+To samote rozlišej díto
+obrazuje potom založene na tomto,
+
+296
+00:24:33,380 --> 00:24:37,840
+do jak malé oblasti, dokážeme
+týchlensty elektrony, soustredit koncentrovat.
+
+297
+00:24:37,880 --> 00:24:42,872
+Jako ale je kúž v
+
+298
+00:24:42,912 --> 00:24:47,940
+rikál Ondra, takže tak na
+dávají se stejným roznišení trochu
+
+299
+00:24:47,980 --> 00:24:49,500
+jinou informáciu.
+
+300
+00:24:52,500 --> 00:24:57,460
+A a kem ale oblasti asi
+dokažete zamíjediť takto?
+
+301
+00:24:57,500 --> 00:24:59,460
+Nechlúdia vidia z nečím porovnať.
+
+302
+00:24:59,500 --> 00:25:04,710
+Vlnova doška vidíteľná
+osvetla je 48 nm, a teda to je
+
+303
+00:25:04,750 --> 00:25:10,052
+zrubat. a ty da to je zrubaté dálými de
+rozvšelácij zchopnosti optických mikroskopov
+
+304
+00:25:10,092 --> 00:25:11,960
+tak, o jakých číslách sa baví metú?
+
+305
+00:25:12,000 --> 00:25:17,037
+No a se při znam, že z návysi úplne
+repomatojú týčí sláú našich kolegu semážů, týčí
+
+306
+00:25:17,077 --> 00:25:21,462
+vyskodovácijich mikroskopu, u
+našich prozážovácijich tak sam
+
+307
+00:25:29,000 --> 00:25:33,947
+ale našie elektronové mikroskopy
+obecne nejsou zatím omezenitím hle
+
+308
+00:25:33,987 --> 00:25:39,187
+diffractčním limitem tognoľu
+elektronu ale pořád nejakou přesností te v
+
+309
+00:25:39,227 --> 00:25:44,174
+úlozovkách optiky, u nás to jsou
+elektromangatecké čočky, takže realna
+
+310
+00:25:44,214 --> 00:25:49,330
+rozlišení, ktedy chdo sahujeme, jeho
+úplně nejevěpších mikroskopů, ktere
+
+311
+00:25:49,370 --> 00:25:54,655
+teďka ex a v ktoré teďka
+existují, tak sa úto 10 kipyko
+
+312
+00:25:54,695 --> 00:25:57,960
+metrú. Piko je na 1 minusť vás toho.
+
+313
+00:25:58,000 --> 00:26:02,960
+Abychom si to srovnali tak
+vlasti, že vydíkový a tom,
+
+314
+00:26:03,000 --> 00:26:05,960
+jakýval ký půl na no metrú, si rúba tak.
+
+315
+00:26:06,000 --> 00:26:10,960
+Tak tady kto je 10 krat menší.
+
+316
+00:26:11,000 --> 00:26:14,615
+Jeden vydíková tom, by
+sa rávlazlo až do 10 kip
+
+317
+00:26:16,000 --> 00:26:17,330
+típikselu na obrazku.
+
+318
+00:26:17,370 --> 00:26:21,413
+To teraz plátí proti ten kez
+zorky, jo by to prostřelíme tím zorky.
+
+319
+00:26:21,453 --> 00:26:26,476
+Pokud bychom jel mi a kis silnější zrupší
+zorek, tak na ne dostali se skorus, tam
+
+320
+00:26:26,516 --> 00:26:31,633
+hodně velkú roli nebude hrad už to do
+jak malé části toho zorku to vlastně
+
+321
+00:26:31,673 --> 00:26:34,885
+dostaneme, ale to, když tam bude mestřívať
+
+322
+00:26:40,600 --> 00:26:45,941
+takže dopadneme elektron od razi se
+nasou sedni a nejno i gribyme dopadne na to
+
+323
+00:26:45,981 --> 00:26:49,360
+stejné místo. Tak ten signal
+vlastne môžete všiečí oblasti.
+
+324
+00:26:49,400 --> 00:26:54,768
+Takže tam u texivneší vzorku,
+technostrovacých mikroskopusem remetovaný spíšetím
+
+325
+00:26:54,808 --> 00:26:55,869
+to neštím seku
+
+326
+00:27:04,400 --> 00:27:08,360
+kde tam se dostáváme na lepší rozlišení.
+
+327
+00:27:08,400 --> 00:27:13,787
+A druhou strálu, je to rastála, si
+mají my se všim odslešení a Žekodí, že to
+
+328
+00:27:13,827 --> 00:27:17,500
+už potnále metr fúč tých
+modech, že učite podnále metrů.
+
+329
+00:27:19,000 --> 00:27:20,769
+Ja som rychlo hodný, ne
+
+330
+00:27:26,500 --> 00:27:31,595
+že krajny majú rozmer nekoko stových
+kilometrou a to je v porovnání z nekolkými
+
+331
+00:27:31,635 --> 00:27:36,305
+metrami. Čiže typické optické
+mikroskopisu schopný rozlišit krajny, elektronové
+
+332
+00:27:36,345 --> 00:27:40,340
+mikroskopisu teď a schopný
+rozlišit jednotlivé domy v tých krajnách.
+
+333
+00:27:40,380 --> 00:27:43,960
+Takže také to šíale nyskopto vytvorilo.
+
+334
+00:27:44,000 --> 00:27:46,000
+Tako je.
+
+335
+00:27:51,380 --> 00:27:55,442
+Zacaz si to on tak opisvali tak, že
+straliime elektrona, ale tak typujem, že je
+
+336
+00:27:55,482 --> 00:27:56,820
+rucňa, alebo z niečo, že...
+
+337
+00:27:56,860 --> 00:28:01,020
+A si máte nejaký zdroj elektrono, potom
+niečo čo ich miery, niečo čo ich detegu.
+
+338
+00:28:01,060 --> 00:28:02,860
+No aby sú děviedili predstavíče.
+
+339
+00:28:02,900 --> 00:28:04,054
+Je či je to umi
+
+340
+00:28:13,500 --> 00:28:18,960
+zeskoli stolní mikroskopy, doktorých se
+dívali na ty trevky a na další zajmovec.
+
+341
+00:28:19,000 --> 00:28:24,308
+Elektroném mikroskopi jsou větší, co se
+týčetěch rastrovacích a odostuječí, co se
+
+342
+00:28:24,348 --> 00:28:25,960
+týčetěch prozažovacích.
+
+343
+00:28:26,000 --> 00:28:31,138
+Konkretnie, ty rastrovací, to je
+větskrát se vejdená větší stůl, pod
+
+344
+00:28:31,178 --> 00:28:32,308
+sebou tomášte
+
+345
+00:28:37,500 --> 00:28:42,746
+všetku, tak hláko, všetku, tak
+
+346
+00:28:42,786 --> 00:28:47,500
+hláko, všetku, tak hláko,
+
+347
+00:28:48,500 --> 00:28:53,525
+vš pro zážovaci, tak čo sa konečne, tak
+
+348
+00:28:53,565 --> 00:28:58,765
+teda je výšku 2 metry
+na hísku metra půl na
+
+349
+00:28:58,805 --> 00:29:00,460
+dalku 3 metry.
+
+350
+00:29:00,500 --> 00:29:05,190
+Na dalku 3,3 m, je to hlavní čas,
+taková velká kubová rúraskr, ktoré ulytejte
+
+351
+00:29:05,230 --> 00:29:10,669
+elektrony. A s pustavětzi okovô
+je taková podpudne za žízení, aby
+
+352
+00:29:10,709 --> 00:29:12,620
+tam vůbec lítat mohli.
+
+353
+00:29:12,660 --> 00:29:17,592
+To znamená elektronova je
+zdroje, zdoje vysokého napití, vaková
+
+354
+00:29:17,632 --> 00:29:20,352
+technika, mechanika na izolacy, v mě
+
+355
+00:29:24,000 --> 00:29:29,073
+hlazení a tak dal. Takže to takováko
+dvalky a podobnie to je vlastne vážie koľa do
+
+356
+00:29:29,113 --> 00:29:34,265
+dávka. No a z čom se to
+putem sklada, jakošte říkali na
+
+357
+00:29:34,305 --> 00:29:39,460
+začátku, mým musíme mít s
+nejaký zdroj elektronů.
+
+358
+00:29:39,500 --> 00:29:42,982
+Principiávne se to
+muhle pizikávne používají.
+
+359
+00:29:43,022 --> 00:29:48,445
+Tova principiá, jak
+získat elektron v terno-emise,
+
+360
+00:29:48,485 --> 00:29:53,012
+ktorú môžeme na ten material
+zahrujeme, ale ktorú môžu dodáme
+
+361
+00:29:53,052 --> 00:29:58,295
+kineciickou energii a on je, ktorú
+môžu nekde v ternie, ktorú môžu nekde v
+
+362
+00:29:58,335 --> 00:30:03,400
+ternie, ktorú môžu nekde v ternie,
+ktorú môžu nekde v ternie, ktorú môžu
+
+363
+00:30:03,440 --> 00:30:05,231
+nekde v ternie, ktorú môž
+
+364
+00:30:11,000 --> 00:30:15,842
+že k ostre môch rotu
+zvhodného materiálu tak
+
+365
+00:30:15,882 --> 00:30:21,293
+približíme veľi ceci o
+neelektrické pole, tím se sniží
+
+366
+00:30:21,333 --> 00:30:26,105
+neco jako vystupní práce toho
+materiálu to znamená baríéra, která bráni
+
+367
+00:30:26,145 --> 00:30:29,460
+elektromuval, aby zvoto
+vstohom materiálu voľne vystupovali.
+
+368
+00:30:29,500 --> 00:30:34,682
+A oni potom skastu
+hmestu sniženou barí pro
+
+369
+00:30:34,722 --> 00:30:38,377
+tunelovávají a tam se opet
+hítáme nejakým ulychlovačím na 5.
+
+370
+00:30:38,417 --> 00:30:39,560
+m. jednáme s nimi dal.
+
+371
+00:30:39,600 --> 00:30:43,160
+Zješku znech dopoňí dalekéto sa optikou.
+
+372
+00:30:43,200 --> 00:30:48,200
+Pakti elektrony, jak už se
+ťíkali, že vlastne tu vlnovu dalku
+
+373
+00:30:48,240 --> 00:30:50,360
+obládáme túje ich energi.
+
+374
+00:30:50,400 --> 00:30:54,015
+Tak tu energi ťíme, tak
+je elektrony vidí na 5.
+
+375
+00:30:58,000 --> 00:31:02,254
+a na kéna pěti, na ktorý vspotřeby či,
+které vlastne nutí, ty elektrony tec v tom
+
+376
+00:31:02,294 --> 00:31:07,460
+drátu jedním smerem, tak zdenie tak
+mě nutíme tec smerem k tomu zorku.
+
+377
+00:31:07,500 --> 00:31:08,956
+Takže v útech...
+
+378
+00:31:08,996 --> 00:31:10,860
+Akuratné v drátu.
+
+379
+00:31:10,900 --> 00:31:15,962
+Akuratné v drátu, hlavně je od, musíme z
+toho, da drátu dostáš tom drátu by nám
+
+380
+00:31:21,500 --> 00:31:24,960
+urychlujme až na 30 kilo voltu.
+
+381
+00:31:25,000 --> 00:31:30,240
+Takže taj se pohybujeme už už i v tak v
+dost vysokých energých ale u technáctránc
+
+382
+00:31:30,280 --> 00:31:35,393
+výskojíme. Aby sme
+dostali skrstenzorech, typický
+
+383
+00:31:35,433 --> 00:31:39,960
+chodíme števíš a to na
+200 a 300 kilo voltu.
+
+384
+00:31:40,000 --> 00:31:43,000
+Takže to už to už soupořádná napetí.
+
+385
+00:31:45,000 --> 00:31:47,460
+Je to je to je to, že je
+to výmto nejakým výmtovom.
+
+386
+00:31:47,500 --> 00:31:51,500
+Je to je to, že je to nejakým výmtovom.
+
+387
+00:31:54,500 --> 00:31:57,500
+Je to je to, že je to nejakým výmtovom.
+
+388
+00:31:59,500 --> 00:32:02,500
+Je to, že je to nejakým výmtovom.
+
+389
+00:32:08,500 --> 00:32:13,660
+a když tý alektoroný úrich límé, tak je
+musím neštím způsobem ovládat, musím je
+
+390
+00:32:13,700 --> 00:32:14,960
+chcem je kontrovat.
+
+391
+00:32:15,000 --> 00:32:19,791
+Zatím, co přípanie světla, smetmám
+státčili nejak vybroušené sklov, hojdne
+
+392
+00:32:19,831 --> 00:32:20,960
+vybroušené sklov.
+
+393
+00:32:21,000 --> 00:32:26,332
+Tak pokud bychom to to udělali se
+alektoroný, tak zistím, že se na tom
+
+394
+00:32:26,372 --> 00:32:27,154
+skleza st
+
+395
+00:32:32,000 --> 00:32:36,573
+a postavíme do cesty magnetické pole,
+případne elektrické pole, a fohodne, jak zo
+
+396
+00:32:36,613 --> 00:32:38,460
+tycký případek je ich kombinací.
+
+397
+00:32:38,500 --> 00:32:40,365
+A tak lejem můžeme řídit.
+
+398
+00:32:40,405 --> 00:32:45,031
+Magnetickým polem typicky
+vyvžíváme, jak vychylováň, tedy
+
+399
+00:32:45,071 --> 00:32:50,500
+upravedoho kudyty elektroných letí
+a pod jakým úglem, ale vyvžíváme,
+
+400
+00:32:55,500 --> 00:32:59,163
+Ďšte všetku, klasickou čočku a ta itl
+představa, také klasické čočky funguje veľiť
+
+401
+00:32:59,203 --> 00:33:00,960
+se dobro i pro elektronovaj mi krozkopi.
+
+402
+00:33:01,000 --> 00:33:05,960
+Samozřeň je z určitými o limité, ale
+protuprním představu funguje veľiť se dobro.
+
+403
+00:33:06,000 --> 00:33:09,923
+Čo je v posatne čo čo
+robie v časicových vůrýchlova
+
+404
+00:33:19,000 --> 00:33:22,100
+tak musí tam byť nečo je nečo tu
+tendencí v kompenzu a drží to pekne po kope.
+
+405
+00:33:22,740 --> 00:33:28,142
+Všesne vám. A ja mam otaskú,
+kedyž máme tým mikroskop elektronový,
+
+406
+00:33:28,182 --> 00:33:30,260
+tak čo ním dokažem pozorovať.
+
+407
+00:33:30,300 --> 00:33:33,900
+Viem si tam dať hociakú
+vec, a môžete vzvieta na náňu.
+
+408
+00:33:34,300 --> 00:33:36,377
+Alebo musí to byť naozenia,
+
+409
+00:33:42,500 --> 00:33:46,960
+a vlastrovacých mikroskopu je možné
+dávat širší spektrum v různých zorku.
+
+410
+00:33:47,000 --> 00:33:52,241
+Podstatě, když člověk najdevenku
+nejakou mrtbou můchu nebo něco takového, tak
+
+411
+00:33:52,281 --> 00:33:57,585
+tam kliť nie mude váza, a potom se na
+to divat, povte zajímaví a vstavdát
+
+412
+00:33:57,625 --> 00:34:01,154
+rávý. Tak to je na
+prospopické objekty, protože
+
+413
+00:34:06,000 --> 00:34:07,960
+pro teši, protože ty
+vzorky musí vyt veľi ce tenke.
+
+414
+00:34:08,000 --> 00:34:13,314
+Musí se na to speciálne připravovat,
+bude se rezavat nejakým micrôtumem, znamená
+
+415
+00:34:13,354 --> 00:34:18,307
+fakt ostrim a přesně
+definovaným hrotem a nebo třeba
+
+416
+00:34:18,347 --> 00:34:23,470
+vyrezavat z jakého věčího vzorku
+pomocí jontuvého s vásku, a po tom se to
+
+417
+00:34:23,510 --> 00:34:24,160
+trenaš
+
+418
+00:34:29,500 --> 00:34:33,648
+Obesně překno tady, kto gredy elektrony
+lejtají a gre interactivý zorkiem takto
+
+419
+00:34:33,688 --> 00:34:38,778
+probíháme vaku. To znamená
+musíme si tam dávat zorky, kterým to
+
+420
+00:34:38,818 --> 00:34:41,960
+vaku, potom už nevadí, nehodnocu je.
+
+421
+00:34:42,000 --> 00:34:46,960
+A takovou ovala ale spôňovatního
+světstím elektronovým sváskem vidrží.
+
+422
+00:34:47,000 --> 00:34:49,000
+To znamená pokud si tam dá
+
+423
+00:34:53,000 --> 00:34:55,460
+a počiť, ako jomto vôso
+nemojne, což sa všetne v skoušili.
+
+424
+00:34:55,500 --> 00:35:00,889
+Tak sme sa na to dívalia, tak vám to
+výobrazek rásne myzelo, a my sme sičí, kde je
+
+425
+00:35:00,929 --> 00:35:03,500
+všetne. Tam to asišlo.
+
+426
+00:35:04,000 --> 00:35:09,060
+Toho seľu ty obecného limitace, inak
+
+427
+00:35:09,100 --> 00:35:14,435
+tomu, kde se to používá v
+taxi, tak máme o se dvě
+
+428
+00:35:14,475 --> 00:35:19,368
+až možná 3 taková, až možná 3 takové
+velké skupiny zákazníku, nebo lidi, ktorí
+
+429
+00:35:19,408 --> 00:35:20,640
+vyúžívají tými krozkoty.
+
+430
+00:35:20,680 --> 00:35:26,042
+A to jsou biologvé a lidé
+výjejci lehé a skômajíci to, jak fungé
+
+431
+00:35:26,082 --> 00:35:31,438
+zejmenálycká biologie, no ten je
+menší úrovní a potom materiálují
+
+432
+00:35:31,478 --> 00:35:34,662
+veci, ktorí no tak skômaí různé struktury
+
+433
+00:35:40,000 --> 00:35:45,178
+Jakým spúsobem výrábec kvalitnejší
+a lepší vaterie, no lekto mobilu,
+
+434
+00:35:45,218 --> 00:35:46,460
+mobilu a tak dále.
+
+435
+00:35:46,500 --> 00:35:51,396
+A potom ještě jedna velká skupina,
+kdy už prumyslova, tak jsou firmy
+
+436
+00:35:51,436 --> 00:35:56,847
+výrábiejíci polovodíčove, součástky
+čipy procesory, transistory a tak
+
+437
+00:35:56,887 --> 00:36:00,731
+dále, týto používaj na
+kontrol kvality výroby těch
+
+438
+00:36:03,500 --> 00:36:08,394
+Takže to sú ty nevědšia se oblasti, kde
+se ty v nekoľskopi používajá na co se
+
+439
+00:36:08,434 --> 00:36:13,890
+rádívat. No a znova sa opitám, že ke
+tam tam tu ruku boloby to bezpečné, akože
+
+440
+00:36:13,930 --> 00:36:16,960
+nie tem prežarovací ale ten rastrovaci.
+
+441
+00:36:17,000 --> 00:36:22,228
+Muchu a no ale ruku či by
+to bolelo, či by som to
+
+442
+00:36:22,268 --> 00:36:27,235
+cítil? Zaleži to ta ruka v ďelá v tom A s
+
+443
+00:36:27,275 --> 00:36:32,460
+nejdří v tom vaku a
+podom aj ten akánový svazek,
+
+444
+00:36:32,500 --> 00:36:37,092
+pokud tamtele turkú chvíli
+udrželý v tom vaku, tak ten
+
+445
+00:36:37,132 --> 00:36:42,460
+elektroný svazek by pravne
+porobne mikroskopický poskodil
+
+446
+00:36:42,500 --> 00:36:46,460
+nejakého ekstremne, vevelmi malé oblasti.
+
+447
+00:36:46,500 --> 00:36:51,629
+A s nebyto bylo ne, že bychto
+niekdy skoušil, a toho šiláko pichnutí
+
+448
+00:36:51,669 --> 00:36:54,500
+malinkatov je hličkov a to
+vako umyúčite vydilote rucé.
+
+449
+00:36:56,000 --> 00:36:57,960
+Trochúby to to ruku orengenovalo je.
+
+450
+00:36:58,000 --> 00:37:03,392
+Na rengen tak se můžete oknoň vždycky u
+technových užto vidíte i kdy se díte u toho
+
+451
+00:37:03,432 --> 00:37:06,960
+rengenu, tak přímo vidíte
+energi, který uvas rengenuj.
+
+452
+00:37:07,000 --> 00:37:07,800
+A to tipe
+
+453
+00:37:17,500 --> 00:37:21,769
+Jerokonce pravda můžete, že
+dajší signáterí zbíráme z
+
+454
+00:37:21,809 --> 00:37:26,500
+elektronových mikroskopů
+také pravě rengenovské záření,
+
+455
+00:37:27,500 --> 00:37:32,151
+když ty elektrony v leti poho
+preparátu, tak ne nomže tvôří ty
+
+456
+00:37:32,191 --> 00:37:36,038
+sekundární a spetňa
+odražené a částých inom proj
+
+457
+00:37:37,500 --> 00:37:42,045
+ale vyraží práve i elektrony v těch
+skúmaných atomich z hlupších vrstev, tam, když
+
+458
+00:37:42,085 --> 00:37:45,960
+dopadne nejaký elektron zvyšší
+vrstvy, tak se vyzáří rengenové záření.
+
+459
+00:37:46,000 --> 00:37:51,198
+A tohon se práve detekuje prímou
+toho vzorku a používáne to na prvkou
+
+460
+00:37:51,238 --> 00:37:52,760
+analizu toho vzorku.
+
+461
+00:37:52,800 --> 00:37:54,031
+A jaký, kde sved
+
+462
+00:38:03,500 --> 00:38:07,000
+Kolko stoj, taký tom mikroskop
+keby niekdo chcel podstrąček.
+
+463
+00:38:07,500 --> 00:38:11,960
+Velmi maly je početěch
+ekstremie z velkým urychlovacím na 5.
+
+464
+00:38:12,000 --> 00:38:17,307
+ale těch plasických, které
+vyrábíme práve f bernie, tak
+
+465
+00:38:17,347 --> 00:38:21,821
+těch sú stovky
+rastovacích ročne a stovky tak
+
+466
+00:38:21,861 --> 00:38:24,000
+prozařovacích ročne.
+
+467
+00:38:25,000 --> 00:38:26,960
+Početne ním vlastne až tak úplne malý.
+
+468
+00:38:27,000 --> 00:38:31,960
+A cenové se uťech a
+tansmyslních pohybueme v 10 miliovnů.
+
+469
+00:38:32,000 --> 00:38:34,960
+Korun. Korun a no.
+
+470
+00:38:35,000 --> 00:38:38,797
+Te ruježite. Takže nešte stí
+
+471
+00:38:38,837 --> 00:38:44,127
+sprepočtem zrubase to podil
+
+472
+00:38:44,167 --> 00:38:45,500
+teda 20.
+
+473
+00:38:48,000 --> 00:38:52,817
+Ale ja potřeba vzít v potatře samozřeň
+je takovým mikroskopné můžete stercetnie
+
+474
+00:38:52,857 --> 00:38:55,460
+grena hodbú a
+provozovať hodnie grena hodbé.
+
+475
+00:38:55,500 --> 00:38:59,500
+Musíte kto mu míti to spravné
+zázemi, což se samozřeň je další nakład.
+
+476
+00:39:00,500 --> 00:39:05,346
+Můžete na tady, ktorá takov
+zázili by bylo vhodnošiť, ktorý kst
+
+477
+00:39:11,500 --> 00:39:15,699
+Je to se hodně nejním, jakí kšechny
+detek, ktoré jsou na to navěšený a jaký další
+
+478
+00:39:15,739 --> 00:39:19,100
+přízlušen spíš. A to
+zgruba tak o neceli řádné.
+
+479
+00:39:20,100 --> 00:39:23,900
+Či to, jak okéby sme sa pýtale, že
+kôko staj počítačno podľatoho aký?
+
+480
+00:39:24,400 --> 00:39:28,708
+Česně tak, ale. Ďastaj,
+že či tam je najlepšie
+
+481
+00:39:35,000 --> 00:39:40,449
+Pôjte, ako progres učite v
+závimovej discipliny vedeni,
+
+482
+00:39:40,489 --> 00:39:45,460
+sa učite deje v oblasti
+elektronoméil mikroskopu.
+
+483
+00:39:45,500 --> 00:39:50,460
+Je nejaký možno nový spôsob.
+
+484
+00:39:50,500 --> 00:39:54,500
+Ako využivate elektronoméil
+mikroskopi alebo sa zlácnujúť.
+
+485
+00:39:58,500 --> 00:39:58,850
+nemi
+
+486
+00:39:58,785 --> 00:40:16,692
+rokovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovalovaloval
+
+487
+00:40:22,000 --> 00:40:25,785
+aby to bylo prostě dostukné pro všechne
+tato zobrazovací technika, aby každý moho
+
+488
+00:40:25,825 --> 00:40:28,260
+hloskú mám svojac svojací
+s tím atomárním rozlišení.
+
+489
+00:40:28,300 --> 00:40:33,348
+A sa noženie dej vývoj tím smerem,
+že sa snažíme it ultimatne po jak
+
+490
+00:40:33,388 --> 00:40:38,531
+vysích rozlišených, po lepších
+schopnostech, lečí robusnost to je
+
+491
+00:40:38,571 --> 00:40:39,608
+také potřeba
+
+492
+00:40:46,000 --> 00:40:50,929
+Robusnostoho k fistorej předioším,
+protože vlastne, že jež vždy, že sa zabiúame
+
+493
+00:40:50,969 --> 00:40:55,774
+vyvojem toho, toho přistorej takmi musíme
+za justiť, to že ten přistroj nežej jednou
+
+494
+00:40:55,814 --> 00:41:00,385
+zobrazi super zorek, ale že ho
+bude schopný zobrazovat každý den,
+
+495
+00:41:09,000 --> 00:41:14,377
+nežíc sám, tomu už vatali na tomhle na
+tomhle nastavení budú fungovat a budú tak
+
+496
+00:41:14,417 --> 00:41:16,460
+fungovat až do roztrhání těla.
+
+497
+00:41:16,500 --> 00:41:18,460
+Počtatě ultimátnicíjú.
+
+498
+00:41:18,500 --> 00:41:21,460
+Taký spotrabyť oský by aby bol veci.
+
+499
+00:41:21,500 --> 00:41:23,460
+Juzer friendly.
+
+500
+00:41:23,500 --> 00:41:25,460
+Takým friendly, a no.
+
+501
+00:41:25,500 --> 00:41:27,500
+Počtrav sa stážíme
+děláto automatizácii teďka.
+
+502
+00:41:32,500 --> 00:41:34,818
+které strany tam staci mzorek,
+zmáčknu, tlačítko a zdru je strany mi vypadne
+
+503
+00:41:34,858 --> 00:41:37,160
+nobelotka. Takže z hrúva sa ktorá ne.
+
+504
+00:41:37,200 --> 00:41:47,969
+Jehohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohohoho
+
+505
+00:41:56,000 --> 00:42:00,623
+Ďešte na často lidi zase to hlavný na co
+se vtají a počiem doho, ktorý teda toho
+
+506
+00:42:00,663 --> 00:42:04,614
+nejsu tak za angažuvalní, tak se vtaj na
+to rozlišení a myslíši, že hlavný je ideme
+
+507
+00:42:04,654 --> 00:42:06,460
+po tom, co nejvysím rozlišení.
+
+508
+00:42:06,500 --> 00:42:10,300
+To teda samozřejenia, jož vykal,
+on da taký je pravda, ale není
+
+509
+00:42:19,500 --> 00:42:23,985
+Opuštáme ni a štolí, co vidět, ale je
+třeba dôležite, aby fom dostali zňákeho
+
+510
+00:42:24,025 --> 00:42:29,251
+vzorku, ktoré cítliví na osvietěch
+elektronů, co nejvíc informací nešná vzdegraduje.
+
+511
+00:42:29,291 --> 00:42:32,960
+A proto je pro nás dôležite
+vyvětřeba cítlivější detektory.
+
+512
+00:42:33,000 --> 00:42:35,692
+Tady, ktoré typický teďka aktuálně,
+
+513
+00:42:43,000 --> 00:42:46,260
+a biologických vzorku, které
+jsou cítlivé na elektronový osvyt.
+
+514
+00:42:46,300 --> 00:42:51,636
+Aby ty biologové to mohli používá, a
+nieco sa s toho informací s toho dostali, tak
+
+515
+00:42:51,676 --> 00:42:55,904
+potřeba byľu co nej efektivnej vyúžít
+každý ten elektron, který vlastne na ten svůj
+
+516
+00:42:55,944 --> 00:42:58,777
+zorek pošlou. Potu sa nem takto ako dopln
+
+517
+00:43:07,880 --> 00:43:13,112
+Zosateliť mi, že sateliti, kedy si
+boli strášne draga technologia a vedecký
+
+518
+00:43:13,152 --> 00:43:16,600
+satelíc apocítal 100 milion h dolarou.
+
+519
+00:43:16,640 --> 00:43:21,726
+A potom nastal prograzový vývoj
+tak zvaných nánosateli, to, ktoré sú
+
+520
+00:43:21,766 --> 00:43:25,803
+volmi malé, sú lásné, daj
+vôjú sa rýchvačšie vyvinú
+
+521
+00:43:30,000 --> 00:43:32,920
+Primerna universita si može
+dovoliť mať vlastný nánosatelit.
+
+522
+00:43:32,960 --> 00:43:37,732
+Mojo ta skaje, že sa musí udět, aby si čiž
+primerna universita, ale bude koncaje, že
+
+523
+00:43:37,772 --> 00:43:41,800
+primer na strédna škola mohla
+dovoliť mať elektronový mikroskop.
+
+524
+00:43:43,600 --> 00:43:46,060
+No, ja myslím, že už to sna ty možná je.
+
+525
+00:43:46,100 --> 00:43:48,740
+Tam zrenie sú či to limitací.
+
+526
+00:43:48,780 --> 00:43:54,186
+A sou elekt Ďem půjdete.
+
+527
+00:43:54,226 --> 00:43:59,121
+Ta sřední škole hohodně zajímá vás mýmka,
+protože ta je pořád asi ještě memohrú, ale
+
+528
+00:43:59,161 --> 00:44:04,129
+na těch vysokých škoľách už a spolím jemou
+túsku šenozť, že vznoseždický ale spolím
+
+529
+00:44:04,169 --> 00:44:06,960
+s jedním typem
+elektrového mikroskou svetkáv.
+
+530
+00:44:07,000 --> 00:44:09,231
+Minimáne pro náhledy na ty vz
+
+531
+00:44:17,000 --> 00:44:22,112
+takže si myslím, že tady už jsme díky
+bohu a do ufáme, že půjde me dal a dal, a že
+
+532
+00:44:22,152 --> 00:44:26,991
+technikrosko půbude víc, a že se
+bude zlevnevat, i ce nám na příklad
+
+533
+00:44:27,031 --> 00:44:32,195
+právetech cítlivých retektorů a
+že to to umožníme, co nejšiši
+
+534
+00:44:32,235 --> 00:44:35,460
+mohu publiku a co nejvice universe tam.
+
+535
+00:44:35,500 --> 00:44:37,038
+Jo, ja pích řeko, že
+
+536
+00:44:40,500 --> 00:44:44,052
+technologický pokrok v jednotlivých
+modulách toho mikroskopu, niekde to v tom
+
+537
+00:44:44,092 --> 00:44:49,515
+vleogledu snazší, niekde naopak těší,
+ale souprosti technologie, na kterých se
+
+538
+00:44:49,555 --> 00:44:54,828
+prácově, které tomohou
+zledňovat, a druhávěc je ekonomika škály,
+
+539
+00:44:54,868 --> 00:45:00,095
+to znamená čím více bude
+požalne pod technikroskopech,
+
+540
+00:45:00,135 --> 00:45:05,511
+tím sna a je vyrávied,
+týmno to veľ sa učátský, které
+
+541
+00:45:05,551 --> 00:45:07,460
+sa opranie potřeba, nebude
+to prosté kusovka na jehrá.
+
+542
+00:45:07,500 --> 00:45:10,477
+A tým níže půjde po
+tom senátich mikroskop.
+
+543
+00:45:10,517 --> 00:45:12,460
+Když se nám to podáří dobrez.
+
+544
+00:45:12,500 --> 00:45:17,500
+Populáryzováť, všichni potakolami
+mikroskopotovúžíc v takse postuké izlegu.
+
+545
+00:45:18,500 --> 00:45:19,300
+V
+
+546
+00:45:29,800 --> 00:45:31,800
+A utsamo, autos.
+
+547
+00:45:35,000 --> 00:45:38,000
+Jéme kde máš prioriti, pléjstejšlo?
+
+548
+00:45:39,000 --> 00:45:42,000
+Láko, nemáme tolik
+pléjstejšlo, nákte rechusiť v rád.
+
+549
+00:45:44,000 --> 00:45:47,000
+Dobre gru mu se si nemám
+liku, pitpého spojitklu.
+
+550
+00:45:50,000 --> 00:45:54,896
+Dívalno. Mažeši nejakou
+otaskuzev, alebo chcete vješi neče
+
+551
+00:45:54,936 --> 00:45:58,460
+doplnit na zavr? Já už
+nejmám otasku samko, ty máš?
+
+552
+00:45:58,500 --> 00:46:00,460
+Já som sa do dľušetko, čo som cel?
+
+553
+00:46:00,500 --> 00:46:04,460
+Som si to otočil, halení a
+vám belmi, chcem podjakováť.
+
+554
+00:46:04,500 --> 00:46:08,654
+Naozej to bylo super,
+dúfám, že to budeme moc zakedy z
+
+555
+00:46:14,500 --> 00:46:16,420
+mikroskopogalo bomožnoho
+elektronového mikroskopohieca niečo podarí.
+
+556
+00:46:17,420 --> 00:46:22,276
+Dějakujem veľmi peknizy, že ste
+nam to veľmi lúdský a veľmi dobre
+
+557
+00:46:22,316 --> 00:46:27,369
+približili. A dúfam, že sa vám bude
+daríť a že sa vás, že si kupíte tem
+
+558
+00:46:27,409 --> 00:46:30,600
+PlayStation 5. Tak, tak
+vyského budého cesté.
+
+559
+00:46:31,300 --> 00:46:32,838
+Mávne děkujem od zap
+
+560
+00:46:38,500 --> 00:46:40,460
+Što má desi ti pro?
+
+561
+00:46:40,500 --> 00:46:43,460
+Díky moc. Až bude v
+brenie tak příterá na všťavu.
+
+562
+00:46:43,500 --> 00:46:45,460
+My vás tady prvédem.
+
+563
+00:46:45,500 --> 00:46:47,460
+Jo? Ja z toho.
+
+564
+00:46:47,500 --> 00:46:49,500
+Dobre, to možeme sa dohodnu nejakú.
+
+565
+00:46:51,500 --> 00:46:56,577
+Dobre, tak. Ja by som veľmi chcel
+podjako vťakô jednaším posuchać
+
+566
+00:47:01,500 --> 00:47:05,986
+malý honsu a hondru, ktorý na vysvetlili
+ako fungujo elektronomé mikroskopi a prečo
+
+567
+00:47:06,026 --> 00:47:09,000
+si ich ešte asi nemožete kupiť
+domov, ale už na tom nácoju.
+
+568
+00:47:10,000 --> 00:47:15,271
+Možete na spotporid na
+Vedatorbotka Space, najdete super články,
+
+569
+00:47:15,311 --> 00:47:20,485
+na patrejovne máme nové ponožky,
+takže chodte si objednavajť, sú
+
+570
+00:47:20,525 --> 00:47:22,000
+návozaj ve smírne.
+
+571
+00:47:26,180 --> 00:47:31,561
+Ostava na par hunčekov a
+kedy nam dátý recenzion na
+
+572
+00:47:31,601 --> 00:47:35,020
+Apple Podcastu halo, bo na
+ostatních aplikacovach učitysa.
+
+573
+00:47:35,060 --> 00:47:36,247
+Prady poteším je.
+
+574
+00:47:36,287 --> 00:47:38,460
+Májte sa. Májte sa pekne.
+
+575
+00:47:38,500 --> 00:47:40,900
+Ahoj, nikéhoj.
+
+576
+00:47:48,500 --> 00:47:49,768
+Mily je me veda.
+
+577
+00:47:49,808 --> 00:47:54,235
+Speciálne v týchto časoch
+keď fakty a ich vedecké
+
+578
+00:47:54,275 --> 00:47:59,574
+vysvetlenie sú také potrebné,
+na že vedecko popularizacní
+
+579
+00:47:59,614 --> 00:48:04,477
+podkazum je naponjený pre
+sne takými to faktami každý
+
+580
+00:48:04,517 --> 00:48:09,599
+tyždění prínas a prehled
+tých najzaujímavéších nových
+
+581
+00:48:09,639 --> 00:48:11,600
+objavou zosveta vedy.
+
+582
+00:48:12,000 --> 00:48:15,769
+vzôzosveta vedy vychad za každú stredu a
+vedecké novinky, ktoré pre vás pripravujú
+
+583
+00:48:15,809 --> 00:48:20,380
+naši kolego viesredakci smé, pre
+vás čítam jatte da, to máš prokopčák.
+
+584
+00:48:20,420 --> 00:48:24,992
+Podká zoom najdětě nielen, bo
+vysielani rádie FM, alebo všetkých
+
+585
+00:48:25,032 --> 00:48:28,420
+podkastových
+aplikáciach na Spotify alebo všet
+
+586
+00:48:35,500 --> 00:48:37,589
+...
