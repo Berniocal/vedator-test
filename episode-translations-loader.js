@@ -3,9 +3,10 @@
   window.__vedatorEpisodeTranslationsLoader=true;
   window.__vedatorEpisodeTranslationsReady=false;
 
-  const VERSION='20261004-episode-142-jaderna-summary';
+  const VERSION='20261004-episode-142-webb-summary';
   const SOURCES=[
     ['episode-142-jaderna-summary.js','data-vedator-episode-142-jaderna-summary'],
+    ['episode-142-webb-summary.js','data-vedator-episode-142-webb-summary'],
     ['episode-translations-347.js','data-vedator-episode-translations-347'],
     ['episode-347-summary.js','data-vedator-episode-347-summary'],
     ['episode-347-summary-interactive.js','data-vedator-episode-347-summary-interactive'],
