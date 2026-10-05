@@ -2,12 +2,12 @@
   if(window.__vedatorQuestionControlsStability)return;
   window.__vedatorQuestionControlsStability=true;
 
-  for(const src of ['./episode-170-summary.js','./episode-170-chapters.js','./episode-158-summary.js','./episode-158-chapters.js','./episode-143-summary.js','./episode-143-chapters.js','./episode-133-summary.js','./episode-133-chapters.js','./episode-128-summary.js','./episode-128-chapters.js','./episode-119-summary.js','./episode-119-chapters.js','./episode-112-summary.js','./episode-100-summary.js','./episode-89-summary.js','./episode-82-summary.js']){
+  for(const src of ['./episode-170-summary.js','./episode-170-chapters.js','./episode-158-summary.js','./episode-158-chapters.js','./episode-143-summary.js','./episode-143-chapters.js','./episode-133-summary.js','./episode-133-chapters.js','./episode-128-summary.js','./episode-128-chapters.js','./episode-122-summary.js','./episode-119-summary.js','./episode-119-chapters.js','./episode-112-summary.js','./episode-100-summary.js','./episode-89-summary.js','./episode-82-summary.js']){
     if(document.querySelector(`script[src="${src}"]`))continue;
     const script=document.createElement('script');script.src=src;script.defer=true;document.head.appendChild(script);
   }
 
-  const FAQ_EPISODES=new Set([82,89,100,112,119,128,133,143,158,170,179,190,203,211,218,226,244,248,257,263,270,272,278,284,289,295,300,313,319,326,332,337,340]);
+  const FAQ_EPISODES=new Set([82,89,100,112,119,122,128,133,143,158,170,179,190,203,211,218,226,244,248,257,263,270,272,278,284,289,295,300,313,319,326,332,337,340]);
   const SPECIAL={190:'vedator-190-218-226-controls',218:'vedator-190-218-226-controls',226:'vedator-190-218-226-controls',244:'vedator-244-controls'};
   const style=document.createElement('style');
   style.textContent='.vedator-question-controls{display:none!important}.vedator-question-controls.vedator-faq-visible{display:grid!important}';
