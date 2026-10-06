@@ -3,6 +3,7 @@ name: Test Vedator V2 prototype
 on:
   push:
     branches:
+      - v2/ask-tab
       - v2/content-and-tabs
       - v2/user-data-player-playlists
       - v2/language-translations
@@ -127,6 +128,9 @@ jobs:
       - name: Test all V2 tabs in DOM
         run: node tools/test-app-v2.mjs
 
+      - name: Test integrated FAQ search
+        run: node tools/test-v2-ask.mjs
+
       - name: Test question experience and deep links
         run: node tools/test-v2-question-experience.mjs
 
@@ -156,6 +160,9 @@ jobs:
 
       - name: Test legacy visual parity
         run: node tools/test-v2-legacy-visual-parity.mjs
+
+      - name: Test integrated FAQ in mobile and desktop Chromium
+        run: node tools/test-v2-ask-browser.mjs
 
       - name: Test real 390px Chromium layout
         run: node tools/test-v2-mobile-browser.mjs

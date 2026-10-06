@@ -34,6 +34,7 @@ page.on('request',request=>{
   else request.abort();
 });
 
+function htmlHasHiddenDuplicateRow(){return fs.readFileSync('v2.html','utf8').includes('V2_HIDE_DUPLICATE_TOPIC_ROW_V1')}
 function sleep(ms){return new Promise(resolve=>setTimeout(resolve,ms))}
 function channel(value){const v=value/255;return v<=.04045?v/12.92:((v+.055)/1.055)**2.4}
 function rgb(value){const match=String(value).match(/rgba?\((\d+)[, ]+(\d+)[, ]+(\d+)/);return match?[Number(match[1]),Number(match[2]),Number(match[3])]:null}
@@ -48,12 +49,18 @@ try{
   const initialOverflow=await page.evaluate(()=>({scrollWidth:document.documentElement.scrollWidth,clientWidth:document.documentElement.clientWidth,bodyWidth:document.body.getBoundingClientRect().width}));
   assert(initialOverflow.scrollWidth<=initialOverflow.clientWidth+1,`Body horizontally overflows on mobile: ${initialOverflow.scrollWidth}px > ${initialOverflow.clientWidth}px`);
 
-  const topics=await page.$$('.topic-v2');assert(topics.length>=2,'Need at least two episode topics in real browser');
-  await topics[1].click();await sleep(80);
-  const topicStyle=await page.evaluate(()=>{const el=document.querySelector('.topic-v2.active');const s=getComputedStyle(el);return{color:s.color,background:s.backgroundColor,scrollbar:getComputedStyle(document.querySelector('.parity-topics-v2')).scrollbarWidth}});
-  const topicContrast=contrast(topicStyle.color,topicStyle.background);
-  assert(topicContrast>=4.5,`Active dark topic contrast too low: ${topicContrast.toFixed(2)}:1 (${topicStyle.color} on ${topicStyle.background})`);
-  assert(topicStyle.scrollbar==='none'||topicStyle.scrollbar==='',`Topic scrollbar still visible: ${topicStyle.scrollbar}`);
+  // The duplicate topic row is intentionally hidden by V2_HIDE_DUPLICATE_TOPIC_ROW_V1.
+  // Exercise it only in layouts which expose it; do not click an invisible control.
+  const topicRowVisible=await page.$eval('#parity-topics-v2',el=>getComputedStyle(el).display!=='none');
+  let topicContrast=null;
+  if(topicRowVisible){
+    const topics=await page.$$('#parity-topics-v2 .topic-v2');assert(topics.length>=2,'Need at least two episode topics');
+    await topics[1].click();await sleep(80);
+    const topicStyle=await page.evaluate(()=>{const el=document.querySelector('.topic-v2.active');const s=getComputedStyle(el);return{color:s.color,background:s.backgroundColor,scrollbar:getComputedStyle(document.querySelector('.parity-topics-v2')).scrollbarWidth}});
+    topicContrast=contrast(topicStyle.color,topicStyle.background);
+    assert(topicContrast>=4.5,`Active dark topic contrast too low: ${topicContrast.toFixed(2)}:1`);
+    assert(topicStyle.scrollbar==='none'||topicStyle.scrollbar==='',`Topic scrollbar still visible: ${topicStyle.scrollbar}`);
+  }else assert(htmlHasHiddenDuplicateRow(),'Hidden topic row must be intentional');
   await page.screenshot({path:path.join(artifactDir,'01-episodes-dark-topics.png'),fullPage:false});
 
   await page.click('.tab-v2[data-view="questions"]');await sleep(100);
@@ -99,7 +106,7 @@ try{
   const finalOverflow=await page.evaluate(()=>({scrollWidth:document.documentElement.scrollWidth,clientWidth:document.documentElement.clientWidth}));
   assert(finalOverflow.scrollWidth<=finalOverflow.clientWidth+1,`Body overflows after player opens: ${finalOverflow.scrollWidth}px > ${finalOverflow.clientWidth}px`);
 
-  console.log(JSON.stringify({ok:true,browser:path.basename(executablePath),viewport:'390x844',bodyOverflow:false,topicContrast:Number(topicContrast.toFixed(2)),topicScrollbarHidden:true,questionActionsOneRow:true,searchHighlight:true,visibleSearchWord,playerPrimaryRow:5,playerSecondaryRow:4,playerOverflow:false,screenshots:fs.readdirSync(artifactDir).sort()},null,2));
+  console.log(JSON.stringify({ok:true,browser:path.basename(executablePath),viewport:'390x844',bodyOverflow:false,topicRowVisible,topicContrast:topicContrast===null?null:Number(topicContrast.toFixed(2)),topicScrollbarHidden:true,questionActionsOneRow:true,searchHighlight:true,visibleSearchWord,playerPrimaryRow:5,playerSecondaryRow:4,playerOverflow:false,screenshots:fs.readdirSync(artifactDir).sort()},null,2));
 }finally{
   await page.close().catch(()=>{});await browser.close().catch(()=>{});await new Promise(resolve=>server.close(resolve));
 }

@@ -34,8 +34,8 @@ const detail=await ready;await new Promise(resolve=>setTimeout(resolve,30));
 
 const assert=(condition,message)=>{if(!condition)throw new Error(message)};
 const tabs=[...window.document.querySelectorAll('.tab-v2')];
-assert(tabs.length===6,`Expected 6 tabs, got ${tabs.length}`);
-assert(tabs.map(x=>x.dataset.view).join(',')==='episodes,series,questions,nonquestions,playlists,data','Unexpected tab order');
+assert(tabs.length===7,`Expected 7 tabs, got ${tabs.length}`);
+assert(tabs.map(x=>x.dataset.view).join(',')==='episodes,series,questions,nonquestions,ask,playlists,data','Unexpected tab order');
 assert(window.document.querySelectorAll('#episodes-v2 .card').length===20,'Episodes should initially render 20 cards');
 assert(window.document.querySelectorAll('#questions-v2 .card').length===20,'Questions should initially render 20 cards');
 assert(window.document.querySelectorAll('#series-v2 .series').length===data.series.length,'Series not rendered');
