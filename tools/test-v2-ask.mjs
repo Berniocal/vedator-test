@@ -25,6 +25,9 @@ input.value='foton';input.dispatchEvent(new w.Event('input',{bubbles:true}));
 assert.equal(d.querySelectorAll('#ask-results-v2 article').length,0,'Search must wait for confirmation');
 submit('foton');assert(d.querySelectorAll('#ask-results-v2 article').length>0);
 const first=d.querySelector('#ask-results-v2 article');
+assert(first.querySelector('h2 mark.ask-search-hit'),'Title keywords are not highlighted');
+assert(d.querySelector('#ask-results-v2 .ask-answer-v2 mark.ask-search-hit'),'Answer keywords are not highlighted');
+assert.equal(first.querySelector('.play').textContent,'▶ Přehrát');
 const play=first.querySelector('.play');assert(Number.isFinite(Number(play.dataset.seconds)));
 play.click();await new Promise(resolve=>setTimeout(resolve,50));assert(!d.querySelector('#player-v2').classList.contains('hidden'));
 assert(d.querySelector('#audio-v2').src.includes(data.episodes.find(e=>Number(e.number)===Number(play.dataset.episode)).enclosure));
@@ -35,7 +38,7 @@ for(const filter of ['question','nonquestion']){
 }
 d.querySelector('[data-ask-filter="all"]').click();
 submit('černá díra');const synonyms=d.querySelectorAll('#ask-results-v2 article').length;assert(synonyms>0);
-submit('black hole');assert(d.querySelectorAll('#ask-results-v2 article').length>0,'English synonym should match');
+submit('black hole');assert(d.querySelector('#ask-results-v2 mark.ask-search-hit'),'Synonyms must be highlighted');assert(d.querySelectorAll('#ask-results-v2 article').length>0,'English synonym should match');
 submit('qxzvabcnevermatch');assert.equal(d.querySelectorAll('#ask-results-v2 article').length,0);
 submit('');assert.equal(d.querySelectorAll('#ask-results-v2 article').length,0);
 input.value='foton';input.dispatchEvent(new w.KeyboardEvent('keydown',{key:'Enter',bubbles:true,cancelable:true}));assert(d.querySelectorAll('#ask-results-v2 article').length>0);
