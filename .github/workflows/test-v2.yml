@@ -3,6 +3,7 @@ name: Test Vedator V2 prototype
 on:
   push:
     branches:
+      - v2/ask-layout
       - v2/ask-tab
       - v2/content-and-tabs
       - v2/user-data-player-playlists

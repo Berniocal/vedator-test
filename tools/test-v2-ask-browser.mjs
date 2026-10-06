@@ -10,9 +10,12 @@ try{
  await page.setViewport({width:390,height:844,isMobile:true,hasTouch:true});
  await page.setRequestInterception(true);page.on('request',r=>r.url().startsWith(base)?r.continue():r.abort());
  await page.evaluateOnNewDocument(()=>localStorage.setItem('vedator-ui-language-v1','cz'));
- await page.goto(base+'/v2.html#ask');await page.waitForSelector('#ask-form-v2');
+ await page.goto(base+'/v2.html#ask');await page.waitForSelector('#ask-filters-v2');
  assert.equal(await page.$eval('.tab-v2.active',e=>e.dataset.view),'ask');
- await page.type('#ask-input-v2','kolik váží Slunce');await page.click('#ask-submit-v2');await page.waitForSelector('.ask-card-v2');
+ assert.equal(await page.$eval('#ask-submit-v2',e=>e.closest('.controls')!==null),true);
+ assert.equal(await page.$eval('#ask-status-v2',e=>e.textContent),'');
+ assert.equal(await page.$$eval('[data-ask-suggestion],#ask-heading-v2,#ask-note-v2',els=>els.length),0);
+ await page.type('#search-v2','kolik váží Slunce');await page.click('#ask-submit-v2');await page.waitForSelector('.ask-card-v2');
  for(const width of [390,320,1280]){
   await page.setViewport({width,height:844,isMobile:true,hasTouch:true});
   const dimensions=await page.evaluate(()=>({width:document.documentElement.clientWidth,scroll:document.documentElement.scrollWidth}));
@@ -24,8 +27,13 @@ try{
  await page.click('.ask-card-v2 [data-ask-answer]');assert.equal(await page.$eval('.ask-card-v2 [data-ask-answer]',e=>e.getAttribute('aria-expanded')),'true');
  await page.click('.ask-card-v2 a');await page.waitForFunction(()=>['questions','nonquestions'].includes(document.querySelector('.tab-v2.active').dataset.view));
  await page.evaluate(()=>document.querySelector('.tab-v2[data-view="ask"]').click());
- assert.equal(await page.$eval('#ask-input-v2',e=>e.value),'kolik váží Slunce');
- await page.click('[data-lang="sk"]');assert.equal(await page.$eval('#ask-submit-v2',e=>e.textContent),'Hľadať odpoveď');
+ assert.equal(await page.$eval('#search-v2',e=>e.value),'kolik váží Slunce');
+ await page.click('[data-lang="sk"]');assert.equal(await page.$eval('#ask-submit-v2',e=>e.textContent),'Hľadať');
+ await page.evaluate(()=>document.querySelector('.tab-v2[data-view=episodes]').click());
+ assert.equal(await page.$eval('#ask-submit-v2',e=>e.classList.contains('hidden')),true);
+ const otherTop=await page.$eval('#search-v2',e=>e.getBoundingClientRect().top);
+ await page.evaluate(()=>document.querySelector('.tab-v2[data-view=ask]').click());
+ const askTop=await page.$eval('#search-v2',e=>e.getBoundingClientRect().top);assert(Math.abs(askTop-otherTop)<1,'Search moves between tabs');
  assert.deepEqual(errors,[]);
  console.log(JSON.stringify({ok:true,widths:[320,390,1280],mobileReadMore:true,catalogLink:true,queryRetained:true,languageSwitch:true,errors}));
 }finally{await browser.close();await new Promise(r=>server.close(r))}

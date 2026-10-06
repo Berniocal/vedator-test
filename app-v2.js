@@ -485,7 +485,9 @@
   function bind(){
     $$('.tab-v2').forEach(button=>button.addEventListener('click',()=>setView(button.dataset.view)));
     $$('.language-v2 button[data-lang]').forEach(button=>button.addEventListener('click',()=>setLanguage(button.dataset.lang)));
-    $('#search-v2').addEventListener('input',event=>{state.query=event.target.value;filterActive()});
+    $('#search-v2').addEventListener('input',event=>{if(state.view==='ask'){askUi.draft=event.target.value;return}state.query=event.target.value;filterActive()});
+    $('#search-v2').addEventListener('keydown',event=>{if(state.view==='ask'&&event.key==='Enter'){event.preventDefault();submitAsk()}});
+    $('#ask-submit-v2').addEventListener('click',submitAsk);
     document.addEventListener('click',event=>{
       const play=event.target.closest?.('.play');
       if(play){const episode=episodeByNumber(Number(play.dataset.episode)),seconds=play.dataset.seconds===''?null:Number(play.dataset.seconds)||0;if(episode)openPlayback(episode,{start:seconds,itemRef:play.dataset.ref||epRef(episode.number)});return}
@@ -901,7 +903,7 @@
   function filterActive(){
     const active=$('.view-v2[data-view="'+state.view+'"]');if(!active)return;
     syncParityControls();
-    document.querySelector('.panel .controls')?.classList.toggle('hidden',state.view==='ask');
+    syncAskSearchControls();
     if(state.view==='ask'){renderAsk();return}
     if(state.view==='episodes'){renderEpisodes();return}
     if(state.view==='questions'){renderQuestions();const filtered=Boolean(state.query.trim())||questionUi.qTopic!=='all',count=Number(active.dataset.visible)||0;$('#count-v2').textContent=questionCountLabel('questions',filtered?count:state.data.questions.length,filtered);return}
@@ -911,6 +913,8 @@
     if(state.view==='playlists')$('#count-v2').textContent=query?shown+' '+text('nalezených playlistů','nájdených playlistov'):state.playlists.length+' '+text('playlistů','playlistov');else $('#count-v2').textContent=text('Lokální data','Lokálne dáta');
   }
   function setView(view){
+    if(state.view==='ask')askUi.draft=$('#search-v2').value;
+    $('#search-v2').value=view==='ask'?askUi.draft:state.query;
     state.view=view;$$('.tab-v2').forEach(button=>button.classList.toggle('active',button.dataset.view===view));$$('.view-v2').forEach(node=>node.classList.toggle('hidden',node.dataset.view!==view));
     if(view==='playlists')renderPlaylists();if(view==='data'){loadUserData();renderData()}if(view==='questions'||view==='nonquestions')ensureParityMathJax();filterActive();
   }
@@ -2075,7 +2079,7 @@ return {load(data){state.items=flattenData(data);state.index=buildIndex(state.it
   }
 
 
-  const askUi={engine:null,data:null,query:'',filter:'all',ranked:[],visible:30,open:new Set()};
+  const askUi={engine:null,data:null,draft:'',query:'',filter:'all',ranked:[],visible:30,open:new Set()};
   function askEngine(){
     if(!askUi.engine)askUi.engine=createAskSearchEngine();
     if(askUi.data!==state.data){askUi.engine.load(state.data);askUi.data=state.data;if(askUi.query)askUi.ranked=askUi.engine.search(askUi.query,askUi.filter)}
@@ -2092,35 +2096,34 @@ return {load(data){state.items=flattenData(data);state.index=buildIndex(state.it
       'distant-semantic':text('Vzdálenější souvislost','Vzdialenejšia súvislosť')
     };return labels[result.reason]||'';
   }
+  function syncAskSearchControls(){
+    const ask=state.view==='ask',search=$('#search-v2'),controls=search.closest('.controls');
+    controls.classList.remove('hidden');controls.classList.toggle('ask-controls-v2',ask);
+    $('#ask-submit-v2').classList.toggle('hidden',!ask);
+    $('#ask-submit-v2').textContent=text('Hledat','Hľadať');
+    search.placeholder=ask?text('Zadej otázku…','Zadaj otázku…'):text('Hledat v právě otevřené záložce…','Hľadať v práve otvorenej záložke…');
+    search.setAttribute('aria-label',ask?text('Tvoje otázka','Tvoja otázka'):text('Vyhledávání','Vyhľadávanie'));
+  }
   function renderAsk(){
     const root=$('#ask-v2');if(!root)return;
     askEngine();
-    if(!root.querySelector('#ask-form-v2')){
-      root.innerHTML='<div class="panel ask-panel-v2"><h2 id="ask-heading-v2"></h2><p id="ask-intro-v2"></p><form id="ask-form-v2" class="ask-form-v2"><label class="ask-label-v2" for="ask-input-v2"></label><div class="ask-input-row-v2"><input id="ask-input-v2" class="search" type="search" autocomplete="off" enterkeyhint="search" maxlength="600"><button id="ask-submit-v2" type="submit" class="ask-submit-v2"></button></div></form><div id="ask-filters-v2" class="tabs"></div><div id="ask-suggestions-v2" class="ask-suggestions-v2"></div><p id="ask-note-v2" class="ask-note-v2"></p></div><p id="ask-status-v2" role="status" aria-live="polite"></p><div id="ask-results-v2" class="grid"></div><button id="ask-more-v2" class="secondary hidden" type="button"></button>';
-      $('#ask-input-v2').value=askUi.query;
-      $('#ask-form-v2').addEventListener('submit',event=>{event.preventDefault();submitAsk()});
+    if(!root.querySelector('#ask-filters-v2')){
+      root.innerHTML='<div id="ask-filters-v2" class="tabs ask-type-filters-v2"></div><p id="ask-status-v2" class="hidden" role="status" aria-live="polite"></p><div id="ask-results-v2" class="grid"></div><button id="ask-more-v2" class="secondary hidden" type="button"></button>';
       root.addEventListener('click',event=>{
         const filter=event.target.closest('[data-ask-filter]');
         if(filter){askUi.filter=filter.dataset.askFilter;if(askUi.query)askUi.ranked=askEngine().search(askUi.query,askUi.filter);askUi.visible=30;renderAsk();return}
-        const suggestion=event.target.closest('[data-ask-suggestion]');
-        if(suggestion){$('#ask-input-v2').value=suggestion.textContent;submitAsk();return}
         const more=event.target.closest('[data-ask-answer]');
         if(more){const id=more.dataset.askAnswer;if(askUi.open.has(id))askUi.open.delete(id);else askUi.open.add(id);renderAskResults();return}
         if(event.target.closest('#ask-more-v2')){askUi.visible+=30;renderAskResults()}
       });
     }
-    $('#ask-heading-v2').textContent=text('Zeptej se','Spýtaj sa');
-    $('#ask-intro-v2').textContent=text('Napiš otázku a zjisti, jestli se jí už Vedátoři věnovali. Hledání rozpoznává synonyma, různé formulace i související témata.','Napíš otázku a zisti, či sa jej už Vedátori venovali. Hľadanie rozpoznáva synonymá, rôzne formulácie aj súvisiace témy.');
-    root.querySelector('.ask-label-v2').textContent=text('Tvoje otázka nebo téma','Tvoja otázka alebo téma');
-    $('#ask-input-v2').placeholder=text('Například: kolik váží Slunce?','Napríklad: koľko váži Slnko?');
-    $('#ask-submit-v2').textContent=text('Hledat odpověď','Hľadať odpoveď');
-    $('#ask-note-v2').textContent=text('Hledá v existujících odpovědích podcastu. Novou otázku tím nikam neodesíláš. Procenta vyjadřují podobnost textu, ne jistotu správné odpovědi.','Hľadá v existujúcich odpovediach podcastu. Novú otázku tým nikam neodosielaš. Percentá vyjadrujú podobnosť textu, nie istotu správnej odpovede.');
     $('#ask-filters-v2').innerHTML=[['all',text('Vše','Všetko')],['question','Otázky'],['nonquestion','Neotázky']].map(([value,label])=>'<button type="button" class="ask-filter-v2 '+(askUi.filter===value?'active':'')+'" data-ask-filter="'+value+'" aria-pressed="'+(askUi.filter===value)+'">'+label+'</button>').join('');
-    $('#ask-suggestions-v2').innerHTML=(sk()?['fotón','čierna diera','koľko váži Slnko','ako dlho trvá cesta na Mars','gravitácia','umelá inteligencia']:['foton','černá díra','kolik váží Slunce','jak dlouho trvá cesta na Mars','gravitace','umělá inteligence']).map(label=>'<button type="button" class="secondary" data-ask-suggestion>'+esc(label)+'</button>').join('');
     renderAskResults();
   }
   function renderAskResults(){
-    $('#ask-status-v2').textContent=!askUi.query?text('Zadej otázku a potvrď ji Enterem nebo tlačítkem.','Zadaj otázku a potvrď ju Enterom alebo tlačidlom.'):askUi.ranked.length?askUi.ranked.length+' '+text('výsledků pro: ','výsledkov pre: ')+askUi.query:text('Nenašel jsem použitelnou shodu. Zkus otázku přeformulovat.','Nenašiel som použiteľnú zhodu. Skús otázku preformulovať.');
+    const noMatch=Boolean(askUi.query)&&!askUi.ranked.length;
+    $('#ask-status-v2').textContent=noMatch?text('Nenašel jsem použitelnou shodu. Zkus otázku přeformulovat.','Nenašiel som použiteľnú zhodu. Skús otázku preformulovať.'):'';
+    $('#ask-status-v2').classList.toggle('hidden',!noMatch);
     $('#ask-results-v2').innerHTML=askUi.ranked.slice(0,askUi.visible).map(result=>{
       const item=result.entry.item,copy=sk()?item.sk:item.cs,open=askUi.open.has(item.id),kind=item.type==='question'?'question':'nonquestion';
       const q=kind==='question'?state.data.questions.find(q=>Number(q.episode)===item.episode&&Number(q.order)===item.order):null;
@@ -2133,7 +2136,8 @@ return {load(data){state.items=flattenData(data);state.index=buildIndex(state.it
     if(state.view==='ask')$('#count-v2').textContent=askUi.query?askUi.ranked.length+' '+text('výsledků','výsledkov'):'';
   }
   function submitAsk(){
-    askUi.query=$('#ask-input-v2').value.trim();askUi.visible=30;askUi.open.clear();
+    if(state.view!=='ask')return;
+    askUi.draft=$('#search-v2').value;askUi.query=askUi.draft.trim();askUi.visible=30;askUi.open.clear();
     askUi.ranked=askEngine().search(askUi.query,askUi.filter);renderAskResults();
   }
 
