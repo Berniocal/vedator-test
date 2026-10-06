@@ -2075,7 +2075,37 @@ function rank(query){
   );
 }
 
-return {load(data){state.items=flattenData(data);state.index=buildIndex(state.items)},search(query,filter='all'){state.filter=filter;return rank(query)}};
+// Same highlighting terms as Berniocal/faq/highlight.js, rendered as escaped HTML.
+const formsByKey=new Map();
+for(const [canonicalRaw,forms] of MAPS.equivalents||[]){
+  const key=canon(canonicalRaw);
+  if(!formsByKey.has(key))formsByKey.set(key,new Set());
+  const values=formsByKey.get(key);values.add(String(canonicalRaw));
+  for(const form of forms||[])values.add(String(form));
+}
+function highlightKeys(query,result){
+  const keys=new Set(),tokens=new Set(),qTerms=extractTerms(query,{query:true});
+  for(const q of qTerms){
+    if(result.entry.termSet.has(q.key))keys.add(q.key);
+    for(const [related] of semanticGraph.get(q.key)||[])if(result.entry.termSet.has(related))keys.add(related);
+  }
+  const addToken=token=>{const n=norm(token);if(!n||n.length<2)return;tokens.add(canon(n));tokens.add(n)};
+  for(const key of keys){
+    addToken(key);
+    for(const form of formsByKey.get(key)||[key])for(const token of String(form).match(/[\p{L}\p{N}]+/gu)||[])addToken(token);
+  }
+  for(const q of qTerms)addToken(q.label);
+  return tokens;
+}
+function highlightText(value,keys){
+  const raw=String(value??'');let out='',position=0;
+  for(const match of raw.matchAll(/[\p{L}\p{N}]+/gu)){
+    const token=match[0];if(token.length<2||!(keys.has(canon(token))||keys.has(norm(token))))continue;
+    const at=match.index;out+=esc(raw.slice(position,at))+'<mark class="vedator-match ask-search-hit">'+esc(token)+'</mark>';position=at+token.length;
+  }
+  return out+esc(raw.slice(position));
+}
+return {load(data){state.items=flattenData(data);state.index=buildIndex(state.items)},search(query,filter='all'){state.filter=filter;return rank(query)},highlightKeys,highlightText};
   }
 
 
@@ -2127,9 +2157,10 @@ return {load(data){state.items=flattenData(data);state.index=buildIndex(state.it
     $('#ask-results-v2').innerHTML=askUi.ranked.slice(0,askUi.visible).map(result=>{
       const item=result.entry.item,copy=sk()?item.sk:item.cs,open=askUi.open.has(item.id),kind=item.type==='question'?'question':'nonquestion';
       const q=kind==='question'?state.data.questions.find(q=>Number(q.episode)===item.episode&&Number(q.order)===item.order):null;
-      const ref=q?qRef(q):'';
+      const ref=q?qRef(q):'',keys=askEngine().highlightKeys(askUi.query,result);
+      const highlight=value=>askUi.engine.highlightText(value,keys);
       const percent=Math.max(1,Math.round(Math.min(result.reason==='semantic'?.69:result.reason==='distant-semantic'?.49:1,result.score)*100));
-      return '<article class="card ask-card-v2 '+(open?'ask-open-v2':'')+'" data-ask-id="'+esc(item.id)+'"><div class="meta">'+text('Díl','Diel')+' '+item.episode+' · '+(kind==='question'?'Otázka':'Neotázka')+(item.time?' · '+esc(item.time):'')+'</div><h2>'+esc(copy.title)+'</h2><div class="ask-answer-v2"><ul>'+copy.points.map(point=>'<li>'+esc(point)+'</li>').join('')+'</ul></div><div class="tags"><span class="tag">'+esc(askReason(result))+'</span><span class="tag">'+text('Podobnost','Podobnosť')+' '+percent+' %</span></div><div class="ask-actions-v2"><button type="button" class="play" data-episode="'+item.episode+'" data-seconds="'+item.seconds+'" data-ref="'+esc(ref)+'">▶ '+text('Přehrát odpověď','Prehrať odpoveď')+'</button>'+(copy.points.length?'<button type="button" class="secondary" data-ask-answer="'+esc(item.id)+'" aria-expanded="'+open+'">'+(open?text('Číst méně','Čítať menej'):text('Číst více','Čítať viac'))+'</button>':'')+'<a class="secondary" href="#'+kind+'='+item.episode+':'+item.order+'">'+text('Zobrazit v katalogu','Zobraziť v katalógu')+'</a></div></article>';
+      return '<article class="card ask-card-v2 '+(open?'ask-open-v2':'')+'" data-ask-id="'+esc(item.id)+'"><div class="meta">'+text('Díl','Diel')+' '+item.episode+' · '+(kind==='question'?'Otázka':'Neotázka')+(item.time?' · '+esc(item.time):'')+'</div><h2>'+highlight(copy.title)+'</h2><div class="ask-answer-v2"><ul>'+copy.points.map(point=>'<li>'+highlight(point)+'</li>').join('')+'</ul></div><div class="tags"><span class="tag">'+esc(askReason(result))+'</span><span class="tag">'+text('Podobnost','Podobnosť')+' '+percent+' %</span></div><div class="ask-actions-v2"><button type="button" class="play" data-episode="'+item.episode+'" data-seconds="'+item.seconds+'" data-ref="'+esc(ref)+'">▶ '+text('Přehrát','Prehrať')+'</button>'+(copy.points.length?'<button type="button" class="secondary" data-ask-answer="'+esc(item.id)+'" aria-expanded="'+open+'">'+(open?text('Číst méně','Čítať menej'):text('Číst více','Čítať viac'))+'</button>':'')+'<a class="secondary" href="#'+kind+'='+item.episode+':'+item.order+'">'+text('Zobrazit v katalogu','Zobraziť v katalógu')+'</a></div></article>';
     }).join('');
     $('#ask-more-v2').textContent=text('Zobrazit další','Zobraziť ďalšie');
     $('#ask-more-v2').classList.toggle('hidden',askUi.visible>=askUi.ranked.length);

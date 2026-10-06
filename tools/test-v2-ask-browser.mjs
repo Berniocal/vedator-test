@@ -20,6 +20,9 @@ try{
   await page.setViewport({width,height:844,isMobile:true,hasTouch:true});
   const dimensions=await page.evaluate(()=>({width:document.documentElement.clientWidth,scroll:document.documentElement.scrollWidth}));
   assert(dimensions.scroll<=dimensions.width+1,'Page overflow at '+width+': '+JSON.stringify(dimensions));
+  const card=await page.$eval('.ask-card-v2',e=>{const a=e.querySelector('.ask-actions-v2'),play=a.querySelector('.play'),more=a.querySelector('[data-ask-answer]'),link=a.querySelector('a'),rect=x=>{const b=x.getBoundingClientRect();return{width:b.width,left:b.left,top:b.top}};return{actions:rect(a),play:rect(play),more:rect(more),link:rect(link),playText:play.textContent,moreWeight:getComputedStyle(more).fontWeight,linkWeight:getComputedStyle(link).fontWeight,titleMarks:e.querySelectorAll('h2 mark').length,answerMarks:e.querySelectorAll('.ask-answer-v2 mark').length}});
+  assert.equal(card.playText,'▶ Přehrát');assert(Number(card.moreWeight)>=700&&Number(card.linkWeight)>=700);
+  assert(Math.abs(card.link.width-card.actions.width)<1,'Catalog link must fill the whole card action row');assert(Math.abs(card.play.top-card.more.top)<1,'Play and read-more must share the first row');assert(card.link.top>card.play.top);assert(card.titleMarks>0&&card.answerMarks>0);
  }
  await page.setViewport({width:390,height:844,isMobile:true,hasTouch:true});
  await page.evaluate(()=>{document.documentElement.dataset.theme='dark';document.querySelector('.tab-v2[data-view=ask]').scrollIntoView({block:'nearest',inline:'center'})});await new Promise(r=>setTimeout(r,250));
