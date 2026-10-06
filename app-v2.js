@@ -2131,7 +2131,7 @@ return {load(data){state.items=flattenData(data);state.index=buildIndex(state.it
     controls.classList.remove('hidden');controls.classList.toggle('ask-controls-v2',ask);
     $('#ask-submit-v2').classList.toggle('hidden',!ask);
     $('#ask-submit-v2').textContent=text('Hledat','Hľadať');
-    search.placeholder=ask?text('Zadej otázku…','Zadaj otázku…'):text('Hledat v právě otevřené záložce…','Hľadať v práve otvorenej záložke…');
+    search.placeholder=ask?text('Může světlo uniknout z černé díry?','Môže svetlo uniknúť z čiernej diery?'):text('Hledat v právě otevřené záložce…','Hľadať v práve otvorenej záložke…');
     search.setAttribute('aria-label',ask?text('Tvoje otázka','Tvoja otázka'):text('Vyhledávání','Vyhľadávanie'));
   }
   function renderAsk(){
