@@ -257,6 +257,10 @@ html body .tab-v2.active,html body .topic-v2.active,html body .question-topic.ac
 #parity-topics-v2{display:none!important}
 
 </style>
+
+<style id="ask-styles-v2">
+.ask-actions-v2 .play{background:var(--accent);color:white;border:0;border-radius:10px;padding:10px 14px;font-weight:700;cursor:pointer}#ask-v2 .secondary{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:9px 12px;cursor:pointer}.ask-panel-v2 h2{margin:0 0 .5em}.ask-panel-v2 p{line-height:1.5}.ask-label-v2{display:block;font-weight:700;margin:1em 0 .5em}.ask-input-row-v2{display:flex;gap:10px}.ask-input-row-v2 input{flex:1;min-width:0}.ask-input-row-v2 button{flex:0 0 auto;min-height:44px}.ask-panel-v2 .tabs{margin-top:14px}.ask-submit-v2,.ask-filter-v2{background:var(--accent2);color:var(--ink);border:1px solid var(--accent);border-radius:12px;padding:10px 14px;font-weight:700;cursor:pointer}.ask-filter-v2.active{background:#5b4bdb;color:white}.ask-suggestions-v2{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.ask-note-v2{font-size:.85rem;color:var(--muted)}.ask-card-v2{display:flex;flex-direction:column;min-width:0}.ask-card-v2 h2{overflow-wrap:anywhere}.ask-answer-v2{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden;line-height:1.5}.ask-open-v2 .ask-answer-v2{display:block}.ask-actions-v2{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.ask-actions-v2>*{min-height:44px;text-decoration:none;display:flex;align-items:center;justify-content:center}.ask-card-v2 .tags{margin-top:auto;padding-top:12px}#ask-status-v2{overflow-wrap:anywhere}#ask-more-v2{margin:16px 0;min-height:44px}@media(max-width:600px){.ask-input-row-v2{flex-direction:column}.ask-actions-v2>*{flex:1 1 130px}.ask-panel-v2{padding:14px}.ask-suggestions-v2 button{min-height:44px}}
+</style>
 </head>
 <body>
 <header><div class="wrap header-v2"><div class="header-title-v2"><div id="eyebrow-v2" style="opacity:.72;font-size:.76rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase">Neoficiální tematický katalog</div><h1 id="heading-v2" style="margin:.25rem 0 0">Vedátorský podcast podle témat</h1></div><div class="header-actions-v2"><button id="install-v2" class="install-v2" type="button">Instalovat</button><div class="language-v2" role="group" aria-label="Jazyk aplikace / Jazyk aplikácie"><button type="button" data-lang="sk">SK</button><button type="button" data-lang="cz">CZ</button></div><button id="theme-toggle-v2" class="theme-toggle-v2" type="button" aria-pressed="false" title="Tmavý režim">☾</button></div></div></header>
@@ -268,6 +272,7 @@ html body .tab-v2.active,html body .topic-v2.active,html body .question-topic.ac
       <button class="tab-v2" data-view="series" type="button">Série</button>
       <button class="tab-v2" data-view="questions" type="button">Otázky</button>
       <button class="tab-v2" data-view="nonquestions" type="button">Neotázky</button>
+      <button class="tab-v2" data-view="ask" type="button">Zeptej se</button>
       <button class="tab-v2" data-view="playlists" type="button">Playlisty</button>
       <button class="tab-v2" data-view="data" type="button">Moje data</button>
     </div>
@@ -277,6 +282,7 @@ html body .tab-v2.active,html body .topic-v2.active,html body .question-topic.ac
   <section id="series-v2" class="view-v2 hidden" data-view="series"></section>
   <section id="questions-v2" class="view-v2 grid hidden" data-view="questions"></section>
   <section id="nonquestions-v2" class="view-v2 grid hidden" data-view="nonquestions"></section>
+  <section id="ask-v2" class="view-v2 hidden" data-view="ask"></section>
   <section id="playlists-v2" class="view-v2 hidden" data-view="playlists"></section>
   <section id="data-v2" class="view-v2 hidden" data-view="data"></section>
 </main>

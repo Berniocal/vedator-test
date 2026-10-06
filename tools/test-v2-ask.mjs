@@ -1,0 +1,44 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {JSDOM} from 'jsdom';
+const data=JSON.parse(fs.readFileSync('content-v2.json','utf8'));
+const html=fs.readFileSync('v2.html','utf8').replace('<script src="./app-v2.js" defer></script>','');
+const dom=new JSDOM(html,{url:'https://example.test/v2.html#ask',runScripts:'outside-only',pretendToBeVisual:true});
+const {window:w}=dom,d=w.document;
+w.localStorage.setItem('vedator-ui-language-v1','cz');
+let requests=0;w.fetch=async()=>{requests++;return{ok:true,json:async()=>data}};
+w.HTMLMediaElement.prototype.play=()=>Promise.resolve();w.HTMLMediaElement.prototype.pause=()=>{};w.HTMLMediaElement.prototype.load=()=>{};w.HTMLElement.prototype.scrollIntoView=()=>{};
+const ready=new Promise(resolve=>w.addEventListener('vedator-v2-ready',resolve,{once:true}));
+w.eval(fs.readFileSync('app-v2.js','utf8'));d.dispatchEvent(new w.Event('DOMContentLoaded'));await ready;
+await new Promise(resolve=>setTimeout(resolve,50));
+assert.equal(d.querySelector('.tab-v2.active').dataset.view,'ask');
+assert.equal(d.querySelectorAll('.tab-v2').length,7);
+assert.equal(d.querySelectorAll('#ask-results-v2 article').length,0);
+assert(d.querySelector('.panel .controls').classList.contains('hidden'));
+const input=d.querySelector('#ask-input-v2'),form=d.querySelector('#ask-form-v2');
+const submit=query=>{input.value=query;form.dispatchEvent(new w.Event('submit',{bubbles:true,cancelable:true}))};
+input.value='foton';input.dispatchEvent(new w.Event('input',{bubbles:true}));
+assert.equal(d.querySelectorAll('#ask-results-v2 article').length,0,'Search must wait for confirmation');
+submit('foton');assert(d.querySelectorAll('#ask-results-v2 article').length>0);
+const first=d.querySelector('#ask-results-v2 article');
+const play=first.querySelector('.play');assert(Number.isFinite(Number(play.dataset.seconds)));
+play.click();await new Promise(resolve=>setTimeout(resolve,50));assert(!d.querySelector('#player-v2').classList.contains('hidden'));
+assert(d.querySelector('#audio-v2').src.includes(data.episodes.find(e=>Number(e.number)===Number(play.dataset.episode)).enclosure));
+const more=first.querySelector('[data-ask-answer]');if(more){more.click();assert(d.querySelector('#ask-results-v2 article').classList.contains('ask-open-v2'))}
+for(const filter of ['question','nonquestion']){
+ d.querySelector('[data-ask-filter="'+filter+'"]').click();
+ for(const item of d.querySelectorAll('#ask-results-v2 article'))assert(item.dataset.askId.startsWith(filter==='question'?'q:':'n:'));
+}
+d.querySelector('[data-ask-filter="all"]').click();
+submit('černá díra');const synonyms=d.querySelectorAll('#ask-results-v2 article').length;assert(synonyms>0);
+submit('black hole');assert(d.querySelectorAll('#ask-results-v2 article').length>0,'English synonym should match');
+submit('qxzvabcnevermatch');assert.equal(d.querySelectorAll('#ask-results-v2 article').length,0);
+submit('');assert.equal(d.querySelectorAll('#ask-results-v2 article').length,0);
+d.querySelector('[data-ask-suggestion]').click();assert(d.querySelectorAll('#ask-results-v2 article').length>0);
+const remembered=input.value;d.querySelector('.tab-v2[data-view="playlists"]').click();assert(!d.querySelector('.panel .controls').classList.contains('hidden'));
+d.querySelector('.tab-v2[data-view="ask"]').click();assert.equal(input.value,remembered);
+d.querySelector('[data-lang="sk"]').click();assert.equal(d.querySelector('.tab-v2[data-view="ask"]').textContent,'Spýtaj sa');assert.equal(d.querySelector('#ask-submit-v2').textContent,'Hľadať odpoveď');
+assert.equal(requests,1,'Ask tab must reuse loaded data');
+const target=d.querySelector('#ask-results-v2 article a').getAttribute('href');w.location.hash=target;
+await new Promise(resolve=>setTimeout(resolve,30));assert(['questions','nonquestions'].includes(d.querySelector('.tab-v2.active').dataset.view));
+console.log(JSON.stringify({ok:true,tabPosition:5,confirmedSearch:true,synonyms:true,filters:true,sharedPlayer:true,sharedDataRequests:requests,languageSwitch:true,catalogDeepLink:true}));dom.window.close();
