@@ -1,0 +1,989 @@
+﻿1
+00:00:00,000 --> 00:00:05,000
+Dobre, ideme na to.
+
+2
+00:00:06,000 --> 00:00:09,000
+Od mikrobalce s mými kry až po monopouli.
+
+3
+00:00:10,000 --> 00:00:11,960
+Veda nas opklopuje na každom kroku.
+
+4
+00:00:12,000 --> 00:00:16,181
+Bítajte pri veda torskom podkase,
+ktorom bude meda diskutovat uvede a prirode
+
+5
+00:00:16,221 --> 00:00:17,000
+okonomov na to.
+
+6
+00:00:26,400 --> 00:00:28,060
+Ja som samuel.
+
+7
+00:00:28,100 --> 00:00:33,241
+Ahoj samuel, nezkamáme taký krásný názvo
+
+8
+00:00:33,281 --> 00:00:37,060
+podkastu vlastá valentinsky monopol.
+
+9
+00:00:37,100 --> 00:00:42,460
+Bude môjú spravať o tomako velké
+korporácie, vyúživajú valentinsky světov na
+
+10
+00:00:42,500 --> 00:00:44,860
+presadzované svojí závymom.
+
+11
+00:00:44,900 --> 00:00:45,900
+Nie je to mon
+
+12
+00:00:50,000 --> 00:00:53,960
+Dobrý, tak podme sa bavíť
+o físikálnom monopovne.
+
+13
+00:00:54,000 --> 00:00:59,019
+Čo je to monopovl a asi a
+pre ozrenemenie magnetycký
+
+14
+00:00:59,059 --> 00:01:04,453
+monopovl? Takže monopovl
+úplnielen tak doslovné vysetlenie,
+
+15
+00:01:04,493 --> 00:01:07,000
+že častí celen z jedným polom.
+
+16
+00:01:08,000 --> 00:01:10,000
+Ináš poveda nepoľovica magnetu.
+
+17
+00:01:12,000 --> 00:01:15,860
+Počtať aj všdykeť máme magnet, tak
+magnet má severnú a južnu stranu.
+
+18
+00:01:15,900 --> 00:01:21,256
+Severná je priťovaná južnej, takže keď
+spojšť dva magnetí, tak oni sa k sebe
+
+19
+00:01:21,296 --> 00:01:25,060
+tými opačnými koncami
+pricústnúk sebe, ale prísajú.
+
+20
+00:01:25,100 --> 00:01:27,060
+Válmi Valentinske.
+
+21
+00:01:27,100 --> 00:01:31,711
+Nána. Teda vlastno z magnetuje, že keď ho
+
+22
+00:01:31,751 --> 00:01:32,792
+rozděližná d
+
+23
+00:01:37,140 --> 00:01:39,880
+takáž da z jeho polovic
+budeme znova sever a juch.
+
+24
+00:01:40,440 --> 00:01:45,617
+Čené rozdělí, že na severnu čas magnetu a
+na juchu čas magnetu obe budu mat znova
+
+25
+00:01:45,657 --> 00:01:49,780
+obakonce. Čiže, to
+můvisám, že to je problém.
+
+26
+00:01:50,020 --> 00:01:52,680
+A ako domasí nezpravý, mási monopol.
+
+27
+00:01:59,000 --> 00:02:03,800
+Magnetic môno pol, by bol magnet, ktorú by
+mal iba sever na priklad, alebo iba júch.
+
+28
+00:02:05,000 --> 00:02:08,160
+A kde takéto magneti možu existovat?
+
+29
+00:02:08,200 --> 00:02:13,342
+Alebože prečo si myslím, že by
+magnet, ktorí malen bud sever, alebo
+
+30
+00:02:13,382 --> 00:02:17,000
+júch, alebo pluza,
+alebo minus može existovat.
+
+31
+00:02:18,000 --> 00:02:20,400
+No, máme k tomu neprieme dôkazy.
+
+32
+00:02:22,500 --> 00:02:26,769
+Ďúdje, by možno takýto počedne priamih
+dôkazov obstáľ, a nahradil by jeden priamih
+
+33
+00:02:26,809 --> 00:02:31,960
+dôkaz, ale tak teda povým, akéme veď ti
+nepríame dôkazia necham teda naposudinie.
+
+34
+00:02:32,000 --> 00:02:36,960
+Prvým prvou indicio sú maxvel verovnice.
+
+35
+00:02:37,000 --> 00:02:41,000
+Maxvel verovnice sú jeden
+z največših objavou fizyky
+
+36
+00:02:46,000 --> 00:02:50,500
+alek trina magnetizmus, optika, všetky
+tie to veci krásne spojne veden celok.
+
+37
+00:02:51,500 --> 00:02:56,500
+A tie rovnice sú štiri, tvori je dva páry,
+znova, aby sme znezneľi tak valentinsky.
+
+38
+00:02:59,500 --> 00:03:04,734
+No a netýchto rovnice je takato
+veť dony zvlášna, že rovnice ma lavu
+
+39
+00:03:04,774 --> 00:03:06,460
+stranu a pravu stranu.
+
+40
+00:03:06,500 --> 00:03:11,101
+A medzíním je rovná sa
+pretesato v a pretresa to vľa rovnica.
+
+41
+00:03:11,141 --> 00:03:16,023
+A teraz, že lávé stranty hrovnic sa na
+seba strášne podobaju úplne, že ako by je
+
+42
+00:03:16,063 --> 00:03:20,773
+jedna mať mala. Pravé
+straný rovnic sa na seba úplne
+
+43
+00:03:20,813 --> 00:03:26,116
+nepodobaju, že najstranie 0 a v
+jednej rovnicie 0 a v druhé je niečo iné
+
+44
+00:03:26,156 --> 00:03:27,000
+nienulové.
+
+45
+00:03:34,500 --> 00:03:39,311
+Fryrode máme zaporne elektroní,
+máme kladne protoní, a moďom može
+
+46
+00:03:39,351 --> 00:03:44,741
+existováť s Lubovolím elektrickým
+nábojom, viemete náboj oternúť, záhodíť,
+
+47
+00:03:44,781 --> 00:03:47,500
+zobrať, rozdělíť bez problému hocičo.
+
+48
+00:03:48,500 --> 00:03:51,423
+Tánúla v druhý polovicírovníc na prave
+
+49
+00:03:56,500 --> 00:03:59,560
+počiť a vlastnostoru sme hovorili, že
+magneca nedá rozdziliť na dve části.
+
+50
+00:03:59,600 --> 00:04:03,600
+Nemožeš odtrhnout se
+vernú čas odvžnej a na opak.
+
+51
+00:04:05,600 --> 00:04:09,360
+A teď da. Na jednej strane sa
+terovnice na seba podobaju.
+
+52
+00:04:09,400 --> 00:04:14,094
+A na druhý strane tam takýto úplne
+brutálny rozdzil meď z nimi, že čo sa tyka
+
+53
+00:04:14,134 --> 00:04:16,246
+elektrickohoná boja tak sa
+
+54
+00:04:20,000 --> 00:04:22,500
+a magnetycký náboj sa nedá
+rozdzili na sever a juch.
+
+55
+00:04:23,500 --> 00:04:28,460
+Tak niekdo pomérne prirozenie povedalo, že
+tak čo keď sa to dalem myto ne dokážeme.
+
+56
+00:04:28,500 --> 00:04:33,244
+Žičo keď názé existujú polovice
+magnetou a ty rovnice v djakotomu sú také
+
+57
+00:04:33,284 --> 00:04:36,460
+symmetriťské ako sa java
+ja aj na tej druhé strane.
+
+58
+00:04:36,500 --> 00:04:39,269
+Ale plenzme taký polom magnet ne dok
+
+59
+00:04:43,500 --> 00:04:45,960
+A toto je taký napad,
+ktorý teraz prišel zruba.
+
+60
+00:04:46,000 --> 00:04:51,076
+Zruba pred s toročím plůzminu,
+takože opakuje sa to, ak si káži 10-20
+
+61
+00:04:51,116 --> 00:04:54,960
+rokov, taký takovol na
+závymu, o týto polumagnenty.
+
+62
+00:04:55,000 --> 00:04:56,753
+O týto monopoli.
+
+63
+00:04:56,793 --> 00:04:58,960
+O týto monopoli, a no.
+
+64
+00:04:59,000 --> 00:05:03,154
+Ale teda úplný prapovodně
+to vychad z maksolo vyhrovný
+
+65
+00:05:07,000 --> 00:05:09,100
+si by siometričky šie, keby
+existovali aj polovičky magnetu.
+
+66
+00:05:09,860 --> 00:05:14,022
+A pre často retyckých fizikuj, toto
+dosatočne silná motiváci, aby sa im venovali
+
+67
+00:05:14,062 --> 00:05:16,500
+ďalej. Ale i báná popiú.
+
+68
+00:05:17,020 --> 00:05:20,660
+Takže by sa upravili
+tějáj róvníce maksvalové.
+
+69
+00:05:20,700 --> 00:05:23,100
+A no mali by proste siometričky šitváčo.
+
+70
+00:05:23,900 --> 00:05:24,823
+Je úplně zli
+
+71
+00:05:30,500 --> 00:05:32,960
+a kedy zmehy to
+okazali a kedy sa prejavili.
+
+72
+00:05:33,000 --> 00:05:36,960
+A keby boli dô sletky
+existenci je magnetických monopolou.
+
+73
+00:05:37,000 --> 00:05:42,246
+A ta totovoria sa bude už
+asi sto ročie, zistilo sa
+
+74
+00:05:42,286 --> 00:05:44,960
+nekloko zámavých veci.
+
+75
+00:05:45,000 --> 00:05:49,710
+Prva a pre mňa osobnie
+najzámavéšia vezi je, že a
+
+76
+00:05:49,750 --> 00:05:55,188
+kedy existováš, Ať by existval a sponiden
+
+77
+00:05:55,228 --> 00:05:57,060
+magnetický monopolho si děvo ve smire.
+
+78
+00:05:57,100 --> 00:06:02,460
+Tak by sme rozumali to mu prečo sa
+elektrický náboj na chádzaln v takých násopkoh.
+
+79
+00:06:02,500 --> 00:06:07,210
+Možž máť jeden elektron, ale
+nie možž máť, alebo jedného
+
+80
+00:06:07,250 --> 00:06:10,060
+elektronu alebo jedného nábojú.
+
+81
+00:06:10,100 --> 00:06:14,792
+Je to len po celých číslách,
+jedno násobok, vôj násobok, ktor
+
+82
+00:06:17,500 --> 00:06:20,420
+Ču je tak a zvlášt na vlastnost
+elektrickou náboja, ktoré nerozuměme.
+
+83
+00:06:20,460 --> 00:06:25,757
+Ale akby existoval asponej dým
+magnetický monopol, tak ten bol dostáčovci na to,
+
+84
+00:06:25,797 --> 00:06:27,460
+aby sme tomu rozumili.
+
+85
+00:06:27,500 --> 00:06:32,791
+A po tom začali fizicí viacej
+pracovaná tieto teoril, bo to se im
+
+86
+00:06:32,831 --> 00:06:36,745
+zrazu strášne páčilo, že
+akby existovalni magnetické mon
+
+87
+00:06:41,000 --> 00:06:43,460
+a počič sa na bo
+vyskituji bav dachých násobkoch.
+
+88
+00:06:43,500 --> 00:06:47,460
+Potom vlastne fyzici vypatroli takú vezĺ.
+
+89
+00:06:47,500 --> 00:06:52,848
+Oni vlastne asi predcelen
+existujú, ale sú nesmierne
+
+90
+00:06:52,888 --> 00:06:57,481
+táske. Oto skutočná hmotnost je, že taký
+
+91
+00:06:57,521 --> 00:07:00,460
+zlomok gramu napríklad.
+
+92
+00:07:00,500 --> 00:07:04,460
+Znažo pola duje, že strášne má.
+
+93
+00:07:04,500 --> 00:07:07,935
+Až opoladuje, že strášne malo, ale je
+to, že nilyardú krad výazť nežhoci, jaké
+
+94
+00:07:07,975 --> 00:07:13,384
+elementarná častica. Čiže ako
+elementarná častica sú strášneť až ke a teď da
+
+95
+00:07:13,424 --> 00:07:17,000
+ne dokážeme je hvírobyť v
+cernie a nie výnom úrýchlovačí.
+
+96
+00:07:18,000 --> 00:07:19,960
+Kolý tej svojej hmotnosti?
+
+97
+00:07:20,000 --> 00:07:22,000
+Tak hmotnosto nedovolujú.
+
+98
+00:07:30,500 --> 00:07:34,919
+Čo bylo v nečšom také uspokojie veže z
+razu rozumiemme, že prečo tie polomagnety
+
+99
+00:07:34,959 --> 00:07:40,288
+nevidíme, že Aga existujú tak sú
+mimo dosahu našich eksperimentau a i
+
+100
+00:07:40,328 --> 00:07:43,500
+bežných procesou,
+ktoré sa dějú v prírodie.
+
+101
+00:07:44,500 --> 00:07:46,269
+Kualitéj svojej volké h
+
+102
+00:07:51,500 --> 00:07:54,960
+Na rozdělo taký napríklad elektronou,
+ktoré jsou veľmi lahučke a vznikajú kade tady.
+
+103
+00:07:55,000 --> 00:07:57,960
+Teda v rozných reakcjach.
+
+104
+00:07:58,000 --> 00:08:03,370
+A to je prvý krok a druhý krogie,
+že část fizikou vypočtami prišla na
+
+105
+00:08:03,410 --> 00:08:08,583
+to, že teda magnetické monopoli
+praudie podobně vznikali těsně
+
+106
+00:08:08,623 --> 00:08:10,000
+povolkom tresku.
+
+107
+00:08:16,900 --> 00:08:22,127
+Bolo horeúci mal vysokú energiú, teda velé
+energie bolo k dispozici a čas te energie
+
+108
+00:08:22,167 --> 00:08:24,900
+moha prispinato
+abdizníkol magnetický monopol.
+
+109
+00:08:25,900 --> 00:08:30,509
+Ale o tom sa vysmír
+rozpínal, čo týto magnetické
+
+110
+00:08:30,549 --> 00:08:33,900
+monopoliti strášne rozrieťilo v priestore.
+
+111
+00:08:34,300 --> 00:08:39,460
+Ježe v t a teraz má žident na
+
+112
+00:08:39,500 --> 00:08:41,000
+nekolkomniľiart kilometrů.
+
+113
+00:08:42,000 --> 00:08:46,335
+Takže ta hustota je je
+odozný, a hustota úplne, hej,
+
+114
+00:08:46,375 --> 00:08:49,000
+kleslaniekam strášne, nisko.
+
+115
+00:08:50,000 --> 00:08:55,000
+Koli rozpinajú vesminu, ale no presne.
+
+116
+00:08:56,000 --> 00:09:01,054
+Čiže... Trázej to taký
+problém, že máme napad, ktorý vyzera
+
+117
+00:09:01,094 --> 00:09:05,335
+strášne dobre. a pat, ktorý vyzera
+strášně dobre, že vysvětlu je rieši to rozne
+
+118
+00:09:05,375 --> 00:09:10,808
+problémy, ktoré máme, teda veci, ktorým
+nerozumíme o elektromagnatizme, aj tušíme,
+
+119
+00:09:10,848 --> 00:09:16,227
+že by to vlastne ako byť je monopolím
+mohli vznikat, ale proste ne dokážeme
+
+120
+00:09:16,267 --> 00:09:20,731
+je hýrobílo, bo sú strášně
+hmotné, respektive strášně ener
+
+121
+00:09:28,000 --> 00:09:31,000
+A tu je teraz tu sa
+koniečne dostávame gvalentínový.
+
+122
+00:09:36,000 --> 00:09:40,000
+Čiže vlastne ota skreže ako
+polapi magnetický monopol.
+
+123
+00:09:41,000 --> 00:09:42,960
+A no to je asi také nájdvaložitieš.
+
+124
+00:09:43,000 --> 00:09:48,360
+Kdeže je je nedokážame vyrobidno zami,
+alebo našimi prosträtkami zatiaľ, tak asi
+
+125
+00:09:48,400 --> 00:09:52,860
+ich takové. tak asi ich
+potrebujeme neko polapiť pre se akúlikáno.
+
+126
+00:09:52,900 --> 00:09:57,647
+Záklat funguvania elektro
+generátou elektro generátorou a
+
+127
+00:09:57,687 --> 00:10:03,089
+elektromotorou je taký, že máš taký
+elektrický obvod a voda kuslučku elektrickú
+
+128
+00:10:03,129 --> 00:10:04,860
+cestoru prechadzaž magnetom.
+
+129
+00:10:04,900 --> 00:10:08,660
+A ten magnet je elektrické napetí.
+
+130
+00:10:08,700 --> 00:10:13,542
+No a teraz v podstatie, ako chytí
+magnetický možný, a kochytí magnetický monopolito
+
+131
+00:10:13,582 --> 00:10:18,368
+strášně je do duché, urobiš si také velké
+laso z elektrického obvodu, a poziraš se
+
+132
+00:10:18,408 --> 00:10:23,400
+že či na nám nečo zniklo také
+elektrické napetia a boda ký elektrický prút.
+
+133
+00:10:24,800 --> 00:10:29,980
+Kteci staku to sluško hodíš normálny
+magnet, ktorý má sever a juch, takto napetie
+
+134
+00:10:30,020 --> 00:10:30,670
+najprav
+
+135
+00:10:37,100 --> 00:10:41,600
+Alebo ten magneto lecel naopak, kde
+neprujú chlesněto seber stupněto.
+
+136
+00:10:42,700 --> 00:10:48,160
+A jak by prelecel se tak po slučku
+magnetický monopol, tak to vyskočí hore a
+
+137
+00:10:48,200 --> 00:10:49,600
+ostatně to tam trčať.
+
+138
+00:10:50,500 --> 00:10:53,300
+Lebo neprešla ta důha
+polka, ktorá by to zrazila dola.
+
+139
+00:10:53,500 --> 00:10:54,300
+Prešla na
+
+140
+00:11:04,250 --> 00:11:08,855
+Zavili začali čakáť a štemná
+
+141
+00:11:08,895 --> 00:11:10,250
+stávili.
+
+142
+00:11:10,500 --> 00:11:15,228
+2.1982 preletel monopol cestento
+
+143
+00:11:15,268 --> 00:11:20,455
+obvot. Teda nevidelil je to
+monopol ale všimlisí, že to napete
+
+144
+00:11:20,495 --> 00:11:22,160
+vyskočilo a nepadlo dole.
+
+145
+00:11:22,200 --> 00:11:23,348
+Wow! Váv.
+
+146
+00:11:23,388 --> 00:11:28,391
+To bol ale pred tým a
+kolúdia vedeli, čo to je od 40
+
+147
+00:11:28,431 --> 00:11:30,460
+nepodarilo ani raz.
+
+148
+00:11:30,500 --> 00:11:35,923
+A vtedy ľudia te da vedeli, že je to
+magnetycký monopol, ale nie mali spocžitane,
+
+149
+00:11:35,963 --> 00:11:37,460
+že kolko bych mal obit.
+
+150
+00:11:37,500 --> 00:11:42,871
+A potom keď si to spocžitali, že aké
+vôbec šanca, že imali také to šiase,
+
+151
+00:11:42,911 --> 00:11:47,846
+že cestují chlúčku
+prolečitán zistil, že da všance úplne
+
+152
+00:11:47,886 --> 00:11:52,336
+zaniedbateľ na mala, akože nespomeniem si
+teraz to presneči slu, ale nenči akože 1,2
+
+153
+00:11:52,376 --> 00:11:57,287
+miliarda jednej. Zatém časčovali
+pozorovaliť se slučku, akumali postavenu
+
+154
+00:11:57,327 --> 00:11:59,260
+preleti magnetický monopol.
+
+155
+00:11:59,300 --> 00:12:02,360
+Ale neboľ obyto
+nemožno, že byím tam preloťal.
+
+156
+00:12:02,400 --> 00:12:03,400
+Olen ta štátí
+
+157
+00:12:10,000 --> 00:12:14,960
+že je nepodarilo sa to ozorvať a nie
+rás a teraz vlastne je nie vydiaže.
+
+158
+00:12:15,000 --> 00:12:20,173
+Mali z malen také velke šťastie, že
+náproste je na toho valenty na v roku
+
+159
+00:12:20,213 --> 00:12:22,960
+1987 projoteľ monopoucest naš obvot.
+
+160
+00:12:23,000 --> 00:12:28,385
+Alebo to boliť vlastne taký iný
+signal, také šum v obvodia alebo niečo sa
+
+161
+00:12:28,425 --> 00:12:30,960
+tam zahytilo a zrazusavý pustilo.
+
+162
+00:12:31,000 --> 00:12:35,911
+Al A odpový takže sa to práť
+
+163
+00:12:35,951 --> 00:12:37,960
+oprovniení, nie dozviemé.
+
+164
+00:12:38,000 --> 00:12:39,960
+Nie je dám to.
+
+165
+00:12:40,000 --> 00:12:41,960
+To nie je dobrá odpovýte.
+
+166
+00:12:42,000 --> 00:12:46,960
+Čiže komunitáto teraz berý takže
+vôdzo kaže tvárme sa, že sa to nestalo.
+
+167
+00:12:47,000 --> 00:12:47,650
+Teda že neberme to ako dôkaz existenci
+
+168
+00:12:57,000 --> 00:13:01,676
+No práve, že majú, fyzici máme poce, že
+boloby to trošku nefer, alebo tým řete
+
+169
+00:13:01,716 --> 00:13:04,460
+nexpermen vôdzokach
+úspešně pre behoľ i barás.
+
+170
+00:13:04,500 --> 00:13:07,340
+Tak nemáme tak vůdako spetnu kontrolu.
+
+171
+00:13:07,380 --> 00:13:12,514
+Kieby sa to odpovstedi udělou 10 krát,
+akodaki záhy, gravy tačných vônt, tak už me
+
+172
+00:13:12,554 --> 00:13:14,128
+to brádi, že ok opak
+
+173
+00:13:21,000 --> 00:13:25,663
+Tak sešten nehovorilo, že sa
+dokazali, ale keď sa to už
+
+174
+00:13:25,703 --> 00:13:30,454
+niekolkú krat potvrdilo, aj
+tie opakovájte mérania sa
+
+175
+00:13:30,494 --> 00:13:35,441
+podarilí zopakové, takú sa
+hovorí, že už máme potvrdený ten
+
+176
+00:13:35,481 --> 00:13:40,769
+vokaz. Tak presný tak, že keby
+náhodou niekdo si postavl inoslučku, a
+
+177
+00:13:44,000 --> 00:13:49,049
+Fungujete máme to potvrdene ale
+jedna ještě, že tva by bolo by sme boli
+
+178
+00:13:49,089 --> 00:13:51,500
+spokojných ale jedna je vlastne.
+
+179
+00:13:53,500 --> 00:13:58,852
+Je to teraz neprýjemne v tom, že tvádi
+mi sa, že sa to nie stalo ale všetci
+
+180
+00:13:58,892 --> 00:14:04,149
+je mi, že sa to stalo, takže nam to
+vrtav hlavé a rozmišlame, že či to bola
+
+181
+00:14:04,189 --> 00:14:08,498
+náhoda, či to nie bola náhoda, či sa da
+urobiť a je neboľa náhoda či sa da urobiť
+
+182
+00:14:08,538 --> 00:14:09,960
+lepší experiment, ktorý
+bych zachytil viacej.
+
+183
+00:14:10,000 --> 00:14:14,960
+A teraz lado na to, že už máme
+teoreticko darý ako veľa je existuje,
+
+184
+00:14:15,000 --> 00:14:17,960
+vôve smíry a vôbec existuje.
+
+185
+00:14:18,000 --> 00:14:21,960
+To je zrapomerne beznadnienie, že
+by sa nám to ještí rás podaril.
+
+186
+00:14:22,000 --> 00:14:23,472
+Aš takto negativne?
+
+187
+00:14:23,512 --> 00:14:25,308
+Aš takto negativne hej,
+
+188
+00:14:31,000 --> 00:14:36,400
+Ďu, ľudia sa těšia, budúvať pekty výkent a
+tak dala, i nemážiš, že što takto negatí.
+
+189
+00:14:37,400 --> 00:14:42,360
+Tak môjí vás pón, námed
+nározovor pri vám týnské večerí.
+
+190
+00:14:42,400 --> 00:14:45,860
+Ale možete sa rozpravadi,
+ale môl, tak týnskom môl.
+
+191
+00:14:45,900 --> 00:14:48,669
+Dobre, abysme boli pozitívny, a kedy
+
+192
+00:14:54,500 --> 00:14:59,736
+Na mnáho zajtceste našelasoproletil
+magnetický monopol jedna z najzame vejšich
+
+193
+00:14:59,776 --> 00:15:00,960
+častíc zvové smide.
+
+194
+00:15:01,000 --> 00:15:02,960
+Takto je už jasno.
+
+195
+00:15:03,000 --> 00:15:08,406
+A už som sa im mi ochodom
+rozpometálná točí slo, že momentálni urady
+
+196
+00:15:08,446 --> 00:15:12,960
+taký, že jeden magnetický
+monopol vkodské zhranov 11 ml.
+
+197
+00:15:13,000 --> 00:15:18,351
+Zhranov. Ďeš, že
+
+198
+00:15:18,391 --> 00:15:20,460
+jediná zmínujem môme ale zhrano.
+
+199
+00:15:20,500 --> 00:15:22,460
+Ďeš, že jediná zmínujem môme zmérom.
+
+200
+00:15:22,500 --> 00:15:26,460
+A všakom to objeme
+jedin magnetický monopol.
+
+201
+00:15:26,500 --> 00:15:30,460
+Takže keď urabíš parme tedy? Kto je to me
+našli ten jeden, tak to bylo dau zaštasť.
+
+202
+00:15:30,500 --> 00:15:33,808
+Takže keď maš
+parmetrovu slučku a pralitíte
+
+203
+00:15:42,000 --> 00:15:44,960
+Dobre, som kova mášiš nečo, valentinu?
+
+204
+00:15:45,000 --> 00:15:49,960
+To to bol, valentinu možno a hno
+ale valentinského monopolu už nie?
+
+205
+00:15:50,000 --> 00:15:51,960
+Tak sa to byli sa vyso.
+
+206
+00:15:52,000 --> 00:15:56,181
+Som koja ti vám mi pekne djakujem, že si
+sa si našel čáza, že sme sa mohlý rozprávde
+
+207
+00:15:56,221 --> 00:15:58,462
+také menneske. Daca za očovanie vš
+
+208
+00:16:05,000 --> 00:16:07,460
+v ktorúského podkastu
+pre mne pekného valentina.
+
+209
+00:16:07,500 --> 00:16:12,505
+Prosím, abyste nádziel aj počuvali
+a dějakujeme, že nás počuvajte na
+
+210
+00:16:12,545 --> 00:16:17,460
+YouTube, Spotify, Apple podkastie a
+všadě, kde nádzie sa aj podkastí.
+
+211
+00:16:17,500 --> 00:16:20,460
+Zároveň sme aj na Vedator podkast Space.
+
+212
+00:16:20,500 --> 00:16:24,500
+Máme v eve ve stránku a
+nádzieť je na Zainov Facebooku,
+
+213
+00:16:29,900 --> 00:16:32,860
+že svetá vedy, prirodí a technologí.
+
+214
+00:16:32,900 --> 00:16:34,360
+Pekný děvám práem.
+
+215
+00:16:34,400 --> 00:16:39,600
+No je tě sa. Dobre, to to bol o fajne.
+
+216
+00:16:41,600 --> 00:16:43,600
+To bol vrýchla a pekný.

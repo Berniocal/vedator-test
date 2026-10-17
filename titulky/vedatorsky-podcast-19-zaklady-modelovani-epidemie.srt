@@ -1,0 +1,2361 @@
+﻿1
+00:00:00,000 --> 00:00:04,000
+Odnáky oní, kte si.
+
+2
+00:00:12,500 --> 00:00:16,460
+infikovaných ašpovíliečený
+veda nás obkopuje na kažnokorokú.
+
+3
+00:00:16,500 --> 00:00:21,923
+Vítajte priveda tovskom podcasty,
+ktorom bude mladí skudovat, a prirody okol
+
+4
+00:00:21,963 --> 00:00:23,460
+nás moje meno in jozev.
+
+5
+00:00:23,500 --> 00:00:24,960
+A ja som sa môjel. Avisám.
+
+6
+00:00:25,000 --> 00:00:26,815
+A ja som sa môjou. Aho sa môjou.
+
+7
+00:00:26,855 --> 00:00:28,399
+Ako sa maš? Dobre, dobre.
+
+8
+00:00:28,439 --> 00:00:33,096
+Drúj podkáš, ktorí nagravame v
+karanténie, čo pre nás zaťalne
+
+9
+00:00:33,136 --> 00:00:38,449
+prestavene taký, taký volky
+problém až na také technické nedostatky,
+
+10
+00:00:38,489 --> 00:00:43,615
+ktoré nám snať poslucháči
+odpustia, ale ináč karanté na naliptové
+
+11
+00:00:43,655 --> 00:00:48,996
+nemožem sa opuniešť a A učom sa vydame
+
+12
+00:00:49,036 --> 00:00:50,440
+rozpravet čo je na
+tému nešte môj podkastu?
+
+13
+00:00:50,480 --> 00:00:52,800
+No, tému nešte môj podkastu je vlastne.
+
+14
+00:00:52,840 --> 00:00:57,840
+Idejme si splatých taký dleg, ktorí
+sme si vytvorili v epizodie o epidemia.
+
+15
+00:00:57,880 --> 00:01:02,680
+A ten podkast sa v oprzedu zlutstvo.
+
+16
+00:01:02,720 --> 00:01:07,412
+A my sme tam aj tak trošku
+otvorili takú temu, že matematické
+
+17
+00:01:14,500 --> 00:01:18,393
+A ja se mi si môžete razy to také vám
+mejak tualne, tak by sme se ktomu mohli
+
+18
+00:01:18,433 --> 00:01:23,092
+koniečni vrátitie. Počšete poslcháči sú na
+
+19
+00:01:23,132 --> 00:01:25,460
+svojich seda vládná 5.
+
+20
+00:01:25,500 --> 00:01:29,500
+Kdyby se ktom vrátime,
+takže určite budu radí, že si
+
+21
+00:01:35,500 --> 00:01:37,615
+Ďúsí začnými, skožeme do toho, akoždy.
+
+22
+00:01:37,655 --> 00:01:40,560
+Ako som modeluje epidemia
+a čo je za akladný model?
+
+23
+00:01:40,600 --> 00:01:45,709
+No tak tých spôsobou ako som modeluje
+epidemia je viacero, a budeme sa vlastne
+
+24
+00:01:45,749 --> 00:01:47,720
+vavit o takom za akladom z nich.
+
+25
+00:01:47,760 --> 00:01:52,846
+Lebo keďto tom nikdy vydíš discutovat,
+taký hodborníkov, tak vlastne spomínajú len
+
+26
+00:01:52,886 --> 00:01:54,000
+ten to jeden model.
+
+27
+00:01:59,000 --> 00:02:04,403
+Ještě skorěž sa do topu, stíme tak
+poviem, že ťdíkeď matematici alebo fyzici
+
+28
+00:02:04,443 --> 00:02:05,544
+niečo modelujú.
+
+29
+00:02:05,584 --> 00:02:10,899
+Tak záklarným krokom je, že snažíš sa
+osykať všetky možné deteli, ktoré nie
+
+30
+00:02:10,939 --> 00:02:15,991
+sú duoložité a ští na konci zniku
+úplne taký osekany jednoduchý model,
+
+31
+00:02:16,031 --> 00:02:18,577
+ktorý už potom budí výriešiť pomod
+
+32
+00:02:24,800 --> 00:02:30,260
+Čiže ulohov matematikové prosti
+začetku osekajť na úplný minimum,
+
+33
+00:02:30,300 --> 00:02:33,800
+nutné minimum abytá
+vecího obbeca názvať modelom.
+
+34
+00:02:34,200 --> 00:02:37,782
+A potom do toho spetne za se prídávajú
+vlastnosti, aby sa to viací príbližlo kteje
+
+35
+00:02:37,822 --> 00:02:41,854
+realite. A takto teda bol
+aj vytvorený ten epidemi
+
+36
+00:02:46,000 --> 00:02:51,131
+Vola sa, že Syra, Syra z Meckim
+I, se Ira, pochodzat a skratka
+
+37
+00:02:51,171 --> 00:02:54,840
+vlastný to anglicský opistohom modelu.
+
+38
+00:02:54,880 --> 00:03:00,047
+Se je ako susceptible, čiže
+náchylný, ičko je infekšes,
+
+39
+00:03:00,087 --> 00:03:04,780
+čiže nákazlivý a Erko
+Eurekaward, čiže zotavený.
+
+40
+00:03:04,820 --> 00:03:09,460
+Čiže on vlastne modelujie
+populaciu ako rozdilnou troch skupin.
+
+41
+00:03:09,500 --> 00:03:11,960
+zdraví ľudia, ktorý sa možu nakazíť.
+
+42
+00:03:12,000 --> 00:03:13,960
+Chory ľudia, ktorý...
+
+43
+00:03:14,000 --> 00:03:19,335
+...sou nakazený a zároveň
+sú nakazlivý, čiže už síria
+
+44
+00:03:19,375 --> 00:03:24,460
+ďalej, recoverc ľudia, ktorý sú
+zotavený, čiže už i by v skola
+
+45
+00:03:24,500 --> 00:03:26,960
+vôzou, ktorý v skola do tohto modelu.
+
+46
+00:03:27,000 --> 00:03:28,154
+V podstatě, veľ
+
+47
+00:03:33,000 --> 00:03:37,360
+Neviem, čto budde budúci podkazaľvo
+predrošli, v tom tomu tizmé seští nerozrlele,
+
+48
+00:03:37,400 --> 00:03:40,360
+rozprávoj sme o Newtonovie a
+diferencialnych rovnicách.
+
+49
+00:03:40,400 --> 00:03:45,242
+A vlastne tento modely zadefinovaný pomoc
+o troch, veľmi krátkých diferencialnych
+
+50
+00:03:45,282 --> 00:03:49,260
+rovnic, ktorý nám hovoria
+ako sa těto veci ménia v čase.
+
+51
+00:03:49,300 --> 00:03:50,100
+Vyzr
+
+52
+00:03:59,000 --> 00:04:01,000
+V podstatie úplně, že
+takto gjednoduché veci.
+
+53
+00:04:02,000 --> 00:04:06,912
+Počet nakazených ľudí zavysi od toho,
+kôkomažd zdravých, ktorí sa možu nakazit,
+
+54
+00:04:06,952 --> 00:04:10,000
+kôkomaž nakazených,
+ktorí tu korobušili a ďalej.
+
+55
+00:04:11,000 --> 00:04:12,308
+A kovolmi ta chôr
+
+56
+00:04:20,000 --> 00:04:24,252
+Kde na zecetku nemáž nakazené unikou,
+takto rast je pomali, ale ako je veči a veči
+
+57
+00:04:24,292 --> 00:04:28,611
+pomer nakazených ľudí, tak počet, ktorí
+seť zatenne nakazia, bude stupať a stupať,
+
+58
+00:04:28,651 --> 00:04:30,460
+čo čo zbudíme teraz všaděvo svete.
+
+59
+00:04:30,500 --> 00:04:35,731
+Zecetku nám to rast je veľmi
+pomalinky, jeden nakazený 2,4 a potomto
+
+60
+00:04:35,771 --> 00:04:36,421
+veľmi r
+
+61
+00:04:43,500 --> 00:04:47,000
+Čiš, kradvia z nakazený hudí
+nakazy tisíc kradvia z hudí jako jeden.
+
+62
+00:04:49,000 --> 00:04:54,000
+A no, samozrejme, už on to, že ja aj
+takšie preto jednou človeka nakazy tisíc hudí,
+
+63
+00:04:55,000 --> 00:04:58,000
+a lakšie pretisíc hudí
+nakazíc, par tisíc hudíc.
+
+64
+00:04:59,000 --> 00:05:04,231
+A tento model zadefinovali, teda
+tu to sadu troch diferencialnych ro
+
+65
+00:05:07,000 --> 00:05:10,981
+Kermag Mekendrick, která prvcatovala, že
+kermag Mekendrickova teoria, Mekendrick bôl
+
+66
+00:05:11,021 --> 00:05:16,125
+druhý z nich. Potom na to na dviazá
+lakopadalších ľudí a snažili sa ten
+
+67
+00:05:16,165 --> 00:05:21,358
+modl tak ako zmýmo pysali nejvel
+mi realny, lebo v podstateberie a
+
+68
+00:05:21,398 --> 00:05:25,691
+populacu ako guč ľudí, ktorí
+žíú pokope, a keď se nakazen
+
+69
+00:05:30,500 --> 00:05:32,040
+Vyže model neberi do uvahy.
+
+70
+00:05:32,080 --> 00:05:33,760
+Neberi sa tam zdjálenos.
+
+71
+00:05:33,800 --> 00:05:35,420
+Prestný neberi do uvahy nič.
+
+72
+00:05:35,460 --> 00:05:39,000
+Berya prosti, že jedna populacia
+nachadzelca sa v jednom bodie.
+
+73
+00:05:40,000 --> 00:05:41,360
+Vom je zjednodušene, ale...
+
+74
+00:05:41,400 --> 00:05:45,080
+Skoro je, ako je výtake
+stádo, kde tom vydil...
+
+75
+00:05:45,120 --> 00:05:48,160
+Pre úplně najlepšie slovok, ktor
+
+76
+00:05:54,000 --> 00:05:56,460
+ale realne ako že to také by
+živu len vedla seba ty ľudie.
+
+77
+00:05:56,500 --> 00:06:01,369
+A každým prihade do
+kontaktu, v tomto prvom najhrupšom
+
+78
+00:06:01,409 --> 00:06:06,688
+príbližení. A v tomto najhrupšom
+príbližení, ale ta rovnica opisu je
+
+79
+00:06:06,728 --> 00:06:11,793
+také tie veci, ktoré vidíme že
+záčetku prudky exponencialny
+
+80
+00:06:11,833 --> 00:06:13,731
+nábech, věž záčetku to r
+
+81
+00:06:17,500 --> 00:06:22,781
+A druhý krok, ktorý zamezatelešť je
+videli pravdje podobne, je že kieť záčnú
+
+82
+00:06:22,821 --> 00:06:24,240
+rucháť z dravy ľudia.
+
+83
+00:06:24,280 --> 00:06:28,127
+Tak ten exponenciálny rasa začne
+spomovat, lebo už vlastne nie ma choroba pre
+
+84
+00:06:28,167 --> 00:06:32,049
+sprézka kvarnákoho. Ostupom
+času sa potom záčný vromadíť.
+
+85
+00:06:32,089 --> 00:06:34,046
+Uzdravný neludia, lebo ta
+
+86
+00:06:41,000 --> 00:06:45,967
+a nezkoho rečnou je večnou, bude už
+vyliečná, alebo nejakázená, že mali
+
+87
+00:06:46,007 --> 00:06:47,500
+šťastí obyšlo ich to.
+
+88
+00:06:50,500 --> 00:06:55,500
+Pritekom to modely je voložitá
+infekšnost, alebo tu sa neberia.
+
+89
+00:07:05,900 --> 00:07:07,860
+ale týsú receptibilnih.
+
+90
+00:07:07,900 --> 00:07:09,860
+Ú! Ja som.
+
+91
+00:07:09,900 --> 00:07:11,860
+Ďčaske sa je.
+
+92
+00:07:11,900 --> 00:07:14,860
+Jej, Ďčaske slova, ale nemame na to slovo.
+
+93
+00:07:14,900 --> 00:07:18,260
+Mičas sú receptibilni, sú
+receptibili taislovenské slovo.
+
+94
+00:07:18,300 --> 00:07:20,838
+A i peremábyli, to si pame tam na
+
+95
+00:07:28,000 --> 00:07:31,460
+Ale to je cúdujá zíčná ako žal, ale je
+ako žel už čo sa to asi takov pre neslo.
+
+96
+00:07:31,500 --> 00:07:34,460
+Neská som sa takto
+potrapovalo za slovom specificita.
+
+97
+00:07:34,500 --> 00:07:36,460
+Takže je že ako žete.
+
+98
+00:07:36,500 --> 00:07:41,460
+To viem že existuje, ale tě som
+najprousi to musú výgu glýda pozrýť slový.
+
+99
+00:07:41,500 --> 00:07:43,460
+Kúžič že nalo zajtákej nicomé.
+
+100
+00:07:43,500 --> 00:07:44,300
+Dobre,
+
+101
+00:07:51,500 --> 00:07:55,204
+a ko sa da vylepšiť. Si hovori, že tým
+matemati, oni boli a si matematiť, týto
+
+102
+00:07:55,244 --> 00:08:00,204
+páničo, svojú strujili te
+model, spravili ani aký lepši
+
+103
+00:08:00,244 --> 00:08:05,479
+model, alebo už dých sa tomu si
+robiť a dohok podľa učite úprípadu a
+
+104
+00:08:05,519 --> 00:08:10,846
+takto. Ale v podstatia poviem, že
+on osolom podľa také jednoduché roší
+
+105
+00:08:15,000 --> 00:08:18,460
+Pomeni chyti diferencialné rovnice
+pridaštám dakičlen, ktorý nečom inem odpôveda.
+
+106
+00:08:18,500 --> 00:08:23,476
+Napríklad niekedy sa stáva, že
+děti sa na rodie a majú immunitu
+
+107
+00:08:23,516 --> 00:08:28,886
+zvieděnu odmatky, že nie možu by
+nakazený inieť, možu by nakazený až
+
+108
+00:08:28,926 --> 00:08:30,460
+dachom roku života.
+
+109
+00:08:30,500 --> 00:08:33,654
+Takže do tých rovných zvlastním výž založ
+
+110
+00:08:39,000 --> 00:08:42,960
+Vyž tam loží dachy. Vyž
+vylučiť vlastné učitú čas popadal.
+
+111
+00:08:43,000 --> 00:08:48,118
+Oto msatén moda vôla, že M-SIR, da
+bo Mko jakože materno-led-draight
+
+112
+00:08:48,158 --> 00:08:50,960
+immuniti, pože immunite odmatky.
+
+113
+00:08:51,000 --> 00:08:54,692
+A takto takže vlastné
+viesiho uprovot pod varboz
+
+114
+00:09:02,000 --> 00:09:05,704
+Pri niekto rýchorobach platí, že kedy
+niekdo nakazený tak nevizdraví, ale stáne
+
+115
+00:09:05,744 --> 00:09:07,860
+stáne sa len pre naša
+čom choroblom taký kerír.
+
+116
+00:09:07,900 --> 00:09:13,263
+Bola tyfusova epidemia,
+myslím si že v Amerike, vidie bola
+
+117
+00:09:13,303 --> 00:09:18,321
+nebuk dosalo že tyfusova
+Ameri čo bola žena, ktorá nie
+
+118
+00:09:18,361 --> 00:09:22,040
+vila znamky tyfusu, ale širila ho dalej.
+
+119
+00:09:25,500 --> 00:09:27,846
+že ona varila pred akú rodinu a zrazú
+všetci v té rodinie boli nakazenia, a ješlo
+
+120
+00:09:27,886 --> 00:09:31,200
+ptov nekám dalej. Jež do toto
+mozelú všich zahrnut a je...
+
+121
+00:09:31,500 --> 00:09:36,283
+Je je a no, ona takto nekou kou rodin
+nakazila lebo a v niel a no, a no, a no, to
+
+122
+00:09:36,323 --> 00:09:40,538
+som čítal. Kde je prikazali
+karanténu, tak u nasi dokonca
+
+123
+00:09:49,000 --> 00:09:51,460
+Ale jak si to povedouta ty fusová mery
+vytomíšného alej, ale o tej hrodinie.
+
+124
+00:09:51,500 --> 00:09:54,460
+Čo je toto vyštěžiloši
+do tochto modou lúže?
+
+125
+00:09:54,500 --> 00:09:59,460
+Nie všetci sa vily je čia, že
+niekto rio stanu byť len taký šíritelia.
+
+126
+00:09:59,500 --> 00:10:03,460
+Sú šíritelia, ale nemajú napríklad prizná.
+
+127
+00:10:03,500 --> 00:10:05,300
+No presne. Ďalší
+
+128
+00:10:12,500 --> 00:10:16,199
+Ďuď, ktorý súž nakazený nesuešť je
+infektčný, že tam volky rozostu mezi tím, že už
+
+129
+00:10:16,239 --> 00:10:18,960
+si nakazený, ale si to neši
+říždělej napríkladní kolkodní.
+
+130
+00:10:19,000 --> 00:10:23,960
+Ale už tu chorobný dostanž nov obúsiu
+dostat, až vôdzoká na čakáčkým to vypukne.
+
+131
+00:10:24,000 --> 00:10:25,960
+A podam...
+
+132
+00:10:26,000 --> 00:10:27,154
+To je ako skrib
+
+133
+00:10:36,000 --> 00:10:41,273
+V tedy sa to vláže se i remodel,
+alebo sa tam ložešte, že ečko kože
+
+134
+00:10:41,313 --> 00:10:43,500
+Xbox třeba všetši všetši.
+
+135
+00:10:44,500 --> 00:10:48,775
+Je bol si exponovaný
+tech orobé, ale ještým
+
+136
+00:10:48,815 --> 00:10:53,460
+nemožnešnáka zinikov,
+alebo nemal by si nakaz.
+
+137
+00:10:53,500 --> 00:10:57,500
+A potom niepry každých orobé
+platížo nemoždosta dva krát.
+
+138
+00:10:59,500 --> 00:11:03,648
+priniektorý helybo i munitni systém si
+pameta, a keď tu znova doď do kontaktu z tým
+
+139
+00:11:03,688 --> 00:11:07,898
+patogenom tak rovnovie ako sa proti mu
+branit, ale neplatit o príšetkých horobach
+
+140
+00:11:07,938 --> 00:11:12,000
+priniektorých sa stanie, že vysdravieš
+a znova si náchylne možto dostat znova.
+
+141
+00:11:13,000 --> 00:11:14,453
+Napríklad chrybka.
+
+142
+00:11:14,493 --> 00:11:17,385
+A taký model, umož dostatúšme špo dach
+
+143
+00:11:23,500 --> 00:11:28,417
+Sato vlaže CIS model, a bože si C
+ako náchylny, potom X-Post, akože si
+
+144
+00:11:28,457 --> 00:11:33,841
+chytil tu korou, potom si infekšný a
+potom si znova náchylny, námi s toto,
+
+145
+00:11:33,881 --> 00:11:36,460
+aby si bože recovert a už maš pokoj.
+
+146
+00:11:36,500 --> 00:11:40,460
+Takže zos, si rusa stáne sres.
+
+147
+00:11:40,500 --> 00:11:42,192
+Čiže už neproblně koko
+
+148
+00:11:46,500 --> 00:11:51,087
+Čo keto si to je teda k kombinovať a
+skladací rozneť je situací, že čo keto choroba
+
+149
+00:11:51,127 --> 00:11:55,784
+má daki časový věž daki dílej a možete
+vznikatino si či a mož mať demonitu odmatky
+
+150
+00:11:55,824 --> 00:11:59,360
+vež je vež to na kombinovať z
+trášným pošnom rozných sposobov.
+
+151
+00:11:59,400 --> 00:12:04,477
+Takže vďaka da tam o tej chorobe
+vysiná modelova ten system čo naj
+
+152
+00:12:10,000 --> 00:12:15,135
+Vom jednoduché modeli z myslete ako je
+stopláže stádo, že celá poplacie jednostádo,
+
+153
+00:12:15,175 --> 00:12:17,460
+kdy každým z každým sa dokáže nakazit.
+
+154
+00:12:17,500 --> 00:12:20,500
+Neberé to douvágini to
+priestrové rozloženie.
+
+155
+00:12:21,500 --> 00:12:26,784
+To čo sa vlastne teraz pojďva pri
+korona víruse je ta najzakladný
+
+156
+00:12:26,824 --> 00:12:28,500
+šeberziá modelu, si r,
+
+157
+00:12:33,500 --> 00:12:37,400
+ako zmetoprožujte skože
+nachilni, infikovanej vilyčený.
+
+158
+00:12:38,760 --> 00:12:44,080
+Ale je to obohate ne, o tože sa to
+na hhadza v príjesto, čiže napríklad
+
+159
+00:12:44,120 --> 00:12:48,600
+oni zoberú Slovenskó a nakrajú
+Slovensku na také malé chľievy.
+
+160
+00:12:49,320 --> 00:12:54,753
+Ten chľievy k neviem, kľúkomotne
+simulaci čto mal 10 km, 250 km, 250
+
+161
+00:12:54,793 --> 00:13:00,200
+km, ale teda každý ten chlevyk
+beru ako možného, že ten chlevyk bud
+
+162
+00:13:00,240 --> 00:13:05,134
+na kazenie, nekazený, každý ten chlevyk to
+vlastnú malu populaciu a tie po placi sa
+
+163
+00:13:05,174 --> 00:13:06,460
+medí sevo možný měšet.
+
+164
+00:13:06,500 --> 00:13:11,659
+Čiže rozdělí je Slovenskon ako po
+malých dělikov, každý ten dělík sa
+
+165
+00:13:11,699 --> 00:13:14,577
+spravou platochto modelu, čiže prech
+
+166
+00:13:20,500 --> 00:13:22,160
+Či vlastne, že mobyli ta
+obyvateľsť, že niekdo idě?
+
+167
+00:13:22,200 --> 00:13:27,240
+To je tak ten chlevy, napríklad sa
+spraví, že velký krtižal, alebo čas
+
+168
+00:13:27,280 --> 00:13:29,960
+brátý slavý alebo pezinol gať tak dálý.
+
+169
+00:13:30,000 --> 00:13:35,015
+Tý sa medi sebeľ môžu
+nakazit, tam nejakou po
+
+170
+00:13:35,055 --> 00:13:39,677
+sobyte model, a po tom
+ještě tý je to medi sebeľ sa mô
+
+171
+00:13:44,000 --> 00:13:46,734
+takovom tóko nakazených tóko zdravich
+teď do totoľkou ľudíc si tu nakazíme samým
+
+172
+00:13:46,774 --> 00:13:51,460
+mezi sebo. A potom dopočite, že no tak
+ale tóko ľudí prešlo za racče do petržalky.
+
+173
+00:13:51,500 --> 00:13:56,460
+Takže tóko zdravich sa presu tóko
+chorych, že tako sa to na takom měsi.
+
+174
+00:13:56,500 --> 00:13:58,731
+Čo je samo zrejme strášne dlo
+
+175
+00:14:08,000 --> 00:14:12,960
+Ale keď do to predleš to mobilitú tak tam
+mobilitáte je nakazí širi dalej, čo akože
+
+176
+00:14:13,000 --> 00:14:18,220
+úplne logické. V podstatie to čo sa
+urobilo v tej prvej verzii modolu,
+
+177
+00:14:18,260 --> 00:14:21,960
+ktorý bol vypracovaný
+presovensk, oni zobrali data.
+
+178
+00:14:22,000 --> 00:14:24,538
+Myslím si, že daco finančného inš
+
+179
+00:14:31,000 --> 00:14:33,460
+ktorý je na výkenditomu.
+
+180
+00:14:33,500 --> 00:14:36,460
+Nebo lový, ktorý tomto v
+býborné zobra data o operatou.
+
+181
+00:14:36,500 --> 00:14:41,578
+To je toč sa teda zriešlo v volkom,
+že aby operatory vlastne dodalite to
+
+182
+00:14:41,618 --> 00:14:46,883
+informácie. Teda sa mozrejme o
+nichcú veť individuvalny človek z kim
+
+183
+00:14:46,923 --> 00:14:52,192
+došel do kontaktu, ale zároveň teď
+dahie, že presne od operatou zobra
+
+184
+00:14:54,500 --> 00:14:56,520
+Všetko si viem prezaví, že to by
+bolo najlepšená pohyptých ľudí.
+
+185
+00:14:56,560 --> 00:15:01,588
+Viem, že predpar nevičí rok mi, alebo
+predpar mezviac mým bolo a štatístíke, že
+
+186
+00:15:01,628 --> 00:15:05,581
+vlastne kôla ľudie v
+Bratislave sa nachadzať se stežen.
+
+187
+00:15:05,621 --> 00:15:10,631
+A v daca ovo tím datamo od
+operatoru, vlastne to či slob bolo úplan
+
+188
+00:15:19,500 --> 00:15:24,716
+Čiže to čo sa teda používa v prvom krok
+na Slovensku je toto, že rozdíle Slovensku
+
+189
+00:15:24,756 --> 00:15:29,705
+na častí, každéte čas sa sprava pro lato
+hjednoducho zákona, ale prídasak tým ještě
+
+190
+00:15:29,745 --> 00:15:31,654
+to premieša vám nevprvom ob
+
+191
+00:15:41,500 --> 00:15:44,085
+Poľový celou dí se nebudie hýba tak, aby
+sa hýbala za bežných polmínov, že nepojde
+
+192
+00:15:44,125 --> 00:15:48,078
+napríklad na výkent domou. Tak okolko sa
+zniži pre nohsto, to byľ byľ vlastneť je 3
+
+193
+00:15:48,118 --> 00:15:52,826
+modelí, ktoré tam oni dali, že pri bežnej
+mobiliť je po potom tako okresanej trošku
+
+194
+00:15:52,866 --> 00:15:54,000
+a okresane vyrazne.
+
+195
+00:15:55,000 --> 00:15:56,308
+No, dobra, je ten
+
+196
+00:16:05,000 --> 00:16:09,978
+Uplně, kde cate modl formuluje tak, ako
+som to sformulovat, tak noť nevyžvôžit na
+
+197
+00:16:10,018 --> 00:16:15,074
+hodnost v zmyslé, že náhodne sa
+vigeneruje, kde ta epidemia zniknia, kde se zaczni
+
+198
+00:16:15,114 --> 00:16:20,426
+šíriť. Toto je vlonej douložité vydíť
+do preduk, kým týtá chorba výpukne,
+
+199
+00:16:20,466 --> 00:16:23,500
+věže potrebujete dake planovanie robi
+
+200
+00:16:28,500 --> 00:16:31,000
+ale na slonsku sa pravdje pro v
+nevychazalo zoskutočnych dat, ktoré nebo lina hodne.
+
+201
+00:16:33,000 --> 00:16:38,017
+Ale existujú dve možnosti ako tu
+náhodnost do to vrati, ten náhodnost je
+
+202
+00:16:38,057 --> 00:16:43,202
+vniečom dobrále, bo je to to nevěž
+zahrnul četko, potrebuje, že věž ako sa rôzné,
+
+203
+00:16:43,242 --> 00:16:46,231
+neprevidatil neveci do kopi vysčítaj
+
+204
+00:16:52,000 --> 00:16:56,760
+budeš simulovať náhodna
+nakazlivosť každom tom chľievíku.
+
+205
+00:16:56,800 --> 00:17:02,082
+Povieš, že volkom krtiš je
+napríklad mala nakazlivosť labôstám z
+
+206
+00:17:02,122 --> 00:17:03,560
+odpowiedný ľudia.
+
+207
+00:17:03,600 --> 00:17:09,013
+Vyža do držiavojú karantinov, v
+Bratislávesu nez odpowiedni, a je tam to reprovrúšne
+
+208
+00:17:09,053 --> 00:17:10,760
+či slepidem je večie.
+
+209
+00:17:10,800 --> 00:17:16,160
+Je takže príka tak si to
+
+210
+00:17:16,200 --> 00:17:21,360
+upravíš na prosenanie,
+alebo nejaké odhylky v tom
+
+211
+00:17:21,400 --> 00:17:25,669
+systém. Ještím, že nebyjš tam brať, že
+každý člověk nakazí dva po dálšio, alebo
+
+212
+00:17:25,709 --> 00:17:30,080
+ješto generovať, že v niekto rýchto da,
+že tento děn je to jedna, dálši děn je to
+
+213
+00:17:30,120 --> 00:17:32,938
+tri. Vyže tu náhodnostan tak oloži, že
+
+214
+00:17:39,000 --> 00:17:43,180
+A zrema ten vislog je potom náhodný, ale
+zo pakuješ je simulací napríklad 100 krát.
+
+215
+00:17:44,900 --> 00:17:46,460
+A vyješ, kde sa ti možno premiájne?
+
+216
+00:17:46,500 --> 00:17:49,949
+A to byť, že si chciet o náhodné, ale
+veľmi často ten vislog dopadne takto, tak
+
+217
+00:17:49,989 --> 00:17:51,780
+půvíme, že toto je naše očakávania lebo.
+
+218
+00:17:51,820 --> 00:17:54,051
+Veľmi často sa ti rozné náhod
+
+219
+00:18:02,500 --> 00:18:07,159
+nekôko 10.toť možná 100-veximulácii a to
+je nejaký ten media náľbo možno nejaký
+
+220
+00:18:07,199 --> 00:18:12,531
+strét. Týh dáť, ktoré
+výmodelovalitú situaciu
+
+221
+00:18:12,571 --> 00:18:14,960
+širania to covidu 9.
+
+222
+00:18:15,000 --> 00:18:19,600
+Prasne tak... Oni flasne oni dali, že
+jeden graf, oni dali tak v jace grafů
+
+223
+00:18:19,640 --> 00:18:21,240
+naklasilny chce seba také čiarky.
+
+224
+00:18:21,280 --> 00:18:26,498
+Ja jsem si a leždývo
+
+225
+00:18:26,538 --> 00:18:29,500
+vyslatku to dávlo
+praktický tůjstvú kríuku na akazy.
+
+226
+00:18:31,500 --> 00:18:36,587
+Akože tě čísla sa možno
+měnili, ale ten spôsob toho rastu a
+
+227
+00:18:36,627 --> 00:18:41,460
+klesania bol nejaký asi
+totožný alebo velmi blízký.
+
+228
+00:18:41,500 --> 00:18:44,460
+V každom to pripadá,
+alebo vôbecnitáte prípadov.
+
+229
+00:18:44,500 --> 00:18:46,460
+A v podstate v...
+
+230
+00:18:46,500 --> 00:18:51,808
+Myslím, že Myslím, že na Oxfordie,
+důfem som sa nesekol teda sprofsor v
+
+231
+00:18:51,848 --> 00:18:53,960
+tvérga som vypracoval
+model, ktorí je že plne náhodný.
+
+232
+00:18:54,000 --> 00:18:59,397
+On vlastne ovela lepšie, on to
+situacu modelu, ako kdyby prosti skupin
+
+233
+00:18:59,437 --> 00:19:04,834
+ľudí, ktorí se náhodný streta ve
+vež máš dake sjeťa vytvorene, náhodný
+
+234
+00:19:04,874 --> 00:19:05,923
+saméc zinými,
+
+235
+00:19:13,000 --> 00:19:18,015
+A ovala lepšie, že dožu zahernúť rozne
+opatrenia, že 100-hastycky, te taký pomem,
+
+236
+00:19:18,055 --> 00:19:23,103
+ktorí sa vyjúživa pre náhodných
+procesoch, teda deterministický ježenie
+
+237
+00:19:23,143 --> 00:19:26,160
+náhodny, že to presne určene tými.
+
+238
+00:19:26,200 --> 00:19:27,660
+A no, no, no, no. Víde.
+
+239
+00:19:27,700 --> 00:19:31,469
+Pro týklad, jak tomu, že
+100-hastycký model už aj
+
+240
+00:19:36,500 --> 00:19:41,498
+Takže profesor Ferga som vlastne robí ten
+
+241
+00:19:41,538 --> 00:19:45,960
+úplnoestohastický model de náhodný.
+
+242
+00:19:46,000 --> 00:19:49,960
+A vyzerabíť veľmi dobrý, lebo
+veľmi dobrý věždonio zahrnúť.
+
+243
+00:19:50,000 --> 00:19:55,446
+A on tiež robí vlastne model na
+nejaké rozdielenie tých lýbikov, alebo
+
+244
+00:19:55,486 --> 00:19:57,000
+on to skolej robílo.
+
+245
+00:20:00,000 --> 00:20:03,984
+Povětáme, že on to roby tak lobalnejšie
+a veľmi dobery tamiž záhnuj, po tom také
+
+246
+00:20:04,024 --> 00:20:08,134
+veci, že napríklad kytpovím, že hned, ako
+je někdo identifikovany, že nakazený tak
+
+247
+00:20:08,174 --> 00:20:10,460
+udáme do Karantení. Vyž
+tom tak individualne.
+
+248
+00:20:10,500 --> 00:20:13,460
+Je výsame už prídať aj
+takéto veci, ako Karanten.
+
+249
+00:20:13,500 --> 00:20:15,577
+Môžno a nejaké umedzenie po
+
+250
+00:20:23,500 --> 00:20:27,983
+Mimo chodom výguhúrl som si rýchlo
+teda čo znamená stochastický je to
+
+251
+00:20:28,023 --> 00:20:31,960
+zgeredskoslova stochos čo
+znamená des, čiže hada ich hada nie?
+
+252
+00:20:32,000 --> 00:20:34,360
+Aha, wow!
+
+253
+00:20:34,400 --> 00:20:38,560
+Etnémologitko okienko, vo
+vôvedotorskom podkastem.
+
+254
+00:20:38,600 --> 00:20:41,560
+Zadarmo. Aha, no.
+
+255
+00:20:41,600 --> 00:20:46,062
+Dobre, takže povedali sme si,
+že či tem model je na odný a
+
+256
+00:20:48,300 --> 00:20:51,260
+Pred buľadám, že má odčíte nejdostatky.
+
+257
+00:20:51,300 --> 00:20:54,460
+Alebo už mi výchadam nejdostatky.
+
+258
+00:20:54,500 --> 00:20:56,143
+Sít teraz povedal.
+
+259
+00:20:56,183 --> 00:20:59,060
+Čo si také podľať je ba največie?
+
+260
+00:20:59,100 --> 00:21:02,060
+Ďčíte o kto modelu, ktoré
+sme použili priví počte.
+
+261
+00:21:02,100 --> 00:21:05,177
+Podobnia kosetky iné modeli v matematiké
+
+262
+00:21:11,000 --> 00:21:15,148
+ať věže nemože što zobrť, proste, že 5 ml
+dluď je simulovat ich spravať alebo te moď
+
+263
+00:21:15,188 --> 00:21:20,430
+zložite. Takže toto je što oké, že to by
+je što knevadilo, a je si je tam zahrun tý
+
+264
+00:21:20,470 --> 00:21:21,600
+ten pojbobýváťelstva.
+
+265
+00:21:22,800 --> 00:21:24,877
+Také dva, ale hlavne nedost
+
+266
+00:21:34,500 --> 00:21:38,460
+Lebo na Slovensku sa urobilo
+momentálne nielen parti sítestou.
+
+267
+00:21:38,500 --> 00:21:42,460
+Máme tu 5.000 lúdí to
+znamená 11.000 bol testovaný.
+
+268
+00:21:42,500 --> 00:21:47,460
+Sít se máme 200 znamých
+pripadou neská, kedy to nagravame.
+
+269
+00:21:47,500 --> 00:21:50,174
+Ale reálne je po konie
+može by tisíc napríklad.
+
+270
+00:21:50,214 --> 00:21:53,269
+Vyža. Tras ten model si žijada, aby si den
+
+271
+00:21:59,000 --> 00:22:02,760
+Takže to čo spravlili oni, že oni to
+proste pre nás obly dátým faktrom, myslím, že
+
+272
+00:22:02,800 --> 00:22:05,000
+6, ktorým modou štár pavali.
+
+273
+00:22:07,000 --> 00:22:08,960
+Aha, toto sa v podstatie...
+
+274
+00:22:09,000 --> 00:22:10,960
+Obí vlastne vykrylite
+nedodšte autoktych testom.
+
+275
+00:22:11,000 --> 00:22:14,846
+Misel už teraz viem,
+pozrieť napríklad na data z č
+
+276
+00:22:21,000 --> 00:22:25,820
+a věž z ruba, akumáš opravit toho, ko
+věž, že máš nakazených, aby si dostal ten
+
+277
+00:22:25,860 --> 00:22:30,762
+realny odhat, ale to čislo sa mení,
+zavyslosti oto v akom si štádiu, akovelmi
+
+278
+00:22:30,802 --> 00:22:35,500
+meryáš, čiže to také, že styrláňa
+odpasu, ale tisíc je lepši odhat ako 200.
+
+279
+00:22:45,000 --> 00:22:50,357
+Myslím si že júho koréčania toto vyborne
+spravili, lebo testovali všetkých, strašne
+
+280
+00:22:50,397 --> 00:22:54,600
+velatesto spravili, a taký stovai
+islanda rozno takéto inekrájiny.
+
+281
+00:22:54,640 --> 00:22:57,080
+Nevím čište výstravilata?
+
+282
+00:22:57,120 --> 00:23:02,012
+Nevžište všetkých akože v
+krajne, ale veľmi velatesto sp
+
+283
+00:23:08,000 --> 00:23:13,336
+Váťóval, bo tak, kedy spravňe spominam,
+norí ďislandiať dokonca a je 20 000 na
+
+284
+00:23:13,376 --> 00:23:15,840
+100 000 obyvoť,
+vôzpravili, co si to v náleché.
+
+285
+00:23:15,880 --> 00:23:18,200
+A tam nelepšie vôsovete súť nezislandiať.
+
+286
+00:23:19,100 --> 00:23:20,960
+Na milion, tak spravňe.
+
+287
+00:23:21,240 --> 00:23:25,300
+Viem, že to bolo vyborne
+kvali tomuže intosice výhstrelvo,
+
+288
+00:23:31,500 --> 00:23:33,440
+dokazali identifikovat strášne
+veľa nakazami nien na začiatku.
+
+289
+00:23:33,480 --> 00:23:35,640
+A neď ich posled do karanteni?
+
+290
+00:23:35,680 --> 00:23:40,973
+Posled do karanteni
+prijak rozne opaprenia pro
+
+291
+00:23:41,013 --> 00:23:44,040
+sektor, aby se to dálne šiore.
+
+292
+00:23:44,080 --> 00:23:48,760
+Spartanské riešenie.
+
+293
+00:23:48,800 --> 00:23:51,840
+Spartanská doba pri
+inoša spartanské riešenie.
+
+294
+00:23:51,880 --> 00:23:57,107
+Nové. Čiže tega leh islandy inem
+
+295
+00:23:57,147 --> 00:24:02,474
+jelá, že asi tam robíte testy, že
+tam trich 100 000 obývátylov, ale těž
+
+296
+00:24:02,514 --> 00:24:07,336
+užasná. Jasné, ale urobili viacie
+testo akomí a majú proťa proňové mení
+
+297
+00:24:07,376 --> 00:24:10,460
+laboratorii, mení
+univerzíte všetky, o deskou.
+
+298
+00:24:10,500 --> 00:24:14,654
+Urobili všetky akože ja
+neberiem ten vzpěklé nakúžete.
+
+299
+00:24:19,000 --> 00:24:22,960
+Vlastný. Ne, ne, ne, je to objúlo.
+
+300
+00:24:23,000 --> 00:24:25,960
+A vďakajem, že zruba polovicá ľudí,
+nie ma absolutnie, že nezim to mi.
+
+301
+00:24:26,000 --> 00:24:30,372
+Věšči, že nekoho dmerali a z raz, že Ú,
+že ja mám koronávýru, že šak sa ani som to
+
+302
+00:24:30,412 --> 00:24:33,077
+nie citil. No, toto už ty sa dalo aj v
+
+303
+00:24:42,000 --> 00:24:45,460
+kdyto je aj byť autostovali a
+spontadneska možno sa to kými výdje podkazť zmení.
+
+304
+00:24:45,500 --> 00:24:50,895
+A teď ta pro več čo im hýba v tom odali,
+že nevede jakou kôluť je na kazených, takže
+
+305
+00:24:50,935 --> 00:24:54,460
+to je počiatočni, bo
+odstoro sa ten modol má vyjadť.
+
+306
+00:24:54,500 --> 00:24:58,115
+Takže do stáško obudžoš
+potom vývijedť ďalej, k
+
+307
+00:25:05,500 --> 00:25:10,720
+ako rychosata je pýdem jasšíry, že če ta
+nakazlivost koronaví rusu, alebo reprodúčne
+
+308
+00:25:10,760 --> 00:25:13,617
+číslo. Existujú odhady.
+
+309
+00:25:13,657 --> 00:25:18,898
+Ten odhady zruba, že 2 a poľto znamená
+žeden nakazený človek nakazý v priemere 2 a
+
+310
+00:25:18,938 --> 00:25:24,073
+poľdelšie o človeka. Ale
+toto číslo sa mene ni od
+
+311
+00:25:24,113 --> 00:25:29,422
+štátu k štátu, a koji
+
+312
+00:25:29,462 --> 00:25:34,877
+hluď je do držiavajú ako máš hustotu
+osidlenia, dokonca sú náznaki, že to
+
+313
+00:25:34,917 --> 00:25:40,224
+zavysí od tieplotých zduchu a
+vochkosti, lebo oni mene ako dlho
+
+314
+00:25:40,264 --> 00:25:45,244
+prežie víru zvolnom
+prostredi, veže ako dlosa pre
+
+315
+00:25:45,284 --> 00:25:48,100
+našat se z napríklad klúčky.
+
+316
+00:25:53,000 --> 00:25:54,960
+Či to či sa ostrášne lieta?
+
+317
+00:25:55,000 --> 00:25:58,960
+A beri sa taký oráženie,
+čo mezi 2 a 4 lidi to bude.
+
+318
+00:25:59,000 --> 00:26:03,543
+Oni zobraľ, že 4 lidi, nech je
+prosti, že ak sa máme seknuť tak
+
+319
+00:26:03,583 --> 00:26:07,000
+nechúrubíme ráči horsi a
+pessimistický sýodhat.
+
+320
+00:26:09,000 --> 00:26:11,692
+Ale pre exponenciálnych javoch, a k
+
+321
+00:26:16,000 --> 00:26:19,460
+a pojkú štvorko je úplne,
+že brútalny rozdiel šiálený.
+
+322
+00:26:19,500 --> 00:26:23,960
+Já svoj. A že môde nežete ných vislogie
+v něčom extrémie na dornotěny, tým, že
+
+323
+00:26:24,000 --> 00:26:26,460
+zobrali veľmi bezpečneší slo.
+
+324
+00:26:26,500 --> 00:26:31,465
+U nich samozrejme, oni to bude
+spresnývať, že to čo neurobeľi bol pri
+
+325
+00:26:31,505 --> 00:26:32,269
+vislilok,
+
+326
+00:26:39,500 --> 00:26:43,335
+takže oni budú vediať vyrazne spresnite
+modela, robíte predpovede toho, že čo sa
+
+327
+00:26:43,375 --> 00:26:45,960
+budí dět a momentálne
+te model dvať nemeška.
+
+328
+00:26:46,000 --> 00:26:50,824
+Ja som sa pítal dvať ľudí,
+čo na tom pracujú, a bol mi
+
+329
+00:26:50,864 --> 00:26:56,105
+povedane, že niečo sa tam ještě dorabalo
+na novô sa bejžete simulací, takže toho
+
+330
+00:26:56,145 --> 00:26:56,995
+škutoméška
+
+331
+00:27:03,000 --> 00:27:07,249
+Ďčakajú na presnešie prestnešie data a
+prídavay do toho modou dálšia aspektia, by
+
+332
+00:27:07,289 --> 00:27:09,360
+sme mal gledši lepšie připrať.
+
+333
+00:27:09,400 --> 00:27:14,793
+A takže v daca testovaniu, v daca
+odhalovaniu nových, padivala tak dálaj
+
+334
+00:27:14,833 --> 00:27:16,460
+môžu spresným a te model.
+
+335
+00:27:16,500 --> 00:27:20,808
+Prestne tak. Kteď si byl
+takto v kontakty využijem to ho
+
+336
+00:27:26,500 --> 00:27:30,460
+a modely, že ho chcú nie ako zapracovať,
+alebo skoro je budú pracova na tom svojom.
+
+337
+00:27:30,500 --> 00:27:35,847
+Bagol som sa schalenom, ktorí toto
+rozbija, daval do kopi daco skupi núdí, ktorí
+
+338
+00:27:35,887 --> 00:27:39,160
+ten model malý prvěz na Slovenské pomery.
+
+339
+00:27:39,200 --> 00:27:43,160
+A teraz som ovidel, že ho spisou,
+také vysletky, takže nie često ho bude.
+
+340
+00:27:43,200 --> 00:27:45,200
+Také vysletky.
+
+341
+00:27:51,300 --> 00:27:55,263
+S tím, že tím modali samozereme treba
+obrad zrezervo, alebo na Slovensku nam hýba
+
+342
+00:27:55,303 --> 00:27:58,460
+júdata, věžené výmáko rikusato
+širikou kúd, kdy to má takže...
+
+343
+00:27:58,500 --> 00:28:03,192
+Já sa môdma za môj malo, že či
+pracujú aj s tím to modulo mal
+
+344
+00:28:13,500 --> 00:28:18,794
+kte stov snaže se do to zahrnúť rôzne,
+rôzne druhne istoty, alebo neprestnosti,
+
+345
+00:28:18,834 --> 00:28:22,080
+aby tako odhádnúť, akéte naša
+hýba, akéte naša nevidomoz.
+
+346
+00:28:22,120 --> 00:28:27,405
+A všetci je hovoria, že to na
+Slovensku zateľ vyzrale pšie ako indie, že
+
+347
+00:28:27,445 --> 00:28:30,860
+nakúzměná 100 pln. ten
+exponenciálny trend, a prešlo
+
+348
+00:28:38,500 --> 00:28:41,460
+Čo by mohlo byť priavom
+toho, že socialna izolácia...
+
+349
+00:28:41,500 --> 00:28:43,460
+...neváde ličiou patrinha.
+
+350
+00:28:43,500 --> 00:28:48,171
+Vysme to rozbyl na tak malé chlié viki,
+na tie domácnosti jednoclivé, že prosti
+
+351
+00:28:48,211 --> 00:28:51,500
+prestali platy také
+tie epidemické rovnice.
+
+352
+00:28:52,500 --> 00:28:54,731
+Tak a no ako z tých štátou, k
+
+353
+00:29:00,500 --> 00:29:05,896
+ako čo závedlíte veľmi priste
+opatrenia, vám neď na deti sú už domáv
+
+354
+00:29:05,936 --> 00:29:10,889
+už druhý, alebo druhý, alebo
+trej týžen, takže poľa mňa aj toto
+
+355
+00:29:10,929 --> 00:29:15,960
+môlčite vám. Výsím si, že večne
+rodíčovie toto čisl na hodinu presti.
+
+356
+00:29:16,000 --> 00:29:19,615
+No a no, dobrej, vlastne
+to máme týmne dostatky
+
+357
+00:29:24,000 --> 00:29:29,221
+A teraz s televízy v članku, dokonca
+myslím, že aj týsí robilo to mňaké
+
+358
+00:29:29,261 --> 00:29:31,100
+storki, super šíritelia.
+
+359
+00:29:31,140 --> 00:29:36,146
+Kto to je alebo ako vlastne vplívajú
+na tieto modeli ten sír, a vlastno
+
+360
+00:29:36,186 --> 00:29:40,660
+fergasenou, modela a vlastne
+ten model če povživajú na šideci.
+
+361
+00:29:40,700 --> 00:29:44,162
+Som ráčem, až počiže o
+tom počváš odčať alebo
+
+362
+00:29:48,000 --> 00:29:49,960
+týsím sa to od nýkoho dozvedelnie davno.
+
+363
+00:29:50,000 --> 00:29:53,960
+Tak to nehovorím, že je
+to všadě, alebo, že všadě.
+
+364
+00:29:54,000 --> 00:29:58,875
+Ale poču som to už pár krak spomínane, ale
+
+365
+00:29:58,915 --> 00:30:00,960
+skorý tak vůzadi.
+
+366
+00:30:01,000 --> 00:30:03,960
+To máš prál, akože nie
+je to, že pravá sprava.
+
+367
+00:30:04,000 --> 00:30:05,000
+A možno si to
+
+368
+00:30:11,000 --> 00:30:14,460
+Povôsobilo ako super šivitilo prísars,
+alebo mers jednostovoté rase nezpomínujú.
+
+369
+00:30:14,500 --> 00:30:17,460
+A dobrý si spomíná, že je
+bol o prísarsé, a vlastne...
+
+370
+00:30:17,500 --> 00:30:22,956
+Myslímte, da hovorili o reprodušnom čisle
+chorobí, že jeden človek nakazený nakazí
+
+371
+00:30:22,996 --> 00:30:26,460
+dva pol dalších, ale toto
+čisle vlastne lože prijemer.
+
+372
+00:30:26,500 --> 00:30:27,808
+Skutočnosti prich
+
+373
+00:30:34,500 --> 00:30:38,080
+0 až jedného a potom
+zopar ľudí nakazí 10 dálších.
+
+374
+00:30:39,800 --> 00:30:44,864
+Čiže napríklad primers, čože
+middle earth respiratory syndrome
+
+375
+00:30:44,904 --> 00:30:50,320
+epidemia, čo je predchodca
+koronavirusu, ktorí zaširl na bliskom východie.
+
+376
+00:30:51,240 --> 00:30:56,504
+Tak tam platilo, že
+myslím si, že 5% ľudí nakazilo
+
+377
+00:30:56,544 --> 00:30:57,800
+viac ako u 8.
+
+378
+00:30:58,000 --> 00:31:03,060
+a kľúho smých a 3-4 ľudí nakazilo 0 a
+žiedného, že mene ako jedného človeka.
+
+379
+00:31:03,100 --> 00:31:07,886
+Čiže úplne, že malá
+privilégovaná skupinka, těhá epidemii o
+
+380
+00:31:07,926 --> 00:31:09,560
+údružujú pri životě.
+
+381
+00:31:09,600 --> 00:31:15,014
+Kdyto mersek je cyspočitáš, tak ta
+epidemia by nemala existovať, alebo
+
+382
+00:31:15,054 --> 00:31:17,426
+násaši rítak pomali, že nie být
+
+383
+00:31:21,500 --> 00:31:26,410
+Ale prostie pravidia, že kde
+by tu 5 % na existovávo, tak
+
+384
+00:31:26,450 --> 00:31:27,760
+mersbí neboľa.
+
+385
+00:31:27,800 --> 00:31:32,696
+Tak mersbí neexistuje, a
+na prík tomu ho tu máme 10
+
+386
+00:31:32,736 --> 00:31:37,960
+rokozov. On bežne pideme sa
+spravot plat ako tu exponenzionou
+
+387
+00:31:38,000 --> 00:31:43,152
+pravlo, že vystrali, potom je sa
+dostane pod kontrolu a potom veľmi rýchlo
+
+388
+00:31:43,192 --> 00:31:44,960
+padne. Atento MERS.
+
+389
+00:31:45,000 --> 00:31:50,342
+A tento merz, on co sprava úplně na čo
+co sprava tak dívne po takých skokúž on
+
+390
+00:31:50,382 --> 00:31:55,460
+tak mérnečne neděj, a po tom zrazu
+obrovský skog lebo korysky obchodný
+
+391
+00:31:55,500 --> 00:32:00,136
+zastupca, bol na bliskom vychodě,
+po tomišl do němocnice, v dachom
+
+392
+00:32:00,176 --> 00:32:04,500
+koryskomestie tam nakazil 14
+hludi, jeden z nienakazl 50 hd.
+
+393
+00:32:08,500 --> 00:32:12,600
+Udo by zase takú malo lokalne centrum
+epidemie, a po tom sa zase dlhônižnie děj.
+
+394
+00:32:12,640 --> 00:32:15,640
+A po tom niež, a po tom
+zase oparé rokovieš taký boom.
+
+395
+00:32:17,640 --> 00:32:21,320
+A teď dobro si plože takýto
+super širitilo bol IPRISARSE.
+
+396
+00:32:22,080 --> 00:32:27,511
+PrisARSE to bol doktor, ktorý, ktorý
+osetrovalo ľudí nakazených SARSom,
+
+397
+00:32:27,551 --> 00:32:32,660
+odišil na svatbu Hej, byval v
+
+398
+00:32:32,700 --> 00:32:35,460
+medzinárodnom hoteli,
+kde ho capal gombíky.
+
+399
+00:32:35,500 --> 00:32:39,460
+A vo vidíte hú presne.
+
+400
+00:32:39,500 --> 00:32:44,460
+A všetci ale mnohy ľudia,
+ktorý ty miťaom potom išli.
+
+401
+00:32:44,500 --> 00:32:46,460
+Práďte probnie na to, jiste poschodie.
+
+402
+00:32:46,500 --> 00:32:51,557
+Tak psychorobu potom zasebo
+odniesli svojmi medzinárodnými letmi a
+
+403
+00:32:51,597 --> 00:32:53,346
+nakazil tak ľudí, ktor
+
+404
+00:32:56,600 --> 00:32:59,060
+Spominalizm je tu týfusovú mery.
+
+405
+00:32:59,100 --> 00:33:03,445
+Tieš priklad super šíli, takto nábola
+taký ten záker, nejten carrier, že v
+
+406
+00:33:03,485 --> 00:33:07,500
+obezniemala simtomí tej
+choroby, ale nejude da širila dalej.
+
+407
+00:33:09,000 --> 00:33:14,129
+Aý korona virus už ma
+takéto svoje, jak sa to
+
+408
+00:33:14,169 --> 00:33:17,038
+povie niež viesdých, ale antých vies
+
+409
+00:33:19,000 --> 00:33:21,460
+Nyslavných lúd.
+
+410
+00:33:21,500 --> 00:33:26,236
+Taká ta Koréjska 62
+ročná pani, ktorá chodila na
+
+411
+00:33:26,276 --> 00:33:27,460
+Bohoslužby.
+
+412
+00:33:27,500 --> 00:33:31,460
+Mála simptomí. Ja je to
+sekta, kresém, káže v Koréj.
+
+413
+00:33:31,500 --> 00:33:35,291
+No a ona mala simptomí a povedala, že
+ona nebila v zahranečť, tak ho násaní
+
+414
+00:33:35,331 --> 00:33:39,269
+podiedadí od testové, alebo
+že to je to, po prostu nicôjne
+
+415
+00:33:42,500 --> 00:33:45,960
+Ďš to další ľudí, on nakazili
+500 Ďudí, oni 2500 Ďalších.
+
+416
+00:33:46,000 --> 00:33:47,630
+Ďšu, že ona samom a napleci.
+
+417
+00:33:47,670 --> 00:33:52,324
+A tam ješto bol problém z tím, že ta
+sektas a strytava na takých večých bol
+
+418
+00:33:52,364 --> 00:33:56,960
+službach, a že aj toto tam prispelok,
+to moži reňu, bo mi staršne výchloch.
+
+419
+00:33:57,000 --> 00:33:59,462
+Ale je to daco, že všakom ale vš
+
+420
+00:34:07,300 --> 00:34:12,600
+No jasne. Podstatě, už nakor je úplniže
+
+421
+00:34:12,640 --> 00:34:17,193
+vzorná v tom, že vela testujú, sledujú k
+dosasky mako prichaza do kontaktu, ak je
+
+422
+00:34:17,233 --> 00:34:21,620
+zistia žedný nakazený nejj izolujaj tých
+ďalších, ktorý by tiež môli by nakazený o
+
+423
+00:34:21,660 --> 00:34:22,310
+test
+
+424
+00:34:29,500 --> 00:34:33,238
+a všetnášte nás ta nakazená právdje
+podobne a nie dokázali tako odsledovať a toho
+
+425
+00:34:33,278 --> 00:34:38,619
+roší rôbú dalej. Umej v tomto nečoho
+mi zemáva matemátika, že tíkeť robiš
+
+426
+00:34:38,659 --> 00:34:42,000
+matemátické simulacie
+toháko sa širí ta pandemia.
+
+427
+00:34:43,000 --> 00:34:47,154
+Tak týte da každému tomu
+malému chliewiku, tým novým z
+
+428
+00:34:53,000 --> 00:34:56,100
+reprodučne faktori, če tu
+nakazlivosti korobi náhodne.
+
+429
+00:34:57,100 --> 00:35:02,007
+Napríklad, kde mi viem, že v priemreto dva
+a poval, tak ľudam davažim odnula po 4 na
+
+430
+00:35:02,047 --> 00:35:07,233
+priklad. Ale neurobisť to tak že
+rôvnom, mernie, že jedna a 4 nie ma
+
+431
+00:35:07,273 --> 00:35:12,069
+rôvnáku práť je podobno, že urobiš
+tam daco vahu, tak je práť je probno s
+
+432
+00:35:18,000 --> 00:35:19,960
+Aby se tak znamenie
+všetri sú super širiteli?
+
+433
+00:35:20,000 --> 00:35:24,160
+Nieľa, že super širit, ešte štírka sa
+rata, že to nie je super širitil to len taký
+
+434
+00:35:24,200 --> 00:35:29,345
+horsý bežniši. Alebože
+nemajú ten rosa haš taký vysoký
+
+435
+00:35:29,385 --> 00:35:34,077
+prosti. Vyčina ako sme sabavili
+pri tom merse, že kolko sú jo
+
+436
+00:35:40,000 --> 00:35:44,260
+Čiže, že to rozdělne
+pravdoporodnosti, nakazujosti je nerovno merné.
+
+437
+00:35:44,300 --> 00:35:46,260
+Niekto rýviac, štíme ný.
+
+438
+00:35:46,300 --> 00:35:50,870
+A potom keby si urbeľ taký grav, takto je,
+že to vám to vám myklé sa žinevia, z ľudí
+
+439
+00:35:50,910 --> 00:35:56,300
+nakazy nikogo, potom dôch to rochšty
+roch, potom je to prakticky nic, a pot
+
+440
+00:36:03,500 --> 00:36:07,515
+V štateztíky sa to moho vori, že to práť
+je podobnostne rozdielenie má silny chvost
+
+441
+00:36:07,555 --> 00:36:09,960
+alebo čažky chvost
+hejviteľ sa to niekedy hovorí.
+
+442
+00:36:10,000 --> 00:36:13,960
+Počšotu tcháha, že.
+
+443
+00:36:14,000 --> 00:36:19,363
+Pri rysár se platilo nečočo fakulta
+manážmentu má teda všetci absolny
+
+444
+00:36:19,403 --> 00:36:23,615
+tímov vytetované práť je
+práť je probní níkde na chrpťé
+
+445
+00:36:27,000 --> 00:36:31,635
+Tohovorí, že 20% výsled kú je
+
+446
+00:36:31,675 --> 00:36:36,900
+spôsobne 20% a my snajá, obu tyda věžšu
+
+447
+00:36:36,940 --> 00:36:38,460
+takéto niečo, že...
+
+448
+00:36:38,500 --> 00:36:43,632
+A no, 20% teraz 80% věžšu pravíť za
+
+449
+00:36:43,672 --> 00:36:48,970
+20% čo. Také, toto seda
+napasovadnoho zičlo, bo 80% věž na poslede
+
+450
+00:36:49,010 --> 00:36:54,169
+na 71,6, Na oteď a pocate, že napríklad sa
+
+451
+00:36:54,209 --> 00:36:59,147
+spravot akmer presne platoch
+to pravý dlaže 80% infekcij
+
+452
+00:36:59,187 --> 00:37:02,600
+malo na starosti 20% ľudí.
+
+453
+00:37:04,400 --> 00:37:07,360
+Čiže tých super širítelej bústých ľudí?
+
+454
+00:37:07,400 --> 00:37:08,600
+Ďakáte ten chvostých ľudí.
+
+455
+00:37:09,200 --> 00:37:10,560
+A ten chvostých ľudí?
+
+456
+00:37:10,600 --> 00:37:15,744
+A zá A večnou dine nakazila
+
+457
+00:37:15,784 --> 00:37:19,460
+nikogo, ale čo tam potomky tých 20%
+nakazilo je za všetky hostotných?
+
+458
+00:37:19,500 --> 00:37:21,460
+Jasno, jasno.
+
+459
+00:37:21,500 --> 00:37:26,835
+Máme nejaké zaťalstých
+vysletkova, s tých dat, ktoré
+
+460
+00:37:26,875 --> 00:37:31,652
+teraz máme, že vy sa
+korona, a obokovit 19 spraváho
+
+461
+00:37:31,692 --> 00:37:34,423
+podobne. A pozaťali to moc koró, o
+
+462
+00:37:37,500 --> 00:37:40,360
+Pôjne. Niesiopunie skorále,
+nevidel som ještě to spracované.
+
+463
+00:37:40,400 --> 00:37:45,846
+Už teraz lepšie spracovajú tý je činské
+data, a kde sa teda ukazuje, že bude hvila
+
+464
+00:37:45,886 --> 00:37:49,560
+nezvereňili, ale bude hvila,
+ale bude hvila nie vedeli.
+
+465
+00:37:49,600 --> 00:37:55,016
+Ukazuje, že vtedy, kdy tam začali
+zatvaračko, kde oni vtedy poznalnám
+
+466
+00:37:55,056 --> 00:37:55,706
+20% pr
+
+467
+00:38:01,000 --> 00:38:04,240
+a trazně vymčioní nevedeli alebo len
+nepovedali vež aby s nevůrobili zli obraz.
+
+468
+00:38:04,280 --> 00:38:08,580
+Takže až teraz sa tak ho lepšie začná
+pozránie čísla ale v jáť sa dozviemme o tom,
+
+469
+00:38:08,620 --> 00:38:13,540
+koľko je tých superší výkilo, a keď
+už vým je minimálne okremtejí korejský
+
+470
+00:38:13,580 --> 00:38:16,811
+panískostola, je je taký pripad ako niórsk
+
+471
+00:38:24,500 --> 00:38:28,907
+Je sú ty super šíritelia prítomni, čo
+znamená v návnazna priklad, že treba si dať
+
+472
+00:38:28,947 --> 00:38:30,960
+volky pozor, aby boli zdraví doktorí.
+
+473
+00:38:31,000 --> 00:38:35,960
+No bo vešto sú ty ľudia, ktorí prichadze
+do nevyčšehu, podštú kontaktu schorími
+
+474
+00:38:36,000 --> 00:38:38,960
+ľudmi, a je z takými, ktorí
+treba vidia, že sú chory.
+
+475
+00:38:39,000 --> 00:38:40,000
+A zaroveň mož
+
+476
+00:38:48,000 --> 00:38:50,460
+ďalši zdravotnický per som.
+
+477
+00:38:50,500 --> 00:38:53,460
+Čiže to rie veľmi dôležité.
+
+478
+00:38:53,500 --> 00:38:58,285
+Ludiás prvely nije
+doktorí, možno farmace u ti
+
+479
+00:38:58,325 --> 00:39:03,480
+ošetrovnicy, seztričky, ľudia,
+zosane je takto níš taký, než je
+
+480
+00:39:03,520 --> 00:39:08,894
+najvěc testovaný, aby sme zabranil je
+riziko, že sa z nich stanu niechce nesuperši
+
+481
+00:39:08,934 --> 00:39:14,205
+výtelia. V druhévalne potom kľudne
+
+482
+00:39:14,245 --> 00:39:18,600
+také vej, že predávačky
+napríkladale, bo ľudí napoštilo.
+
+483
+00:39:18,640 --> 00:39:20,880
+Hocikovok do pridědokon
+takto zvolťím počto můdino.
+
+484
+00:39:20,920 --> 00:39:23,697
+Já som zaposledné dva
+tyžné prešlo do kontaktu z 5.
+
+485
+00:39:23,737 --> 00:39:25,542
+ľudmi. Tak aj keby som bol
+
+486
+00:39:35,000 --> 00:39:37,140
+Či rých hoboť ale ovláveči a
+pretabil maláť prioritu pri testovani.
+
+487
+00:39:37,740 --> 00:39:38,993
+A je keby nakazel 20.
+
+488
+00:39:39,033 --> 00:39:41,580
+stíktve 100 tak už sa stáva sa pršilite.
+
+489
+00:39:41,620 --> 00:39:44,900
+Je pre s nemô, infekšne
+schopnosti mi uledil za vysťou.
+
+490
+00:39:47,300 --> 00:39:51,340
+Ďakobu. Uau, veľmi za mal mava tema.
+
+491
+00:39:51,380 --> 00:39:54,765
+Toto a myslím si, že
+by sme mohli za rozpráv
+
+492
+00:39:58,500 --> 00:40:03,340
+Myslím si, že by to zálemaloje
+ľudí, ale povedz mi už môžli.
+
+493
+00:40:03,380 --> 00:40:05,340
+Ale kdo by to stryhal po tom?
+
+494
+00:40:05,380 --> 00:40:10,032
+Tak, už byť znamo hlias, ja je
+končícaľko mážešťa niečo, že čo by si co povedak
+
+495
+00:40:10,072 --> 00:40:14,180
+tyto. Ale teď, dať bajte na to,
+aby sa zvazni stali super šíviteľa.
+
+496
+00:40:14,220 --> 00:40:15,528
+Obo si vás znamen
+
+497
+00:40:22,000 --> 00:40:23,460
+Co je aj na trička?
+
+498
+00:40:23,500 --> 00:40:26,460
+Nové vedaтор trička, kornavi rusa.
+
+499
+00:40:26,500 --> 00:40:31,460
+Dobre, a je ti vôme pekný djakujem za
+nišmi rozovork, tak to pásinujem coj temé.
+
+500
+00:40:31,500 --> 00:40:34,460
+Já djakujem za rozovor, těž.
+
+501
+00:40:34,500 --> 00:40:39,551
+A ja mam naši pozvukat, si vôme pekný
+djakujem, že ste si na stjáli, že na
+
+502
+00:40:39,591 --> 00:40:41,300
+spoczúvete, najděte na
+
+503
+00:40:45,500 --> 00:40:49,461
+násetkých podkastojich vlastkom, ako
+spotývá je podkasti Google, podkasti a tak
+
+504
+00:40:49,501 --> 00:40:54,948
+dálaj. Zméradí, že nás počuvete a
+kyti zvažíte, že nás ktete podtory,
+
+505
+00:40:54,988 --> 00:40:58,197
+tak možete nás
+podtory, kte se je zpatrevo.
+
+506
+00:40:58,237 --> 00:41:00,260
+Pekný děvám prájem, dopočutia.
+
+507
+00:41:00,300 --> 00:41:03,100
+Májte sa pekne. Máj
+
+508
+00:41:09,000 --> 00:41:10,700
+Takže na gravo žešte to bude dobre na zave
