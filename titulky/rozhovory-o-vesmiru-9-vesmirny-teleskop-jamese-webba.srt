@@ -1,0 +1,3706 @@
+﻿1
+00:00:00,000 --> 00:00:03,960
+Vydná spréváza všadioklona.
+
+2
+00:00:04,000 --> 00:00:08,793
+Svidajte prídalšých rozovoroch o
+
+3
+00:00:08,833 --> 00:00:13,293
+vesmire, kde sa rozprávám z Norby
+
+4
+00:00:13,333 --> 00:00:17,627
+Wernerom a tento kráz martenom
+
+5
+00:00:17,667 --> 00:00:23,127
+Topinkom o vesmírnom teleskopie James
+
+6
+00:00:23,167 --> 00:00:28,373
+Avebo. Spublikovajím toto podkastu
+sme čakali kým dostanie teleskop
+
+7
+00:00:28,413 --> 00:00:32,816
+zelenu, alebo ako sa teda dozvytie
+vépizodě veľmi dlo sa na nepracovalo, nie ustales
+
+8
+00:00:32,856 --> 00:00:36,765
+sa odkladal. A už aj teraz
+mal povodně i zdove smíru 22.
+
+9
+00:00:36,805 --> 00:00:38,668
+oprom sa to presunom 24.
+
+10
+00:00:38,708 --> 00:00:40,971
+odniešný, dá tom štárku je 25.
+
+11
+00:00:41,011 --> 00:00:44,115
+o kolotratie po obede, která nažo času
+
+12
+00:00:49,900 --> 00:00:55,320
+koniečne sme týmto podkastom trafili,
+štartováci, děn, pre vysminiteleskop,
+
+13
+00:00:55,360 --> 00:00:59,496
+břem sa veba. Podká si sa dozvětě, že
+čo je to vlastne záč, prečo je to super
+
+14
+00:00:59,536 --> 00:01:02,600
+závýmáve, prečo to to budé prav
+
+15
+00:01:12,000 --> 00:01:14,129
+Dobry djen vážený diváci.
+
+16
+00:01:14,169 --> 00:01:18,260
+Vítajte prídalšie
+epizodě rozhovoru o vesmire.
+
+17
+00:01:18,300 --> 00:01:21,460
+Moje mene ojkovačšik a
+diskutovajť budem snorbý vernerom.
+
+18
+00:01:21,500 --> 00:01:23,460
+A mártynom topinkom.
+
+19
+00:01:23,500 --> 00:01:28,682
+Ahoj. Témou ničného rozhovoru, bude nový
+
+20
+00:01:28,722 --> 00:01:33,808
+vesmírny teleskop, ktorý by mal
+ako keby naštátova ďalšu gener
+
+21
+00:01:35,500 --> 00:01:39,596
+ale skoníšte dosteme k tomto velkému
+teleskopu, tak sa prospravame o velkom úspechu
+
+22
+00:01:39,636 --> 00:01:41,960
+malého teleskopovom
+malého satelitu presniši.
+
+23
+00:01:42,000 --> 00:01:47,262
+O ktonu sme malý je ten minulia, a
+ten predošli díel rozovoro o ve smire,
+
+24
+00:01:47,302 --> 00:01:52,658
+idě o náno satelit Gerbe Alpha, a
+teda nechám no rúbyho, aby podlaže čo je
+
+25
+00:01:52,698 --> 00:01:54,000
+ten velký úspech.
+
+26
+00:01:59,000 --> 00:02:04,181
+zahytiť svoju GRB alfa, teď sa
+svoj prvýg kamazáblisk, prvýg
+
+27
+00:02:04,221 --> 00:02:05,460
+kamaray burst.
+
+28
+00:02:05,500 --> 00:02:10,460
+A z toho v týmemáme obrovskú radość.
+
+29
+00:02:10,500 --> 00:02:15,864
+Ta družica vyštartovala
+ako sme sa o tomužospravali
+
+30
+00:02:15,904 --> 00:02:20,758
+20. odruho marca a vlastne
+do zduho nám trevá lokým sme
+
+31
+00:02:20,798 --> 00:02:22,460
+urobyli tak zvanou.
+
+32
+00:02:22,500 --> 00:02:25,960
+urobili tak zvanú komišených
+družíce vlastnou všetko si vyskúšať.
+
+33
+00:02:26,000 --> 00:02:30,682
+Najprvov sme zbierali data
+len v tedykejť je družica
+
+34
+00:02:30,722 --> 00:02:35,260
+prelieta, ale nad nami potom,
+abyť co v tvéru, nám dovoliť urobíť.
+
+35
+00:02:35,300 --> 00:02:39,800
+Dloš je pozorovanie, potom sme dohyča
+stravyli, tým, že sme napovali pozad
+
+36
+00:02:46,000 --> 00:02:48,460
+zábesky ale sme
+pozorovali lehodín každý děň.
+
+37
+00:02:48,500 --> 00:02:53,460
+A keď sme zménili ten štíl pozorovania,
+
+38
+00:02:53,500 --> 00:02:58,889
+teraz už viemme
+pozorováť do nejakých 8 hodín
+
+39
+00:02:58,929 --> 00:03:03,013
+děne. Takže tým, že sme zménili ten štíl
+
+40
+00:03:03,053 --> 00:03:07,460
+pozorovania a vlastne
+naozaj sledujeme 8 hodín děne.
+
+41
+00:03:07,500 --> 00:03:09,460
+Tak sa nam podarilo zahy.
+
+42
+00:03:09,500 --> 00:03:11,160
+tak sa nam podarilo
+zahytit naš prvý Gamazablesk.
+
+43
+00:03:11,200 --> 00:03:16,227
+Najbližších týžňoch bismé tufame, že
+
+44
+00:03:16,267 --> 00:03:21,060
+aplodneme nový software, ktorý nam dovoli
+
+45
+00:03:21,100 --> 00:03:23,660
+pozorováť ešte viat z každý děň.
+
+46
+00:03:23,700 --> 00:03:29,032
+A to na mům ožni dufame zahytit
+ďalšie Gamazablesky, takže tufame,
+
+47
+00:03:29,072 --> 00:03:33,642
+že toto jelem prvý a ješ Vyla ich príde.
+
+48
+00:03:33,682 --> 00:03:35,460
+Čo to znam naže zménť šty o pozorovanie?
+
+49
+00:03:35,500 --> 00:03:40,391
+Vlastne... Ten update
+
+50
+00:03:40,431 --> 00:03:45,667
+softwareu nam umožný ukrada
+data niele na palubnom počítači
+
+51
+00:03:45,707 --> 00:03:50,529
+tej malé družice, ale ukrada
+data na samotné elektroniké
+
+52
+00:03:50,569 --> 00:03:55,500
+detektora. A tým, vlastne
+bude môstť ukradať víať z dat.
+
+53
+00:03:56,500 --> 00:04:01,127
+a vydáť víať zdat, tiež robíť
+pozorovania trošku inak, a vlastne
+
+54
+00:04:01,167 --> 00:04:06,377
+dosiánu toho, že budeme
+pozorováť ak nie 100%
+
+55
+00:04:06,417 --> 00:04:10,960
+časú, tak omnoho víať ako sú
+časnosti víať ako tyho sem
+
+56
+00:04:11,000 --> 00:04:15,784
+hodinťenie. No ještě,
+aby som povedal také to
+
+57
+00:04:15,824 --> 00:04:17,000
+obrovské.
+
+58
+00:04:20,000 --> 00:04:23,460
+Na zvabysom to obrovskom
+náhodov, čo sa nám podarilo.
+
+59
+00:04:23,500 --> 00:04:28,098
+Ten kama záblesk sa
+odobraľ práve v tedy, kedy sme
+
+60
+00:04:28,138 --> 00:04:31,460
+štertovali novú seriu pozorovani.
+
+61
+00:04:31,500 --> 00:04:36,941
+A tu seriu pozorovani
+začí nami veči no tým, že
+
+62
+00:04:36,981 --> 00:04:42,423
+uložíme, že na sňímame
+60- sekundové spektrum
+
+63
+00:04:42,463 --> 00:04:47,901
+pozadia. Pozadia z vysokým spektraným
+rozlišením, spektrum pozadia na níske
+
+64
+00:04:47,941 --> 00:04:53,058
+obežnej drage. A vlastne
+urobíme dve takéto spektra, a
+
+65
+00:04:53,098 --> 00:04:58,293
+potom záštíme pozorováť s
+čashojím rozlišením vysokým už vlastne
+
+66
+00:04:58,333 --> 00:05:02,615
+robíme sveťalnu krivku i ba
+vštírok spektraných kanáloch.
+
+67
+00:05:07,000 --> 00:05:09,208
+kiesme pozorovali to spektrum.
+
+68
+00:05:09,248 --> 00:05:14,223
+A také to spektrum robíme len razení
+nekolko dní a ten gamma záblesk sa
+
+69
+00:05:14,263 --> 00:05:18,460
+odohral práve vtedy, kde nysme
+pozorovali v tom spektranom.
+
+70
+00:05:18,500 --> 00:05:23,785
+Môde je, teď máme spektrum tochto
+gamma záblesku a potom máme hvost
+
+71
+00:05:23,825 --> 00:05:29,207
+to gamma záblesku ako na svečilnej
+klivky a v tom hvost je vidíme 3 tk.
+
+72
+00:05:29,247 --> 00:05:30,933
+malé h hrboček.
+
+73
+00:05:30,973 --> 00:05:35,460
+Chvo zlásne znamená, že keca vykreslí ta
+kryvka intensitý verzu z čas, tak akože už
+
+74
+00:05:35,500 --> 00:05:37,960
+tak do zňeva a ještý sa
+tam za tria slona konci.
+
+75
+00:05:38,000 --> 00:05:42,759
+Takže na tej sveťanej kryvke
+nevidíme pík, pík nastal tedy kec
+
+76
+00:05:42,799 --> 00:05:48,028
+nepozorovali spektrum, nevidíme
+vrchol toho zábesku, ale vidíme už
+
+77
+00:05:48,068 --> 00:05:48,718
+ako o z
+
+78
+00:05:54,000 --> 00:05:58,266
+zase zosladne, zase ziasne, zase
+zosladne, zase ziasne, a po tomu už postukne
+
+79
+00:05:58,306 --> 00:06:03,383
+zsladne. Tento zábec bôdohi
+kraval věc ako 200 sekund, teda
+
+80
+00:06:03,423 --> 00:06:08,794
+vznikol pri gravitakšnom
+zrúcjení vámih motnej výzdy do
+
+81
+00:06:08,834 --> 00:06:10,260
+dôčiernej díry.
+
+82
+00:06:10,300 --> 00:06:15,454
+A si každod teraz vej, ma že ty
+posledné to cvorolikanie, tak to je
+
+83
+00:06:17,500 --> 00:06:22,915
+Na zábezniká, kedy samotny Vytrisk Jet
+
+84
+00:06:22,955 --> 00:06:25,000
+sme ruje na zem.
+
+85
+00:06:28,500 --> 00:06:33,916
+a to je na
+relativistickou plazmu a tož, ká
+
+86
+00:06:33,956 --> 00:06:39,363
+plazmi idě, i z tátčas plazmi idě
+rýchlejšie ako ta druha, a potom
+
+87
+00:06:39,403 --> 00:06:40,960
+oni sa tam na zájom zraža, a v níkáte.
+
+88
+00:06:41,000 --> 00:06:45,606
+na záža, a v nika jú tam razove vôni, v
+tom samotnom vytoku, takže pre to tam vidíme
+
+89
+00:06:45,646 --> 00:06:50,300
+rôzne zjastnienia, že to sveť je na
+kripia, gamazábesku nie je taká úplne.
+
+90
+00:06:50,340 --> 00:06:54,841
+Nekedy je taká jedno ducha, ale
+niekedy tam vidíme ešte dálšie
+
+91
+00:06:54,881 --> 00:06:58,937
+zjastnienia. To je to
+zjastnienia, že je to každý gam
+
+92
+00:07:04,500 --> 00:07:09,460
+že to je prvý záhyť gamma záblezku všel
+družicô, ale je to je vlastne celko, že
+
+93
+00:07:09,500 --> 00:07:11,960
+prvou malov družicô, celkoho na svete.
+
+94
+00:07:12,000 --> 00:07:17,266
+No je to učite prvý gamma
+záblezk takým to takov to
+
+95
+00:07:17,306 --> 00:07:21,795
+jednô literovou 10, 10
+cm družicô, to je to te
+
+96
+00:07:21,835 --> 00:07:23,000
+prvenstvo.
+
+97
+00:07:28,000 --> 00:07:32,285
+a stronomickou na no družicou,
+teda stronomickým kjúp satom.
+
+98
+00:07:32,325 --> 00:07:37,562
+Ale existuje činský kjúp sat,
+sześciúčkový, ktorý má zaulohu pozorovanie
+
+99
+00:07:37,602 --> 00:07:42,665
+zeme kamerov, ktorý má na palúbe
+Detector Gamazáblezkov a Detect Koval
+
+100
+00:07:42,705 --> 00:07:45,300
+Gamazáblezke v Janulari toh to roka.
+
+101
+00:07:51,500 --> 00:07:54,629
+ale je to pre výjedná účkovi kjúpset, a
+pro výčisto astrofizikálny, astronomický
+
+102
+00:07:54,669 --> 00:07:58,891
+kjúpset. Dobrý super. A šilom pretlvi,
+ktorý neviděli tém podkazanáby, z tak
+
+103
+00:07:58,931 --> 00:08:03,583
+navnádila, tým predošli, ktorý bol
+pravoutí nánosatili to, takže akumá vlastně, aký
+
+104
+00:08:03,623 --> 00:08:04,777
+má zmysel, robi
+
+105
+00:08:15,000 --> 00:08:20,085
+vysímal 4 milion euro
+lebo doľáro a týmto chcem je
+
+106
+00:08:20,125 --> 00:08:25,207
+ukázať, že na no družice,
+družice, ktoré sú o mno lásnýšie nešte
+
+107
+00:08:25,247 --> 00:08:29,460
+velké družice, dokažu doplneť
+prácu tých velkých družice.
+
+108
+00:08:29,500 --> 00:08:34,923
+Vyber, tak vďaka to byla teda mala
+družica, a teraz apresunieme k velkému sa
+
+109
+00:08:34,963 --> 00:08:40,313
+keľiť ú. Štým mi vetami len úplnie stručne
+
+110
+00:08:40,353 --> 00:08:42,960
+prestaví čo je to
+vesmírny teleskop James Aweba.
+
+111
+00:08:43,000 --> 00:08:48,351
+No tak James Aweb, které skopu, které
+skopu, které skopu, teda skop James Aweba
+
+112
+00:08:48,391 --> 00:08:53,530
+je vôsne, bo je dývětší asyptého,
+skopterý, kde byl vypůšené rewe smíru, za rové
+
+113
+00:08:53,570 --> 00:08:54,615
+jase inej gra
+
+114
+00:09:02,000 --> 00:09:07,427
+Tak je nej opoždějný ší asi, protože
+vlastne vňu paly byli už vňek v roce
+
+115
+00:09:07,467 --> 00:09:12,800
+2.000 seda umnimo osum a do teďka
+nejěšte nebrašte vypustěn a vlastne
+
+116
+00:09:12,840 --> 00:09:17,417
+na teďka. kde zachyde, by nebyte
+očekávaní, konečne už mnohokra, odležený start, by
+
+117
+00:09:17,457 --> 00:09:22,703
+nebyt prvního istopadu, nebo v nechdy
+v listopadu, kde na začát počas, jaký
+
+118
+00:09:22,743 --> 00:09:25,400
+bepočasí, takže už vlastne to môvé vzí.
+
+119
+00:09:25,500 --> 00:09:29,135
+už vlastne tomu v římy, nebo to byť vště
+možkáť, minulý rok, předmílimí rok, a v
+
+120
+00:09:29,175 --> 00:09:33,298
+téci takov po sumu naposled, kuli
+koronavilo, môždán se o tom, veľmi šte bavit, proč
+
+121
+00:09:33,338 --> 00:09:35,240
+vlastne se do celý po sumu je.
+
+122
+00:09:35,280 --> 00:09:39,200
+Ale každú pádne, neto
+vléko dálkej problém, je si a
+
+123
+00:09:49,000 --> 00:09:53,631
+než co zrdsadloneš, a pali sa mi na
+chténe, ale na hendiečí plochú než habú, daj
+
+124
+00:09:53,671 --> 00:09:59,127
+kolé tak habú. Ten chtém své, mám prům
+vér zrdsadla šestapu metru a habelnil
+
+125
+00:09:59,167 --> 00:10:04,492
+nieco kľa 2 metru, a ty velikost, ako
+je tam na druhou, ako kak štvérez, z
+
+126
+00:10:04,532 --> 00:10:06,654
+týtto průměru je, než zhod
+
+127
+00:10:15,000 --> 00:10:19,566
+Čiže podstate, že možeme vidieť slačši
+objekty to znamenáš dovidíme aj, ďalej,
+
+128
+00:10:19,606 --> 00:10:25,016
+vidíme dalé, domiluosti tím
+pádem, Ďči mi obiektal, tak tím je
+
+129
+00:10:25,056 --> 00:10:28,412
+slapši. Ještě máte daleko na dědnú
+velkú bího, voprotí je hablu, že to je
+
+130
+00:10:28,452 --> 00:10:33,127
+infračervený daleko hled. A tím, jak se ve
+smí rozpina, tak vlastně svetlose rostahu
+
+131
+00:10:33,167 --> 00:10:35,960
+je a jej hélovlouá delka a
+cúlasně porudné a červené.
+
+132
+00:10:36,000 --> 00:10:39,866
+a tým vlastne porudne a červená, takže
+svetlo v viesťali normálne čová v optickým
+
+133
+00:10:39,906 --> 00:10:44,407
+obodu nebo svetlo galáksi vzdálenej, ktej
+by bylo vidie, týd byli byli bližť, tak
+
+134
+00:10:44,447 --> 00:10:49,822
+tým, že jsou hodně daleko tý galáksi,
+takto červená do infračervení oblasti a habú
+
+135
+00:10:49,862 --> 00:10:51,369
+daleko, seba i kde by
+
+136
+00:10:59,500 --> 00:11:04,654
+z túj chcúbí infraredšerom obás, což je
+někde v út půl mikrolu a špul a se je 20
+
+137
+00:11:04,694 --> 00:11:09,430
+mikrolu. Tak by tak hlúdský šej
+jednotiek, keď sa teda pozrameť do zaduchčase tak
+
+138
+00:11:09,470 --> 00:11:11,560
+kam dovidíme kolko po veľkom prezhu.
+
+139
+00:11:11,600 --> 00:11:15,900
+To samozvějne záleží na tom, jak
+lóho budeme pozorová, cechko jak ló
+
+140
+00:11:24,500 --> 00:11:28,460
+Toho, že návze, že sa budujíme
+k tej graníci kam savo ubec da.
+
+141
+00:11:28,500 --> 00:11:33,944
+Vlastně je omčet, ako cílce, ako
+jeden, zdúvodu pro se zase na sleku, ale ko
+
+142
+00:11:33,984 --> 00:11:39,170
+je stali bylo ako náglé dno doby,
+kde se vlastně rodili první dalak
+
+143
+00:11:39,210 --> 00:11:40,654
+sje, a či trošieš tě
+
+144
+00:11:47,800 --> 00:11:50,100
+Tak je až to no, je strášká rži hlavný.
+
+145
+00:11:51,400 --> 00:11:56,060
+A ty len ste, vlastně, se nikdo níby
+nepozorová, normalnie dotička, protože sú
+
+146
+00:11:56,100 --> 00:12:01,562
+proste mozdaleko, a nešte výmblízkým
+vysmírušie dálno poníka znova se recikloval
+
+147
+00:12:10,000 --> 00:12:13,100
+a vyskama, o kterých tady byla řed, že
+právě ty gamazábezky sú také děkde zesdání
+
+148
+00:12:13,140 --> 00:12:18,396
+hovesmi rú, a možná také ten spůsob,
+jakým seľsne vyrábejte, první hvězdí z
+
+149
+00:12:18,436 --> 00:12:20,900
+vodíku tak by moh byj podobnej.
+
+150
+00:12:22,500 --> 00:12:26,100
+Si cel se má za to, že
+úplně první hvězdí, by
+
+151
+00:12:34,900 --> 00:12:40,060
+tak je jej stašan se, že by se dolo počor
+a práve itlnast jakúl penie první hesdy,
+
+152
+00:12:40,100 --> 00:12:41,860
+ktorý se ve smíru videho dehrány.
+
+153
+00:12:41,900 --> 00:12:47,060
+Tože, lidi, že se myslený z půl
+súkrád, že ty galáksi je se vormová reš
+
+154
+00:12:47,100 --> 00:12:47,900
+v
+
+155
+00:12:57,500 --> 00:13:01,460
+Všetlášne bezmírké znikov, tak bolo
+prvažne tu reny vodikom a helyom.
+
+156
+00:13:01,500 --> 00:13:06,556
+A ptom se tak hoori, že hvězdí toto
+menia na tělší prúky, a bokovi ako hovoriás
+
+157
+00:13:06,596 --> 00:13:11,706
+strachyzici. A vlastnešetky vězdí,
+ktoré teraz pozrame už reciklova
+
+158
+00:13:11,746 --> 00:13:13,038
+nevôdzouka, že té
+
+159
+00:13:20,500 --> 00:13:22,960
+Originalne prvech viesdy, které
+vlastný stov primobilna materialu.
+
+160
+00:13:23,000 --> 00:13:27,689
+Ale ještě, aby som tu dodáť, že prvech
+viesdy sú veľmi hmotné, oni dosahuují nekolko
+
+161
+00:13:27,729 --> 00:13:28,960
+100 krát motno slunka.
+
+162
+00:13:29,000 --> 00:13:33,960
+A oni pak živostrašne krátkou do
+gúbčeči, či mi to hvôzdná vizdaľa kohmutnější.
+
+163
+00:13:34,000 --> 00:13:35,077
+Tak chcím, jak
+
+164
+00:13:44,500 --> 00:13:49,686
+Takže je to na hranie si se
+povedenia hú takovu dle hvězdú náhodně
+
+165
+00:13:49,726 --> 00:13:54,786
+přesnáky. Je to kopu
+takých tohvězd, takový lado,
+
+166
+00:13:54,826 --> 00:13:56,460
+lado galaksiú.
+
+167
+00:13:56,500 --> 00:14:01,629
+Čiže ten to teleskoběte na
+špecelný a je tými že vypravili na takuto
+
+168
+00:14:01,669 --> 00:14:05,346
+časpektra, tak je tie
+rozstiavom tevolom viedluš
+
+169
+00:14:07,500 --> 00:14:09,078
+A po razme teda reždovesmi výplasku B.
+
+170
+00:14:09,118 --> 00:14:12,000
+Jamesa VEBA. Kto bol ten James
+VEBA šte to vizom môchli povedať?
+
+171
+00:14:12,040 --> 00:14:16,659
+James VEBA, od administratorom
+NASA všetě s jati hrokoch, v
+
+172
+00:14:16,699 --> 00:14:21,240
+dobekej je prviastroná o tileťa od VEBA.
+
+173
+00:14:21,280 --> 00:14:25,405
+NASA rosodlaže podla toto legendárneho
+
+174
+00:14:25,445 --> 00:14:29,314
+administratora
+Americkékozmycké agentúry, p
+
+175
+00:14:31,000 --> 00:14:33,100
+pomenuje ten to kosmický teleskop.
+
+176
+00:14:33,140 --> 00:14:38,249
+Já si myslím, že keďže je to vestmý
+teleskop, ktorý stava ju američania
+
+177
+00:14:38,289 --> 00:14:40,100
+spouská na dianu, je je Europanmi.
+
+178
+00:14:40,140 --> 00:14:43,540
+Europania, ka na
+diania, nebo liúpenie načený.
+
+179
+00:14:43,580 --> 00:14:47,740
+Ale zase nie mali na výberle, bo
+američanie do to dávali na jovéť speniazi.
+
+180
+00:14:47,780 --> 00:14:48,580
+Vždy sk
+
+181
+00:14:54,500 --> 00:14:56,360
+že je sveblo vlastne
+právnú, takže je právnú siť vají.
+
+182
+00:14:56,400 --> 00:15:00,860
+I stôme si, že se můžu vům
+posobé, ktorý meneho je daleko hled.
+
+183
+00:15:00,900 --> 00:15:05,063
+Tak na myslatáby sme sa rozprávlo tom, že
+kôko to stoi, jakieť jášky, a neviem, že
+
+184
+00:15:05,103 --> 00:15:08,677
+tak sporsá, pro spravajme
+o tom na čo sa udělmo a ho
+
+185
+00:15:18,000 --> 00:15:20,429
+kde pozrôvod pýpujem, že to nebyť len
+tato jedna misia objavit prve hvězdí, po to
+
+186
+00:15:20,469 --> 00:15:25,460
+bude ďalej. No, potom to, že bude
+vlastnici hvězdili do Gromady dánd, Galaxie.
+
+187
+00:15:25,500 --> 00:15:30,558
+Takže a s tímu se jako počítá, že
+vlastne by ten zhodová kľať neopozorovat i
+
+188
+00:15:30,598 --> 00:15:32,269
+první Galaxie, jak se
+
+189
+00:15:41,500 --> 00:15:46,678
+Ďak je v úhlové moment,
+podľa se podľa zóvlesi sú
+
+190
+00:15:46,718 --> 00:15:50,960
+spyrální nebo esiústanova eliptický.
+
+191
+00:15:51,000 --> 00:15:55,619
+A ten stý přechodí v úbec nejsou jasný a
+nie úbec nejasti, jak ty prednigalak sí je
+
+192
+00:15:55,659 --> 00:15:56,960
+vypadali a jak se sráže.
+
+193
+00:15:57,000 --> 00:16:02,057
+Zasne vysťže, že ty galak sí,
+ktili vidíme neskáty mlad ty starší
+
+194
+00:16:02,097 --> 00:16:07,297
+galak sí je z a vám si spynúť umúž
+existují chyní galáksi a teď rocde
+
+195
+00:16:07,337 --> 00:16:11,460
+složitá viedá. Jak to udělat a
+nemí to neším době úplně jasným.
+
+196
+00:16:11,740 --> 00:16:16,071
+Sten je tak se má za to, že v každýti
+galáksi v centru jaká si černádi rá
+
+197
+00:16:16,111 --> 00:16:20,100
+supermasívným. Nezka sa to už
+bé rejskor vekofákt, že poh
+
+198
+00:16:29,000 --> 00:16:34,236
+Neňa s mňa, ako přiťek staráška, akte
+galáksi, co svede je z tím, a černej mať, dí
+
+199
+00:16:34,276 --> 00:16:38,769
+ráv tom centronach, možná opředrošie
+dobrý vůle vyprave, že môch videte, neasí
+
+200
+00:16:38,809 --> 00:16:42,800
+přímoť tej černej díry,
+ale nejaký je preko dus
+
+201
+00:16:53,400 --> 00:16:58,727
+on je v ovedětské kolaborácii, ďaleko
+hladu James Aveba preto je tudi z mezi
+
+202
+00:16:58,767 --> 00:17:03,984
+nami, a on je v dvoch pracovných
+skupinách, jedna pracovna skupina, ktorá je zamirá
+
+203
+00:17:04,024 --> 00:17:09,322
+napravena tens dělený vesmír, a
+si robilaj simuláci je toho čo
+
+204
+00:17:09,362 --> 00:17:12,080
+James Sveburobí pri
+
+205
+00:17:15,500 --> 00:17:20,311
+a ještějim sveb deep field čo je mal byť
+omnoho pří deep field ako hubo ultra, alebo
+
+206
+00:17:20,351 --> 00:17:25,360
+extreme deep field a je si ještě v
+pracovnej skupinie na exoplanety.
+
+207
+00:17:25,400 --> 00:17:30,845
+Já som ještě veľk zupovam či vlastne
+každý, kde je kde je kde je kde je kde je kde
+
+208
+00:17:30,885 --> 00:17:35,362
+je kde je kde je kde je kde
+je kde je kde je kde je kde je
+
+209
+00:17:39,000 --> 00:17:42,763
+a môj, je to znejúľujenieších obrazku,
+který jeho, ja mám je, habo deep filter
+
+210
+00:17:42,803 --> 00:17:47,876
+nechoto hluboký pole, kde nechalíšte
+razní kokat na oboze, kde nic nebylo,
+
+211
+00:17:47,916 --> 00:17:49,020
+nekde veľkým 20.
+
+212
+00:17:49,060 --> 00:17:50,780
+nevovdé, a potom ještě v 5.
+
+213
+00:17:50,820 --> 00:17:53,260
+Je zdipece na ížný oboze.
+
+214
+00:17:53,300 --> 00:17:54,146
+A v objevej
+
+215
+00:18:02,500 --> 00:18:06,960
+nejpanť, že je se vebá se
+pokusí udzielatne podobního.
+
+216
+00:18:07,000 --> 00:18:12,345
+Ale má ako nevyhodu v tom, že mám
+mohé menší, jak sa kne filto vyu,
+
+217
+00:18:12,385 --> 00:18:17,315
+zorný úzorné pole, po
+hýasit dvě úhloví minuty što
+
+218
+00:18:17,355 --> 00:18:22,434
+reční, tak zorba
+dvekrádvé što reční minuty, než
+
+219
+00:18:22,474 --> 00:18:25,000
+nešmačšba moháble.
+
+220
+00:18:26,000 --> 00:18:30,168
+Ale zadou strenu, ako má mnohem citlívy
+výští típči, že tam možná uvidí, mnohem
+
+221
+00:18:30,208 --> 00:18:33,460
+mnohem být z galakcií
+než kodík viděl Hubble.
+
+222
+00:18:33,500 --> 00:18:36,060
+No tak lohem mňší poli.
+
+223
+00:18:36,100 --> 00:18:39,993
+Pokúte rábo, pravdu se ty galakci je
+tam formulý, už tak jak si myslím, že se
+
+224
+00:18:40,033 --> 00:18:42,115
+formulý. Co možná, že nevžete,
+
+225
+00:18:49,500 --> 00:18:53,808
+ale ja, že ako mase za to, že zpolej
+veškilič ako modelu, který si také mu připají v
+
+226
+00:18:53,848 --> 00:18:58,088
+úvahu, tak bychom měli pozervat
+pravěti galáksi ještěm nechám staršíneš, čo
+
+227
+00:18:58,128 --> 00:19:01,960
+bezchopnej pozervat hobra to růlej
+posučien si je galási nejdeko 20.
+
+228
+00:19:02,000 --> 00:19:06,385
+Na by som opravil také malé
+preriek, no tě 10.000 galáksi
+
+229
+00:19:13,000 --> 00:19:17,576
+takiem je to, ktoré vizera úplně, že
+čiérno čiérno, nicšo tá a tam, kieca to riadne
+
+230
+00:19:17,616 --> 00:19:18,740
+výjech spunojte.
+
+231
+00:19:18,780 --> 00:19:24,235
+Ono se v tiech napadu bylo více, a
+vyhravo ten, že se budeme kouka, tam kam
+
+232
+00:19:24,275 --> 00:19:29,567
+už sme se koukali, takže nakúst doho
+místa kam koukaľ habel, kde už jako výme,
+
+233
+00:19:29,607 --> 00:19:30,897
+kde nejakým dal
+
+234
+00:19:36,500 --> 00:19:39,702
+oboru tak tam sebe konklati James Webb a
+svádym vydíme sebe, vydíne co návíc nebo
+
+235
+00:19:39,742 --> 00:19:41,840
+ne, aby bylo strovnání z pravistým hable.
+
+236
+00:19:41,880 --> 00:19:46,080
+Čo byli ten to deep field a teď
+nebo jasne 60 hodin dluhý pozorování?
+
+237
+00:19:46,120 --> 00:19:49,040
+A teď veď doho práco v nás
+kúpí na to sú exoplanety?
+
+238
+00:19:49,080 --> 00:19:51,157
+No to ja jsem si ťikáme že,
+
+239
+00:20:00,000 --> 00:20:04,942
+výcanžie vytakú do brýná tát a postatejím
+pomáham, o lehko z tím sovtverem, jaka je
+
+240
+00:20:04,982 --> 00:20:10,337
+naklánovat pozorování, aby nebyli
+připravy na všetnú sa to na ty datáce môžu
+
+241
+00:20:10,377 --> 00:20:15,520
+přicháze. Půž sem se v hodný rebehem
+tôlo zviedel, co takové, jaký sou plány.
+
+242
+00:20:15,560 --> 00:20:16,406
+Postate tím
+
+243
+00:20:23,500 --> 00:20:27,802
+a zupanety nový, což sa ta exopanety
+souplanete, který obíhaj polem nejhvěste, že
+
+244
+00:20:27,842 --> 00:20:30,960
+našel som se, ale poesle
+zaměřovat na exopanety trísu z nám.
+
+245
+00:20:31,000 --> 00:20:35,051
+Je to jako dobrý kandidát, na tom, že by
+tam, že no mohle bej život nebo souty páty
+
+246
+00:20:35,091 --> 00:20:39,923
+niečím zajímali. A příklad sebo je
+koukat na nejbyší system kram, co
+
+247
+00:20:47,500 --> 00:20:52,460
+teda je docela podobná zemi a je
+nejbliž, tež je tam se som žiné za humny,
+
+248
+00:20:52,500 --> 00:20:57,877
+takéj kolik 40-lírok, je nevoj
+45-tyvojne, nie so takovýho, což je
+
+249
+00:20:57,917 --> 00:21:02,835
+za humny, dokonce se tam jako
+chystá i poslad nejakú kamerku malu na
+
+250
+00:21:02,875 --> 00:21:03,525
+plácht
+
+251
+00:21:11,840 --> 00:21:15,915
+atklapak na siletisím životem, skoro
+rýchlosti světlane, bo štvorití rýchlosti
+
+252
+00:21:15,955 --> 00:21:18,600
+světlá, kľa nevipenia ti
+proletí a sna ty i vyfotí.
+
+253
+00:21:18,640 --> 00:21:22,486
+Ale to není nesprožím se
+vebatem, vyfotím normalne
+
+254
+00:21:35,100 --> 00:21:37,860
+je si to majňaký zlečišťé
+technologický a podobně.
+
+255
+00:21:37,900 --> 00:21:42,557
+A tako ich systémuje víc, myslím,
+že vytupovali cháci 12 pro první rok
+
+256
+00:21:42,597 --> 00:21:47,345
+pozorováň, že jim jsem vebem
+jedim z nich je tak isláný
+
+257
+00:21:47,385 --> 00:21:52,100
+trapist, systém, kde ja si, a
+teď nezyserú nebo 9 exoplanet
+
+258
+00:21:57,500 --> 00:21:59,960
+Máme naprpete okulére, tak zmysvíteno
+týžeme okulére do dialky okulére na blízkva.
+
+259
+00:22:00,000 --> 00:22:02,160
+Teraz ten James vebu te leskop.
+
+260
+00:22:02,200 --> 00:22:04,960
+Zaprvé super v tom, že
+dovidí úplně, že do dialky.
+
+261
+00:22:05,000 --> 00:22:09,824
+Tak, ako je možné, že vlastne tehechnoge
+dobre funguje v pocate na výci, ktoré sa
+
+262
+00:22:09,864 --> 00:22:12,046
+relaty vňa blízkop na mže 40
+
+263
+00:22:22,380 --> 00:22:27,394
+Proťať nespovětov postatě všetnou
+nekonnešnou a ty poprzky sú visemeni, rovnobiežní
+
+264
+00:22:27,434 --> 00:22:31,740
+sú přicházej a všetný ten z tybo je
+bodej súv podstatě bodový zdroje.
+
+265
+00:22:31,780 --> 00:22:35,180
+Takže v tomužalnej,
+potom dvašní rozdímení.
+
+266
+00:22:35,220 --> 00:22:36,020
+Ale aby
+
+267
+00:22:44,500 --> 00:22:48,800
+na infrečervenú oblasti, ješt na nejakú
+priamu detekciu exoplanet je vynika júci,
+
+268
+00:22:48,840 --> 00:22:53,990
+lebo rozděl jasnosti hvězdí a
+exoplanetí je mensí infrečervenej
+
+269
+00:22:54,030 --> 00:22:59,293
+oblasti spektraků vidíteľnej
+oblasti spektra, takže je to tieš
+
+270
+00:22:59,333 --> 00:23:04,558
+dobrý dálékoho hladná priamu
+detekciu exoplanet, teda nie na nie
+
+271
+00:23:04,598 --> 00:23:09,542
+priamu, že vidíme, že svetlo hvězdy
+
+272
+00:23:09,582 --> 00:23:13,260
+zoslabne, keď plany tá
+prehátza pred tiskom hvězdí alebo.
+
+273
+00:23:13,300 --> 00:23:18,060
+A no, to je pravdá, on niech tríci příste
+na tom, že im si vebu vlastie sú výbaveni
+
+274
+00:23:18,100 --> 00:23:23,343
+i koronografém, což je postate taková
+ako vkústosť, čo znamení svetlo tních
+
+275
+00:23:23,383 --> 00:23:24,900
+hvězdí a přes to tam
+
+276
+00:23:31,500 --> 00:23:36,366
+povedlo co nejlepe, ale nefunguje to tak
+skriele, jako když što a zasloníte s větlo
+
+277
+00:23:36,406 --> 00:23:39,360
+ze slunce, měsícém
+přizatním měsíte slunce.
+
+278
+00:23:39,400 --> 00:23:44,720
+Ale je to v principie postate podobnej,
+tedy sloní majú různým prapovdivným tvari,
+
+279
+00:23:44,760 --> 00:23:48,375
+protože se na nich láme
+s větlo takovým nejlepe
+
+280
+00:23:55,000 --> 00:24:00,083
+ale postate princípie zaslonit
+se svetloze hvězdí, aby byli
+
+281
+00:24:00,123 --> 00:24:05,513
+vidieť ty planety vokolo a
+vlastně ten James Webb, díky tomu sa na
+
+282
+00:24:05,553 --> 00:24:10,725
+týes chopnej rozlišit, i plnetu,
+která by byla jednu, i dokonce imíneš
+
+283
+00:24:10,765 --> 00:24:13,500
+jednu úhlovou v tešinu od tých hvězdí.
+
+284
+00:24:18,500 --> 00:24:22,490
+tako je to som zinie skoro jedno ale, ale
+jako je to veľkú broský pokrok učí tomu,
+
+285
+00:24:22,530 --> 00:24:27,237
+co možeme pozorovat. Zdeško,
+ko by to beľov aftronomických
+
+286
+00:24:27,277 --> 00:24:28,400
+jednotkách prí...
+
+287
+00:24:29,000 --> 00:24:32,000
+Neviem, jedno lomeno
+sinus, z toho dneči slá.
+
+288
+00:24:33,400 --> 00:24:36,600
+Necháme domať sa vloha pre dívakou.
+
+289
+00:24:37,000 --> 00:24:42,177
+A možno, až těsta, no nebo
+
+290
+00:24:42,217 --> 00:24:45,589
+podstate, že šitko, čo má neľovú
+teplotu, neľovú v kalví vstupnoha celéziá, tak
+
+291
+00:24:45,629 --> 00:24:49,549
+vyžaruje thermalne žiary, nečiž
+napríkladujeme na thermalnych kamerách, takto
+
+292
+00:24:49,589 --> 00:24:50,820
+korytomužajme žiaryme.
+
+293
+00:24:51,620 --> 00:24:57,053
+Čiže vlastne keď sa pozrieme na
+daleko planetu, nemusím sa spoli hrdna
+
+294
+00:24:57,093 --> 00:24:58,697
+světlo, ktoré sa odra
+
+295
+00:25:06,000 --> 00:25:07,960
+Vlastne mňe vě obují.
+
+296
+00:25:08,000 --> 00:25:12,911
+Vlastne mňe vědět, je prův, jako ze
+slábenňa, jakéj spektralní, otázk,
+
+297
+00:25:12,951 --> 00:25:18,118
+světla, tých vězdí, biehem, a ký o
+tranzitobet, myš ta planta přelítá vásrovna mezi
+
+298
+00:25:18,158 --> 00:25:20,462
+na máto vězdou. Tak se vlastne mňak
+
+299
+00:25:29,000 --> 00:25:31,507
+a dojáví, že opravdu musí opravdu
+pozorala vlastne světlo o tých vězdy, který
+
+300
+00:25:31,547 --> 00:25:33,540
+můžubný se zasloní tých vězdu.
+
+301
+00:25:33,580 --> 00:25:38,955
+A if, i tak je, coba ta
+vězda tisíc krát, jasneši nešta,
+
+302
+00:25:38,995 --> 00:25:44,356
+nešto světlo stipanety, i v tom
+infračený oború, ale normáj v obcizním
+
+303
+00:25:44,396 --> 00:25:45,046
+vô
+
+304
+00:25:54,080 --> 00:25:57,600
+v tom lepravie, je možný vydět,
+i to vlastní svetlo tých vyzdy.
+
+305
+00:25:57,640 --> 00:26:01,684
+Te taky důvod prož vlastně jako ten
+daleko lec stavíme, že no tak neskáv, si mi že
+
+306
+00:26:01,724 --> 00:26:06,200
+taky pozrvať ze země, skomúšto
+adaptivní optiká je super, to jako to se
+
+307
+00:26:16,000 --> 00:26:19,540
+po letoho, jak je zdeformována, že mi
+vými, jak má vypadá, si, jak sme si vyrobili,
+
+308
+00:26:19,580 --> 00:26:24,330
+po leto, jak je zdeformována, tak
+voľsne, jako upravíme tvártoho zrdsalania, k
+
+309
+00:26:24,370 --> 00:26:29,705
+býhém, nejakého tisíc kráce, bol 10 kráza
+sekundu, to se vykompenzuje se ty vlivia
+
+310
+00:26:29,745 --> 00:26:31,731
+atmosferia te obráce po tom
+
+311
+00:26:41,000 --> 00:26:46,227
+A práve s adaptiveňu optikou, který by vňa
+rozlišení lepší neštinej James Webb a Žík
+
+312
+00:26:46,267 --> 00:26:47,960
+paksíkane kčou môto daje dobrý.
+
+313
+00:26:48,000 --> 00:26:53,057
+Dobrý je to práve, protože v tom
+infračioryň oboru nam tom zázícala na šia v
+
+314
+00:26:53,097 --> 00:26:54,846
+môsvéra na celá země a
+
+315
+00:27:03,000 --> 00:27:08,060
+ale je byť čia motivaceť te dastávať
+vysmírne teleskopi práve v tom informáčerom,
+
+316
+00:27:08,100 --> 00:27:11,060
+debies meces vlastno
+atmosferozzenajne možný ať nebo viedný pozervatují.
+
+317
+00:27:11,100 --> 00:27:14,852
+Právý atmosfero na nejím osprúledná,
+jak ho proča, pro gamazá, a Žení nejím,
+
+318
+00:27:14,892 --> 00:27:17,669
+ubezpúledná za pať pám buch, a pran
+
+319
+00:27:27,900 --> 00:27:33,277
+sa ba zvysokej horeniek de včile, ale
+většiná, a zrovna takví ty zajíno, většeme je
+
+320
+00:27:33,317 --> 00:27:34,860
+tekova dvodu, na příklá.
+
+321
+00:27:34,900 --> 00:27:39,996
+Tak na nejaký egzotonek je
+tak zrovnať, Ďeš vody máme v
+
+322
+00:27:40,036 --> 00:27:41,362
+otmozvéře země z
+
+323
+00:27:50,000 --> 00:27:52,920
+A bolenka je to výpracovné skupin
+vybrali to najlepšia, po tomu či sa znebej.
+
+324
+00:27:52,960 --> 00:27:58,341
+No ale nelepší, pak másem moženie,
+za cíl posodovat znik, planet, kolem,
+
+325
+00:27:58,381 --> 00:28:03,660
+kolem hvězd. Vlastně bym je
+lotový na otázku, jak se rodí planety,
+
+326
+00:28:03,700 --> 00:28:07,700
+ale má se za to, že se
+vytvôří jaká si pro nějak
+
+327
+00:28:13,500 --> 00:28:17,710
+zbytek nejakým zbytkojim materiál,
+zekterího vlastnete z planety postutne jako
+
+328
+00:28:17,750 --> 00:28:20,960
+vždyrájí ten materiál, jak
+proužiaj v okolo, nabalu jeho na sebe.
+
+329
+00:28:21,000 --> 00:28:25,777
+A nejí vlastnou tanie jasný, jesli ty
+veľký tolety, čo ba, ktorí se pozurujou, než
+
+330
+00:28:25,817 --> 00:28:28,000
+kaže sú dodať neblízkot jech viesť.
+
+331
+00:28:37,000 --> 00:28:40,196
+a neňí úplne asťinia, jak se jedotili
+plnete, vlastne, jak se jedotili plnete
+
+332
+00:28:40,236 --> 00:28:43,460
+vnikali, a neňa, a nie asťinia, jakývo
+služení, jak je služení tých plnete.
+
+333
+00:28:43,500 --> 00:28:48,126
+Jeste to, co vidíme na šisneční sú
+ustavejanie, co typickýho, po tože te exoplne ty
+
+334
+00:28:48,166 --> 00:28:49,746
+vokterých, ako máme ne
+
+335
+00:29:02,000 --> 00:29:06,987
+Na příklad žete velký obři pliny, jako
+je júpité, rá saturn, hrozně blisko tiech
+
+336
+00:29:07,027 --> 00:29:12,324
+matéské hvézt, a nejí zavstolík
+takových tiech plane, který by byli jako
+
+337
+00:29:12,364 --> 00:29:16,623
+roky, bol je vôv se skal, alebo skamenu
+jako sou tém teretričný plane, kole más,
+
+338
+00:29:16,663 --> 00:29:17,313
+budcov
+
+339
+00:29:24,000 --> 00:29:27,060
+a nebo protože proste jsou
+nejsov zaleka tak časti.
+
+340
+00:29:27,100 --> 00:29:31,923
+To je o moj týbře tak samozrejme, že
+vidíme prímárne tie velké planety, jsou velké
+
+341
+00:29:31,963 --> 00:29:37,409
+lečšie vidíteľné. Inak zamevé je
+to, že k znikne nova nada planeta
+
+342
+00:29:37,449 --> 00:29:42,042
+tak ona vyžaruje
+infrečervené žiareňi a teda je
+
+343
+00:29:42,082 --> 00:29:44,323
+relativne jasna takže je to,
+
+344
+00:29:47,500 --> 00:29:50,960
+Je to těznikajú cepané, a ty sú
+vyníkajú ciciel pre ďalekoľa, žeím sa veba.
+
+345
+00:29:51,000 --> 00:29:52,960
+To je tím, že sa už tak hóruce v tomto.
+
+346
+00:29:53,000 --> 00:29:57,835
+A druhý důvod, proče to dobylí prožíme sa
+veba, až čiže veľi večou znikaj v nejakých
+
+347
+00:29:57,875 --> 00:30:00,800
+tých oblastrch,
+bolšlíve, etvor býchvies, ne
+
+348
+00:30:11,000 --> 00:30:16,280
+že znam to svedlo odrazí mimo nás,
+zatem sa oto infročený svedlo do tánáže
+
+349
+00:30:16,320 --> 00:30:21,334
+projítlónskrás, takže na příklad je
+s úznamí fotky, obrásku, zhablova
+
+350
+00:30:21,374 --> 00:30:26,477
+daleko hledu, kde je co jako horzhet,
+tak sa takovnika hlavata, mohovina,
+
+351
+00:30:26,517 --> 00:30:31,038
+která vypadá jako chumáč,
+prahúla skoro nesdam nejný páne hvě
+
+352
+00:30:34,500 --> 00:30:36,309
+Či to je ta hosil na stránku božšak?
+
+353
+00:30:36,349 --> 00:30:40,866
+Už teraz poznam je obraz kýto hako sa
+rodíate da v jezné systémie dokonce nedavno bo
+
+354
+00:30:40,906 --> 00:30:44,960
+to všim že vznik nezjacú otvotený že
+okol nekaj planetni s nečo sa rysovalo.
+
+355
+00:30:45,000 --> 00:30:50,193
+Takže on je vlastne tera silný v
+tom že vydice stú mů a bo cestu nie
+
+356
+00:30:50,233 --> 00:30:51,477
+prihladnú klas.
+
+357
+00:30:51,517 --> 00:30:52,167
+�
+
+358
+00:30:58,000 --> 00:31:01,735
+že si, že si, ja si si, zazmôžná, věším
+zapuměl, ale myslím, že taký bude koukat ina
+
+359
+00:31:01,775 --> 00:31:06,855
+nejaký, od mánia, kýc silé v rám si s
+nôješný souvstaví, že bude koukat na jaki
+
+360
+00:31:06,895 --> 00:31:12,083
+planety, v náši s nôješný
+souvstavie nejím, je úplně jasným prošby to
+
+361
+00:31:12,123 --> 00:31:12,773
+dělá
+
+362
+00:31:21,500 --> 00:31:26,117
+Ďakú přídyš jasný na tý přístraje,
+týtam souto, že kameto vôbrovej kudelikáť,
+
+363
+00:31:26,157 --> 00:31:30,000
+kratiúčky, jaký je ekspozice,
+kterýbo tom bruhská na dohromady.
+
+364
+00:31:32,000 --> 00:31:34,560
+Myslím, že to hlavní sme
+pokryli, a půjcem aj co nezapumňa.
+
+365
+00:31:34,600 --> 00:31:37,985
+Tedyš tak my pomošte
+si sem vesvém puženane,
+
+366
+00:31:46,080 --> 00:31:51,217
+Určite bude, koukat je o testnášte
+spumého, čite jedná skupená je v varkuázi z
+
+367
+00:31:51,257 --> 00:31:56,651
+námá supernova devatérancev
+osumlesácilu, a která vybuchlo, jak
+
+368
+00:31:56,691 --> 00:31:59,460
+už na zefna povídá v roce
+devatérancev osumlesácilu.
+
+369
+00:31:59,500 --> 00:32:01,654
+A mákolem sebe, ako aj zkého
+
+370
+00:32:08,500 --> 00:32:12,000
+takto je také jeden,
+jeden ako si úžím se veba.
+
+371
+00:32:14,000 --> 00:32:16,960
+Ale oto bym mám ovo, protože takové.
+
+372
+00:32:17,000 --> 00:32:21,960
+Takto bym je to môj prasovný skupiná,
+ale to nemáže by to nebo zainímaví.
+
+373
+00:32:22,000 --> 00:32:24,960
+Pásně je bym jas kumat, je
+týt jety, ako je takové.
+
+374
+00:32:25,000 --> 00:32:29,154
+I te první rodíci se
+hvězdi, tak úplíme sa zdajú bável
+
+375
+00:32:32,000 --> 00:32:35,947
+ktej galakcie, mají vitryský, môžná v
+nejakých zmínulých relácií, nebo ty
+
+376
+00:32:35,987 --> 00:32:40,599
+gamazábezky také výbuchlové vitrystých a
+když se rodí, výesda tak se kupodíú, kázoje
+
+377
+00:32:40,639 --> 00:32:42,260
+žemno, kdy má také ľaké vitrysk.
+
+378
+00:32:42,300 --> 00:32:47,260
+Takže také se dne co jako akreú
+je na ten centralní objekt a také
+
+379
+00:32:47,300 --> 00:32:48,838
+zniklenia, když tyž
+
+380
+00:32:55,500 --> 00:32:57,859
+kúbesnej jsou tak energetický, takže
+sú relativne chladný, ten prinieráty v
+
+381
+00:32:57,899 --> 00:33:02,920
+nechladnej, takže také by neľej
+pozratovalne, pozovrová, vlastilnej, v infračervení
+
+382
+00:33:02,960 --> 00:33:08,218
+oboly. No a o nosa tak bežný
+hovorí, že v esminyteleskov
+
+383
+00:33:08,258 --> 00:33:11,000
+James Avebaj na
+sledovník, hablohoteleskopu.
+
+384
+00:33:11,040 --> 00:33:12,271
+Je to to oznáčen
+
+385
+00:33:19,000 --> 00:33:24,333
+varky tingovo podáva a za
+dalekoľa, že im sa veba bude, vyba bude
+
+386
+00:33:24,373 --> 00:33:29,044
+těžzodpovedni spaystelesko psájensi
+institut, ktorí pre vatskuje hablové sminý
+
+387
+00:33:29,084 --> 00:33:34,193
+daleko hlad. A však, nie sa to to ve mine
+
+388
+00:33:34,233 --> 00:33:37,060
+páčí, lebo nie je to za se úplnie právda.
+
+389
+00:33:37,100 --> 00:33:40,177
+Jelem malá spektralna oblast, ktorú má d
+
+390
+00:33:42,500 --> 00:33:45,960
+zamej ranej pravena infračervenú
+oblast, takže on záčí na nekde prist.
+
+391
+00:33:46,000 --> 00:33:51,422
+Sýjemstto na nometroch a takte
+daje to infračervený dalekohlad, kým
+
+392
+00:33:51,462 --> 00:33:56,460
+habo je optický
+dalekohlad, ktorý je na návodí,
+
+393
+00:33:56,500 --> 00:33:58,000
+ktorý je na návodí,
+
+394
+00:34:06,000 --> 00:34:11,096
+optický ďaleko hlad z presahom do uvé
+oblasti spektra a z malym presom těždo
+
+395
+00:34:11,136 --> 00:34:13,460
+infračervené oblasti spektra.
+
+396
+00:34:13,500 --> 00:34:18,500
+Takže je to ďaleko hlad zame
+rany na inu oblasti spektra.
+
+397
+00:34:19,500 --> 00:34:24,551
+Já si osobně myslím, že taký
+skutoči následovní k habloho vesmínne o
+
+398
+00:34:24,591 --> 00:34:27,962
+ďaleko hladu je tak
+zvaný Nensigreys Romant
+
+399
+00:34:29,500 --> 00:34:33,504
+nensigrej s Romanteleskop,
+ktorý by ho pre tým oznáčovaný W.
+
+400
+00:34:33,544 --> 00:34:37,960
+First čo je vlastne špionážna
+družica, ktorú nasa dostala do daru.
+
+401
+00:34:38,000 --> 00:34:43,314
+Dostala je na sa, navojací jej
+povedali, že robť je si s ním, robť je s
+
+402
+00:34:43,354 --> 00:34:48,000
+tím to ďalekoľa do mnečo,
+niečo zályma ve niečo užítočné.
+
+403
+00:34:53,000 --> 00:34:56,460
+krečil o niskou zdielenosti a
+tým pádom má bečie zorné pole.
+
+404
+00:34:56,500 --> 00:34:59,500
+A teda tento daleko hlad
+
+405
+00:35:02,500 --> 00:35:07,760
+W first album, Nensikry i Sromantelesko,
+pombude robi takutu prehliadku oblohy, kde
+
+406
+00:35:07,800 --> 00:35:13,016
+bude s nímate velké častí
+oblohy z takym rozlíšením ako robí
+
+407
+00:35:13,056 --> 00:35:17,748
+hubo. Takže to bude
+niečo úplně už Niečo úplný
+
+408
+00:35:17,788 --> 00:35:22,642
+úžasné, ale je to opetní
+čo iné, nečo bude robíte,
+
+409
+00:35:22,682 --> 00:35:24,960
+dělejko ležím sa veba.
+
+410
+00:35:25,000 --> 00:35:29,960
+A ten špionážnej sa teli to znamená, že
+ho ako, že dalí na zemi, alebo on už...
+
+411
+00:35:30,000 --> 00:35:31,960
+Není na zemi, na zemi.
+
+412
+00:35:32,000 --> 00:35:36,460
+Môžu si opravit. A nebude stať malo,
+
+413
+00:35:36,500 --> 00:35:39,960
+takže zemave je to.
+
+414
+00:35:40,000 --> 00:35:44,731
+Zemavé je to, že vlastne oni už
+dostali hardware, ale upravi ten
+
+415
+00:35:44,771 --> 00:35:50,229
+hardware tak, byl sa dal používat na
+takéto astronomické pozorovania stále
+
+416
+00:35:50,269 --> 00:35:55,193
+100,000 dolaru. A si je taký klúčový
+rozděl mezi Hablevým teleskopom, a James
+
+417
+00:35:55,233 --> 00:35:57,360
+Vybovým teleskopom je,
+že kde budú odparkované?
+
+418
+00:35:57,400 --> 00:36:00,708
+Hablevý odparkované,
+takže sa da servisovať
+
+419
+00:36:03,500 --> 00:36:08,265
+tak, že im zvebultále skobudie
+zaparkovalny děleko odzeme, a teď na prvíkra četkomu
+
+420
+00:36:08,305 --> 00:36:11,260
+si funvél, bo tam nikdo nie
+původí je zaš robovadnečo.
+
+421
+00:36:11,300 --> 00:36:14,565
+A no habluj je v
+nejaké výške okolo 550 km.
+
+422
+00:36:14,605 --> 00:36:19,573
+A děleko ležim sa v eba vůdě, vo
+vzlánosti 150 mln km odzeme, tak
+
+423
+00:36:19,613 --> 00:36:20,915
+zvanom lagran ž
+
+424
+00:36:27,000 --> 00:36:32,153
+Budde tu je slunkotu je zem
+a 1,5 milion a kilometra o
+
+425
+00:36:32,193 --> 00:36:33,760
+som povedal a zí.
+
+426
+00:36:33,800 --> 00:36:36,260
+Už si za parkodlo slunkat už.
+
+427
+00:36:36,300 --> 00:36:41,677
+Takže slunk je 150 milion a
+kilometra o 1,5 milion a kilometra
+
+428
+00:36:41,717 --> 00:36:46,760
+o ještě dělí. No je to jakú
+mnohem dalneš na měsíc, takže
+
+429
+00:36:46,800 --> 00:36:48,760
+bude se zaměso rozbě.
+
+430
+00:36:48,800 --> 00:36:53,689
+Tak sa je stíme a svojem těžkobré
+můžem to na Elon Musk vyšlenia,
+
+431
+00:36:53,729 --> 00:36:58,658
+kúdzáchlanou četú, ale tam už je to zášení
+tak špatný, jako tak silní, že tykosmo od
+
+432
+00:36:58,698 --> 00:37:03,793
+týtrybí tam eventuálně leť to neco
+opravit, tak tak by to mohli šelé neozkáka, takže
+
+433
+00:37:03,833 --> 00:37:04,685
+se má za to,
+
+434
+00:37:14,000 --> 00:37:19,247
+Poždědej ten start a proč vlastne a že
+to stálo skoro 10 miliardúlůvůž a že
+
+435
+00:37:19,287 --> 00:37:21,760
+vlastne už nevyvedzieť nekdy 2007.
+
+436
+00:37:21,800 --> 00:37:27,201
+Zviše a jsem se jako dostávach to
+projechto pak 2008, 2009, spakorová virus
+
+437
+00:37:27,241 --> 00:37:28,360
+a teberch teďka.
+
+438
+00:37:28,400 --> 00:37:33,770
+A vlastne je to nejvěčíc držení do
+protože ten daleko lecám osobi, jak
+
+439
+00:37:33,810 --> 00:37:38,860
+jsem ťika má tu primální
+ale kromětoho je ště, aby se
+
+440
+00:37:38,900 --> 00:37:43,378
+potřeba je máte infračerým přístroje,
+takovom potřebuje se chladit, aby tam prostěto
+
+441
+00:37:43,418 --> 00:37:47,578
+vlastný ten daleko nerušel ti přístroje,
+alebo to světlo cev kôde, od svůňce nebo
+
+442
+00:37:47,618 --> 00:37:51,689
+odzemě. Takže s toho
+důvoduje, staršně daleko odzemě.
+
+443
+00:37:51,729 --> 00:37:53,846
+A na to, aby je vlastne, bo cí
+
+444
+00:38:01,000 --> 00:38:02,940
+a do sú nečiť štíť, který je
+velký a se jako tenisový kurd.
+
+445
+00:38:02,980 --> 00:38:07,792
+Nože jako obrovský, je služený spetje
+breste v nejakých folých, kterými odvádi
+
+446
+00:38:07,832 --> 00:38:12,956
+teplou. Takže tím, co spúsobem,
+jakú vypási v nejakou vychľadí aj ti
+
+447
+00:38:12,996 --> 00:38:16,957
+přístroje zrubona 40°
+keľvina, tože jako hrátýť ne
+
+448
+00:38:24,500 --> 00:38:27,819
+na to dalé dal infračervení obor na ten
+nešte vzdale nišie, je uvícero infračervení
+
+449
+00:38:27,859 --> 00:38:32,385
+oboru vej vplazenia s nešnosť vlustu
+tývína a na to potřejakty výchhození, takže po
+
+450
+00:38:32,425 --> 00:38:35,490
+miestestem nejakým tekutým
+heljem zrubohaj ako fúbujem vledíšť.
+
+451
+00:38:35,530 --> 00:38:39,500
+a nevie ma kuméš tycholetíčanty.
+
+452
+00:38:41,500 --> 00:38:46,960
+A tedy mojni dôvod proče ko to životnost
+čo ma to dole kleduje vôrha do válna si na
+
+453
+00:38:47,000 --> 00:38:52,153
+10 let poče pať. a zároveň
+nebenu dostajšie, že je elgie, ako na
+
+454
+00:38:52,193 --> 00:38:56,460
+ostatní veci, ale má tam
+nejaký smiešný paneli.
+
+455
+00:38:56,500 --> 00:39:01,807
+Vásem na lekole dmústí furko
+ukaťím svým štíter v siedem keslunci, a
+
+456
+00:39:01,847 --> 00:39:07,059
+tože nemúže, ako kdykoliv pozrôvat
+sokoly vsem mu za mané, ale vyský
+
+457
+00:39:07,099 --> 00:39:12,394
+mán jáky, ako polepú
+srednosti tak abyť vž v býhemto roku
+
+458
+00:39:12,434 --> 00:39:17,144
+teda v dálku, je býhemto roku, že
+pozrvať, co si zamaneme, ale nejinto tak, že by
+
+459
+00:39:17,184 --> 00:39:20,960
+si, že kľa měská chci pozrvať
+tam lebo, coť sa zrná nejdebčete.
+
+460
+00:39:21,000 --> 00:39:23,960
+Vy v musel kúka dosunička a tom obinešnú.
+
+461
+00:39:24,000 --> 00:39:28,077
+Čo sa zase jačí, že pri
+ďalekodě, čím sa veba takisto
+
+462
+00:39:35,500 --> 00:39:40,478
+Takže on potrebuje palivô na
+to, aby tu dráhu tam aktivne
+
+463
+00:39:40,518 --> 00:39:45,460
+udržiaval. A vlastne toto
+limituje rikuairementa.
+
+464
+00:39:45,500 --> 00:39:50,460
+To čo nás zadaľo, že
+žiada je 5 rokov, aby malo
+
+465
+00:39:50,500 --> 00:39:52,460
+palivô na 5 rokov.
+
+466
+00:39:52,500 --> 00:39:57,500
+Ale zda sa, že tam budu
+zásobina na dochšiu dobúle.
+
+467
+00:39:58,500 --> 00:40:01,960
+alebo za si niekto
+repristoje sú chvádené pasívne.
+
+468
+00:40:02,000 --> 00:40:07,420
+O nieby tam hoľmi
+fungovatiai, dlegšie len palivo to
+
+469
+00:40:07,460 --> 00:40:09,960
+ďaleko hladu, doj je skor.
+
+470
+00:40:10,000 --> 00:40:15,210
+Čo je na hazáv takový
+kompennizované a ak by vôl presne v tom
+
+471
+00:40:15,250 --> 00:40:17,960
+vody tak... Tak by tam vo...
+
+472
+00:40:18,000 --> 00:40:21,960
+Ale kdy sa teď to trošku
+vychili, tak ho to začne.
+
+473
+00:40:22,000 --> 00:40:24,460
+byť takto začne
+posuvať je to vôsoj talego.
+
+474
+00:40:24,500 --> 00:40:29,697
+On sa dela, ako si o smíčku
+klentohobudu, ale i ta je, ako
+
+475
+00:40:29,737 --> 00:40:34,460
+nepoňestam, ja tam je aj aký
+trysky maličky, který má se občas muže
+
+476
+00:40:34,500 --> 00:40:39,031
+korygovat. A myslím, že
+tam imá ity, ktorý se
+
+477
+00:40:39,071 --> 00:40:42,500
+trvačníkho, ktorý mám už se natáčet na
+
+478
+00:40:45,500 --> 00:40:50,181
+necošerový v niestom dartní
+techniká, která se používa.
+
+479
+00:40:50,221 --> 00:40:54,798
+Pravou, proto, aby cohlo
+všechlów se musí se ten stav věc.
+
+480
+00:40:54,838 --> 00:41:00,237
+V Commission, ktorý svojou krutu
+se musí nejak složit do koktytu
+
+481
+00:41:00,277 --> 00:41:05,368
+nebo chcúzit z okarga,
+spostenia ký rakety, zaplují se musí na
+
+482
+00:41:05,408 --> 00:41:10,499
+jedná karaketa, ktorá ste všetne velka, a
+do takovýh, takže sa tam si na skala, jak
+
+483
+00:41:10,539 --> 00:41:15,791
+orygame, prostě svojech, si chciete
+štíte, ten štíce soroluje, a do takový
+
+484
+00:41:15,831 --> 00:41:17,960
+prostě ulední krabičky.
+
+485
+00:41:18,000 --> 00:41:23,276
+Paksel usnutím prestou musí
+biehem štedenástý dnu na ceste od země
+
+486
+00:41:23,316 --> 00:41:28,281
+tam do toho bode L2 rozvinou, tak
+poupie, rozbalit a všechnom musí
+
+487
+00:41:28,321 --> 00:41:33,190
+klatno. že nekde se ako
+
+488
+00:41:33,230 --> 00:41:36,840
+vodistínia kýperko a v musíc za
+všechno krásne jedno pobrujím rozbalit.
+
+489
+00:41:36,880 --> 00:41:42,307
+Což je trochu nočni můda, a
+práciže když se to nepovede
+
+490
+00:41:42,347 --> 00:41:47,548
+tak s 90 miliáty výhozenuj, a proto
+aby ako si byli jistý stupové, tak
+
+491
+00:41:47,588 --> 00:41:51,495
+znam jadí uz nítesty, je si
+to vidrží start, to čo neská
+
+492
+00:41:56,000 --> 00:42:01,386
+tak všetné, tak je to všetné, tak je
+to všetné, tak je to všetné, tak je to
+
+493
+00:42:01,426 --> 00:42:06,517
+všetné, tak je to všetné, tak je to
+všetné, tak je to všetné, tak je to
+
+494
+00:42:06,557 --> 00:42:11,647
+všetné, tak je to všetné, tak je to
+všetné, tak je to všetné, tak je to
+
+495
+00:42:11,687 --> 00:42:16,423
+všetné, tak je to všetné, tak je
+to všetné, tak je to všetné, tak
+
+496
+00:42:19,500 --> 00:42:24,665
+a vzv. zvukojívalny a bohu
+žel ten štice potrhal, jak byl
+
+497
+00:42:24,705 --> 00:42:26,400
+původně na vržený.
+
+498
+00:42:26,440 --> 00:42:31,145
+Pípadlo 100 par šropkuj, tak to nic nejí,
+tak vi mým mě šropký, zajíní, ale bohu žel
+
+499
+00:42:31,185 --> 00:42:36,640
+to nestačilo, takže osel sa lecela,
+tak sa technologie, sa trchuprzedila
+
+500
+00:42:36,680 --> 00:42:38,923
+vád, stalo to rok z držiň, abie
+
+501
+00:42:44,460 --> 00:42:49,100
+to byrom poľovýčat je a tak se
+rozhodli poště každý test udělaným mít vakrá.
+
+502
+00:42:49,500 --> 00:42:54,306
+Ale zajímavuje, že môto funguje tak, že
+výterá udělite, a ješto přižuje všichni
+
+503
+00:42:54,346 --> 00:42:56,654
+vytestili, jak to opatrne slož
+
+504
+00:43:06,500 --> 00:43:10,475
+v prancovský guinei, za který to veleti
+nekde býskorovníkov, veleti to na rakete
+
+505
+00:43:10,515 --> 00:43:15,655
+Ariav 5, si si dupři pomocú, už je
+zvvel, mezi on a raketa dúfem, že to
+
+506
+00:43:15,695 --> 00:43:17,160
+darú předuparné.
+
+507
+00:43:18,360 --> 00:43:20,840
+Čo sa dějie, potom čo sa vypustí družica?
+
+508
+00:43:20,880 --> 00:43:24,649
+Čožeš, že to sme
+poskladali na ožu v inaraketu, v
+
+509
+00:43:30,000 --> 00:43:33,800
+hát tzw. Comissioning, sa budú postupnie
+zapinat je to pristroja, to všetko bude
+
+510
+00:43:33,840 --> 00:43:35,100
+trvať pokiaviem 3 mesiace.
+
+511
+00:43:35,140 --> 00:43:39,260
+No, ale to asi půl okúje na to
+Comissioning, face do konce, výc.
+
+512
+00:43:39,300 --> 00:43:42,540
+Ale potroch mesiaco kúžasí
+zaštět je robíť pozorovania.
+
+513
+00:43:42,580 --> 00:43:46,580
+Oni do konce, ako měchterí
+pozorování sú napánoj bie
+
+514
+00:43:53,500 --> 00:43:58,033
+Ďem, že vám je to výhô, že vlastne
+nechcelí data pozorovanej už biehem toho, ako
+
+515
+00:43:58,073 --> 00:44:02,750
+obviesovanie, že v nofunguje nejsou
+vybrali úplne ako hlupie, ale bude tam já ký
+
+516
+00:44:02,790 --> 00:44:07,000
+cíle, který zechtribo je toto nejaký
+rubrej vysledek už ako na začátku.
+
+517
+00:44:17,500 --> 00:44:19,460
+Tak to stało za týděset miliáť dolaru.
+
+518
+00:44:19,500 --> 00:44:24,780
+Ato 10 miliá dolaru je kapka v
+mořej v tom rozpoštú Ameriky, co na
+
+519
+00:44:24,820 --> 00:44:26,460
+zbranie nebo tak.
+
+520
+00:44:26,500 --> 00:44:28,460
+Moťa chcel vypadá od nie.
+
+521
+00:44:28,500 --> 00:44:33,618
+Čiže po roku, bude trovat ta
+rozbihacie pháza a zakoľkom bude
+
+522
+00:44:33,658 --> 00:44:34,308
+odpark
+
+523
+00:44:41,960 --> 00:44:46,081
+Potom se tam bude už ke nás pravno mesto,
+mališetko nabihati, syskli mi, kontroli
+
+524
+00:44:46,121 --> 00:44:47,600
+overovanie, kali brovanie.
+
+525
+00:44:47,640 --> 00:44:52,717
+Niesužben nabihace stouč, čoba ta
+komunikašný čas, s vlastne bude funguát už
+
+526
+00:44:52,757 --> 00:44:53,563
+pocisť je...
+
+527
+00:45:04,000 --> 00:45:08,607
+a takže se dovo tebila všichno
+po maloučku, a pro teda rozbali 5
+
+528
+00:45:08,647 --> 00:45:11,740
+plachet trvátech 10 dni.
+
+529
+00:45:11,780 --> 00:45:16,277
+To tých rokov čakánia se zase ľudia sých
+počkajú, aby sa to urobilo také pomalinkia
+
+530
+00:45:16,317 --> 00:45:21,027
+o patronie. Ďakovec
+trvmôžno ďom ní úplnia sa, že
+
+531
+00:45:21,067 --> 00:45:24,380
+dovolasne je taký to teleskop používá.
+
+532
+00:45:27,500 --> 00:45:29,800
+ktorý povědje, že jedeme sa pozirať tu,
+alebo može hocik do napalnej tie zemsi,
+
+533
+00:45:29,840 --> 00:45:33,943
+povědaj, že abysum sa chcelnej kam
+pozirať, alebo děeme cítými to dvom extrémami se
+
+534
+00:45:33,983 --> 00:45:38,640
+na chada skutočnosti. Doch, skutočnosti
+takovane, že vlastne souci základní, skupy
+
+535
+00:45:38,680 --> 00:45:40,785
+nejak s těch, jak oby ten základ
+
+536
+00:45:51,000 --> 00:45:55,053
+a takže aj tam už předem daným, takže aj
+ten zeskú týna má nejaký svoj pozorovací
+
+537
+00:45:55,093 --> 00:45:59,019
+čas na svoje pozorování, tým říka jako
+kor program, jako jaderný program, no by
+
+538
+00:45:59,059 --> 00:46:03,460
+jaderný. Takže nema to
+neváteň splošnios jaderný obu.
+
+539
+00:46:03,500 --> 00:46:08,192
+A pak si se sa možení mě sou,
+ako se občečal je daleko lehkla
+
+540
+00:46:14,500 --> 00:46:19,646
+kdo má jako rozumnej napad, ktorý zážádať,
+vo pozorová si čás a sejde se komise moh
+
+541
+00:46:19,686 --> 00:46:25,057
+dých, která je služená, z nákej lidí,
+ktedy toho pozoromnej předpukára, z
+
+542
+00:46:25,097 --> 00:46:30,476
+různejho boru, a tyto posoude, jesli
+teda, ako na to ten pozorová si čas
+
+543
+00:46:30,516 --> 00:46:32,615
+dá iné, bo nej, a jsem pět ná
+
+544
+00:46:38,000 --> 00:46:43,157
+Takže nevím neumím posoudi, zrmujem
+takých mimo nisem takých Čeva, by ten
+
+545
+00:46:43,197 --> 00:46:44,740
+daleko leď pozorováho.
+
+546
+00:46:44,780 --> 00:46:48,740
+Pozustavky po gamazáleblesci,
+chcetešme přišle jakový borný nápad.
+
+547
+00:46:48,780 --> 00:46:53,439
+Nebel se miediny i jeden iné iné
+človevě, je chcete chcete ale nie sa takovýho
+
+548
+00:46:53,479 --> 00:46:54,580
+relativní, znamnej.
+
+549
+00:46:54,620 --> 00:46:55,420
+Pos
+
+550
+00:47:01,500 --> 00:47:06,724
+A pak se rozhodné vás nebo kolech
+procent pozervasiu času za to, že tam
+
+551
+00:47:06,764 --> 00:47:11,989
+Evropska, Evropa, ako do dávala
+spouhústú přístroju, a hodne toho svov
+
+552
+00:47:12,029 --> 00:47:16,000
+tvéru. Tak 30 % pozervujú
+času je dedikované Evropie.
+
+553
+00:47:25,780 --> 00:47:28,060
+Uš to, už to kolo probějo.
+
+554
+00:47:28,100 --> 00:47:30,060
+Vratelne pautuvojho.
+
+555
+00:47:30,100 --> 00:47:31,580
+Vám obvó, přesnina.
+
+556
+00:47:31,620 --> 00:47:33,580
+Tak skúlan, tak toho škú povedať, ľudí.
+
+557
+00:47:33,620 --> 00:47:38,120
+Vyčem, co to skupinil lidí, který, jak ho
+je, nejí, jeden človek se neco po dávičom,
+
+558
+00:47:38,160 --> 00:47:39,506
+to je skupinam se
+
+559
+00:47:50,000 --> 00:47:54,725
+Ako byť zvibrať, že toto je hodne James
+Aveba, až po dake spresniny technický deľa,
+
+560
+00:47:54,765 --> 00:47:55,960
+že ako toť celé byť zrobou.
+
+561
+00:47:56,000 --> 00:47:57,960
+A ja to ak nemiem predstavit.
+
+562
+00:47:58,000 --> 00:48:02,800
+No tak ten základní napad je, že když
+napad je vôcúda tak existuje, bo tože je
+
+563
+00:48:12,000 --> 00:48:17,055
+prispozyci, potom tak seď zajah sa pak
+siť, že kne dobrá, tak skusíme si do
+
+564
+00:48:17,095 --> 00:48:18,460
+vůbec, ako je realní.
+
+565
+00:48:18,500 --> 00:48:23,695
+No přída, a večom, či lidí používaj,
+svojné, kterým s prísem psalz, záštím
+
+566
+00:48:23,735 --> 00:48:28,783
+malým, které je jako vysťi
+simulátor, daleko hledu, kde siť, že k zada
+
+567
+00:48:28,823 --> 00:48:30,654
+parametri toho, co tak
+
+568
+00:48:35,500 --> 00:48:40,690
+a vyskú si se zeptát, jak by
+to vypadá, ale jak vydnobráský
+
+569
+00:48:40,730 --> 00:48:44,320
+vypadáli, kdyby natokouka vžem
+své pse s svéjma přístrujma.
+
+570
+00:48:44,360 --> 00:48:49,632
+Rostanenia a keď vysledek, a po letou
+se zasígi, a potom je 3 híčánach, zeskne
+
+571
+00:48:49,672 --> 00:48:51,640
+dobrá, takte to dôrá pozorovatelní.
+
+572
+00:48:51,680 --> 00:48:53,218
+Ale je to jako techn
+
+573
+00:49:00,400 --> 00:49:05,260
+tak za to zabede strašniemoc,
+jako giga biteu napřenost dat.
+
+574
+00:49:05,300 --> 00:49:10,629
+Vždy si nemůžete, ako říci a chci
+posledovat, všemá přístré ma, co tam jsou neco na
+
+575
+00:49:10,669 --> 00:49:14,600
+jednou, protože pak není, jak
+přiťáno ty data z pátky na zem.
+
+576
+00:49:22,500 --> 00:49:26,743
+k nejakým orozumním vysledsku na planu je
+si typo zarováňa, a ten vlastným planu asi
+
+577
+00:49:26,783 --> 00:49:28,960
+socvého dnej tomu co bylo na háblá.
+
+578
+00:49:29,000 --> 00:49:33,912
+Aš tí by si moľ popísaj, že čo si
+ti aký soh tvér si vyvíal pre tento
+
+579
+00:49:33,952 --> 00:49:36,460
+ďalekovalať, na čom si pre sne pracová?
+
+580
+00:49:36,500 --> 00:49:38,423
+No no, svedom mirisím, ne
+
+581
+00:49:46,000 --> 00:49:49,845
+ďemým mid-inferved hodným mid-instrument
+a no, který má zároveň imedžer, ako zbíme
+
+582
+00:49:49,885 --> 00:49:52,260
+že děha fotky a zároveň tanspektor grav.
+
+583
+00:49:52,300 --> 00:49:56,760
+Takže vlastně také ako všestranej
+přístroje, které práve cítli na to vzdalenieší
+
+584
+00:49:56,800 --> 00:49:58,060
+neinfračežnou oblast.
+
+585
+00:49:58,100 --> 00:50:00,638
+Je to co se musl som som se neudá
+
+586
+00:50:09,500 --> 00:50:14,921
+Ďuže si, že kde tam nechci tak rešnídi,
+tam nechci galaksi, tam nechci hvězdů,
+
+587
+00:50:14,961 --> 00:50:20,292
+tam nechci tak lehorku hvězdů, tam
+nechci dvoj hvězdů, tam nechci přechod
+
+588
+00:50:20,332 --> 00:50:25,753
+planety, tak nakrmiť človek ten
+sovthver informacené, vo tom, co vás nechci
+
+589
+00:50:25,793 --> 00:50:30,000
+pozorová, a vo tomto celý
+přechroupe ten sovthver a nekob
+
+590
+00:50:33,000 --> 00:50:35,678
+ale kvogedú až na ten detektor, jak
+sechová, a ten detektor, a vlastne to jako
+
+591
+00:50:35,718 --> 00:50:40,768
+izášumí a přigláci tam kosmycký zážení,
+týču tam kazi a dostanete jako výslevek
+
+592
+00:50:40,808 --> 00:50:44,960
+ráty, jako realnej obraz toho,
+som by čeho dostastou pozerváň.
+
+593
+00:50:45,000 --> 00:50:48,615
+A po tom sa na to čo by
+pozori, a pověž, že tak
+
+594
+00:50:56,500 --> 00:50:58,960
+ktorá bolí k času na to čo je
+pozoruje, jak možná bude šumu.
+
+595
+00:50:59,000 --> 00:51:04,389
+Možná se to šeknulá odhodnou teda
+kúlu, ale to hodávám na mse s niesíde
+
+596
+00:51:04,429 --> 00:51:08,743
+slatky. Také ram tres takovopotpichováčno
+o tásko, že keď sa vlastnešetky, projekty
+
+597
+00:51:08,783 --> 00:51:11,231
+robí ať, že aj troško símu símu o
+
+598
+00:51:20,500 --> 00:51:24,984
+Zatím každá jako bese, které na byl naťal
+na do vestmíru vždycky, bo byho láne so
+
+599
+00:51:25,024 --> 00:51:30,009
+novýho, tývčetně to hablova daleko, i
+všetě, takže ja asi rozhodně jako, no to lebi
+
+600
+00:51:30,049 --> 00:51:33,800
+strach nebú besne mě, ja se
+myslím, že bym je překopení, že tam
+
+601
+00:51:43,500 --> 00:51:47,529
+vysmíruva v bice ako, jak si mi si mězune
+vysmí vývíva, čo bájde mega vakci je, co
+
+602
+00:51:47,569 --> 00:51:52,422
+je uvývíme krásným spyrání galakcié, na
+příklad v době, kdy výme, že se vlastne
+
+603
+00:51:52,462 --> 00:51:57,090
+neměli ani čas formovať, tak bennu
+mô sa nejakou teory, toho chúprchú
+
+604
+00:51:57,130 --> 00:51:58,000
+přehodnotí,
+
+605
+00:52:08,300 --> 00:52:10,460
+když všetný sú som možný, zdršelny výžek.
+
+606
+00:52:10,500 --> 00:52:13,460
+Tak, vidíme, ale...
+
+607
+00:52:13,500 --> 00:52:18,384
+Bo to bych strach nemial, skaždej novým
+přistrém vždycky sevo vyvolonie sonový, jo,
+
+608
+00:52:18,424 --> 00:52:23,198
+protože to je to vlastne oklu,
+nekám kansmešťa předím nekouk
+
+609
+00:52:30,500 --> 00:52:34,803
+takže neznamenších zaberov ten habo deep
+fieldu, doblô vlastne, takže to vlastne ten
+
+610
+00:52:34,843 --> 00:52:39,499
+riaditil, na to alokoval, taký ten svoj
+ekstra čas, že to nebo, že plánova nigolky
+
+611
+00:52:39,539 --> 00:52:42,200
+výsledoval, že to bylo, že pre kvapení.
+
+612
+00:52:42,840 --> 00:52:45,520
+A tým, že tomu James Vebogumu
+teleskopu bude vlastne tika,
+
+613
+00:52:54,000 --> 00:52:59,020
+úplne, že aj je zís. Také sezotrochú bojí,
+ja vlastne zosambo nejšich těch diskúzi,
+
+614
+00:52:59,060 --> 00:53:04,096
+o tom boju, o tom kolik, bude na co,
+kolik ho dien pozorovániče, všie každéch se
+
+615
+00:53:04,136 --> 00:53:09,080
+pozorováco svoje. A mnásem z toho
+býjem, že vlastne tiskúpili, byli
+
+616
+00:53:09,120 --> 00:53:10,395
+strašne konzerov
+
+617
+00:53:17,500 --> 00:53:22,749
+Po 20 letech, proste a 10 miliardách, aby
+sme měli nejaký vysledek, a to dle bude
+
+618
+00:53:22,789 --> 00:53:28,229
+učí za rúčení, tam nesobude, no
+vydiotou už, jako nějaký super odvážní plány,
+
+619
+00:53:28,269 --> 00:53:31,680
+by rozhodně bychem to
+první oroku se zamítalit.
+
+620
+00:53:31,720 --> 00:53:35,320
+Ale zase na druhú strouslap, tako
+je že bude viděž to všechno funguje,
+
+621
+00:53:42,500 --> 00:53:47,618
+No možno apřídujne začátku
+ale razodne nejsou planovanie
+
+622
+00:53:47,658 --> 00:53:49,138
+nečakáne. Jej, jasne.
+
+623
+00:53:49,178 --> 00:53:54,220
+A ty s toštoško nastroť, daže asi pre
+mnohý jeden z nejhas silnocešý objau,
+
+624
+00:53:54,260 --> 00:53:57,414
+ktorý moľa prines tento teleskobie objomý
+
+625
+00:54:04,500 --> 00:54:09,927
+No a si bychom viděli nejaký znaký
+čeba v atmosférze, že jsou tam nejaký tak
+
+626
+00:54:09,967 --> 00:54:14,947
+som nežštřeškaj bio-markly, že tam
+je napříka CO2, zároveň je tam metá,
+
+627
+00:54:14,987 --> 00:54:19,876
+zároveň je tam voda, zároveň je
+tam ozón, týchle veci jsou relativně
+
+628
+00:54:19,916 --> 00:54:24,846
+reaktivní spolo, takže kdyby tam
+náhodou vznikli tak zreagujú, ako
+
+629
+00:54:28,000 --> 00:54:29,602
+zrejagojo, už tam potom nebudou.
+
+630
+00:54:29,642 --> 00:54:33,845
+Takže to, že bychom vyděli pří tomno všech
+těnstěch bio-marku na jedno bybela, ja s
+
+631
+00:54:33,885 --> 00:54:39,065
+nás nám kato, že tam negrésovňachý
+pravichky, který tam produkojo metán,
+
+632
+00:54:39,105 --> 00:54:41,100
+nebo sopky, který prouvkou c.
+
+633
+00:54:41,140 --> 00:54:44,909
+O 2 připadně je z tana
+kávoda, ozón, že tam prost
+
+634
+00:54:51,500 --> 00:54:55,857
+v životie výmenom to, co pozorujem taj na
+zemy, že vlastne našie přestava v životie
+
+635
+00:54:55,897 --> 00:54:57,760
+je taková, co vidíme tady kolem sebe.
+
+636
+00:54:57,800 --> 00:55:02,221
+Takže se v ostatě snážíme na inť život
+podobnej tomu na zemy, proto se hledajte
+
+637
+00:55:02,261 --> 00:55:07,710
+plnetej v tak zvaných obywatelných
+zônaach, kde tam nenávne a nie tak moc horobov,
+
+638
+00:55:07,750 --> 00:55:09,302
+ani tak moc zjemala
+
+639
+00:55:15,000 --> 00:55:17,833
+takto se snažíme na jednesu porobníno,
+ale je ako, jak to bero, možná, uvidí, tam
+
+640
+00:55:17,873 --> 00:55:23,204
+bude mňa tý znamky,
+nečištin, ale vej, nejaký fre, no,
+
+641
+00:55:23,244 --> 00:55:28,533
+ale myste msi, že pohkudstam,
+jaký taký znamky bude tak to bude
+
+642
+00:55:28,573 --> 00:55:31,400
+nejaké, ako v životná
+verycenia, taký základní úrovní,
+
+643
+00:55:38,500 --> 00:55:40,960
+a se vyspila, a se li zace s
+visilačkama, že by chom je za hlidlý.
+
+644
+00:55:41,000 --> 00:55:45,960
+Pozok jase keby, proksime
+kentavori kopia zeme, ale...
+
+645
+00:55:46,000 --> 00:55:50,960
+5-10 roku do zadu, tak by sme
+tam asi nevidiali nicou, kde?
+
+646
+00:55:51,000 --> 00:55:56,415
+Kde da nic okrem to, že by tam ona
+preklasy silniki sliková, a atmosfera, klo by
+
+647
+00:55:56,455 --> 00:55:57,960
+jase bez toho života?
+
+648
+00:55:58,000 --> 00:56:03,093
+Ja Vlastne, co jsem se ba
+
+649
+00:56:03,133 --> 00:56:07,935
+veľsly dma, který môvely votom, jak vznik
+v život na zemé tak vlastne, ten život v
+
+650
+00:56:07,975 --> 00:56:13,207
+zniklu eštěm dawno přetím než byla
+kislíkova atmosfera, a že ten kislíke ako až
+
+651
+00:56:13,247 --> 00:56:17,200
+prodúk tvšiech těch breberek
+a roztinek tedy tady žili.
+
+652
+00:56:17,400 --> 00:56:19,477
+Takže se postupný, postupný
+
+653
+00:56:25,500 --> 00:56:29,235
+zniklú in je kolikrat a pak zastanávilať
+a cennatí základních rozodních nebyl v
+
+654
+00:56:29,275 --> 00:56:34,455
+bezpoľodnej tomu, jak
+vypadále ska, tak nevím
+
+655
+00:56:34,495 --> 00:56:37,040
+se s neco čekáte.
+
+656
+00:56:37,080 --> 00:56:42,246
+Tak zemaví bocipoval čo možno
+udziesiňo ve domu, že to nieľa,
+
+657
+00:56:42,286 --> 00:56:47,572
+takže máš planetu a na niej
+život, ale tam je kompliková na spetna
+
+658
+00:56:49,700 --> 00:56:54,580
+A ešte druhá, a dôležda vysie, ako co
+se taky bejtím, že se v mn skúmate,
+
+659
+00:56:54,620 --> 00:56:59,928
+závisí vlastnostiť, týponeť na
+vlastnostiť hvězdí, týmáteckých
+
+660
+00:56:59,968 --> 00:57:03,900
+hvězdí, protože tak hvězdám, že
+bejte, tepčím na vybuchovat občas
+
+661
+00:57:12,500 --> 00:57:16,360
+a môže tam ten život do
+zdobřesterelyzovat, čo je vám přiběli v jasých výbuchů.
+
+662
+00:57:16,400 --> 00:57:20,280
+Takže je to také není úplně, a s
+ní zároveň, a se takéch koch típ
+
+663
+00:57:20,320 --> 00:57:25,323
+pozorováň, kso poved je na
+konet skoro to nejmenší, a vsem se
+
+664
+00:57:25,363 --> 00:57:27,880
+dívildo, jakich detalusov s chopnídi dí
+
+665
+00:57:36,000 --> 00:57:39,294
+zmiený a nevročných období nebo jesli tam
+jsou skáli, nebo vysitám je voda podatú,
+
+666
+00:57:39,334 --> 00:57:43,583
+jak se do odráží, nebo je chcúsvětľé
+odráží, nebo jesli tam jsou nějaký výry
+
+667
+00:57:43,623 --> 00:57:48,986
+věterní, nebo takhle do robnosti, a to
+jsou prostě miliard tň z jasným, a teda
+
+668
+00:57:49,026 --> 00:57:49,928
+tady toto z
+
+669
+00:57:59,500 --> 00:58:01,960
+Vydíme, tak do slova.
+
+670
+00:58:02,000 --> 00:58:04,960
+Morňo. No a boľas ne tie da.
+
+671
+00:58:05,000 --> 00:58:07,960
+Vžimto vôtoľsko ma funguvať 10-rokov.
+
+672
+00:58:08,000 --> 00:58:09,960
+Chistál sa aj výzáku 10-rokov.
+
+673
+00:58:10,000 --> 00:58:14,171
+V čo sa da vytučiže už sa
+chistá, a je niečo čo pred je ponom.
+
+674
+00:58:14,211 --> 00:58:15,960
+Takže, a ke sú plany po.
+
+675
+00:58:16,000 --> 00:58:19,846
+Tak jeden taký konkrétní
+plán je ďalekoho laterise
+
+676
+00:58:23,000 --> 00:58:24,460
+Ďastnoděšte zmeniach.
+
+677
+00:58:24,500 --> 00:58:29,460
+To je obrovský dalekoľať na pravena
+
+678
+00:58:29,500 --> 00:58:33,460
+optickú a úvé oblast spectra.
+
+679
+00:58:33,500 --> 00:58:38,127
+Ale myslím, že idí aj do
+infračerveny, že úvé optikáť
+
+680
+00:58:38,167 --> 00:58:40,460
+infračerveny dalekoľať.
+
+681
+00:58:40,500 --> 00:58:45,500
+Súd veversie
+jednamenšia, jedna omnoho večia.
+
+682
+00:58:46,500 --> 00:58:51,876
+stáby ale niekoniečne veľa
+peniazi, takže ho asi ještáksko
+
+683
+00:58:51,916 --> 00:58:56,960
+ro neuvydíme, ale je to jeden
+veľmi veľmi konkrétný plan.
+
+684
+00:58:57,000 --> 00:59:02,372
+Na kedy som si čítálebo,
+vlastne ti čo na vrhu jutú to misí,
+
+685
+00:59:02,412 --> 00:59:07,525
+ten tým vydal akúsi kníšku, kde
+ukazujú, že čo všetko sa z tým
+
+686
+00:59:07,565 --> 00:59:12,634
+ďalekoho dom bude daj ro Čo
+
+687
+00:59:12,674 --> 00:59:17,984
+napríklad, že jem se vdovidí takme na
+hranicu v esmíru, tak čo me toto tento
+
+688
+00:59:18,024 --> 00:59:19,460
+lepší? Abo iní?
+
+689
+00:59:19,500 --> 00:59:24,460
+Napríklad na výskum exoplané čošetko
+sa dozviem je od ich exoplanetach.
+
+690
+00:59:24,500 --> 00:59:28,808
+A myslím si, že ta
+ambiciozníšia verzi a to, ktorí daleko hlad
+
+691
+00:59:38,400 --> 00:59:42,800
+Tady sa vyniesdové smiru v ráj
+elón novým maskovým staršipom.
+
+692
+00:59:43,800 --> 00:59:48,000
+Tým si dál normáne
+vypracovate na to aj na vrch.
+
+693
+00:59:48,600 --> 00:59:52,000
+Já sem si by si, že by je neli
+postoje domikovéť na v měsice.
+
+694
+00:59:52,200 --> 00:59:57,297
+No od ráce in strénmí strénmí
+strénmí strénmí strénmí str favorit.
+
+695
+00:59:57,337 --> 01:00:01,576
+Mnej větší favorit oto měšte včestupožánou
+skláde je gravidá, detektor gravidášních
+
+696
+01:00:01,616 --> 01:00:06,180
+výmta Eliza, ktorý zhoditři, kôby je sa
+tady, který by měli funguvat, jako obří
+
+697
+01:00:06,220 --> 01:00:07,511
+interferometr.
+
+698
+01:00:07,551 --> 01:00:12,369
+To měloť je dovesmý vých, a
+jsem koňo do školi, a vatí doby je
+
+699
+01:00:20,500 --> 01:00:24,915
+a bočia zvyhraje, dachka som dach venuši,
+bočia zvin vyhraje, nie so inýhle, ale to
+
+700
+01:00:24,955 --> 01:00:26,080
+le se fultu odsunuje.
+
+701
+01:00:26,120 --> 01:00:30,360
+Neosobný, ako velký o fan dův
+černých děrto, strášne što je.
+
+702
+01:00:30,400 --> 01:00:32,040
+I když teraz pracujú na džem sveby.
+
+703
+01:00:32,080 --> 01:00:37,003
+Ale Liza je už teraz chvalená
+misia L3S, takže učite politi do v
+
+704
+01:00:44,000 --> 01:00:48,360
+Ok, co som pozrénávním, že aký
+rogal je to teda, že máme ko počasu.
+
+705
+01:00:48,400 --> 01:00:53,287
+A tami šanglám také, že mášte dať 300
+týklévalmi pre snymére vzdialnost, zmedí se
+
+706
+01:00:53,327 --> 01:00:57,955
+bôla teď, že takéť, ktorou je týkto
+rávitečná vôna, ktorá, ako kedy zmení, ktorá
+
+707
+01:00:57,995 --> 01:00:59,342
+zmení ich vzdial
+
+708
+01:01:08,000 --> 01:01:13,409
+Dokážou změřit vzahovzach,
+dukažou zachydit grautešní
+
+709
+01:01:13,449 --> 01:01:15,960
+vynu omnohem děčí delce v novi.
+
+710
+01:01:16,000 --> 01:01:21,210
+Tože vlastně tedyte, ktorým měně
+jako rozdíl, ampytud mesi sebo ve dôvô
+
+711
+01:01:21,250 --> 01:01:25,462
+mnistej, takže i když
+vlastné, ktorým vštiri kilometry
+
+712
+01:01:31,500 --> 01:01:36,749
+Nerozdíl, těch výšek mezi tím,
+překadřeva ten maksimum, že byť vám
+
+713
+01:01:36,789 --> 01:01:41,616
+lohem vejš, nerozdíl, ampidud mňa byť
+mňa věčí, niekde dálnej jsou tyštély
+
+714
+01:01:41,656 --> 01:01:46,300
+kilometry, ale vlastně, už
+stejšme na země, tak vidíme je na
+
+715
+01:01:55,540 --> 01:02:00,960
+strášne, ako dlouhovlní,
+gravitášní vlnej, který se ma, že
+
+716
+01:02:01,000 --> 01:02:06,315
+je sa prvý, jako mžu vznikat, při
+strášť, co je 2 supermasi v ľčerným djer, i se
+
+717
+01:02:06,355 --> 01:02:09,646
+strázejť 2 galáksie, a
+co se vlastne neví, je
+
+718
+01:02:18,000 --> 01:02:21,563
+Pravě, kultím černým býram, že vlastně
+tu o motu zase vodnáky v závosti Ďesný
+
+719
+01:02:21,603 --> 01:02:25,840
+vycháznej ven. Takže tají sa o ty teorie
+toľškú nejsou si úplně i stíce, spravně.
+
+720
+01:02:25,880 --> 01:02:30,705
+Ocám stobenáno to moho odpovědět
+a všitaľšie dobrý vule, by sme
+
+721
+01:02:30,745 --> 01:02:32,803
+vlastne mohé vidět in jáky
+
+722
+01:02:41,500 --> 01:02:45,931
+No, bude povedal, že je to drahý
+teleskop, ale po rônání a nemť na tladmina armádu
+
+723
+01:02:45,971 --> 01:02:47,760
+takýto míč. Tak mér.
+
+724
+01:02:47,800 --> 01:02:51,395
+To je to spôvedal, že ten dál, že to je
+skobý stalo efektivní, že nekonieště vela
+
+725
+01:02:51,435 --> 01:02:55,260
+peniazá to nie, že nekonieštme, že kolko
+vlastne peniazdy býstal takýto teleskop,
+
+726
+01:02:55,300 --> 01:02:56,223
+ktorý by úpl
+
+727
+01:03:05,000 --> 01:03:07,460
+Tak ročný rozpočet celé
+nása je 20 miliardoláru.
+
+728
+01:03:07,500 --> 01:03:12,603
+Teraz a to trošku na vyšuje,
+kvôli projektu Artemis, ale
+
+729
+01:03:12,643 --> 01:03:15,460
+stabilně okô 20 miliardoláru.
+
+730
+01:03:15,500 --> 01:03:20,478
+Za tie posledné roky odkedy
+bol nejdeľkolečným sa veba
+
+731
+01:03:20,518 --> 01:03:25,773
+schvalený. Problem stový soko
+ocenou je, že v rámci nása je niekolko
+
+732
+01:03:25,813 --> 01:03:27,500
+tých vedieckých misí.
+
+733
+01:03:28,500 --> 01:03:33,814
+a tým, že sa ta povodna cena tohto
+dialékoľa dustálen výháca výhác navišovala, tým
+
+734
+01:03:33,854 --> 01:03:37,340
+pádom sa mnohozávých missí neuskutočnilo.
+
+735
+01:03:37,380 --> 01:03:42,732
+Takže niekto rý astrofizícii začali, že
+
+736
+01:03:42,772 --> 01:03:47,895
+im sa dialékoľa, že im sa veba nie
+mať rád, lebo im to znamožňovalo
+
+737
+01:03:47,935 --> 01:03:52,893
+urobiť Takže to je
+
+738
+01:03:52,933 --> 01:03:57,765
+problém stôceno, že to je
+treba si porônavať z armádo, ale z
+
+739
+01:03:57,805 --> 01:04:03,147
+osidkymi djalšimi projektami, ktoré
+na sam potom nebudem ostiu robiť, lebo
+
+740
+01:04:03,187 --> 01:04:05,460
+sa rozhodnou robit nečovala mi velke.
+
+741
+01:04:05,500 --> 01:04:10,127
+Takže to je tieš o távská, aby veami
+
+742
+01:04:10,167 --> 01:04:14,500
+velke projekty nie zne možnili.
+
+743
+01:04:15,500 --> 01:04:18,260
+prožnili existenciutých malých.
+
+744
+01:04:18,300 --> 01:04:23,601
+Existenciú velkého množstva, rozných
+malých projektov, že potom aby vlastně a
+
+745
+01:04:23,641 --> 01:04:28,410
+jasronom je bola taká diverzna
+veda ako, ako je a nebysme se
+
+746
+01:04:28,450 --> 01:04:31,160
+nesustredili len na jednu, jako oblasti.
+
+747
+01:04:31,200 --> 01:04:36,231
+Je pravda, že tím, jak to stoji strášne
+môdstak, každý jinej daleko hletri, by
+
+748
+01:04:39,000 --> 01:04:42,671
+by na sada vnozabila z tím, že ako z
+takhle prútu a hý to nejak zistuje a poště 20
+
+749
+01:04:42,711 --> 01:04:46,380
+let spoždín, to by je prostě zrušil a
+ten projekt, ale tady už si to ne dovolí,
+
+750
+01:04:46,420 --> 01:04:51,060
+protože už to narvali tolik peniect,
+že už prostě to vchcienia dokončí.
+
+751
+01:04:51,100 --> 01:04:52,540
+Tu bych to feo.
+
+752
+01:04:52,580 --> 01:04:53,860
+Si se sveval.
+
+753
+01:04:53,900 --> 01:04:55,208
+No byraj, tak cht
+
+754
+01:05:02,500 --> 01:05:05,460
+Tak no se to nedá úplně vyčerpati,
+ale my si musí, že to nad nestačilo.
+
+755
+01:05:05,500 --> 01:05:10,184
+Teraz, neviem, že už do trazem sa, mi
+obávali oto ako co s ním dopadne, prazuš sa
+
+756
+01:05:10,224 --> 01:05:15,307
+teda, že si posluchá, kváci budú
+obávať, že, kvšetko prebech nepodľa, podľa
+
+757
+01:05:15,347 --> 01:05:18,572
+predstalo, podľa
+planou a teda tu to je seň
+
+758
+01:05:26,500 --> 01:05:31,760
+nadho čekávání, vždy, věcí, vždy,
+vždy, ale ľipneš si přece v zalej, co z
+
+759
+01:05:31,800 --> 01:05:36,460
+ľšieť je kvědé zkôjú, což nejíti
+v úť, to je technologia za těl.
+
+760
+01:05:36,500 --> 01:05:38,460
+Váte dleň, poprasída.
+
+761
+01:05:38,500 --> 01:05:39,300
+Teď
+
+762
+01:05:50,000 --> 01:05:54,511
+Aš je to vtedy musí prebenu tědén
+uspešných start aríane 5 rakety, a keď je ten
+
+763
+01:05:54,551 --> 01:05:58,960
+prebenie úspešně tak vtedy budí je
+majčém svebu, ten je selé númyslím.
+
+764
+01:05:59,000 --> 01:06:04,028
+Môň se vlastne bálý ženia, káto
+raketa spodla, tedy či nebo se nepovedven
+
+765
+01:06:04,068 --> 01:06:04,718
+start,
+
+766
+01:06:13,500 --> 01:06:16,500
+Je to ledro, to ledro
+býuste, to ledro býuste.
+
+767
+01:06:17,750 --> 01:06:19,710
+Tak, bude môde môde bude brytť palce.
+
+768
+01:06:19,750 --> 01:06:22,210
+Jakú zapozváľme, a
+takým bude ťačným palce.
+
+769
+01:06:22,250 --> 01:06:24,160
+Tak, môde si vám
+zasiedko, teda, z čím si...
+
+770
+01:06:24,200 --> 01:06:29,580
+Ďakujem všetkým vám,
+ktorý nás dúfám sledujete na
+
+771
+01:06:29,620 --> 01:06:34,404
+YouTube-ových kanalo, už na
+viacerých a keď nie tak možno se nás
+
+772
+01:06:34,444 --> 01:06:38,879
+vypočujete ale v tedystě Počujete ale v
+tedy stí okrátenie všetký zamave grafiký
+
+773
+01:06:38,919 --> 01:06:43,710
+výde a do plniúce obrasky.
+Odporučam, co to sledovať ako videokast.
+
+774
+01:06:43,750 --> 01:06:44,960
+Tak to voláme.
+
+775
+01:06:45,000 --> 01:06:50,135
+Vidkast. Kde je dálete da neviem čo
+nechci se vám pozerať, tak s tomo ště
+
+776
+01:06:50,175 --> 01:06:53,385
+vypočutne skor. A dúfom,
+že vlastá to te ma zau
+
+777
+01:07:00,000 --> 01:07:04,252
+Priebeho týžňov a k sa to odloži tak
+mesia covú býmáho teda víst a v priebeho roka
+
+778
+01:07:04,292 --> 01:07:08,580
+býmáho začeť objavováť
+vysmětága kôzmodote raz nepoznali.
+
+779
+01:07:08,620 --> 01:07:12,100
+Takže, děkuje mývám za
+pozornost a majte sa pekne.
+
+780
+01:07:23,500 --> 01:07:25,960
+Mílujeme veda.
+
+781
+01:07:26,000 --> 01:07:31,116
+Speciálne v týchto časoch keď fakty a i
+hvediecké vysvetlenie sú také potrebné, na
+
+782
+01:07:31,156 --> 01:07:36,560
+že vedecko popularizacní podkazům je
+naponjený pre s nejakými to faktami, každý ty
+
+783
+01:07:36,600 --> 01:07:41,960
+hděň pre ináša prehled tých
+najzaujímavéších nových objavou zo sveta vedy,
+
+784
+01:07:42,000 --> 01:07:43,000
+vychad za kaž
+
+785
+01:07:48,380 --> 01:07:51,140
+pre vás čítam jatte da, to máš prokopčák.
+
+786
+01:07:51,180 --> 01:07:55,889
+Podká zoom najdětě nielen, bo
+vysielani rádie FM, ale aj bo všetkých
+
+787
+01:07:55,929 --> 01:08:00,380
+podkastových aplikací a hná
+spotifaj, alebo všetky epizody pekne.
+
+788
+01:08:00,420 --> 01:08:02,958
+Zasebou na webe smé, podkájska, l
