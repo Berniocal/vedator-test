@@ -1,0 +1,6128 @@
+1
+00:00:01,309 --> 00:00:03,329
+[hudba]
+
+2
+00:00:08,515 --> 00:00:10,535
+[hudba]
+
+3
+00:00:12,680 --> 00:00:16,760
+>> Od svetla cez lad až po zrkadla. Veda
+
+4
+00:00:14,960 --> 00:00:18,400
+nás obklopuje na každom kroku. Vitajte
+
+5
+00:00:16,760 --> 00:00:20,440
+pri vedeckom podcaste, v ktorom sa
+
+6
+00:00:18,400 --> 00:00:21,640
+budeme rozprávať o vede a prírode okolo
+
+7
+00:00:20,440 --> 00:00:23,120
+nás. Moje meno je Jozef.
+
+8
+00:00:21,640 --> 00:00:24,960
+>> Ja som Samuel.
+
+9
+00:00:23,120 --> 00:00:26,720
+>> Tento podcast vychádza v spolupráci so
+
+10
+00:00:24,960 --> 00:00:28,640
+SME. Ja si len skontrolujem, či nahrávam
+
+11
+00:00:26,720 --> 00:00:31,240
+na dobrý mikrofón. Dobre. Nahrávam.
+
+12
+00:00:28,640 --> 00:00:31,880
+Samko, ako sa máš? Nech dnešný nobelový
+
+13
+00:00:31,240 --> 00:00:34,240
+deň.
+
+14
+00:00:31,880 --> 00:00:35,880
+>> Eh, dobre sa mám. Bol fajn víkend, pekné
+
+15
+00:00:34,240 --> 00:00:37,520
+počasie, ktoré sme
+
+16
+00:00:35,880 --> 00:00:39,600
+využili na to, že sme v podstate oba dni
+
+17
+00:00:37,520 --> 00:00:40,240
+robili doma poriadky.
+
+18
+00:00:39,600 --> 00:00:42,320
+>> Po
+
+19
+00:00:40,240 --> 00:00:44,120
+>> Tak, to sme obaja.
+
+20
+00:00:42,320 --> 00:00:44,480
+>> Tiež to bolo také, že raz raz za čas
+
+21
+00:00:44,120 --> 00:00:45,160
+treba.
+
+22
+00:00:44,480 --> 00:00:48,240
+>> Poriadok.
+
+23
+00:00:45,160 --> 00:00:48,240
+>> Ale poriadkový víkend.
+
+24
+00:00:50,320 --> 00:00:54,520
+>> Nikol došla pozdraviť do podcastu.
+
+25
+00:00:53,040 --> 00:00:56,330
+>> Ahoj. Si na YouTube.
+
+26
+00:00:54,520 --> 00:00:56,985
+>> Ježiš, som nie.
+
+27
+00:00:56,330 --> 00:00:58,440
+>> [smrkanie]
+
+28
+00:00:56,985 --> 00:01:00,160
+[smiech]
+
+29
+00:00:58,440 --> 00:01:01,920
+>> Čau, čau.
+
+30
+00:01:00,160 --> 00:01:03,320
+>> Ale stretli sme sa dneska sme si obaja
+
+31
+00:01:01,920 --> 00:01:06,720
+išli zabehať a
+
+32
+00:01:03,320 --> 00:01:08,200
+>> Hej, ale nejako mi to nevyšlo si zabehať
+
+33
+00:01:06,720 --> 00:01:10,600
+s tebou, ale
+
+34
+00:01:08,200 --> 00:01:12,120
+takže tak. Ale krásne bolo. Super. Ale
+
+35
+00:01:10,600 --> 00:01:15,720
+pozdravujem všetkých, čo boli na Bielom
+
+36
+00:01:12,120 --> 00:01:17,360
+Kríži. Bolo bolo to dneska krásny deň.
+
+37
+00:01:15,720 --> 00:01:20,760
+>> My sme išli tak hodinku pred tebou a
+
+38
+00:01:17,360 --> 00:01:22,880
+bolo vtedy výrazne menej ľudí ešte, ako
+
+39
+00:01:20,760 --> 00:01:26,160
+keď už si išiel ty.
+
+40
+00:01:22,880 --> 00:01:27,840
+>> Ale stále bolo veľmi malinko ľudí, že že
+
+41
+00:01:26,160 --> 00:01:30,920
+čo som bol milo prekvapený.
+
+42
+00:01:27,840 --> 00:01:33,280
+>> Ráno už je zima, takže podľa mňa ľudia
+
+43
+00:01:30,920 --> 00:01:35,160
+odkladajú to, že kedy vyraziť z domu.
+
+44
+00:01:33,280 --> 00:01:37,800
+Naozaj to bolo kedysi, že o 8:00 o 9:00
+
+45
+00:01:35,160 --> 00:01:39,000
+ráno sa ten les splnil a teraz
+
+46
+00:01:37,800 --> 00:01:40,960
+A však
+
+47
+00:01:39,000 --> 00:01:43,320
+je to super a zajtra nás čaká opekačka.
+
+48
+00:01:40,960 --> 00:01:45,200
+To už pre ľudí, ktorí nás počujú, je
+
+49
+00:01:43,320 --> 00:01:48,640
+otázka minulosti.
+
+50
+00:01:45,200 --> 00:01:51,000
+12. októbra to vyzerá, že konečne po
+
+51
+00:01:48,640 --> 00:01:52,600
+Ty si ju podľa mňa prvýkrát sľúbil ešte
+
+52
+00:01:51,000 --> 00:01:54,560
+>> Ty si ju podľa mňa sľubuješ ešte, že v
+
+53
+00:01:52,600 --> 00:01:56,160
+apríli alebo v máji niekedy ešte, že
+
+54
+00:01:54,560 --> 00:01:58,080
+pred začiatkom leta, ale potom bolo
+
+55
+00:01:56,160 --> 00:02:00,240
+strašne dlho sucho. spomenul ešte
+
+56
+00:01:58,080 --> 00:02:03,400
+skorej. Hej, ale bolo strašne dlho
+
+57
+00:02:00,240 --> 00:02:04,880
+nepršalo a dali zákaz zakladať ohne a
+
+58
+00:02:03,400 --> 00:02:08,080
+veľmi dlho platil zákaz zakladať ohne,
+
+59
+00:02:04,880 --> 00:02:10,080
+tak nebudeme takto provokovať a už nie
+
+60
+00:02:08,080 --> 00:02:11,880
+je, takže už môžeme ísť
+
+61
+00:02:10,080 --> 00:02:13,080
+slobodne si opekať, takže to len teda
+
+62
+00:02:11,880 --> 00:02:15,120
+vlastne ďakujeme tým, ktorí došli,
+
+63
+00:02:13,080 --> 00:02:17,560
+dúfame, že to všetko dopadlo, dopadlo
+
+64
+00:02:15,120 --> 00:02:19,840
+fajn. A ako si povedal,
+
+65
+00:02:17,560 --> 00:02:20,880
+>> rok máme také stálice.
+
+66
+00:02:19,840 --> 00:02:22,560
+>> No,
+
+67
+00:02:20,880 --> 00:02:25,080
+áno, áno, že ako si povedal, bol teraz
+
+68
+00:02:22,560 --> 00:02:27,200
+Nobelovský týždeň a ľudia to už snáď
+
+69
+00:02:25,080 --> 00:02:29,341
+vedia kvôli tomu, že sme konečne vydali
+
+70
+00:02:27,200 --> 00:02:30,000
+načas Ignobelove ceny.
+
+71
+00:02:29,341 --> 00:02:31,959
+>> [vzdychanie]
+
+72
+00:02:30,000 --> 00:02:32,520
+>> Pred Nobelovkami asi štyri roky po sebe
+
+73
+00:02:31,959 --> 00:02:35,840
+sme to vydali.
+
+74
+00:02:32,520 --> 00:02:37,520
+>> podarilo viacejkrát vydať ako Nobelove.
+
+75
+00:02:35,840 --> 00:02:38,000
+Raz sme aj Nobelove ceny v januári
+
+76
+00:02:37,520 --> 00:02:39,800
+vydávali.
+
+77
+00:02:38,000 --> 00:02:41,560
+>> Hej, že až ďalší rok. To bol to bol
+
+78
+00:02:39,800 --> 00:02:43,480
+trapas, hej, že strašne veľa vecí sa
+
+79
+00:02:41,560 --> 00:02:46,360
+dialo a ešte aj Science Award tento
+
+80
+00:02:43,480 --> 00:02:49,400
+týždeň a mali sme tam vtedy rozhovor
+
+81
+00:02:46,360 --> 00:02:49,760
+o tých fotovoltaických článkoch.
+
+82
+00:02:49,400 --> 00:02:52,160
+>> Uhm.
+
+83
+00:02:49,760 --> 00:02:54,400
+>> Takže takže veľa vecí sa dialo ten
+
+84
+00:02:52,160 --> 00:02:57,880
+minulý október a teraz to stíhame nahrať
+
+85
+00:02:54,400 --> 00:02:59,880
+Nobelovky. Ty to vôbec sleduješ ako ako
+
+86
+00:02:57,880 --> 00:03:02,239
+vedec alebo je to také, že
+
+87
+00:02:59,880 --> 00:03:05,080
+>> nie. Akože nie som, že prilepený, že
+
+88
+00:03:02,239 --> 00:03:07,080
+čakám teraz na to nejaké vyhlásenie, ale
+
+89
+00:03:05,080 --> 00:03:08,560
+vždy si určite o tom prečítam, akože to
+
+90
+00:03:07,080 --> 00:03:10,400
+je
+
+91
+00:03:08,560 --> 00:03:12,120
+okrem ekonomiky, lebo tú nepovažujem za
+
+92
+00:03:10,400 --> 00:03:13,519
+Nobelovu cenu, takže
+
+93
+00:03:12,120 --> 00:03:15,120
+>> A v čase nahrávania ešte nie je
+
+94
+00:03:13,519 --> 00:03:17,480
+zverejnená, takže ani nám ľudia nemôžu
+
+95
+00:03:15,120 --> 00:03:18,959
+vytýkať, že že sme ju nezahrnuli.
+
+96
+00:03:17,480 --> 00:03:20,519
+Ja mám trošku pocit, že my vo vedeckej
+
+97
+00:03:18,959 --> 00:03:21,760
+komunite sme s tým viac-menej nadšení,
+
+98
+00:03:20,519 --> 00:03:23,560
+aj keď teda, že nie všetci z tých
+
+99
+00:03:21,760 --> 00:03:25,800
+Nobeloviek, ale to je potom presne také,
+
+100
+00:03:23,560 --> 00:03:28,400
+že keď sa pýtaš niekoho mimo, tak
+
+101
+00:03:25,800 --> 00:03:30,040
+o tom vedia, že sa to že sa to deje a
+
+102
+00:03:28,400 --> 00:03:31,760
+sem-tam niekto zachytí nejaký článok,
+
+103
+00:03:30,040 --> 00:03:34,160
+ale že to nie je úplne také, že by tým
+
+104
+00:03:31,760 --> 00:03:35,440
+celé ľudstvo žilo tento týždeň. Niečo je
+
+105
+00:03:34,160 --> 00:03:38,360
+to možno podobné ako
+
+106
+00:03:35,440 --> 00:03:40,360
+>> že to by to by sme mohli, no. Hej, ale
+
+107
+00:03:38,360 --> 00:03:42,600
+>> ale že to ako Oskar, že pre ľudí z toho
+
+108
+00:03:40,360 --> 00:03:44,320
+fachu je to asi veľká vec a pre ľudí,
+
+109
+00:03:42,600 --> 00:03:46,000
+ktorí sú vedľa, niekedy si všimneš, keď
+
+110
+00:03:44,320 --> 00:03:47,560
+ti tvoj obľúbený film vyhral alebo čo,
+
+111
+00:03:46,000 --> 00:03:49,800
+ale ináč
+
+112
+00:03:47,560 --> 00:03:51,519
+>> Hej, jednu dobu som bol taký do filmov a
+
+113
+00:03:49,800 --> 00:03:53,440
+tak, eh, som si aj pozeral niektoré
+
+114
+00:03:51,519 --> 00:03:56,200
+Oskarove show a to aj také zaujímavé,
+
+115
+00:03:53,440 --> 00:03:59,160
+vieš, že pozerať to live, a, eh,
+
+116
+00:03:56,200 --> 00:04:01,680
+napríklad ten rok, ako vyhral a nevyhral
+
+117
+00:03:59,160 --> 00:04:02,920
+La La Land, a dali to potom inému filmu,
+
+118
+00:04:01,680 --> 00:04:05,160
+tak to som si hovoril, že, ah, to je
+
+119
+00:04:02,920 --> 00:04:07,160
+celkom vtipné. Asi na Oscar, asi na
+
+120
+00:04:05,160 --> 00:04:08,600
+Nobelovkách sa toto moc nestáva.
+
+121
+00:04:07,160 --> 00:04:10,360
+>> To sa stalo niekomu inému, [odkašľanie]
+
+122
+00:04:08,600 --> 00:04:11,120
+že, "Jaj, my sme vlastne mysleli iný
+
+123
+00:04:10,360 --> 00:04:12,080
+výskum."
+
+124
+00:04:11,120 --> 00:04:13,440
+>> Vieš čo, ale stávajú sa rôzne
+
+125
+00:04:12,080 --> 00:04:16,200
+kontroverzie, však už tá prvá cena,
+
+126
+00:04:13,440 --> 00:04:19,320
+ktorú budeme spomínať, eh,
+
+127
+00:04:16,200 --> 00:04:21,680
+bola za výskum, ktorý, ktorý má že štyri
+
+128
+00:04:19,320 --> 00:04:23,320
+výrazné mená, ktoré sa mu venujú.
+
+129
+00:04:21,680 --> 00:04:24,320
+A Nobelovku vždy dostanú najviac traja
+
+130
+00:04:23,320 --> 00:04:28,560
+ľudia.
+
+131
+00:04:24,320 --> 00:04:30,840
+Takže, za optogenetiku dostali traja, a
+
+132
+00:04:28,560 --> 00:04:32,520
+hneď prvá otázka, keď bola tá, ja už
+
+133
+00:04:30,840 --> 00:04:35,160
+pozerám k tomu tie tlačovky, to sú ináč
+
+134
+00:04:32,520 --> 00:04:37,120
+jediné tlačovky, ktoré pozerám do roka,
+
+135
+00:04:35,160 --> 00:04:38,800
+sú tie Nobelovkové, tak prvá otázka
+
+136
+00:04:37,120 --> 00:04:41,120
+bola, že, a prečo nie aj ten štvrtý
+
+137
+00:04:38,800 --> 00:04:43,400
+človek, ktorý sa tomu venuje. Takže,
+
+138
+00:04:41,120 --> 00:04:46,240
+>> Myslíš si, že toto dakedy zmenia?
+
+139
+00:04:43,400 --> 00:04:48,880
+>> Nie. Eh, tým, že to všetko vychádza z,
+
+140
+00:04:46,240 --> 00:04:52,160
+vlastne, z vôle
+
+141
+00:04:48,880 --> 00:04:55,000
+Nobelovej, tak to proste fičí takto, nič
+
+142
+00:04:52,160 --> 00:04:56,560
+sa tam nemení, je veľa vecí, že
+
+143
+00:04:55,000 --> 00:04:58,800
+ja by som vyhodil proste Nobelovu cenu
+
+144
+00:04:56,560 --> 00:05:00,880
+za mier, myslí si to veľa ľudí, eh, lebo
+
+145
+00:04:58,800 --> 00:05:02,919
+je často veľmi spolitizovaná, a plus sa
+
+146
+00:05:00,880 --> 00:05:04,919
+ti veľmi ľahko môže stať, že udelíš
+
+147
+00:05:02,919 --> 00:05:06,680
+niekomu za niečo, a ten človek potom
+
+148
+00:05:04,919 --> 00:05:09,200
+začne robiť iné veci.
+
+149
+00:05:06,680 --> 00:05:11,000
+A vo vede sa ti to nestane kvôli tomu,
+
+150
+00:05:09,200 --> 00:05:13,000
+že, typicky ona sa skôr dáva za ten
+
+151
+00:05:11,000 --> 00:05:15,520
+objav, že dostanú nejakí ľudia, ale
+
+152
+00:05:13,000 --> 00:05:17,960
+dostaneš ju za objav toho a toho, a aj
+
+153
+00:05:15,520 --> 00:05:19,760
+tie vedecké sa párkrát stalo, že bol
+
+154
+00:05:17,960 --> 00:05:22,080
+udel, o, o, ocenený nejaký výskum, ktorý
+
+155
+00:05:19,760 --> 00:05:24,080
+bol neskôr vyvrátený.
+
+156
+00:05:22,080 --> 00:05:27,600
+Ale nie je to také poškodenie toho, ako
+
+157
+00:05:24,080 --> 00:05:29,160
+keď dáš Nobelovku niekomu za
+
+158
+00:05:27,600 --> 00:05:30,840
+za to, že pomohol
+
+159
+00:05:29,160 --> 00:05:32,240
+demokraciu dostať do nejakej krajiny, a
+
+160
+00:05:30,840 --> 00:05:35,040
+on sa potom stane diktátorom v tej
+
+161
+00:05:32,240 --> 00:05:36,960
+krajine, niečo na tento štýl.
+
+162
+00:05:35,040 --> 00:05:38,200
+A nejaké verzie tohto príbehu sa stali v
+
+163
+00:05:36,960 --> 00:05:39,080
+nedávnej minulosti, takže
+
+164
+00:05:38,200 --> 00:05:41,200
+>> budem ešte [odkašľanie] viacej
+
+165
+00:05:39,080 --> 00:05:43,840
+kontroverzný, aby som vyhodil aj
+
+166
+00:05:41,200 --> 00:05:44,919
+literatúru.
+
+167
+00:05:43,840 --> 00:05:47,000
+>> Áno.
+
+168
+00:05:44,919 --> 00:05:49,360
+Eh, aj keď, lebo to je tak, ako že
+
+169
+00:05:47,000 --> 00:05:52,160
+poviem to tak, keby si Nobel povedal, že
+
+170
+00:05:49,360 --> 00:05:55,880
+eh, Nobelovka za umenie, tak to je úplná
+
+171
+00:05:52,160 --> 00:05:59,320
+hlúposť proste a akože literatúra je
+
+172
+00:05:55,880 --> 00:06:01,840
+sub eh, kategória umenia, takže
+
+173
+00:05:59,320 --> 00:06:04,800
+neviem že prečo sa tvárime, že Nobelovka
+
+174
+00:06:01,840 --> 00:06:06,720
+za literatúru je niečo akože neviem ako
+
+175
+00:06:04,800 --> 00:06:09,440
+eh, akože uznávam určite tých autorov,
+
+176
+00:06:06,720 --> 00:06:10,720
+veď je to určite akože náročné to získať
+
+177
+00:06:09,440 --> 00:06:13,400
+>> Hovoríš o tom kvôli tomu, že Murakami
+
+178
+00:06:10,720 --> 00:06:14,480
+zase nedostal, že?
+
+179
+00:06:13,400 --> 00:06:16,600
+>> Vieš čo to
+
+180
+00:06:14,480 --> 00:06:19,760
+akože [smiech] to to má vôbec akože
+
+181
+00:06:16,600 --> 00:06:21,520
+nejaký tento eh, jeho PR alebo čo, ale
+
+182
+00:06:19,760 --> 00:06:23,280
+proste že
+
+183
+00:06:21,520 --> 00:06:26,200
+neviem príde mi to zvláštne, keby sa
+
+184
+00:06:23,280 --> 00:06:28,120
+Nobelove ceny za obrazy eh, rozdávali,
+
+185
+00:06:26,200 --> 00:06:28,400
+tak by to bolo všetci, že OK, no tak
+
+186
+00:06:28,120 --> 00:06:30,040
+super
+
+187
+00:06:28,400 --> 00:06:31,960
+>> To je pravda, aj keď ono sa to často
+
+188
+00:06:30,040 --> 00:06:33,640
+dáva za taký taký väčší prínos, že
+
+189
+00:06:31,960 --> 00:06:35,040
+nielen teda, že napísal peknú knižku,
+
+190
+00:06:33,640 --> 00:06:36,880
+ale že že
+
+191
+00:06:35,040 --> 00:06:38,000
+zachytil nejaké obdobie významné alebo
+
+192
+00:06:36,880 --> 00:06:40,480
+zachytila alebo
+
+193
+00:06:38,000 --> 00:06:42,760
+>> Hej, chápem, ale neviem podľa mňa na to
+
+194
+00:06:40,480 --> 00:06:45,240
+je skôr Pulitzerova cena alebo tak
+
+195
+00:06:42,760 --> 00:06:46,680
+>> že to je oveľa subjektívnejšie ako ako
+
+196
+00:06:45,240 --> 00:06:48,480
+tá, ale aj tá veda je v niečom veľmi
+
+197
+00:06:46,680 --> 00:06:50,240
+subjektívna, že prečo dostane tento rok
+
+198
+00:06:48,480 --> 00:06:51,120
+toto a nie niečo iné, tak sú to tiež
+
+199
+00:06:50,240 --> 00:06:53,680
+nejaké pocity
+
+200
+00:06:51,120 --> 00:06:55,840
+>> Áno, ale tam je jediná akože nie že
+
+201
+00:06:53,680 --> 00:06:58,919
+merateľná vec, ale vieš aspoň povedať,
+
+202
+00:06:55,840 --> 00:07:01,320
+že teda aspoň neviem o tom, že by niekto
+
+203
+00:06:58,919 --> 00:07:03,040
+vyhral vedeckú Nobelovku a niekto by
+
+204
+00:07:01,320 --> 00:07:05,640
+povedal, že no tak to bola úplná blbosť.
+
+205
+00:07:03,040 --> 00:07:07,960
+Akože áno, stalo sa, že za čo vyhrali
+
+206
+00:07:05,640 --> 00:07:12,200
+Nobelovky potom bolo preukázané, že to
+
+207
+00:07:07,960 --> 00:07:14,919
+nie je pravda a tak ďalej ale eh, nebolo
+
+208
+00:07:12,200 --> 00:07:17,280
+to, že nerobil výskum alebo proste len
+
+209
+00:07:14,919 --> 00:07:19,040
+sa tam nejako pretĺkol alebo proste
+
+210
+00:07:17,280 --> 00:07:21,720
+niečo také, čo nehovorím, že za
+
+211
+00:07:19,040 --> 00:07:24,400
+literatúru by takéto ceny dávali, ale
+
+212
+00:07:21,720 --> 00:07:26,600
+tam je možnosť získať takú takú cenu
+
+213
+00:07:24,400 --> 00:07:28,919
+proste. Vieš napísať jednu knihu, ktorú
+
+214
+00:07:26,600 --> 00:07:29,800
+keď si keď si obľúbia ľudia, tak zrazu,
+
+215
+00:07:28,919 --> 00:07:32,560
+že wow, že super
+
+216
+00:07:29,800 --> 00:07:35,640
+>> Áno, že bol že ideálny stav bol taký, že
+
+217
+00:07:32,560 --> 00:07:37,800
+Nobelovky nejako prekopať a tie ostatné
+
+218
+00:07:35,640 --> 00:07:39,440
+ceny potom ich možno robiť
+
+219
+00:07:37,800 --> 00:07:40,960
+hej, že odseparovať do niečoho iného a
+
+220
+00:07:39,440 --> 00:07:42,160
+to je úplne v poriadku, že mať iné veľké
+
+221
+00:07:40,960 --> 00:07:43,880
+ceny
+
+222
+00:07:42,160 --> 00:07:45,920
+a tie Nobelovky sa
+
+223
+00:07:43,880 --> 00:07:47,440
+>> by sme ešte mali matematiku.
+
+224
+00:07:45,920 --> 00:07:49,440
+>> No presne, že že dalo by sa si urobiť,
+
+225
+00:07:47,440 --> 00:07:51,880
+že päť vedeckých cien aj pekné, že to je
+
+226
+00:07:49,440 --> 00:07:54,160
+v takomto balíku a a malo by to taký ten
+
+227
+00:07:51,880 --> 00:07:56,120
+cveng, aký majú Nobelovky.
+
+228
+00:07:54,160 --> 00:07:57,400
+Keď Kip Thorne dostal Nobelovu cenu za
+
+229
+00:07:56,120 --> 00:07:59,600
+fyziku, tak on je ten typ človeka,
+
+230
+00:07:57,400 --> 00:08:02,240
+ktorému nezáleží na cenách, ale videl
+
+231
+00:07:59,600 --> 00:08:04,880
+som takú tú fotku, ktorá koluje, kde máš
+
+232
+00:08:02,240 --> 00:08:06,680
+taký ten album všetkých tých nositeľov.
+
+233
+00:08:04,880 --> 00:08:08,760
+On ako si v tom listoval a na narazil
+
+234
+00:08:06,680 --> 00:08:11,360
+tam na Einsteina, čo je pre neho
+
+235
+00:08:08,760 --> 00:08:12,680
+vieš proste titán.
+
+236
+00:08:11,360 --> 00:08:14,160
+Tak ako ho tam uvidel, tak sa potom
+
+237
+00:08:12,680 --> 00:08:15,760
+rozplakal. A to je podľa mňa na tom
+
+238
+00:08:14,160 --> 00:08:17,720
+pekné, že
+
+239
+00:08:15,760 --> 00:08:20,840
+to tým vedcom dáva takéto prepojenie s
+
+240
+00:08:17,720 --> 00:08:22,440
+tými inými velikánmi už z minulosti.
+
+241
+00:08:20,840 --> 00:08:24,360
+A keby sa o to niečo prekopalo, tak by
+
+242
+00:08:22,440 --> 00:08:26,560
+to stratilo túto
+
+243
+00:08:24,360 --> 00:08:28,440
+tento šmrnc. Že to to už sa proste nedá
+
+244
+00:08:26,560 --> 00:08:30,960
+nahradiť, že nemôžeš už dostať inú tú
+
+245
+00:08:28,440 --> 00:08:32,200
+istú cenu, ako dostal Röntgen napríklad
+
+246
+00:08:30,960 --> 00:08:32,599
+a podobne.
+
+247
+00:08:32,200 --> 00:08:33,960
+>> Uhm.
+
+248
+00:08:32,599 --> 00:08:34,840
+>> Takže takže sa nič nezmení.
+
+249
+00:08:33,960 --> 00:08:36,880
+>> že určite
+
+250
+00:08:34,840 --> 00:08:38,000
+>> A každý rok budeme rovnako frflať.
+
+251
+00:08:36,880 --> 00:08:39,120
+Je to asi OK.
+
+252
+00:08:38,000 --> 00:08:40,560
+>> Hej.
+
+253
+00:08:39,120 --> 00:08:42,560
+Dobre, tak ktorou chceš začať? Chceš
+
+254
+00:08:40,560 --> 00:08:44,440
+začať tvojou
+
+255
+00:08:42,560 --> 00:08:45,720
+tvojou špeciálkou?
+
+256
+00:08:44,440 --> 00:08:49,040
+>> poďme chronologicky. Prvá bola
+
+257
+00:08:45,720 --> 00:08:51,200
+fyziológia a medicína. To je tiež, že
+
+258
+00:08:49,040 --> 00:08:52,480
+tieto treba zdôrazniť, lebo ľudia často
+
+259
+00:08:51,200 --> 00:08:54,320
+vyfúknu jedno z toho, buď pôjde o
+
+260
+00:08:52,480 --> 00:08:55,720
+medicínu alebo fyziológiu, ale ono je to
+
+261
+00:08:54,320 --> 00:08:57,760
+na preskáčku a nie vždy sú to veci,
+
+262
+00:08:55,720 --> 00:08:59,800
+ktoré musia liečiť. Niekedy ide naozaj o
+
+263
+00:08:57,760 --> 00:09:01,800
+niečo, že sme pochopili, ako funguje
+
+264
+00:08:59,800 --> 00:09:04,080
+nielen v ľudskom tele.
+
+265
+00:09:01,800 --> 00:09:07,480
+A a teraz to bola pekná kombinácia. Bolo
+
+266
+00:09:04,080 --> 00:09:09,440
+to za optogenetiku a a ja
+
+267
+00:09:07,480 --> 00:09:11,080
+oni tie tlačovky vždy tú cenu oznámia
+
+268
+00:09:09,440 --> 00:09:13,240
+najprv švédčine.
+
+269
+00:09:11,080 --> 00:09:15,800
+A ja sa vždy snažím už z tej švédčiny
+
+270
+00:09:13,240 --> 00:09:16,760
+niečo vyrozumieť a nevedel som veď
+
+271
+00:09:15,800 --> 00:09:19,360
+>> si počul?
+
+272
+00:09:16,760 --> 00:09:21,400
+>> Nie, že by som to slovo poznal, ale že
+
+273
+00:09:19,360 --> 00:09:22,680
+vieš, to ti trčí z tej švédčiny, že toto
+
+274
+00:09:21,400 --> 00:09:23,839
+zrazu niečo, čo máš pocit, že tomu
+
+275
+00:09:22,680 --> 00:09:24,800
+rozumieš.
+
+276
+00:09:23,839 --> 00:09:26,640
+Tak som myslel, že to je niečo s
+
+277
+00:09:24,800 --> 00:09:28,520
+genetikou, ale
+
+278
+00:09:26,640 --> 00:09:30,511
+v niečom prakticky vôbec. Optogenetika
+
+279
+00:09:28,520 --> 00:09:31,166
+je
+
+280
+00:09:30,511 --> 00:09:31,440
+>> [vzdychanie]
+
+281
+00:09:31,166 --> 00:09:34,320
+[lapanie po dychu]
+
+282
+00:09:31,440 --> 00:09:37,280
+>> taká vedecká subdisciplína, ktorá
+
+283
+00:09:34,320 --> 00:09:42,120
+vlastne dokáže ovládať jednotlivé
+
+284
+00:09:37,280 --> 00:09:42,120
+neuróny v mozgu pomocou svetla.
+
+285
+00:09:42,480 --> 00:09:47,480
+Čo je strašne cool, lebo máš nástroj,
+
+286
+00:09:45,240 --> 00:09:49,920
+ktorým vieš aktivovať jeden neurón a
+
+287
+00:09:47,480 --> 00:09:51,960
+potom sledovať, čo to vlastne urobí.
+
+288
+00:09:49,920 --> 00:09:53,960
+Hovorím, že ty máš proste v mozgu
+
+289
+00:09:51,960 --> 00:09:56,200
+miliardy a miliardy
+
+290
+00:09:53,960 --> 00:09:57,640
+neurónov poprepájané synapsami a
+
+291
+00:09:56,200 --> 00:09:59,880
+netušíš, čo robí. Vieš, že robíš rôzne
+
+292
+00:09:57,640 --> 00:10:01,640
+také skeny mozgu a vieš povedať, že keď
+
+293
+00:09:59,880 --> 00:10:03,160
+ten týpek myslel na toto, tak tu bola
+
+294
+00:10:01,640 --> 00:10:04,800
+väčšia aktivita, tu bola menšia a tak
+
+295
+00:10:03,160 --> 00:10:07,400
+ďalej, ale
+
+296
+00:10:04,800 --> 00:10:08,280
+>> ale nemôžeš mu veriť, či na to myslel.
+
+297
+00:10:07,400 --> 00:10:09,760
+>> Ale
+
+298
+00:10:08,280 --> 00:10:11,400
+hej, ale že napríklad, že štipneš ho do
+
+299
+00:10:09,760 --> 00:10:12,960
+ruky a pozrieš, že vtedy to zaistilo v
+
+300
+00:10:11,400 --> 00:10:15,440
+tejto časti mozgu, ale že to je, že táto
+
+301
+00:10:12,960 --> 00:10:17,560
+časť mozgu a nevieš, čo robí ten
+
+302
+00:10:15,440 --> 00:10:19,120
+konkrétny neurón a ako sa zúčastňuje
+
+303
+00:10:17,560 --> 00:10:21,040
+rôznych procesov.
+
+304
+00:10:19,120 --> 00:10:22,880
+A ľudia si povedali, že nebolo by super,
+
+305
+00:10:21,040 --> 00:10:25,000
+keby sme mali proste schopnosť, ako
+
+306
+00:10:22,880 --> 00:10:27,240
+zaviesť káblik na nejaký neurón a potom
+
+307
+00:10:25,000 --> 00:10:28,880
+normálne, že do neho pípaš signál, že
+
+308
+00:10:27,240 --> 00:10:29,600
+aktivuješ sa, aktivuješ sa, aktivuješ
+
+309
+00:10:28,880 --> 00:10:31,480
+sa.
+
+310
+00:10:29,600 --> 00:10:33,520
+>> A oni to spravili so svetlom.
+
+311
+00:10:31,480 --> 00:10:35,360
+>> A oni to spravili so svetlom, ktoré
+
+312
+00:10:33,520 --> 00:10:38,120
+napríklad pod kožu, teda môžeš optickými
+
+313
+00:10:35,360 --> 00:10:40,080
+káblami naviesť do hlavy a
+
+314
+00:10:38,120 --> 00:10:43,760
+je to strašne zaujímavá cena, lebo ten
+
+315
+00:10:40,080 --> 00:10:45,440
+výskum sa tiahne eh
+
+316
+00:10:43,760 --> 00:10:47,680
+pol storočia pomaly dozadu, lebo neviem
+
+317
+00:10:45,440 --> 00:10:50,360
+úplne, že koľko presne, ale začalo to
+
+318
+00:10:47,680 --> 00:10:52,120
+strašne jednoduchými príkladmi a
+
+319
+00:10:50,360 --> 00:10:56,080
+je to peknou ukážkou toho, asi si
+
+320
+00:10:52,120 --> 00:10:59,360
+zachytil teraz, keď Musk a
+
+321
+00:10:56,080 --> 00:11:01,160
+eh iní ľudia
+
+322
+00:10:59,360 --> 00:11:03,080
+začali vyjadrovať svoje názory na
+
+323
+00:11:01,160 --> 00:11:05,440
+fungovanie vedy a na na to, že ktorý
+
+324
+00:11:03,080 --> 00:11:07,240
+výskum je zbytočný a ktorý nie zbytočný,
+
+325
+00:11:05,440 --> 00:11:08,839
+tak častokrát urobili také, na čo
+
+326
+00:11:07,240 --> 00:11:11,080
+vlastne riešime teraz nejaké vlastnosti
+
+327
+00:11:08,839 --> 00:11:13,680
+baktérií a podobne
+
+328
+00:11:11,080 --> 00:11:15,160
+a že však to je úplne zbytočné a riasy,
+
+329
+00:11:13,680 --> 00:11:18,120
+čo nás má zaujímať správanie rias.
+
+330
+00:11:15,160 --> 00:11:20,400
+>> to to, čo zrušili eh
+
+331
+00:11:18,120 --> 00:11:22,360
+nejakú dotáciu pre výskum
+
+332
+00:11:20,400 --> 00:11:24,000
+transgenetických nejakých
+
+333
+00:11:22,360 --> 00:11:25,200
+>> transgénových potkanov, lebo si myslel,
+
+334
+00:11:24,000 --> 00:11:26,880
+že to je transgen.
+
+335
+00:11:25,200 --> 00:11:29,160
+>> nevie ani prečítať.
+
+336
+00:11:26,880 --> 00:11:31,800
+>> Jep, presne to.
+
+337
+00:11:29,160 --> 00:11:32,400
+A vlastne celý ten výskum začal výskumom
+
+338
+00:11:31,800 --> 00:11:35,200
+eh
+
+339
+00:11:32,400 --> 00:11:37,680
+rias. Toto čo ukazujem je
+
+340
+00:11:35,200 --> 00:11:39,080
+vlastne také, oni ku každej cene urobia
+
+341
+00:11:37,680 --> 00:11:40,800
+taký, že
+
+342
+00:11:39,080 --> 00:11:42,880
+populárnejší
+
+343
+00:11:40,800 --> 00:11:44,720
+výcuc. A to čo je zobrazené pre tých
+
+344
+00:11:42,880 --> 00:11:47,560
+ktorí nás pozerajú na YouTube,
+
+345
+00:11:44,720 --> 00:11:49,360
+tak je vlastne taká riasa jednobunková,
+
+346
+00:11:47,560 --> 00:11:51,640
+ktorá má schopnosť reagovať na svetlo. V
+
+347
+00:11:49,360 --> 00:11:53,200
+podstate že keď na ňu zasvietiš sprava
+
+348
+00:11:51,640 --> 00:11:55,720
+tak ona sa pohne doprava lebo má pocit
+
+349
+00:11:53,200 --> 00:11:57,320
+že tam sa bude viacej fotosyntetizovať.
+
+350
+00:11:55,720 --> 00:11:59,720
+A otázka bola že ako takéto jednoduché
+
+351
+00:11:57,320 --> 00:12:02,240
+topolko dokáže zisťovať že však nemá
+
+352
+00:11:59,720 --> 00:12:04,160
+mozog, nemá
+
+353
+00:12:02,240 --> 00:12:06,120
+Tak v podstate ona má
+
+354
+00:12:04,160 --> 00:12:07,800
+ona má niečo. Tak ľudia začali zisťovať
+
+355
+00:12:06,120 --> 00:12:09,600
+že čo by to mohlo byť. A podarilo sa im
+
+356
+00:12:07,800 --> 00:12:12,120
+identifikovať taký gén
+
+357
+00:12:09,600 --> 00:12:14,160
+ktorý potom preniesli do žabieho
+
+358
+00:12:12,120 --> 00:12:16,640
+vajíčka.
+
+359
+00:12:14,160 --> 00:12:19,320
+A to čo si všimli u toho žabieho vajíčka
+
+360
+00:12:16,640 --> 00:12:21,760
+že ten gén ktorý mala tá riasa robí
+
+361
+00:12:19,320 --> 00:12:23,800
+vlastne takú vec že otvára a zatvára
+
+362
+00:12:21,760 --> 00:12:25,600
+kanáliky na bunkách.
+
+363
+00:12:23,800 --> 00:12:28,040
+A tie kanáliky sú tam kvôli tomu aby
+
+364
+00:12:25,600 --> 00:12:31,000
+vonku držali ióny alebo aby ich tam v
+
+365
+00:12:28,040 --> 00:12:32,640
+závažnej okolnosti pustili. Ióny sú
+
+366
+00:12:31,000 --> 00:12:34,160
+nosič elektrického náboja. Čiže to je
+
+367
+00:12:32,640 --> 00:12:36,160
+ten elektrický impulz ktorý signál
+
+368
+00:12:34,160 --> 00:12:38,400
+potrebuje aby vznikol.
+
+369
+00:12:36,160 --> 00:12:40,600
+A to čo vlastne robil ten proteín je že
+
+370
+00:12:38,400 --> 00:12:42,160
+on tvorí otvor na bunke a keď na ňu
+
+371
+00:12:40,600 --> 00:12:44,320
+zatvoríš tak ten proteín sa ako keby
+
+372
+00:12:42,160 --> 00:12:45,703
+roztiahne a pustí dnu náboj a vyvolá
+
+373
+00:12:44,320 --> 00:12:47,280
+signál.
+
+374
+00:12:45,703 --> 00:12:48,480
+>> [vzdychanie][lapanie po dychu]
+
+375
+00:12:47,280 --> 00:12:50,839
+>> Takže na tých žabích vajíčkach sa
+
+376
+00:12:48,480 --> 00:12:54,760
+podarilo zistiť že
+
+377
+00:12:50,839 --> 00:12:57,240
+čo toto vlastne robí. Že toto otvára
+
+378
+00:12:54,760 --> 00:12:58,480
+kanály do buniek ktoré tam potom vpustia
+
+379
+00:12:57,240 --> 00:13:00,440
+signál. No takto si povedal že to je
+
+380
+00:12:58,480 --> 00:13:02,480
+super že to vieme na tom vajíčku
+
+381
+00:13:00,440 --> 00:13:05,240
+žabacom. Ale bolo by super keby sme to
+
+382
+00:13:02,480 --> 00:13:08,520
+videli robiť na niečom zložitejšom a
+
+383
+00:13:05,240 --> 00:13:10,160
+preniesli ten gén tak aby bol v
+
+384
+00:13:08,520 --> 00:13:12,680
+neurónoch.
+
+385
+00:13:10,160 --> 00:13:16,000
+Zatiaľ v prvom kroku iba na
+
+386
+00:13:12,680 --> 00:13:17,960
+iba na Petriho diske miske.
+
+387
+00:13:16,000 --> 00:13:20,080
+Ale už v podstate ukázali že máme tu
+
+388
+00:13:17,960 --> 00:13:22,400
+neurón na ktorý keď zasvietiš správnym
+
+389
+00:13:20,080 --> 00:13:23,839
+svetlom tak on začne vysielať signál.
+
+390
+00:13:22,400 --> 00:13:26,200
+A toto už bola brutalita lebo to je
+
+391
+00:13:23,839 --> 00:13:26,600
+naozaj že
+
+392
+00:13:26,200 --> 00:13:28,200
+ty
+
+393
+00:13:26,600 --> 00:13:29,280
+>> No to ako keby si ho zapínal, keby si
+
+394
+00:13:28,200 --> 00:13:31,000
+tam mal
+
+395
+00:13:29,280 --> 00:13:32,680
+>> Presne, presne, presne tak. Taký
+
+396
+00:13:31,000 --> 00:13:33,200
+zapínačík, nie, že
+
+397
+00:13:32,680 --> 00:13:34,440
+tak
+
+398
+00:13:33,200 --> 00:13:35,800
+>> že teraz neurón nič robí.
+
+399
+00:13:34,440 --> 00:13:37,640
+>> Ináč ako
+
+400
+00:13:35,800 --> 00:13:39,720
+Presne, ináč by on on to má tie
+
+401
+00:13:37,640 --> 00:13:43,040
+synaptické spojenia, má tu tie
+
+402
+00:13:39,720 --> 00:13:45,360
+chápadielka a dendrity, ak si správne
+
+403
+00:13:43,040 --> 00:13:47,320
+pamätám, ktoré ten signál sťahujú z
+
+404
+00:13:45,360 --> 00:13:49,040
+okolia a keď sa ho tam nahromadí dosť,
+
+405
+00:13:47,320 --> 00:13:49,760
+tak potom vyšlú signál ďalej.
+
+406
+00:13:49,040 --> 00:13:51,600
+>> Hej.
+
+407
+00:13:49,760 --> 00:13:53,600
+>> A ty zrazu toto celé z tento zložitý
+
+408
+00:13:51,600 --> 00:13:55,240
+proces oklameš tým, že si tam vyrobil
+
+409
+00:13:53,600 --> 00:13:57,240
+vlastné okienko, ktoré citlivé normálne,
+
+410
+00:13:55,240 --> 00:14:00,000
+keby si tam natiahol
+
+411
+00:13:57,240 --> 00:14:01,320
+taký backdoor, zadné vrátka a ktoré vieš
+
+412
+00:14:00,000 --> 00:14:03,240
+spúšťať len ty.
+
+413
+00:14:01,320 --> 00:14:04,880
+A spúšťaš ich tým svetlom.
+
+414
+00:14:03,240 --> 00:14:08,360
+>> My sme vlastne oklamali ako keby
+
+415
+00:14:04,880 --> 00:14:10,160
+prírodu, že máme ten spúšťač nejaký.
+
+416
+00:14:08,360 --> 00:14:11,600
+>> Je to také drsné označenie, ale áno.
+
+417
+00:14:10,160 --> 00:14:13,080
+Sekundičky, ja len priverem dvere, lebo
+
+418
+00:14:11,600 --> 00:14:15,600
+počujem odvedľa seriál.
+
+419
+00:14:13,080 --> 00:14:17,160
+>> sa mi, ja zatiaľ aspoň poviem,
+
+420
+00:14:15,600 --> 00:14:20,679
+páči sa mi strašne, že sú tam tie
+
+421
+00:14:17,160 --> 00:14:21,440
+švédske ryby, rybičky, tie tie cukríky.
+
+422
+00:14:20,679 --> 00:14:23,800
+>> [smiech]
+
+423
+00:14:21,440 --> 00:14:26,280
+>> To je na tom
+
+424
+00:14:23,800 --> 00:14:27,520
+v tom článku, čo ukazuješ, takže to je
+
+425
+00:14:26,280 --> 00:14:29,560
+super.
+
+426
+00:14:27,520 --> 00:14:30,960
+>> No, no, dáme dáme link do popisu
+
+427
+00:14:29,560 --> 00:14:32,280
+epizódy.
+
+428
+00:14:30,960 --> 00:14:34,800
+Áno, áno, kto by si chcel popozerať
+
+429
+00:14:32,280 --> 00:14:36,800
+tieto obrázky, to je ten popularizačný
+
+430
+00:14:34,800 --> 00:14:39,200
+opis ceny. To je v podstate to, čo v tej
+
+431
+00:14:36,800 --> 00:14:41,040
+cene stačí prepísať. tieto.
+
+432
+00:14:39,200 --> 00:14:43,200
+Áno, a zrazu teda výskumníci dokopy
+
+433
+00:14:41,040 --> 00:14:45,000
+získali nástroj, ako vieš zaviesť
+
+434
+00:14:43,200 --> 00:14:47,040
+dráčik, cez ktorý posielaš svetelný
+
+435
+00:14:45,000 --> 00:14:48,960
+signál a aktivuješ tým ten ktorý
+
+436
+00:14:47,040 --> 00:14:50,920
+konkrétny neurón. A zrazu vieš zisťovať,
+
+437
+00:14:48,960 --> 00:14:52,400
+že tento neurón sa zúčastňuje na
+
+438
+00:14:50,920 --> 00:14:53,800
+procesoch, ktoré súvisia napríklad so
+
+439
+00:14:52,400 --> 00:14:56,400
+strachom.
+
+440
+00:14:53,800 --> 00:14:58,400
+Lebo odsledueš, ako sa správa
+
+441
+00:14:56,400 --> 00:15:01,360
+potkan, keď cíti strach a potom zistíš,
+
+442
+00:14:58,400 --> 00:15:04,920
+že keď mu zapíkam týmto neurónom, keď
+
+443
+00:15:01,360 --> 00:15:06,120
+sem pošlem signál, tak on má tie prejavy
+
+444
+00:15:04,920 --> 00:15:07,200
+strachu, napríklad.
+
+445
+00:15:06,120 --> 00:15:10,240
+>> Uhm.
+
+446
+00:15:07,200 --> 00:15:13,440
+>> Takže to úplne pomohlo rozpliesť
+
+447
+00:15:10,240 --> 00:15:15,360
+úlohu jednotlivých neurónov, ktoré sú
+
+448
+00:15:13,440 --> 00:15:16,640
+ktoré sú v tele a
+
+449
+00:15:15,360 --> 00:15:18,880
+je na tom zaujímavé to, že jeden z tých
+
+450
+00:15:16,640 --> 00:15:21,400
+výskumníkov, ktorí tú cenu dostali, oni
+
+451
+00:15:18,880 --> 00:15:23,080
+dostali traja, a Karl Deisseroth,
+
+452
+00:15:21,400 --> 00:15:26,400
+Deisseroth,
+
+453
+00:15:23,080 --> 00:15:28,200
+Peter Hegeman a George Nagel. Tak jeden
+
+454
+00:15:26,400 --> 00:15:29,840
+z nich bol predtým
+
+455
+00:15:28,200 --> 00:15:31,360
+psychológ.
+
+456
+00:15:29,840 --> 00:15:33,320
+A on vlastne povedal, že ho strašne
+
+457
+00:15:31,360 --> 00:15:35,240
+hnevá, že
+
+458
+00:15:33,320 --> 00:15:38,040
+má pacientov, ktorým nedokáže porozumieť
+
+459
+00:15:35,240 --> 00:15:39,800
+úplne na tej základnej úrovni.
+
+460
+00:15:38,040 --> 00:15:42,160
+A toto bola vlastne tá odpoveď, že ako
+
+461
+00:15:39,800 --> 00:15:43,920
+vieš prepojiť také až to psychologické
+
+462
+00:15:42,160 --> 00:15:44,160
+prejavy
+
+463
+00:15:43,920 --> 00:15:46,480
+>> Hej.
+
+464
+00:15:44,160 --> 00:15:48,400
+>> s konkrétnymi neurónmi.
+
+465
+00:15:46,480 --> 00:15:51,000
+Netreba to zľahčovať, že by naozaj
+
+466
+00:15:48,400 --> 00:15:53,520
+platilo, že tu máš neurón strachu a tu
+
+467
+00:15:51,000 --> 00:15:55,640
+máš neurón, ktorý je ktorý predstavuje
+
+468
+00:15:53,520 --> 00:15:57,160
+Jozefa a vždy, keď ti pipnem, tak si
+
+469
+00:15:55,640 --> 00:15:59,000
+predstavíš
+
+470
+00:15:57,160 --> 00:16:00,520
+predstavíme si všetci teba.
+
+471
+00:15:59,000 --> 00:16:03,000
+>> Ale
+
+472
+00:16:00,520 --> 00:16:05,240
+dá ti to nejakú možnosť ako zistiť,
+
+473
+00:16:03,000 --> 00:16:07,440
+ktoré neuróny sa zúčastňujú ktorých
+
+474
+00:16:05,240 --> 00:16:09,240
+konkrétnych procesov. A samozrejme, ono
+
+475
+00:16:07,440 --> 00:16:12,400
+je to veľmi zložitá poprepájaná sieť,
+
+476
+00:16:09,240 --> 00:16:12,880
+takže sa to nedá takto zjednodušiť, ale
+
+477
+00:16:12,400 --> 00:16:14,040
+>> Je to cool.
+
+478
+00:16:12,880 --> 00:16:16,200
+>> začiatok.
+
+479
+00:16:14,040 --> 00:16:17,240
+>> Aby sme tú zložitú poprepájanú sieť
+
+480
+00:16:16,200 --> 00:16:19,160
+nejako spoznali.
+
+481
+00:16:17,240 --> 00:16:22,240
+>> Tak. Je to zaujímavé, že sa to deje v
+
+482
+00:16:19,160 --> 00:16:24,880
+období, kedy posledných pár rokov
+
+483
+00:16:22,240 --> 00:16:27,120
+jemne napreduje výskum
+
+484
+00:16:24,880 --> 00:16:29,320
+brain machine interface, čiže prepojenie
+
+485
+00:16:27,120 --> 00:16:31,520
+ľudského mozgu so strojmi,
+
+486
+00:16:29,320 --> 00:16:34,320
+ktorý v súčasnej dobe výrazne pomáha
+
+487
+00:16:31,520 --> 00:16:36,280
+napríklad paralizovaným pacientom.
+
+488
+00:16:34,320 --> 00:16:38,680
+Že paralýza môže byť v podstate v
+
+489
+00:16:36,280 --> 00:16:40,800
+úvodzovkách, že chýba káblovánia.
+
+490
+00:16:38,680 --> 00:16:42,360
+A ty vieš potom prepojiť rovno myseľ
+
+491
+00:16:40,800 --> 00:16:44,400
+toho človeka na počítač, lebo my keď
+
+492
+00:16:42,360 --> 00:16:46,280
+niečo robíme na počítači, tak
+
+493
+00:16:44,400 --> 00:16:48,280
+z tvojej hlavy ide signál do ruky, ruka
+
+494
+00:16:46,280 --> 00:16:49,480
+to napíše na klávesnicu, ide to do
+
+495
+00:16:48,280 --> 00:16:51,600
+stroja. Tak v princípe rovno vieš
+
+496
+00:16:49,480 --> 00:16:53,960
+natiahnuť kábel z hlavy do stroja
+
+497
+00:16:51,600 --> 00:16:56,640
+a vieš ho nejako ovládať.
+
+498
+00:16:53,960 --> 00:16:58,000
+Jeden z prvých pacientov paralizovaných,
+
+499
+00:16:56,640 --> 00:17:00,680
+ktorý dostal takýto brain machine
+
+500
+00:16:58,000 --> 00:17:02,160
+interface, strávil
+
+501
+00:17:00,680 --> 00:17:03,776
+jeden z prvých dní, že hral proste
+
+502
+00:17:02,160 --> 00:17:04,680
+počítačové hry.
+
+503
+00:17:03,776 --> 00:17:07,480
+>> [smiech]
+
+504
+00:17:04,680 --> 00:17:09,040
+>> Ako ono to znie ako marnosť, že keď ste
+
+505
+00:17:07,480 --> 00:17:10,079
+niečo takto pripoja, ale to je strašne
+
+506
+00:17:09,040 --> 00:17:11,160
+zaujímavé, že
+
+507
+00:17:10,079 --> 00:17:13,680
+>> že
+
+508
+00:17:11,160 --> 00:17:16,480
+>> Ja som to pozeral u nejakom tiež mužovi,
+
+509
+00:17:13,680 --> 00:17:18,520
+že čo ho takto pripojili a
+
+510
+00:17:16,480 --> 00:17:21,720
+tam vysvetľovali, že normálny človek má
+
+511
+00:17:18,520 --> 00:17:23,959
+s myškou nejakú latenciu, kedy spraví
+
+512
+00:17:21,720 --> 00:17:25,800
+ten, ale on nemá skoro žiadnu latenciu,
+
+513
+00:17:23,959 --> 00:17:27,560
+proste, že
+
+514
+00:17:25,800 --> 00:17:29,040
+že proste, že on si to len pomyslí a
+
+515
+00:17:27,560 --> 00:17:30,440
+stane sa to, vieš, že proste, že
+
+516
+00:17:29,040 --> 00:17:31,880
+>> Čoskoro budú vyhrávať Counter-Strikeové
+
+517
+00:17:30,440 --> 00:17:34,920
+ligy, nie?
+
+518
+00:17:31,880 --> 00:17:36,080
+>> No, on hral nejakú strela, neviem, či to
+
+519
+00:17:34,920 --> 00:17:39,200
+bol
+
+520
+00:17:36,080 --> 00:17:41,840
+presne Counter-Strike, ale bol veľmi
+
+521
+00:17:39,200 --> 00:17:44,400
+dobrý v tom a hovoril, že že I always
+
+522
+00:17:41,840 --> 00:17:48,317
+suck in this game, but now I'm pretty
+
+523
+00:17:44,400 --> 00:17:48,840
+much in the pro league, proste, že
+
+524
+00:17:48,317 --> 00:17:51,880
+>> [smrkanie][vzdychanie]
+
+525
+00:17:48,840 --> 00:17:53,960
+>> Eh, dobre, takže fyziológia, medicína
+
+526
+00:17:51,880 --> 00:17:55,560
+bola udelená za optogenetiku, krásna
+
+527
+00:17:53,960 --> 00:17:57,480
+cena, ktorá naozaj, že sa ťahala cez
+
+528
+00:17:55,560 --> 00:17:59,080
+desaťročia postupne.
+
+529
+00:17:57,480 --> 00:18:00,960
+Toto sa mi na tej cene strašne páčilo,
+
+530
+00:17:59,080 --> 00:18:03,920
+že úplne za celý ten proces od toho
+
+531
+00:18:00,960 --> 00:18:05,760
+prvopovšimnutia, že wow
+
+532
+00:18:03,920 --> 00:18:07,360
+v dátoriu sa robí niečo zvláštne, až po
+
+533
+00:18:05,760 --> 00:18:09,160
+to, že vďaka tomu vieme čítať ľudské
+
+534
+00:18:07,360 --> 00:18:11,880
+myšlienky, trošku nadnesene.
+
+535
+00:18:09,160 --> 00:18:14,120
+>> Toto je podľa mňa takýto, že ako to
+
+536
+00:18:11,880 --> 00:18:17,240
+zamýšľali podľa mňa, že ten dlhý výskum,
+
+537
+00:18:14,120 --> 00:18:19,360
+proste, že a pekných
+
+538
+00:18:17,240 --> 00:18:22,600
+ocenia po
+
+539
+00:18:19,360 --> 00:18:24,920
+x rokoch, proste, že
+
+540
+00:18:22,600 --> 00:18:26,400
+>> A poviem len takú zaujímavosť.
+
+541
+00:18:24,920 --> 00:18:27,600
+Ani to nie je fun fact, lebo to nie je
+
+542
+00:18:26,400 --> 00:18:28,920
+fun.
+
+543
+00:18:27,600 --> 00:18:31,720
+Ale vlastne, že tento rok bola teda
+
+544
+00:18:28,920 --> 00:18:34,280
+Nobelovka udelená za výskum toho
+
+545
+00:18:31,720 --> 00:18:35,920
+proteínu, ktorý potom vytvorí ten
+
+546
+00:18:34,280 --> 00:18:37,720
+kanálik, ktorý umožňuje bunkám
+
+547
+00:18:35,920 --> 00:18:39,840
+zachytávať svetlo zvonku.
+
+548
+00:18:37,720 --> 00:18:42,760
+Päť rokov dozadu bola Nobelovka udelená
+
+549
+00:18:39,840 --> 00:18:44,600
+za objav receptoru
+
+550
+00:18:42,760 --> 00:18:47,000
+bolesti a tepla.
+
+551
+00:18:44,600 --> 00:18:48,880
+Čiže je tiež niečím, že nejaký proteín,
+
+552
+00:18:47,000 --> 00:18:50,240
+ktorý ti na povrchu bunky urobí, že je
+
+553
+00:18:48,880 --> 00:18:51,880
+schopná vnímať nejaký signál zvonku.
+
+554
+00:18:50,240 --> 00:18:53,560
+>> Takže za chvíľku vojny budú tak, že na
+
+555
+00:18:51,880 --> 00:18:54,960
+teba zasvietia len laseríkom a ty
+
+556
+00:18:53,560 --> 00:18:56,400
+odpadneš,
+
+557
+00:18:54,960 --> 00:18:58,360
+proste prestimulovaný.
+
+558
+00:18:56,400 --> 00:19:00,640
+>> Toto napríklad, akurát som mal o tom
+
+559
+00:18:58,360 --> 00:19:01,880
+reelsko tento týždeň o kapsaicíne, okrem
+
+560
+00:19:00,640 --> 00:19:04,760
+iného.
+
+561
+00:19:01,880 --> 00:19:07,840
+Že to, čo robí kapsaicín, je, že ty máš
+
+562
+00:19:04,760 --> 00:19:09,840
+presne TRPV1 sa tuším volá,
+
+563
+00:19:07,840 --> 00:19:12,680
+ten ten ten kanál na bunke, ktorý je
+
+564
+00:19:09,840 --> 00:19:15,000
+citlivý na teplo a na bolesť. On on je
+
+565
+00:19:12,680 --> 00:19:18,360
+nastavený tak, že keď prekročíš teplotu
+
+566
+00:19:15,000 --> 00:19:20,400
+42 alebo 43 stupňov, tak spustí poplach.
+
+567
+00:19:18,360 --> 00:19:22,080
+Čiže on sa vlastne teplotou otvára a keď
+
+568
+00:19:20,400 --> 00:19:23,400
+je tých 43 stupňov Celzia, je dosť
+
+569
+00:19:22,080 --> 00:19:26,960
+otvorená na to, aby do neho prešiel ten
+
+570
+00:19:23,400 --> 00:19:28,320
+signál a spustí alarm.
+
+571
+00:19:26,960 --> 00:19:31,360
+A
+
+572
+00:19:28,320 --> 00:19:33,200
+to, čo robí kapsaicín, je, že pootvorí
+
+573
+00:19:31,360 --> 00:19:35,320
+trošku tento otvor, že spôsobí, že sa
+
+574
+00:19:33,200 --> 00:19:38,320
+excituje pri nižších teplotách.
+
+575
+00:19:35,320 --> 00:19:40,320
+Že zrazu za nebezpečne horúcu teplotu
+
+576
+00:19:38,320 --> 00:19:42,000
+považuješ teplotu vlastného tela. A
+
+577
+00:19:40,320 --> 00:19:44,040
+preto sú vlastne čili papričky pálivé,
+
+578
+00:19:42,000 --> 00:19:46,720
+že oni v skutočnosti nepália.
+
+579
+00:19:44,040 --> 00:19:49,960
+Oni len posunú prah teploty v tvojom
+
+580
+00:19:46,720 --> 00:19:52,080
+tele z tých 43 na 36 stupňov a zrazu ťa
+
+581
+00:19:49,960 --> 00:19:53,423
+páli tvoja telesná teplota.
+
+582
+00:19:52,080 --> 00:19:53,640
+To je cool.
+
+583
+00:19:53,423 --> 00:19:54,760
+>> [smrkanie]
+
+584
+00:19:53,640 --> 00:19:56,880
+>> No.
+
+585
+00:19:54,760 --> 00:19:58,960
+No dobre, ideme na ďalšiu cenu a za
+
+586
+00:19:56,880 --> 00:20:00,560
+fyziku, keď správne pozerám, že ako boli
+
+587
+00:19:58,960 --> 00:20:01,320
+vyhlasované.
+
+588
+00:20:00,560 --> 00:20:03,520
+A, [vzdychanie]
+
+589
+00:20:01,320 --> 00:20:04,880
+no, a toto je, presne si dobre nahral v
+
+590
+00:20:03,520 --> 00:20:06,600
+tom úvode, kedy si hovoril, že ľudia sa
+
+591
+00:20:04,880 --> 00:20:08,280
+nesťažujú na to, že kto dostal nobelovku
+
+592
+00:20:06,600 --> 00:20:11,080
+a či to je zaslúžené. A po tejto vznikol
+
+593
+00:20:08,280 --> 00:20:13,040
+pomerne celkom veľký
+
+594
+00:20:11,080 --> 00:20:13,720
+pohyb a
+
+595
+00:20:13,040 --> 00:20:14,000
+>> Fakt?
+
+596
+00:20:13,720 --> 00:20:14,840
+>> Uhm.
+
+597
+00:20:14,000 --> 00:20:15,080
+>> OK, dobre.
+
+598
+00:20:14,840 --> 00:20:16,440
+>> A
+
+599
+00:20:15,080 --> 00:20:19,160
+>> Tak povedzme si, ja poviem len v
+
+600
+00:20:16,440 --> 00:20:21,040
+skratke, ale ty tam doplníš, samozrejme.
+
+601
+00:20:19,160 --> 00:20:22,840
+Eh, získali ju Francis Haugen,
+
+602
+00:20:21,040 --> 00:20:26,920
+gratulujem. Neviem, nevedel som o tom,
+
+603
+00:20:22,840 --> 00:20:29,920
+že. Eh, a vlastne za, eh, za to, že
+
+604
+00:20:26,920 --> 00:20:34,080
+prispel, eh, teda viem, že ne, eh, ale,
+
+605
+00:20:29,920 --> 00:20:38,520
+eh, nový druh astronómie, eh, vďaka
+
+606
+00:20:34,080 --> 00:20:41,640
+tomu, že sme mohli pozorovať neutrína,
+
+607
+00:20:38,520 --> 00:20:44,560
+eh, a zachytiť ich, eh, v takých, eh,
+
+608
+00:20:41,640 --> 00:20:47,160
+nádržiach alebo špeciálnych detektoroch,
+
+609
+00:20:44,560 --> 00:20:47,920
+eh, v Arktíde alebo Antarktíde?
+
+610
+00:20:47,160 --> 00:20:50,080
+Antarktíde, myslím.
+
+611
+00:20:47,920 --> 00:20:52,240
+>> Antarktíde, hm.
+
+612
+00:20:50,080 --> 00:20:53,960
+Áno, celkom dobre si to zhrnul. Eh, koho
+
+613
+00:20:52,240 --> 00:20:56,080
+zaujíma táto časť fyziky, máme epizódu
+
+614
+00:20:53,960 --> 00:20:58,400
+Vedeckého podcastu o neutrínach.
+
+615
+00:20:56,080 --> 00:20:58,400
+>> Áno.
+
+616
+00:20:59,080 --> 00:21:03,440
+>> Neutrína sú najťažšie popularizovateľné
+
+617
+00:21:01,480 --> 00:21:05,120
+fyzikálne častice, prisahám. Vždy, keď
+
+618
+00:21:03,440 --> 00:21:07,040
+začnem rozprávať o neutrínach, tak ľudí
+
+619
+00:21:05,120 --> 00:21:09,120
+to prestane baviť. Úplne, že vždy vidím,
+
+620
+00:21:07,040 --> 00:21:09,640
+že reals k neutrínam úplne nula bodov v
+
+621
+00:21:09,120 --> 00:21:12,000
+článkoch.
+
+622
+00:21:09,640 --> 00:21:12,960
+>> lebo neutríno je tak strašne zaujímavé,
+
+623
+00:21:12,000 --> 00:21:13,960
+že
+
+624
+00:21:12,960 --> 00:21:15,640
+>> No, ty už to tak vidíš, ale
+
+625
+00:21:13,960 --> 00:21:17,880
+>> som tiež napríklad dlho nevedel, že v
+
+626
+00:21:15,640 --> 00:21:20,240
+čom je zaujímavé neutríno, že že
+
+627
+00:21:17,880 --> 00:21:22,120
+svetlo sa naťahuje, stráca energiu,
+
+628
+00:21:20,240 --> 00:21:24,800
+fotóny a tak ďalej, ale to neutríno je v
+
+629
+00:21:22,120 --> 00:21:28,960
+tom super, že málo interaguje s niečím
+
+630
+00:21:24,800 --> 00:21:30,440
+iným, nie, že a tým je stabilné.
+
+631
+00:21:28,960 --> 00:21:33,640
+>> Takže
+
+632
+00:21:30,440 --> 00:21:35,440
+častice hmoty sú, že elektróny, potom
+
+633
+00:21:33,640 --> 00:21:37,680
+dva typy kvarkov, ktoré dokopy vytvárajú
+
+634
+00:21:35,440 --> 00:21:39,360
+protóny a neutróny.
+
+635
+00:21:37,680 --> 00:21:41,280
+A to je všetko, že bežná vec, ktorá dala
+
+636
+00:21:39,360 --> 00:21:42,920
+vzniknúť chémii a tak ďalej. A potom sú
+
+637
+00:21:41,280 --> 00:21:45,320
+tam neutrína, ktoré nerobia, že
+
+638
+00:21:42,920 --> 00:21:47,760
+prakticky nič. Proste cez teba ich
+
+639
+00:21:45,320 --> 00:21:50,120
+preletí, kým dopoviem túto vetu.
+
+640
+00:21:47,760 --> 00:21:52,240
+Oni si žijú. Že kým dopoviem túto vetu,
+
+641
+00:21:50,120 --> 00:21:54,760
+cez teba ich preletí 10 miliárd a za
+
+642
+00:21:52,240 --> 00:21:57,080
+celý život sa nezachytí a jedno alebo
+
+643
+00:21:54,760 --> 00:21:58,800
+rádovo jedno sa zachytí za celý život v
+
+644
+00:21:57,080 --> 00:22:00,640
+celom tvojom tele.
+
+645
+00:21:58,800 --> 00:22:03,400
+To, čo urobí, je, že zmení jeden protón
+
+646
+00:22:00,640 --> 00:22:05,560
+na neutrón alebo naopak. Že ono vlastne
+
+647
+00:22:03,400 --> 00:22:06,880
+súvisí s tou interakciou.
+
+648
+00:22:05,560 --> 00:22:08,600
+Nie, nie, to je, že
+
+649
+00:22:06,880 --> 00:22:11,560
+to je, že ty máš tie dva kvarky up and
+
+650
+00:22:08,600 --> 00:22:13,200
+down a jeden sa môže zmeniť na druhý a
+
+651
+00:22:11,560 --> 00:22:14,480
+pri tomto procese musí byť prítomné
+
+652
+00:22:13,200 --> 00:22:16,440
+neutríno.
+
+653
+00:22:14,480 --> 00:22:18,560
+A keď sa toto preklopí, tak sa z protónu
+
+654
+00:22:16,440 --> 00:22:20,600
+stane neutrón alebo naopak, podľa toho,
+
+655
+00:22:18,560 --> 00:22:22,000
+čo presne tam je prítomné.
+
+656
+00:22:20,600 --> 00:22:23,720
+A to znamená, že toto sú nevyhnutné
+
+657
+00:22:22,000 --> 00:22:25,960
+častice na to, aby sa
+
+658
+00:22:23,720 --> 00:22:28,005
+diali slabé jadrové sily. Tieto
+
+659
+00:22:25,960 --> 00:22:28,640
+preklápania protónov a neutrónov.
+
+660
+00:22:28,005 --> 00:22:30,600
+>> [lapanie po dychu]
+
+661
+00:22:28,640 --> 00:22:32,000
+>> Vyzerá to byť ako úplná prkotina. Nebyť
+
+662
+00:22:30,600 --> 00:22:33,245
+tejto interakcie, tak by hviezdy
+
+663
+00:22:32,000 --> 00:22:34,080
+neexistovali.
+
+664
+00:22:33,245 --> 00:22:36,680
+>> [smiech]
+
+665
+00:22:34,080 --> 00:22:38,640
+>> Hviezdy v jednom bode svojho procesu
+
+666
+00:22:36,680 --> 00:22:41,480
+potrebujú, aby sa z
+
+667
+00:22:38,640 --> 00:22:42,880
+protónu stal neutrón aspoň raz za čas a
+
+668
+00:22:41,480 --> 00:22:44,440
+nebyť slabé jadrovej sily, tak
+
+669
+00:22:42,880 --> 00:22:46,280
+neexistujú hviezdy.
+
+670
+00:22:44,440 --> 00:22:48,280
+Nevie získať palivo.
+
+671
+00:22:46,280 --> 00:22:50,840
+Písal som o tom, toto som sa dozvedel
+
+672
+00:22:48,280 --> 00:22:53,160
+pri príprave na vesmírnu kolísku, drobný
+
+673
+00:22:50,840 --> 00:22:55,080
+drobná reklama a
+
+674
+00:22:53,160 --> 00:22:56,080
+ľudia objavili neutrína tak, Wolfgang
+
+675
+00:22:55,080 --> 00:22:58,320
+Pauli
+
+676
+00:22:56,080 --> 00:23:01,440
+si všimol, ľudia si všimli, že chýba
+
+677
+00:22:58,320 --> 00:23:02,680
+energia v nejakých nejakých analýzach a
+
+678
+00:23:01,440 --> 00:23:04,200
+on povedal, že čo keď existuje
+
+679
+00:23:02,680 --> 00:23:06,600
+neviditeľná častica, ktorá ju kradne?
+
+680
+00:23:04,200 --> 00:23:08,680
+>> bolo aby som to dal to bolo strašne
+
+681
+00:23:06,600 --> 00:23:10,120
+dávno v 30. rokoch alebo kedy, nie? Že
+
+682
+00:23:08,680 --> 00:23:11,800
+>> Tak, tak. A on povedal, že to je úplne
+
+683
+00:23:10,120 --> 00:23:14,120
+najhoršia vec, ktorú kedy vymyslel, lebo
+
+684
+00:23:11,800 --> 00:23:14,840
+to je ťažko dokázateľná hypotéza.
+
+685
+00:23:14,120 --> 00:23:16,960
+Ale ukázalo sa, že
+
+686
+00:23:14,840 --> 00:23:20,160
+>> Sranda, nie? Že takíto velikáni v tých
+
+687
+00:23:16,960 --> 00:23:21,680
+že aj Einstein povedal, nie? Že
+
+688
+00:23:20,160 --> 00:23:23,280
+o čom to hovoril? O čiernych dierach? Že
+
+689
+00:23:21,680 --> 00:23:25,320
+to bolo jedno z najhorších
+
+690
+00:23:23,280 --> 00:23:27,240
+>> Čierne diery sa mu nepáčili, dynamický
+
+691
+00:23:25,320 --> 00:23:28,480
+vesmír sa mu nepáčil, gravitačné vlny mu
+
+692
+00:23:27,240 --> 00:23:31,120
+zas prišli veľmi slabé.
+
+693
+00:23:28,480 --> 00:23:32,440
+>> Wolfgang Pauli je jeho neutríno.
+
+694
+00:23:31,120 --> 00:23:34,560
+>> A Pauli povedal, že to je že úplne
+
+695
+00:23:32,440 --> 00:23:36,600
+najhoršie, že že akože v úvodzovkách že
+
+696
+00:23:34,560 --> 00:23:37,880
+ľutuje, že to vyslovil, lebo sa to ťažko
+
+697
+00:23:36,600 --> 00:23:40,080
+dokazuje a predsa sa to podarilo
+
+698
+00:23:37,880 --> 00:23:43,000
+dokázať. Lebo sem-tam zachytíš ten
+
+699
+00:23:40,080 --> 00:23:44,440
+proces, že s protónom sa stane neutrón.
+
+700
+00:23:43,000 --> 00:23:46,200
+A to znamená, že z jedného chemického
+
+701
+00:23:44,440 --> 00:23:47,960
+prvku dostaneš iný.
+
+702
+00:23:46,200 --> 00:23:49,760
+A to si všimnite, že máš niekde proste
+
+703
+00:23:47,960 --> 00:23:51,880
+dokonale čistú nejakú látku a zrazu ti
+
+704
+00:23:49,760 --> 00:23:53,320
+tam pribudne nejaká nejaká iná, hej? Ona
+
+705
+00:23:51,880 --> 00:23:56,560
+môže byť rádioaktívna, rozpadne sa,
+
+706
+00:23:53,320 --> 00:23:58,200
+potom zachytíš ten záblesk.
+
+707
+00:23:56,560 --> 00:24:01,200
+Takže vedeli sme, že neutrína existujú,
+
+708
+00:23:58,200 --> 00:24:03,080
+za to boli už viaceré Nobelove ceny.
+
+709
+00:24:01,200 --> 00:24:06,280
+Vedelo sa, že vznikajú
+
+710
+00:24:03,080 --> 00:24:08,120
+v zemi, v jadrových reakciách vo vnútri
+
+711
+00:24:06,280 --> 00:24:10,160
+zeme, že vznikajú v jadrových reaktoroch
+
+712
+00:24:08,120 --> 00:24:11,560
+a že vznikajú v Slnku.
+
+713
+00:24:10,160 --> 00:24:13,320
+Bolo silné podozrenie, že vznikajú
+
+714
+00:24:11,560 --> 00:24:14,440
+všelikde vo vesmíre pri supernovách a
+
+715
+00:24:13,320 --> 00:24:15,080
+podobne.
+
+716
+00:24:14,440 --> 00:24:16,920
+Pri supernovách.
+
+717
+00:24:15,080 --> 00:24:18,680
+>> Len kvôli ich ťažkému zachyteniu sme
+
+718
+00:24:16,920 --> 00:24:19,280
+nevedeli povedať, že vzniká presne
+
+719
+00:24:18,680 --> 00:24:21,000
+preto.
+
+720
+00:24:19,280 --> 00:24:22,800
+>> Tak, tak. A metóda ako ich zachytiť, o
+
+721
+00:24:21,000 --> 00:24:25,680
+tomto sme sa rozprávali v tom podcaste
+
+722
+00:24:22,800 --> 00:24:27,400
+pri eh
+
+723
+00:24:25,680 --> 00:24:29,040
+o neutrínach, ale teraz si už aj
+
+724
+00:24:27,400 --> 00:24:30,760
+ukazujeme obrazy, keďže máme YouTube po
+
+725
+00:24:29,040 --> 00:24:32,240
+novom.
+
+726
+00:24:30,760 --> 00:24:33,000
+Tak môžeme aj ukázať pár obrázkov z
+
+727
+00:24:32,240 --> 00:24:34,640
+toho, lebo to je
+
+728
+00:24:33,000 --> 00:24:37,880
+>> Za čo ďakujeme predplatiteľom na
+
+729
+00:24:34,640 --> 00:24:39,680
+Herohero. To je jedna jedna z vecí.
+
+730
+00:24:37,880 --> 00:24:41,040
+>> Že keď chceš zachytiť neutrína, to čo
+
+731
+00:24:39,680 --> 00:24:44,280
+musíš urobiť je, že musíš im dať do
+
+732
+00:24:41,040 --> 00:24:46,280
+cesty veľa materiálu, aby sa aspoň jedno
+
+733
+00:24:44,280 --> 00:24:48,000
+raz za čas zachytilo.
+
+734
+00:24:46,280 --> 00:24:50,360
+Keď toto spravíš, tak máš ale problém,
+
+735
+00:24:48,000 --> 00:24:52,080
+lebo niekde vo vnútri sa to neutríno
+
+736
+00:24:50,360 --> 00:24:53,760
+zachytí, urobí nejakú malú zmenu, nejaký
+
+737
+00:24:52,080 --> 00:24:56,720
+malý záblesk a čo s tým, keď to nevidíš,
+
+738
+00:24:53,760 --> 00:24:58,120
+lebo si tam dal 5 miliárd ton betónu.
+
+739
+00:24:56,720 --> 00:24:59,760
+Takže si povedali, že tak musíme ten
+
+740
+00:24:58,120 --> 00:25:01,560
+materiál musí byť priehľadný, musí to
+
+741
+00:24:59,760 --> 00:25:03,040
+byť ideálne voda. Čo je super, lebo voda
+
+742
+00:25:01,560 --> 00:25:05,360
+je lacná.
+
+743
+00:25:03,040 --> 00:25:07,880
+Takže postup je taký, že zoberieš niečo
+
+744
+00:25:05,360 --> 00:25:09,520
+hlboko pod zemou, aby si tam odtienil
+
+745
+00:25:07,880 --> 00:25:11,800
+všetky ostatné typy signálov, že jediné,
+
+746
+00:25:09,520 --> 00:25:13,080
+čo sa tam dostane sú už tie neutrína.
+
+747
+00:25:11,800 --> 00:25:15,640
+Všetko ostatné odtienene.
+
+748
+00:25:13,080 --> 00:25:17,360
+>> to boli tie ešte prvotné také v tých
+
+749
+00:25:15,640 --> 00:25:19,000
+baniach a tak, že čo napustili.
+
+750
+00:25:17,360 --> 00:25:20,040
+>> hovoril, tak to rovno ide ukázať. Áno,
+
+751
+00:25:19,000 --> 00:25:20,640
+áno, áno.
+
+752
+00:25:20,040 --> 00:25:22,360
+Dobre hovoríš.
+
+753
+00:25:20,640 --> 00:25:25,880
+>> Strašne vtipné sú tie obrázky, ako sú
+
+754
+00:25:22,360 --> 00:25:29,040
+tam na tej lodičke proste to eh
+
+755
+00:25:25,880 --> 00:25:31,800
+>> Ja, tento napríklad Čiže zoberieš
+
+756
+00:25:29,040 --> 00:25:33,960
+strašne veľa vody a tú vodu musíš
+
+757
+00:25:31,800 --> 00:25:36,440
+>> tá loďka, hej.
+
+758
+00:25:33,960 --> 00:25:38,640
+>> Musíš to obstlať fotonásobičmi, ktoré
+
+759
+00:25:36,440 --> 00:25:41,120
+potom zachytávajú tie záblesky, ktoré
+
+760
+00:25:38,640 --> 00:25:43,840
+tam vzniknú. Čiže vletí ti tam neutríno,
+
+761
+00:25:41,120 --> 00:25:45,840
+zinteraguje s časticou, vytvoria sa v
+
+762
+00:25:43,840 --> 00:25:47,160
+rámci tej reakcie nejaké nabité častice,
+
+763
+00:25:45,840 --> 00:25:49,280
+ktoré sa pohybujú nadsvetelnou
+
+764
+00:25:47,160 --> 00:25:51,160
+rýchlosťou. To vytvorí Čerenkovov
+
+765
+00:25:49,280 --> 00:25:53,040
+záblesk a ty musíš mať potom veľa
+
+766
+00:25:51,160 --> 00:25:56,200
+fotonásobičov, aby si ten slabý záblesk
+
+767
+00:25:53,040 --> 00:25:59,040
+zistil a z toho
+
+768
+00:25:56,200 --> 00:26:00,720
+ako presne to vytvorilo signál, tak ty
+
+769
+00:25:59,040 --> 00:26:02,680
+vieš zreprodukovať. Čiže takto to vyzerá
+
+770
+00:26:00,720 --> 00:26:04,840
+tá reprodukcia toho obrazu.
+
+771
+00:26:02,680 --> 00:26:06,320
+Také pekné farebné obrázky.
+
+772
+00:26:04,840 --> 00:26:08,800
+Eh
+
+773
+00:26:06,320 --> 00:26:10,720
+vieš zreprodukovať, že odkiaľ to
+
+774
+00:26:08,800 --> 00:26:12,040
+dorazilo na to miesto, ktoré práve
+
+775
+00:26:10,720 --> 00:26:14,000
+pozoruješ.
+
+776
+00:26:12,040 --> 00:26:15,400
+Kde je nejaký tu je takýto.
+
+777
+00:26:14,000 --> 00:26:17,200
+Takže to to toto je v podstate, že
+
+778
+00:26:15,400 --> 00:26:20,720
+záblesk, ktorý vytvorilo to neutríno.
+
+779
+00:26:17,200 --> 00:26:22,880
+Takýto pekný pekné pekné farebné čudo a
+
+780
+00:26:20,720 --> 00:26:24,360
+>> Uhm.
+
+781
+00:26:22,880 --> 00:26:25,480
+>> Jedna možnosť je teda mať tú hlbokú
+
+782
+00:26:24,360 --> 00:26:27,840
+baňu,
+
+783
+00:26:25,480 --> 00:26:29,400
+vystelieš ju fotonásobičmi a druhá
+
+784
+00:26:27,840 --> 00:26:32,640
+možnosť je, že využiješ miesto, kde
+
+785
+00:26:29,400 --> 00:26:35,920
+prirodzene veľa vody. A to je napríklad
+
+786
+00:26:32,640 --> 00:26:37,400
+ľad. Buď ľad alebo hĺbka oceánu. Tak aby
+
+787
+00:26:35,920 --> 00:26:38,400
+si tam nemal nič iné, čo by vytváral
+
+788
+00:26:37,400 --> 00:26:41,200
+svetlo.
+
+789
+00:26:38,400 --> 00:26:42,440
+>> Tam je problém so zvieratami a takto,
+
+790
+00:26:41,200 --> 00:26:45,840
+nie?
+
+791
+00:26:42,440 --> 00:26:47,440
+>> Sú aj moria, kde sa to dá robiť a potom
+
+792
+00:26:45,840 --> 00:26:48,160
+sa k tomu môžeme dostať. Eh
+
+793
+00:26:47,440 --> 00:26:49,760
+>> Uhm.
+
+794
+00:26:48,160 --> 00:26:51,440
+>> Takže zakopali
+
+795
+00:26:49,760 --> 00:26:54,480
+najprv kilometer, potom zistili, že to
+
+796
+00:26:51,440 --> 00:26:56,400
+je moc tak ešte oveľa hlbšie zakopali
+
+797
+00:26:54,480 --> 00:26:58,600
+fotonásobiče. Fotonásobiče vy to sú
+
+798
+00:26:56,400 --> 00:26:59,840
+takéto gule, do ktorých vojde slabý
+
+799
+00:26:58,600 --> 00:27:02,680
+signál a on ho zosilní, aby sa dal
+
+800
+00:26:59,840 --> 00:27:05,160
+zachytiť. Zakopali to tak, že v podstate
+
+801
+00:27:02,680 --> 00:27:06,720
+horúcou vodou vŕtali kilometer kilometer
+
+802
+00:27:05,160 --> 00:27:08,040
+hlboko.
+
+803
+00:27:06,720 --> 00:27:10,600
+A to, čo sa vlastne stane, je, že
+
+804
+00:27:08,040 --> 00:27:13,240
+sem-tam priletí neutríno,
+
+805
+00:27:10,600 --> 00:27:15,000
+vytvorí záblesk a oni zistia, že
+
+806
+00:27:13,240 --> 00:27:17,800
+čo to vlastne bolo. Čiže zachytávajú tie
+
+807
+00:27:15,000 --> 00:27:19,800
+záblesky a hore potom takáto stanica, tu
+
+808
+00:27:17,800 --> 00:27:21,720
+vidíš, aký veľký je asi človek a aké
+
+809
+00:27:19,800 --> 00:27:24,480
+veľké stanica a aké je to celé hlboké.
+
+810
+00:27:21,720 --> 00:27:28,320
+Takže naozaj, že kilometre pod
+
+811
+00:27:24,480 --> 00:27:30,618
+ľad sú navŕtané také dlhé stĺpy, v nich
+
+812
+00:27:28,320 --> 00:27:31,560
+sú fotonásobiče, tie zachytávajú signál.
+
+813
+00:27:30,618 --> 00:27:33,440
+>> [lapanie po dychu]
+
+814
+00:27:31,560 --> 00:27:34,720
+>> Drvivá väčšina signálu, ktorý zachytíš,
+
+815
+00:27:33,440 --> 00:27:38,240
+ťa vôbec nezaujíma, to sú tie
+
+816
+00:27:34,720 --> 00:27:40,560
+atmosferické neutrína a
+
+817
+00:27:38,240 --> 00:27:42,320
+ktoré vznikajú vo veľkom počte a musíš
+
+818
+00:27:40,560 --> 00:27:45,040
+teda nahromadiť veľmi veľa signálu, aby
+
+819
+00:27:42,320 --> 00:27:46,440
+si potom odpočítal tento nudný signál a
+
+820
+00:27:45,040 --> 00:27:47,960
+zistil, koľko je tam toho zaujímavého z
+
+821
+00:27:46,440 --> 00:27:49,560
+vesmíru.
+
+822
+00:27:47,960 --> 00:27:51,240
+Oni spomínali rôzne zaujímavé problémy,
+
+823
+00:27:49,560 --> 00:27:53,160
+napríklad, že keď to zakopali len ten
+
+824
+00:27:51,240 --> 00:27:54,960
+kilometer alebo koľko, tak tam bolo ešte
+
+825
+00:27:53,160 --> 00:27:56,560
+veľa bubliniek, ktoré rozptyľovali ten
+
+826
+00:27:54,960 --> 00:27:58,880
+signál, takže nebolo to pekné a museli
+
+827
+00:27:56,560 --> 00:28:01,960
+to naozaj že vykopať hlboko.
+
+828
+00:27:58,880 --> 00:28:03,680
+A tá Nobelova cena bola vlastne ocenená,
+
+829
+00:28:01,960 --> 00:28:06,560
+udelená tomu výskumníkovi, ktorý
+
+830
+00:28:03,680 --> 00:28:08,360
+naštartoval celú tú kolaboráciu a na tom
+
+831
+00:28:06,560 --> 00:28:10,880
+robia teraz 100 ľudí.
+
+832
+00:28:08,360 --> 00:28:12,880
+>> nevenoval neutrínam, ale potom si to
+
+833
+00:28:10,880 --> 00:28:15,240
+zobral pod palec, že
+
+834
+00:28:12,880 --> 00:28:16,840
+chce Tam bolo viacej asi motivačných
+
+835
+00:28:15,240 --> 00:28:18,040
+faktorov, ale že chce chce to
+
+836
+00:28:16,840 --> 00:28:18,640
+dohliadnuť, aby
+
+837
+00:28:18,040 --> 00:28:19,680
+>> Tak, tak, tak.
+
+838
+00:28:18,640 --> 00:28:20,440
+>> ten
+
+839
+00:28:19,680 --> 00:28:23,080
+praktický
+
+840
+00:28:20,440 --> 00:28:24,520
+>> Tie neutrína sú zaujímavé,
+
+841
+00:28:23,080 --> 00:28:26,480
+bo boli pre neho to motiváciou kvôli
+
+842
+00:28:24,520 --> 00:28:28,320
+tomu, že keď máš nejakú tú časticu,
+
+843
+00:28:26,480 --> 00:28:30,120
+povedal si, že svetlo interaguje so
+
+844
+00:28:28,320 --> 00:28:32,680
+všeličím. Takže napríklad, keď máš
+
+845
+00:28:30,120 --> 00:28:34,400
+niekde záblesk,
+
+846
+00:28:32,680 --> 00:28:36,280
+svetlo dôjde do atmosféry, narazí a
+
+847
+00:28:34,400 --> 00:28:38,440
+urobí takú spršku, takže už zachytávaš
+
+848
+00:28:36,280 --> 00:28:40,360
+len tú spršku. Toto sa robí často, ale
+
+849
+00:28:38,440 --> 00:28:40,760
+už nemáš ten priamy signál.
+
+850
+00:28:40,360 --> 00:28:41,880
+>> Uhm.
+
+851
+00:28:40,760 --> 00:28:43,560
+>> Keď
+
+852
+00:28:41,880 --> 00:28:45,360
+zachytávaš častice hmoty, napríklad
+
+853
+00:28:43,560 --> 00:28:47,320
+protóny, tak protóny sú elektricky
+
+854
+00:28:45,360 --> 00:28:50,040
+nabité a vesmír je plný magnetických
+
+855
+00:28:47,320 --> 00:28:52,120
+takže tie protóny idú ako taký opilec
+
+856
+00:28:50,040 --> 00:28:54,360
+doľava, doprava a keď k tebe dôjdu, tak
+
+857
+00:28:52,120 --> 00:28:55,200
+nevieš z ktorého smeru pôvodne vyšli.
+
+858
+00:28:54,360 --> 00:28:57,440
+>> Uhm.
+
+859
+00:28:55,200 --> 00:29:00,360
+>> A neutrína sú v tomto dokonalé. Oni zo
+
+860
+00:28:57,440 --> 00:29:01,920
+zdroja letia rovno, s ničím neinteragujú
+
+861
+00:29:00,360 --> 00:29:03,400
+a je ťažké ich zachytiť, ale príde ich
+
+862
+00:29:01,920 --> 00:29:05,480
+dosť veľa, takže pár z nich dokáže
+
+863
+00:29:03,400 --> 00:29:07,000
+zachytiť. Takže oni preletia celú Zem a
+
+864
+00:29:05,480 --> 00:29:08,280
+my si ich na opačnom konci zachytíme
+
+865
+00:29:07,000 --> 00:29:10,200
+nejaký malinký zlomok a z neho
+
+866
+00:29:08,280 --> 00:29:12,000
+zreprodukujeme, že čo sme vlastne
+
+867
+00:29:10,200 --> 00:29:13,240
+pozorovali. A
+
+868
+00:29:12,000 --> 00:29:15,640
+this is it. Za toto bola udelená
+
+869
+00:29:13,240 --> 00:29:18,080
+Nobelovka, ehm.
+
+870
+00:29:15,640 --> 00:29:19,000
+>> No, počkaj, ešte o tej kontroverzii ešte
+
+871
+00:29:18,080 --> 00:29:20,680
+potom.
+
+872
+00:29:19,000 --> 00:29:21,960
+>> No, tá kontroverzia spočíva v tom, že my
+
+873
+00:29:20,680 --> 00:29:23,440
+sme sa z toho vlastne nič nové
+
+874
+00:29:21,960 --> 00:29:26,800
+nedozvedeli.
+
+875
+00:29:23,440 --> 00:29:27,960
+My sme vedeli, že neutrína existujú.
+
+876
+00:29:26,800 --> 00:29:28,600
+A my sme vedeli, že majú
+
+877
+00:29:27,960 --> 00:29:30,320
+>> predtým, nie?
+
+878
+00:29:28,600 --> 00:29:31,960
+>> Áno, a my sme vedeli, že majú kozmický
+
+879
+00:29:30,320 --> 00:29:34,680
+zdroj.
+
+880
+00:29:31,960 --> 00:29:37,040
+Že tento experiment je cool,
+
+881
+00:29:34,680 --> 00:29:39,000
+ale on nás vlastne nenaučil nič nové
+
+882
+00:29:37,040 --> 00:29:39,440
+svojím výsledkom.
+
+883
+00:29:39,000 --> 00:29:40,000
+>> [lapanie po dychu][vzdychanie]
+
+884
+00:29:39,440 --> 00:29:42,240
+>> A
+
+885
+00:29:40,000 --> 00:29:44,400
+>> Ehm, možno by sa povedalo, že využívať
+
+886
+00:29:42,240 --> 00:29:46,800
+ten ľad na to zachytávanie tých neutrín,
+
+887
+00:29:44,400 --> 00:29:48,640
+>> to je že cool experiment, ktorý nás
+
+888
+00:29:46,800 --> 00:29:50,200
+nenaučil nič nové. Lebo cool,
+
+889
+00:29:48,640 --> 00:29:52,480
+ono je to v podstate že observatórium
+
+890
+00:29:50,200 --> 00:29:53,200
+toto, lebo to niečo pozoruje.
+
+891
+00:29:52,480 --> 00:29:55,120
+Ehm.
+
+892
+00:29:53,200 --> 00:29:56,685
+>> No, ono je to dokonca že vesmírny
+
+893
+00:29:55,120 --> 00:29:57,080
+teleskop nazvané.
+
+894
+00:29:56,685 --> 00:29:57,880
+>> [smiech]
+
+895
+00:29:57,080 --> 00:29:59,680
+>> No,
+
+896
+00:29:57,880 --> 00:30:00,440
+tak, ehm.
+
+897
+00:29:59,680 --> 00:30:02,400
+Norbi
+
+898
+00:30:00,440 --> 00:30:03,720
+>> najprv myslel, že hovoria o niečom inom,
+
+899
+00:30:02,400 --> 00:30:05,480
+lebo keď som to
+
+900
+00:30:03,720 --> 00:30:06,510
+najprv videl, ja že to nie je vesmírny
+
+901
+00:30:05,480 --> 00:30:07,160
+teleskop.
+
+902
+00:30:06,510 --> 00:30:08,880
+>> [lapanie po dychu]
+
+903
+00:30:07,160 --> 00:30:11,760
+>> A Norbi Werner mi písal,
+
+904
+00:30:08,880 --> 00:30:13,600
+že on je trošku sklamaný z tej ceny,
+
+905
+00:30:11,760 --> 00:30:14,800
+lebo že nič nové nám to vlastne
+
+906
+00:30:13,600 --> 00:30:17,000
+nepovedalo, ale že sú iní dobrí
+
+907
+00:30:14,800 --> 00:30:19,560
+kandidáti na Nobelovku. Ja som tipoval
+
+908
+00:30:17,000 --> 00:30:21,560
+niekoho z kvantovky za veľmi zaujímavý
+
+909
+00:30:19,560 --> 00:30:23,240
+kvantovomechanický efekt, ale však to je
+
+910
+00:30:21,560 --> 00:30:25,760
+jedno teraz. Nedostal to, nebudeme sa o
+
+911
+00:30:23,240 --> 00:30:28,680
+ňom rozprávať. Ehm.
+
+912
+00:30:25,760 --> 00:30:31,440
+Takže to o potom toto pres bola taká
+
+913
+00:30:28,680 --> 00:30:34,000
+malá smršť na internete, že
+
+914
+00:30:31,440 --> 00:30:35,760
+že je to cool, je to super, že sa im to
+
+915
+00:30:34,000 --> 00:30:37,400
+podarilo aj nakoniec vyladiť tak, že
+
+916
+00:30:35,760 --> 00:30:40,760
+naozaj zachytávajú aj tie kozmické
+
+917
+00:30:37,400 --> 00:30:43,360
+neutrína vysokoenergetické,
+
+918
+00:30:40,760 --> 00:30:45,160
+ale nie je tam ten nie je tam
+
+919
+00:30:43,360 --> 00:30:47,200
+ten punchline, že a toto nové nás to
+
+920
+00:30:45,160 --> 00:30:49,000
+naučilo. Trošku to chýba. Vieš, že keď
+
+921
+00:30:47,200 --> 00:30:51,240
+sme zachytili prvé gravitačné vlny, tak
+
+922
+00:30:49,000 --> 00:30:52,920
+by sme nevedeli, že či sa to vôbec dá.
+
+923
+00:30:51,240 --> 00:30:55,680
+>> Chcel som ti troška oponovať, že veď aj
+
+924
+00:30:52,920 --> 00:30:56,840
+gravitačné vlny sú také, že veď sme to
+
+925
+00:30:55,680 --> 00:30:57,600
+zachytili
+
+926
+00:30:56,840 --> 00:30:59,600
+>> priamo, hej?
+
+927
+00:30:57,600 --> 00:31:01,520
+>> Áno, áno, že tam je to troška, že toto
+
+928
+00:30:59,600 --> 00:31:02,400
+nebolo, že prvé neutríno sme zachytili
+
+929
+00:31:01,520 --> 00:31:04,320
+vďaka tomuto.
+
+930
+00:31:02,400 --> 00:31:06,160
+>> teraz niekto znova zachytil gravitačné
+
+931
+00:31:04,320 --> 00:31:08,360
+vlny nejakým, predtým sa robili také
+
+932
+00:31:06,160 --> 00:31:10,320
+torzné experimenty, že máš niečo a chceš
+
+933
+00:31:08,360 --> 00:31:12,920
+vedieť, či to zrotuje nejako v prvom
+
+934
+00:31:10,320 --> 00:31:14,760
+gravitačnom vlnu a tak ďalej.
+
+935
+00:31:12,920 --> 00:31:16,160
+Skúšali to ľudia, nepodarilo sa to a
+
+936
+00:31:14,760 --> 00:31:17,840
+keby to teraz urobili s lepšími
+
+937
+00:31:16,160 --> 00:31:19,760
+technológiami a podarí sa to, tak sa to
+
+938
+00:31:17,840 --> 00:31:21,920
+tiež asi nezaslúži Nobelovu cenu, aj
+
+939
+00:31:19,760 --> 00:31:23,440
+keby to bolo cool, lebo by nás to
+
+940
+00:31:21,920 --> 00:31:24,600
+naučilo už len to, čo už vieme o
+
+941
+00:31:23,440 --> 00:31:25,600
+gravitačných vlnách.
+
+942
+00:31:24,600 --> 00:31:27,520
+>> Uhm.
+
+943
+00:31:25,600 --> 00:31:30,080
+Inak to je veľmi pekný príklad vlastne,
+
+944
+00:31:27,520 --> 00:31:31,400
+že hm, za to by nedali Nobelovu cenu
+
+945
+00:31:30,080 --> 00:31:33,280
+asi.
+
+946
+00:31:31,400 --> 00:31:36,040
+>> Ale trošku bolo tak, že niekoľko rokov
+
+947
+00:31:33,280 --> 00:31:38,200
+nedostala teraz astronómia, takže sa
+
+948
+00:31:36,040 --> 00:31:39,440
+čakalo, že niečo z toho bude, ale boli
+
+949
+00:31:38,200 --> 00:31:41,840
+tam aj
+
+950
+00:31:39,440 --> 00:31:42,520
+iné možnosti.
+
+951
+00:31:41,840 --> 00:31:47,480
+Ale
+
+952
+00:31:42,520 --> 00:31:47,480
+>> po- pozri, eh, odovzdávajú si to Švédi.
+
+953
+00:31:47,720 --> 00:31:50,960
+Musia si to oni obhájiť.
+
+954
+00:31:49,280 --> 00:31:53,120
+>> Teda nie, ani nemusia si to obhájiť.
+
+955
+00:31:50,960 --> 00:31:54,840
+>> Tak, je je je je to, stále je to cool,
+
+956
+00:31:53,120 --> 00:31:57,760
+je to super zaujímavé.
+
+957
+00:31:54,840 --> 00:31:59,960
+Malý fun fact, ja keď som si
+
+958
+00:31:57,760 --> 00:32:01,760
+keď som končil PhD-čko v Bratislave, tak
+
+959
+00:31:59,960 --> 00:32:03,440
+som si pozeral pracovné pozície niekde a
+
+960
+00:32:01,760 --> 00:32:04,920
+však išiel som do Dublinu a tam som si,
+
+961
+00:32:03,440 --> 00:32:06,840
+to je jediné miesto, kam som aj nakoniec
+
+962
+00:32:04,920 --> 00:32:08,600
+poslal prihlášku,
+
+963
+00:32:06,840 --> 00:32:10,160
+lebo som nevedel, že to s máš poslať 10,
+
+964
+00:32:08,600 --> 00:32:12,080
+aby si sa niekam dostal a mne to celkom
+
+965
+00:32:10,160 --> 00:32:14,237
+vyštreľalo našťastie.
+
+966
+00:32:12,080 --> 00:32:15,000
+>> No, ty si ako ja s vysokou školou.
+
+967
+00:32:14,237 --> 00:32:17,280
+>> [smiech]
+
+968
+00:32:15,000 --> 00:32:21,240
+>> Ale keď som si pozeral, že čo ďalej je
+
+969
+00:32:17,280 --> 00:32:22,040
+ešte možné, tak IceCube hľadal
+
+970
+00:32:21,240 --> 00:32:22,960
+eh, ľudí.
+
+971
+00:32:22,040 --> 00:32:24,717
+>> raper.
+
+972
+00:32:22,960 --> 00:32:25,600
+>> Nie, nie, IceCube ako tento experiment.
+
+973
+00:32:24,717 --> 00:32:27,200
+[smiech]
+
+974
+00:32:25,600 --> 00:32:28,560
+To sme vlastne mali povedať, hej, že
+
+975
+00:32:27,200 --> 00:32:29,720
+>> Viem, viem, čo čo ako, hej, ten
+
+976
+00:32:28,560 --> 00:32:32,240
+experiment teda alebo
+
+977
+00:32:29,720 --> 00:32:34,280
+>> Takže hľadali ľudí na polročné misie a
+
+978
+00:32:32,240 --> 00:32:35,920
+mne to bolo, že á, že
+
+979
+00:32:34,280 --> 00:32:37,720
+a teraz spätne ľutujem, že keby som
+
+980
+00:32:35,920 --> 00:32:39,040
+vedel, že
+
+981
+00:32:37,720 --> 00:32:41,200
+vieš, že celý život môžeš rozprávať, že
+
+982
+00:32:39,040 --> 00:32:45,677
+si bol pol roka na Antarktíde a a hlavne
+
+983
+00:32:41,200 --> 00:32:46,280
+za tam 5 km okolo tej
+
+984
+00:32:45,677 --> 00:32:48,000
+>> [lapanie po dychu]
+
+985
+00:32:46,280 --> 00:32:50,080
+>> tej výskumnej stanice, bol bol by si
+
+986
+00:32:48,000 --> 00:32:52,000
+cool týpek, no. Ale tak a tam tam keď
+
+987
+00:32:50,080 --> 00:32:55,760
+dáš nejaký nejaký rekord na strave, tak
+
+988
+00:32:52,000 --> 00:32:55,760
+to ti tak rýchlo nikto nezoberie.
+
+989
+00:32:55,880 --> 00:33:00,440
+Tučniak s Garminmi.
+
+990
+00:32:57,800 --> 00:33:03,760
+Dobre, tak ideme na chémiu?
+
+991
+00:33:00,440 --> 00:33:06,160
+Tak poďme na chémiu. Získali ju Henry B.
+
+992
+00:33:03,760 --> 00:33:07,680
+Kagan a Kanso
+
+993
+00:33:06,160 --> 00:33:10,520
+Soai.
+
+994
+00:33:07,680 --> 00:33:12,360
+A ehm
+
+995
+00:33:10,520 --> 00:33:14,360
+strašné že ten názov.
+
+996
+00:33:12,360 --> 00:33:15,360
+Strašný názov, neviem nechám to asi
+
+997
+00:33:14,360 --> 00:33:16,920
+tebe, že.
+
+998
+00:33:15,360 --> 00:33:19,880
+Ináč ja si ešte zanadávam na takú vec,
+
+999
+00:33:16,920 --> 00:33:23,160
+že každá z tých troch cien má iný formát
+
+1000
+00:33:19,880 --> 00:33:25,520
+tých PDFiek, ktoré k tomu dávajú.
+
+1001
+00:33:23,160 --> 00:33:27,520
+Jaj áno, to to som aj tiež bol, že pre
+
+1002
+00:33:25,520 --> 00:33:28,960
+to robili asi iní ľudia.
+
+1003
+00:33:27,520 --> 00:33:32,000
+Vieš, že iné tímy, ale presne vieš, že
+
+1004
+00:33:28,960 --> 00:33:34,120
+tu máš tu nemáš vyboldovaných tu máš a
+
+1005
+00:33:32,000 --> 00:33:36,560
+chemici si urobia PDFko.
+
+1006
+00:33:34,120 --> 00:33:38,280
+A
+
+1007
+00:33:36,560 --> 00:33:40,920
+Nobelova cena za chémiu bola teda
+
+1008
+00:33:38,280 --> 00:33:42,320
+udelená v prvom priblížení za výskum
+
+1009
+00:33:40,920 --> 00:33:44,560
+chiralitu.
+
+1010
+00:33:42,320 --> 00:33:47,200
+Čo je
+
+1011
+00:33:44,560 --> 00:33:49,120
+jedna z najzaujímavejších vecí v chémii,
+
+1012
+00:33:47,200 --> 00:33:50,640
+o ktorej ja sa divím, že sa viacej
+
+1013
+00:33:49,120 --> 00:33:52,400
+nerozpráva už na stredných školách, lebo
+
+1014
+00:33:50,640 --> 00:33:53,760
+to pre mňa je úplne že cool vec, ktorej
+
+1015
+00:33:52,400 --> 00:33:55,800
+sa dá veľmi rozumieť bez toho, aby si
+
+1016
+00:33:53,760 --> 00:33:57,800
+rozumel riadne chémii
+
+1017
+00:33:55,800 --> 00:34:00,200
+a vie to vzbudiť záujem ľudí. A
+
+1018
+00:33:57,800 --> 00:34:02,480
+chiralita je vlastne o zrkadlových
+
+1019
+00:34:00,200 --> 00:34:05,640
+vlastnostiach v chémii.
+
+1020
+00:34:02,480 --> 00:34:07,440
+Že máš ľavú ruku a máš pravú ruku a
+
+1021
+00:34:05,640 --> 00:34:09,120
+majú síce rovnaké zloženie, že štyri
+
+1022
+00:34:07,440 --> 00:34:12,200
+prsty a palec,
+
+1023
+00:34:09,120 --> 00:34:14,600
+ale nedajú sa na seba pretvoriť, sú
+
+1024
+00:34:12,200 --> 00:34:16,360
+svojimi zrkadlovými obrazmi.
+
+1025
+00:34:14,600 --> 00:34:18,679
+Blíži sa zima, každý z nás si to všimne
+
+1026
+00:34:16,360 --> 00:34:20,840
+vtedy, keď si pokúsi dať pravú rukavicu
+
+1027
+00:34:18,679 --> 00:34:22,639
+na ľavú ruku a naopak. Že vidíš, že to
+
+1028
+00:34:20,840 --> 00:34:24,080
+nepasuje a nevieš nič s tou rukou
+
+1029
+00:34:22,639 --> 00:34:26,760
+spraviť, aby si ju proste dal do tej
+
+1030
+00:34:24,080 --> 00:34:29,320
+druhej rukavice.
+
+1031
+00:34:26,760 --> 00:34:32,879
+Sú v chémii
+
+1032
+00:34:29,320 --> 00:34:32,879
+molekuly, ktoré
+
+1033
+00:34:33,240 --> 00:34:37,679
+rozdielne fungujú v svojich zrkadlových
+
+1034
+00:34:35,600 --> 00:34:39,120
+verziách. Že ty poskladáš tie zlúčeniny,
+
+1035
+00:34:37,679 --> 00:34:41,240
+aby si urobil chemickú reakciu, tie
+
+1036
+00:34:39,120 --> 00:34:43,040
+štyri prsty a palec
+
+1037
+00:34:41,240 --> 00:34:44,800
+a vzniknú ti dve verzie. A jedna verzia
+
+1038
+00:34:43,040 --> 00:34:45,760
+robí jednu vec a druhá verzia robí druhú
+
+1039
+00:34:44,800 --> 00:34:47,800
+vec.
+
+1040
+00:34:45,760 --> 00:34:49,760
+Všimol si to ako prvý a to je teraz, aby
+
+1041
+00:34:47,800 --> 00:34:51,919
+si vedel, že ako sa tento, táto Nobelka
+
+1042
+00:34:49,760 --> 00:34:52,749
+ťahá ďaleko v čase, eh
+
+1043
+00:34:51,919 --> 00:34:53,800
+Pasteur.
+
+1044
+00:34:52,749 --> 00:34:54,639
+>> [smrkanie]
+
+1045
+00:34:53,800 --> 00:34:55,369
+>> Wow.
+
+1046
+00:34:54,639 --> 00:34:55,520
+>> Hehe, hej.
+
+1047
+00:34:55,369 --> 00:34:57,334
+>> [smiech]
+
+1048
+00:34:55,520 --> 00:34:57,840
+>> OK.
+
+1049
+00:34:57,334 --> 00:34:58,760
+>> [lapanie po dychu]
+
+1050
+00:34:57,840 --> 00:35:00,000
+>> On si všimol takú vec,
+
+1051
+00:34:58,760 --> 00:35:03,040
+>> Lebo ja že chémii, koho bude poznať a
+
+1052
+00:35:00,000 --> 00:35:04,200
+potom, dobre, Pasteura poznám, ale
+
+1053
+00:35:03,040 --> 00:35:05,600
+to je veľmi dávno.
+
+1054
+00:35:04,200 --> 00:35:08,200
+>> A fakt, až takto ďaleko, že on si
+
+1055
+00:35:05,600 --> 00:35:10,280
+všimol, eh že
+
+1056
+00:35:08,200 --> 00:35:10,480
+>> že nevieš niektoré molekuly pretvoriť,
+
+1057
+00:35:10,280 --> 00:35:15,440
+eh
+
+1058
+00:35:10,480 --> 00:35:17,520
+>> že že vínové kryštáliky občas stáčajú
+
+1059
+00:35:15,440 --> 00:35:19,080
+jedným smerom polarizáciu svetla. Že
+
+1060
+00:35:17,520 --> 00:35:21,560
+svetlo vieš urobiť také, aby sa vlnilo
+
+1061
+00:35:19,080 --> 00:35:23,480
+jedným smerom a niektoré kryštáliky ho
+
+1062
+00:35:21,560 --> 00:35:25,200
+stáčajú jedným smerom a druhé stáčajú
+
+1063
+00:35:23,480 --> 00:35:27,160
+naopak. A keď to všetko spojíš dokopy,
+
+1064
+00:35:25,200 --> 00:35:28,680
+tak to nerobí nič. Je to už,
+
+1065
+00:35:27,160 --> 00:35:29,560
+pomiešajú sa tie efekty.
+
+1066
+00:35:28,680 --> 00:35:32,880
+>> Aha.
+
+1067
+00:35:29,560 --> 00:35:35,160
+>> A došlo k uvedomeniu si, že asi teda
+
+1068
+00:35:32,880 --> 00:35:37,040
+existujú dve zrkadlové verzie molekúl a
+
+1069
+00:35:35,160 --> 00:35:38,280
+niekedy máš iba jednu a niekedy máš zmes
+
+1070
+00:35:37,040 --> 00:35:40,920
+oboch.
+
+1071
+00:35:38,280 --> 00:35:42,440
+A niekedy tie dve verzie robia rozdielne
+
+1072
+00:35:40,920 --> 00:35:45,880
+veci.
+
+1073
+00:35:42,440 --> 00:35:48,160
+A postupne si ľudia uvedomili, že
+
+1074
+00:35:45,880 --> 00:35:50,680
+biológia života využíva len jednu verziu
+
+1075
+00:35:48,160 --> 00:35:52,760
+molekúl. Že v biológii máš strašne veľa
+
+1076
+00:35:50,680 --> 00:35:53,960
+verzií, vecí, kde by si mal na výber, že
+
+1077
+00:35:52,760 --> 00:35:55,480
+je to buď táto molekula alebo jej
+
+1078
+00:35:53,960 --> 00:35:57,880
+zrkadlová verzia
+
+1079
+00:35:55,480 --> 00:36:00,640
+a v život si v nejakom bode evolučne
+
+1080
+00:35:57,880 --> 00:36:03,200
+vybral jednu verziu a toho sa drží.
+
+1081
+00:36:00,640 --> 00:36:04,560
+A tá zrkadlová v podstate nie je
+
+1082
+00:36:03,200 --> 00:36:06,720
+prítomná.
+
+1083
+00:36:04,560 --> 00:36:09,800
+Lebo máš
+
+1084
+00:36:06,720 --> 00:36:12,640
+nejakú molekulu, ktorá dodáva
+
+1085
+00:36:09,800 --> 00:36:14,200
+niečo, nejaký zdroj energie alebo čoho
+
+1086
+00:36:12,640 --> 00:36:15,640
+a tá vec, ktorá ju ide pochrumať, je
+
+1087
+00:36:14,200 --> 00:36:17,720
+pripravená na tú jednu verziu a nevie
+
+1088
+00:36:15,640 --> 00:36:19,800
+operovať s tou opačnou. Čiže proste, že
+
+1089
+00:36:17,720 --> 00:36:22,640
+chémia si v nejakom bode vybrala svoju
+
+1090
+00:36:19,800 --> 00:36:25,520
+chiralitu, svoju pravorukosť alebo
+
+1091
+00:36:22,640 --> 00:36:26,960
+ľavorukosť, podľa toho, čo presne ide.
+
+1092
+00:36:25,520 --> 00:36:29,360
+A
+
+1093
+00:36:26,960 --> 00:36:30,680
+veľmi je to dôležité napríklad vo
+
+1094
+00:36:29,360 --> 00:36:32,480
+farmácii.
+
+1095
+00:36:30,680 --> 00:36:34,520
+Prečo? Lebo vo farmácii vytváraš
+
+1096
+00:36:32,480 --> 00:36:36,920
+chemikálie, ktoré potom idú do ľudského
+
+1097
+00:36:34,520 --> 00:36:38,640
+tela a tam sa môže stať, že jedna verzia
+
+1098
+00:36:36,920 --> 00:36:40,400
+funguje ako liek, lebo zareaguje na
+
+1099
+00:36:38,640 --> 00:36:42,000
+správnom mieste
+
+1100
+00:36:40,400 --> 00:36:44,840
+>> A druhá druhá nefunguje ako liek.
+
+1101
+00:36:42,000 --> 00:36:46,760
+>> A druhá v lepšom prípade nespraví nič
+
+1102
+00:36:44,840 --> 00:36:48,280
+a v horšom prípade môže byť veľmi
+
+1103
+00:36:46,760 --> 00:36:51,520
+nebezpečná.
+
+1104
+00:36:48,280 --> 00:36:54,560
+Bol taký liek, ktorý sa dával na
+
+1105
+00:36:51,520 --> 00:36:57,240
+nevoľnosť počas tehotenstva,
+
+1106
+00:36:54,560 --> 00:37:00,280
+ktorý v jednej verzii robil toto, že
+
+1107
+00:36:57,240 --> 00:37:03,680
+odstraňoval nevoľnosť tehotným ženám a v
+
+1108
+00:37:00,280 --> 00:37:05,520
+opačnej verzii spôsoboval defekty plodu.
+
+1109
+00:37:03,680 --> 00:37:07,720
+A asi 10 000 detí sa
+
+1110
+00:37:05,520 --> 00:37:11,160
+>> že povieš, že ja neviem, sopľík alebo
+
+1111
+00:37:07,720 --> 00:37:13,680
+>> zhorší to alebo čo a že 10 000 alebo 10
+
+1112
+00:37:11,160 --> 00:37:14,760
+000 detí dokonca sa narodili kvôli tomu,
+
+1113
+00:37:13,680 --> 00:37:18,200
+že
+
+1114
+00:37:14,760 --> 00:37:20,640
+ich matky užívali tento liek, ktorý tej
+
+1115
+00:37:18,200 --> 00:37:22,745
+na nešťastne vyrobenej verzii vlastne
+
+1116
+00:37:20,640 --> 00:37:23,440
+zrazu pôsobil ako takýto jed.
+
+1117
+00:37:22,745 --> 00:37:26,600
+>> [lapanie po dychu]
+
+1118
+00:37:23,440 --> 00:37:28,760
+>> Takže má to aj teoreticky
+
+1119
+00:37:26,600 --> 00:37:30,240
+zaujímavé opodstatnenie, že porozumieť
+
+1120
+00:37:28,760 --> 00:37:32,280
+chiralite v chémii.
+
+1121
+00:37:30,240 --> 00:37:33,880
+>> A má to aj v praxi, farmácia je na toto
+
+1122
+00:37:32,280 --> 00:37:34,600
+veľmi, veľmi citlivá. A
+
+1123
+00:37:33,880 --> 00:37:36,160
+>> Uhm.
+
+1124
+00:37:34,600 --> 00:37:38,240
+>> sranda je tá, že ty keď teda robíš tie
+
+1125
+00:37:36,160 --> 00:37:41,400
+chemické reakcie a na začiatku máš veci,
+
+1126
+00:37:38,240 --> 00:37:42,880
+ktoré nie sú sú zrkadlovo symetrické
+
+1127
+00:37:41,400 --> 00:37:44,240
+a pospájaš ich dokopy, tak aj keď ti
+
+1128
+00:37:42,880 --> 00:37:46,520
+vytvárajú tie verzie, tak ti vytvárajú
+
+1129
+00:37:44,240 --> 00:37:48,120
+rovnako veľa ľavej a pravej.
+
+1130
+00:37:46,520 --> 00:37:50,240
+Takže
+
+1131
+00:37:48,120 --> 00:37:51,920
+chémia si nevyberá, ktorú z tých verzií,
+
+1132
+00:37:50,240 --> 00:37:54,200
+že to si až ten život potom vybral, keď
+
+1133
+00:37:51,920 --> 00:37:56,440
+tam začali vznikať komplexné molekuly a
+
+1134
+00:37:54,200 --> 00:37:59,240
+musela sa jedna z tých verzií vyvinúť.
+
+1135
+00:37:56,440 --> 00:38:01,840
+A bola veľká otvorená otázka v chémii,
+
+1136
+00:37:59,240 --> 00:38:03,440
+že ako vlastne
+
+1137
+00:38:01,840 --> 00:38:05,560
+urobiť nejakú reakciu, ktorá by si
+
+1138
+00:38:03,440 --> 00:38:07,240
+vyberala iba ľavé alebo iba pravé. Že
+
+1139
+00:38:05,560 --> 00:38:09,040
+ako urobiť chemickú reakciu, ktorá ti
+
+1140
+00:38:07,240 --> 00:38:09,840
+vedie ku chiralite.
+
+1141
+00:38:09,040 --> 00:38:12,600
+>> Uhm.
+
+1142
+00:38:09,840 --> 00:38:14,440
+>> To čo sa videlo je, že a teraz zistíme,
+
+1143
+00:38:12,600 --> 00:38:15,640
+ako si dobre pamätáš stredoškolskú
+
+1144
+00:38:14,440 --> 00:38:19,240
+chémiu,
+
+1145
+00:38:15,640 --> 00:38:21,800
+je, že môžeš mať ehm
+
+1146
+00:38:19,240 --> 00:38:23,560
+to označenie k tomu je, že enantiomer,
+
+1147
+00:38:21,800 --> 00:38:24,040
+že tá ľavá a pravá verzia molekuly.
+
+1148
+00:38:23,560 --> 00:38:25,120
+>> Uhm.
+
+1149
+00:38:24,040 --> 00:38:27,000
+>> A že
+
+1150
+00:38:25,120 --> 00:38:28,880
+môžeš
+
+1151
+00:38:27,000 --> 00:38:30,440
+mať katalyzátor, to je niečo, čo
+
+1152
+00:38:28,880 --> 00:38:32,280
+urýchľuje reakciu.
+
+1153
+00:38:30,440 --> 00:38:34,280
+A že zoberieš nejaký kov, ktorý funguje
+
+1154
+00:38:32,280 --> 00:38:36,800
+ako katalyzátor, pripojíš k tomu nejaký
+
+1155
+00:38:34,280 --> 00:38:39,400
+ten ľavý enantiomér a
+
+1156
+00:38:36,800 --> 00:38:40,960
+budeš vytvárať potom primárne ľavé
+
+1157
+00:38:39,400 --> 00:38:42,520
+produkty. A to bolo jasné. Len problém
+
+1158
+00:38:40,960 --> 00:38:43,880
+je, že keď máš na začiatku rovnakú zmes
+
+1159
+00:38:42,520 --> 00:38:45,560
+ľavých aj pravých,
+
+1160
+00:38:43,880 --> 00:38:47,040
+tak neskôr vytvoríš rovnakú zmes znova
+
+1161
+00:38:45,560 --> 00:38:48,800
+ľavých a pravých.
+
+1162
+00:38:47,040 --> 00:38:52,360
+A tuto k tomu prispel prekvapivo
+
+1163
+00:38:48,800 --> 00:38:54,000
+teoretický fyzik eh Charles Frank,
+
+1164
+00:38:52,360 --> 00:38:56,400
+ktorý stanovil, že tri pravidlá, čo musí
+
+1165
+00:38:54,000 --> 00:38:58,240
+reakcia spĺňať, aby
+
+1166
+00:38:56,400 --> 00:39:00,240
+aby dokázala vyselektovať ľavú alebo
+
+1167
+00:38:58,240 --> 00:39:02,240
+pravú verziu molekúl. No on povedal, že
+
+1168
+00:39:00,240 --> 00:39:05,440
+po prvé,
+
+1169
+00:39:02,240 --> 00:39:08,040
+musíš tam mať chirálny katalyzátor a
+
+1170
+00:39:05,440 --> 00:39:10,880
+asymetrickú reakciu. Že niečo tam nie Že
+
+1171
+00:39:08,040 --> 00:39:14,360
+musíš tam mať nejaký zdroj nerovnováhy.
+
+1172
+00:39:10,880 --> 00:39:16,000
+Potom, že eh musíš mať jeden obraz,
+
+1173
+00:39:14,360 --> 00:39:17,600
+ktorý sa ti vytvára zosilnený a druhý
+
+1174
+00:39:16,000 --> 00:39:19,560
+potlačený, aby sa ich nevytváralo
+
+1175
+00:39:17,600 --> 00:39:21,200
+rovnako veľa.
+
+1176
+00:39:19,560 --> 00:39:23,760
+A
+
+1177
+00:39:21,200 --> 00:39:27,200
+tá realizácia musí byť tá reakcia musí
+
+1178
+00:39:23,760 --> 00:39:29,280
+byť autokatalytická, čiže produkt je sám
+
+1179
+00:39:27,200 --> 00:39:31,800
+sebe katalyzátorom, čiže samého seba to
+
+1180
+00:39:29,280 --> 00:39:33,400
+umocňuje, že vytvoríš niečo, čo potom
+
+1181
+00:39:31,800 --> 00:39:35,360
+znova vbehne do tej reakcie a znova
+
+1182
+00:39:33,400 --> 00:39:38,120
+vytvoríš niečo a zas začne to točiť,
+
+1183
+00:39:35,360 --> 00:39:39,720
+vieš, infinite profit.
+
+1184
+00:39:38,120 --> 00:39:41,840
+Aha, zistilo sa, že toto je mega ťažké
+
+1185
+00:39:39,720 --> 00:39:44,840
+urobiť.
+
+1186
+00:39:41,840 --> 00:39:45,880
+A to to, za čo vlastne dostali tí dvaja
+
+1187
+00:39:44,840 --> 00:39:46,520
+eh Nobelovku,
+
+1188
+00:39:45,880 --> 00:39:48,560
+>> Uhm.
+
+1189
+00:39:46,520 --> 00:39:50,840
+>> tak eh Kagan si vlastne uvedomil, že
+
+1190
+00:39:48,560 --> 00:39:53,880
+dobre,
+
+1191
+00:39:50,840 --> 00:39:55,680
+že na ten kov sa často nalepia aj
+
+1192
+00:39:53,880 --> 00:39:57,720
+viaceré molekuly. Takže ty tam vieš
+
+1193
+00:39:55,680 --> 00:39:59,680
+nahádzať aj ľavé, aj pravé, oni sa
+
+1194
+00:39:57,720 --> 00:40:00,840
+prilepia na ten kov. No občas sa nalepia
+
+1195
+00:39:59,680 --> 00:40:02,520
+dve ľavé,
+
+1196
+00:40:00,840 --> 00:40:04,720
+občas dve pravé
+
+1197
+00:40:02,520 --> 00:40:06,480
+a občas kombinácia
+
+1198
+00:40:04,720 --> 00:40:07,480
+ľavej a pravej.
+
+1199
+00:40:06,480 --> 00:40:09,560
+>> Uhm.
+
+1200
+00:40:07,480 --> 00:40:11,600
+>> A všimol si takú vec, že keď je tam tá
+
+1201
+00:40:09,560 --> 00:40:14,040
+zmes ľavo-pravá, tak tá reakcia je taká
+
+1202
+00:40:11,600 --> 00:40:15,960
+krkolomná a nedarí sa jej veľmi.
+
+1203
+00:40:14,040 --> 00:40:17,840
+Takže dve ľavé fičia dobre, dve pravé
+
+1204
+00:40:15,960 --> 00:40:19,360
+fičia dobre.
+
+1205
+00:40:17,840 --> 00:40:21,840
+A nevzniká ti tam veľa tých tých
+
+1206
+00:40:19,360 --> 00:40:23,280
+miešaných.
+
+1207
+00:40:21,840 --> 00:40:25,493
+A potom si uvedomil, a toto je troška
+
+1208
+00:40:23,280 --> 00:40:26,120
+matematiky, takže zazdieľam obrázok. Eh,
+
+1209
+00:40:25,493 --> 00:40:27,720
+>> [vzdychanie]
+
+1210
+00:40:26,120 --> 00:40:30,680
+>> to je odmena pre tých, ako nebojte sa
+
+1211
+00:40:27,720 --> 00:40:32,520
+ľudia ostatní, ale
+
+1212
+00:40:30,680 --> 00:40:34,880
+eh, link v popise epizódy.
+
+1213
+00:40:32,520 --> 00:40:35,480
+>> si môžete po- pozrieť na dáme všetky
+
+1214
+00:40:34,880 --> 00:40:37,000
+tieto.
+
+1215
+00:40:35,480 --> 00:40:38,560
+>> Tak akože úplne za nás je najlepšie, keď
+
+1216
+00:40:37,000 --> 00:40:40,520
+si nás vypočujete aj pozriete, lebo to
+
+1217
+00:40:38,560 --> 00:40:42,320
+sa potom ráta dvakrát.
+
+1218
+00:40:40,520 --> 00:40:45,120
+Takže to to to to čo bolo to prvé
+
+1219
+00:40:42,320 --> 00:40:46,160
+povšimnutie, teda, že vieš vytvárať
+
+1220
+00:40:45,120 --> 00:40:47,840
+>> Mhm. Mhm.
+
+1221
+00:40:46,160 --> 00:40:49,280
+>> Vieš to na začiatku zamiešať karty tak,
+
+1222
+00:40:47,840 --> 00:40:50,600
+aby si vytváral viacej napríklad teda
+
+1223
+00:40:49,280 --> 00:40:52,520
+tých hlavných
+
+1224
+00:40:50,600 --> 00:40:54,280
+enantiomérov a
+
+1225
+00:40:52,520 --> 00:40:56,040
+to čo si teda všimol eh Kagan je, že
+
+1226
+00:40:54,280 --> 00:40:58,040
+urobíš tú kombináciu ľavý a pravý, ale
+
+1227
+00:40:56,040 --> 00:41:01,320
+nedáš ich tam rovnako veľa.
+
+1228
+00:40:58,040 --> 00:41:01,520
+Dáš ich tam napríklad, že štvrť a pol.
+
+1229
+00:41:01,320 --> 00:41:04,080
+>> Mhm.
+
+1230
+00:41:01,520 --> 00:41:07,600
+>> A to očakávanie totálne logické, ale
+
+1231
+00:41:04,080 --> 00:41:09,760
+nesprávne bolo také,
+
+1232
+00:41:07,600 --> 00:41:12,320
+že sa to bude správať lineárne. Že keď
+
+1233
+00:41:09,760 --> 00:41:13,880
+na začiatku je to štvrť a tri štvrtiny,
+
+1234
+00:41:12,320 --> 00:41:16,400
+tak aj na konci to bude štvrť a tri
+
+1235
+00:41:13,880 --> 00:41:18,680
+štvrtiny. Že to správa, že sa nemenia
+
+1236
+00:41:16,400 --> 00:41:19,960
+tie pomery počas reakcie.
+
+1237
+00:41:18,680 --> 00:41:21,880
+A to čo si on uvedomil, že sa to bude
+
+1238
+00:41:19,960 --> 00:41:23,760
+správať nelineárne.
+
+1239
+00:41:21,880 --> 00:41:25,360
+Na začiatku si tam dal pomer jedna k
+
+1240
+00:41:23,760 --> 00:41:27,720
+trom.
+
+1241
+00:41:25,360 --> 00:41:29,920
+Potom ti tam chcelo vzniknúť veľa tých
+
+1242
+00:41:27,720 --> 00:41:31,440
+pomiešaných, ale tie pomiešané z hry
+
+1243
+00:41:29,920 --> 00:41:33,920
+vypadli.
+
+1244
+00:41:31,440 --> 00:41:36,280
+Takže ti v konečnom dôsledku vzniklo
+
+1245
+00:41:33,920 --> 00:41:38,640
+veľa pravopravých alebo ľavoľavých, ale
+
+1246
+00:41:36,280 --> 00:41:40,080
+teraz už s trošku inom pomere.
+
+1247
+00:41:38,640 --> 00:41:41,800
+Lebo na lebo
+
+1248
+00:41:40,080 --> 00:41:43,360
+iná pravdepodobnosť, že sa vytvoria tie
+
+1249
+00:41:41,800 --> 00:41:45,760
+páry, keď si to mal v pomere jedna k
+
+1250
+00:41:43,360 --> 00:41:47,760
+trom. Takže zrazu z pomeru jedna k trom
+
+1251
+00:41:45,760 --> 00:41:50,320
+máš pomer jedna k deviatim.
+
+1252
+00:41:47,760 --> 00:41:50,600
+Umocnil si ten pôvodný pomer.
+
+1253
+00:41:50,320 --> 00:41:52,160
+>> Mhm.
+
+1254
+00:41:50,600 --> 00:41:54,960
+>> A tomuto sa hovorí, že nelineárna
+
+1255
+00:41:52,160 --> 00:41:57,360
+reakcia. Že zaviedlo sa tam nejakú
+
+1256
+00:41:54,960 --> 00:41:59,200
+asymetriu, ktorá ti z prvotného pomeru
+
+1257
+00:41:57,360 --> 00:42:01,160
+urobila iný pomer.
+
+1258
+00:41:59,200 --> 00:42:02,920
+A to už bolo to už bol Toto je, že
+
+1259
+00:42:01,160 --> 00:42:04,600
+pomerne nudno vyzerajúci graf, ktorý ale
+
+1260
+00:42:02,920 --> 00:42:06,680
+úplne excitoval eh
+
+1261
+00:42:04,600 --> 00:42:10,200
+chemickú komunitu, lebo zrazu si vedel
+
+1262
+00:42:06,680 --> 00:42:12,000
+meniť pomery tých vecí v reakcii.
+
+1263
+00:42:10,200 --> 00:42:13,480
+Už len tým, ako si to celé vyskladal, že
+
+1264
+00:42:12,000 --> 00:42:16,280
+nie že by si na začiatku vložil niečo
+
+1265
+00:42:13,480 --> 00:42:18,360
+iné, ale tá reakcia si vybrala A
+
+1266
+00:42:16,280 --> 00:42:19,400
+to, čo robil potom ten druhý Swaj, je,
+
+1267
+00:42:18,360 --> 00:42:21,640
+že
+
+1268
+00:42:19,400 --> 00:42:23,320
+všimol si, že má nejakú reakciu, kde
+
+1269
+00:42:21,640 --> 00:42:24,600
+výsledok sa celkom podobá na
+
+1270
+00:42:23,320 --> 00:42:26,160
+katalyzátor, že to bola tá druhá
+
+1271
+00:42:24,600 --> 00:42:27,840
+podmienka, že produkuješ niečo, čo ti
+
+1272
+00:42:26,160 --> 00:42:29,640
+umožňuje reakciu a vieš si tam robiť tie
+
+1273
+00:42:27,840 --> 00:42:31,520
+koliečka.
+
+1274
+00:42:29,640 --> 00:42:33,040
+A trošku sa s tým pohral a podarilo sa
+
+1275
+00:42:31,520 --> 00:42:35,960
+mu vytvoriť niečo, čo presne splnilo
+
+1276
+00:42:33,040 --> 00:42:37,920
+tieto tieto vlastnosti, že bolo to
+
+1277
+00:42:35,960 --> 00:42:40,160
+autokatalytická reakcia a zároveň bola
+
+1278
+00:42:37,920 --> 00:42:42,080
+asymetrická.
+
+1279
+00:42:40,160 --> 00:42:44,920
+Až tak, že na začiatku si začal v
+
+1280
+00:42:42,080 --> 00:42:47,920
+pomere, že 50, že jedna k jednej
+
+1281
+00:42:44,920 --> 00:42:50,800
+a trošku si tam pripočítal nejakú
+
+1282
+00:42:47,920 --> 00:42:53,160
+500 tisícin percenta, úplne že nič
+
+1283
+00:42:50,800 --> 00:42:55,120
+navyše, ani by si si nevšimol.
+
+1284
+00:42:53,160 --> 00:42:57,080
+Ale trošku to zavažilo a začalo sa to
+
+1285
+00:42:55,120 --> 00:42:59,560
+nabaľovať a nabaľovať a nabaľovať a keď
+
+1286
+00:42:57,080 --> 00:43:01,000
+ten proces niekoľkokrát zopakoval,
+
+1287
+00:42:59,560 --> 00:43:02,720
+tak si mal zrazu vzorku, ktorá bola
+
+1288
+00:43:01,000 --> 00:43:04,960
+takmer úplne čistá. V tých jeho
+
+1289
+00:43:02,720 --> 00:43:08,240
+prvotných pokusoch to bolo 87 percent,
+
+1290
+00:43:04,960 --> 00:43:09,720
+potom sa podarilo priblížiť, že k 99,9
+
+1291
+00:43:08,240 --> 00:43:12,200
+percenta.
+
+1292
+00:43:09,720 --> 00:43:14,400
+Takže vlastne dokopy chemici vytvorili
+
+1293
+00:43:12,200 --> 00:43:18,560
+postupnosť procesov, ktorá dokáže
+
+1294
+00:43:14,400 --> 00:43:21,160
+vytvoriť zo vzorky, ktorá je 50 50,
+
+1295
+00:43:18,560 --> 00:43:22,920
+vzorku, ktorá je prakticky čistou iba
+
+1296
+00:43:21,160 --> 00:43:23,920
+jedna verzia, iba ľavá ruka alebo iba
+
+1297
+00:43:22,920 --> 00:43:24,920
+pravá ruka.
+
+1298
+00:43:23,920 --> 00:43:26,600
+>> Hm.
+
+1299
+00:43:24,920 --> 00:43:28,480
+>> A dokonca tie, keď sa pokúsiš robiť
+
+1300
+00:43:26,600 --> 00:43:31,600
+dokonale 50 50, tak to nikdy nebude
+
+1301
+00:43:28,480 --> 00:43:34,120
+úplne 50 50, lebo tá štatistika, vieš,
+
+1302
+00:43:31,600 --> 00:43:35,640
+dal si štyri molekuly navyše. A keď to
+
+1303
+00:43:34,120 --> 00:43:38,160
+jedno prevyšuje, tak ono to začne v
+
+1304
+00:43:35,640 --> 00:43:40,760
+dlhodobom trende vyhrávať a proste
+
+1305
+00:43:38,160 --> 00:43:43,680
+náhoda ťa rozbehne jedným smerom a potom
+
+1306
+00:43:40,760 --> 00:43:45,080
+ťa už dotiahne do pomeru, v podstate, že
+
+1307
+00:43:43,680 --> 00:43:46,280
+100 k nule.
+
+1308
+00:43:45,080 --> 00:43:48,160
+>> Mhm.
+
+1309
+00:43:46,280 --> 00:43:52,480
+>> Eh, [vzdychanie] treba uznať, že toto
+
+1310
+00:43:48,160 --> 00:43:54,560
+>> veľmi zaujímavý a určite potrebný objav.
+
+1311
+00:43:52,480 --> 00:43:56,360
+>> Áno, áno, že super užitočná,
+
+1312
+00:43:54,560 --> 00:43:59,720
+aplikovateľné
+
+1313
+00:43:56,360 --> 00:44:01,080
+eh, Lukáš Konečný, ktorý ktorého ináč
+
+1314
+00:43:59,720 --> 00:44:03,800
+strašne dlho už máme pozvaného do
+
+1315
+00:44:01,080 --> 00:44:05,920
+podcastu, okrem iného na tému chiralita,
+
+1316
+00:44:03,800 --> 00:44:08,320
+ale on sa on mal o o aj prednášku na
+
+1317
+00:44:05,920 --> 00:44:09,560
+Vedatour, chiralita v chémii.
+
+1318
+00:44:08,320 --> 00:44:11,360
+Eh
+
+1319
+00:44:09,560 --> 00:44:12,920
+tak on hovoril, že táto cena, že podobne
+
+1320
+00:44:11,360 --> 00:44:14,400
+ako tá fyziológia sa podobá na cenu
+
+1321
+00:44:12,920 --> 00:44:16,120
+spred piatich rokov, tak on povedal, že
+
+1322
+00:44:14,400 --> 00:44:18,320
+niečo veľmi podobné v chémii bolo tiež
+
+1323
+00:44:16,120 --> 00:44:20,280
+pár rokov dozadu, že nejaké také podobné
+
+1324
+00:44:18,320 --> 00:44:21,720
+témy sa tam objavujú.
+
+1325
+00:44:20,280 --> 00:44:22,520
+>> Tak možno nám to viacej vysvetlí, keď
+
+1326
+00:44:21,720 --> 00:44:24,160
+dôjde.
+
+1327
+00:44:22,520 --> 00:44:25,400
+>> Tak treba povedať, že táto chemická bola
+
+1328
+00:44:24,160 --> 00:44:28,520
+z týchto troch asi za mňa, že
+
+1329
+00:44:25,400 --> 00:44:30,560
+najzložitejšie na vysvetlenie.
+
+1330
+00:44:28,520 --> 00:44:32,280
+Dokopy som si musel prečítať tri popisy
+
+1331
+00:44:30,560 --> 00:44:34,320
+k tým cenám, ale túto som si prečítal
+
+1332
+00:44:32,280 --> 00:44:36,320
+dvakrát a fyziku ani raz, takže to bola
+
+1333
+00:44:34,320 --> 00:44:38,600
+za mňa zložité z tých cien, fyzika
+
+1334
+00:44:36,320 --> 00:44:40,040
+najľahšia, potom bola tá fyziológia a
+
+1335
+00:44:38,600 --> 00:44:43,520
+toto bolo
+
+1336
+00:44:40,040 --> 00:44:46,000
+eh chcelo to trošku lúskania.
+
+1337
+00:44:43,520 --> 00:44:48,880
+>> Ale dobre, keď hovoríme o cenách ťažkých
+
+1338
+00:44:46,000 --> 00:44:50,840
+na vysvetlenie, ideme na literatúru.
+
+1339
+00:44:48,880 --> 00:44:53,240
+Ja neviem, čo k tomu viacej. Získava ju
+
+1340
+00:44:50,840 --> 00:44:56,040
+Anna Carson, gratulujem, z Toronta,
+
+1341
+00:44:53,240 --> 00:45:00,720
+ktorá je teraz z Kanady a
+
+1342
+00:44:56,040 --> 00:45:03,320
+je to eh podľa toho, čo chápem, je to eh
+
+1343
+00:45:00,720 --> 00:45:06,000
+klasická spisovateľka, eh
+
+1344
+00:45:03,320 --> 00:45:07,360
+venuje sa antickému Grécku a takýmto
+
+1345
+00:45:06,000 --> 00:45:09,560
+témam, takže
+
+1346
+00:45:07,360 --> 00:45:13,280
+veľmi zaujímavé. Napríklad napísala
+
+1347
+00:45:09,560 --> 00:45:18,280
+knihu Antigona v 2015. alebo Sofo
+
+1348
+00:45:13,280 --> 00:45:20,280
+Sofoklesova Elektra v 2001., takže
+
+1349
+00:45:18,280 --> 00:45:20,880
+Podľa mňa Ako hovorím, ja ja nerozumiem
+
+1350
+00:45:20,280 --> 00:45:23,680
+eh
+
+1351
+00:45:20,880 --> 00:45:25,440
+tejto cene. Neviem, asi nechcete ani od
+
+1352
+00:45:23,680 --> 00:45:28,440
+nás viacej. Nič som od nej nečítal,
+
+1353
+00:45:25,440 --> 00:45:31,240
+neviem. Eh mám na dôchodok taký eh
+
+1354
+00:45:28,440 --> 00:45:33,480
+takú malú taký malý sen, že si prečítam
+
+1355
+00:45:31,240 --> 00:45:35,720
+takto Pulitzerových víťazov a nobelistov
+
+1356
+00:45:33,480 --> 00:45:37,320
+nejaké knihy, takže
+
+1357
+00:45:35,720 --> 00:45:38,640
+možno potom spravím.
+
+1358
+00:45:37,320 --> 00:45:40,680
+>> je pekné na tých nobelovkách, že oni
+
+1359
+00:45:38,640 --> 00:45:43,280
+potom začnú pribúdať v kníhkupectvách
+
+1360
+00:45:40,680 --> 00:45:45,440
+nálepky. Eh
+
+1361
+00:45:43,280 --> 00:45:47,400
+takže
+
+1362
+00:45:45,440 --> 00:45:50,000
+>> Hej, len neviem, pre mňa je to, neviem,
+
+1363
+00:45:47,400 --> 00:45:52,560
+to je akože hej.
+
+1364
+00:45:50,000 --> 00:45:54,160
+Ale gratulujem určite, akože
+
+1365
+00:45:52,560 --> 00:45:55,880
+>> Ja som si hneď našiel na Artfore
+
+1366
+00:45:54,160 --> 00:45:57,320
+Autobiografia červeného je jedným z
+
+1367
+00:45:55,880 --> 00:45:58,960
+najznámejších diel kanadskej literárnej
+
+1368
+00:45:57,320 --> 00:46:01,440
+hviezdy Anne Carson. Tento román vo
+
+1369
+00:45:58,960 --> 00:46:03,280
+veršoch sa hrá s fragmentálnym dielom
+
+1370
+00:46:01,440 --> 00:46:06,520
+starogréckeho básnika
+
+1371
+00:46:03,280 --> 00:46:08,320
+Stai chora, Stesichora a pretvára ho do
+
+1372
+00:46:06,520 --> 00:46:10,000
+modernej podoby. No akože cool
+
+1373
+00:46:08,320 --> 00:46:12,200
+aktualizovať.
+
+1374
+00:46:10,000 --> 00:46:13,760
+>> Hej, ale akože ako hovoríš, keď by si na
+
+1375
+00:46:12,200 --> 00:46:16,960
+to nazhromaždíme čas, určite to bude
+
+1376
+00:46:13,760 --> 00:46:19,040
+super a určite akože ja to v ničom
+
+1377
+00:46:16,960 --> 00:46:21,960
+nepodceňujem ani nič, len hovorím, pre
+
+1378
+00:46:19,040 --> 00:46:24,880
+mňa je to umenie a hodnotiť nejakým
+
+1379
+00:46:21,960 --> 00:46:26,880
+objektívnym hľadiskom umenie je
+
+1380
+00:46:24,880 --> 00:46:29,360
+neskutočne ťažké. Veď vidíme len pri
+
+1381
+00:46:26,880 --> 00:46:30,320
+vede, aké je to strašne ťažké hodnotiť,
+
+1382
+00:46:29,360 --> 00:46:32,160
+takže
+
+1383
+00:46:30,320 --> 00:46:34,160
+>> Toto vyzerá strašne dobre tá kniha.
+
+1384
+00:46:32,160 --> 00:46:36,040
+Prečítam ti jeden opis.
+
+1385
+00:46:34,160 --> 00:46:38,400
+Herakles vystúpi z medzimestskej linky
+
+1386
+00:46:36,040 --> 00:46:40,680
+na autobusovej stanici, vkročí Geriónovi
+
+1387
+00:46:38,400 --> 00:46:42,560
+do života a zlomí mu srdce.
+
+1388
+00:46:40,680 --> 00:46:43,480
+To si si [smiech] preto, že si normálne
+
+1389
+00:46:42,560 --> 00:46:44,360
+musím zohnať.
+
+1390
+00:46:43,480 --> 00:46:47,600
+>> Znie to
+
+1391
+00:46:44,360 --> 00:46:50,320
+nehovorím, znie to super, lebo
+
+1392
+00:46:47,600 --> 00:46:53,080
+nobelovka. Takže
+
+1393
+00:46:50,320 --> 00:46:54,520
+ale kniha vyzerá naozaj super a
+
+1394
+00:46:53,080 --> 00:46:56,200
+autorka jedinečným štýlom plným
+
+1395
+00:46:54,520 --> 00:46:58,560
+intelektu a vtipu zachytáva prchavé
+
+1396
+00:46:56,200 --> 00:47:00,640
+okamžiky mladosti, keď sa stávame sami
+
+1397
+00:46:58,560 --> 00:47:02,520
+sebou. Normálne, že sa mi táto knižka
+
+1398
+00:47:00,640 --> 00:47:04,880
+zapáčila, idem si ju niekde bookmarknuť
+
+1399
+00:47:02,520 --> 00:47:04,880
+a
+
+1400
+00:47:05,680 --> 00:47:09,440
+ja ráno Matilde čítavam knihy a nikto
+
+1401
+00:47:07,640 --> 00:47:11,200
+nehovorí, že to ďalšia knižka nemôže byť
+
+1402
+00:47:09,440 --> 00:47:12,440
+táto. Akurát končíme Prekrásny nový
+
+1403
+00:47:11,200 --> 00:47:14,160
+svet.
+
+1404
+00:47:12,440 --> 00:47:16,182
+O Markovi Aureliovi.
+
+1405
+00:47:14,160 --> 00:47:17,520
+Musíš ísť na Wheel of Time.
+
+1406
+00:47:16,182 --> 00:47:19,120
+>> [smrkanie]
+
+1407
+00:47:17,520 --> 00:47:20,767
+>> To by sme s Matildou dočítali, keď bude
+
+1408
+00:47:19,120 --> 00:47:21,760
+mať štyri roky asi.
+
+1409
+00:47:20,767 --> 00:47:24,080
+>> [vzdychanie][lapanie po dychu]
+
+1410
+00:47:21,760 --> 00:47:26,440
+>> Je to strašná buklá no. Ale že to už som
+
+1411
+00:47:24,080 --> 00:47:28,720
+sa do toho pustil, je to super napísaná.
+
+1412
+00:47:26,440 --> 00:47:31,000
+Dobre, dobre, veď potom sa porozprávame
+
+1413
+00:47:28,720 --> 00:47:32,480
+dakedy inokedy a posledná nobelovka je
+
+1414
+00:47:31,000 --> 00:47:35,360
+za mier.
+
+1415
+00:47:32,480 --> 00:47:37,360
+Dostala ju
+
+1416
+00:47:35,360 --> 00:47:39,080
+ospravedlňujem sa všetkým
+
+1417
+00:47:37,360 --> 00:47:40,240
+Navanetham
+
+1418
+00:47:39,080 --> 00:47:41,960
+Navvi
+
+1419
+00:47:40,240 --> 00:47:44,400
+Pillay.
+
+1420
+00:47:41,960 --> 00:47:46,440
+Dúfam, že som to
+
+1421
+00:47:44,400 --> 00:47:49,960
+Podľa mena by ste si možno mysleli, že
+
+1422
+00:47:46,440 --> 00:47:53,240
+ide o Indku, ale ide o juhoafrickú
+
+1423
+00:47:49,960 --> 00:47:55,880
+občianku, ktorá má síce indský pôvod,
+
+1424
+00:47:53,240 --> 00:47:58,280
+tamilský.
+
+1425
+00:47:55,880 --> 00:48:00,200
+Je bola
+
+1426
+00:47:58,280 --> 00:48:02,120
+jedna z prvých žien, ktorá sa stala
+
+1427
+00:48:00,200 --> 00:48:05,600
+právničkou v Juhoafrickej republike,
+
+1428
+00:48:02,120 --> 00:48:08,120
+zastupovala veľa perzekuovaných ľudí
+
+1429
+00:48:05,600 --> 00:48:10,880
+počas apartheidu.
+
+1430
+00:48:08,120 --> 00:48:14,600
+V 2015 bola
+
+1431
+00:48:10,880 --> 00:48:16,760
+v 95 bola vymenovaná za sudcu
+
+1432
+00:48:14,600 --> 00:48:19,520
+Najvyššieho súdu
+
+1433
+00:48:16,760 --> 00:48:21,840
+Juhoafrickej republiky. Bola aj v
+
+1434
+00:48:19,520 --> 00:48:24,360
+Medzinárodnom kriminálnom súde,
+
+1435
+00:48:21,840 --> 00:48:27,240
+Medzinárodnom trestnom súde, tribunáli
+
+1436
+00:48:24,360 --> 00:48:29,720
+pre Rwandu i ICTR.
+
+1437
+00:48:27,240 --> 00:48:31,800
+Eh, takže veľmi zaujímavá
+
+1438
+00:48:29,720 --> 00:48:33,800
+osoba.
+
+1439
+00:48:31,800 --> 00:48:37,040
+Bola aj vymenovaná do International
+
+1440
+00:48:33,800 --> 00:48:38,800
+Criminal Court of Justice, ICC.
+
+1441
+00:48:37,040 --> 00:48:40,320
+Takže určite
+
+1442
+00:48:38,800 --> 00:48:42,240
+cool žena,
+
+1443
+00:48:40,320 --> 00:48:44,920
+cool osoba, nielen žena.
+
+1444
+00:48:42,240 --> 00:48:46,680
+Eh, takže tak a neviem, rád by som o nej
+
+1445
+00:48:44,920 --> 00:48:47,920
+vedel viacej, ale taktiež ako sme
+
+1446
+00:48:46,680 --> 00:48:50,200
+hovorili,
+
+1447
+00:48:47,920 --> 00:48:53,123
+Nobelovka za mier, podľa mňa, neviem,
+
+1448
+00:48:50,200 --> 00:48:53,840
+nemá zmysel, takže majú gusta Trump, čo?
+
+1449
+00:48:53,123 --> 00:48:55,960
+>> [smrkanie]
+
+1450
+00:48:53,840 --> 00:48:58,400
+>> Ja viem, Trumpovi určite Donny, keď ju
+
+1451
+00:48:55,960 --> 00:49:00,800
+nedostal.
+
+1452
+00:48:58,400 --> 00:49:03,320
+Ale poviem k tomu jednu poznámku.
+
+1453
+00:49:00,800 --> 00:49:06,040
+Myslím si, myslím si, že bola chyba mu
+
+1454
+00:49:03,320 --> 00:49:09,120
+ju nedať z toho pohľadu, že pre mňa nemá
+
+1455
+00:49:06,040 --> 00:49:11,280
+žiadnu žiadny zmysel Nobelovka za mier a
+
+1456
+00:49:09,120 --> 00:49:14,320
+podľa mňa on sa ako, lebo on má veľmi
+
+1457
+00:49:11,280 --> 00:49:16,400
+nízke ego aj intelekt aj všetko proste a
+
+1458
+00:49:14,320 --> 00:49:19,200
+on sa urazil podľa mňa na to a podľa mňa
+
+1459
+00:49:16,400 --> 00:49:21,400
+veľmi veľa vecí spravil a veľmi veľa
+
+1460
+00:49:19,200 --> 00:49:21,880
+ľudí zomrelo kvôli tomuto rozhodnutiu,
+
+1461
+00:49:21,400 --> 00:49:23,240
+že
+
+1462
+00:49:21,880 --> 00:49:25,000
+>> hej, to je pravda, ale zase
+
+1463
+00:49:23,240 --> 00:49:26,520
+>> Ale zase on by chcel potom ešte
+
+1464
+00:49:25,000 --> 00:49:28,920
+>> by chcel aj za fyziku za chvíľku.
+
+1465
+00:49:26,520 --> 00:49:31,600
+>> Áno, to je to je zase potom, že to je že
+
+1466
+00:49:28,920 --> 00:49:33,160
+dáš prst, odkusne ti celú ruku, takže to
+
+1467
+00:49:31,600 --> 00:49:36,040
+je to nehovorím, že by ju mal dostať,
+
+1468
+00:49:33,160 --> 00:49:37,640
+ale verím, že existuje timeline nášho
+
+1469
+00:49:36,040 --> 00:49:39,800
+sveta, kde
+
+1470
+00:49:37,640 --> 00:49:42,080
+ju dostal
+
+1471
+00:49:39,800 --> 00:49:44,680
+a nespravil tam také hlúposti, ako
+
+1472
+00:49:42,080 --> 00:49:46,400
+spravil a kriminálne akty, ako spravil
+
+1473
+00:49:44,680 --> 00:49:47,840
+teraz. Ale tak žijeme,
+
+1474
+00:49:46,400 --> 00:49:49,200
+tak kde žijem.
+
+1475
+00:49:47,840 --> 00:49:51,040
+Eh, neviem, Samko, chceš k tomuto niečo
+
+1476
+00:49:49,200 --> 00:49:52,800
+povedať, lebo
+
+1477
+00:49:51,040 --> 00:49:54,360
+>> Nie, ale teda keď už sme pri ťažko
+
+1478
+00:49:52,800 --> 00:49:56,560
+hodnotiteľnej literatúre, by som rád
+
+1479
+00:49:54,360 --> 00:49:59,160
+povedal, že mi čoskoro vychádza vesmírna
+
+1480
+00:49:56,560 --> 00:50:01,244
+kolíska a budeme krstiť.
+
+1481
+00:49:59,160 --> 00:50:01,800
+Na to sa teším. 9. novembra?
+
+1482
+00:50:01,244 --> 00:50:03,720
+>> [lapanie po dychu]
+
+1483
+00:50:01,800 --> 00:50:05,240
+>> Áno, 9. novembra, vždy sa musím
+
+1484
+00:50:03,720 --> 00:50:05,480
+rozpamätať cez svoju mnemotechnickú
+
+1485
+00:50:05,240 --> 00:50:08,040
+pomôcku.
+
+1486
+00:50:05,480 --> 00:50:09,880
+>> decembra máš prednášku o hľadaní
+
+1487
+00:50:08,040 --> 00:50:14,320
+mimozemského života, to sa uvidíme v
+
+1488
+00:50:09,880 --> 00:50:15,680
+KCčku, dokonca dve. Budeš
+
+1489
+00:50:14,320 --> 00:50:17,600
+mať za sebou to,
+
+1490
+00:50:15,680 --> 00:50:20,200
+to som zvedavý, ako to obkecáš tie tri
+
+1491
+00:50:17,600 --> 00:50:22,680
+hodiny, klobúk dole.
+
+1492
+00:50:20,200 --> 00:50:25,160
+Tak si daj nejakú prednášku ušnú, vieš,
+
+1493
+00:50:22,680 --> 00:50:27,280
+na univerzite, aby si si to [smiech]
+
+1494
+00:50:25,160 --> 00:50:30,600
+si sa pripravil.
+
+1495
+00:50:27,280 --> 00:50:33,920
+My budeme mať určite akciu nejakú
+
+1496
+00:50:30,600 --> 00:50:37,040
+>> Decembrovú, ak ešte niečo stihneme.
+
+1497
+00:50:33,920 --> 00:50:39,560
+>> A so Samkom sme sa rozprávali a viacej
+
+1498
+00:50:37,040 --> 00:50:42,160
+ľudí nám to povedalo a pripravujeme pre
+
+1499
+00:50:39,560 --> 00:50:44,280
+vás vedátorský kvíz.
+
+1500
+00:50:42,160 --> 00:50:45,680
+A nepoviem k tomu viacej, takže
+
+1501
+00:50:44,280 --> 00:50:49,600
+stay tuned.
+
+1502
+00:50:45,680 --> 00:50:52,840
+Stay tuned, takže takže tak.
+
+1503
+00:50:49,600 --> 00:50:53,240
+>> Tak, tak uvidíte, kedy to bude a tešíme
+
+1504
+00:50:52,840 --> 00:50:55,280
+sa na vás.
+
+1505
+00:50:53,240 --> 00:50:57,680
+>> že nás, ďakujeme, že nás počúvate, že
+
+1506
+00:50:55,280 --> 00:50:59,440
+nás podporujete a viete si nás pozrieť
+
+1507
+00:50:57,680 --> 00:51:01,200
+na HeroHero,
+
+1508
+00:50:59,440 --> 00:51:03,600
+je tam týždeň alebo dva zadarmo. Ja si
+
+1509
+00:51:01,200 --> 00:51:05,320
+inak to musím pozrieť, ale je to už také
+
+1510
+00:51:03,600 --> 00:51:06,880
+smiešne. A nájdete nás na všetkých
+
+1511
+00:51:05,320 --> 00:51:09,160
+dobrých a troška horších podcastových
+
+1512
+00:51:06,880 --> 00:51:11,440
+aplikáciách. Majte sa veľmi pekne. Majte
+
+1513
+00:51:09,160 --> 00:51:11,440
+sa.
+
+1514
+00:51:12,640 --> 00:51:14,660
+>> [hudba]
+
+1515
+00:51:15,560 --> 00:51:19,000
+>> No a tu ešte na záver taká krátka
+
+1516
+00:51:17,520 --> 00:51:21,400
+ochutnávka z labáku.
+
+1517
+00:51:19,000 --> 00:51:23,240
+>> Spravil syntézu amoniaku, čím pomohol s
+
+1518
+00:51:21,400 --> 00:51:26,240
+výrobou hnojív a
+
+1519
+00:51:23,240 --> 00:51:28,600
+vlastne čo pomohlo s hladomormi. Avšak
+
+1520
+00:51:26,240 --> 00:51:30,840
+ale bol aj otcom chemických zbraní a do
+
+1521
+00:51:28,600 --> 00:51:33,920
+čo dokonca počas prvej svetovej vojny
+
+1522
+00:51:30,840 --> 00:51:36,600
+bol zodpovedný a osobne riadil nasadenie
+
+1523
+00:51:33,920 --> 00:51:38,680
+bojových plynov. Antonio Egas Moniz,
+
+1524
+00:51:36,600 --> 00:51:41,080
+1949,
+
+1525
+00:51:38,680 --> 00:51:42,560
+za fyziológiu a medicínu získal za
+
+1526
+00:51:41,080 --> 00:51:44,735
+vynález
+
+1527
+00:51:42,560 --> 00:51:45,760
+prefrontálnej lobotómie.
+
+1528
+00:51:44,735 --> 00:51:48,080
+>> [smrkanie]
+
+1529
+00:51:45,760 --> 00:51:49,720
+>> Zošaleli, a to moc používať a potom to
+
+1530
+00:51:48,080 --> 00:51:51,760
+museli zakázať, takže
+
+1531
+00:51:49,720 --> 00:51:55,040
+>> Aj toto nájdete v Labáku v epizóde.
+
+1532
+00:51:51,760 --> 00:51:55,040
+Ďakujeme za vašu podporu.
+
