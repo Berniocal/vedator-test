@@ -1,0 +1,5448 @@
+1
+00:00:01,309 --> 00:00:03,329
+[hudba]
+
+2
+00:00:08,515 --> 00:00:10,535
+[hudba]
+
+3
+00:00:12,680 --> 00:00:16,880
+>> Od otázok cez obkecávanie až po
+
+4
+00:00:14,680 --> 00:00:18,800
+odpovede. Veda nás obklopuje na každom
+
+5
+00:00:16,880 --> 00:00:20,480
+kroku. Vitajte pri Vedátorskom podcaste,
+
+6
+00:00:18,800 --> 00:00:22,520
+v ktorom sa budeme rozprávať o vede a
+
+7
+00:00:20,480 --> 00:00:23,880
+prírode okolo nás. Moje meno je Jozef.
+
+8
+00:00:22,520 --> 00:00:25,880
+>> A ja som Samuel.
+
+9
+00:00:23,880 --> 00:00:28,160
+>> Tento podcast vychádza v spolupráci so
+
+10
+00:00:25,880 --> 00:00:30,000
+Sme s Hankou. Ako sa máš?
+
+11
+00:00:28,160 --> 00:00:33,080
+>> Dobre, dobre. Eh.
+
+12
+00:00:30,000 --> 00:00:35,760
+Veľa je toho na všetkých frontoch.
+
+13
+00:00:33,080 --> 00:00:37,990
+>> No tak ti vychádza ti za chvíľku kniha.
+
+14
+00:00:35,760 --> 00:00:38,840
+>> Už vyšla, pozri.
+
+15
+00:00:37,990 --> 00:00:40,720
+>> [smiech]
+
+16
+00:00:38,840 --> 00:00:42,920
+>> OK. Ja krst bude, pardon.
+
+17
+00:00:40,720 --> 00:00:44,240
+>> Krst bude, áno, áno. V pondelok som bol
+
+18
+00:00:42,920 --> 00:00:46,680
+s kočíkom
+
+19
+00:00:44,240 --> 00:00:49,000
+pre ňu, s Matildou sme išli.
+
+20
+00:00:46,680 --> 00:00:50,080
+>> Takže kočík bol na
+
+21
+00:00:49,000 --> 00:00:51,520
+na predaji knihy.
+
+22
+00:00:50,080 --> 00:00:52,800
+>> Keď napíšeš knihu, dostaneš 20
+
+23
+00:00:51,520 --> 00:00:54,920
+autorských výtlačkov, ale táto je
+
+24
+00:00:52,800 --> 00:00:57,120
+našťastie menšia, takže som proste hodil
+
+25
+00:00:54,920 --> 00:00:58,960
+20 dole do kočíka, ale
+
+26
+00:00:57,120 --> 00:01:01,570
+strašne pekne vyzerá naživo. Môžeš Môžem
+
+27
+00:00:58,960 --> 00:01:01,960
+konečne vymeniť túto vytlačenú za
+
+28
+00:01:01,570 --> 00:01:03,080
+>> [vzdychanie][lapanie po dychu]
+
+29
+00:01:01,960 --> 00:01:05,519
+>> za za poriadnu.
+
+30
+00:01:03,080 --> 00:01:07,000
+>> A vyzerá tak isto, akože vzadu na tej
+
+31
+00:01:05,519 --> 00:01:07,920
+knihe si vlastne môžeš dať hento.
+
+32
+00:01:07,000 --> 00:01:10,600
+>> Áno, áno,
+
+33
+00:01:07,920 --> 00:01:13,080
+v nižšom rozlíšení. Ja a ináč
+
+34
+00:01:10,600 --> 00:01:15,920
+>> Dobre, takže 9. bude krst, teda.
+
+35
+00:01:13,080 --> 00:01:17,760
+>> Tak, tak, tak, budeme krstiť a Ináč je
+
+36
+00:01:15,920 --> 00:01:21,000
+to fajn. Veľa Veľa výskumu sa nám
+
+37
+00:01:17,760 --> 00:01:23,920
+rozbehlo rôznymi smermi, že
+
+38
+00:01:21,000 --> 00:01:26,040
+za posledné dva dni som mal
+
+39
+00:01:23,920 --> 00:01:28,880
+eh call
+
+40
+00:01:26,040 --> 00:01:31,480
+s spolupracovníkom, ktorý je bežne z
+
+41
+00:01:28,880 --> 00:01:34,280
+Viedne, ale teraz je na Taiwane.
+
+42
+00:01:31,480 --> 00:01:35,840
+A dneska som mal s jedným tímom z Chile
+
+43
+00:01:34,280 --> 00:01:38,160
+a
+
+44
+00:01:35,840 --> 00:01:38,906
+potom s Denžom a Yumom, čiže Japonsko a
+
+45
+00:01:38,160 --> 00:01:39,440
+Írsko.
+
+46
+00:01:38,906 --> 00:01:39,840
+>> [lapanie po dychu]
+
+47
+00:01:39,440 --> 00:01:42,520
+>> Uhm.
+
+48
+00:01:39,840 --> 00:01:44,440
+>> A začína to byť proste, keď sa ti to
+
+49
+00:01:42,520 --> 00:01:46,280
+všetko nahromadí do dvoch dní a musíš
+
+50
+00:01:44,440 --> 00:01:48,320
+preskakovať mentálne medzi všetkými tými
+
+51
+00:01:46,280 --> 00:01:49,640
+vecami, tak je to celkom že bežne to je
+
+52
+00:01:48,320 --> 00:01:52,661
+nejako rozladené, že to nie je naraz,
+
+53
+00:01:49,640 --> 00:01:53,240
+ale teraz to vyšlo že všetko naraz a
+
+54
+00:01:52,661 --> 00:01:55,520
+>> [vzdychanie][lapanie po dychu]
+
+55
+00:01:53,240 --> 00:01:57,160
+>> A tak a ty sa máš ako, okrem toho, že si
+
+56
+00:01:55,520 --> 00:01:59,440
+bol na turistike?
+
+57
+00:01:57,160 --> 00:02:03,092
+>> Veľa toho je, bol som na mojej
+
+58
+00:01:59,440 --> 00:02:05,132
+každoročnej turistike, ktorá sa už stáva
+
+59
+00:02:03,092 --> 00:02:06,172
+klasickým klasickou súčasťou môjho
+
+60
+00:02:05,132 --> 00:02:09,452
+bytia.
+
+61
+00:02:06,172 --> 00:02:12,852
+Ale mám to tak rád a neviem, tak
+
+62
+00:02:09,452 --> 00:02:14,612
+pomaličky, veľa toho je, pomaly veľa.
+
+63
+00:02:12,852 --> 00:02:16,372
+>> Vyberali sme detské otázky.
+
+64
+00:02:14,612 --> 00:02:17,372
+>> je halloweenske predvianočné, takže
+
+65
+00:02:16,372 --> 00:02:19,852
+teším sa.
+
+66
+00:02:17,372 --> 00:02:21,332
+>> Hej, máš rád takéto, ako sa zosychravelo
+
+67
+00:02:19,852 --> 00:02:23,932
+konečne?
+
+68
+00:02:21,332 --> 00:02:26,692
+>> Vieš čo, dneska bol taký úplne zase
+
+69
+00:02:23,932 --> 00:02:30,212
+extrémny deň, že som to podľa mňa
+
+70
+00:02:26,692 --> 00:02:32,892
+dosahovalo až 40-ky, ale no dobre, asi
+
+71
+00:02:30,212 --> 00:02:34,492
+toľko nie, povedzme, že 20 alebo koľko
+
+72
+00:02:32,892 --> 00:02:36,532
+na slniečku bolo.
+
+73
+00:02:34,492 --> 00:02:39,332
+Ja som bol v krátkom tričku zase
+
+74
+00:02:36,532 --> 00:02:41,412
+vonku, neviem ako ty. A asi tak hovorím,
+
+75
+00:02:39,332 --> 00:02:44,172
+že koncom októbra asi to nie je úplne
+
+76
+00:02:41,412 --> 00:02:46,812
+najprirodzenejšie počasie, ale tak
+
+77
+00:02:44,172 --> 00:02:47,681
+treba si to užívať až do pekla, nie tak
+
+78
+00:02:46,812 --> 00:02:48,372
+sa hovorí?
+
+79
+00:02:47,681 --> 00:02:49,972
+>> [smiech]
+
+80
+00:02:48,372 --> 00:02:52,332
+>> Tú cestu, takže
+
+81
+00:02:49,972 --> 00:02:53,892
+asi tak to beriem, ale nie,
+
+82
+00:02:52,332 --> 00:02:55,852
+dá sa super behať a tak, ja som
+
+83
+00:02:53,892 --> 00:02:58,092
+spokojný, takže
+
+84
+00:02:55,852 --> 00:02:58,812
+ja mám toto počasie veľmi rád.
+
+85
+00:02:58,092 --> 00:03:00,412
+>> No hej.
+
+86
+00:02:58,812 --> 00:03:02,252
+>> A plus boli komunálne voľby cez víkend,
+
+87
+00:03:00,412 --> 00:03:04,292
+takže ešte to som troška sledoval a tak.
+
+88
+00:03:02,252 --> 00:03:06,452
+>> ty si si to tak veľmi
+
+89
+00:03:04,292 --> 00:03:08,332
+odmakal, že si si posunul aj turistiku o
+
+90
+00:03:06,452 --> 00:03:11,092
+deň a potom si sa otočil po občiansky,
+
+91
+00:03:08,332 --> 00:03:13,132
+takže ďakujeme ti za túto za ti ďakujeme
+
+92
+00:03:11,092 --> 00:03:14,932
+ti za túto službu vlasti.
+
+93
+00:03:13,132 --> 00:03:17,572
+>> Som zabudol a potom som si spomenul na
+
+94
+00:03:14,932 --> 00:03:19,452
+môjho učiteľa ústavného práva, ktorý
+
+95
+00:03:17,572 --> 00:03:21,892
+povedal, že takú
+
+96
+00:03:19,452 --> 00:03:23,852
+že takú taký luxus ako nevoliť si
+
+97
+00:03:21,892 --> 00:03:26,212
+nemôžem dovoliť,
+
+98
+00:03:23,852 --> 00:03:28,532
+to sa so mnou tiahne od mojich
+
+99
+00:03:26,212 --> 00:03:30,452
+študentských čias až doteraz, myslím si,
+
+100
+00:03:28,532 --> 00:03:32,532
+že vynechal som len jedny kvôli
+
+101
+00:03:30,452 --> 00:03:34,452
+kvôli nejakému zdravotnému, takže
+
+102
+00:03:32,532 --> 00:03:38,372
+som rád, že som to stihol.
+
+103
+00:03:34,452 --> 00:03:39,972
+Dobre, ale od politiky ideme až po moju
+
+104
+00:03:38,372 --> 00:03:42,012
+druhú [odkašľanie] najobľúbenejšiu sériu
+
+105
+00:03:39,972 --> 00:03:43,452
+a to je detské otázky, ktoré zase nám
+
+106
+00:03:42,012 --> 00:03:45,252
+prišli
+
+107
+00:03:43,452 --> 00:03:48,132
+neúrekom.
+
+108
+00:03:45,252 --> 00:03:50,692
+>> A tak všetky prišli audio už,
+
+109
+00:03:48,132 --> 00:03:53,132
+máme ten máme ten speakpipe, dáte do
+
+110
+00:03:50,692 --> 00:03:57,052
+Googlu, že speakpipe vedátor a detské
+
+111
+00:03:53,132 --> 00:03:59,372
+otázky tam môžete posielať a z 15 otázok
+
+112
+00:03:57,052 --> 00:04:01,212
+došlo ak počítam teraz rýchlo správne 13
+
+113
+00:03:59,372 --> 00:04:03,294
+audio. Povedzme, že tie, čo budú audio,
+
+114
+00:04:01,212 --> 00:04:05,454
+tak všetky zaradíme.
+
+115
+00:04:03,294 --> 00:04:07,574
+A 12 došlo, sorry audio. Tak tak tak
+
+116
+00:04:05,454 --> 00:04:09,814
+takže ďakujeme za to.
+
+117
+00:04:07,574 --> 00:04:11,614
+Raz jednému jedinému som musel napísať
+
+118
+00:04:09,814 --> 00:04:13,894
+rodičovi, lebo som to nevedel dekódovať,
+
+119
+00:04:11,614 --> 00:04:17,334
+ale ináč no sú to super otázky, takže
+
+120
+00:04:13,894 --> 00:04:19,374
+ďakujeme všetkým a ďakujeme veľmi pekne.
+
+121
+00:04:17,334 --> 00:04:21,374
+>> Za otázky. Tak ideme rovno na to. Zuzka
+
+122
+00:04:19,374 --> 00:04:24,254
+osemročná sa pýta.
+
+123
+00:04:21,374 --> 00:04:28,294
+>> Volám sa Zuzka, mám osem rokov a chcem
+
+124
+00:04:24,254 --> 00:04:32,214
+sa spýtať, ako mohli kozmonauti volať
+
+125
+00:04:28,294 --> 00:04:34,334
+eh z rakety, keď keď domov, keď keď
+
+126
+00:04:32,214 --> 00:04:36,574
+nemali tam signál?
+
+127
+00:04:34,334 --> 00:04:39,454
+>> No, aha. To je dobrá To je dobrá otázka,
+
+128
+00:04:36,574 --> 00:04:41,374
+lebo nejaký drát nám nejde do vesmíru,
+
+129
+00:04:39,454 --> 00:04:42,974
+ktorý by nás spájal.
+
+130
+00:04:41,374 --> 00:04:44,614
+Rovnako je to aj nemáš tam taký bežný
+
+131
+00:04:42,974 --> 00:04:45,934
+signál, že keby si si zobral do rakety
+
+132
+00:04:44,614 --> 00:04:47,854
+iPhone, tak pravdepodobne nebude
+
+133
+00:04:45,934 --> 00:04:49,334
+zachytávať signál, lebo
+
+134
+00:04:47,854 --> 00:04:51,478
+my sme zvyknutí, že komunikujeme
+
+135
+00:04:49,334 --> 00:04:52,494
+>> tých družiciach, či
+
+136
+00:04:51,478 --> 00:04:54,614
+>> [smiech][lapanie po dychu]
+
+137
+00:04:52,494 --> 00:04:56,494
+>> Ináč aj no. Ale my vlastne často
+
+138
+00:04:54,614 --> 00:04:58,614
+komunikujeme cez vysielacie veže. Čiže
+
+139
+00:04:56,494 --> 00:05:00,854
+ty keď si keď si mi ideme zavolať, tak
+
+140
+00:04:58,614 --> 00:05:02,054
+ja zavolám tebe, ale ten signál ide z
+
+141
+00:05:00,854 --> 00:05:05,214
+môjho telefónu do
+
+142
+00:05:02,054 --> 00:05:07,214
+najbližšej antény, ktorá môže byť pár
+
+143
+00:05:05,214 --> 00:05:09,134
+desiatok stoviek metrov odo mňa a odtiaľ
+
+144
+00:05:07,214 --> 00:05:11,214
+sa to potom posúva ďalej až k tebe a od
+
+145
+00:05:09,134 --> 00:05:13,974
+teba to ide do k tebe to ide zase od tej
+
+146
+00:05:11,214 --> 00:05:15,414
+najbližšej antény. A ale to nie je
+
+147
+00:05:13,974 --> 00:05:16,894
+jediný spôsob, ako môžeš komunikovať. My
+
+148
+00:05:15,414 --> 00:05:18,574
+by sme v princípe vedeli komunikovať aj
+
+149
+00:05:16,894 --> 00:05:20,014
+na priamo, keby sme si kúpili
+
+150
+00:05:18,574 --> 00:05:22,374
+vysielačky.
+
+151
+00:05:20,014 --> 00:05:24,854
+Vysielačky rovno pošlú signál do
+
+152
+00:05:22,374 --> 00:05:26,574
+všetkých smerov a keď si dosť blízko,
+
+153
+00:05:24,854 --> 00:05:27,534
+tak ho dokážeš zachytiť. Takže by sme
+
+154
+00:05:26,574 --> 00:05:29,414
+normálne mohli mať doma
+
+155
+00:05:27,534 --> 00:05:31,934
+>> čo telefón vlastne nerobí, že oni nemajú
+
+156
+00:05:29,414 --> 00:05:33,974
+aj tú prijímaciu časť vysielača, nie, že
+
+157
+00:05:31,934 --> 00:05:36,054
+že sa vedia pripojiť na seba, tak tak.
+
+158
+00:05:33,974 --> 00:05:37,854
+>> Áno áno áno. Ale v podstate, že
+
+159
+00:05:36,054 --> 00:05:40,374
+ty ty ty vyšleš signál do všetkých
+
+160
+00:05:37,854 --> 00:05:42,454
+smerov a budeš dúfať, že že ten druhý je
+
+161
+00:05:40,374 --> 00:05:44,134
+v dosahu. Keď niekomu telefonuješ, tak
+
+162
+00:05:42,454 --> 00:05:45,934
+ten človek môže byť aj na druhom konci
+
+163
+00:05:44,134 --> 00:05:48,494
+zeme a ten celý systém je urobený tak,
+
+164
+00:05:45,934 --> 00:05:50,334
+aby si sa mu dovolal.
+
+165
+00:05:48,494 --> 00:05:52,614
+Ale keď nie ste od seba dosť ďaleko, tak
+
+166
+00:05:50,334 --> 00:05:54,534
+môžete používať obyčajné vysielačky. A
+
+167
+00:05:52,614 --> 00:05:55,614
+to to je v podstate ako hlasné kričanie,
+
+168
+00:05:54,534 --> 00:05:57,654
+ale hlasné kričanie v
+
+169
+00:05:55,614 --> 00:05:58,334
+elektromagnetických vlnách rádiových.
+
+170
+00:05:57,654 --> 00:06:01,134
+>> Uhm.
+
+171
+00:05:58,334 --> 00:06:04,654
+>> A jediné, čo robia potom rakety je, že v
+
+172
+00:06:01,134 --> 00:06:06,055
+nich máš silné rádiové vysielače a
+
+173
+00:06:04,654 --> 00:06:07,095
+prípadne ich vieš smerovať správnym
+
+174
+00:06:06,055 --> 00:06:08,575
+smerom.
+
+175
+00:06:07,095 --> 00:06:10,695
+Takže napríklad sonda Voyager, keď nám
+
+176
+00:06:08,575 --> 00:06:12,015
+posiela správy z opačného konca slnečnej
+
+177
+00:06:10,695 --> 00:06:14,775
+sústavy, tak je to kvôli tomu, že vie,
+
+178
+00:06:12,015 --> 00:06:17,015
+kde sa nachádzame a kričí tými rádiovými
+
+179
+00:06:14,775 --> 00:06:19,935
+vlnami presne na nás. Takže
+
+180
+00:06:17,015 --> 00:06:21,775
+signál sa šíri vzduchom v podobe
+
+181
+00:06:19,935 --> 00:06:23,455
+rádiových vĺn, ktoré sú neviditeľné, a
+
+182
+00:06:21,775 --> 00:06:25,055
+toto sa dá robiť aj vo vesmíre.
+
+183
+00:06:23,455 --> 00:06:26,895
+Nepotrebuje to vzduch, nepotrebuje to
+
+184
+00:06:25,055 --> 00:06:28,295
+káble, nepotrebuje to dokonca ani také
+
+185
+00:06:26,895 --> 00:06:29,935
+tie vysielacie veže, cez ktoré
+
+186
+00:06:28,295 --> 00:06:30,575
+komunikujeme my.
+
+187
+00:06:29,935 --> 00:06:32,335
+>> Áno.
+
+188
+00:06:30,575 --> 00:06:34,314
+>> Nepotrebuje to satelit.
+
+189
+00:06:32,335 --> 00:06:34,975
+>> Nič moc.
+
+190
+00:06:34,314 --> 00:06:36,495
+>> [smiech]
+
+191
+00:06:34,975 --> 00:06:38,615
+>> Ja by som len pripomenul, že o tomto
+
+192
+00:06:36,495 --> 00:06:40,095
+máme epizódu, ktorú sme s Outom
+
+193
+00:06:38,615 --> 00:06:42,295
+nahrávali, myslím.
+
+194
+00:06:40,095 --> 00:06:44,575
+>> Tak, Zuzka, pre koho to nahrávame?
+
+195
+00:06:42,295 --> 00:06:45,975
+>> No, presne tak. Takže
+
+196
+00:06:44,575 --> 00:06:48,055
+môžeš si pozrieť, je to jeden zo
+
+197
+00:06:45,975 --> 00:06:50,415
+špeciálov a je tam, myslím si, že presne
+
+198
+00:06:48,055 --> 00:06:51,775
+toto vysvetlené, že ako fungujú telefóny
+
+199
+00:06:50,415 --> 00:06:53,255
+a ako sa to líši od
+
+200
+00:06:51,775 --> 00:06:54,735
+>> Ale ináč je to, že že že táto
+
+201
+00:06:53,255 --> 00:06:56,055
+technológia, že funguje úplne
+
+202
+00:06:54,735 --> 00:06:58,455
+fascinujúco. Vieš, že keď si zoberieš
+
+203
+00:06:56,055 --> 00:06:58,775
+celú históriu ľudskej civilizácie,
+
+204
+00:06:58,455 --> 00:07:01,095
+>> Uhm.
+
+205
+00:06:58,775 --> 00:07:03,375
+>> si musel poslať nejaký koč a dúfať, že
+
+206
+00:07:01,095 --> 00:07:06,055
+ho neprepadnú banditi a neviem čo, a my
+
+207
+00:07:03,375 --> 00:07:09,015
+teraz naozaj, že máš ten luxus, že
+
+208
+00:07:06,055 --> 00:07:11,095
+zavoláš na opačný koniec planéty a
+
+209
+00:07:09,015 --> 00:07:13,375
+máš úplne, že okamžité spojenie.
+
+210
+00:07:11,095 --> 00:07:15,335
+>> bolo nepredstaviteľné
+
+211
+00:07:13,375 --> 00:07:17,815
+mať informácie rýchlo, proste. Veď
+
+212
+00:07:15,335 --> 00:07:19,375
+maratón nie je na čom vznikol, nie, že
+
+213
+00:07:17,815 --> 00:07:21,475
+>> Keby mali vtedy telefón, tak nemusíme
+
+214
+00:07:19,375 --> 00:07:22,935
+bežať maratón. To by nebolo úplne zlé.
+
+215
+00:07:21,475 --> 00:07:25,095
+>> [smiech]
+
+216
+00:07:22,935 --> 00:07:27,735
+>> Presne. To by bolo len zlé.
+
+217
+00:07:25,095 --> 00:07:29,495
+Dobre. Ďalšiu otázku nám tvoj
+
+218
+00:07:27,735 --> 00:07:32,175
+menovec položil, Samko.
+
+219
+00:07:29,495 --> 00:07:33,975
+>> Ahoj, ja som Samko. Zasne niekedy naše
+
+220
+00:07:32,175 --> 00:07:35,695
+Slnko?
+
+221
+00:07:33,975 --> 00:07:37,015
+>> No, povedz, Jojo.
+
+222
+00:07:35,695 --> 00:07:38,335
+Čo skoro maturant z fyziky?
+
+223
+00:07:37,015 --> 00:07:40,975
+>> miliárd
+
+224
+00:07:38,335 --> 00:07:41,415
+rokov vie odhodiť svoj plášť a
+
+225
+00:07:40,975 --> 00:07:43,415
+>> Tak.
+
+226
+00:07:41,415 --> 00:07:44,175
+>> bude z neho len biely trpaslík, myslím,
+
+227
+00:07:43,415 --> 00:07:45,535
+či červený trpaslík?
+
+228
+00:07:44,175 --> 00:07:47,375
+>> Asi to tak dopadne. Keď najprv sa
+
+229
+00:07:45,535 --> 00:07:49,095
+nafúkne na takého červeného obra a potom
+
+230
+00:07:47,375 --> 00:07:52,055
+odvrhne tie horné vrstvy a zostane len
+
+231
+00:07:49,095 --> 00:07:54,015
+biely trpaslík, chladnúce jadro. Červený
+
+232
+00:07:52,055 --> 00:07:57,895
+trpaslík by bola malinká hviezda, ktorá
+
+233
+00:07:54,015 --> 00:08:00,215
+už akože tlie, horí, ale ale neprodukuje
+
+234
+00:07:57,895 --> 00:08:02,615
+neprodukuje Nemá v sebe fúziu Má fúziu,
+
+235
+00:08:00,215 --> 00:08:04,855
+ale slabučkú. Tak. A Samko
+
+236
+00:08:02,615 --> 00:08:06,735
+>> som sa, že veľmi veľa ľudí si to mýli,
+
+237
+00:08:04,855 --> 00:08:09,377
+toto odhodenie plášťov s výbuchom
+
+238
+00:08:06,735 --> 00:08:11,817
+supernovy, inak.
+
+239
+00:08:09,377 --> 00:08:13,977
+>> Áno, neviem, bude to bude to také jemné
+
+240
+00:08:11,817 --> 00:08:15,577
+dožitie. Máloktorá ale máloktorá
+
+241
+00:08:13,977 --> 00:08:17,817
+>> nás nebude jemné.
+
+242
+00:08:15,577 --> 00:08:19,497
+>> Pre nás ešte nevieme, ale máloktoré
+
+243
+00:08:17,817 --> 00:08:20,777
+hviezdy končia supernovou. Na to na
+
+244
+00:08:19,497 --> 00:08:23,257
+supernovou na to na Zemi musíš mať
+
+245
+00:08:20,777 --> 00:08:25,177
+vhodné podmienky. Je to veľmi drastické,
+
+246
+00:08:23,257 --> 00:08:26,537
+preto sú supernovy pomerne vzácne. My
+
+247
+00:08:25,177 --> 00:08:29,257
+ich pozorujeme len kvôli tomu, že ten
+
+248
+00:08:26,537 --> 00:08:31,817
+vesmír je proste tak sakramentsky plný.
+
+249
+00:08:29,257 --> 00:08:34,497
+Takže áno, naše Slnko zhasne. Je tak na
+
+250
+00:08:31,817 --> 00:08:36,417
+pol ceste. A
+
+251
+00:08:34,497 --> 00:08:37,097
+treba si ho užívať, ale máme ho ešte
+
+252
+00:08:36,417 --> 00:08:39,377
+veľmi veľa času.
+
+253
+00:08:37,097 --> 00:08:39,897
+>> veľa času. Máme ho veľa, áno, áno, áno.
+
+254
+00:08:39,377 --> 00:08:41,497
+Tak.
+
+255
+00:08:39,897 --> 00:08:43,337
+>> Netreba sa
+
+256
+00:08:41,497 --> 00:08:45,097
+báť.
+
+257
+00:08:43,337 --> 00:08:47,057
+>> Dobre, ďakujeme veľmi pekne za otázku.
+
+258
+00:08:45,097 --> 00:08:49,897
+Tým je sedemročná sa pýtam,
+
+259
+00:08:47,057 --> 00:08:51,697
+koľko je hviezd vo vesmíre?
+
+260
+00:08:49,897 --> 00:08:53,897
+Ja by som to tak prirovnával,
+
+261
+00:08:51,697 --> 00:08:57,377
+prirovnávacky povedal, že predstav si,
+
+262
+00:08:53,897 --> 00:08:57,617
+že si na pláži alebo na pieskovisku.
+
+263
+00:08:57,377 --> 00:08:59,537
+>> Uhm.
+
+264
+00:08:57,617 --> 00:09:02,257
+>> Tak všetky pieskoviská na celom svete si
+
+265
+00:08:59,537 --> 00:09:03,937
+predstav a to je dosť to je menej ako
+
+266
+00:09:02,257 --> 00:09:05,337
+hviezd, čo je vo vesmíre. Čo je pre mňa
+
+267
+00:09:03,937 --> 00:09:06,857
+neuveriteľné, že
+
+268
+00:09:05,337 --> 00:09:07,977
+>> Uhm.
+
+269
+00:09:06,857 --> 00:09:09,257
+>> Uhm.
+
+270
+00:09:07,977 --> 00:09:10,457
+Pravda je ináč úplne taká, že my v
+
+271
+00:09:09,257 --> 00:09:11,977
+skutočnosti, že
+
+272
+00:09:10,457 --> 00:09:14,297
+my to nemáme spočítané. To, čo máme
+
+273
+00:09:11,977 --> 00:09:15,897
+spočítané je, že vieš, koľko svieti
+
+274
+00:09:14,297 --> 00:09:17,337
+zhruba jedna hviezda, vidíš nejakú
+
+275
+00:09:15,897 --> 00:09:18,697
+galaxiu, pozrieš sa, ako svietia,
+
+276
+00:09:17,337 --> 00:09:20,777
+povieš, že tak toto vyzerá byť taká
+
+277
+00:09:18,697 --> 00:09:23,057
+galaxia s miliardou hviezd a toto je 10
+
+278
+00:09:20,777 --> 00:09:24,616
+miliardová galaxia a potom to nejako tak
+
+279
+00:09:23,057 --> 00:09:25,017
+odhadom pospočítavaš.
+
+280
+00:09:24,616 --> 00:09:26,497
+>> [lapanie po dychu]
+
+281
+00:09:25,017 --> 00:09:28,777
+>> A ten odhad ti dá číslo.
+
+282
+00:09:26,497 --> 00:09:29,897
+>> hmotu, nie? Že keď sa spočíta hmota vo
+
+283
+00:09:28,777 --> 00:09:31,137
+vesmíre, tak
+
+284
+00:09:29,897 --> 00:09:33,657
+>> To už je potom, keď chceš keď chceš
+
+285
+00:09:31,137 --> 00:09:35,697
+dopočítať, hej, že celkové
+
+286
+00:09:33,657 --> 00:09:37,617
+vplyvy gravitácie a tak ďalej, ale ale
+
+287
+00:09:35,697 --> 00:09:39,297
+že tie hviezdy vieme nejako odhaliť tým
+
+288
+00:09:37,617 --> 00:09:42,017
+jasom, aj keď samozrejme nevieš, koľko
+
+289
+00:09:39,297 --> 00:09:43,657
+ti cloní nejaký prach a podobne.
+
+290
+00:09:42,017 --> 00:09:45,257
+A to číslo, keby si Tymi chcela napísať
+
+291
+00:09:43,657 --> 00:09:49,497
+na papier, tak ono zhruba vyzerá tak, že
+
+292
+00:09:45,257 --> 00:09:52,697
+jednotka a za ňou 22 núl.
+
+293
+00:09:49,497 --> 00:09:54,137
+22, 23, podľa toho, aký odhad zoberieš.
+
+294
+00:09:52,697 --> 00:09:56,937
+Obrovské číslo. To je, že milióny,
+
+295
+00:09:54,137 --> 00:09:59,177
+milióny, milióny, miliónov rádovo.
+
+296
+00:09:56,937 --> 00:10:00,537
+Toľko. Proste, že veľa. A hľadal som k
+
+297
+00:09:59,177 --> 00:10:02,606
+tomu nejaké prirovnanie, ktoré by si
+
+298
+00:10:00,537 --> 00:10:03,217
+človek trošku mohol predstaviť.
+
+299
+00:10:02,606 --> 00:10:04,257
+>> [lapanie po dychu]
+
+300
+00:10:03,217 --> 00:10:07,257
+>> A
+
+301
+00:10:04,257 --> 00:10:09,337
+skúsil som spočítať takú vec, že
+
+302
+00:10:07,257 --> 00:10:11,058
+z akého veľkého ovocia by sa musela
+
+303
+00:10:09,337 --> 00:10:14,218
+skladať zemeguľa, aby to odpovedalo
+
+304
+00:10:11,058 --> 00:10:16,658
+počtu hviezd vo viditeľnom vesmíre.
+
+305
+00:10:14,218 --> 00:10:18,658
+A vychádza to zhruba na melóny.
+
+306
+00:10:16,658 --> 00:10:20,738
+>> Predstav si, že celá zemeguľa by bola
+
+307
+00:10:18,658 --> 00:10:21,498
+obrovská kopa melónov.
+
+308
+00:10:20,738 --> 00:10:23,378
+>> Uhm.
+
+309
+00:10:21,498 --> 00:10:24,698
+>> Melón, melón, melón, melón na nich toľko
+
+310
+00:10:23,378 --> 00:10:27,138
+vedľa seba, aby to urobilo celú
+
+311
+00:10:24,698 --> 00:10:28,698
+zemeguľu, tak zhruba toľko hviezd je vo
+
+312
+00:10:27,138 --> 00:10:29,618
+vesmíre.
+
+313
+00:10:28,698 --> 00:10:31,178
+>> Koľko je hviezd?
+
+314
+00:10:29,618 --> 00:10:33,178
+>> Áno, áno, to je to, to ako ty si povedal
+
+315
+00:10:31,178 --> 00:10:33,978
+a áno, melónov, ktoré by vyskladali celú
+
+316
+00:10:33,178 --> 00:10:35,858
+zemeguľu dokopy.
+
+317
+00:10:33,978 --> 00:10:38,458
+>> Áno, keby sme povedali že o dosť niečo
+
+318
+00:10:35,858 --> 00:10:40,178
+menšie, že napríklad šošovica alebo tak.
+
+319
+00:10:38,458 --> 00:10:42,818
+>> Nie, nie, že že melón, ale ale to je
+
+320
+00:10:40,178 --> 00:10:44,698
+podobné. Ty si povedal tie zrnká piesku,
+
+321
+00:10:42,818 --> 00:10:46,138
+oni sú zase veľmi malé. Takže keď si
+
+322
+00:10:44,698 --> 00:10:47,978
+zoberieš že každé to zrnko piesku sa
+
+323
+00:10:46,138 --> 00:10:50,258
+nafúkne na melón, tak to ti naozaj dáva
+
+324
+00:10:47,978 --> 00:10:51,818
+potom tú zemeguľu približne, takže
+
+325
+00:10:50,258 --> 00:10:52,898
+zemeguľa by vyzerala ako
+
+326
+00:10:51,818 --> 00:10:54,938
+>> nedá
+
+327
+00:10:52,898 --> 00:10:57,058
+nedá toľko ako je zem, takže hej, to
+
+328
+00:10:54,938 --> 00:10:59,418
+dávalo zmysel.
+
+329
+00:10:57,058 --> 00:11:02,058
+No, tak zaujímavé. Tými, tak dúfam že ti
+
+330
+00:10:59,418 --> 00:11:04,832
+to niečo povedalo a o väčších číslach sa
+
+331
+00:11:02,058 --> 00:11:04,938
+opýtaj rodičov a svojho učiteľa v škole,
+
+332
+00:11:04,832 --> 00:11:06,498
+>> [smiech]
+
+333
+00:11:04,938 --> 00:11:09,178
+>> že čo sú to milióny.
+
+334
+00:11:06,498 --> 00:11:11,898
+Eh, inak v tejto úplnej odbočke, vieš čo
+
+335
+00:11:09,178 --> 00:11:13,178
+ma strašne hnevá v poslednej dobe, keď v
+
+336
+00:11:11,898 --> 00:11:16,658
+nejakej [odkašľanie] historickej alebo
+
+337
+00:11:13,178 --> 00:11:19,658
+fantasy sérii povedia nejaký modern
+
+338
+00:11:16,658 --> 00:11:21,298
+niečo moderné, ale tak nenápadne moderné
+
+339
+00:11:19,658 --> 00:11:22,778
+a som pozeral teraz scénu z Game of
+
+340
+00:11:21,298 --> 00:11:25,098
+Thrones, lebo som si pozrel niektoré
+
+341
+00:11:22,778 --> 00:11:27,858
+časti, ktoré sa mi páčili a bol tam
+
+342
+00:11:25,098 --> 00:11:30,698
+Jamie Lannister, a ktorý povedal že sa
+
+343
+00:11:27,858 --> 00:11:33,098
+ho jeden ten ten mních pýtal že koľko
+
+344
+00:11:30,698 --> 00:11:34,858
+ste ľudí zabil, že nespočetne veľa a že
+
+345
+00:11:33,098 --> 00:11:35,978
+koľko ste zachránil a on iba že pol
+
+346
+00:11:34,858 --> 00:11:38,298
+milióna.
+
+347
+00:11:35,978 --> 00:11:39,578
+A mňa to tak vytrhlo z tej scény, proste
+
+348
+00:11:38,298 --> 00:11:42,018
+ja iba že
+
+349
+00:11:39,578 --> 00:11:44,698
+on tie milióny úplne vie, že to je
+
+350
+00:11:42,018 --> 00:11:47,658
+moderná jednotka, podľa mňa to nemali
+
+351
+00:11:44,698 --> 00:11:49,778
+žia- teda nesledoval som nepozrel som si
+
+352
+00:11:47,658 --> 00:11:52,178
+to, ale chcel som sa ťa na to opýtať, že
+
+353
+00:11:49,778 --> 00:11:55,498
+veď to je taký francúzsky výmysel z 19.
+
+354
+00:11:52,178 --> 00:11:57,098
+storočia, vieš že to asi nemali presne,
+
+355
+00:11:55,498 --> 00:11:57,258
+ale no, tak som chcel len takúto
+
+356
+00:11:57,098 --> 00:11:58,938
+poznámku.
+
+357
+00:11:57,258 --> 00:12:01,218
+>> Ja ja ja mám to to podobne teraz, keď
+
+358
+00:11:58,938 --> 00:12:02,818
+počúvam Červeného kapitána Bátoryho, tak
+
+359
+00:12:01,218 --> 00:12:04,498
+tiež tam občas niečo také zaznie, že sa
+
+360
+00:12:02,818 --> 00:12:06,578
+zamyslíš nad tým, že kedy vznikol tento
+
+361
+00:12:04,498 --> 00:12:10,338
+idióm, či je to naozaj také.
+
+362
+00:12:06,578 --> 00:12:12,939
+Ale to zas treba brať tak, vieš že eh
+
+363
+00:12:10,338 --> 00:12:15,139
+>> Píšu to naši súčasníci, a to podľa toho
+
+364
+00:12:12,939 --> 00:12:15,499
+beriem, akože hej, ale
+
+365
+00:12:15,139 --> 00:12:17,299
+>> Ale ale
+
+366
+00:12:15,499 --> 00:12:19,739
+>> Ale to má to tak ja, že milión vedel by
+
+367
+00:12:17,299 --> 00:12:23,459
+čo vedel by rytier, čo je milión proste,
+
+368
+00:12:19,739 --> 00:12:26,019
+že proste, že asi asi nie. Dobre, eh syn
+
+369
+00:12:23,459 --> 00:12:27,099
+sa pýta, eh teda pardon, Marek
+
+370
+00:12:26,019 --> 00:12:30,619
+osemročný.
+
+371
+00:12:27,099 --> 00:12:33,299
+>> Mení sa na planéte Zem množstvo vody?
+
+372
+00:12:30,619 --> 00:12:35,019
+Marek, osem rokov.
+
+373
+00:12:33,299 --> 00:12:37,179
+>> Určite.
+
+374
+00:12:35,019 --> 00:12:38,939
+Áno, ale zas nie sú to obrovské zmeny,
+
+375
+00:12:37,179 --> 00:12:40,539
+že by sme tu mali o 10 rokov polovicu
+
+376
+00:12:38,939 --> 00:12:42,299
+vody. Eh
+
+377
+00:12:40,539 --> 00:12:45,259
+A ešte je to, že čo rozumieš pod pojmom
+
+378
+00:12:42,299 --> 00:12:46,979
+voda, lebo viem, že ty pod pojmom voda
+
+379
+00:12:45,259 --> 00:12:48,699
+primárne rozumieš tekutú vodu, ja pod
+
+380
+00:12:46,979 --> 00:12:51,059
+ňou rozumiem aj ľad.
+
+381
+00:12:48,699 --> 00:12:52,979
+A toto sa mení výrazne, že ľad sa
+
+382
+00:12:51,059 --> 00:12:54,219
+rozumieš pod ňou vodnú paru?
+
+383
+00:12:52,979 --> 00:12:55,979
+>> Áno, jasné.
+
+384
+00:12:54,219 --> 00:12:56,979
+>> Dobre, dobre, dobre, potom sa nehádam,
+
+385
+00:12:55,979 --> 00:12:59,299
+keď
+
+386
+00:12:56,979 --> 00:13:03,099
+Eh a a toto sa výrazne mení, eh
+
+387
+00:12:59,299 --> 00:13:05,619
+skupenstvá, eh ľadovce sa topia,
+
+388
+00:13:03,099 --> 00:13:07,979
+oceány sa vyparujú, máme teraz El Niňo,
+
+389
+00:13:05,619 --> 00:13:10,139
+takže tieto veci El Niňo,
+
+390
+00:13:07,979 --> 00:13:12,699
+eh tieto veci sa menia, eh ale to je
+
+391
+00:13:10,139 --> 00:13:14,299
+akože prelievaš vodu z ľadu medzi tromi
+
+392
+00:13:12,699 --> 00:13:16,379
+rôznymi skupenstvami, takže to je
+
+393
+00:13:14,299 --> 00:13:18,459
+vlastne celkový rovnaký počet. Potom vie
+
+394
+00:13:16,379 --> 00:13:20,979
+občas voda zreagovať, napríklad, keď
+
+395
+00:13:18,459 --> 00:13:22,459
+dýchaš, tak vydychuješ H2O.
+
+396
+00:13:20,979 --> 00:13:24,019
+A naopak, keď máš fotosyntézu, tak sa
+
+397
+00:13:22,459 --> 00:13:25,219
+voda zachytáva a tvoria sa z nej iné
+
+398
+00:13:24,019 --> 00:13:26,939
+molekuly, takže dochádza k nejakým
+
+399
+00:13:25,219 --> 00:13:29,259
+chemickým zmenám.
+
+400
+00:13:26,939 --> 00:13:32,059
+To znamená, že niečo, čo bolo vodou,
+
+401
+00:13:29,259 --> 00:13:36,219
+začne byť niečím iným a naopak.
+
+402
+00:13:32,059 --> 00:13:39,059
+A trochu nám odfukuje vodík, a ten vodík
+
+403
+00:13:36,219 --> 00:13:41,059
+môže pochádzať aj eh z vody.
+
+404
+00:13:39,059 --> 00:13:42,299
+Vodík je taký ten najmenší najmenší
+
+405
+00:13:41,059 --> 00:13:43,819
+atóm,
+
+406
+00:13:42,299 --> 00:13:46,539
+aj keď bežne sa nachádza teda vo forme
+
+407
+00:13:43,819 --> 00:13:49,219
+molekuly dvoch vodíkov, a Zem stráca asi
+
+408
+00:13:46,539 --> 00:13:50,619
+3 kg vodíka za sekundu.
+
+409
+00:13:49,219 --> 00:13:51,979
+Tým, že nám ho odfukáva z horných
+
+410
+00:13:50,619 --> 00:13:53,779
+vrstiev atmosféry, podobne ako to
+
+411
+00:13:51,979 --> 00:13:55,219
+hélium, ktoré sme spomínali.
+
+412
+00:13:53,779 --> 00:13:57,099
+Uhm. Takže keď ho vypustíš balónikom,
+
+413
+00:13:55,219 --> 00:14:00,099
+tak ono nastúpa, lebo je to veľmi ľahký
+
+414
+00:13:57,099 --> 00:14:02,579
+plyn a je postupne odfúknuté, takže
+
+415
+00:14:00,099 --> 00:14:04,699
+>> Asi všetky tieto tie ľahké prvky nemajú
+
+416
+00:14:02,579 --> 00:14:05,339
+s týmto problém, že asi sa dostanú v
+
+417
+00:14:04,699 --> 00:14:06,859
+nejakej výške.
+
+418
+00:14:05,339 --> 00:14:08,579
+>> Áno, áno, presne, čím ľahší, tak tým
+
+419
+00:14:06,859 --> 00:14:10,859
+vyššie vystúpa v
+
+420
+00:14:08,579 --> 00:14:11,779
+nezanebateľnom množstve a je potom
+
+421
+00:14:10,859 --> 00:14:13,979
+odfukovaný.
+
+422
+00:14:11,779 --> 00:14:16,701
+>> Ale tiež som to počul o nejakom, neviem,
+
+423
+00:14:13,979 --> 00:14:18,941
+či nie freóne alebo niečo iné, čo. Akože
+
+424
+00:14:16,701 --> 00:14:20,421
+ten je zlý síce ale
+
+425
+00:14:18,941 --> 00:14:21,981
+>> je pomerne ťažký ale hej v tých horných
+
+426
+00:14:20,421 --> 00:14:24,101
+vrstvách atmosféry ale nie zase v tých
+
+427
+00:14:21,981 --> 00:14:26,941
+úplne najvyšších. Eh
+
+428
+00:14:24,101 --> 00:14:28,101
+>> Alebo asi nie freón alebo nejaký taký
+
+429
+00:14:26,941 --> 00:14:29,661
+tiež
+
+430
+00:14:28,101 --> 00:14:31,461
+vzácny plyn a
+
+431
+00:14:29,661 --> 00:14:34,141
+Ale teda odpoveď Marekovi je že
+
+432
+00:14:31,461 --> 00:14:36,101
+>> Množstvo vody sa mení ale veľmi jemne.
+
+433
+00:14:34,141 --> 00:14:37,541
+Nie je to tak že by si všimol. A to čo
+
+434
+00:14:36,101 --> 00:14:38,621
+vidíme skôr je že napríklad že menej
+
+435
+00:14:37,541 --> 00:14:40,541
+prší.
+
+436
+00:14:38,621 --> 00:14:44,381
+Máme dlhé suché obdobia ale to nie je že
+
+437
+00:14:40,541 --> 00:14:45,381
+tá voda tu nie je. Ona akurát nenaprší.
+
+438
+00:14:44,381 --> 00:14:46,501
+Niekde zostala.
+
+439
+00:14:45,381 --> 00:14:50,061
+>> Ona je inde.
+
+440
+00:14:46,501 --> 00:14:51,061
+>> Je áno presne tak. Niekde inde.
+
+441
+00:14:50,061 --> 00:14:53,341
+>> Dobre.
+
+442
+00:14:51,061 --> 00:14:55,941
+Ďakujeme Marekovi za otázku. Syn sa
+
+443
+00:14:53,341 --> 00:14:58,061
+pýta. Nevieme ktorý ale nejaký. Ako je
+
+444
+00:14:55,941 --> 00:15:00,581
+možné že bublinky v sodovke sa v tej
+
+445
+00:14:58,061 --> 00:15:03,101
+vode udržia a nevylietia a neprasknú
+
+446
+00:15:00,581 --> 00:15:03,101
+hneď?
+
+447
+00:15:03,255 --> 00:15:04,061
+>> [vzdychanie][lapanie po dychu]
+
+448
+00:15:03,861 --> 00:15:05,021
+>> Hm.
+
+449
+00:15:04,061 --> 00:15:07,381
+>> Lebo
+
+450
+00:15:05,021 --> 00:15:08,381
+>> Je nasýtený v tej vode? Pomalinky sa
+
+451
+00:15:07,381 --> 00:15:10,261
+vypúšťa?
+
+452
+00:15:08,381 --> 00:15:12,541
+>> Áno toto je v podstate opačnom garde že
+
+453
+00:15:10,261 --> 00:15:14,341
+ty nasýtiš tú vodu oxidom uhličitým a
+
+454
+00:15:12,541 --> 00:15:16,101
+potom zrazu vytvoríš podmienky kedy ten
+
+455
+00:15:14,341 --> 00:15:18,141
+oxid uhličitý už nechce byť
+
+456
+00:15:16,101 --> 00:15:19,621
+rozpustený vo vode a chce byť znova v
+
+457
+00:15:18,141 --> 00:15:20,901
+plynnom skupenstve takže ti začnú
+
+458
+00:15:19,621 --> 00:15:24,981
+vznikať
+
+459
+00:15:20,901 --> 00:15:26,261
+Začnú ti vznikať
+
+460
+00:15:24,981 --> 00:15:28,901
+bublinky.
+
+461
+00:15:26,261 --> 00:15:30,421
+Ale ono to chvíľku trvá. Čiže ty keď máš
+
+462
+00:15:28,901 --> 00:15:31,901
+niečo vo výhodnejšom stave tak to ešte
+
+463
+00:15:30,421 --> 00:15:33,221
+nie je nikde napísané že sa to musí
+
+464
+00:15:31,901 --> 00:15:35,541
+udiať hneď. To len znamená že sa to
+
+465
+00:15:33,221 --> 00:15:37,901
+postupne hýbe tým smerom. Dokonalý
+
+466
+00:15:35,541 --> 00:15:39,541
+príklad je že keď máš kocku ľadu
+
+467
+00:15:37,901 --> 00:15:41,381
+v lete na stole.
+
+468
+00:15:39,541 --> 00:15:42,621
+Tak keď si spočítaš
+
+469
+00:15:41,381 --> 00:15:44,021
+tak v akých podmienkach by to bolo
+
+470
+00:15:42,621 --> 00:15:45,661
+ideálne tak tiež to bude chvíľku trvať
+
+471
+00:15:44,021 --> 00:15:46,941
+kým sa to postupne ohreje a celé
+
+472
+00:15:45,661 --> 00:15:48,741
+roztopí.
+
+473
+00:15:46,941 --> 00:15:51,821
+Tak toto je tiež proces ktorý proste
+
+474
+00:15:48,741 --> 00:15:53,781
+prebieha postupne. Je tam istý prvok
+
+475
+00:15:51,821 --> 00:15:55,901
+náhody. Musia vzniknúť nejaké vhodné
+
+476
+00:15:53,781 --> 00:15:57,141
+podmienky aby sa v konkrétnom malom
+
+477
+00:15:55,901 --> 00:15:59,621
+mieste
+
+478
+00:15:57,141 --> 00:16:00,981
+vytvorila malá bublinka a začala sa
+
+479
+00:15:59,621 --> 00:16:02,821
+nafukovať. Takže je tam nejaký prvok
+
+480
+00:16:00,981 --> 00:16:05,181
+náhodnosti ktorý spôsobuje že to
+
+481
+00:16:02,821 --> 00:16:07,941
+prebieha postupne a pomaly. A pomalšie
+
+482
+00:16:05,181 --> 00:16:07,941
+ako kedy teda.
+
+483
+00:16:08,141 --> 00:16:13,261
+Super. Alex sa pýta.
+
+484
+00:16:09,901 --> 00:16:17,181
+>> Ahojte. Ja som Alex. Chcel by som sa
+
+485
+00:16:13,261 --> 00:16:20,782
+chcel opýtať prečo vzniká vietor a
+
+486
+00:16:17,181 --> 00:16:24,782
+a prečo je niekedy silný ako hurikán a
+
+487
+00:16:20,782 --> 00:16:26,942
+a niekedy slabý ako vánok?
+
+488
+00:16:24,782 --> 00:16:27,742
+>> Strašne pekne Alex položil túto otázku.
+
+489
+00:16:26,942 --> 00:16:29,502
+To
+
+490
+00:16:27,742 --> 00:16:31,222
+eh vlastne ľudia nebudú počuť, ako to ty
+
+491
+00:16:29,502 --> 00:16:33,102
+čítaš, lebo to potom Veronika
+
+492
+00:16:31,222 --> 00:16:36,022
+prestrihne, aby aby tam boli tie detské
+
+493
+00:16:33,102 --> 00:16:37,742
+nahrávky. Eh takže vlastne nemusím
+
+494
+00:16:36,022 --> 00:16:39,502
+komentovať, ako to Alex prečítal, lebo
+
+495
+00:16:37,742 --> 00:16:41,182
+všetci všetci to alebo ako to povedal,
+
+496
+00:16:39,502 --> 00:16:42,862
+všetci to teraz počuli.
+
+497
+00:16:41,182 --> 00:16:44,182
+Eh
+
+498
+00:16:42,862 --> 00:16:46,222
+tiež sme to riešili na našich nedávnych
+
+499
+00:16:44,182 --> 00:16:48,262
+fakt dobrých otázkach. Tým len teda
+
+500
+00:16:46,222 --> 00:16:50,102
+naberáme Alexa, že je pred ním veľa veľa
+
+501
+00:16:48,262 --> 00:16:51,582
+zaujímavého počúvania.
+
+502
+00:16:50,102 --> 00:16:54,422
+A
+
+503
+00:16:51,582 --> 00:16:57,542
+keď sa vzduch zohreje, tak sa rozťahuje
+
+504
+00:16:54,422 --> 00:16:59,062
+a keď sa ochladí, tak sa stiahne.
+
+505
+00:16:57,542 --> 00:17:00,862
+Inými slovami, keď ne keď zohreješ plyn,
+
+506
+00:16:59,062 --> 00:17:02,422
+tak mu stúpne tlak a naopak, keď sa
+
+507
+00:17:00,862 --> 00:17:04,182
+ochladí, tak klesne tlak. Dá sa s tým
+
+508
+00:17:02,422 --> 00:17:06,262
+urobiť pekný pokus.
+
+509
+00:17:04,182 --> 00:17:08,262
+Môžeš zobrať napríklad balón a keď ho
+
+510
+00:17:06,262 --> 00:17:10,422
+vychladíš, dáš ho v zime von, tak
+
+511
+00:17:08,262 --> 00:17:10,822
+uvidíš, ako splasne.
+
+512
+00:17:10,422 --> 00:17:13,462
+>> Hej.
+
+513
+00:17:10,822 --> 00:17:15,582
+>> A a pomerne rýchlo. No a to, čo sa
+
+514
+00:17:13,462 --> 00:17:18,222
+vlastne deje na zemi, je, že začne
+
+515
+00:17:15,582 --> 00:17:20,302
+svietiť a niektoré časti zeme vzduch sa
+
+516
+00:17:18,222 --> 00:17:22,342
+začne ohrievať, rozťahovať
+
+517
+00:17:20,302 --> 00:17:25,182
+a začne sa tlačiť niekam inam. A
+
+518
+00:17:22,342 --> 00:17:27,062
+najlepšie to cítiť pri mori, kde more má
+
+519
+00:17:25,182 --> 00:17:29,942
+počas dňa aj počas noci veľmi podobnú
+
+520
+00:17:27,062 --> 00:17:33,422
+teplotu, ale pevnina sa cez deň ohrieva,
+
+521
+00:17:29,942 --> 00:17:34,982
+v zime ochladí a cítiš tam, ako proste
+
+522
+00:17:33,422 --> 00:17:36,622
+raz fúka jedným smerom a potom fúka
+
+523
+00:17:34,982 --> 00:17:38,982
+opačným smerom. Takže vo všeobecnosti
+
+524
+00:17:36,622 --> 00:17:42,502
+platí, že
+
+525
+00:17:38,982 --> 00:17:44,662
+vietor fúka alebo slnko ohrieva zem, ale
+
+526
+00:17:42,502 --> 00:17:47,142
+robí to nerovnomerne a to teraz spôsobí,
+
+527
+00:17:44,662 --> 00:17:48,622
+že niekde sa plyn rozpína, vytvára väčší
+
+528
+00:17:47,142 --> 00:17:50,342
+tlak ako inde a potom väčší tlak
+
+529
+00:17:48,622 --> 00:17:52,382
+pretláča slabší. No a niekedy sú tie
+
+530
+00:17:50,342 --> 00:17:54,742
+rozdiely obrovské a niekedy sú veľmi
+
+531
+00:17:52,382 --> 00:17:56,222
+malinké. Preto máme niekedy iba slabučký
+
+532
+00:17:54,742 --> 00:17:57,942
+vánok.
+
+533
+00:17:56,222 --> 00:18:00,342
+Typické hurikány vznikajú na miestach,
+
+534
+00:17:57,942 --> 00:18:03,022
+kde sa vzduch dokáže extrémne zohriať a
+
+535
+00:18:00,342 --> 00:18:04,542
+dokonca prípadne ešte aj nasýtiť vodnými
+
+536
+00:18:03,022 --> 00:18:07,222
+parami, z ktorých potom dokáže ďalej
+
+537
+00:18:04,542 --> 00:18:10,142
+čerpať energiu a to sa deje nad oceánmi.
+
+538
+00:18:07,222 --> 00:18:12,222
+Takže preto potom hurikán udiera často
+
+539
+00:18:10,142 --> 00:18:13,502
+na pobrežiach, ale nemáme takéto veci
+
+540
+00:18:12,222 --> 00:18:15,302
+bežne
+
+541
+00:18:13,502 --> 00:18:16,542
+napríklad na Slovensku.
+
+542
+00:18:15,302 --> 00:18:18,622
+>> eh
+
+543
+00:18:16,542 --> 00:18:19,262
+častiach sveta častejšie sú hurikány a
+
+544
+00:18:18,622 --> 00:18:20,462
+tak to asi
+
+545
+00:18:19,262 --> 00:18:22,342
+>> Tak tak tak. Kvôli tomu rozdielu v
+
+546
+00:18:20,462 --> 00:18:24,183
+teplote, hej.
+
+547
+00:18:22,342 --> 00:18:25,303
+Inak takých
+
+548
+00:18:24,183 --> 00:18:27,103
+>> Hm.
+
+549
+00:18:25,303 --> 00:18:29,343
+>> Inak toto je dobrý námet do nejakého
+
+550
+00:18:27,103 --> 00:18:30,623
+fantasy alebo čo, vieš, taký, presne ako
+
+551
+00:18:29,343 --> 00:18:32,143
+si spomenul Game of Thrones, tak tam
+
+552
+00:18:30,623 --> 00:18:32,583
+vlastne boli také
+
+553
+00:18:32,143 --> 00:18:34,463
+ľadové
+
+554
+00:18:32,583 --> 00:18:35,783
+>> ľadové tornádo alebo niečo také, hej?
+
+555
+00:18:34,463 --> 00:18:37,823
+>> Ja by som nechcel to
+
+556
+00:18:35,783 --> 00:18:39,783
+až ma začalo ziabať, keď som si to
+
+557
+00:18:37,823 --> 00:18:41,543
+predstavil.
+
+558
+00:18:39,783 --> 00:18:43,103
+>> Ďakujeme za otázku, Alex. Vilma,
+
+559
+00:18:41,543 --> 00:18:48,663
+päťročná sa pýta.
+
+560
+00:18:43,103 --> 00:18:51,783
+>> Kámo, ja ho ďaleko od Zeme a on miluje
+
+561
+00:18:48,663 --> 00:18:54,663
+ma a mám teplo.
+
+562
+00:18:51,783 --> 00:18:55,583
+>> Jednu máme osem minút od nás.
+
+563
+00:18:54,663 --> 00:18:58,423
+Rýchlosť svetla. [smiech]
+
+564
+00:18:55,583 --> 00:19:00,703
+>> Áno, áno, áno, pravda, slnko je hviezda.
+
+565
+00:18:58,423 --> 00:19:02,503
+Takže osem svetelných minút, to je asi
+
+566
+00:19:00,703 --> 00:19:03,703
+150 miliónov kilometrov, je najbližšia
+
+567
+00:19:02,503 --> 00:19:06,063
+hviezda.
+
+568
+00:19:03,703 --> 00:19:06,063
+A
+
+569
+00:19:06,303 --> 00:19:10,103
+urobím si drobnú reklamu na knihu, lebo
+
+570
+00:19:08,863 --> 00:19:12,143
+toto práve spomínam vo Vesmírnej
+
+571
+00:19:10,103 --> 00:19:14,303
+kolíske, že ako sa to proste nedá
+
+572
+00:19:12,143 --> 00:19:15,143
+predstaviť. Mám mám tam taký príklad.
+
+573
+00:19:14,303 --> 00:19:16,383
+>> Hej.
+
+574
+00:19:15,143 --> 00:19:18,903
+>> Predstav si, že by si išiel vlakom
+
+575
+00:19:16,383 --> 00:19:20,823
+160-kou
+
+576
+00:19:18,903 --> 00:19:23,423
+dva mesiace v kuse.
+
+577
+00:19:20,823 --> 00:19:23,903
+Až ťa musí zadok bolieť z tej predstavy.
+
+578
+00:19:23,423 --> 00:19:26,423
+>> Hm.
+
+579
+00:19:23,903 --> 00:19:29,463
+>> Doletel by si zhruba na mesiac.
+
+580
+00:19:26,423 --> 00:19:32,503
+Mesiac je jednu svetelnú sekundu.
+
+581
+00:19:29,463 --> 00:19:35,303
+Keby si celý život strávil vo vlaku,
+
+582
+00:19:32,503 --> 00:19:37,303
+tak by si došiel zhruba na slnko.
+
+583
+00:19:35,303 --> 00:19:39,743
+160-kou bez hocijakej zastávky,
+
+584
+00:19:37,303 --> 00:19:42,863
+spomalenia, hocičo. 100 rokov vo vlaku
+
+585
+00:19:39,743 --> 00:19:43,623
+ťa dovezie zhruba k slnku.
+
+586
+00:19:42,863 --> 00:19:45,143
+>> Hm.
+
+587
+00:19:43,623 --> 00:19:47,983
+>> A slnko je vzdialené osem svetelných
+
+588
+00:19:45,143 --> 00:19:50,863
+minút. Najbližšia hviezda, ďalšia, sú
+
+589
+00:19:47,983 --> 00:19:53,223
+štyri svetelné roky.
+
+590
+00:19:50,863 --> 00:19:55,543
+Takže to si predstav, že koľko generácií
+
+591
+00:19:53,223 --> 00:19:57,063
+by muselo stráviť 160-kou vo vlaku, aby
+
+592
+00:19:55,543 --> 00:19:58,623
+ste sa dostali k najbližšej hviezde.
+
+593
+00:19:57,063 --> 00:20:00,623
+>> To si ani neviem pre,
+
+594
+00:19:58,623 --> 00:20:02,623
+to neviem, či aj ľudstvo by stihlo. Čo
+
+595
+00:20:00,623 --> 00:20:03,583
+to je 160
+
+596
+00:20:02,623 --> 00:20:06,903
+minút
+
+597
+00:20:03,583 --> 00:20:09,503
+100 rokov prejdeš osem minút a koľko je
+
+598
+00:20:06,903 --> 00:20:11,463
+minút vo svetelnom roku, pane bože?
+
+599
+00:20:09,503 --> 00:20:15,103
+>> No, tu tu tu máme, že hodil som to
+
+600
+00:20:11,463 --> 00:20:17,103
+rýchlo, že štyri roky sú zhruba dva
+
+601
+00:20:15,103 --> 00:20:17,943
+milióny minút.
+
+602
+00:20:17,103 --> 00:20:18,623
+Dva milióny minút
+
+603
+00:20:17,943 --> 00:20:19,423
+>> Dva milióny minút.
+
+604
+00:20:18,623 --> 00:20:22,863
+>> Hm.
+
+605
+00:20:19,423 --> 00:20:25,305
+>> Takže delené osem, to je koľko storočí?
+
+606
+00:20:22,863 --> 00:20:27,225
+>> Eh, to by sme mohli vedieť aj z hlavy,
+
+607
+00:20:25,305 --> 00:20:29,025
+ale nebudeme sa stráp- alebo budeme sa
+
+608
+00:20:27,225 --> 00:20:32,145
+strápňovať a hodím to do kalkulačky. 1 2
+
+609
+00:20:29,025 --> 00:20:34,689
+3, 1 2 3 / 8.
+
+610
+00:20:32,145 --> 00:20:35,865
+250 000 generácií.
+
+611
+00:20:34,689 --> 00:20:37,865
+>> [smiech]
+
+612
+00:20:35,865 --> 00:20:39,585
+>> Ja, pardon, 250 000 ľudských životov.
+
+613
+00:20:37,865 --> 00:20:41,425
+Generácií by to bolo ešte tak rádovo
+
+614
+00:20:39,585 --> 00:20:43,025
+štyrikrát viacej. Milión generácií, aké
+
+615
+00:20:41,425 --> 00:20:45,105
+pekné okrúhle číslo.
+
+616
+00:20:43,025 --> 00:20:47,789
+Milión generácií by muselo ísť vo vlaku
+
+617
+00:20:45,105 --> 00:20:48,345
+rýchlosťou 160 km/h.
+
+618
+00:20:47,789 --> 00:20:50,905
+>> [smiech]
+
+619
+00:20:48,345 --> 00:20:52,465
+>> Áno, aby aby sme aby sme dospeli k
+
+620
+00:20:50,905 --> 00:20:53,385
+najbližšej hviezde.
+
+621
+00:20:52,465 --> 00:20:55,105
+>> Wow.
+
+622
+00:20:53,385 --> 00:20:56,545
+>> Eh, takže dosť nereálne takýmito
+
+623
+00:20:55,105 --> 00:20:57,305
+rýchlosťami sa hýbať.
+
+624
+00:20:56,545 --> 00:20:58,665
+>> Uhm.
+
+625
+00:20:57,305 --> 00:21:00,905
+>> A ináč ešte ako si prešiel vlastne ten
+
+626
+00:20:58,665 --> 00:21:01,985
+hurikán na tej Antarktíde.
+
+627
+00:21:00,905 --> 00:21:04,065
+Eh,
+
+628
+00:21:01,985 --> 00:21:06,825
+tie hurikány, čo idú, a dúfam, že teraz
+
+629
+00:21:04,065 --> 00:21:08,945
+hovorím správne, k Amerike, oni sa občas
+
+630
+00:21:06,825 --> 00:21:09,265
+točia, začnú sa vracať späť.
+
+631
+00:21:08,945 --> 00:21:10,865
+>> Uhm.
+
+632
+00:21:09,265 --> 00:21:12,585
+>> A občas napríklad narazia do Britských
+
+633
+00:21:10,865 --> 00:21:14,145
+ostrovov. A raz sme boli v Írsku, keď sa
+
+634
+00:21:12,585 --> 00:21:15,545
+toto stalo.
+
+635
+00:21:14,145 --> 00:21:17,305
+On už je taký oslabený, lebo už je v
+
+636
+00:21:15,545 --> 00:21:19,985
+tých chladnejších vodách ďaleko od
+
+637
+00:21:17,305 --> 00:21:21,345
+rovníka, ale stále to spôsobí napríklad
+
+638
+00:21:19,985 --> 00:21:23,265
+>> Tam aj Golfský prúd, myslím si, že im
+
+639
+00:21:21,345 --> 00:21:26,065
+zoberie troška energie, že vieš.
+
+640
+00:21:23,265 --> 00:21:29,145
+>> š- akože šak čo sa zložité deje a
+
+641
+00:21:26,065 --> 00:21:31,025
+ale keď to potom hitlo v decembri alebo
+
+642
+00:21:29,145 --> 00:21:33,639
+v januári Dublin,
+
+643
+00:21:31,025 --> 00:21:34,265
+tak bol normálne, že snežná kalamita.
+
+644
+00:21:33,639 --> 00:21:34,465
+>> [vzdychanie]
+
+645
+00:21:34,265 --> 00:21:35,785
+>> Eh,
+
+646
+00:21:34,465 --> 00:21:37,745
+>> Verím, verím, ale tak zase u nich
+
+647
+00:21:35,785 --> 00:21:39,625
+kalamita aj centimeter snehu, takže
+
+648
+00:21:37,745 --> 00:21:41,705
+>> Ale vieš čo, toto bolo, že 10 a v- a v
+
+649
+00:21:39,625 --> 00:21:43,825
+meste, kde nikto nemal lopatu na sneh a
+
+650
+00:21:41,705 --> 00:21:44,465
+nebodaj snežné gumy, je to pomerne
+
+651
+00:21:43,825 --> 00:21:45,065
+problém.
+
+652
+00:21:44,465 --> 00:21:46,745
+>> hej.
+
+653
+00:21:45,065 --> 00:21:48,185
+>> Zrazu zistíš, že každé prevýšenie je
+
+654
+00:21:46,745 --> 00:21:50,225
+veľká prekážka.
+
+655
+00:21:48,185 --> 00:21:52,905
+>> Áno, áno, áno, áno, áno.
+
+656
+00:21:50,225 --> 00:21:54,600
+Eh, a potom zistíš, že Crocsy nie sú do-
+
+657
+00:21:52,905 --> 00:21:55,785
+eh, na celý rok, takže
+
+658
+00:21:54,600 --> 00:21:57,665
+>> [smiech]
+
+659
+00:21:55,785 --> 00:22:02,185
+>> Dobre, eh, ďakujeme pekne Vilme za
+
+660
+00:21:57,665 --> 00:22:03,985
+otázku. Žiak sa pýta, eh, najviac ich sa
+
+661
+00:22:02,185 --> 00:22:07,305
+samozrejme zaujímalo, ako presne
+
+662
+00:22:03,985 --> 00:22:08,745
+vykonávajú kozmonauti potrebu na toalete
+
+663
+00:22:07,305 --> 00:22:10,385
+bez gravitácie.
+
+664
+00:22:08,745 --> 00:22:12,505
+>> Tak to nám niekto niekto tlmočil otázku
+
+665
+00:22:10,385 --> 00:22:14,905
+od svojich žiakov z hodiny teraz, že ako
+
+666
+00:22:12,505 --> 00:22:16,545
+chodia cikať a kakať astronauti, eh,
+
+667
+00:22:14,905 --> 00:22:17,945
+pardon, kozmonauti. Astronauti chodia
+
+668
+00:22:16,545 --> 00:22:20,145
+normálne, lebo oni sú na zemi, ale
+
+669
+00:22:17,945 --> 00:22:20,785
+kozmonauti v beztiažovom stave
+
+670
+00:22:20,145 --> 00:22:23,665
+>> [lapanie po dychu]
+
+671
+00:22:20,785 --> 00:22:27,146
+>> eh, majú tie záchody, čo vedia robiť pod
+
+672
+00:22:23,665 --> 00:22:30,906
+tlak, okrem iného. A keď si s tým okrem
+
+673
+00:22:27,146 --> 00:22:31,506
+>> zase znova eh, našu epizódu ISS.
+
+674
+00:22:30,906 --> 00:22:33,946
+>> Uhm.
+
+675
+00:22:31,506 --> 00:22:36,026
+>> International Space Station a tam sa
+
+676
+00:22:33,946 --> 00:22:37,186
+venujeme aj týmto veciam.
+
+677
+00:22:36,026 --> 00:22:39,786
+>> Tak chcel som povedať, že veľmi
+
+678
+00:22:37,186 --> 00:22:42,386
+pozemským a prízemným, ale práve naopak,
+
+679
+00:22:39,786 --> 00:22:44,626
+veľmi vesmírnym. A teraz sa to aj
+
+680
+00:22:42,386 --> 00:22:46,986
+riešilo kvôli tomu, že Artemis 2 s tým
+
+681
+00:22:44,626 --> 00:22:48,826
+mal problém. Že celá misia Artemis 2
+
+682
+00:22:46,986 --> 00:22:50,506
+prebiehala hladko, až na dva problémy so
+
+683
+00:22:48,826 --> 00:22:53,066
+záchodom a jeden z nich bol taký, že
+
+684
+00:22:50,506 --> 00:22:54,026
+zamrzlo im tam niečo a to je
+
+685
+00:22:53,066 --> 00:22:57,146
+To je problém.
+
+686
+00:22:54,026 --> 00:22:59,106
+>> veľký problém.
+
+687
+00:22:57,146 --> 00:23:01,026
+>> Tak ale teda normálne, že máš máš máš
+
+688
+00:22:59,106 --> 00:23:03,786
+máš záchod, ktorý robí nejaký podtlak,
+
+689
+00:23:01,026 --> 00:23:04,626
+ktorý ti nahrádza tú gravitáciu.
+
+690
+00:23:03,786 --> 00:23:06,706
+Hej.
+
+691
+00:23:04,626 --> 00:23:09,786
+>> A plus, čo som čítal, je tam aj taký
+
+692
+00:23:06,706 --> 00:23:09,786
+malý vysávačik.
+
+693
+00:23:09,925 --> 00:23:12,506
+>> [smrkanie]
+
+694
+00:23:09,986 --> 00:23:12,666
+>> A ne- nechám všetko už na ďalších.
+
+695
+00:23:12,506 --> 00:23:13,856
+Dobre.
+
+696
+00:23:12,666 --> 00:23:14,786
+>> Na fantáziu.
+
+697
+00:23:13,856 --> 00:23:16,986
+>> [smiech]
+
+698
+00:23:14,786 --> 00:23:18,706
+>> Ďakujeme za otázky žiakom. Nevieme kam,
+
+699
+00:23:16,986 --> 00:23:21,026
+mohli ste napísať, že aspoň Gabovi
+
+700
+00:23:18,706 --> 00:23:24,746
+posielame pozdrav. Jonáš, trojročný. Ú,
+
+701
+00:23:21,026 --> 00:23:28,506
+to je rekordman, máš asi. A čo všetko
+
+702
+00:23:24,746 --> 00:23:30,706
+je, existuje kvôli gravitácii?
+
+703
+00:23:28,506 --> 00:23:33,146
+Keďže je jedna zo základných síl
+
+704
+00:23:30,706 --> 00:23:35,226
+vesmíru, tak asi skoro asi všetko, nie?
+
+705
+00:23:33,146 --> 00:23:38,986
+>> No áno. No bez gravitácie by nefungovali
+
+706
+00:23:35,226 --> 00:23:41,986
+hviezdy. Pš. Bez hviezd by sme nemali
+
+707
+00:23:38,986 --> 00:23:43,386
+chémiu zložitejšiu ako vodík a hélium,
+
+708
+00:23:41,986 --> 00:23:46,346
+takže žiadnu.
+
+709
+00:23:43,386 --> 00:23:48,986
+Nemali by sme zdroje koncentrovanej
+
+710
+00:23:46,346 --> 00:23:50,706
+energie, koncentrovaného tepla.
+
+711
+00:23:48,986 --> 00:23:51,066
+Proste
+
+712
+00:23:50,706 --> 00:23:53,386
+nič.
+
+713
+00:23:51,066 --> 00:23:55,906
+>> Neexistoval Život by neexistoval. Vesmír
+
+714
+00:23:53,386 --> 00:23:59,066
+bol strašne nudné miesto, plus
+
+715
+00:23:55,906 --> 00:24:00,586
+>> eh ve- veci by sa nezačali stláčať, eh
+
+716
+00:23:59,066 --> 00:24:02,666
+nezačali by tvoriť štruktúry. Na
+
+717
+00:24:00,586 --> 00:24:04,586
+začiatku to bolo všetko taký proste
+
+718
+00:24:02,666 --> 00:24:07,226
+pomerne rovnomerne rozložený plyn a
+
+719
+00:24:04,586 --> 00:24:09,386
+nebyť gravitácie, tak nezačnú proste
+
+720
+00:24:07,226 --> 00:24:11,426
+vznikať štruktúry. Takže naozaj, že bez
+
+721
+00:24:09,386 --> 00:24:13,546
+gravitácie by nebolo prakticky nič. Asi
+
+722
+00:24:11,426 --> 00:24:15,906
+ani náš vesmír dokonca, lebo
+
+723
+00:24:13,546 --> 00:24:17,986
+samotný akt vzniku vesmíru spadá pod
+
+724
+00:24:15,906 --> 00:24:18,626
+teóriu gravitácie, takže
+
+725
+00:24:17,986 --> 00:24:19,666
+takže tak.
+
+726
+00:24:18,626 --> 00:24:20,826
+>> Uhm.
+
+727
+00:24:19,666 --> 00:24:23,286
+>> Takže
+
+728
+00:24:20,826 --> 00:24:23,586
+nič by neexistovalo v svojej podstate.
+
+729
+00:24:23,286 --> 00:24:24,146
+>> [odkašľanie]
+
+730
+00:24:23,586 --> 00:24:25,666
+>> Tak.
+
+731
+00:24:24,146 --> 00:24:28,066
+>> Eh dobre, Teo sa pýta.
+
+732
+00:24:25,666 --> 00:24:30,491
+>> Čo sa stalo, keď mačiatko sa narodilo vo
+
+733
+00:24:28,066 --> 00:24:30,666
+vesmíre?
+
+734
+00:24:30,491 --> 00:24:31,547
+>> [vzdychanie]
+
+735
+00:24:30,666 --> 00:24:33,268
+>> Eh
+
+736
+00:24:31,547 --> 00:24:33,747
+>> Odpoveď je, že sa to v lietadle
+
+737
+00:24:33,268 --> 00:24:35,427
+osvedčilo.
+
+738
+00:24:33,747 --> 00:24:36,268
+>> Nie, nie, nie, nikdy sa to nestalo.
+
+739
+00:24:35,427 --> 00:24:37,547
+>> A uf.
+
+740
+00:24:36,268 --> 00:24:40,307
+>> Aj keď možno viem, že
+
+741
+00:24:37,547 --> 00:24:42,707
+>> aj to je jedna z perikvéz, že
+
+742
+00:24:40,307 --> 00:24:44,028
+nesmú byť tehotné
+
+743
+00:24:42,707 --> 00:24:45,268
+astronautky.
+
+744
+00:24:44,028 --> 00:24:47,587
+>> Áno, áno.
+
+745
+00:24:45,268 --> 00:24:49,908
+>> Z pochopiteľných dôvodov. Inak ďalšia
+
+746
+00:24:47,587 --> 00:24:50,987
+perikvéza, si vedel, že
+
+747
+00:24:49,908 --> 00:24:53,427
+eh
+
+748
+00:24:50,987 --> 00:24:54,187
+musia mať vybratý slepák?
+
+749
+00:24:53,427 --> 00:24:55,067
+>> Áno, áno.
+
+750
+00:24:54,187 --> 00:24:56,627
+>> Dnes to platí stále.
+
+751
+00:24:55,067 --> 00:24:58,148
+>> je to podobne pri antarktických
+
+752
+00:24:56,627 --> 00:25:01,067
+staniciach, hej? Že keby si zrazu
+
+753
+00:24:58,148 --> 00:25:03,307
+apendicitídu dostal, tak
+
+754
+00:25:01,067 --> 00:25:04,427
+nebol by si asi najšťastnejší človek,
+
+755
+00:25:03,307 --> 00:25:06,788
+ktorý
+
+756
+00:25:04,427 --> 00:25:09,067
+zrazu dostáva. Ale veď je ten legendárny
+
+757
+00:25:06,788 --> 00:25:11,268
+prípad, nie toho, myslím si, že ruského
+
+758
+00:25:09,067 --> 00:25:13,268
+alebo nejakého výskumníka, ktorý si sám
+
+759
+00:25:11,268 --> 00:25:14,307
+vyoperoval apendix na nejakej takejto
+
+760
+00:25:13,268 --> 00:25:16,187
+polárnej misii.
+
+761
+00:25:14,307 --> 00:25:19,427
+>> A to som sa pýtal, že asi
+
+762
+00:25:16,187 --> 00:25:21,587
+>> Asi to nechcú znova robiť takéto niečo.
+
+763
+00:25:19,427 --> 00:25:23,507
+>> A každopádne žiadne bábätko sa
+
+764
+00:25:21,587 --> 00:25:25,227
+nenarodilo vo vesmíre. Nemyslíme si, že
+
+765
+00:25:23,507 --> 00:25:26,947
+sa to stane v dohľadnej dobe, ak nás
+
+766
+00:25:25,227 --> 00:25:28,867
+nebudú čakať na nejaké cesty k tej
+
+767
+00:25:26,947 --> 00:25:30,627
+najbližšej hviezde.
+
+768
+00:25:28,867 --> 00:25:32,717
+Čo, ako sme si vysvetlili, to bude teda
+
+769
+00:25:30,627 --> 00:25:33,707
+beh na veľmi dlhú trať. A
+
+770
+00:25:32,717 --> 00:25:36,788
+>> [lapanie po dychu]
+
+771
+00:25:33,707 --> 00:25:39,307
+>> máme pocit, že by to v niektorých
+
+772
+00:25:36,788 --> 00:25:41,427
+ohľadoch mohlo byť problémové.
+
+773
+00:25:39,307 --> 00:25:42,867
+A to kvôli tomu, že boli iné
+
+774
+00:25:41,427 --> 00:25:44,947
+boli experimenty so zvieratami.
+
+775
+00:25:42,867 --> 00:25:47,388
+Napríklad, že sa vyliahli
+
+776
+00:25:44,947 --> 00:25:49,827
+mláďatá japonskej prepelice alebo niečo
+
+777
+00:25:47,388 --> 00:25:51,668
+takého a na Mire
+
+778
+00:25:49,827 --> 00:25:53,788
+a neprežili. Nevedeli sa orientovať v
+
+779
+00:25:51,668 --> 00:25:55,148
+priestore, nevedeli sa kŕmiť a a
+
+780
+00:25:53,788 --> 00:25:56,187
+pomreli.
+
+781
+00:25:55,148 --> 00:25:58,587
+>> Boli potom nejaké
+
+782
+00:25:56,187 --> 00:26:01,227
+>> zmysel, lebo to musí byť pre
+
+783
+00:25:58,587 --> 00:26:04,747
+to malé zviera alebo pre ten malý život
+
+784
+00:26:01,227 --> 00:26:05,867
+strašne mätúce byť v beztiažovom stave.
+
+785
+00:26:04,747 --> 00:26:08,307
+>> No, jasné.
+
+786
+00:26:05,867 --> 00:26:11,987
+>> Eh že chýbajú tam tieto veci. Eh robili
+
+787
+00:26:08,307 --> 00:26:14,187
+sa pokusy s potkanmi, eh aby sa spárili
+
+788
+00:26:11,987 --> 00:26:16,067
+a neprinieslo to graviditu, čiže
+
+789
+00:26:14,187 --> 00:26:18,867
+neotehotneli, ale potom sa to robili s
+
+790
+00:26:16,067 --> 00:26:21,587
+rybičkami a rybičky eh sa spárili a
+
+791
+00:26:18,867 --> 00:26:26,388
+vyliahli sa dokonca mláďatá, takže
+
+792
+00:26:21,587 --> 00:26:28,467
+eh je to zložité. Je to zložité a
+
+793
+00:26:26,388 --> 00:26:30,629
+tá gravitácia poskytuje nejakú jasnú
+
+794
+00:26:28,467 --> 00:26:32,149
+štruktúru, že tu máš smer dole, tu máš
+
+795
+00:26:30,629 --> 00:26:34,109
+smer hore.
+
+796
+00:26:32,149 --> 00:26:36,749
+A ty potrebuješ v nejakých ohľadoch
+
+797
+00:26:34,109 --> 00:26:38,909
+narušiť symetriu, že o tomto by sa sa
+
+798
+00:26:36,749 --> 00:26:41,229
+patrilo niekedy urobiť epizódu, museli
+
+799
+00:26:38,909 --> 00:26:42,389
+by sme si niekoho prizvať asi, o tom, že
+
+800
+00:26:41,229 --> 00:26:43,909
+ako vlastne prebieha celá tá
+
+801
+00:26:42,389 --> 00:26:45,669
+embryogenéza, lebo ty máš niečo, čo je
+
+802
+00:26:43,909 --> 00:26:46,869
+napríklad sfericky symetrické a
+
+803
+00:26:45,669 --> 00:26:49,389
+potrebuješ tam v nejakých bodoch
+
+804
+00:26:46,869 --> 00:26:52,229
+povedať, že a teraz to má rásť, vieš,
+
+805
+00:26:49,389 --> 00:26:53,709
+človek má nejakú jasnú jasnú os.
+
+806
+00:26:52,229 --> 00:26:57,189
+A ale to sa nejde pomocou
+
+807
+00:26:53,709 --> 00:26:59,189
+>> že či náhodou bábätko by nemalo nejak
+
+808
+00:26:57,189 --> 00:27:01,429
+nebolo pomýlené alebo ten reflex by
+
+809
+00:26:59,189 --> 00:27:02,549
+nemalo, že by sa neotočilo, vieš, že pri
+
+810
+00:27:01,429 --> 00:27:03,469
+pôrode.
+
+811
+00:27:02,549 --> 00:27:04,509
+>> No, bolo by to
+
+812
+00:27:03,469 --> 00:27:06,429
+>> Ale aj
+
+813
+00:27:04,509 --> 00:27:07,109
+>> A keď už by sa narodilo, tak by malo
+
+814
+00:27:06,429 --> 00:27:09,229
+>> Hm.
+
+815
+00:27:07,109 --> 00:27:10,749
+>> problémy s tým, že
+
+816
+00:27:09,229 --> 00:27:12,829
+kosti by nerástli dobre, vieš, keby tam
+
+817
+00:27:10,749 --> 00:27:14,229
+strávil niekoľko rokov od narodenia,
+
+818
+00:27:12,829 --> 00:27:16,509
+takže
+
+819
+00:27:14,229 --> 00:27:19,589
+buďme radi, že to je zatiaľ hypotetická
+
+820
+00:27:16,509 --> 00:27:21,469
+otázka a
+
+821
+00:27:19,589 --> 00:27:23,109
+s veľkými obavami sa to asi niekedy
+
+822
+00:27:21,469 --> 00:27:24,549
+stane prvýkrát.
+
+823
+00:27:23,109 --> 00:27:26,069
+Ale myslím si, že vo veľmi vzdialenej
+
+824
+00:27:24,549 --> 00:27:29,029
+budúcnosti.
+
+825
+00:27:26,069 --> 00:27:31,509
+>> Hej a prajem mu všetko dobré.
+
+826
+00:27:29,029 --> 00:27:33,829
+>> Tak mu sa takto narodiť, takže
+
+827
+00:27:31,509 --> 00:27:34,829
+>> Áno, bude to potrebovať.
+
+828
+00:27:33,829 --> 00:27:37,949
+>> Leo sa pýtam.
+
+829
+00:27:34,829 --> 00:27:40,149
+>> Prečo keď vidličkou buchnem o tanier,
+
+830
+00:27:37,949 --> 00:27:43,069
+tak ten zvuk je počuť aj na druhej
+
+831
+00:27:40,149 --> 00:27:45,069
+strane vidličky?
+
+832
+00:27:43,069 --> 00:27:47,469
+>> Asi ten rozkmitaný zvuk. Najprv som si
+
+833
+00:27:45,069 --> 00:27:49,429
+myslel, že ten zvuk o ten tanier, ale
+
+834
+00:27:47,469 --> 00:27:51,669
+asi ten rozkmitaný, nie?
+
+835
+00:27:49,429 --> 00:27:54,109
+>> Ťažko povedať, nebolo to úplne jasné,
+
+836
+00:27:51,669 --> 00:27:56,469
+žiaľ náš odkazovač funguje jednosmerne,
+
+837
+00:27:54,109 --> 00:27:58,669
+takže nevieme dávať doplňujúce otázky.
+
+838
+00:27:56,469 --> 00:28:01,149
+Asi tam ide o to, že ty keď vlastne
+
+839
+00:27:58,669 --> 00:28:03,789
+cinkneš eh
+
+840
+00:28:01,149 --> 00:28:05,629
+hocičím o hocičom vlastne, tak vzniknú
+
+841
+00:28:03,789 --> 00:28:08,069
+vibrácie a tie vibrácie vzniknú vo
+
+842
+00:28:05,629 --> 00:28:09,909
+všetkých telesách, niekedy
+
+843
+00:28:08,069 --> 00:28:11,549
+vzniknú také vibrácie, že sa veľmi dobre
+
+844
+00:28:09,909 --> 00:28:13,029
+šíria priestorom ďalej, napríklad na tom
+
+845
+00:28:11,549 --> 00:28:16,229
+tanieri, ale aj tá vidlička celkom
+
+846
+00:28:13,029 --> 00:28:18,909
+cinkne cinkne a stane sa zdrojom zvuku.
+
+847
+00:28:16,229 --> 00:28:21,069
+V podstate, že každý hudobný nástroj
+
+848
+00:28:18,909 --> 00:28:23,589
+funguje na tomto princípe, že môže
+
+849
+00:28:21,069 --> 00:28:26,029
+niečo, čo sa vie roztriasť
+
+850
+00:28:23,589 --> 00:28:27,469
+a tie vibrácie sa prenášajú do vzduchu.
+
+851
+00:28:26,029 --> 00:28:29,389
+Takže napríklad na gitare sa trasie
+
+852
+00:28:27,469 --> 00:28:32,869
+struna a
+
+853
+00:28:29,389 --> 00:28:35,350
+drevo vnútri to spôsobí rozkmitanie
+
+854
+00:28:32,869 --> 00:28:38,350
+zvuku, ktorý potom počuješ ako sa šíri
+
+855
+00:28:35,350 --> 00:28:41,350
+ďalej. Ale vždy je to naozaj o tom, že
+
+856
+00:28:38,350 --> 00:28:43,470
+buď máš médium, ktoré rozvibruješ
+
+857
+00:28:41,350 --> 00:28:45,030
+alebo rozvibruješ priamo vzduch, ako
+
+858
+00:28:43,470 --> 00:28:47,550
+napríklad na flaute a vytvoríš
+
+859
+00:28:45,030 --> 00:28:49,190
+podmienky, aby tam nejaké
+
+860
+00:28:47,550 --> 00:28:51,550
+nejaké konkrétne tóny, aby sa im tam
+
+861
+00:28:49,190 --> 00:28:52,430
+dobre žilo vo vnútri tej flauty alebo
+
+862
+00:28:51,550 --> 00:28:53,710
+nie úplne vo vnútri, ale
+
+863
+00:28:52,430 --> 00:28:56,470
+>> aby sa dobre šírili.
+
+864
+00:28:53,710 --> 00:28:58,230
+>> Tak, tak, tak. Čiže všetky všetky zvuky
+
+865
+00:28:56,470 --> 00:28:59,870
+sú o vibráciách a teraz samozrejme, keď
+
+866
+00:28:58,230 --> 00:29:02,830
+niečím treskneš o niečo, tak to potom
+
+867
+00:28:59,870 --> 00:29:04,230
+vydá zvuk. A všetko vydá zvuk, len často
+
+868
+00:29:02,830 --> 00:29:06,390
+nepočuješ.
+
+869
+00:29:04,230 --> 00:29:07,750
+Môžu byť infrazvuky, môžu byť
+
+870
+00:29:06,390 --> 00:29:10,470
+ultrazvuky.
+
+871
+00:29:07,750 --> 00:29:12,510
+Máme veľmi dobre, nie veľmi, ale máme
+
+872
+00:29:10,470 --> 00:29:15,230
+pomerne limitovaný rozsah frekvencií,
+
+873
+00:29:12,510 --> 00:29:17,950
+ktorý ktoré dokážeme počuť. Ale naozaj,
+
+874
+00:29:15,230 --> 00:29:19,950
+že vydávanie zvuku je úplne najbežnejším
+
+875
+00:29:17,950 --> 00:29:21,470
+prejavom hocijakého kontaktu, len je to
+
+876
+00:29:19,950 --> 00:29:23,510
+občas veľmi slabé alebo je to na iných
+
+877
+00:29:21,470 --> 00:29:24,830
+frekvenciách, ako dokážeme počuť.
+
+878
+00:29:23,510 --> 00:29:26,830
+>> Ale jo, keď [smrkanie] sa ti toto páči,
+
+879
+00:29:24,830 --> 00:29:29,175
+tak popros rodičov, nech ti kúpia
+
+880
+00:29:26,830 --> 00:29:30,030
+mechanickú ladičku.
+
+881
+00:29:29,175 --> 00:29:32,390
+>> [smiech]
+
+882
+00:29:30,030 --> 00:29:33,750
+>> To to budeš môcť si búchať a rôzne tóny
+
+883
+00:29:32,390 --> 00:29:35,350
+iné budeš počúvať cez to.
+
+884
+00:29:33,750 --> 00:29:37,710
+>> A ináč toto je super,
+
+885
+00:29:35,350 --> 00:29:40,270
+mnohé mobily umožňujú aplikácie, ktoré
+
+886
+00:29:37,710 --> 00:29:42,750
+ti ukazujú zvuk a to frekvenčné
+
+887
+00:29:40,270 --> 00:29:44,310
+zloženie. A keď si dosť nerd, tak sa tým
+
+888
+00:29:42,750 --> 00:29:47,030
+vieš zabaviť.
+
+889
+00:29:44,310 --> 00:29:48,470
+A okrem toho som ešte minule robil aj
+
+890
+00:29:47,030 --> 00:29:50,070
+eh
+
+891
+00:29:48,470 --> 00:29:53,430
+rozširoval povedomie o tej apke na
+
+892
+00:29:50,070 --> 00:29:55,430
+identifikáciu vtákov, čo urobili
+
+893
+00:29:53,430 --> 00:29:57,030
+na Zabudol som teraz.
+
+894
+00:29:55,430 --> 00:29:58,270
+>> Áno, áno. V nejakom v nejakom výskumnom
+
+895
+00:29:57,030 --> 00:30:00,670
+labáku, zabudol som teraz na ktorú
+
+896
+00:29:58,270 --> 00:30:04,510
+univerzitu, to celé zadarmo a skúšal
+
+897
+00:30:00,670 --> 00:30:06,750
+som, či to viem oklamať, lebo viem robiť
+
+898
+00:30:04,510 --> 00:30:07,950
+kukučku.
+
+899
+00:30:06,750 --> 00:30:10,830
+Eh
+
+900
+00:30:07,950 --> 00:30:14,190
+nie kukučku, teraz mi vypadlo to meno.
+
+901
+00:30:10,830 --> 00:30:14,190
+Ja si spomeniem. Eh
+
+902
+00:30:14,830 --> 00:30:20,950
+Čo robí kuku, kuku? A to som oklamal.
+
+903
+00:30:18,430 --> 00:30:22,510
+Nie, nie, nie. Eh úplne úplne teraz mi
+
+904
+00:30:20,950 --> 00:30:24,030
+to blenklo. Počkaj, pozriem sa alebo to
+
+905
+00:30:22,510 --> 00:30:26,510
+napodobním až znova.
+
+906
+00:30:24,030 --> 00:30:28,270
+Eh znova to presvedčím. Takže sa mi to
+
+907
+00:30:26,510 --> 00:30:30,990
+prvýkrát podarilo oklamať mojím vlastným
+
+908
+00:30:28,270 --> 00:30:33,070
+zvukom, takže to len dávam ako taký tip,
+
+909
+00:30:30,990 --> 00:30:35,590
+keď máte decká, ktoré sa chcú hrať s
+
+910
+00:30:33,070 --> 00:30:37,351
+rôznymi zvukmi, v mobiloch sú zadarmo
+
+911
+00:30:35,590 --> 00:30:39,552
+dobré aplikácie, často robia rôzne
+
+912
+00:30:37,351 --> 00:30:42,512
+univerzity na analyzovanie zvuku, na
+
+913
+00:30:39,552 --> 00:30:45,632
+vizualizáciu a s tým sa naozaj dá
+
+914
+00:30:42,512 --> 00:30:46,272
+eh veľmi pekne. Tak, tak, tak.
+
+915
+00:30:45,632 --> 00:30:48,392
+Takže.
+
+916
+00:30:46,272 --> 00:30:49,952
+>> Dobre, super, ďakujeme Leo za otázku.
+
+917
+00:30:48,392 --> 00:30:53,992
+Alžbetka sa sa pýta.
+
+918
+00:30:49,952 --> 00:30:56,872
+>> Ahoj, prečo eh niekedy rátame Pluto
+
+919
+00:30:53,992 --> 00:30:59,351
+medzi planéty a niekedy nie?
+
+920
+00:30:56,872 --> 00:31:02,231
+>> Alžbetka, neviem, čo ti kto povedal, ale
+
+921
+00:30:59,351 --> 00:31:03,952
+už Pluto nerátame medzi planéty už veľmi
+
+922
+00:31:02,231 --> 00:31:06,992
+dlho. Kde
+
+923
+00:31:03,952 --> 00:31:09,312
+Neviem, či nie, už 20 rokov to je, nie?
+
+924
+00:31:06,992 --> 00:31:12,192
+Hrdlička sa to volá, teraz mi to konečne
+
+925
+00:31:09,312 --> 00:31:13,672
+cinklo. Jáj, jáj, hrku.
+
+926
+00:31:12,192 --> 00:31:15,992
+>> Hrku, hrku, hej, hej.
+
+927
+00:31:13,672 --> 00:31:17,832
+>> Jáj, ja som počul, že
+
+928
+00:31:15,992 --> 00:31:19,112
+>> Áno.
+
+929
+00:31:17,832 --> 00:31:20,912
+No, dobre.
+
+930
+00:31:19,112 --> 00:31:24,592
+Eh čiže s tým potom
+
+931
+00:31:20,912 --> 00:31:26,992
+Pluto nerátame medzi planéty, pretože eh
+
+932
+00:31:24,592 --> 00:31:29,152
+nie je vlastne planétou podľa nejakých
+
+933
+00:31:26,992 --> 00:31:32,992
+definícií, ktoré máme. Planéta má
+
+934
+00:31:29,152 --> 00:31:34,952
+obrovský mesiac, ktorý eh ktorý je skoro
+
+935
+00:31:32,992 --> 00:31:36,512
+taký istý veľký ako Pluto, je veľmi
+
+936
+00:31:34,952 --> 00:31:39,112
+ďaleko.
+
+937
+00:31:36,512 --> 00:31:40,112
+Eh a tak ďalej a skoro spĺňa definíciu.
+
+938
+00:31:39,112 --> 00:31:42,672
+To by sme mu to odpustili, ale Pluto je
+
+939
+00:31:40,112 --> 00:31:44,231
+ešte veľmi malinké. Áno, áno,
+
+940
+00:31:42,672 --> 00:31:46,752
+ale akože aj ten pomer medzi tým
+
+941
+00:31:44,231 --> 00:31:49,231
+mesiacom a eh
+
+942
+00:31:46,752 --> 00:31:50,632
+Áno, Pluto je veľmi náš napríklad mesiac
+
+943
+00:31:49,231 --> 00:31:52,112
+je väčší ako Pluto.
+
+944
+00:31:50,632 --> 00:31:54,272
+>> Tak, a vyrástla už pomaly generácia
+
+945
+00:31:52,112 --> 00:31:55,752
+ľudí, ktorí nevedeli, že niekedy Pluto
+
+946
+00:31:54,272 --> 00:31:57,112
+bolo planétou, takže sa to bude ľahšie
+
+947
+00:31:55,752 --> 00:31:58,872
+vysvetľovať. My sme ešte z tej
+
+948
+00:31:57,112 --> 00:32:01,792
+generácie, čo si pamätajú a s tým Plutom
+
+949
+00:31:58,872 --> 00:32:03,272
+je to taká smiešna história, že výpočty
+
+950
+00:32:01,792 --> 00:32:05,032
+ukázali, že by mala existovať ďalšia
+
+951
+00:32:03,272 --> 00:32:06,832
+planéta, keď ho nepoznali a čakali, že
+
+952
+00:32:05,032 --> 00:32:08,992
+to bude veľká planéta
+
+953
+00:32:06,832 --> 00:32:10,752
+na istom mieste na oblohe.
+
+954
+00:32:08,992 --> 00:32:12,152
+A tú planétu tam našli, len to bol taký
+
+955
+00:32:10,752 --> 00:32:12,512
+prďous.
+
+956
+00:32:12,152 --> 00:32:14,231
+>> Uhm.
+
+957
+00:32:12,512 --> 00:32:16,152
+>> Malé Pluto a potom sme začali
+
+958
+00:32:14,231 --> 00:32:21,432
+>> ten Oortov oblak alebo
+
+959
+00:32:16,152 --> 00:32:21,432
+>> Eh nie, nie, ten je, ten je až ďalej. Eh
+
+960
+00:32:21,512 --> 00:32:24,952
+Proste, že výpočty ukázali, že malo by
+
+961
+00:32:23,112 --> 00:32:26,712
+tam byť niečo ťažké, čo tuším, že narúša
+
+962
+00:32:24,952 --> 00:32:27,032
+dráhu Neptúnu.
+
+963
+00:32:26,712 --> 00:32:29,032
+>> Uhm.
+
+964
+00:32:27,032 --> 00:32:31,072
+>> A úplne na, že to to vyzeralo, že by že
+
+965
+00:32:29,032 --> 00:32:32,552
+našťastie, že akurát tam, kam pozreli,
+
+966
+00:32:31,072 --> 00:32:33,752
+našli tam Pluto a čakali, že to bude
+
+967
+00:32:32,552 --> 00:32:35,712
+veľká vec a keď sa zlepšovali
+
+968
+00:32:33,752 --> 00:32:38,072
+pozorovania, zistili, že je malé.
+
+969
+00:32:35,712 --> 00:32:41,033
+Eh máme z neho krásne fotky, pozrite si
+
+970
+00:32:38,072 --> 00:32:42,553
+na nete, eh, lebo sme tam poslali sondu,
+
+971
+00:32:41,033 --> 00:32:44,313
+ktorá ho obletela, ak sa nemýlim, New
+
+972
+00:32:42,553 --> 00:32:47,393
+Horizons sa volala.
+
+973
+00:32:44,313 --> 00:32:48,913
+A naozaj, že sú to nádherné fotky.
+
+974
+00:32:47,393 --> 00:32:49,313
+>> No, ale sme potom presne dali si ho na
+
+975
+00:32:48,913 --> 00:32:51,993
+seba.
+
+976
+00:32:49,313 --> 00:32:53,593
+>> Áno, áno, presne. Eh, začali sme ale
+
+977
+00:32:51,993 --> 00:32:56,073
+postupne objavovať kopu ďalších
+
+978
+00:32:53,593 --> 00:32:58,193
+objektov, ktoré sú veľmi podobnej
+
+979
+00:32:56,073 --> 00:33:00,433
+veľkosti a ak by sme boli féroví, tak by
+
+980
+00:32:58,193 --> 00:33:01,993
+sme museli pridať kopu ďalších objektov.
+
+981
+00:33:00,433 --> 00:33:03,633
+Takže buď bola otázka, nebola otázka, že
+
+982
+00:33:01,993 --> 00:33:06,233
+či mať deväť planét, ale bolo, že či
+
+983
+00:33:03,633 --> 00:33:08,233
+osem alebo 25.
+
+984
+00:33:06,233 --> 00:33:10,873
+A férovejšie bolo jednu škrtnúť ako ako
+
+985
+00:33:08,233 --> 00:33:12,353
+kopu. A to 25 som strelil od pása, ale
+
+986
+00:33:10,873 --> 00:33:13,633
+to je tá logika za tým, že prečo sme
+
+987
+00:33:12,353 --> 00:33:16,473
+Pluto vyhodili.
+
+988
+00:33:13,633 --> 00:33:19,593
+Tak, takže Pluto už nie je planéta.
+
+989
+00:33:16,473 --> 00:33:21,593
+A planéta je také
+
+990
+00:33:19,593 --> 00:33:23,393
+ľudské ľudské označenie, to my sme si
+
+991
+00:33:21,593 --> 00:33:24,953
+vybrali, že niečo voláme mesiace, niečo
+
+992
+00:33:23,393 --> 00:33:26,673
+voláme planéty.
+
+993
+00:33:24,953 --> 00:33:28,593
+Kedy mysleli sme preto nejaké kritériá,
+
+994
+00:33:26,673 --> 00:33:29,873
+nejaké pravidlá.
+
+995
+00:33:28,593 --> 00:33:32,113
+>> Hej, ale stále je to tak, že nie je
+
+996
+00:33:29,873 --> 00:33:34,033
+planéta, verte mi.
+
+997
+00:33:32,113 --> 00:33:35,993
+>> Tak áno, ale kopa vecí je v astronómii,
+
+998
+00:33:34,033 --> 00:33:37,633
+kde proste povieš, že do tejto veľkosti
+
+999
+00:33:35,993 --> 00:33:39,393
+sa to volá tak a od tej veľkosti sa to
+
+1000
+00:33:37,633 --> 00:33:40,913
+volá inak. A
+
+1001
+00:33:39,393 --> 00:33:43,633
+kde je tá hranica, to sme si proste
+
+1002
+00:33:40,913 --> 00:33:46,433
+vybrali, aby sa nám ľahšie fungovalo.
+
+1003
+00:33:43,633 --> 00:33:48,833
+>> Áno, my ľudia sme si určili, takže tak.
+
+1004
+00:33:46,433 --> 00:33:51,073
+Dobre, ďakujeme za otázku.
+
+1005
+00:33:48,833 --> 00:33:51,913
+>> Eh, Leo sa pýta ďalší alebo možno ten
+
+1006
+00:33:51,073 --> 00:33:54,273
+istý.
+
+1007
+00:33:51,913 --> 00:33:57,713
+>> Keby som natiahol gumičku okolo celej
+
+1008
+00:33:54,273 --> 00:34:00,993
+zemegule, potom ju rozstrihol,
+
+1009
+00:33:57,713 --> 00:34:05,993
+koľko by trvalo, kým by sa tie dva konce
+
+1010
+00:34:00,993 --> 00:34:07,753
+zrazili a aká by to bola rýchlosť?
+
+1011
+00:34:05,993 --> 00:34:09,353
+>> Aha, ja ti poviem, akú gumičku. Uhm.
+
+1012
+00:34:07,753 --> 00:34:11,153
+>> Zoberieš kancelársku gumičku a natiahneš
+
+1013
+00:34:09,353 --> 00:34:13,593
+ju okolo zeme. A táto otázka mi robila
+
+1014
+00:34:11,153 --> 00:34:14,393
+najväčšiu bolesť hlavy a
+
+1015
+00:34:13,593 --> 00:34:17,378
+mám tri roky.
+
+1016
+00:34:14,393 --> 00:34:18,393
+>> no, že ako rýchlo sa šíri gumička.
+
+1017
+00:34:17,378 --> 00:34:20,393
+>> [lapanie po dychu]
+
+1018
+00:34:18,393 --> 00:34:22,593
+>> Sú k tomu rôzne odpovede. Eh, jedna
+
+1019
+00:34:20,393 --> 00:34:24,153
+odpoveď je taká, že ten, že Leo vymyslel
+
+1020
+00:34:22,593 --> 00:34:27,153
+blbý príklad, lebo to nebude fungovať
+
+1021
+00:34:24,153 --> 00:34:27,993
+alebo sa gumička roztrhne. Eh,
+
+1022
+00:34:27,153 --> 00:34:28,553
+>> Uhm.
+
+1023
+00:34:27,993 --> 00:34:30,833
+>> No.
+
+1024
+00:34:28,553 --> 00:34:32,633
+>> Hej, že by nevydržala to napätie ako.
+
+1025
+00:34:30,833 --> 00:34:34,393
+>> Tak áno, áno, áno, presne, že každá
+
+1026
+00:34:32,633 --> 00:34:36,313
+gumička má pomerne rýchlo svoju medzu a
+
+1027
+00:34:34,393 --> 00:34:37,833
+ona sa správa ako gumička len krátku
+
+1028
+00:34:36,313 --> 00:34:40,233
+chvíľku. A to všetci poznáme, že ona sa
+
+1029
+00:34:37,833 --> 00:34:42,194
+roztrhne napríklad alebo máš pružinku,
+
+1030
+00:34:40,233 --> 00:34:43,394
+rozoberieš pero a to podľa mňa
+
+1031
+00:34:42,194 --> 00:34:44,954
+kto sa nudil v škole, urobil, že
+
+1032
+00:34:43,394 --> 00:34:46,594
+roztiahol pružinku
+
+1033
+00:34:44,954 --> 00:34:48,514
+a keď to prehneš, tak tá pružinka sa už
+
+1034
+00:34:46,594 --> 00:34:49,754
+nevráti späť. Proste prekročil si istú
+
+1035
+00:34:48,514 --> 00:34:52,434
+hranicu.
+
+1036
+00:34:49,754 --> 00:34:53,834
+A bežná gumička sa jednoducho roztrhne a
+
+1037
+00:34:52,434 --> 00:34:55,714
+nevymyslíš takú gumičku, aby to
+
+1038
+00:34:53,834 --> 00:34:57,754
+vydržala. To je prvá odpoveď. Keby si
+
+1039
+00:34:55,714 --> 00:34:59,954
+ale prižmúril oči a povedal, že mám
+
+1040
+00:34:57,754 --> 00:35:00,609
+nezničiteľnú gumičku,
+
+1041
+00:34:59,954 --> 00:35:00,874
+>> [lapanie po dychu]
+
+1042
+00:35:00,609 --> 00:35:03,074
+[smiech]
+
+1043
+00:35:00,874 --> 00:35:05,554
+>> tak dá sa napísať taký jednoduchý
+
+1044
+00:35:03,074 --> 00:35:07,594
+vzorec, že koľko energie dáš do tej
+
+1045
+00:35:05,554 --> 00:35:09,314
+gumičky, kým ju natiahneš, a keď
+
+1046
+00:35:07,594 --> 00:35:11,314
+predpokladáš, že potom celá tá energia
+
+1047
+00:35:09,314 --> 00:35:14,594
+sa zmení na tej gumičke, ktorá by bola
+
+1048
+00:35:11,314 --> 00:35:14,594
+zároveň veľmi, veľmi ľahká,
+
+1049
+00:35:15,594 --> 00:35:20,514
+tak za istých predpokladov ti tam vie
+
+1050
+00:35:17,274 --> 00:35:21,794
+vyjsť až nadsvetelná rýchlosť.
+
+1051
+00:35:20,514 --> 00:35:23,794
+>> OK.
+
+1052
+00:35:21,794 --> 00:35:26,634
+Čo asi?
+
+1053
+00:35:23,794 --> 00:35:28,994
+>> Že ten vzorec v podstate hovorí, že
+
+1054
+00:35:26,634 --> 00:35:31,034
+že o koľko metrov to natiahneš, tak takú
+
+1055
+00:35:28,994 --> 00:35:32,594
+rýchlosť to bude mať metrov za sekundu.
+
+1056
+00:35:31,034 --> 00:35:34,594
+A keď to natiahneš na 40 miliónov
+
+1057
+00:35:32,594 --> 00:35:37,834
+metrov, tak to bude mať rádovo 40
+
+1058
+00:35:34,594 --> 00:35:39,514
+miliónov metrov za sekundu. A teraz tam
+
+1059
+00:35:37,834 --> 00:35:41,314
+je ešte nejaký faktor, ktorý závisí od
+
+1060
+00:35:39,514 --> 00:35:42,874
+tuhosti pružiny a ktorý závisí od jej
+
+1061
+00:35:41,314 --> 00:35:44,354
+hmotnosti. A tie dva faktory, keď
+
+1062
+00:35:42,874 --> 00:35:46,354
+vyberieš nejakým vhodným spôsobom, tak
+
+1063
+00:35:44,354 --> 00:35:47,954
+vieš prekročiť rýchlosť svetla. Takže
+
+1064
+00:35:46,354 --> 00:35:49,354
+prvá odpoveď je, že to nebude fungovať,
+
+1065
+00:35:47,954 --> 00:35:51,674
+lebo sa roztrhne. Keby si urobil
+
+1066
+00:35:49,354 --> 00:35:53,754
+zázračnú netrhaciu gumičku, tak by mohla
+
+1067
+00:35:51,674 --> 00:35:56,234
+narážať na rýchlosť svetla.
+
+1068
+00:35:53,754 --> 00:35:58,874
+A ale keby si
+
+1069
+00:35:56,234 --> 00:36:01,034
+len zobral takú bežnú intuíciu, že ako
+
+1070
+00:35:58,874 --> 00:36:03,954
+rýchlo sa bežne sťahuje gumička, tak ono
+
+1071
+00:36:01,034 --> 00:36:05,154
+je to porovnateľné s rýchlosťou vlnenia
+
+1072
+00:36:03,954 --> 00:36:06,474
+v danej
+
+1073
+00:36:05,154 --> 00:36:08,874
+gumičke.
+
+1074
+00:36:06,474 --> 00:36:10,594
+A takáto hypotetická gumička, keby si
+
+1075
+00:36:08,874 --> 00:36:12,594
+zobral všetky tieto obmedzenia a mala by
+
+1076
+00:36:10,594 --> 00:36:14,354
+sa len správať podľa úplne bežnej
+
+1077
+00:36:12,594 --> 00:36:16,234
+logiky, ignorujúc všetky rýchlosti
+
+1078
+00:36:14,354 --> 00:36:19,034
+svetla a podobne, tak odhad je taký, že
+
+1079
+00:36:16,234 --> 00:36:21,754
+by to mohlo trvať až niekoľko dní. A že
+
+1080
+00:36:19,034 --> 00:36:23,434
+by dosahovala rýchlosti niekoľko stoviek
+
+1081
+00:36:21,754 --> 00:36:26,194
+metrov a
+
+1082
+00:36:23,434 --> 00:36:28,834
+300 m/s je rýchlosť zvuku. Takže zvuku
+
+1083
+00:36:26,194 --> 00:36:31,754
+to trvá niekoľko hodín, kým obletí Zem.
+
+1084
+00:36:28,834 --> 00:36:33,714
+To sa stane, keď rupne nejaká sopka,
+
+1085
+00:36:31,754 --> 00:36:36,034
+tak normálne počuješ, ako buchla, a
+
+1086
+00:36:33,714 --> 00:36:39,034
+potom počuješ znova, ako buchla, a znova
+
+1087
+00:36:36,034 --> 00:36:42,074
+o niekoľko hodín. A takže to by potom
+
+1088
+00:36:39,034 --> 00:36:44,154
+trvalo rádovo deň, keď keď si všetky
+
+1089
+00:36:42,074 --> 00:36:45,876
+komplikácie odmyslíme. Ale
+
+1090
+00:36:44,154 --> 00:36:47,876
+>> Takže toto bola najťažšia otázka.
+
+1091
+00:36:45,876 --> 00:36:49,996
+>> To je škoda, že nie.
+
+1092
+00:36:47,876 --> 00:36:50,716
+>> Dobre, tak Levovi ďakujeme. Oskar sa
+
+1093
+00:36:49,996 --> 00:36:53,916
+pýtam.
+
+1094
+00:36:50,716 --> 00:36:55,836
+>> Dobrý deň, tu je Oskar z Galanty a mám
+
+1095
+00:36:53,916 --> 00:36:58,556
+otázku.
+
+1096
+00:36:55,836 --> 00:37:00,476
+Prečo je vesmír čierny? Prečo nie je
+
+1097
+00:36:58,556 --> 00:37:03,556
+napríklad modrý?
+
+1098
+00:37:00,476 --> 00:37:05,796
+Ďakujem, dovidenia.
+
+1099
+00:37:03,556 --> 00:37:08,196
+>> Zaujímavá otázka, ale to je asi len
+
+1100
+00:37:05,796 --> 00:37:11,956
+nedostatok svetla, lebo on nie je
+
+1101
+00:37:08,196 --> 00:37:13,116
+nafarbený čiernou, ale
+
+1102
+00:37:11,956 --> 00:37:14,716
+>> Čierna nie je farba.
+
+1103
+00:37:13,116 --> 00:37:17,396
+>> máme aj možno iné oči, tak ináč ho
+
+1104
+00:37:14,716 --> 00:37:19,356
+vnímame. Ešte možno aj tak.
+
+1105
+00:37:17,396 --> 00:37:21,476
+>> A áno, presne, že keby si mal oči, ktoré
+
+1106
+00:37:19,356 --> 00:37:23,436
+vedia vnímať mikrovlnné žiarenie, tak
+
+1107
+00:37:21,476 --> 00:37:25,036
+vlastne vidíš vesmír ako veľmi farebný,
+
+1108
+00:37:23,436 --> 00:37:27,796
+lebo mikrovlnné žiarenie k tam prichádza
+
+1109
+00:37:25,036 --> 00:37:29,276
+zo všetkých smerov. A
+
+1110
+00:37:27,796 --> 00:37:30,996
+keby si bol veľmi citlivý, tak by si aj
+
+1111
+00:37:29,276 --> 00:37:31,636
+videl, že
+
+1112
+00:37:30,996 --> 00:37:33,876
+a
+
+1113
+00:37:31,636 --> 00:37:35,876
+tu je to trošku teplejšie, tu je to
+
+1114
+00:37:33,876 --> 00:37:38,916
+trošku studenšie.
+
+1115
+00:37:35,876 --> 00:37:41,236
+A ale správne si povedal, že
+
+1116
+00:37:38,916 --> 00:37:43,236
+že to je vlastne absencia svetla. A my
+
+1117
+00:37:41,236 --> 00:37:45,556
+používame farbu dvomi rôznymi spôsobmi.
+
+1118
+00:37:43,236 --> 00:37:46,876
+Jedna je, že ako farbu používajú ľudia
+
+1119
+00:37:45,556 --> 00:37:47,116
+bežní,
+
+1120
+00:37:46,876 --> 00:37:51,276
+>> Uhm.
+
+1121
+00:37:47,116 --> 00:37:52,916
+>> ako farbu oblečenia, farbu látky, farbu
+
+1122
+00:37:51,276 --> 00:37:55,076
+na stene.
+
+1123
+00:37:52,916 --> 00:37:56,676
+A potom je farba ako fyzikálny pojem. A
+
+1124
+00:37:55,076 --> 00:38:00,116
+farba ako fyzikálny pojem závisí od
+
+1125
+00:37:56,676 --> 00:38:02,796
+dvoch vecí. Po prvé od vlnovej dĺžky a
+
+1126
+00:38:00,116 --> 00:38:07,516
+to ti vytvára všetky farby dúhy.
+
+1127
+00:38:02,796 --> 00:38:07,516
+Červená, žltá, zelená, modrá, fialová.
+
+1128
+00:38:07,556 --> 00:38:11,676
+A potom závisí od intenzity.
+
+1129
+00:38:10,916 --> 00:38:13,076
+>> Uhm.
+
+1130
+00:38:11,676 --> 00:38:16,396
+>> tak na dúhe nemáš všetky farby.
+
+1131
+00:38:13,076 --> 00:38:17,766
+Napríklad tam nemáš hnedú.
+
+1132
+00:38:16,396 --> 00:38:18,956
+>> No, máš čo si.
+
+1133
+00:38:17,766 --> 00:38:20,276
+>> [smiech]
+
+1134
+00:38:18,956 --> 00:38:21,036
+>> Lebo hnedá je vlastne
+
+1135
+00:38:20,276 --> 00:38:22,916
+>> je tam hnedá.
+
+1136
+00:38:21,036 --> 00:38:24,676
+>> Áno, lebo hnedá je vlastne stmavená
+
+1137
+00:38:22,916 --> 00:38:26,396
+oranžová.
+
+1138
+00:38:24,676 --> 00:38:28,516
+>> Uhm.
+
+1139
+00:38:26,396 --> 00:38:29,996
+>> A keď nejakú farbu zoberieš a stmavíš ju
+
+1140
+00:38:28,516 --> 00:38:31,636
+úplne, tak dostaneš čiernu. Dokonca
+
+1141
+00:38:29,996 --> 00:38:33,316
+hocijakú farbu zoberieš a stmavíš ju
+
+1142
+00:38:31,636 --> 00:38:34,876
+úplne, tak dostaneš čiernu. Čiže čierna
+
+1143
+00:38:33,316 --> 00:38:37,076
+nie je farba v takom tom fyzikálnom
+
+1144
+00:38:34,876 --> 00:38:38,676
+zmysle. Čierna je absencia farby,
+
+1145
+00:38:37,076 --> 00:38:40,116
+absencia svetla.
+
+1146
+00:38:38,676 --> 00:38:41,316
+A keď sa pozrieš na náhodné miesto vo
+
+1147
+00:38:40,116 --> 00:38:43,996
+vesmíre, kde tam práve nie je
+
+1148
+00:38:41,316 --> 00:38:46,277
+hviezdička, tak sa pozeráš na nič.
+
+1149
+00:38:43,996 --> 00:38:48,797
+A absencia farby je čierna, takže preto
+
+1150
+00:38:46,277 --> 00:38:50,757
+vesmír čierny.
+
+1151
+00:38:48,797 --> 00:38:53,637
+Na to, aby bol modrý
+
+1152
+00:38:50,757 --> 00:38:54,517
+>> absencie eh svetla ako hviezdičiek
+
+1153
+00:38:53,637 --> 00:38:58,357
+vidíme, no.
+
+1154
+00:38:54,517 --> 00:39:00,077
+>> Inak že toto ľudí strašne divilo, lebo
+
+1155
+00:38:58,357 --> 00:39:02,477
+si hovoril, tak keď je vesmír nekonečne
+
+1156
+00:39:00,077 --> 00:39:04,837
+starý a nekonečne veľký,
+
+1157
+00:39:02,477 --> 00:39:06,717
+>> Presne. Že keby bol vesmír nekonečný aj
+
+1158
+00:39:04,837 --> 00:39:08,877
+v čase, aj v priestore a plný hviezd,
+
+1159
+00:39:06,717 --> 00:39:10,677
+tak ako je v našom okolí, tak by nočná
+
+1160
+00:39:08,877 --> 00:39:12,877
+obloha musela byť
+
+1161
+00:39:10,677 --> 00:39:15,877
+celá
+
+1162
+00:39:12,877 --> 00:39:17,317
+osvetlená s svetlom hviezd. Takže buďme
+
+1163
+00:39:15,877 --> 00:39:19,197
+radi, že je tmavý, lebo by sa nedalo
+
+1164
+00:39:17,317 --> 00:39:20,797
+spať.
+
+1165
+00:39:19,197 --> 00:39:23,237
+>> Alebo by sme inakšie riešili spánok.
+
+1166
+00:39:20,797 --> 00:39:25,397
+Hej, hej, ale bolo by to inak.
+
+1167
+00:39:23,237 --> 00:39:29,677
+>> Bola by iná noc. Hej.
+
+1168
+00:39:25,397 --> 00:39:29,677
+Je noc, svieti, svietia hviezdy.
+
+1169
+00:39:30,477 --> 00:39:35,077
+>> Ďakujeme za otázku.
+
+1170
+00:39:32,477 --> 00:39:35,077
+A Anna
+
+1171
+00:39:56,757 --> 00:40:01,117
+Ako sa narodili hviezdy na nebi, čo sa s
+
+1172
+00:39:58,797 --> 00:40:02,437
+nimi deje potom a prečo vyzerajú ako
+
+1173
+00:40:01,117 --> 00:40:05,477
+planéty.
+
+1174
+00:40:02,437 --> 00:40:07,197
+Neuveriteľne zložitá otázka.
+
+1175
+00:40:05,477 --> 00:40:08,597
+>> A to ty nevieš, ale ľudia, ktorí
+
+1176
+00:40:07,197 --> 00:40:10,237
+počúvajú ono tak ju ešte položila v
+
+1177
+00:40:08,597 --> 00:40:11,117
+angličtine.
+
+1178
+00:40:10,237 --> 00:40:13,197
+>> Ó.
+
+1179
+00:40:11,117 --> 00:40:14,717
+Odpovedať budeme po slovensky, nech sa
+
+1180
+00:40:13,197 --> 00:40:16,322
+vytrápia
+
+1181
+00:40:14,717 --> 00:40:16,717
+aj iní rodičia.
+
+1182
+00:40:16,322 --> 00:40:18,157
+>> [vzdychanie][lapanie po dychu]
+
+1183
+00:40:16,717 --> 00:40:20,557
+>> Eh
+
+1184
+00:40:18,157 --> 00:40:22,197
+super otázka a
+
+1185
+00:40:20,557 --> 00:40:23,797
+na každú z tých častí je trochu iná
+
+1186
+00:40:22,197 --> 00:40:25,917
+odpoveď.
+
+1187
+00:40:23,797 --> 00:40:27,237
+O hviezdach sme už rozprávali párkrát v
+
+1188
+00:40:25,917 --> 00:40:29,637
+podcaste, znova si urobíme taký
+
+1189
+00:40:27,237 --> 00:40:32,477
+nenápadný, nenápadnú reklamu. Hm,
+
+1190
+00:40:29,637 --> 00:40:33,877
+párkrát, hej. Ale v podstate hviezdy
+
+1191
+00:40:32,477 --> 00:40:35,517
+>> v svojej novej knihe.
+
+1192
+00:40:33,877 --> 00:40:36,077
+>> Aj nenápadne, dokonca je tam
+
+1193
+00:40:35,517 --> 00:40:37,317
+>> Kolíske. [smrkanie]
+
+1194
+00:40:36,077 --> 00:40:39,557
+>> vo viacerých kapitolách, ale jedna
+
+1195
+00:40:37,317 --> 00:40:40,997
+kapitola je vlastne venovaná tomu, ako
+
+1196
+00:40:39,557 --> 00:40:42,237
+funguje Slnko.
+
+1197
+00:40:40,997 --> 00:40:44,157
+A ten
+
+1198
+00:40:42,237 --> 00:40:47,677
+Toto je strašne cool na vesmíre, že
+
+1199
+00:40:44,157 --> 00:40:48,397
+vlastne všetky hviezdy fungujú rovnako.
+
+1200
+00:40:47,677 --> 00:40:51,038
+Eh
+
+1201
+00:40:48,397 --> 00:40:53,478
+>> Áno, že prídeš do úplne inej časti
+
+1202
+00:40:51,038 --> 00:40:54,318
+vesmíru a stále tá hviezda to spoznáš
+
+1203
+00:40:53,478 --> 00:40:55,878
+proste, že
+
+1204
+00:40:54,318 --> 00:40:57,238
+>> Tak, tak presne, že keď sa pozrieš na
+
+1205
+00:40:55,878 --> 00:40:59,038
+hviezdu, ktorá je k nám najbližšie,
+
+1206
+00:40:57,238 --> 00:41:02,198
+slnko a pozrieš sa na hviezdu, ktorá je
+
+1207
+00:40:59,038 --> 00:41:03,878
+k najvzdialenejšej, akú len poznáme,
+
+1208
+00:41:02,198 --> 00:41:06,558
+tak je to v podstate že to isté, len iné
+
+1209
+00:41:03,878 --> 00:41:08,078
+chemické zloženie, iná veľkosť, občas
+
+1210
+00:41:06,558 --> 00:41:11,238
+trošku iné parametre sa môžu pomýliť,
+
+1211
+00:41:08,078 --> 00:41:13,278
+ale že tá fyzika je za tým tá istá.
+
+1212
+00:41:11,238 --> 00:41:16,878
+Nejaké detaily môžu byť odlišné, ale
+
+1213
+00:41:13,278 --> 00:41:20,358
+logika je, že máš veľký mrak plynu,
+
+1214
+00:41:16,878 --> 00:41:22,118
+ktorý sa gravitáciou stlačí.
+
+1215
+00:41:20,358 --> 00:41:23,358
+Keď sa stláča, tak sa zohreje a keď sa
+
+1216
+00:41:22,118 --> 00:41:25,958
+zohreje dostatočne, tak sa tam
+
+1217
+00:41:23,358 --> 00:41:27,838
+naštartuje jadrová fúzia, čo je proces,
+
+1218
+00:41:25,958 --> 00:41:29,318
+ktorý uvoľňuje ďalšiu energiu, ktorý
+
+1219
+00:41:27,838 --> 00:41:30,478
+potom hviezdu zohreje natoľko, že
+
+1220
+00:41:29,318 --> 00:41:32,278
+svieti.
+
+1221
+00:41:30,478 --> 00:41:34,518
+A toto funguje úplne všade vo vesmíre,
+
+1222
+00:41:32,278 --> 00:41:36,078
+ten istý princíp. A
+
+1223
+00:41:34,518 --> 00:41:37,758
+keď ľudia pochopili začiatkom minulého
+
+1224
+00:41:36,078 --> 00:41:39,998
+storočia, že toto sa deje v našom slnku,
+
+1225
+00:41:37,758 --> 00:41:41,718
+tak vlastne zrazu pochopili celý vesmír,
+
+1226
+00:41:39,998 --> 00:41:44,718
+to je na tom super.
+
+1227
+00:41:41,718 --> 00:41:46,478
+A po druhé je to testom toho, že či na
+
+1228
+00:41:44,718 --> 00:41:48,478
+opačnom konci vesmíru, kam dovidíme,
+
+1229
+00:41:46,478 --> 00:41:50,158
+platí tá istá fyzika ako u nás a máme
+
+1230
+00:41:48,478 --> 00:41:52,038
+pocit, že
+
+1231
+00:41:50,158 --> 00:41:54,518
+vieš, že nikde nie je napísané, že tam,
+
+1232
+00:41:52,038 --> 00:41:57,638
+že prečo v jednom kúte vesmíru nebude že
+
+1233
+00:41:54,518 --> 00:41:59,078
+ťažší vodík napríklad, vieš, že o 50 %.
+
+1234
+00:41:57,638 --> 00:42:01,838
+A my vieme, že nemôže byť, lebo tie
+
+1235
+00:41:59,078 --> 00:42:03,718
+hviezdy by tam nefungovali rovnako.
+
+1236
+00:42:01,838 --> 00:42:05,558
+A zároveň vieme, že to je taký lakmusový
+
+1237
+00:42:03,718 --> 00:42:07,398
+papierik na celý vesmír.
+
+1238
+00:42:05,558 --> 00:42:09,158
+>> Presne, presne. A rovnako vieme povedať,
+
+1239
+00:42:07,398 --> 00:42:10,598
+že 10 miliárd rokov dozadu platila tá
+
+1240
+00:42:09,158 --> 00:42:14,078
+istá fyzika ako dnes, lebo fungujú
+
+1241
+00:42:10,598 --> 00:42:17,318
+hviezdy. Že hviezdy sú strašne citlivé
+
+1242
+00:42:14,078 --> 00:42:19,558
+na hmotnosti vecí, na povahu fyzikálnych
+
+1243
+00:42:17,318 --> 00:42:21,158
+zákonov a tak ďalej.
+
+1244
+00:42:19,558 --> 00:42:23,038
+A zároveň ich je vidno krížom cez celý
+
+1245
+00:42:21,158 --> 00:42:26,838
+vesmír. Takže oni sú našou sondou, ktorá
+
+1246
+00:42:23,038 --> 00:42:29,638
+nám hovorí, že fyzika a zloženie vesmíru
+
+1247
+00:42:26,838 --> 00:42:32,838
+je proste vo ves- je všelikde v
+
+1248
+00:42:29,638 --> 00:42:34,758
+priestore a v čase veľmi podobné.
+
+1249
+00:42:32,838 --> 00:42:36,878
+A čo sa deje s hviezdami, tak to si ty
+
+1250
+00:42:34,758 --> 00:42:38,798
+vlastne zodpovedal pri prvej otázke.
+
+1251
+00:42:36,878 --> 00:42:39,638
+>> Áno, môžu vybuchnúť, ale môžu sa
+
+1252
+00:42:38,798 --> 00:42:40,318
+nafúknuť.
+
+1253
+00:42:39,638 --> 00:42:42,998
+>> Tak, tak, tak.
+
+1254
+00:42:40,318 --> 00:42:44,478
+>> Áno. A keď sú dostatočne ťažké, tak sa z
+
+1255
+00:42:42,998 --> 00:42:45,558
+nich stane
+
+1256
+00:42:44,478 --> 00:42:47,958
+čierna diera.
+
+1257
+00:42:45,558 --> 00:42:49,598
+>> Čierna diera. Zakázal som otázky o
+
+1258
+00:42:47,958 --> 00:42:50,878
+čiernych dierach a rešpektujem, že to
+
+1259
+00:42:49,598 --> 00:42:52,318
+všetci
+
+1260
+00:42:50,878 --> 00:42:54,840
+všetci dodržali.
+
+1261
+00:42:52,318 --> 00:42:57,640
+>> No a prečo vyzerajú ako planéty? Možno
+
+1262
+00:42:54,840 --> 00:42:59,040
+to myslí, že prečo sú tiež
+
+1263
+00:42:57,640 --> 00:43:01,280
+okrúhle?
+
+1264
+00:42:59,040 --> 00:43:03,520
+>> No to je to, že áno, oni sú, že všetko
+
+1265
+00:43:01,280 --> 00:43:05,360
+je guľaté, lebo gravitácia stláča veci
+
+1266
+00:43:03,520 --> 00:43:07,640
+do optimálneho tvaru a ten je z pohľadu
+
+1267
+00:43:05,360 --> 00:43:09,000
+gravitácie guľa, ale ty keď niečo vidíš
+
+1268
+00:43:07,640 --> 00:43:11,120
+na oblohe, ty v podstate nevidíš ten
+
+1269
+00:43:09,000 --> 00:43:13,600
+tvar. Že keby boli hviezdy kockaté, tak
+
+1270
+00:43:11,120 --> 00:43:15,920
+ich tiež vidíš iba ako bodky. Lebo
+
+1271
+00:43:13,600 --> 00:43:16,800
+hocičo dostatočne vzdialené vyzerá ako
+
+1272
+00:43:15,920 --> 00:43:19,040
+bodka.
+
+1273
+00:43:16,800 --> 00:43:21,920
+>> A nevieš čo to je a sú to hviezdy, hej?
+
+1274
+00:43:19,040 --> 00:43:24,480
+>> Áno, že zober si mobilný telefón veľmi
+
+1275
+00:43:21,920 --> 00:43:26,240
+ďaleko, s ním odbehni a zrazu to bude
+
+1276
+00:43:24,480 --> 00:43:28,000
+vyzerať ako taká malá bodka, ktorú držíš
+
+1277
+00:43:26,240 --> 00:43:28,840
+v ruke. No a
+
+1278
+00:43:28,000 --> 00:43:31,160
+televízor
+
+1279
+00:43:28,840 --> 00:43:32,920
+>> ľudia, keď si nejako vzdialený, tak
+
+1280
+00:43:31,160 --> 00:43:34,720
+vidíš len bodky, že sú ľudia proste
+
+1281
+00:43:32,920 --> 00:43:36,160
+>> sa sa ti to tak začne, hej? Ale proste
+
+1282
+00:43:34,720 --> 00:43:38,280
+že vzdialené zdroje vyzerajú, hovorí sa
+
+1283
+00:43:36,160 --> 00:43:40,600
+tomu, že vyzerajú ako bodovo a že nevieš
+
+1284
+00:43:38,280 --> 00:43:43,000
+rozlíšiť ich štruktúru, že sa tam niečo
+
+1285
+00:43:40,600 --> 00:43:44,320
+nachádza. Preto je taký veľký flex, keď
+
+1286
+00:43:43,000 --> 00:43:46,920
+sa nám to pri niektorých blízkych
+
+1287
+00:43:44,320 --> 00:43:49,240
+hviezdach podarí. Že
+
+1288
+00:43:46,920 --> 00:43:52,000
+Betelgeuse napríklad máme takto
+
+1289
+00:43:49,240 --> 00:43:53,400
+zmapované, že má má nejaké nerovnosti vo
+
+1290
+00:43:52,000 --> 00:43:56,080
+svojom tvare, ale že to veľmi, veľmi
+
+1291
+00:43:53,400 --> 00:43:57,760
+ťažké vidieť hviezdu inak ako bodku.
+
+1292
+00:43:56,080 --> 00:43:59,720
+Pri planétach to nie je také ťažké.
+
+1293
+00:43:57,760 --> 00:44:03,120
+Dobrý
+
+1294
+00:43:59,720 --> 00:44:05,000
+dobrý ďalekohľad alebo teleskop
+
+1295
+00:44:03,120 --> 00:44:08,880
+ti už umožní vidieť, že planéty nie sú
+
+1296
+00:44:05,000 --> 00:44:12,040
+bodky, že majú nejakú štruktúru. A teda
+
+1297
+00:44:08,880 --> 00:44:13,760
+Pluto zo záhrady neuvidíš, ale
+
+1298
+00:44:12,040 --> 00:44:17,000
+Jupiter si môžeš pozrieť a vidíš, že to
+
+1299
+00:44:13,760 --> 00:44:18,360
+je jednoznačne Jupiter, Saturn, Mars,
+
+1300
+00:44:17,000 --> 00:44:21,040
+Venušu,
+
+1301
+00:44:18,360 --> 00:44:22,360
+aj keď teda tá je v takých eh
+
+1302
+00:44:21,040 --> 00:44:25,040
+tu nie je až tak dobre
+
+1303
+00:44:22,360 --> 00:44:26,640
+>> do planetária. Naozaj sú tam mávajú tam
+
+1304
+00:44:25,040 --> 00:44:29,880
+veľakrát aj
+
+1305
+00:44:26,640 --> 00:44:31,240
+nejaké zábery, môžete si pozrieť, takže
+
+1306
+00:44:29,880 --> 00:44:32,880
+>> Takže to je vlastne cool na tom, že keď
+
+1307
+00:44:31,240 --> 00:44:34,640
+Galileo a podobne prvýkrát chytili do
+
+1308
+00:44:32,880 --> 00:44:36,520
+ruky ďalekohľad riadne, tak videli, že
+
+1309
+00:44:34,640 --> 00:44:38,160
+niektoré tie bodky sú naozaj niečo veľmi
+
+1310
+00:44:36,520 --> 00:44:40,120
+iné a už vtedy sa vedelo, že oni sú iné
+
+1311
+00:44:38,160 --> 00:44:42,840
+tým, že sa výrazne pohybujú po oblohe,
+
+1312
+00:44:40,120 --> 00:44:46,080
+to sú vlastne planéta znamená pútnik.
+
+1313
+00:44:42,840 --> 00:44:48,440
+Takže títo pútnici
+
+1314
+00:44:46,080 --> 00:44:49,680
+sú zároveň iné veci ako hviezdy,
+
+1315
+00:44:48,440 --> 00:44:51,560
+stálice.
+
+1316
+00:44:49,680 --> 00:44:54,841
+Takže takže tak.
+
+1317
+00:44:51,560 --> 00:44:57,921
+>> Ďakujeme za super otázku. Fakt cool.
+
+1318
+00:44:54,841 --> 00:44:59,961
+Pekné názvy. Dobre. Anna, ďakujeme ti za
+
+1319
+00:44:57,921 --> 00:45:02,481
+otázku a rodičom držíme palce v
+
+1320
+00:44:59,961 --> 00:45:04,161
+prekladaní našich odpovedí.
+
+1321
+00:45:02,481 --> 00:45:05,921
+Ďakujem veľmi pekne, že nás počúvate.
+
+1322
+00:45:04,161 --> 00:45:08,201
+Nájdete nás na všetkých dobrých a troška
+
+1323
+00:45:05,921 --> 00:45:09,401
+horších podcastových aplikáciách. Samko
+
+1324
+00:45:08,201 --> 00:45:11,521
+má
+
+1325
+00:45:09,401 --> 00:45:14,641
+pár eventov. Deviateho má krstenie
+
+1326
+00:45:11,521 --> 00:45:17,801
+knihy, 7. decembra má hľadanie
+
+1327
+00:45:14,641 --> 00:45:21,161
+mimozemského života, ktoré bude v KCčku.
+
+1328
+00:45:17,801 --> 00:45:23,281
+Tam sa určite vidíme všetci a čo ešte
+
+1329
+00:45:21,161 --> 00:45:26,361
+máš také Samko má? Máme tam ešte niečo.
+
+1330
+00:45:23,281 --> 00:45:28,241
+Budeme mať určite jednu akciu ešte.
+
+1331
+00:45:26,361 --> 00:45:30,321
+A
+
+1332
+00:45:28,241 --> 00:45:33,441
+do konca roka ešte jednu stíhame.
+
+1333
+00:45:30,321 --> 00:45:34,961
+Radi vás tam uvidíme a Ďakujeme za
+
+1334
+00:45:33,441 --> 00:45:38,241
+všetky detské otázky.
+
+1335
+00:45:34,961 --> 00:45:40,201
+Ďakujeme za všetky otázky, že ste
+
+1336
+00:45:38,241 --> 00:45:42,281
+Ďakujeme deti za vaše super otázky.
+
+1337
+00:45:40,201 --> 00:45:44,601
+Ďakujeme rodičom, že ste to
+
+1338
+00:45:42,281 --> 00:45:46,481
+celé zorganizovali tú logistiku a
+
+1339
+00:45:44,601 --> 00:45:48,561
+nájdete nás na všetkých dobrých a troška
+
+1340
+00:45:46,481 --> 00:45:50,401
+horších podcastových aplikáciách. Môžete
+
+1341
+00:45:48,561 --> 00:45:52,441
+nás podporiť priamo cez Hero Hero, čo
+
+1342
+00:45:50,401 --> 00:45:56,521
+najviac podporuje tento podcast. Majte
+
+1343
+00:45:52,441 --> 00:45:56,521
+sa veľmi pekne. Ahojte. Majte sa.
+
+1344
+00:46:02,041 --> 00:46:06,441
+No a tu ešte na záver taká krátka
+
+1345
+00:46:03,921 --> 00:46:08,161
+ochutnávka z Labáku. Urobili progres v
+
+1346
+00:46:06,441 --> 00:46:11,561
+troch veľkých oblastiach matematiky,
+
+1347
+00:46:08,161 --> 00:46:14,521
+informatiky a fyzike. V informatike
+
+1348
+00:46:11,561 --> 00:46:17,681
+existovala otvorená otázka o zložitosti
+
+1349
+00:46:14,521 --> 00:46:19,641
+riešenia istého typu úloh a Open AI
+
+1350
+00:46:17,681 --> 00:46:21,481
+tvrdí, že ich umelá inteligencia
+
+1351
+00:46:19,641 --> 00:46:23,081
+zistila, že nie.
+
+1352
+00:46:21,481 --> 00:46:25,001
+Že existoval lepší spôsob. Teraz
+
+1353
+00:46:23,081 --> 00:46:26,601
+povedali, že sa spoja s komunitou
+
+1354
+00:46:25,001 --> 00:46:28,521
+a nechajú komunitu navrhnúť, že ako to
+
+1355
+00:46:26,601 --> 00:46:30,361
+najlepšie vlastne teraz
+
+1356
+00:46:28,521 --> 00:46:33,641
+urobiť.
+
+1357
+00:46:30,361 --> 00:46:35,521
+A urobilo sa to tak, že tú matematickú
+
+1358
+00:46:33,641 --> 00:46:37,521
+to matematické tvrdenie rovno celé
+
+1359
+00:46:35,521 --> 00:46:39,521
+zverejnili verejnosti.
+
+1360
+00:46:37,521 --> 00:46:41,361
+A povedali, že skúste to preverovať. Aj
+
+1361
+00:46:39,521 --> 00:46:44,721
+toto nájdete v Labáku v epizóde.
+
+1362
+00:46:41,361 --> 00:46:44,721
+Ďakujeme za vašu podporu.
+
