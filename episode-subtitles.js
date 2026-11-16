@@ -57,10 +57,13 @@
    if(loaded.has(key))return loaded.get(key);
    if(loading.has(key))return loading.get(key);
    const url=new URL(file,document.baseURI).href;
+   // This SRT is generated asynchronously by GitHub Actions: do not let
+   // an initial 404 become a permanent cached response in the PWA worker.
+   const fetchUrl=episode===1?url+'&check='+Date.now():url;
    const promise=(async()=>{
      let response;
      try{
-       response=await fetch(url,{cache:'no-store'});
+       response=await fetch(fetchUrl,{cache:'no-store'});
        if(!response.ok)throw Error('HTTP '+response.status);
      }catch(networkError){
        if('caches'in window){
