@@ -153,7 +153,7 @@
       play?.addEventListener('click',event=>{
         if(!videoOn||!ready)return;
         event.preventDefault();event.stopImmediatePropagation();
-        try{yt.getPlayerState()===YT.PlayerState.PLAYING?yt.pauseVideo():yt.playVideo()}catch(_){}
+        try{yt.getPlayerState()===window.YT?.PlayerState?.PLAYING?yt.pauseVideo():yt.playVideo()}catch(_){}
       },true);
       // Let the existing seekbar move the visible video as well.
       const seek=root.querySelector('#player-seek-v2');
