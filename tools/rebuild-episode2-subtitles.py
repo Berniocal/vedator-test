@@ -198,10 +198,27 @@ def main():
         vad_filter=False,
         no_speech_threshold=0.65,
     )
+    # Report speech-recognition progress in GitHub Actions logs. Percentage is
+    # based on the audio timeline (not overall workflow run time).
+    duration = max(float(info.duration or 0), float(anchors[-1]["end"]))
+    def format_clock(seconds):
+        minutes, secs = divmod(int(seconds), 60)
+        return f"{minutes:02d}:{secs:02d}"
+
+    print(f"PŘEPIS: 0 % | 00:00 / {format_clock(duration)}", flush=True)
+    next_progress = 5
     words = []
     transcript = []
     uncertain = []
     for segment in segments:
+        processed = min(max(float(segment.end), 0.0), duration)
+        percent = min(100, int(100 * processed / duration))
+        if percent >= next_progress and percent < 100:
+            print(
+                f"PŘEPIS: {percent} % | {format_clock(processed)} / {format_clock(duration)}",
+                flush=True,
+            )
+            next_progress = (percent // 5 + 1) * 5
         transcript.append({"start": round(segment.start, 2),
                            "end": round(segment.end, 2), "text": segment.text.strip(),
                            "avg_logprob": round(segment.avg_logprob, 3)})
@@ -215,6 +232,7 @@ def main():
                               "end": float(word.end),
                               "text": token,
                               "probability": round(float(word.probability), 3)})
+    print(f"PŘEPIS: 100 % | {format_clock(duration)} / {format_clock(duration)}", flush=True)
     if len(words) < 450:
         raise RuntimeError(f"Only {len(words)} words: refusal to publish incomplete subtitles")
     cues = chunks_from_words(words, anchors)
