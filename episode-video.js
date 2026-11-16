@@ -36,7 +36,7 @@
 
   function playerFor(root,audio,title,button,holder,help){
     let yt=null,videoOn=false,lastEpisode=0,timer=null,ready=false;
-    let pendingSeek=0,token=0;
+    let pendingSeek=0,token=0,suppressAutoStart=false;
     function episode(){
       const match=title.textContent.match(/(?:podcast|d[ií]l|diel)\s+(\d+)/i);
       if(match)return Number(match[1]);
@@ -74,8 +74,13 @@
       if(!available&&videoOn)void stop(false);
       if(n!==lastEpisode){
         const old=lastEpisode;lastEpisode=n;
-        if(videoOn&&old!==n)void stop(false).then(()=>{if(preference&&VIDEO_IDS[n]&&visible())void start()});
-        else if(preference&&VIDEO_IDS[n]&&visible()&&!videoOn)void start();
+        if(videoOn&&old!==n){
+          suppressAutoStart=true;
+          void stop(false).then(()=>{
+            suppressAutoStart=false;
+            if(preference&&VIDEO_IDS[n]&&visible()&&audio.readyState>=1)void start();
+          });
+        }else if(!suppressAutoStart&&preference&&VIDEO_IDS[n]&&visible()&&!videoOn&&audio.readyState>=1)void start();
       }
     }
     async function start(){
@@ -108,6 +113,7 @@
               window.dispatchEvent(new Event('vedatorvideomodechange'));
             },
             onError:()=>{
+              preference=false;try{localStorage.setItem(VIDEO_MODE_KEY,'0')}catch(_){}
               message('YouTube video se nepodařilo přehrát. Můžete pokračovat v MP3.');
               void stop(false);
             }
@@ -115,6 +121,7 @@
         });
       }catch(error){
         if(token===own){
+          preference=false;try{localStorage.setItem(VIDEO_MODE_KEY,'0')}catch(_){}
           console.warn('YouTube API',error);message('Video nyní není dostupné, pokračuji v MP3.');
           await stop(false);audio.play().catch(()=>{});
         }
@@ -146,6 +153,7 @@
     });
 
     audio.addEventListener('loadedmetadata',refresh);
+    audio.addEventListener('play',()=>{if(videoOn)audio.pause()});
     audio.addEventListener('emptied',()=>{if(videoOn&&!VIDEO_IDS[episode()])void stop(false);refresh()});
     new MutationObserver(refresh).observe(title,{childList:true,subtree:true,characterData:true});
     if(root.id==='player-v2'){
