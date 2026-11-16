@@ -1,0 +1,22 @@
+{
+  "episode": 1,
+  "language": "sk",
+  "status": "machine-draft-needs-listening-review",
+  "audio_source": "https://mcdn.podbean.com/mf/web/mcuadh/podcast_ep1.mp3",
+  "audio_sha256": "58ef69be93dc0431c4d6e8cd6a8962c0ceeb605c744fbabf390081dc9bd4eeb5",
+  "audio_size": 39803604,
+  "model": "medium",
+  "legacy_anchors": 240,
+  "recognized_words": 2730,
+  "produced_cues": 352,
+  "timing_from_old_srt": 268,
+  "filled_gap_cues": 84,
+  "low_confidence_cues": [
+    {
+      "time": "00:04:49,620",
+      "text": "On"
+    }
+  ],
+  "uncertain_segments": [],
+  "segment_count": 308
+}
