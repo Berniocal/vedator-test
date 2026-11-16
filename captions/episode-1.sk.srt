@@ -1,0 +1,1276 @@
+1
+00:00:12,940 --> 00:00:17,600
+Tri, štyri. Od neutrína cez nervovú sústavu
+až po neutrónové hviezdy.
+
+2
+00:00:17,860 --> 00:00:19,500
+Veda nás obklopuje na každom kroku.
+
+3
+00:00:19,700 --> 00:00:23,340
+Vitajte pri Vedátor podcaste, v ktorom budeme
+diskutovať o vede a
+
+4
+00:00:23,340 --> 00:00:27,780
+prírode okolo nás. Dnešnou témou je jadrová
+energia a jej úloha v čase
+
+5
+00:00:27,780 --> 00:00:30,880
+klimatických zmien. My sme Jozef a Samuel.
+
+6
+00:00:31,560 --> 00:00:33,100
+Vitaj, Samuel.
+
+7
+00:00:34,360 --> 00:00:39,800
+Dnes je historicky prvý náš podcast Vedátor,
+
+8
+00:00:41,020 --> 00:00:46,660
+ktorý ľudia budú počúvať. Témou je jadrová
+energia a jej úloha v čase
+
+9
+00:00:46,660 --> 00:00:47,860
+klimatických zmien.
+
+10
+00:00:48,380 --> 00:00:52,900
+Začneme od piky: čo je jadrová energia a čo o
+nej ľudia podľa teba vedia?
+
+11
+00:00:52,900 --> 00:00:57,720
+Aký je rozdiel, keď sa rozprávame s vedcom
+ako ty a keď
+
+12
+00:00:57,720 --> 00:00:59,560
+hovorí laik o jadrovej energii?
+
+13
+00:01:00,420 --> 00:01:05,340
+Tak úplne na úvod: jadrová energia je
+energia, ktorú získavame z jadra
+
+14
+00:01:05,340 --> 00:01:10,380
+atómov. Takmer vždy takým spôsobom, že jadro
+zmeníme na nejaké
+
+15
+00:01:10,380 --> 00:01:14,300
+energeticky nižšie jadro a ten rozdiel v
+energii vieme vyťažiť.
+
+16
+00:01:15,420 --> 00:01:21,700
+Je to oveľa kvalitnejší zdroj energie, čo do
+koncentrácie energie na jeden
+
+17
+00:01:21,700 --> 00:01:25,120
+kilogram, než čokoľvek iné, čo poznáme a čo
+je nám momentálne dostupné.
+
+18
+00:01:26,570 --> 00:01:31,290
+Hlavný problém je, že je to dvojsečná zbraň.
+Veľa energie sa z toho
+
+19
+00:01:31,290 --> 00:01:34,150
+dá vyťažiť, ale zároveň sa tá energia dá
+zneužiť.
+
+20
+00:01:34,650 --> 00:01:40,310
+Veľa ľudí si pod atómovou energiou rovno
+predstaví bomby a výbuchy.
+
+21
+00:01:40,950 --> 00:01:45,050
+Mám pocit, že ich pohľad je tak trošku
+skreslený negatívnym smerom.
+
+22
+00:01:46,630 --> 00:01:51,070
+Podpísali sa na tom niektoré havárie, ktoré
+sa stali v minulosti, a určite
+
+23
+00:01:51,070 --> 00:01:56,770
+aj zhodenie atómových bômb v Japonsku, v
+Nagasaki a
+
+24
+00:01:56,770 --> 00:02:00,790
+v Hirošime, že? Áno, pod atómovými bombami si
+ľudia nanešťastie
+
+25
+00:02:00,790 --> 00:02:05,110
+prevažne predstavia Nagasaki, Hirošimu a pod
+jadrovou energiou ešte
+
+26
+00:02:05,110 --> 00:02:12,080
+Černobyľ. Tieto tri hlavné mená robia veľmi
+zlé PR jadrovej energii.
+
+27
+00:02:12,610 --> 00:02:18,250
+Na druhej strane, boli to obrovské nešťastia
+v histórii ľudstva,
+
+28
+00:02:18,410 --> 00:02:23,990
+ktoré zapríčinili smrť až státisícov ľudí aj
+niekoľko rokov po
+
+29
+00:02:23,990 --> 00:02:27,670
+týchto haváriách. Nie je táto obava podľa
+teba opodstatnená?
+
+30
+00:02:28,140 --> 00:02:31,000
+Keďže sa teraz bavíme o jadrovej energetike,
+
+31
+00:02:33,660 --> 00:02:37,680
+zabudnime na chvíľku na atómové bomby a
+studenú vojnu a
+
+32
+00:02:37,680 --> 00:02:42,240
+bavme sa len o elektrárňach, konkrétne o
+haváriách, ktoré sa tam stali.
+
+33
+00:02:43,160 --> 00:02:46,900
+Najhoršia z nich je Černobyľ, ktorý nám HBO
+pripomenulo skvelým
+
+34
+00:02:46,900 --> 00:02:51,820
+seriálom. Počet obetí sa tam podľa toho, kto
+robí odhad,
+
+35
+00:02:51,880 --> 00:02:54,680
+odhaduje medzi 3 000 a 90 000.
+
+36
+00:02:55,810 --> 00:03:00,110
+To je obrovský rozdiel. Je, samozrejme. Keď
+to
+
+37
+00:03:00,110 --> 00:03:03,410
+niekto vykreslí v lepšom svetle, povie 3 000,
+keď v horšom,
+
+38
+00:03:03,510 --> 00:03:04,950
+povie ten opačný extrém.
+
+39
+00:03:05,570 --> 00:03:07,330
+Okej, ale toto je ten najhorší prípad.
+
+40
+00:03:07,670 --> 00:03:13,730
+Teraz ti dám otázku. Skús tipnúť, koľko ľudí
+pri druhej najhoršej jadrovej havárii
+zahynulo.
+
+41
+00:03:14,740 --> 00:03:16,400
+Tiež by som povedal, že v tisíckach.
+
+42
+00:03:17,060 --> 00:03:21,500
+Druhá najhoršia havária si vyžiadala štyri
+ľudské obete.
+
+43
+00:03:22,330 --> 00:03:29,410
+Všetky ostatné jadrové havárie okrem
+Černobyľa si dokopy vyžiadali asi dvadsať
+obetí.
+
+44
+00:03:30,480 --> 00:03:34,840
+Obraz, ktorý majú ľudia z Černobyľa, je
+absolútne
+
+45
+00:03:34,840 --> 00:03:39,780
+nereprezentatívny. Vôbec neodzrkadľuje, ako
+bežne vyzerá jadrová
+
+46
+00:03:39,780 --> 00:03:43,060
+havária. Aká nebezpečná je v realite?
+
+47
+00:03:43,140 --> 00:03:47,240
+Je to podobné ako s lietaním. Keď sa niečo
+stane pri
+
+48
+00:03:47,240 --> 00:03:52,840
+leteckej dopravnej nehode, je to horšie, ako
+keď sa niečo stane pri nabúraní
+
+49
+00:03:52,840 --> 00:03:57,560
+auta alebo prevrátení člna. Pri lietadle
+bývajú až fatálne
+
+50
+00:03:57,560 --> 00:03:58,960
+následky akejkoľvek havárie.
+
+51
+00:03:58,960 --> 00:04:05,100
+K tomu sa dostaneme čoskoro. Rozdiel medzi
+atómovou
+
+52
+00:04:05,100 --> 00:04:08,900
+bombou a atómovou elektrárňou, alebo jadrovou
+bombou a jadrovou
+
+53
+00:04:08,900 --> 00:04:13,380
+elektrárňou je, že v oboch prebieha reťazová
+reakcia. Rozpadne
+
+54
+00:04:13,380 --> 00:04:16,660
+sa jeden atóm a jeho produkty vyvolajú ďalšiu
+reťazovú reakciu,
+
+55
+00:04:16,660 --> 00:04:18,740
+tie vyvolajú ďalšiu a ďalšiu a ďalšiu.
+
+56
+00:04:19,590 --> 00:04:24,770
+V atómovej bombe je to neriadená reakcia, v
+elektrárni kontrolovaná.
+
+57
+00:04:26,260 --> 00:04:30,740
+Černobyľ bol postavený takým hlúpym spôsobom,
+pretože to bolo lacné,
+
+58
+00:04:31,800 --> 00:04:33,880
+že fungoval tak trochu ako atómová bomba.
+
+59
+00:04:34,400 --> 00:04:37,880
+V tom zmysle, že keď sa v ňom niečo začalo
+kaziť, malo to
+
+60
+00:04:37,880 --> 00:04:40,520
+tendenciu ešte sa zhoršovať a nabaľovať.
+
+61
+00:04:41,300 --> 00:04:45,860
+Nemal bezpečnostné prvky, ktoré by zabránili
+zhoršovaniu, ale
+
+62
+00:04:45,860 --> 00:04:50,160
+umožňovalo to eskaláciu tých problémov.
+
+63
+00:04:50,220 --> 00:04:54,160
+Mal také vlastnosti, že keď sa vykoľajil zo
+svojej rovnováhy,
+
+64
+00:04:54,160 --> 00:04:57,520
+situácia sa začala zhoršovať a nabaľovali sa
+na to ďalšie a ďalšie
+
+65
+00:04:57,520 --> 00:05:03,370
+problémy. Na stupnici od atómovej bomby k
+jadrovej elektrárni bol
+
+66
+00:05:03,370 --> 00:05:06,690
+Černobyľ pomerne blízko k atómovej bombe.
+Bolo to naozaj zle
+
+67
+00:05:06,690 --> 00:05:11,310
+urobené. Moderné jadrové elektrárne sa
+stavajú naopak. Keď
+
+68
+00:05:11,310 --> 00:05:16,010
+sa vykoľaja zo svojej rovnováhy, reakcia sa v
+nich zastaví.
+
+69
+00:05:16,790 --> 00:05:19,370
+Tú rovnováhu potrebujú na to, aby fungovali
+ďalej.
+
+70
+00:05:19,760 --> 00:05:24,580
+Moderné elektrárne nevybuchnú ako Černobyľ,
+ale neznamená to, že
+
+71
+00:05:24,580 --> 00:05:25,800
+tam nemôžu nastať problémy.
+
+72
+00:05:27,200 --> 00:05:32,720
+Hovoril si o rovnováhe, ktorú musí spĺňať
+každý reaktor, aby to
+
+73
+00:05:32,720 --> 00:05:34,520
+bol reaktor a nie atómová bomba.
+
+74
+00:05:34,900 --> 00:05:40,330
+Čo je to vlastne rovnováha? Môžeš nám ju
+objasniť v jadrovom
+
+75
+00:05:40,330 --> 00:05:45,380
+reaktore? Je to bežne pomerne zložitý proces,
+ale spomeniem len úplne
+
+76
+00:05:45,380 --> 00:05:49,660
+základnú zložku. Keď sa rozpadne jadro,
+vyletia z neho
+
+77
+00:05:49,660 --> 00:05:57,440
+neutróny. To sú častice atómového jadra,
+ktoré stimulujú ďalšie rozpady.
+
+78
+00:05:58,740 --> 00:06:01,980
+To, ako často dochádza k reakcii, môžeme
+kontrolovať tak,
+
+79
+00:06:02,000 --> 00:06:05,200
+že zachytávame tieto neutróny a bránime im,
+aby sa
+
+80
+00:06:05,200 --> 00:06:09,120
+šírili prostredím ďalej. Máme v úvodzovkách
+pasce alebo jedy na
+
+81
+00:06:09,120 --> 00:06:12,660
+neutróny, ktoré ich zachytia a tým kontrolujú
+reakciu.
+
+82
+00:06:14,800 --> 00:06:18,500
+Černobyľ mal vlastnosť, že keď sa to
+vykoľajilo, bolo to
+
+83
+00:06:18,500 --> 00:06:22,720
+kontrolované ešte menej. Moderné elektrárne:
+keď sa vykoľaja z rovnováhy,
+
+84
+00:06:23,560 --> 00:06:27,320
+neutróny prestanú byť reaktívne.
+
+85
+00:06:28,420 --> 00:06:33,140
+Zabránia tomu, aby bol horší následok toho,
+čo sa
+
+86
+00:06:33,140 --> 00:06:36,320
+stalo. Môže tam niečo nastať, ale nezhorší sa
+to už.
+
+87
+00:06:36,800 --> 00:06:38,740
+Alebo by sa to nemalo až tak veľmi zhoršiť.
+
+88
+00:06:39,320 --> 00:06:41,960
+V Černobyle sa začala hromadiť energia,
+
+89
+00:06:41,960 --> 00:06:45,880
+všetko sa natlakovalo a celé to explodovalo.
+
+90
+00:06:46,400 --> 00:06:49,460
+V modernej elektrárni sa môže stať, že sa
+reakcia vypne,
+
+91
+00:06:49,680 --> 00:06:53,820
+ale stále máme extrémne horúce jadro, ktoré
+treba chladiť.
+
+92
+00:06:54,380 --> 00:06:58,760
+Na to sú náhradné obvody. Vo Fukušime sa však
+
+93
+00:06:58,760 --> 00:07:04,480
+stalo, že prišlo cunami, ktoré spôsobilo
+jadrovú haváriu
+
+94
+00:07:04,480 --> 00:07:07,160
+a zároveň odstavilo obvody, ktoré mali
+chladiť
+
+95
+00:07:09,240 --> 00:07:11,420
+reaktor. Došlo k niečomu, čo sa volá
+meltdown.
+
+96
+00:07:13,020 --> 00:07:14,960
+Roztavilo sa jadro. Áno.
+
+97
+00:07:16,010 --> 00:07:20,910
+Viem, že je tam obrovský problém s
+kontaminovanou vodou.
+
+98
+00:07:21,690 --> 00:07:25,210
+Budú sa jej snažiť nejako zbaviť, ale je jej
+strašne veľa.
+
+99
+00:07:25,870 --> 00:07:29,370
+Budem držať palce. Myslím, že všetci budú
+držať palce, aby sa
+
+100
+00:07:29,370 --> 00:07:33,890
+to nezhoršovalo. Máme tu také štatistiky.
+
+101
+00:07:33,970 --> 00:07:38,850
+Vo svete je 450 elektrární, ktoré produkujú
+10 % celkovej energie.
+
+102
+00:07:40,110 --> 00:07:46,440
+Aký je teraz trend? Vieme, že všetci sa
+snažíme ekologicky
+
+103
+00:07:46,440 --> 00:07:52,580
+žiť a presadzovať zelenú energiu, napríklad
+solárnu a veternú.
+
+104
+00:07:54,560 --> 00:08:00,420
+Má jadrová energia ešte priestor v
+budúcnosti, alebo sa skôr od
+
+105
+00:08:00,420 --> 00:08:04,020
+nej odkláňame a bude nahradená niečím
+čistejším, lepším?
+
+106
+00:08:04,180 --> 00:08:06,940
+V akom je vzťahu k fosílnym palivám?
+
+107
+00:08:07,780 --> 00:08:08,980
+Čiže…
+
+108
+00:08:10,650 --> 00:08:14,650
+Teraz je to na vážkach. Niektoré krajiny dali
+stopku
+
+109
+00:08:14,650 --> 00:08:19,630
+jadrovej energii a iné na nej pomerne úspešne
+fungujú ďalej.
+
+110
+00:08:20,290 --> 00:08:24,850
+Ako si povedal, zhruba 10 % svetovej energie
+
+111
+00:08:24,850 --> 00:08:30,840
+produkujú jadrové elektrárne. A teraz…
+
+112
+00:08:31,720 --> 00:08:36,980
+Akú majú budúcnosť? V podstate nevieme. Je to
+pomerne dôležitá
+
+113
+00:08:36,980 --> 00:08:42,040
+otázka. Ľudia si s jadrovou elektrárňou
+spájajú
+
+114
+00:08:42,040 --> 00:08:48,240
+negatíva, že môže dôjsť k havárii. Skutočné
+
+115
+00:08:48,240 --> 00:08:52,800
+negatíva, ak k havárii nedôjde, sú pomerne
+malé. A keď k havárii
+
+116
+00:08:52,800 --> 00:08:55,960
+dôjde, tiež to nie je také strašné, ako si
+ľudia predstavujú.
+
+117
+00:08:55,960 --> 00:08:58,220
+Ďalší Černobyľ je už veľmi nepravdepodobný.
+
+118
+00:08:59,510 --> 00:09:04,010
+Bežné negatíva sú, že sú pomerne drahé na
+prevádzku. Nie
+
+119
+00:09:04,010 --> 00:09:08,270
+až tak veľmi ako iné zdroje energie, ale
+stále je drahé
+
+120
+00:09:08,270 --> 00:09:10,290
+elektráreň postaviť a rozbehnúť.
+
+121
+00:09:10,930 --> 00:09:14,940
+Druhý problém je, že produkuje palivo — teda
+nie palivo, ale
+
+122
+00:09:14,940 --> 00:09:17,200
+čiastočne vyhorené palivo,
+
+123
+00:09:18,020 --> 00:09:19,820
+ktoré musíme veľmi dlho skladovať.
+
+124
+00:09:20,720 --> 00:09:24,040
+Skladuje sa aj preto, že sa verí — teda, sú
+už
+
+125
+00:09:24,040 --> 00:09:28,900
+výpočty, že elektrárne ďalšej generácie budú
+schopné tento odpad
+
+126
+00:09:28,900 --> 00:09:31,840
+znova zobrať a použiť ako ďalšie palivo.
+Preto sa to
+
+127
+00:09:31,840 --> 00:09:35,280
+nevyhadzuje ani neodpaľuje niekam do vesmíru.
+
+128
+00:09:35,460 --> 00:09:40,580
+Aha. Ľudia sa teda snažia vymyslieť proces,
+ktorým by sa
+
+129
+00:09:40,580 --> 00:09:44,920
+využívalo aj vyhorené alebo zhorené palivo,
+ak by sme ho mohli
+
+130
+00:09:44,920 --> 00:09:49,580
+tak nazvať, ktoré sa ukladá do soľných baní v
+Rusku, aby sa
+
+131
+00:09:49,580 --> 00:09:52,100
+nejako bránilo tým negatívam.
+
+132
+00:09:52,740 --> 00:09:53,940
+To je veľmi zaujímavé.
+
+133
+00:09:54,040 --> 00:09:59,020
+Mimochodom, poznámka: prečo sa vlastne ukladá
+
+134
+00:09:59,680 --> 00:10:03,840
+palivo do soľných baní? Nikdy nie je jasné,
+či
+
+135
+00:10:03,840 --> 00:10:06,520
+miestom, kam sa to zakope, netečie voda.
+
+136
+00:10:07,160 --> 00:10:10,740
+Keď je tam veľa soli, znamená to, že tadiaľ
+asi netečie voda,
+
+137
+00:10:10,820 --> 00:10:13,380
+takže je to bezpečné miesto na uloženie
+odpadu.
+
+138
+00:10:14,900 --> 00:10:19,420
+To je zaujímavé. Počul som ešte, že keď sa do
+soli
+
+139
+00:10:19,420 --> 00:10:25,100
+vyvŕtajú miesta, kam sa má palivo uložiť, soľ
+je kryštál a sama sa
+
+140
+00:10:25,100 --> 00:10:30,960
+zahojí a zatvorí. Z tohto pohľadu je to dobré
+riešenie.
+
+141
+00:10:30,960 --> 00:10:35,900
+Keď niekto vymyslí proces, ako znova využiť
+
+142
+00:10:35,900 --> 00:10:42,400
+staré, spotrebované palivo, bude jadrová
+energia
+
+143
+00:10:42,400 --> 00:10:44,740
+ešte čistejšia?
+
+144
+00:10:44,740 --> 00:10:47,900
+Áno. Myslím, že proces je už vymyslený, ale
+ešte nie je
+
+145
+00:10:47,900 --> 00:10:53,760
+zrealizovaný. Ak nedôjde k havárii, z
+
+146
+00:10:53,760 --> 00:10:56,820
+jadrovej elektrárne vychádza palivo, ktoré
+treba skladovať. Stojí to
+
+147
+00:10:56,820 --> 00:11:00,840
+peniaze, ale okrem toho z nej vychádza čistá
+para. Jadrová
+
+148
+00:11:00,840 --> 00:11:05,360
+energia slúži na zohrievanie vody, ktorá
+poháňa turbíny. Para potom
+
+149
+00:11:05,360 --> 00:11:09,700
+vychádza von. Z tohto pohľadu je to extrémne
+čistý zdroj energie,
+
+150
+00:11:10,100 --> 00:11:13,520
+ak nedôjde k havárii. Keď dôjde, ako som
+povedal, havárie sú veľmi
+
+151
+00:11:13,520 --> 00:11:17,060
+zriedkavé a vôbec nie také zlé, ako si ľudia
+predstavujú.
+
+152
+00:11:19,390 --> 00:11:23,410
+Treba to dať do kontextu a porovnať s
+ostatnými zdrojmi energie,
+
+153
+00:11:23,550 --> 00:11:29,260
+ktoré máme. Samozrejme… Nie úplne samozrejme,
+ale čistejšie z toho vychádzajú
+
+154
+00:11:29,260 --> 00:11:33,220
+obnoviteľné zdroje ako solárne panely alebo
+veterné elektrárne.
+
+155
+00:11:34,180 --> 00:11:38,840
+Stále sa však diskutuje, do akej miery
+znečistíme
+
+156
+00:11:38,840 --> 00:11:40,600
+prostredie tým, že ich vôbec vyrábame.
+
+157
+00:11:41,450 --> 00:11:44,520
+Solárne panely s tým majú obrovský problém.
+
+158
+00:11:44,660 --> 00:11:50,700
+Myslím, že sú na báze silikónu a ten je
+veľkým
+
+159
+00:11:50,700 --> 00:11:52,400
+znečisťovateľom prostredia.
+
+160
+00:11:54,090 --> 00:11:55,790
+Kremík je to po slovensky. Áno,
+
+161
+00:11:57,530 --> 00:11:59,370
+je to kremík. Výborne, ďakujem.
+
+162
+00:12:01,470 --> 00:12:04,990
+Určite sú však aj horší znečisťovatelia.
+
+163
+00:12:05,550 --> 00:12:11,130
+Z poznámok, ktoré sme si pripravili, čítam,
+že až osem miliónov
+
+164
+00:12:11,130 --> 00:12:14,270
+ľudí každý rok zomrie kvôli znečisteniu
+vzduchu.
+
+165
+00:12:16,370 --> 00:12:21,670
+Konečne sme prestali obchádzať slona v
+miestnosti. Keď sa
+
+166
+00:12:21,670 --> 00:12:27,670
+jadrová energia porovná so spaľovaním
+fosílnych palív, je to o
+
+167
+00:12:27,670 --> 00:12:29,890
+niekoľko rádov čistejšia forma energie.
+
+168
+00:12:30,250 --> 00:12:36,190
+Ako hovoríš, osem miliónov ľudí ročne zomrie
+na problémy s dýchaním.
+
+169
+00:12:36,320 --> 00:12:41,660
+Spaľovacie elektrárne nie sú jediným
+znečisťovateľom.
+
+170
+00:12:41,660 --> 00:12:45,140
+Je tu automobilový, letecký a iný priemysel,
+ale obrovské
+
+171
+00:12:45,140 --> 00:12:51,460
+percento znečistenia vzduchu majú na svedomí
+práve
+
+172
+00:12:51,460 --> 00:12:57,060
+spaľovacie elektrárne. Dokonca produkujú viac
+
+173
+00:12:57,060 --> 00:13:02,660
+rádioaktivity, pretože tá je prirodzene
+prítomná
+
+174
+00:13:02,660 --> 00:13:07,000
+v prostredí aj vo fosílnych palivách. Keď sa
+spaľujú,
+
+175
+00:13:07,000 --> 00:13:11,700
+uhoľné elektrárne produkujú viac radiácie,
+respektíve jej viac
+
+176
+00:13:11,700 --> 00:13:13,980
+vypúšťajú do okolia, ako jadrové elektrárne.
+
+177
+00:13:13,980 --> 00:13:19,340
+Toto nie sú veci, o ktorých sa rozpráva
+často. Je
+
+178
+00:13:19,340 --> 00:13:25,500
+zaujímavé si uvedomiť, že aj znečistenie
+rádioaktivitou
+
+179
+00:13:25,500 --> 00:13:32,600
+pripisujeme nielen jadrovým, ale aj
+spaľovacím elektrárňam.
+
+180
+00:13:34,740 --> 00:13:39,620
+Ešte krátka poznámka. Je to taký úplne
+
+181
+00:13:39,620 --> 00:13:46,050
+typický problém: keď sa niečo pokazí s
+jadrovou elektrárňou
+
+182
+00:13:46,110 --> 00:13:48,590
+a nastane havária, je to veľmi vizuálne.
+
+183
+00:13:48,590 --> 00:13:53,360
+Všetci sme videli Černobyľ, ľudí s pľuzgiermi
+
+184
+00:13:53,360 --> 00:13:55,060
+na koži, ktorí boli ožiarení.
+
+185
+00:13:55,200 --> 00:13:57,920
+Predstavujeme si: ajaj, toto sa stane nám
+
+186
+00:13:57,920 --> 00:13:59,120
+a všetkých nás to vyparí.
+
+187
+00:13:59,960 --> 00:14:02,100
+Sme strašne citliví na to,
+
+188
+00:14:02,920 --> 00:14:07,080
+ako vizuálne nepríjemné tieto veci sú.
+
+189
+00:14:08,300 --> 00:14:11,920
+Oproti tomu pri respiračných chorobách si
+človek občas
+
+190
+00:14:11,920 --> 00:14:15,000
+zakašle, potom dostane rakovinu alebo niečo
+podobné.
+
+191
+00:14:15,000 --> 00:14:19,600
+Sú to veci, ktoré sa dejú priebežne, a tak na
+ne ani
+
+192
+00:14:19,600 --> 00:14:25,100
+nezareagujeme. Sú roztiahnuté do dvadsiatich
+rokov postupného strádania
+
+193
+00:14:25,100 --> 00:14:30,500
+a priebežných chorôb. Je to ako keď chceš
+uvariť žabu a
+
+194
+00:14:30,500 --> 00:14:33,000
+pomaly zvyšuješ teplotu, aby ti nevyskočila z
+hrnca.
+
+195
+00:14:33,850 --> 00:14:36,790
+Keď sa dusíme znečisteným vzduchom, deje sa
+to veľmi
+
+196
+00:14:36,790 --> 00:14:40,440
+pomaly a postupne, až na to
+
+197
+00:14:41,500 --> 00:14:42,420
+vôbec nezareagujeme.
+
+198
+00:14:42,460 --> 00:14:46,080
+Keď sa však niečo stane s jadrovou
+elektrárňou, je to sústredené
+
+199
+00:14:46,080 --> 00:14:48,680
+do jedného problému, do jedného bodu, keď to
+vybuchlo.
+
+200
+00:14:48,680 --> 00:14:51,900
+Vieme povedať: toto sa tu stalo a toto nás
+ohrozilo.
+
+201
+00:14:52,080 --> 00:14:58,520
+Áno. Aj o smrti z radiačného ožiarenia som
+
+202
+00:14:58,520 --> 00:15:01,700
+čítal, že je jedna z najhorších, veľmi
+bolestivá.
+
+203
+00:15:02,240 --> 00:15:04,840
+Každý si pod tým vie niečo predstaviť.
+
+204
+00:15:04,940 --> 00:15:10,420
+Poďme sa na záver porozprávať, čo vlastne
+čaká jadrovú energiu.
+
+205
+00:15:10,560 --> 00:15:14,120
+Myslíš si, že má budúcnosť, alebo
+
+206
+00:15:15,220 --> 00:15:16,440
+aký je tvoj názor?
+
+207
+00:15:18,290 --> 00:15:22,350
+Konečne sa na záver dostávame k tomu, čo už
+bolo aj v názve podcastu:
+
+208
+00:15:22,350 --> 00:15:24,110
+jadrová energia a klimatické zmeny.
+
+209
+00:15:24,490 --> 00:15:29,860
+Dôležitý bod je, že jadrová energia
+neprodukuje
+
+210
+00:15:30,760 --> 00:15:35,580
+skleníkové plyny. Na rozdiel od fosílnych
+palív, ktoré nám momentálne
+
+211
+00:15:35,580 --> 00:15:40,720
+dodávajú 65 % energie celosvetovo, je jadrová
+energia z tohto pohľadu čistá.
+
+212
+00:15:42,380 --> 00:15:47,900
+Teraz máme na výber. Buď sa jej úplne
+zľakneme a povieme, že
+
+213
+00:15:47,900 --> 00:15:51,970
+ju nechceme ani s rizikami, ktoré prináša, a
+chceme od nej mať
+
+214
+00:15:51,970 --> 00:15:54,290
+pokoj. Potom je otázka, čím ju nahradíme.
+
+215
+00:15:55,290 --> 00:15:58,910
+Obnoviteľné zdroje to zatiaľ nedokážu, nie sú
+na takej úrovni.
+
+216
+00:15:59,470 --> 00:16:02,470
+Keby sme zajtra zavreli všetky jadrové
+
+217
+00:16:02,470 --> 00:16:05,150
+elektrárne, najjednoduchšie je nahradiť ich
+fosílnymi palivami.
+
+218
+00:16:05,520 --> 00:16:10,560
+Zhoršíme tým kvalitu ovzdušia a začneme
+vypúšťať obrovské
+
+219
+00:16:10,560 --> 00:16:12,740
+množstvo skleníkových plynov.
+
+220
+00:16:14,540 --> 00:16:18,560
+Druhá možnosť je zhruba udržať stav, v ktorom
+sme teraz.
+
+221
+00:16:20,160 --> 00:16:23,280
+Veľa jadrových elektrární starne, budú sa
+zatvárať a zhruba v
+
+222
+00:16:23,280 --> 00:16:24,760
+rovnakom počte sa pridávajú nové.
+
+223
+00:16:26,290 --> 00:16:28,870
+Bude sa to teda vyvíjať podľa aktuálnych
+trendov.
+
+224
+00:16:29,070 --> 00:16:34,280
+Tretia možnosť je dupnúť v tomto smere na
+plyn. Sú dve
+
+225
+00:16:36,180 --> 00:16:39,920
+technologické možnosti, ktoré sú relatívne
+blízko. Nie že za
+
+226
+00:16:39,920 --> 00:16:44,810
+päťdesiat rokov, ale teoreticky už za pár by
+mohli fungovať a ponúknuť
+
+227
+00:16:44,810 --> 00:16:48,990
+ešte bezpečnejšiu a čistejšiu energiu než
+dnešné jadrové elektrárne.
+
+228
+00:16:49,730 --> 00:16:53,750
+Ktoré sú to dve možnosti? Môžeš nám ich
+priblížiť?
+
+229
+00:16:55,980 --> 00:17:00,200
+Pri oboch možnostiach nepôjdem veľmi do
+detailov, lebo každá z
+
+230
+00:17:00,200 --> 00:17:01,180
+nich si zaslúži vlastný podcast.
+
+231
+00:17:01,200 --> 00:17:02,400
+Čo možno spravíme v budúcnosti.
+
+232
+00:17:04,010 --> 00:17:05,950
+Čo možno aj spravíme, ak bude záujem.
+
+233
+00:17:06,710 --> 00:17:12,010
+Prvá možnosť sú takzvané soľné alebo tóriové
+reaktory,
+
+234
+00:17:12,810 --> 00:17:19,150
+ktoré na prvé porovnanie vychádzajú zhruba
+rovnako zaujímavo
+
+235
+00:17:19,150 --> 00:17:23,610
+ako bežné jadrové reaktory. Kedysi bol vývoj
+na rozdvojke
+
+236
+00:17:23,610 --> 00:17:26,590
+a vybral sa doľava, hoci možnosť doprava by
+sa nám teraz
+
+237
+00:17:26,590 --> 00:17:30,990
+páčila viac. Vtedy sa tak rozhodlo a teraz je
+ťažké
+
+238
+00:17:30,990 --> 00:17:36,570
+vrátiť sa o tridsať či štyridsať rokov vo
+vývoji dozadu a vydať sa druhým smerom.
+
+239
+00:17:38,070 --> 00:17:41,830
+Inak postavené jadrové reaktory, ktoré by
+boli bezpečnejšie, sú
+
+240
+00:17:41,830 --> 00:17:47,780
+jedna možnosť: tóriové reaktory. Druhá
+možnosť je fúzna energia.
+
+241
+00:17:49,000 --> 00:17:53,080
+Z fúznej energie sa už stáva vtip. Asi
+tridsať
+
+242
+00:17:53,080 --> 00:17:57,740
+rokov sa hovorí, že bude za desať rokov. Je
+to energia, ktorá
+
+243
+00:17:57,740 --> 00:18:02,860
+sa získava procesmi, ktoré prebiehajú aj v
+Slnku. Namiesto
+
+244
+00:18:02,860 --> 00:18:08,500
+získavania energie rozpadávaním ťažkých
+atómov, ako urán
+
+245
+00:18:08,500 --> 00:18:14,440
+alebo plutónium, spájame ľahké atómy,
+napríklad vodíka, a
+
+246
+00:18:14,440 --> 00:18:16,120
+získavame z toho energiu.
+
+247
+00:18:16,620 --> 00:18:20,920
+Je oveľa čistejšia. Ako palivo viac-menej
+stačí morská voda, z ktorej sa
+
+248
+00:18:20,920 --> 00:18:23,060
+vyextrahujú podstatné veci. Ktorej je dosť?
+
+249
+00:18:24,660 --> 00:18:26,420
+Ktorej je, samozrejme, dosť, hej.
+
+250
+00:18:27,750 --> 00:18:32,970
+Prakticky žiadny odpad. Problém je, že
+potrebujeme udržať približne
+
+251
+00:18:32,970 --> 00:18:35,110
+teploty a tlaky, aké sú na povrchu Slnka.
+
+252
+00:18:35,110 --> 00:18:37,690
+To je veľmi problematické.
+
+253
+00:18:39,490 --> 00:18:44,270
+Je to zložité, ale nie neprekonateľné. Na
+zlomky
+
+254
+00:18:44,270 --> 00:18:45,710
+sekundy sa to už podarilo udržať.
+
+255
+00:18:46,590 --> 00:18:50,630
+Teraz je výzva urobiť to tak, aby viac
+energie
+
+256
+00:18:50,630 --> 00:18:53,790
+vychádzalo, než do toho vkladáme. Teraz to už
+vieme robiť tak, že
+
+257
+00:18:54,740 --> 00:18:59,100
+vložíme desať joulov a dostaneme dva. To nie
+je dobrý
+
+258
+00:18:59,100 --> 00:19:02,720
+nápad na elektráreň. Potrebujeme to naopak:
+dodávam palivo a
+
+259
+00:19:02,720 --> 00:19:04,960
+trochu energie a oveľa viac energie sa mi
+vracia.
+
+260
+00:19:05,970 --> 00:19:09,510
+Vo Francúzsku sa momentálne stavia prvý
+takýto fúzny
+
+261
+00:19:10,740 --> 00:19:14,540
+reaktor. Ešte nebude komerčný, ale mal by to
+byť
+
+262
+00:19:14,540 --> 00:19:20,290
+prvý reaktor, ktorý dokáže vytvárať energiu
+vďaka fúzii.
+
+263
+00:19:20,290 --> 00:19:26,210
+Oba teoretické prístupy sú veľmi zaujímavé.
+
+264
+00:19:26,210 --> 00:19:31,230
+Budeme držať palce, nech sa v tomto veda
+posunie ďalej a
+
+265
+00:19:32,130 --> 00:19:39,190
+vďaka nim budeme mať výborný zdroj energie.
+Samuel, ďakujem, že si si s nami
+
+266
+00:19:39,190 --> 00:19:43,110
+sadol a porozprával nám niečo zo sveta vedy.
+
+267
+00:19:44,410 --> 00:19:48,550
+Naši diváci, ďakujem za pozornosť. Uvidíme sa
+pri ďalšom
+
+268
+00:19:48,550 --> 00:19:50,130
+vydaní Vedátor podcastu.
+
+269
+00:19:50,450 --> 00:19:55,430
+Nájdete nás na Facebooku, Instagrame,
+Spotify, Apple
+
+270
+00:19:55,430 --> 00:19:58,170
+Podcasts alebo všade, kde si viete zohnať
+podcasty.
+
+271
+00:19:58,390 --> 00:20:00,070
+Tešíme sa na vás znova. Pekný deň.
+
+272
+00:20:00,970 --> 00:20:02,170
+Majte sa. Ahojte.
