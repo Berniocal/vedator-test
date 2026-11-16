@@ -1,6 +1,6 @@
 /*
  * Independent audio/video subtitles for early Vedátor podcast episodes.
- * Episode 1: new Slovak transcript, recorded against the MP3 timeline.
+ * Episode 1: use Work-reviewed SK/CZ SRT files unchanged from Berniocal/vedator/captions.
  * Episode 2: edited Slovak transcript and a Czech translation.
  * Videos keep their own zero subtitle offset; MP3 has a separate adjustable
  * correction because its perceived subtitle timing differs from YouTube.
@@ -11,7 +11,10 @@
  window.__vedatorEpisodeSubtitlesV2=true;
 
  const FILES={
-   1:{sk:'./titulky/vedatorsky-podcast-1-jaderna-energie-v-dobe-klimatickych-zmen.sk.srt?v=20261116-1'},
+   1:{
+     sk:'./captions/episode-1.sk.srt?v=20261116-work-1',
+     cs:'./captions/episode-1.cs.srt?v=20261116-work-1'
+   },
    2:{
      sk:'./titulky/vedatorsky-podcast-2-temna-hmota.sk.srt?v=20261116-4',
      cs:'./titulky/vedatorsky-podcast-2-temna-hmota.cs.srt?v=20261116-3'
@@ -57,9 +60,8 @@
    if(loaded.has(key))return loaded.get(key);
    if(loading.has(key))return loading.get(key);
    const url=new URL(file,document.baseURI).href;
-   // This SRT is generated asynchronously by GitHub Actions: do not let
-   // an initial 404 become a permanent cached response in the PWA worker.
-   const fetchUrl=episode===1?url+'&check='+Date.now():url;
+   // Cache-bust SRTs to prevent stale versions in the app's service worker.
+   const fetchUrl=url+'&check='+Date.now();
    const promise=(async()=>{
      let response;
      try{
@@ -163,7 +165,7 @@
      player.caption.hidden=!next;
    }else if(errors.has(key)){
      player.caption.textContent=episode===1?
-       'Slovenské titulky prvního dílu se zatím zpracovávají. Aplikace dostupnost znovu ověří.':
+       'Titulky prvního dílu se nepodařilo načíst. Zkuste stránku obnovit.':
        'Titulky se nepodařilo načíst.';
    }else{
      player.caption.textContent='Načítám '+(lang==='cs'?'české':'slovenské')+' titulky…';
