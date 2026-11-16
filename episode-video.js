@@ -201,7 +201,8 @@
     const holder=document.createElement('div');holder.className='vedator-video-box';holder.hidden=true;
     holder.innerHTML='<div class="vedator-yt-target"></div>';
     button.insertAdjacentElement('afterend',holder);
-    playerFor(root,audio,title,button,holder,root.querySelector('.vedator-audio-card__help'));
+    const classicPlayer=playerFor(root,audio,title,button,holder,root.querySelector('.vedator-audio-card__help'));
+    if(!controller)controller=classicPlayer;
     return true;
   }
 
