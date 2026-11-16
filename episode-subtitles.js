@@ -76,7 +76,17 @@
      loaded.set(key,cues);errors.delete(key);
      if('caches'in window)caches.open(CACHE_NAME).then(cache=>cache.put(url,new Response(text,{headers:{'Content-Type':'text/plain; charset=utf-8'}}))).catch(()=>{});
      return cues;
-   })().catch(error=>{errors.set(key,error);throw error}).finally(()=>loading.delete(key));
+   })().catch(error=>{
+     errors.set(key,error);
+     if(episode===1&&/HTTP 404/.test(String(error))){
+       // The GitHub Actions transcription job may still be running.
+       // Retry in an open tab without requiring a manual refresh.
+       setTimeout(()=>{
+         if(errors.get(key)===error){errors.delete(key);renderAll()}
+       },90000);
+     }
+     throw error;
+   }).finally(()=>loading.delete(key));
    loading.set(key,promise);
    return promise;
  }
@@ -153,7 +163,7 @@
      player.caption.hidden=!next;
    }else if(errors.has(key)){
      player.caption.textContent=episode===1?
-       'Nový přepis prvního dílu zatím není dostupný. Zkuste stránku načíst znovu.':
+       'Slovenské titulky prvního dílu se zatím zpracovávají. Aplikace dostupnost znovu ověří.':
        'Titulky se nepodařilo načíst.';
    }else{
      player.caption.textContent='Načítám '+(lang==='cs'?'české':'slovenské')+' titulky…';
