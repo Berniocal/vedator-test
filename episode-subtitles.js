@@ -10,7 +10,7 @@
   window.__vedatorEpisodeSubtitlesV1=true;
 
   const SUBTITLE_URLS={
-    sk:'./titulky/vedatorsky-podcast-2-temna-hmota.sk.srt?v=20261116-3',
+    sk:'./titulky/vedatorsky-podcast-2-temna-hmota.sk.srt?v=20261116-4',
     cs:'./titulky/vedatorsky-podcast-2-temna-hmota.cs.srt?v=20261116-3'
   };
   const PREFERENCE_KEY='vedatorSubtitleSkEpisode2EnabledV1';
