@@ -117,7 +117,7 @@
     const box=isVideo?video.getBox?.():null;
     if(box&&player.caption.parentElement!==box)box.appendChild(player.caption);
     if(!isVideo&&player.caption.parentElement?.classList?.contains('vedator-video-box')){
-      if(player.root.id==='player-v2')player.root.querySelector('.player-main')?.insertAdjacentElement('afterend',player.caption);
+      if(player.root.id==='player-v2')player.root.querySelector('#player-help-v2')?.insertAdjacentElement('afterend',player.caption);
       else player.langSelect.insertAdjacentElement('afterend',player.caption);
     }
     if(!supported||!enabled){player.caption.hidden=true;player.caption.textContent='';return}
@@ -188,7 +188,7 @@
       ()=>!root.classList.contains('hidden'),
       (button,caption)=>{
         main.appendChild(button);
-        main.insertAdjacentElement('afterend',caption);
+        root.querySelector('#player-help-v2')?.insertAdjacentElement('afterend',caption);
       });
     if('ResizeObserver'in window){
       const observe=new ResizeObserver(()=>{
