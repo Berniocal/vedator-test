@@ -113,7 +113,7 @@
     updateButton(player.button);
 
     const video=window.vedatorEpisodeVideoController;
-    const isVideo=Boolean(supported&&video?.getActive?.()&&player.root.id==='player-v2');
+    const isVideo=Boolean(supported&&video?.getActive?.());
     const box=isVideo?video.getBox?.():null;
     if(box&&player.caption.parentElement!==box)box.appendChild(player.caption);
     if(!isVideo&&player.caption.parentElement?.classList?.contains('vedator-video-box')){
