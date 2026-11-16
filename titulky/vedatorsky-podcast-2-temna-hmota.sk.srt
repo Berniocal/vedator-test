@@ -9,8 +9,7 @@ na každom kroku.
 
 3
 00:00:17,700 --> 00:00:22,480
-Vítajte pri Vedatorskom podcaste, ktorom
-budeme diskutovať o vede a prírode
+Vitajte pri Vedátorskom podcaste, v ktorom budeme diskutovať o vede a prírode
 
 4
 00:00:22,520 --> 00:00:27,440
@@ -19,16 +18,15 @@ Dnešná téma,
 
 5
 00:00:27,580 --> 00:00:30,160
-témná hmota. Tmavá hmota.
+tmavá hmota. Tmavá hmota.
 
 6
 00:00:35,540 --> 00:00:41,160
-Dobre, tak... Dobre. Dnešná téma, tmavá
-hmota. To len tam
+Dobre, tak... Dobre. Dnešná téma, tmavá hmota. To len tam
 
 7
 00:00:41,200 --> 00:00:44,360
-prestrigujem. Samuel, tmavá
+prestrihneme. Samuel, tmavá
 
 8
 00:00:44,400 --> 00:00:48,220
@@ -36,13 +34,11 @@ hmota sa stala takým profanovaným až veľmi
 
 9
 00:00:48,260 --> 00:00:53,880
-zaužívaným pojmom, čo sa týka s CIFI,
-nejakých vedeckých novinení a tak
+zaužívaným pojmom, čo sa týka sci-fi, nejakých vedeckých noviniek a tak
 
 10
 00:00:53,920 --> 00:00:59,280
-ďalej. Ale podľa mňa veľmi málo ľudí z
-laické verejnosti vie, o
+ďalej. Ale podľa mňa veľmi málo ľudí z laickej verejnosti vie,
 
 11
 00:00:59,320 --> 00:01:02,920
@@ -55,7 +51,7 @@ Vedel by si nám dať taký
 
 13
 00:01:05,060 --> 00:01:09,880
-základný prehľad ohľadom tmavé hmoty?
+základný prehľad o tmavej hmote?
 
 14
 00:01:10,900 --> 00:01:11,780
@@ -63,7 +59,7 @@ Tak tmavá
 
 15
 00:01:11,820 --> 00:01:14,740
-hmota je hmota, ktorá tvori
+hmota je hmota, ktorá tvorí
 
 16
 00:01:14,780 --> 00:01:16,880
@@ -71,8 +67,7 @@ asi štvrtinu energie celého vesmíru.
 
 17
 00:01:17,800 --> 00:01:21,580
-Niečo, čo si ľudia neuvedomuje, že keď sa
-pozrieme na oblohu, tak všetky tie
+Niečo, čo si ľudia neuvedomujú, je, že keď sa pozrieme na oblohu, všetky tie
 
 18
 00:01:21,620 --> 00:01:22,360
@@ -80,17 +75,15 @@ hviezdy, ktoré
 
 19
 00:01:22,400 --> 00:01:27,320
-vidíme, taký ten medzihviezný a
-medzigalaktický plyn, všetky planety a
+vidíme, ten medzihviezdny a medzigalaktický plyn, všetky planéty a
 
 20
 00:01:27,360 --> 00:01:31,560
-podobne, všetko toto tvori meni ako 4 %
-celého vesmíru.
+podobne, všetko toto tvorí menej ako 4 % celého vesmíru.
 
 21
 00:01:31,600 --> 00:01:35,560
-O tom štvrtinu
+Asi štvrtinu
 
 22
 00:01:35,600 --> 00:01:39,680
@@ -99,12 +92,11 @@ energia.
 
 23
 00:01:40,180 --> 00:01:45,040
-Tmavá energia je niečo pomerne misteriózne,
-o tom sa nebudeme baviť, lebo o
+Tmavá energia je niečo pomerne mysteriózne. O tom sa nebudeme baviť, lebo
 
 24
 00:01:45,080 --> 00:01:46,980
-tom vieme toho poriadané veľmi málo.
+o tom vieme toho poriadne veľmi málo.
 
 25
 00:01:47,700 --> 00:01:52,800
@@ -113,7 +105,7 @@ mohlo byť, ale zatiaľ sa nám nič
 
 26
 00:01:52,840 --> 00:01:53,640
-nepodarol dokázať.
+nepodarilo dokázať.
 
 27
 00:01:55,340 --> 00:01:58,080
@@ -126,8 +118,7 @@ Je to
 
 29
 00:01:59,340 --> 00:02:03,720
-tmavé, vyjadruje tú farbu, alebo niečo,
-alebo je to skoraj
+tmavé, vyjadruje to farbu, alebo niečo? Alebo je to skôr
 
 30
 00:02:03,760 --> 00:02:07,780
@@ -135,13 +126,11 @@ také básnické pomenovanie, že tmavá hmota?
 
 31
 00:02:09,160 --> 00:02:13,720
-Tak to meno pochádza z toho, že ide o
-hmotu, ktorá sa prejavuje iba gravitačným
+Tak to meno pochádza z toho, že ide o hmotu, ktorá sa prejavuje iba gravitačným
 
 32
 00:02:13,760 --> 00:02:18,060
-spôsobom. Čiže napríklad, keby bol náš
-mesiac tvorený z tmavej
+spôsobom. Čiže napríklad keby bol náš Mesiac tvorený z tmavej
 
 33
 00:02:18,100 --> 00:02:21,340
@@ -159,13 +148,11 @@ ním.
 
 36
 00:02:24,940 --> 00:02:29,380
-Svetlo by cez neho prechádzalo podobne ako
-iné druhé žiarenia.
+Svetlo by cez neho prechádzalo podobne ako iné druhy žiarenia.
 
 37
 00:02:30,920 --> 00:02:35,100
-Ale cítili by sme ho gravitačný vplyv, čiže
-napríklad by sme videli
+Ale cítili by sme jeho gravitačný vplyv, čiže napríklad by sme videli
 
 38
 00:02:35,140 --> 00:02:39,380
@@ -183,7 +170,7 @@ nevideli.
 
 41
 00:02:45,400 --> 00:02:50,160
-stále by sme okolo neho kružili.
+Stále by sme okolo neho krúžili.
 
 42
 00:02:50,240 --> 00:02:54,610
@@ -192,8 +179,7 @@ ale okrem toho nič iné.
 
 43
 00:02:55,180 --> 00:02:58,440
-Dokonca keby sme na to miesto došli, tak
-pravdepodobne by sme cez neho mohli
+Dokonca keby sme na to miesto došli, tak pravdepodobne by sme cez neho mohli
 
 44
 00:02:58,480 --> 00:02:59,680
@@ -201,16 +187,15 @@ preniknúť. Dokonca
 
 45
 00:02:59,720 --> 00:03:01,740
-tá tmava hmota vyzra, že ani nič netieni.
+tá tmavá hmota vyzerá, že ani nič netieni.
 
 46
 00:03:03,620 --> 00:03:06,280
-Kedy vznikla vlastne myšlenka o tmavej
-hmote?
+Kedy vznikla vlastne myšlienka o tmavej hmote?
 
 47
 00:03:10,360 --> 00:03:12,400
-Ťažko presne zapichnúť presne kde v
+Ťažko presne určiť, kde v
 
 48
 00:03:12,440 --> 00:03:18,300
@@ -219,18 +204,15 @@ povedal,
 
 49
 00:03:19,160 --> 00:03:21,910
-že usudil z pohybu hviez, že pravdepodobne
-veľa z nich nevidíme.
+že usúdil z pohybu hviezd, že pravdepodobne veľa z nich nevidíme.
 
 50
 00:03:22,920 --> 00:03:27,020
-Čiže v podstate sa da povedať, že už rúba
-140 rokov sa o nej
+Čiže v podstate sa dá povedať, že už zhruba 140 rokov sa o nej
 
 51
 00:03:27,060 --> 00:03:31,300
-dáko bavíme, ale začetku to nebolo veľmi
-seriózne.
+nejako bavíme, ale zo začiatku to nebolo veľmi seriózne.
 
 52
 00:03:31,340 --> 00:03:32,920
@@ -238,22 +220,19 @@ Meno tomu dal až
 
 53
 00:03:32,960 --> 00:03:38,040
-po Ankare v roku 1906. Ale taký prvý známy
-proponent bol
+Poincaré v roku 1906. Ale taký prvý známy zástanca bol
 
 54
 00:03:38,080 --> 00:03:43,500
-Cvíky v roku 1933. Čo bol taký pomerne
-kontroverzný
+Zwicky v roku 1933. Bol to taký pomerne kontroverzný
 
 55
 00:03:43,540 --> 00:03:46,880
-astrofizík, ktorý sa napríklad postiažoval,
-že na konferenciá už veľmi malo
+astrofyzik, ktorý sa napríklad posťažoval, že na konferenciách už veľmi málo
 
 56
 00:03:46,920 --> 00:03:48,880
-dochádzak pesným súbojom
+dochádza k pästným súbojom
 
 57
 00:03:48,920 --> 00:03:53,420
@@ -266,13 +245,11 @@ jedinečný,
 
 59
 00:03:57,400 --> 00:04:01,100
-tak zároveň bol naozaj obrovsky genius a
-došiel na kopu
+tak zároveň bol naozaj obrovský génius a došiel na kopu
 
 60
 00:04:01,140 --> 00:04:06,440
-zájímavých objavu a teda jeden z nich bol,
-že asi existuje tmavá hmota.
+zaujímavých objavov a teda jeden z nich bol, že asi existuje tmavá hmota.
 
 61
 00:04:07,060 --> 00:04:10,640
@@ -280,8 +257,7 @@ A teraz, že ako na to vlastne došiel,
 
 62
 00:04:10,880 --> 00:04:14,920
-tak rozmýšľal na tým, že ako môžu kopiť
-hviezd,
+tak rozmýšľal nad tým, ako môžu kopy hviezd,
 
 63
 00:04:15,980 --> 00:04:17,660
@@ -293,8 +269,7 @@ veľa galáxí po kope, ako
 
 65
 00:04:19,700 --> 00:04:23,360
-vlastne držie, že prečo sa nedozretia do
-všetkých
+vlastne držia, prečo sa nerozletia do všetkých
 
 66
 00:04:23,400 --> 00:04:27,660
@@ -307,8 +282,7 @@ je tam
 
 68
 00:04:27,960 --> 00:04:32,160
-hviezd, z toho ako silno svietí, z toho
-viem odhadnúť, koľko je v nej
+hviezd, z toho, ako silno svieti, viem odhadnúť, koľko je v nej
 
 69
 00:04:32,200 --> 00:04:33,040
@@ -325,7 +299,7 @@ rozletiť, lebo tam proste majú
 
 72
 00:04:40,920 --> 00:04:41,940
-pomerne veľké rýchlosť.
+pomerne veľké rýchlosti.
 
 73
 00:04:42,800 --> 00:04:43,360
@@ -347,7 +321,7 @@ výpočtoch chýbala
 
 77
 00:04:51,860 --> 00:04:54,300
-a všetko to do kope drží ako taký tmel.
+a všetko to dokopy drží ako taký tmel.
 
 78
 00:04:56,460 --> 00:04:59,460
@@ -355,30 +329,27 @@ A toto bol 1933 a potom do
 
 79
 00:04:59,500 --> 00:05:00,580
-okazy príbudali viac a
+dôkazy pribúdali viac a
 
 80
 00:05:00,620 --> 00:05:05,920
-viac. Napríklad v roku 1970 Vera Rubin
-skumala
+viac. Napríklad v roku 1970 Vera Rubinová skúmala
 
 81
 00:05:05,960 --> 00:05:07,840
-rotačné kryvky galáxí.
+rotačné krivky galaxií.
 
 82
 00:05:08,640 --> 00:05:11,780
-Teraz, čo vlastne znamenajú rotačné kryvky
-galáxí?
+Teraz, čo vlastne znamenajú rotačné krivky galaxií?
 
 83
 00:05:12,140 --> 00:05:13,520
-Prečne moja otázka.
+Presne moja otázka.
 
 84
 00:05:13,560 --> 00:05:18,320
-To znamená, že napríklad naša mliečna cesta
-je špirálovita
+To znamená, že napríklad naša Mliečna cesta je špirálovitá
 
 85
 00:05:18,360 --> 00:05:21,540
@@ -387,7 +358,7 @@ stredu.
 
 86
 00:05:21,700 --> 00:05:24,600
-Čiže Zem robi také kolečko, ktoré trvá,
+Čiže Zem robí také kolečko, ktoré trvá,
 
 87
 00:05:24,640 --> 00:05:28,240
@@ -400,8 +371,7 @@ Viem, že
 
 89
 00:05:30,200 --> 00:05:34,500
-naposledy tu boli dinosauri, keď spravila
-toto kolečko našo Zem. Som videl
+naposledy tu boli dinosaury, keď spravila toto kolečko naša Zem. Som videl
 
 90
 00:05:34,540 --> 00:05:35,200
@@ -422,11 +392,11 @@ tej tmavej hmate?
 
 94
 00:05:49,120 --> 00:05:51,660
-Teda ide o rovnováhu dôh sil.
+Teda ide o rovnováhu dvoch síl.
 
 95
 00:05:52,000 --> 00:05:53,940
-Zaprvé cítime od stredivú silu,
+Zaprvé cítime odstredivú silu,
 
 96
 00:05:53,980 --> 00:05:58,360
@@ -439,8 +409,7 @@ do stredu, aby tú silu vykompenzvalo.
 
 98
 00:06:00,360 --> 00:06:03,780
-To je jeden hľad pohľadu, druhý hľad
-pohľadu, že je tam len tá dostredivá sila,
+To je jeden uhol pohľadu, druhý uhol pohľadu je, že je tam len tá dostredivá sila,
 
 99
 00:06:03,820 --> 00:06:04,860
@@ -452,8 +421,7 @@ dráhe. Viem spočítať,
 
 101
 00:06:08,760 --> 00:06:13,260
-koľko hviezd je v nášej galáxii a ako veľmi
-nás priťahujú.
+koľko hviezd je v našej galaxii a ako veľmi nás priťahujú.
 
 102
 00:06:13,460 --> 00:06:16,980
@@ -462,8 +430,7 @@ stredu.
 
 103
 00:06:17,400 --> 00:06:20,540
-Keď sa tieto vypočty urobia, to zrazu
-vycháza tak, že tá odstredivá sila
+Keď sa tieto výpočty urobia, zrazu vychádza, že tá odstredivá sila
 
 104
 00:06:20,580 --> 00:06:25,560
@@ -472,18 +439,15 @@ by mala dominovať. Ale keďže vyzerá to tak,
 
 105
 00:06:25,640 --> 00:06:29,600
-lebo tie galáxie vyzerá, že už sú v pekných
-utrasených tvaroch,
+lebo tie galaxie vyzerajú, že už sú v pekných ustálených tvaroch,
 
 106
 00:06:29,740 --> 00:06:35,000
-tak jediný možný záver je taký, že
-skutočnosti nám v tom vypočti niečo chýba. A
+tak jediný možný záver je taký, že v skutočnosti nám v tom výpočte niečo chýba. A
 
 107
 00:06:35,040 --> 00:06:37,640
-to niečo, čo nám chýba, označujeme tmavá
-hmota.
+to niečo, čo nám chýba, označujeme ako tmavú hmotu.
 
 108
 00:06:38,140 --> 00:06:40,600
@@ -501,22 +465,19 @@ a okrem toho nevidíme nejaký iný jej efekt.
 
 111
 00:06:49,700 --> 00:06:53,120
-ťažké ju spozorovať, keďže gravitácia je
-pomerne sláva sila.
+ťažké ju spozorovať, keďže gravitácia je pomerne slabá sila.
 
 112
 00:06:55,400 --> 00:07:00,360
-A nemohlo by byť vysvetlením pre tieto
-rozdeli v tých rovniciach
+A nemohlo by byť vysvetlením pre tieto rozdiely v tých rovniciach
 
 113
 00:07:00,400 --> 00:07:04,120
-a v tomto všetkom, o ktorých si tý príklado
-hovoril, napríklad, že existujú
+a v tomto všetkom, o ktorých si v tých príkladoch hovoril, napríklad, že existujú
 
 114
 00:07:04,160 --> 00:07:05,700
-čierné diery, lebo tiež
+čierne diery, lebo tiež
 
 115
 00:07:05,740 --> 00:07:09,640
@@ -525,13 +486,11 @@ vidieť len gravitačne účinky
 
 116
 00:07:10,360 --> 00:07:13,960
-alebo nejaké možno optické efekty, ktoré
-spôsobuje vlastne tá gravitačne. V
+alebo nejaké možno optické efekty, ktoré spôsobuje vlastne tá gravitácia?
 
 117
 00:07:14,000 --> 00:07:18,000
-tomu sa hned dostaneme, len ešte teda
-poviem, aby sme ukončili tú prvú časť, že
+K tomu sa hneď dostaneme, len ešte teda poviem, aby sme ukončili tú prvú časť,
 
 118
 00:07:18,040 --> 00:07:18,420
@@ -539,22 +498,19 @@ ako vlastne
 
 119
 00:07:18,460 --> 00:07:19,340
-vieme o tmavé hmote,
+vieme o tmavej hmote,
 
 120
 00:07:20,060 --> 00:07:23,200
-že to niekto by mohol podať, že no, tak
-možno len galáxie fungujú trošku
+že to niekto by mohol povedať, že no, tak možno len galaxie fungujú trošku
 
 121
 00:07:23,240 --> 00:07:27,780
-ináč ako si myslíme. A v skutočnosti tých
-stúv je ešte o veľa viacej.
+ináč, ako si myslíme. A v skutočnosti tých dôkazov je ešte oveľa viacej.
 
 122
 00:07:28,680 --> 00:07:32,400
-Napríklad, dokážeme zachytiť reliktové
-žiarenie, to je svetlo, ktoré
+Napríklad dokážeme zachytiť reliktné žiarenie, to je svetlo, ktoré
 
 123
 00:07:32,440 --> 00:07:34,860
@@ -562,37 +518,31 @@ vzniklo 300 000 rokov po veľkom tresku
 
 124
 00:07:36,780 --> 00:07:42,420
-a ono v sebe nese informáciu o tom, že
-koľko sa tej tmavé hmotivové smieré
+a ono v sebe nesie informáciu o tom, koľko sa tej tmavej hmoty vo vesmíre
 
 125
 00:07:42,460 --> 00:07:45,880
-nachádza a presne to sedí s tým, čo
-získávame inými metódami.
+nachádza a presne to sedí s tým, čo získavame inými metódami.
 
 126
 00:07:46,980 --> 00:07:51,360
-Zároveň existuje niečo, čo má taký omerne
-odpudzujúci názov, že baríonové
+Zároveň existuje niečo, čo má taký pomerne odpudzujúci názov, že baryónové
 
 127
 00:07:51,400 --> 00:07:56,540
-akustické fluktuácie, či ale tiež dáka
-stopa z raného vesmíru,
+akustické oscilácie, čiže tiež nejaká stopa z raného vesmíru,
 
 128
 00:07:57,240 --> 00:08:01,760
-ktorá nese informáciu o tom, koľko tmavé
-hmoty sa vo vesmíre nachádza a
+ktorá nesie informáciu o tom, koľko tmavej hmoty sa vo vesmíre nachádza a
 
 129
 00:08:01,800 --> 00:08:04,380
-tiež to sedí s tými opačnými pozorovaniami.
+tiež to sedí s tými ostatnými pozorovaniami.
 
 130
 00:08:05,200 --> 00:08:08,180
-A v poslednom rade je to formácia veľkých
-štruktúr,
+A v poslednom rade je to formovanie veľkých štruktúr,
 
 131
 00:08:08,280 --> 00:08:12,240
@@ -600,7 +550,7 @@ A v poslednom rade je to formácia veľkých
 
 132
 00:08:12,520 --> 00:08:13,940
-Galáxie vznikli koli tomu,
+Galaxie vznikli kvôli tomu,
 
 133
 00:08:14,700 --> 00:08:14,800
@@ -608,8 +558,7 @@ Galáxie vznikli koli tomu,
 
 134
 00:08:14,840 --> 00:08:17,520
-hmota v ranom vesmíre bola rozložená
-nerovnomerne
+hmota v ranom vesmíre bola rozložená nerovnomerne
 
 135
 00:08:17,560 --> 00:08:22,740
@@ -623,8 +572,7 @@ objekty.
 
 137
 00:08:27,260 --> 00:08:30,960
-A teraz, keby nebolo tmavej hmoty, tak ten
-kulabs by bol tak pomaly, že by k
+A teraz, keby nebolo tmavej hmoty, tak ten kolaps by bol taký pomalý, že by k
 
 138
 00:08:31,000 --> 00:08:31,180
@@ -636,13 +584,11 @@ pravdepodobne nedošlo, lebo by to
 
 140
 00:08:32,720 --> 00:08:36,120
-stihlo predtým svetlovyhľadičetky tene
-rovnosti.
+stihlo predtým svetlo vyhladiť všetky tie nerovnosti.
 
 141
 00:08:36,320 --> 00:08:38,500
-Čiže nebyť tmavej hmoty, tak by
-pravdepodobne
+Čiže nebyť tmavej hmoty, tak by pravdepodobne
 
 142
 00:08:38,540 --> 00:08:40,900
@@ -651,8 +597,7 @@ vnímame.
 
 143
 00:08:41,460 --> 00:08:45,820
-Čiže dlhý zoznam dôkazov, že tmavá hmota
-naozaj existuje
+Čiže dlhý zoznam dôkazov, že tmavá hmota naozaj existuje.
 
 144
 00:08:45,860 --> 00:08:48,860
@@ -666,8 +611,7 @@ tancovali okolo toho, ale pozorujeme
 
 146
 00:08:55,600 --> 00:09:00,760
-efekty a jak to pôsobí na všetko okolo nás
-a na galáxie, ale čo to
+efekty, ako to pôsobí na všetko okolo nás a na galaxie, ale čo to
 
 147
 00:09:00,800 --> 00:09:01,600
@@ -688,25 +632,23 @@ Toto je taká problematická, že keď to môže
 
 151
 00:09:15,400 --> 00:09:19,800
-byť, ono to môže byť prakticky
-hocičovatých, napadov je veľa, ale čas ných sa
+byť, ono to môže byť prakticky hocičo. Tých nápadov je veľa, ale časť z nich sa
 
 152
 00:09:19,840 --> 00:09:23,860
-podarilo vylúčiť. Z istého dôvodu, mnenie
+podarilo vylúčiť. Z istého dôvodu, mne neznámeho,
 
 153
 00:09:23,900 --> 00:09:25,440
-známeho tým veciám dávajú pekne
+tým veciam dávajú pekne
 
 154
 00:09:25,480 --> 00:09:28,280
-znejúce skradky, napríklad, že macho
+znejúce skratky, napríklad MACHO,
 
 155
 00:09:28,320 --> 00:09:32,460
-čo znavená, že Massive Compact Hello Object
-čiže veci
+čo znamená Massive Compact Halo Object, čiže veci
 
 156
 00:09:32,500 --> 00:09:36,680
@@ -715,21 +657,19 @@ podobne.
 
 157
 00:09:37,420 --> 00:09:40,840
-A toto sa podarilo vylúčiť, praďopodobne
-toto to nebude, že mali by
+A toto sa podarilo vylúčiť, pravdepodobne toto to nebude, že mali by
 
 158
 00:09:40,880 --> 00:09:42,780
-sme zaznamenať aj takú radiáciu z týchto
+sme zaznamenať aj také žiarenie z týchto
 
 159
 00:09:42,820 --> 00:09:46,260
-obiektov, čo sa nepodarilo.
+objektov, čo sa nepodarilo.
 
 160
 00:09:46,500 --> 00:09:48,960
-Takže to bol taký jeden z prvých napadov,
-ale vyzrabiť viac menej
+Takže to bol taký jeden z prvých nápadov, ale vyzerá byť viac-menej
 
 161
 00:09:49,000 --> 00:09:49,820
@@ -737,18 +677,15 @@ vylúčený.
 
 162
 00:09:52,220 --> 00:09:56,820
-Potom existujú takí kandidáti, ktorým sa sa
-hori, že WIMP s dvojtým V, čo
+Potom existujú takí kandidáti, ktorým sa hovorí WIMP, s dvojitým V, čo
 
 163
 00:09:56,860 --> 00:09:59,800
-znamená, že Weakly Interactive Massive
-Particles.
+znamená Weakly Interacting Massive Particles.
 
 164
 00:10:01,540 --> 00:10:04,520
-Vlastne to je zase niečo, čo prichádza z
-časticehoj fyziky, že čak, existujú
+Vlastne to je zase niečo, čo prichádza z časticovej fyziky, že čo ak existujú
 
 165
 00:10:04,560 --> 00:10:05,400
@@ -756,21 +693,19 @@ také častice,
 
 166
 00:10:05,540 --> 00:10:08,120
-ktoré všetky neinteragujú, ale sú
+také častice, ktoré veľmi neinteragujú, ale sú
 
 167
 00:10:08,160 --> 00:10:12,460
-ťažké. A potom existujú dverôzne kategórie,
-že možno sa chybu strašne
+ťažké. A potom existujú dve rôzne kategórie, že možno sa hýbu strašne
 
 168
 00:10:12,500 --> 00:10:15,080
-pomalí a len tam pomalinky blúďa tým
+pomaly a len tam pomalinky blúdia tým
 
 169
 00:10:15,120 --> 00:10:18,580
-vesmírom, alebo sa sa strašne rýchle
-lejtajú do lava do
+vesmírom, alebo sa strašne rýchlo lietajú doľava, doprava.
 
 170
 00:10:18,620 --> 00:10:20,820
@@ -778,13 +713,11 @@ prava.
 
 171
 00:10:22,040 --> 00:10:27,680
-V podstate úlohou jednou z nádej cernú
-bolo, že sa im podarí objaviť
+V podstate jednou z nádejí CERN-u bolo, že sa im podarí objaviť
 
 172
 00:10:27,720 --> 00:10:31,100
-takú časticu, ktorá by sa identifikovala,
-že aha, tak toto môže
+takú časticu, ktorá by sa identifikovala, že aha, tak toto môže
 
 173
 00:10:31,140 --> 00:10:34,760
@@ -797,7 +730,7 @@ Chceli
 
 175
 00:10:36,100 --> 00:10:37,700
-hľadať ten vimp vlastne.
+hľadať ten WIMP vlastne.
 
 176
 00:10:39,560 --> 00:10:44,040
@@ -806,8 +739,7 @@ bola veľká nádej v CERN-e,
 
 177
 00:10:44,480 --> 00:10:47,880
-je niečo, čo sa vlá supersymetria, čo je
-taká hypotéza, že ku každej častici
+je niečo, čo sa volá supersymetria, čo je taká hypotéza, že ku každej častici
 
 178
 00:10:47,920 --> 00:10:48,580
@@ -845,8 +777,7 @@ teória pre opis vesmíru.
 
 186
 00:11:07,900 --> 00:11:11,800
-Čiže viacej nápadou príbud, ako sa darí
-škrtať.
+Čiže viacej nápadov pribúda, ako sa darí škrtať.
 
 187
 00:11:11,980 --> 00:11:14,140
@@ -868,8 +799,7 @@ Vyvrátia tieto hypotézy, lebo
 
 191
 00:11:24,180 --> 00:11:29,340
-jedna sa, keď hovoríme o CERNE, o
-zariadenie, ktoré stálo miliardy a dlhej roky
+Jedná sa, keď hovoríme o CERN-e, o zariadenie, ktoré stálo miliardy a dlhé roky
 
 192
 00:11:29,380 --> 00:11:30,840
@@ -891,23 +821,19 @@ technologických možností asi.
 
 196
 00:11:42,480 --> 00:11:46,260
-Keď si človek otvori stránku CERNU, tak tam
-nájde také
+Keď si človek otvorí stránku CERN-u, tak tam nájde také
 
 197
 00:11:46,300 --> 00:11:50,160
-prísluby, akože možno ďalšia HX -ová
-častica alebo niečo zvané
+prísľuby, akože možno ďalšia Higgsova
 
 198
 00:11:50,200 --> 00:11:55,160
-Axioni. Dajú sa potom na vymyšľať veci,
-ktoré sa volá, že
+častica alebo niečo zvané axióny. Dajú sa potom navymýšľať veci, ktoré sa volajú
 
 199
 00:11:55,200 --> 00:11:59,380
-sterilne neutrína, čo neutrína bežne veľmi
-neinteragujú a tieto by mali byť
+sterilné neutrína. Neutrína bežne veľmi neinteragujú a tieto by mali byť
 
 200
 00:11:59,420 --> 00:11:59,720
@@ -919,8 +845,7 @@ neinteraktívnejšie.
 
 202
 00:12:05,300 --> 00:12:07,960
-Magnetické monopolii... Celkom bola sa
-rozmýšľať o tom, že či vlastne
+Magnetické monopóly... Celkom sa začalo rozmýšľať o tom, že či vlastne
 
 203
 00:12:08,000 --> 00:12:09,720
@@ -928,28 +853,23 @@ nie je problém s Einsteinovou teóriou.
 
 204
 00:12:09,920 --> 00:12:12,600
-Hľadajú sa, že modifikované teórie je
-gravitácie.
+Hľadajú sa modifikované teórie gravitácie.
 
 205
 00:12:13,420 --> 00:12:16,600
-Čo znamená, že zoberiem Einsteinovú teóriu
-a opravíme ju tak,
+Čo znamená, že zoberieme Einsteinovu teóriu a opravíme ju tak,
 
 206
 00:12:19,260 --> 00:12:23,480
-že jej výsledky presne opisujú to, čo
-pozrieme vo vesmíre, bez toho, aby
+že jej výsledky presne opisujú to, čo pozorujeme vo vesmíre, bez toho, aby
 
 207
 00:12:23,520 --> 00:12:28,700
-tam bola ďalšia hmota. Čiže vlastne
-pomeníte zákony tak, aby ten efekt presne
+tam bola ďalšia hmota. Čiže vlastne pozmeníme zákony tak, aby ten efekt presne
 
 208
 00:12:28,740 --> 00:12:34,340
-odpovedal tmavej hmote. Problém týchto
-teórií je,
+zodpovedal tmavej hmote. Problém týchto teórií je,
 
 209
 00:12:34,440 --> 00:12:38,740
@@ -958,12 +878,11 @@ vlny by sa mali šíriť
 
 210
 00:12:38,780 --> 00:12:40,860
-inou rýchlosťou, ako je rýchlo svetla.
+inou rýchlosťou, ako je rýchlosť svetla.
 
 211
 00:12:41,340 --> 00:12:44,720
-Podľa všetko to vyzerá tak, že gravitačné
-vlny sa šírije rovnako rýchlo ako
+Podľa všetkého to vyzerá tak, že gravitačné vlny sa šíria rovnako rýchlo ako
 
 212
 00:12:44,760 --> 00:12:46,080
@@ -971,8 +890,7 @@ svetlo.
 
 213
 00:12:46,420 --> 00:12:51,400
-Čiže veľká časť týchto modifikácií
-Einsteinovej teórie bola už vyškrtnutá.
+Čiže veľká časť týchto modifikácií Einsteinovej teórie bola už vyškrtnutá.
 
 214
 00:12:53,980 --> 00:12:55,700
@@ -980,8 +898,7 @@ Neprejde vlastne týmto testom.
 
 215
 00:12:58,120 --> 00:13:01,600
-Rýchlo svetla určuje nám celú fyziku v
-svojej podstate.
+Rýchlosť svetla určuje nám celú fyziku vo svojej podstate.
 
 216
 00:13:04,060 --> 00:13:07,680
@@ -990,17 +907,15 @@ tak pomerne sexy.
 
 217
 00:13:10,340 --> 00:13:13,980
-Jeden sa volá, že skrytý sektor fyziky.
+Jeden sa volá skrytý sektor fyziky.
 
 218
 00:13:16,000 --> 00:13:21,240
-Tam vlastne ide o to, že my momentálne
-poznáme relatívne malo fundamentálnych
+Tam vlastne ide o to, že my momentálne poznáme relatívne málo fundamentálnych
 
 219
 00:13:21,280 --> 00:13:24,140
-alebo elementárnych častíc, ktorí sa skláda
-všetká hmota okolo
+alebo elementárnych častíc, z ktorých sa skladá všetka hmota okolo
 
 220
 00:13:24,180 --> 00:13:25,600
@@ -1021,8 +936,7 @@ A
 
 224
 00:13:35,560 --> 00:13:40,440
-teraz je otázka, čo keď je kopať ďalších
-častíc, ktoré reagujú medzi sebou, ale
+teraz je otázka, čo keď je kopa ďalších častíc, ktoré reagujú medzi sebou, ale
 
 225
 00:13:40,480 --> 00:13:40,760
@@ -1035,7 +949,7 @@ Možno v našom vesmiere
 
 227
 00:13:45,760 --> 00:13:50,980
-bežia kopať druhou hmot,
+beží kopa druhov hmoty,
 
 228
 00:13:51,840 --> 00:13:54,920
@@ -1044,13 +958,11 @@ medzi sebou.
 
 229
 00:13:55,280 --> 00:13:59,460
-Možno tam lietajú planéty z úplne iných
-hmoty, ktorá sa správa
+Možno tam lietajú planéty z úplne inej hmoty, ktorá sa správa
 
 230
 00:13:59,500 --> 00:14:03,460
-podobne ako tá naša, len je od nás izolovo
-na tým, že neexistuje častica, ktorá
+podobne ako tá naša, len je od nás izolovaná tým, že neexistuje častica, ktorá
 
 231
 00:14:03,500 --> 00:14:04,200
@@ -1058,8 +970,7 @@ by prenašala
 
 232
 00:14:04,240 --> 00:14:07,000
-alebo sprostredkovala interakcie medzi nami
-a nimi.
+alebo sprostredkovávala interakcie medzi nami a nimi.
 
 233
 00:14:07,240 --> 00:14:07,460
@@ -1071,31 +982,27 @@ zaujímavé. A ktorá je tá druhá?
 
 235
 00:14:10,580 --> 00:14:14,240
-Na tá druhá etá presne čo si naznačil, že
-mikroskopické čierné
+No tá druhá je tá, presne čo si naznačil, že mikroskopické čierne
 
 236
 00:14:14,280 --> 00:14:18,480
-diery. Lho sa rozmýšľalo takým spôsobom,
+diery. Dlho sa rozmýšľalo takým spôsobom,
 
 237
 00:14:20,080 --> 00:14:25,300
-že čierné diery možno vznikly tesne po
-veľkom trezku a
+že čierne diery možno vznikli tesne po veľkom tresku a
 
 238
 00:14:25,340 --> 00:14:28,120
-oni sa pomalinky vyparujú, tak dosť sa do
-nich
+oni sa pomalinky vyparujú, ak do nich nepribúda nová hmota. Takže sa vyparujú,
 
 239
 00:14:28,160 --> 00:14:31,000
-neprisípava nová hmota. Takže sa vyparujú,
+vyparujú,
 
 240
 00:14:31,040 --> 00:14:35,800
-vyparujú, až majú na koniec rozmer
-niekoľkých metrov napríklad
+až majú nakoniec rozmer niekoľkých metrov napríklad
 
 241
 00:14:35,840 --> 00:14:38,820
@@ -1116,17 +1023,15 @@ majú. Pomaly sa
 
 245
 00:14:44,860 --> 00:14:50,620
-vyparujú, ale táto hipoteza byla viac
-menej...
+vyparujú, ale táto hypotéza bola viac-menej...
 
 246
 00:14:51,400 --> 00:14:54,660
-Nie úplne presvočovala viac menej sa
-považujú za vyvratenú alebo sa urobili
+Nie úplne presvedčivá, viac-menej sa považuje za vyvrátenú alebo sa urobili
 
 247
 00:14:54,700 --> 00:14:56,020
-také vypočte, že kolko by ich tu
+také výpočty, že koľko by ich tu
 
 248
 00:14:56,060 --> 00:14:57,320
@@ -1146,13 +1051,11 @@ ktoré
 
 252
 00:15:03,440 --> 00:15:06,020
-sa snažia nájsť v formuláciu kvantovej
-gravitácie
+sa snažia nájsť formuláciu kvantovej gravitácie
 
 253
 00:15:06,580 --> 00:15:10,720
-a tie majú taký pomerne všeobecný výsledok,
-že tie čierné diery zamrznú, keď sú
+a tie majú taký pomerne všeobecný výsledok, že tie čierne diery zamrznú, keď sú
 
 254
 00:15:10,760 --> 00:15:11,060
@@ -1169,21 +1072,19 @@ keď je tmavá hmota tvorená
 
 257
 00:15:15,680 --> 00:15:17,960
-takými to zamrznutými čiernými dierami,
+takýmito zamrznutými čiernymi dierami,
 
 258
 00:15:18,420 --> 00:15:23,000
-oni vážia zhruba 100 milióntinu gramu, čiže
-sú pomerne
+oni vážia zhruba stomilióntinu gramu, čiže sú pomerne
 
 259
 00:15:23,040 --> 00:15:28,340
-malé. A ak si dobre pamätam, tak v jednom
-kilometrii kubickom vesmíru
+malé. A ak si dobre pamätám, tak v jednom kubickom kilometri vesmíru
 
 260
 00:15:28,380 --> 00:15:30,080
-by mala byť v prímerie jedna.
+by mala byť v priemere jedna.
 
 261
 00:15:30,560 --> 00:15:35,960
@@ -1205,17 +1106,15 @@ byť,
 
 265
 00:15:45,220 --> 00:15:50,040
-že pár sto viek v kocké s hranou 1000 km a
-nie 1 km.
+že pár stoviek v kocke s hranou 1000 km a nie 1 km.
 
 266
 00:15:50,080 --> 00:15:52,500
-Čiže ovražte meni, ako som povedal.
+Čiže oveľa menej, ako som povedal.
 
 267
 00:15:52,720 --> 00:15:55,540
-A teraz aký je rozdiel medzi tmavou hmotou
-a tmavou energiou.
+A teraz, aký je rozdiel medzi tmavou hmotou a tmavou energiou?
 
 268
 00:15:56,480 --> 00:16:01,840
@@ -1232,22 +1131,19 @@ efekt.
 
 271
 00:16:05,000 --> 00:16:07,420
-hmoty, tak to sa sprava ako bežná hmota.
-Čiže
+hmoty, tak tá sa správa ako bežná hmota. Čiže
 
 272
 00:16:07,460 --> 00:16:11,000
-priťahuje ostatné obiekty a spomaluje
-rozpinanie vesmíru.
+priťahuje ostatné objekty a spomaľuje rozpínanie vesmíru.
 
 273
 00:16:11,740 --> 00:16:16,980
-Tmavá energia vyzerá byť rozložená
-rovnomerne po celom vesmiere a urýchluje
+Tmavá energia vyzerá byť rozložená rovnomerne po celom vesmíre a urýchľuje
 
 274
 00:16:17,020 --> 00:16:18,980
-jeho expansiu.
+jeho expanziu.
 
 275
 00:16:20,620 --> 00:16:23,280
@@ -1265,18 +1161,15 @@ koncentrácia tmavej energie zostane
 
 278
 00:16:32,960 --> 00:16:37,000
-konštantná. Vyzerá to byť ako taká energia,
-ktorá neredne, keď sa
+konštantná. Vyzerá to byť ako taká energia, ktorá neredne, keď sa
 
 279
 00:16:37,040 --> 00:16:40,060
-vesmiera rozpina. Takže taká veľmi zvlášná
-povaha.
+vesmír rozpína. Takže taká veľmi zvláštna povaha.
 
 280
 00:16:40,540 --> 00:16:43,640
-Taký jeden typ na tmavú energiu by bol, že
-či to nie je energia prázdného
+Taký jeden tip na tmavú energiu by bol, že či to nie je energia prázdneho
 
 281
 00:16:43,680 --> 00:16:44,200
@@ -1284,27 +1177,23 @@ priestoru,
 
 282
 00:16:44,240 --> 00:16:49,240
-čiže taký efekt kvantového ublotania, ktorý
-sa v priestore deje, tak keď
+čiže taký efekt kvantového fluktuovania, ktorý sa v priestore deje, tak keď
 
 283
 00:16:49,280 --> 00:16:51,940
-sa to spočíta, tak to nesiedí o 120 cifier.
+sa to spočíta, tak to nesedí o 120 rádov.
 
 284
 00:16:52,360 --> 00:16:55,300
-Takže to vyzerá, že to nie je úplne dobrý
-nápad, ale lepší zatiaľ
+Takže to vyzerá, že to nie je úplne dobrý nápad, ale lepší zatiaľ
 
 285
 00:16:55,340 --> 00:16:58,420
-nemáme. Takže jediný čo máme je strašne zlý
-a lepší nemáme.
+nemáme. Takže jediné, čo máme, je strašne zlý a lepší nemáme.
 
 286
 00:16:58,540 --> 00:17:01,060
-Takže o tmavej energie nevieme momentálne
-prakticky
+Takže o tmavej energii nevieme momentálne prakticky
 
 287
 00:17:01,100 --> 00:17:05,960
@@ -1313,18 +1202,15 @@ typov, ktoré sa snažíme škrtať.
 
 288
 00:17:06,640 --> 00:17:11,880
-A to sú vlastne, by sme tu tak mohli
-ukončiť, že to je všetko k
+A to sú vlastne... By sme tu tak mohli
 
 289
 00:17:11,920 --> 00:17:14,920
-tmavej hmote. Ja ti veľmi pekne ďakujem,
-Samuel.
+ukončiť, že to je všetko k tmavej hmote. Ja ti veľmi pekne ďakujem, Samuel.
 
 290
 00:17:16,380 --> 00:17:20,340
-To je z našej strany všetko. Ak máte nápady
-na zaujímavé temy, napíšte nám na
+To je z našej strany všetko. Ak máte nápady na zaujímavé témy, napíšte nám na
 
 291
 00:17:20,380 --> 00:17:20,800
@@ -1332,22 +1218,20 @@ facebook
 
 292
 00:17:20,840 --> 00:17:24,180
-či na naš web vedator .space
+či na náš web vedator.space
 
 293
 00:17:24,220 --> 00:17:29,780
-alebo na facebooku. Tento podcasti viete si
-vtáhnúť na Apple Podcaste,
+alebo na Facebooku. Tento podcast si viete stiahnuť na Apple Podcasts,
 
 294
 00:17:30,080 --> 00:17:34,320
-na Spotify a hoci innej služby, ktorá vám
-sprostredkova
+na Spotify a v hocijakej inej službe, ktorá vám sprostredkúva
 
 295
 00:17:34,360 --> 00:17:35,500
-podcasty. Do počute.
+podcasty. Dopočutia.
 
 296
 00:17:35,540 --> 00:17:36,780
-Počute.
+Dopočutia.
