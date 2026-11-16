@@ -1,0 +1,26 @@
+{
+  "episode": 2,
+  "language": "sk",
+  "status": "machine-draft-needs-listening-review",
+  "audio_source": "https://mcdn.podbean.com/mf/web/7jhwwj/podcast_ep2.mp3",
+  "audio_sha256": "39b46e463f9db38afbe7bc55661bac7e40886d89d1fde761b65876a035bcdc24",
+  "audio_size": 35289583,
+  "model": "medium",
+  "legacy_anchors": 207,
+  "recognized_words": 2366,
+  "produced_cues": 296,
+  "timing_from_old_srt": 226,
+  "filled_gap_cues": 71,
+  "low_confidence_cues": [
+    {
+      "time": "00:01:31,600",
+      "text": "O tom štvrtinu"
+    },
+    {
+      "time": "00:13:34,520",
+      "text": "A"
+    }
+  ],
+  "uncertain_segments": [],
+  "segment_count": 297
+}

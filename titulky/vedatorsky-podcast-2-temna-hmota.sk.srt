@@ -1,0 +1,1353 @@
+1
+00:00:10,180 --> 00:00:13,360
+Od fotosintézy cez elektromagnetizmus
+
+2
+00:00:13,400 --> 00:00:17,500
+až po chemické zlučeniny veda nás obklopuje
+na každom kroku.
+
+3
+00:00:17,700 --> 00:00:22,480
+Vítajte pri Vedatorskom podcaste, ktorom
+budeme diskutovať o vede a prírode
+
+4
+00:00:22,520 --> 00:00:27,440
+okolo nás. Ja som Jozef. A ja som Samuel.
+Dnešná téma,
+
+5
+00:00:27,580 --> 00:00:30,160
+témná hmota. Tmavá hmota.
+
+6
+00:00:35,540 --> 00:00:41,160
+Dobre, tak... Dobre. Dnešná téma, tmavá
+hmota. To len tam
+
+7
+00:00:41,200 --> 00:00:44,360
+prestrigujem. Samuel, tmavá
+
+8
+00:00:44,400 --> 00:00:48,220
+hmota sa stala takým profanovaným až veľmi
+
+9
+00:00:48,260 --> 00:00:53,880
+zaužívaným pojmom, čo sa týka s CIFI,
+nejakých vedeckých novinení a tak
+
+10
+00:00:53,920 --> 00:00:59,280
+ďalej. Ale podľa mňa veľmi málo ľudí z
+laické verejnosti vie, o
+
+11
+00:00:59,320 --> 00:01:02,920
+čom sa vlastne rozprávame a aký je rozdiel
+medzi ďalšimi zložkami hmoty.
+
+12
+00:01:03,200 --> 00:01:05,020
+Vedel by si nám dať taký
+
+13
+00:01:05,060 --> 00:01:09,880
+základný prehľad ohľadom tmavé hmoty?
+
+14
+00:01:10,900 --> 00:01:11,780
+Tak tmavá
+
+15
+00:01:11,820 --> 00:01:14,740
+hmota je hmota, ktorá tvori
+
+16
+00:01:14,780 --> 00:01:16,880
+asi štvrtinu energie celého vesmíru.
+
+17
+00:01:17,800 --> 00:01:21,580
+Niečo, čo si ľudia neuvedomuje, že keď sa
+pozrieme na oblohu, tak všetky tie
+
+18
+00:01:21,620 --> 00:01:22,360
+hviezdy, ktoré
+
+19
+00:01:22,400 --> 00:01:27,320
+vidíme, taký ten medzihviezný a
+medzigalaktický plyn, všetky planety a
+
+20
+00:01:27,360 --> 00:01:31,560
+podobne, všetko toto tvori meni ako 4 %
+celého vesmíru.
+
+21
+00:01:31,600 --> 00:01:35,560
+O tom štvrtinu
+
+22
+00:01:35,600 --> 00:01:39,680
+tvori tzv. tmavá hmota a zbytok tvori tmavá
+energia.
+
+23
+00:01:40,180 --> 00:01:45,040
+Tmavá energia je niečo pomerne misteriózne,
+o tom sa nebudeme baviť, lebo o
+
+24
+00:01:45,080 --> 00:01:46,980
+tom vieme toho poriadané veľmi málo.
+
+25
+00:01:47,700 --> 00:01:52,800
+O tmavej hmote máme dáke náznaky, čo by to
+mohlo byť, ale zatiaľ sa nám nič
+
+26
+00:01:52,840 --> 00:01:53,640
+nepodarol dokázať.
+
+27
+00:01:55,340 --> 00:01:58,080
+Obyčajný človek, ako si môže tmavú hmotu
+predstaviť?
+
+28
+00:01:58,280 --> 00:01:59,300
+Je to
+
+29
+00:01:59,340 --> 00:02:03,720
+tmavé, vyjadruje tú farbu, alebo niečo,
+alebo je to skoraj
+
+30
+00:02:03,760 --> 00:02:07,780
+také básnické pomenovanie, že tmavá hmota?
+
+31
+00:02:09,160 --> 00:02:13,720
+Tak to meno pochádza z toho, že ide o
+hmotu, ktorá sa prejavuje iba gravitačným
+
+32
+00:02:13,760 --> 00:02:18,060
+spôsobom. Čiže napríklad, keby bol náš
+mesiac tvorený z tmavej
+
+33
+00:02:18,100 --> 00:02:21,340
+hmoty, tak by sme ho vôbec nevideli na
+oblohe.
+
+34
+00:02:21,380 --> 00:02:22,360
+Proste by sme
+
+35
+00:02:22,400 --> 00:02:24,700
+videli tie hviezdy, ktoré sa nachádzajú za
+ním.
+
+36
+00:02:24,940 --> 00:02:29,380
+Svetlo by cez neho prechádzalo podobne ako
+iné druhé žiarenia.
+
+37
+00:02:30,920 --> 00:02:35,100
+Ale cítili by sme ho gravitačný vplyv, čiže
+napríklad by sme videli
+
+38
+00:02:35,140 --> 00:02:39,380
+prilivy a odlivy, ako vznikajú. Ale
+nevideli by sme ich zdroj.
+
+39
+00:02:40,420 --> 00:02:40,860
+Keby bolo
+
+40
+00:02:40,900 --> 00:02:45,360
+slnko tvorené z tmavej hmoty, tak by sme ho
+nevideli.
+
+41
+00:02:45,400 --> 00:02:50,160
+stále by sme okolo neho kružili.
+
+42
+00:02:50,240 --> 00:02:54,610
+Čiže ten jeho vplyv gravitačný by tam bol,
+ale okrem toho nič iné.
+
+43
+00:02:55,180 --> 00:02:58,440
+Dokonca keby sme na to miesto došli, tak
+pravdepodobne by sme cez neho mohli
+
+44
+00:02:58,480 --> 00:02:59,680
+preniknúť. Dokonca
+
+45
+00:02:59,720 --> 00:03:01,740
+tá tmava hmota vyzra, že ani nič netieni.
+
+46
+00:03:03,620 --> 00:03:06,280
+Kedy vznikla vlastne myšlenka o tmavej
+hmote?
+
+47
+00:03:10,360 --> 00:03:12,400
+Ťažko presne zapichnúť presne kde v
+
+48
+00:03:12,440 --> 00:03:18,300
+histórii. Už Lord Kelvin v roku 1884
+povedal,
+
+49
+00:03:19,160 --> 00:03:21,910
+že usudil z pohybu hviez, že pravdepodobne
+veľa z nich nevidíme.
+
+50
+00:03:22,920 --> 00:03:27,020
+Čiže v podstate sa da povedať, že už rúba
+140 rokov sa o nej
+
+51
+00:03:27,060 --> 00:03:31,300
+dáko bavíme, ale začetku to nebolo veľmi
+seriózne.
+
+52
+00:03:31,340 --> 00:03:32,920
+Meno tomu dal až
+
+53
+00:03:32,960 --> 00:03:38,040
+po Ankare v roku 1906. Ale taký prvý známy
+proponent bol
+
+54
+00:03:38,080 --> 00:03:43,500
+Cvíky v roku 1933. Čo bol taký pomerne
+kontroverzný
+
+55
+00:03:43,540 --> 00:03:46,880
+astrofizík, ktorý sa napríklad postiažoval,
+že na konferenciá už veľmi malo
+
+56
+00:03:46,920 --> 00:03:48,880
+dochádzak pesným súbojom
+
+57
+00:03:48,920 --> 00:03:53,420
+a podobne. Ale okrem toho, že teda bol
+trošku
+
+58
+00:03:53,460 --> 00:03:56,440
+jedinečný,
+
+59
+00:03:57,400 --> 00:04:01,100
+tak zároveň bol naozaj obrovsky genius a
+došiel na kopu
+
+60
+00:04:01,140 --> 00:04:06,440
+zájímavých objavu a teda jeden z nich bol,
+že asi existuje tmavá hmota.
+
+61
+00:04:07,060 --> 00:04:10,640
+A teraz, že ako na to vlastne došiel,
+
+62
+00:04:10,880 --> 00:04:14,920
+tak rozmýšľal na tým, že ako môžu kopiť
+hviezd,
+
+63
+00:04:15,980 --> 00:04:17,660
+čiže veľa hviezd po kope,
+
+64
+00:04:18,320 --> 00:04:19,660
+veľa galáxí po kope, ako
+
+65
+00:04:19,700 --> 00:04:23,360
+vlastne držie, že prečo sa nedozretia do
+všetkých
+
+66
+00:04:23,400 --> 00:04:27,660
+smerov. Ono sa dá tak spočítať, že keď
+vidím galáxiu, tak viem odhadnúť, koľko
+
+67
+00:04:27,700 --> 00:04:27,920
+je tam
+
+68
+00:04:27,960 --> 00:04:32,160
+hviezd, z toho ako silno svietí, z toho
+viem odhadnúť, koľko je v nej
+
+69
+00:04:32,200 --> 00:04:33,040
+viditeľnej hmoty.
+
+70
+00:04:34,300 --> 00:04:37,220
+A viem si teda tak spočítať, že či tie veci
+
+71
+00:04:37,260 --> 00:04:40,880
+by mali držať po kope, alebo by sa mali
+rozletiť, lebo tam proste majú
+
+72
+00:04:40,920 --> 00:04:41,940
+pomerne veľké rýchlosť.
+
+73
+00:04:42,800 --> 00:04:43,360
+A on zistil, že
+
+74
+00:04:43,400 --> 00:04:46,040
+tie veci držia prekvapivo po kope, aj keď
+by sa mali
+
+75
+00:04:46,080 --> 00:04:50,500
+rozletiť. Z čoho usúdil, že asi je tam veľa
+hmoty, ktorú nevidíme a teda v tých
+
+76
+00:04:50,540 --> 00:04:51,820
+výpočtoch chýbala
+
+77
+00:04:51,860 --> 00:04:54,300
+a všetko to do kope drží ako taký tmel.
+
+78
+00:04:56,460 --> 00:04:59,460
+A toto bol 1933 a potom do
+
+79
+00:04:59,500 --> 00:05:00,580
+okazy príbudali viac a
+
+80
+00:05:00,620 --> 00:05:05,920
+viac. Napríklad v roku 1970 Vera Rubin
+skumala
+
+81
+00:05:05,960 --> 00:05:07,840
+rotačné kryvky galáxí.
+
+82
+00:05:08,640 --> 00:05:11,780
+Teraz, čo vlastne znamenajú rotačné kryvky
+galáxí?
+
+83
+00:05:12,140 --> 00:05:13,520
+Prečne moja otázka.
+
+84
+00:05:13,560 --> 00:05:18,320
+To znamená, že napríklad naša mliečna cesta
+je špirálovita
+
+85
+00:05:18,360 --> 00:05:21,540
+galáxia, ktorá sa otáča okolo svojho
+stredu.
+
+86
+00:05:21,700 --> 00:05:24,600
+Čiže Zem robi také kolečko, ktoré trvá,
+
+87
+00:05:24,640 --> 00:05:28,240
+myslím si, že 250 miliónov rokov, čo sa
+volá, že galaktický rok.
+
+88
+00:05:29,820 --> 00:05:30,160
+Viem, že
+
+89
+00:05:30,200 --> 00:05:34,500
+naposledy tu boli dinosauri, keď spravila
+toto kolečko našo Zem. Som videl
+
+90
+00:05:34,540 --> 00:05:35,200
+niekde taký
+
+91
+00:05:35,240 --> 00:05:38,140
+post, tak bude to veľmi veľa rokov.
+
+92
+00:05:38,180 --> 00:05:43,600
+Ale o to nejde. A keď Zem otáča okolo
+
+93
+00:05:43,640 --> 00:05:48,100
+našej galáxie, čo to vlastne znamená pri
+tej tmavej hmate?
+
+94
+00:05:49,120 --> 00:05:51,660
+Teda ide o rovnováhu dôh sil.
+
+95
+00:05:52,000 --> 00:05:53,940
+Zaprvé cítime od stredivú silu,
+
+96
+00:05:53,980 --> 00:05:58,360
+keďže ideme po kružnici. A zároveň nás teda
+niečo musí ťahať
+
+97
+00:05:58,400 --> 00:06:00,200
+do stredu, aby tú silu vykompenzvalo.
+
+98
+00:06:00,360 --> 00:06:03,780
+To je jeden hľad pohľadu, druhý hľad
+pohľadu, že je tam len tá dostredivá sila,
+
+99
+00:06:03,820 --> 00:06:04,860
+ktorá nás drží na tejto
+
+100
+00:06:04,900 --> 00:06:08,720
+dráhe. Viem spočítať,
+
+101
+00:06:08,760 --> 00:06:13,260
+koľko hviezd je v nášej galáxii a ako veľmi
+nás priťahujú.
+
+102
+00:06:13,460 --> 00:06:16,980
+A spočítať, ako rýchlo sa točíme okolo
+stredu.
+
+103
+00:06:17,400 --> 00:06:20,540
+Keď sa tieto vypočty urobia, to zrazu
+vycháza tak, že tá odstredivá sila
+
+104
+00:06:20,580 --> 00:06:25,560
+by mala dominovať. Ale keďže vyzerá to tak,
+že sa hýbeme po stabilnej dráhe,
+
+105
+00:06:25,640 --> 00:06:29,600
+lebo tie galáxie vyzerá, že už sú v pekných
+utrasených tvaroch,
+
+106
+00:06:29,740 --> 00:06:35,000
+tak jediný možný záver je taký, že
+skutočnosti nám v tom vypočti niečo chýba. A
+
+107
+00:06:35,040 --> 00:06:37,640
+to niečo, čo nám chýba, označujeme tmavá
+hmota.
+
+108
+00:06:38,140 --> 00:06:40,600
+Čiže aj v našej galáxii sa nachádza veľa
+tmavej
+
+109
+00:06:40,640 --> 00:06:43,640
+hmoty, ktorá tú galáxiu drží pokope
+
+110
+00:06:45,420 --> 00:06:49,660
+a okrem toho nevidíme nejaký iný jej efekt.
+Čiže je veľmi
+
+111
+00:06:49,700 --> 00:06:53,120
+ťažké ju spozorovať, keďže gravitácia je
+pomerne sláva sila.
+
+112
+00:06:55,400 --> 00:07:00,360
+A nemohlo by byť vysvetlením pre tieto
+rozdeli v tých rovniciach
+
+113
+00:07:00,400 --> 00:07:04,120
+a v tomto všetkom, o ktorých si tý príklado
+hovoril, napríklad, že existujú
+
+114
+00:07:04,160 --> 00:07:05,700
+čierné diery, lebo tiež
+
+115
+00:07:05,740 --> 00:07:09,640
+nevieme dobre detekovať a tiež môžeme
+vidieť len gravitačne účinky
+
+116
+00:07:10,360 --> 00:07:13,960
+alebo nejaké možno optické efekty, ktoré
+spôsobuje vlastne tá gravitačne. V
+
+117
+00:07:14,000 --> 00:07:18,000
+tomu sa hned dostaneme, len ešte teda
+poviem, aby sme ukončili tú prvú časť, že
+
+118
+00:07:18,040 --> 00:07:18,420
+ako vlastne
+
+119
+00:07:18,460 --> 00:07:19,340
+vieme o tmavé hmote,
+
+120
+00:07:20,060 --> 00:07:23,200
+že to niekto by mohol podať, že no, tak
+možno len galáxie fungujú trošku
+
+121
+00:07:23,240 --> 00:07:27,780
+ináč ako si myslíme. A v skutočnosti tých
+stúv je ešte o veľa viacej.
+
+122
+00:07:28,680 --> 00:07:32,400
+Napríklad, dokážeme zachytiť reliktové
+žiarenie, to je svetlo, ktoré
+
+123
+00:07:32,440 --> 00:07:34,860
+vzniklo 300 000 rokov po veľkom tresku
+
+124
+00:07:36,780 --> 00:07:42,420
+a ono v sebe nese informáciu o tom, že
+koľko sa tej tmavé hmotivové smieré
+
+125
+00:07:42,460 --> 00:07:45,880
+nachádza a presne to sedí s tým, čo
+získávame inými metódami.
+
+126
+00:07:46,980 --> 00:07:51,360
+Zároveň existuje niečo, čo má taký omerne
+odpudzujúci názov, že baríonové
+
+127
+00:07:51,400 --> 00:07:56,540
+akustické fluktuácie, či ale tiež dáka
+stopa z raného vesmíru,
+
+128
+00:07:57,240 --> 00:08:01,760
+ktorá nese informáciu o tom, koľko tmavé
+hmoty sa vo vesmíre nachádza a
+
+129
+00:08:01,800 --> 00:08:04,380
+tiež to sedí s tými opačnými pozorovaniami.
+
+130
+00:08:05,200 --> 00:08:08,180
+A v poslednom rade je to formácia veľkých
+štruktúr,
+
+131
+00:08:08,280 --> 00:08:12,240
+čiže napríklad galáxii a podobne.
+
+132
+00:08:12,520 --> 00:08:13,940
+Galáxie vznikli koli tomu,
+
+133
+00:08:14,700 --> 00:08:14,800
+že
+
+134
+00:08:14,840 --> 00:08:17,520
+hmota v ranom vesmíre bola rozložená
+nerovnomerne
+
+135
+00:08:17,560 --> 00:08:22,740
+a tie veci začali tak gravitačne rútiť do
+seba a postupne po miliónoch rokoch
+
+136
+00:08:22,780 --> 00:08:26,180
+z nich vznikli galáxie a ďalšie veľké
+objekty.
+
+137
+00:08:27,260 --> 00:08:30,960
+A teraz, keby nebolo tmavej hmoty, tak ten
+kulabs by bol tak pomaly, že by k
+
+138
+00:08:31,000 --> 00:08:31,180
+nemu
+
+139
+00:08:31,220 --> 00:08:32,680
+pravdepodobne nedošlo, lebo by to
+
+140
+00:08:32,720 --> 00:08:36,120
+stihlo predtým svetlovyhľadičetky tene
+rovnosti.
+
+141
+00:08:36,320 --> 00:08:38,500
+Čiže nebyť tmavej hmoty, tak by
+pravdepodobne
+
+142
+00:08:38,540 --> 00:08:40,900
+neexistovali galáxie, tak ako ich dneska
+vnímame.
+
+143
+00:08:41,460 --> 00:08:45,820
+Čiže dlhý zoznam dôkazov, že tmavá hmota
+naozaj existuje
+
+144
+00:08:45,860 --> 00:08:48,860
+No a teraz je tá veľká otázka, čo by to
+mohlo byť.
+
+145
+00:08:50,340 --> 00:08:55,560
+No lebo stále sa mi zdá, že aké by sme
+tancovali okolo toho, ale pozorujeme
+
+146
+00:08:55,600 --> 00:09:00,760
+efekty a jak to pôsobí na všetko okolo nás
+a na galáxie, ale čo to
+
+147
+00:09:00,800 --> 00:09:01,600
+vlastne je?
+
+148
+00:09:02,860 --> 00:09:07,200
+No, to keby som vedel, tak si balím kufre a
+idem do Štokholmu.
+
+149
+00:09:08,300 --> 00:09:09,440
+Už čakaj na budúci rok?
+
+150
+00:09:11,740 --> 00:09:15,360
+Toto je taká problematická, že keď to môže
+
+151
+00:09:15,400 --> 00:09:19,800
+byť, ono to môže byť prakticky
+hocičovatých, napadov je veľa, ale čas ných sa
+
+152
+00:09:19,840 --> 00:09:23,860
+podarilo vylúčiť. Z istého dôvodu, mnenie
+
+153
+00:09:23,900 --> 00:09:25,440
+známeho tým veciám dávajú pekne
+
+154
+00:09:25,480 --> 00:09:28,280
+znejúce skradky, napríklad, že macho
+
+155
+00:09:28,320 --> 00:09:32,460
+čo znavená, že Massive Compact Hello Object
+čiže veci
+
+156
+00:09:32,500 --> 00:09:36,680
+napríklad ako malé planéty, prach a
+podobne.
+
+157
+00:09:37,420 --> 00:09:40,840
+A toto sa podarilo vylúčiť, praďopodobne
+toto to nebude, že mali by
+
+158
+00:09:40,880 --> 00:09:42,780
+sme zaznamenať aj takú radiáciu z týchto
+
+159
+00:09:42,820 --> 00:09:46,260
+obiektov, čo sa nepodarilo.
+
+160
+00:09:46,500 --> 00:09:48,960
+Takže to bol taký jeden z prvých napadov,
+ale vyzrabiť viac menej
+
+161
+00:09:49,000 --> 00:09:49,820
+vylúčený.
+
+162
+00:09:52,220 --> 00:09:56,820
+Potom existujú takí kandidáti, ktorým sa sa
+hori, že WIMP s dvojtým V, čo
+
+163
+00:09:56,860 --> 00:09:59,800
+znamená, že Weakly Interactive Massive
+Particles.
+
+164
+00:10:01,540 --> 00:10:04,520
+Vlastne to je zase niečo, čo prichádza z
+časticehoj fyziky, že čak, existujú
+
+165
+00:10:04,560 --> 00:10:05,400
+také častice,
+
+166
+00:10:05,540 --> 00:10:08,120
+ktoré všetky neinteragujú, ale sú
+
+167
+00:10:08,160 --> 00:10:12,460
+ťažké. A potom existujú dverôzne kategórie,
+že možno sa chybu strašne
+
+168
+00:10:12,500 --> 00:10:15,080
+pomalí a len tam pomalinky blúďa tým
+
+169
+00:10:15,120 --> 00:10:18,580
+vesmírom, alebo sa sa strašne rýchle
+lejtajú do lava do
+
+170
+00:10:18,620 --> 00:10:20,820
+prava.
+
+171
+00:10:22,040 --> 00:10:27,680
+V podstate úlohou jednou z nádej cernú
+bolo, že sa im podarí objaviť
+
+172
+00:10:27,720 --> 00:10:31,100
+takú časticu, ktorá by sa identifikovala,
+že aha, tak toto môže
+
+173
+00:10:31,140 --> 00:10:34,760
+byť častica tmavej hmoty a to sa zatiaľ
+nepodarilo.
+
+174
+00:10:35,560 --> 00:10:36,060
+Chceli
+
+175
+00:10:36,100 --> 00:10:37,700
+hľadať ten vimp vlastne.
+
+176
+00:10:39,560 --> 00:10:44,040
+Áno. V podstate jedna z takých veci, ktorá
+bola veľká nádej v CERN-e,
+
+177
+00:10:44,480 --> 00:10:47,880
+je niečo, čo sa vlá supersymetria, čo je
+taká hypotéza, že ku každej častici
+
+178
+00:10:47,920 --> 00:10:48,580
+existuje taký
+
+179
+00:10:48,620 --> 00:10:49,520
+špeciálny partner.
+
+180
+00:10:50,920 --> 00:10:54,720
+Teraz sa hovorilo, že tak možno taký
+supersymetrický partner, niečo, čo už
+
+181
+00:10:54,760 --> 00:10:54,920
+teraz
+
+182
+00:10:54,960 --> 00:10:58,660
+poznáme, by mohol tvoriť túto tmavú hmotu.
+
+183
+00:10:58,700 --> 00:10:59,400
+A problém
+
+184
+00:10:59,440 --> 00:11:04,700
+je, že nenašiel sa ani jeden dôkaz, že by
+supersymetria bola správna
+
+185
+00:11:04,740 --> 00:11:07,360
+teória pre opis vesmíru.
+
+186
+00:11:07,900 --> 00:11:11,800
+Čiže viacej nápadou príbud, ako sa darí
+škrtať.
+
+187
+00:11:11,980 --> 00:11:14,140
+Vymenujem úplne, že...
+
+188
+00:11:14,180 --> 00:11:17,860
+Ja som teraz počul povedané, že koľko je
+teoretických fyzikov, toľko je
+
+189
+00:11:17,900 --> 00:11:19,240
+kandidátov na tmavú hmotu?
+
+190
+00:11:20,220 --> 00:11:24,140
+A by som aj povedal, že je strašne ťažke.
+Vyvrátia tieto hypotézy, lebo
+
+191
+00:11:24,180 --> 00:11:29,340
+jedna sa, keď hovoríme o CERNE, o
+zariadenie, ktoré stálo miliardy a dlhej roky
+
+192
+00:11:29,380 --> 00:11:30,840
+sa vybudovalo.
+
+193
+00:11:32,620 --> 00:11:37,120
+Takže aj každý ten ďalší nápad musí byť
+veľmi ťažký na potvrdenie alebo
+
+194
+00:11:37,160 --> 00:11:38,160
+vyvratenie,
+
+195
+00:11:38,200 --> 00:11:42,180
+čo sa týka aj financia nejakého času, a aj
+technologických možností asi.
+
+196
+00:11:42,480 --> 00:11:46,260
+Keď si človek otvori stránku CERNU, tak tam
+nájde také
+
+197
+00:11:46,300 --> 00:11:50,160
+prísluby, akože možno ďalšia HX -ová
+častica alebo niečo zvané
+
+198
+00:11:50,200 --> 00:11:55,160
+Axioni. Dajú sa potom na vymyšľať veci,
+ktoré sa volá, že
+
+199
+00:11:55,200 --> 00:11:59,380
+sterilne neutrína, čo neutrína bežne veľmi
+neinteragujú a tieto by mali byť
+
+200
+00:11:59,420 --> 00:11:59,720
+ešte
+
+201
+00:11:59,760 --> 00:12:01,980
+neinteraktívnejšie.
+
+202
+00:12:05,300 --> 00:12:07,960
+Magnetické monopolii... Celkom bola sa
+rozmýšľať o tom, že či vlastne
+
+203
+00:12:08,000 --> 00:12:09,720
+nie je problém s Einsteinovou teóriou.
+
+204
+00:12:09,920 --> 00:12:12,600
+Hľadajú sa, že modifikované teórie je
+gravitácie.
+
+205
+00:12:13,420 --> 00:12:16,600
+Čo znamená, že zoberiem Einsteinovú teóriu
+a opravíme ju tak,
+
+206
+00:12:19,260 --> 00:12:23,480
+že jej výsledky presne opisujú to, čo
+pozrieme vo vesmíre, bez toho, aby
+
+207
+00:12:23,520 --> 00:12:28,700
+tam bola ďalšia hmota. Čiže vlastne
+pomeníte zákony tak, aby ten efekt presne
+
+208
+00:12:28,740 --> 00:12:34,340
+odpovedal tmavej hmote. Problém týchto
+teórií je,
+
+209
+00:12:34,440 --> 00:12:38,740
+že veľmi často predpovedajú, že gravitačné
+vlny by sa mali šíriť
+
+210
+00:12:38,780 --> 00:12:40,860
+inou rýchlosťou, ako je rýchlo svetla.
+
+211
+00:12:41,340 --> 00:12:44,720
+Podľa všetko to vyzerá tak, že gravitačné
+vlny sa šírije rovnako rýchlo ako
+
+212
+00:12:44,760 --> 00:12:46,080
+svetlo.
+
+213
+00:12:46,420 --> 00:12:51,400
+Čiže veľká časť týchto modifikácií
+Einsteinovej teórie bola už vyškrtnutá.
+
+214
+00:12:53,980 --> 00:12:55,700
+Neprejde vlastne týmto testom.
+
+215
+00:12:58,120 --> 00:13:01,600
+Rýchlo svetla určuje nám celú fyziku v
+svojej podstate.
+
+216
+00:13:04,060 --> 00:13:07,680
+Sú takí dva kandidáti, ktorí sú v niečom
+tak pomerne sexy.
+
+217
+00:13:10,340 --> 00:13:13,980
+Jeden sa volá, že skrytý sektor fyziky.
+
+218
+00:13:16,000 --> 00:13:21,240
+Tam vlastne ide o to, že my momentálne
+poznáme relatívne malo fundamentálnych
+
+219
+00:13:21,280 --> 00:13:24,140
+alebo elementárnych častíc, ktorí sa skláda
+všetká hmota okolo
+
+220
+00:13:24,180 --> 00:13:25,600
+nás.
+
+221
+00:13:25,840 --> 00:13:30,700
+A oni so sebou interagujú
+elektromagnetickou silou, silnou
+
+222
+00:13:30,740 --> 00:13:34,480
+jadrovou, slabou jadrovou a gravitačne.
+
+223
+00:13:34,520 --> 00:13:35,520
+A
+
+224
+00:13:35,560 --> 00:13:40,440
+teraz je otázka, čo keď je kopať ďalších
+častíc, ktoré reagujú medzi sebou, ale
+
+225
+00:13:40,480 --> 00:13:40,760
+vôbec
+
+226
+00:13:40,800 --> 00:13:45,720
+nereagujú s hmotou, ktorá je okolo nás.
+Možno v našom vesmiere
+
+227
+00:13:45,760 --> 00:13:50,980
+bežia kopať druhou hmot,
+
+228
+00:13:51,840 --> 00:13:54,920
+ktoré sa citia navzajom, ale necitia sa
+medzi sebou.
+
+229
+00:13:55,280 --> 00:13:59,460
+Možno tam lietajú planéty z úplne iných
+hmoty, ktorá sa správa
+
+230
+00:13:59,500 --> 00:14:03,460
+podobne ako tá naša, len je od nás izolovo
+na tým, že neexistuje častica, ktorá
+
+231
+00:14:03,500 --> 00:14:04,200
+by prenašala
+
+232
+00:14:04,240 --> 00:14:07,000
+alebo sprostredkovala interakcie medzi nami
+a nimi.
+
+233
+00:14:07,240 --> 00:14:07,460
+Veľmi
+
+234
+00:14:07,500 --> 00:14:10,000
+zaujímavé. A ktorá je tá druhá?
+
+235
+00:14:10,580 --> 00:14:14,240
+Na tá druhá etá presne čo si naznačil, že
+mikroskopické čierné
+
+236
+00:14:14,280 --> 00:14:18,480
+diery. Lho sa rozmýšľalo takým spôsobom,
+
+237
+00:14:20,080 --> 00:14:25,300
+že čierné diery možno vznikly tesne po
+veľkom trezku a
+
+238
+00:14:25,340 --> 00:14:28,120
+oni sa pomalinky vyparujú, tak dosť sa do
+nich
+
+239
+00:14:28,160 --> 00:14:31,000
+neprisípava nová hmota. Takže sa vyparujú,
+
+240
+00:14:31,040 --> 00:14:35,800
+vyparujú, až majú na koniec rozmer
+niekoľkých metrov napríklad
+
+241
+00:14:35,840 --> 00:14:38,820
+a teraz len takto blúdia vesmírom a pomaly
+sa vyparujú ďalej.
+
+242
+00:14:39,920 --> 00:14:41,480
+Ale tú hmotu stále majú?
+
+243
+00:14:41,760 --> 00:14:42,500
+Tú hmotu stále
+
+244
+00:14:42,540 --> 00:14:44,820
+majú. Pomaly sa
+
+245
+00:14:44,860 --> 00:14:50,620
+vyparujú, ale táto hipoteza byla viac
+menej...
+
+246
+00:14:51,400 --> 00:14:54,660
+Nie úplne presvočovala viac menej sa
+považujú za vyvratenú alebo sa urobili
+
+247
+00:14:54,700 --> 00:14:56,020
+také vypočte, že kolko by ich tu
+
+248
+00:14:56,060 --> 00:14:57,320
+malo byť a ako to
+
+249
+00:14:57,360 --> 00:14:58,680
+nesedi.
+
+250
+00:14:59,160 --> 00:15:00,020
+Ale potom sú teórie,
+
+251
+00:15:00,960 --> 00:15:03,400
+ktoré
+
+252
+00:15:03,440 --> 00:15:06,020
+sa snažia nájsť v formuláciu kvantovej
+gravitácie
+
+253
+00:15:06,580 --> 00:15:10,720
+a tie majú taký pomerne všeobecný výsledok,
+že tie čierné diery zamrznú, keď sú
+
+254
+00:15:10,760 --> 00:15:11,060
+veľmi
+
+255
+00:15:11,100 --> 00:15:12,480
+malé. Takže
+
+256
+00:15:12,520 --> 00:15:15,640
+jeden môj odborný článok bol o tom, že čo
+keď je tmavá hmota tvorená
+
+257
+00:15:15,680 --> 00:15:17,960
+takými to zamrznutými čiernými dierami,
+
+258
+00:15:18,420 --> 00:15:23,000
+oni vážia zhruba 100 milióntinu gramu, čiže
+sú pomerne
+
+259
+00:15:23,040 --> 00:15:28,340
+malé. A ak si dobre pamätam, tak v jednom
+kilometrii kubickom vesmíru
+
+260
+00:15:28,380 --> 00:15:30,080
+by mala byť v prímerie jedna.
+
+261
+00:15:30,560 --> 00:15:35,960
+Čiže je to pomerne veľa na to, že vo
+vesmíre je prevážne nič.
+
+262
+00:15:37,900 --> 00:15:38,700
+A tak.
+
+263
+00:15:40,820 --> 00:15:45,000
+Jasne, už som si len spomenul, že tých
+mikroskópických čiernych dier by malo
+
+264
+00:15:45,040 --> 00:15:45,180
+byť,
+
+265
+00:15:45,220 --> 00:15:50,040
+že pár sto viek v kocké s hranou 1000 km a
+nie 1 km.
+
+266
+00:15:50,080 --> 00:15:52,500
+Čiže ovražte meni, ako som povedal.
+
+267
+00:15:52,720 --> 00:15:55,540
+A teraz aký je rozdiel medzi tmavou hmotou
+a tmavou energiou.
+
+268
+00:15:56,480 --> 00:16:01,840
+V podstate v oboch prípadoch vidíme iba ich
+gravitačný
+
+269
+00:16:01,880 --> 00:16:02,680
+efekt.
+
+270
+00:16:03,860 --> 00:16:04,960
+Čo sa ale týka tmavé
+
+271
+00:16:05,000 --> 00:16:07,420
+hmoty, tak to sa sprava ako bežná hmota.
+Čiže
+
+272
+00:16:07,460 --> 00:16:11,000
+priťahuje ostatné obiekty a spomaluje
+rozpinanie vesmíru.
+
+273
+00:16:11,740 --> 00:16:16,980
+Tmavá energia vyzerá byť rozložená
+rovnomerne po celom vesmiere a urýchluje
+
+274
+00:16:17,020 --> 00:16:18,980
+jeho expansiu.
+
+275
+00:16:20,620 --> 00:16:23,280
+Zároveň sa spravajú pri tejto expansi,
+
+276
+00:16:23,380 --> 00:16:28,480
+že keď sa objem vesmíru zdvojnásobí, tak
+koncentrácia
+
+277
+00:16:28,520 --> 00:16:32,920
+tmavej hmoty klesne na polovicu, ale
+koncentrácia tmavej energie zostane
+
+278
+00:16:32,960 --> 00:16:37,000
+konštantná. Vyzerá to byť ako taká energia,
+ktorá neredne, keď sa
+
+279
+00:16:37,040 --> 00:16:40,060
+vesmiera rozpina. Takže taká veľmi zvlášná
+povaha.
+
+280
+00:16:40,540 --> 00:16:43,640
+Taký jeden typ na tmavú energiu by bol, že
+či to nie je energia prázdného
+
+281
+00:16:43,680 --> 00:16:44,200
+priestoru,
+
+282
+00:16:44,240 --> 00:16:49,240
+čiže taký efekt kvantového ublotania, ktorý
+sa v priestore deje, tak keď
+
+283
+00:16:49,280 --> 00:16:51,940
+sa to spočíta, tak to nesiedí o 120 cifier.
+
+284
+00:16:52,360 --> 00:16:55,300
+Takže to vyzerá, že to nie je úplne dobrý
+nápad, ale lepší zatiaľ
+
+285
+00:16:55,340 --> 00:16:58,420
+nemáme. Takže jediný čo máme je strašne zlý
+a lepší nemáme.
+
+286
+00:16:58,540 --> 00:17:01,060
+Takže o tmavej energie nevieme momentálne
+prakticky
+
+287
+00:17:01,100 --> 00:17:05,960
+nič. A pri tmavej hmote máme aspoň pár
+typov, ktoré sa snažíme škrtať.
+
+288
+00:17:06,640 --> 00:17:11,880
+A to sú vlastne, by sme tu tak mohli
+ukončiť, že to je všetko k
+
+289
+00:17:11,920 --> 00:17:14,920
+tmavej hmote. Ja ti veľmi pekne ďakujem,
+Samuel.
+
+290
+00:17:16,380 --> 00:17:20,340
+To je z našej strany všetko. Ak máte nápady
+na zaujímavé temy, napíšte nám na
+
+291
+00:17:20,380 --> 00:17:20,800
+facebook
+
+292
+00:17:20,840 --> 00:17:24,180
+či na naš web vedator .space
+
+293
+00:17:24,220 --> 00:17:29,780
+alebo na facebooku. Tento podcasti viete si
+vtáhnúť na Apple Podcaste,
+
+294
+00:17:30,080 --> 00:17:34,320
+na Spotify a hoci innej služby, ktorá vám
+sprostredkova
+
+295
+00:17:34,360 --> 00:17:35,500
+podcasty. Do počute.
+
+296
+00:17:35,540 --> 00:17:36,780
+Počute.
