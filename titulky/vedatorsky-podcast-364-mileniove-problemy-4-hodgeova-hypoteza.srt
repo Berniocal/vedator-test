@@ -1,0 +1,6232 @@
+1
+00:00:01,309 --> 00:00:03,329
+[hudba]
+
+2
+00:00:08,515 --> 00:00:10,535
+[hudba]
+
+3
+00:00:12,800 --> 00:00:16,900
+>> Od uzlov cez rovnice až po útvary nás
+
+4
+00:00:15,200 --> 00:00:18,900
+obklopuje na každom kroku. Vitajte pri
+
+5
+00:00:16,900 --> 00:00:20,700
+vedeckom podcaste, v ktorom sa budeme
+
+6
+00:00:18,900 --> 00:00:23,500
+rozprávať o vede a prírode okolo nás.
+
+7
+00:00:20,700 --> 00:00:25,300
+Moje meno je Jozef a ja som Samo.
+
+8
+00:00:23,500 --> 00:00:27,700
+Tento podcast vychádza v spolupráci so
+
+9
+00:00:25,300 --> 00:00:29,900
+SME. Samko, vieš na čo je dobrá kyselina
+
+10
+00:00:27,700 --> 00:00:30,600
+hyalurónová? Dúfam, že som to dobre
+
+11
+00:00:29,900 --> 00:00:33,100
+povedal.
+
+12
+00:00:30,600 --> 00:00:34,700
+>> Máris mi, že niečo s pokožkou.
+
+13
+00:00:33,100 --> 00:00:36,680
+>> A koenzým Q10?
+
+14
+00:00:34,700 --> 00:00:37,300
+>> Čo ja viem, nejaká vesmírna loď.
+
+15
+00:00:36,680 --> 00:00:40,000
+>> [smiech]
+
+16
+00:00:37,300 --> 00:00:41,900
+>> A čo takto niacínamid?
+
+17
+00:00:40,000 --> 00:00:43,800
+>> Myslíš niacínamid? Eh
+
+18
+00:00:41,900 --> 00:00:45,800
+>> Áno, niacínamid.
+
+19
+00:00:43,800 --> 00:00:47,200
+>> Tiež som to prečítal, ale znie to dosť
+
+20
+00:00:45,800 --> 00:00:48,800
+vymyslene, nie?
+
+21
+00:00:47,200 --> 00:00:49,700
+>> No a nebolo by super sa konečne v tom
+
+22
+00:00:48,800 --> 00:00:52,400
+zorientovať?
+
+23
+00:00:49,700 --> 00:00:54,200
+>> Bolo, ale úprimne eh pri malom dieťati
+
+24
+00:00:52,400 --> 00:00:56,200
+na to nemám úplne kapacitu.
+
+25
+00:00:54,200 --> 00:00:58,300
+>> No a presne preto je tu Lucilab,
+
+26
+00:00:56,200 --> 00:01:00,800
+slovenská kozmetika, ktorú možno poznáš
+
+27
+00:00:58,300 --> 00:01:03,600
+pod názvom Dulcia natural, dokonca z
+
+28
+00:01:00,800 --> 00:01:06,500
+Rače a od 20. októbra prichádzajú s
+
+29
+00:01:03,600 --> 00:01:07,800
+novým menom a úplne novým prístupom k
+
+30
+00:01:06,500 --> 00:01:09,900
+starostlivosti o pleť.
+
+31
+00:01:07,800 --> 00:01:11,700
+>> Áno, áno, poznám. Parkrát som tam bol a
+
+32
+00:01:09,900 --> 00:01:13,900
+na tomto je teraz niečo špeciálne?
+
+33
+00:01:11,700 --> 00:01:15,800
+>> No pomôžu ti zistiť, čo tvoja pleť
+
+34
+00:01:13,900 --> 00:01:18,100
+naozaj potrebuje. Majú hotové kvalitné
+
+35
+00:01:15,800 --> 00:01:20,000
+produkty, odborné poradenstvo a pri
+
+36
+00:01:18,100 --> 00:01:22,400
+vybraných produktoch, čo som ešte
+
+37
+00:01:20,000 --> 00:01:24,800
+nezažil, aj možnosť personalizácie.
+
+38
+00:01:22,400 --> 00:01:26,800
+>> Čiže niečo pre aj ľudí ako som ja, čo o
+
+39
+00:01:24,800 --> 00:01:28,800
+kozmetike nevedia vôbec nič.
+
+40
+00:01:26,800 --> 00:01:31,000
+>> Presne tak. Či si úplný amatér alebo
+
+41
+00:01:28,800 --> 00:01:31,900
+kozmetický profík, chceš predsa dobre
+
+42
+00:01:31,000 --> 00:01:33,666
+vyzerať, nie?
+
+43
+00:01:31,900 --> 00:01:34,200
+>> Akože áno, nezaškodí to.
+
+44
+00:01:33,666 --> 00:01:36,800
+>> [smiech]
+
+45
+00:01:34,200 --> 00:01:38,500
+>> Áno, už keď robíme aj video podcast, tak
+
+46
+00:01:36,800 --> 00:01:40,400
+nezaškodí to.
+
+47
+00:01:38,500 --> 00:01:43,200
+Tak so všetkým týmto ti vedia pomôcť.
+
+48
+00:01:40,400 --> 00:01:44,600
+Stačí, keď pôjdeš na lucilab.sk, pozri
+
+49
+00:01:43,200 --> 00:01:45,400
+sa, čo všetko pre teba majú.
+
+50
+00:01:44,600 --> 00:01:46,800
+>> Pozriem.
+
+51
+00:01:45,400 --> 00:01:48,800
+>> Dobre, super.
+
+52
+00:01:46,800 --> 00:01:51,200
+A ešte niečo, pri prvej objednávke na
+
+53
+00:01:48,800 --> 00:01:52,400
+lucilab.sk dostaneš ako darček
+
+54
+00:01:51,200 --> 00:01:53,700
+kolagénové sérum.
+
+55
+00:01:52,400 --> 00:01:56,000
+>> To je napriek tomu, že stále neviem
+
+56
+00:01:53,700 --> 00:01:57,800
+správne prečítať niacínamid.
+
+57
+00:01:56,000 --> 00:02:01,392
+>> Ani ja ho stále neviem
+
+58
+00:01:57,800 --> 00:02:03,692
+prečítať, ale pri objednávke ťa nebudú.
+
+59
+00:02:01,392 --> 00:02:06,692
+A ešte dobrá správa. Počas Black Friday
+
+60
+00:02:03,692 --> 00:02:08,192
+majú v Lucylabu zľavu 25 % na všetky
+
+61
+00:02:06,692 --> 00:02:09,992
+produkty.
+
+62
+00:02:08,192 --> 00:02:11,892
+>> OK, toto si idem otvoriť hneď v novom
+
+63
+00:02:09,992 --> 00:02:14,992
+okne.
+
+64
+00:02:11,892 --> 00:02:18,092
+Samko, eh ty si zvládol veľmi
+
+65
+00:02:14,992 --> 00:02:20,092
+manipulačný úkon eh teraz večer, dať
+
+66
+00:02:18,092 --> 00:02:21,992
+svoju malú dcéru spať.
+
+67
+00:02:20,092 --> 00:02:24,101
+Eh gratulujem a môžeme nahrávať vďaka
+
+68
+00:02:21,992 --> 00:02:25,192
+tomu, takže Matylda, ďakujeme.
+
+69
+00:02:24,101 --> 00:02:27,292
+[smiech]
+
+70
+00:02:25,192 --> 00:02:29,192
+Eh ako sa máš inak?
+
+71
+00:02:27,292 --> 00:02:30,792
+>> Dobre, dobre. Akurát už vidím, ako sa
+
+72
+00:02:29,192 --> 00:02:32,692
+prehadzuje, ale vidím, že stále spí,
+
+73
+00:02:30,792 --> 00:02:33,892
+takže [smiech] občas budem možno eh
+
+74
+00:02:32,692 --> 00:02:35,891
+odbiehať, aj keď bude treba
+
+75
+00:02:33,892 --> 00:02:36,392
+>> bude aj nasekaný podcast.
+
+76
+00:02:35,891 --> 00:02:39,592
+>> [lapanie po dychu]
+
+77
+00:02:36,392 --> 00:02:41,692
+>> Eh mám sa dobre. Eh
+
+78
+00:02:39,592 --> 00:02:43,692
+robím rôzne výskumné veci, kde teraz som
+
+79
+00:02:41,692 --> 00:02:44,992
+v takom štádiu, že už je to takmer
+
+80
+00:02:43,692 --> 00:02:46,492
+hotové,
+
+81
+00:02:44,992 --> 00:02:47,892
+ale nie je to ešte úplne hotové a
+
+82
+00:02:46,492 --> 00:02:49,992
+strašne by som potreboval si na to na
+
+83
+00:02:47,892 --> 00:02:51,992
+dva dni sadnúť a mať kľud eh a milión
+
+84
+00:02:49,992 --> 00:02:53,792
+iných vecí sa deje a dialo.
+
+85
+00:02:51,992 --> 00:02:55,192
+Takže som z toho taký, ale zase na na čo
+
+86
+00:02:53,792 --> 00:02:57,192
+som sa užívať
+
+87
+00:02:55,192 --> 00:02:58,892
+mať tento stav nedrobenej práce, lebo to
+
+88
+00:02:57,192 --> 00:03:01,192
+znamená, že
+
+89
+00:02:58,892 --> 00:03:02,792
+vieš, nad čo si sadneš ďalší deň a môžeš
+
+90
+00:03:01,192 --> 00:03:04,692
+to doroobiť.
+
+91
+00:03:02,792 --> 00:03:06,892
+>> Uhm.
+
+92
+00:03:04,692 --> 00:03:09,992
+>> Takže a čo ty?
+
+93
+00:03:06,892 --> 00:03:12,092
+>> Ja som tak nejako pracovne eh vyťažený a
+
+94
+00:03:09,992 --> 00:03:13,992
+toto počasie ma troška začína zase dávať
+
+95
+00:03:12,092 --> 00:03:14,892
+dole, ale
+
+96
+00:03:13,992 --> 00:03:16,502
+dá sa to.
+
+97
+00:03:14,892 --> 00:03:17,092
+>> to Nicole volá.
+
+98
+00:03:16,502 --> 00:03:20,292
+[lapanie po dychu]
+
+99
+00:03:17,092 --> 00:03:21,992
+Je inak veľmi trefne to
+
+100
+00:03:20,292 --> 00:03:24,192
+Jaj, a zabudol som povedať, mal si
+
+101
+00:03:21,992 --> 00:03:26,792
+úžasný krst knižky
+
+102
+00:03:24,192 --> 00:03:29,192
+eh Vesmírna kolíska.
+
+103
+00:03:26,792 --> 00:03:30,492
+Páčilo sa mi, ako to dopadlo na to, že
+
+104
+00:03:29,192 --> 00:03:32,892
+to bolo, nechcem povedať, že od
+
+105
+00:03:30,492 --> 00:03:34,292
+improvizované, ale ja sa snažím tieto
+
+106
+00:03:32,892 --> 00:03:35,892
+veci robiť tak, aby to bolo skoro ako
+
+107
+00:03:34,292 --> 00:03:37,092
+také kamarátske stretnutie, než ako
+
+108
+00:03:35,892 --> 00:03:39,192
+nejaká
+
+109
+00:03:37,092 --> 00:03:41,192
+profis organizovaná akcia a vždy ma to
+
+110
+00:03:39,192 --> 00:03:43,692
+poteší, že kopa ľudí tam dôjde a
+
+111
+00:03:41,192 --> 00:03:45,292
+pokecáme aspoň trošku.
+
+112
+00:03:43,692 --> 00:03:47,692
+>> Vieš čo, začíname sa tam už tak
+
+113
+00:03:45,292 --> 00:03:48,292
+stretávať tak stále stále cez, že proste
+
+114
+00:03:47,692 --> 00:03:49,892
+že eh
+
+115
+00:03:48,292 --> 00:03:51,592
+>> plno kopa ľudí tam také, hej, že každý
+
+116
+00:03:49,892 --> 00:03:54,292
+tam niekoho pozná a strašne sa mi to
+
+117
+00:03:51,592 --> 00:03:55,792
+ľúbi, keď ľudia proste pokecajú a
+
+118
+00:03:54,292 --> 00:03:56,092
+>> a tak. [lapanie po dychu]
+
+119
+00:03:55,792 --> 00:03:57,992
+>> Hej.
+
+120
+00:03:56,092 --> 00:04:00,092
+>> A pozdravujem Zuzku Hanzelovú a tvoju
+
+121
+00:03:57,992 --> 00:04:02,594
+pani manželku Nicole, eh ktorá bola
+
+122
+00:04:00,092 --> 00:04:03,492
+krstná mama eh a povedala takú peknú
+
+123
+00:04:02,594 --> 00:04:06,194
+vec, že
+
+124
+00:04:03,492 --> 00:04:07,694
+eh vďaka tebe je mama a teraz je už aj
+
+125
+00:04:06,194 --> 00:04:09,094
+krstná mama, takže tak, tak.
+
+126
+00:04:07,694 --> 00:04:11,094
+>> No, tak.
+
+127
+00:04:09,094 --> 00:04:13,194
+>> Taká pekná vec. Takže môžete všetci
+
+128
+00:04:11,094 --> 00:04:15,594
+ľutovať, kto tam nebol, ale aby ste
+
+129
+00:04:13,194 --> 00:04:17,594
+neľutovali úplne, môžete si zakúpiť
+
+130
+00:04:15,594 --> 00:04:20,094
+Samkovú knižku. Je to úplná perfektná
+
+131
+00:04:17,594 --> 00:04:21,094
+veľkosť. Ja ju tu nemám, ani Samko ju
+
+132
+00:04:20,094 --> 00:04:23,894
+tam nemá, ty kokso.
+
+133
+00:04:21,094 --> 00:04:26,294
+>> Nikolas si ju zobrala do spálne, takže
+
+134
+00:04:23,894 --> 00:04:27,694
+sme sa nejako, no tak lepšiu recenziu
+
+135
+00:04:26,294 --> 00:04:30,518
+nebudete mať,
+
+136
+00:04:27,694 --> 00:04:31,494
+vlastná žena číta jeho knihy, tak
+
+137
+00:04:30,518 --> 00:04:33,294
+[smiech][odkašľanie]
+
+138
+00:04:31,494 --> 00:04:35,694
+tak to je super.
+
+139
+00:04:33,294 --> 00:04:37,194
+Dobre, tak dneska sa rozprávame o ďalšom
+
+140
+00:04:35,694 --> 00:04:40,094
+miléniovom
+
+141
+00:04:37,194 --> 00:04:41,594
+probléme. Hočova hypotéza, je to jeden z
+
+142
+00:04:40,094 --> 00:04:42,794
+tých problémov, čo si povedal, že sa ti
+
+143
+00:04:41,594 --> 00:04:45,394
+nechce vysvetľovať?
+
+144
+00:04:42,794 --> 00:04:48,794
+>> To je je prísam že najhorší.
+
+145
+00:04:45,394 --> 00:04:50,694
+Fricovala Fricovala, ktorý je
+
+146
+00:04:48,794 --> 00:04:52,794
+odchovanec Matfyzú, ktorý robí takú
+
+147
+00:04:50,694 --> 00:04:54,894
+pomerne vysokú matematiku.
+
+148
+00:04:52,794 --> 00:04:57,594
+Nám o tom rozpísal článok a ten článok
+
+149
+00:04:54,894 --> 00:04:59,594
+tam niekde spomína, že
+
+150
+00:04:57,594 --> 00:05:02,594
+často sa nehovorí, že ide o jeden z
+
+151
+00:04:59,594 --> 00:05:04,894
+najťažších problémov na vysvetlenie.
+
+152
+00:05:02,594 --> 00:05:06,294
+Takže je to je to úplne, že masaker, ale
+
+153
+00:05:04,894 --> 00:05:09,594
+povedali sme si, že prejdeme cez všetky
+
+154
+00:05:06,294 --> 00:05:12,094
+miléniové problémy a
+
+155
+00:05:09,594 --> 00:05:14,194
+mal som taký mood, že poďme poďme
+
+156
+00:05:12,094 --> 00:05:15,994
+strhnúť túto náplasť, poďme si to
+
+157
+00:05:14,194 --> 00:05:17,678
+vytrpieť všetci kolektívne spolu s
+
+158
+00:05:15,994 --> 00:05:19,094
+našimi poslucháčmi
+
+159
+00:05:17,678 --> 00:05:21,094
+[smrkanie]
+
+160
+00:05:19,094 --> 00:05:22,494
+a pôjdeme na ostatné. A jedna je ináč,
+
+161
+00:05:21,094 --> 00:05:24,294
+že jedna z tých motivácií, prečo toto
+
+162
+00:05:22,494 --> 00:05:27,394
+robiť, keď si spomínaš, mali sme epizódu
+
+163
+00:05:24,294 --> 00:05:28,894
+o Navier-Stokesových rovniciach, lebo
+
+164
+00:05:27,394 --> 00:05:30,894
+vyhlásili, že
+
+165
+00:05:28,894 --> 00:05:32,494
+to vyriešili. Potom sa na to vrhli
+
+166
+00:05:30,894 --> 00:05:35,194
+experti a zistili, že to nie je úplne
+
+167
+00:05:32,494 --> 00:05:37,694
+vodotesné, že sú tam nejaké
+
+168
+00:05:35,194 --> 00:05:40,294
+že to, čo je dokázané, je trochu iné ako
+
+169
+00:05:37,694 --> 00:05:42,294
+to, čo je tvrdené, že je dokázané. Takže
+
+170
+00:05:40,294 --> 00:05:43,694
+je to zaujímavé, ale teraz sa zisťuje,
+
+171
+00:05:42,294 --> 00:05:45,394
+že či už je to vlastne na uznanie toho
+
+172
+00:05:43,694 --> 00:05:47,594
+výsledku alebo nie
+
+173
+00:05:45,394 --> 00:05:49,694
+a potom sa šepkalo, že sa podarilo
+
+174
+00:05:47,594 --> 00:05:51,594
+vyriešiť ďalšiu.
+
+175
+00:05:49,694 --> 00:05:54,294
+A šepkalo sa, že to je táto Hočova
+
+176
+00:05:51,594 --> 00:05:56,194
+hypotéza, o ktorej, keď sme vtedy tak
+
+177
+00:05:54,294 --> 00:05:57,594
+triedili tie problémy, tak sme mu dali
+
+178
+00:05:56,194 --> 00:05:58,894
+do takého chlievika, že to je tá
+
+179
+00:05:57,594 --> 00:06:00,994
+najťažšia z nich alebo jedna z tých
+
+180
+00:05:58,894 --> 00:06:02,794
+najťažších.
+
+181
+00:06:00,994 --> 00:06:04,294
+A potom sa ukázalo, že vyhlásili, že tri
+
+182
+00:06:02,794 --> 00:06:05,795
+iné vyriešili.
+
+183
+00:06:04,294 --> 00:06:07,295
+A nie že vyriešili, ale že urobili v
+
+184
+00:06:05,795 --> 00:06:08,769
+nich významný progres. To je presnejšie
+
+185
+00:06:07,295 --> 00:06:09,495
+povedané.
+
+186
+00:06:08,769 --> 00:06:11,195
+[lapanie po dychu]
+
+187
+00:06:09,495 --> 00:06:13,295
+Jedna z nich je tá fyzikálna o
+
+188
+00:06:11,195 --> 00:06:15,295
+existencii vôbec fyzikálných rovníc,
+
+189
+00:06:13,295 --> 00:06:18,095
+ktoré opisujú časticovú fyziku.
+
+190
+00:06:15,295 --> 00:06:20,295
+Druhá je tá informatická o P sa rovná NP
+
+191
+00:06:18,095 --> 00:06:21,895
+probléme, ktorý okrem iného tak trošku
+
+192
+00:06:20,295 --> 00:06:23,595
+súvisí aj so šifrovaním, takže to ľudí
+
+193
+00:06:21,895 --> 00:06:24,895
+extrémne láka.
+
+194
+00:06:23,595 --> 00:06:27,695
+A tretí som zabudol, čo bol.
+
+195
+00:06:24,895 --> 00:06:29,395
+>> kvôli uplatneniu nie a asi
+
+196
+00:06:27,695 --> 00:06:31,895
+>> Hej. Oni ináč potom mali také
+
+197
+00:06:29,395 --> 00:06:33,395
+>> tu sme rozoberali už niekoľkokrát možno
+
+198
+00:06:31,895 --> 00:06:35,995
+o tom môžeme spraviť aj dedikovanú
+
+199
+00:06:33,395 --> 00:06:36,695
+epizódu eh šifrovania a celkovo, že ako
+
+200
+00:06:35,995 --> 00:06:38,795
+to funguje a
+
+201
+00:06:36,695 --> 00:06:41,295
+>> a ešte k Riemannovej hypotéze urobili
+
+202
+00:06:38,795 --> 00:06:43,295
+progres. Dokázali nejakú zjednodušenú
+
+203
+00:06:41,295 --> 00:06:44,795
+verziu. A to je tiež celkom zaujímavé. O
+
+204
+00:06:43,295 --> 00:06:46,795
+tom máme aj epizódu podcastu, ak sa
+
+205
+00:06:44,795 --> 00:06:48,495
+nemýlim. To sme tuším tým otvorili tieto
+
+206
+00:06:46,795 --> 00:06:50,495
+miléniové problémy.
+
+207
+00:06:48,495 --> 00:06:51,695
+A
+
+208
+00:06:50,495 --> 00:06:52,995
+a je to zaujímavé, že sa to hýbe
+
+209
+00:06:51,695 --> 00:06:56,695
+dopredu, takže sa nakoniec ukázalo, že
+
+210
+00:06:52,995 --> 00:06:57,895
+tá Hodgeova hypotéza nie je tá, ktorú
+
+211
+00:06:56,695 --> 00:07:00,195
+s ktorou pohli.
+
+212
+00:06:57,895 --> 00:07:01,995
+Eh takže takže len to tak zhrniem, že už
+
+213
+00:07:00,195 --> 00:07:04,195
+sme mali tú Riemannovu hypotézu, už sme
+
+214
+00:07:01,995 --> 00:07:05,895
+mali Navier-Stokesove rovnice a trošku
+
+215
+00:07:04,195 --> 00:07:09,295
+sme sa vytrápili, ale zvládli sme, ak sa
+
+216
+00:07:05,895 --> 00:07:11,595
+nemýlim, aj Birkh a Schwinnerton-Dyerovu
+
+217
+00:07:09,295 --> 00:07:13,395
+hypotézu.
+
+218
+00:07:11,595 --> 00:07:15,595
+>> Inak ja ťa obdivujem, že [smiech] tieto
+
+219
+00:07:13,395 --> 00:07:18,695
+mená takto struháš ako že cool.
+
+220
+00:07:15,595 --> 00:07:21,295
+>> No však či či tam teraz z poznámok a
+
+221
+00:07:18,695 --> 00:07:22,995
+>> Ja viem, ale ako že aj tak že super.
+
+222
+00:07:21,295 --> 00:07:25,395
+>> A keď a to teraz len dávam motiváciu, že
+
+223
+00:07:22,995 --> 00:07:27,495
+keď si vytrpíme túto Hodgeovu hypotézu,
+
+224
+00:07:25,395 --> 00:07:30,795
+tak nám zostanú už len tie pekné eh tá
+
+225
+00:07:27,495 --> 00:07:32,795
+fyzikálna o časticovej fyzike a P sa
+
+226
+00:07:30,795 --> 00:07:34,495
+rovná NP
+
+227
+00:07:32,795 --> 00:07:36,495
+alebo P versus NP problém. To je tá
+
+228
+00:07:34,495 --> 00:07:38,395
+informatická. A potom tá Poincaré
+
+229
+00:07:36,495 --> 00:07:40,595
+hypotéza, ktorá už je vyriešená. To je
+
+230
+00:07:38,395 --> 00:07:41,795
+jediná tá tú si môžeme môžeme nechať na
+
+231
+00:07:40,595 --> 00:07:43,795
+záver.
+
+232
+00:07:41,795 --> 00:07:45,295
+To je zatiaľ človekom jediná vyriešená.
+
+233
+00:07:43,795 --> 00:07:45,895
+A na Wikipédii už majú aktualizovaný
+
+234
+00:07:45,295 --> 00:07:47,895
+zoznam tých
+
+235
+00:07:45,895 --> 00:07:50,695
+>> vlastne ten Rus vyriešil vyriešenie.
+
+236
+00:07:47,895 --> 00:07:52,795
+>> áno, áno a neprezval si cenu.
+
+237
+00:07:50,695 --> 00:07:55,595
+On povedal, že nie je opička, aby chodil
+
+238
+00:07:52,795 --> 00:07:56,095
+sa takto handrkovať pred ľudí.
+
+239
+00:07:55,595 --> 00:07:58,095
+Perelman.
+
+240
+00:07:56,095 --> 00:08:00,195
+>> Hej, a odišiel zase na Sibír bývať s
+
+241
+00:07:58,095 --> 00:08:01,595
+mamou do nejakej [smiech]
+
+242
+00:08:00,195 --> 00:08:03,995
+nejakej chatrčky alebo čo.
+
+243
+00:08:01,595 --> 00:08:05,360
+>> Ale ako že musí mu dať maštyl, ako že to
+
+244
+00:08:03,995 --> 00:08:05,495
+>> áno, áno.
+
+245
+00:08:05,360 --> 00:08:07,397
+>> [smrkanie]
+
+246
+00:08:05,495 --> 00:08:09,290
+>> veľkú auru.
+
+247
+00:08:07,397 --> 00:08:10,697
+Eh
+
+248
+00:08:09,290 --> 00:08:11,797
+>> [smiech][lapanie po dychu]
+
+249
+00:08:10,697 --> 00:08:15,097
+>> To je v poriadku.
+
+250
+00:08:11,797 --> 00:08:15,997
+>> Jo. Čiže eh poďme na túto eh
+
+251
+00:08:15,097 --> 00:08:17,697
+>> Uhm.
+
+252
+00:08:15,997 --> 00:08:20,197
+>> Diváci a poslucháči
+
+253
+00:08:17,697 --> 00:08:22,697
+>> Čo je čo je znenie tej hypotézy? Dá sa
+
+254
+00:08:20,197 --> 00:08:23,497
+nejako skrátiť, že povieme si, že toto
+
+255
+00:08:22,697 --> 00:08:24,697
+je tá
+
+256
+00:08:23,497 --> 00:08:26,797
+>> Áno.
+
+257
+00:08:24,697 --> 00:08:28,997
+>> Lebo napríklad tie navrstvované rovnice
+
+258
+00:08:26,797 --> 00:08:32,297
+si veľmi jednoducho vysvetlil, že ide o
+
+259
+00:08:28,997 --> 00:08:35,297
+prúdenie kvapalín a plynov eh proste a
+
+260
+00:08:32,297 --> 00:08:37,197
+výpočty s týmto spojené, nie?
+
+261
+00:08:35,297 --> 00:08:38,497
+>> Eh tak ja ti poviem, že zjednodušenú
+
+262
+00:08:37,197 --> 00:08:38,897
+verziu.
+
+263
+00:08:38,497 --> 00:08:40,397
+>> Uhm.
+
+264
+00:08:38,897 --> 00:08:41,997
+>> Hodgeova domnienka hovorí, že na
+
+265
+00:08:40,397 --> 00:08:43,897
+priestoroch zadaných polynomiálnymi
+
+266
+00:08:41,997 --> 00:08:45,797
+rovnicami sa dá z topológie rozoznať,
+
+267
+00:08:43,897 --> 00:08:47,936
+ktoré cykly pochádzajú z algebraickej
+
+268
+00:08:45,797 --> 00:08:48,897
+geometrie.
+
+269
+00:08:47,936 --> 00:08:50,997
+>> [lapanie po dychu][vzdychanie]
+
+270
+00:08:48,897 --> 00:08:53,097
+>> Rozumel som pár slov, ale [smiech] nie
+
+271
+00:08:50,997 --> 00:08:55,197
+všetkému dokopy.
+
+272
+00:08:53,097 --> 00:08:56,897
+>> A toto je toto je tá zjednodušená
+
+273
+00:08:55,197 --> 00:08:58,897
+verzia, ktorá si odpustila také slová
+
+274
+00:08:56,897 --> 00:09:01,097
+ako nesingulárne komplexné projektívne
+
+275
+00:08:58,897 --> 00:09:03,797
+variety [smiech]
+
+276
+00:09:01,097 --> 00:09:05,697
+eh ktorý sa to týka. Takže
+
+277
+00:09:03,797 --> 00:09:07,397
+toto na chvíľku necháme bokom. Zametieme
+
+278
+00:09:05,697 --> 00:09:09,097
+pod koberec, tvárime sa, že to nikdy
+
+279
+00:09:07,397 --> 00:09:10,397
+nezaznelo a chvíľku sa budeme rozprávať
+
+280
+00:09:09,097 --> 00:09:12,997
+o niečom inom a potom sa k tomuto
+
+281
+00:09:10,397 --> 00:09:15,497
+vrátime a a budeme tomuto tvrdeniu
+
+282
+00:09:12,997 --> 00:09:17,597
+rozumieť trochu lepšie.
+
+283
+00:09:15,497 --> 00:09:19,297
+Ja mám na teba otázku.
+
+284
+00:09:17,597 --> 00:09:22,397
+Čo je podľa teba matematika? Ako by si
+
+285
+00:09:19,297 --> 00:09:22,397
+definoval matematiku?
+
+286
+00:09:23,297 --> 00:09:28,097
+>> Fúha, tak to si ma teraz dostal.
+
+287
+00:09:24,497 --> 00:09:30,697
+Matematika a spoznávanie vesmíru okolo
+
+288
+00:09:28,097 --> 00:09:32,497
+nás vďaka
+
+289
+00:09:30,697 --> 00:09:34,697
+nejakým matematickým princípom, ktoré
+
+290
+00:09:32,497 --> 00:09:36,097
+sme si zadefinovali?
+
+291
+00:09:34,697 --> 00:09:37,797
+>> To už by som povedal, že to, že fyzika.
+
+292
+00:09:36,097 --> 00:09:38,997
+Keďže keď už skúmaš vesmír pomocou
+
+293
+00:09:37,797 --> 00:09:40,197
+matematiky, to už by som povedal, že je
+
+294
+00:09:38,997 --> 00:09:42,797
+fyzika.
+
+295
+00:09:40,197 --> 00:09:44,997
+>> Ale nie fyzika len nadstavbou matematiky
+
+296
+00:09:42,797 --> 00:09:47,097
+v tom, že tie úplne teoretické veci sa
+
+297
+00:09:44,997 --> 00:09:49,897
+>> uhol pohľadu. Áno, áno, áno, že fyzika
+
+298
+00:09:47,097 --> 00:09:51,197
+je vlastne nejaká podmnožina matematiky.
+
+299
+00:09:49,897 --> 00:09:52,897
+Eh
+
+300
+00:09:51,197 --> 00:09:54,497
+>> Ako lebo zamýšľam sa nad tým, že keď
+
+301
+00:09:52,897 --> 00:09:57,597
+neexistovala mate lebo že z čoho
+
+302
+00:09:54,497 --> 00:09:59,097
+vychádza všetko a asi zo všetky vedné
+
+303
+00:09:57,597 --> 00:10:00,597
+disciplíny vychádzajú nejako z
+
+304
+00:09:59,097 --> 00:10:02,897
+matematiky.
+
+305
+00:10:00,597 --> 00:10:05,497
+Eh lebo ja to beriem tak, že
+
+306
+00:10:02,897 --> 00:10:08,897
+z matematiky vychádza fyzika, z fyziky
+
+307
+00:10:05,497 --> 00:10:11,698
+vychádza chémia, z chémie vychádza za
+
+308
+00:10:08,897 --> 00:10:14,098
+a tak to to postupne.
+
+309
+00:10:11,698 --> 00:10:14,498
+Ale asi je to aj zlý pohľad, ako neviem,
+
+310
+00:10:14,098 --> 00:10:16,298
+ale
+
+311
+00:10:14,498 --> 00:10:17,698
+>> To to toto v nejakom pohľade platí. Ja
+
+312
+00:10:16,298 --> 00:10:19,098
+by som možno mal výhradu voči tej tvojej
+
+313
+00:10:17,698 --> 00:10:21,798
+definícii, že matematika dokáže
+
+314
+00:10:19,098 --> 00:10:25,298
+popisovať aj veci mimo nášho vesmíru. Že
+
+315
+00:10:21,798 --> 00:10:26,598
+že hypoteticky iné vesmíry a iné
+
+316
+00:10:25,298 --> 00:10:27,598
+>> iné pravidlá, ktoré možno
+
+317
+00:10:26,598 --> 00:10:28,198
+>> úplne dostal.
+
+318
+00:10:27,598 --> 00:10:31,198
+>> Hej.
+
+319
+00:10:28,198 --> 00:10:33,998
+>> uh matematika je
+
+320
+00:10:31,198 --> 00:10:35,598
+sústava premýšľania nad vecami?
+
+321
+00:10:33,998 --> 00:10:39,098
+By som potom možno povedal.
+
+322
+00:10:35,598 --> 00:10:40,298
+To je To je celkom dobrá definícia. Uh
+
+323
+00:10:39,098 --> 00:10:42,598
+Ja ja ja neviem, že
+
+324
+00:10:40,298 --> 00:10:45,598
+>> áno, máš pravdu, veď iné dimenzie a tak
+
+325
+00:10:42,598 --> 00:10:47,398
+ďalej si tam definuješ viacrozmerné a
+
+326
+00:10:45,598 --> 00:10:48,998
+tak ďalej priestory, takže to Hej, to
+
+327
+00:10:47,398 --> 00:10:50,898
+máš pravdu, že nie je to len o našom
+
+328
+00:10:48,998 --> 00:10:52,598
+vesmíre.
+
+329
+00:10:50,898 --> 00:10:54,798
+>> Skúsim dať do Googlu Žaké definícia,
+
+330
+00:10:52,598 --> 00:10:56,598
+lebo podľa mňa, že neexistuje úplne Toto
+
+331
+00:10:54,798 --> 00:10:58,498
+je taká tá vec, že každý pod tým niečo
+
+332
+00:10:56,598 --> 00:10:59,398
+rozumie a
+
+333
+00:10:58,498 --> 00:11:01,698
+keď to máš
+
+334
+00:10:59,398 --> 00:11:04,198
+>> Hej hej, to mi máme v práve, čo je to
+
+335
+00:11:01,698 --> 00:11:04,698
+právo a každý, že veď to je úplne iná v
+
+336
+00:11:04,198 --> 00:11:06,698
+podstate
+
+337
+00:11:04,698 --> 00:11:08,198
+>> každý tomu rozumie, ale keď keď to máš
+
+338
+00:11:06,698 --> 00:11:09,598
+presne zadefinovať, tak nenájdeš
+
+339
+00:11:08,198 --> 00:11:10,598
+definíciu, ktorá by úplne presne na to
+
+340
+00:11:09,598 --> 00:11:12,598
+sedela.
+
+341
+00:11:10,598 --> 00:11:15,298
+Etymologicky to je z gréckeho slova
+
+342
+00:11:12,598 --> 00:11:16,998
+matematike, čo vlastne znamená
+
+343
+00:11:15,298 --> 00:11:19,698
+uh
+
+344
+00:11:16,998 --> 00:11:21,598
+vedieť alebo byť pripravený vedieť. A to
+
+345
+00:11:19,698 --> 00:11:23,398
+sa mi celkom páči, že to ti vlastne dáva
+
+346
+00:11:21,598 --> 00:11:25,698
+taký ten abstrakt, na ktorý potom presne
+
+347
+00:11:23,398 --> 00:11:28,898
+vieš natiahnuť tú fyziku, tú biológiu,
+
+348
+00:11:25,698 --> 00:11:28,898
+tú chémiu a tak ďalej.
+
+349
+00:11:29,498 --> 00:11:33,598
+Často si ľudia pod matematikou
+
+350
+00:11:31,798 --> 00:11:35,498
+predstavujú prácu s číslami a to je
+
+351
+00:11:33,598 --> 00:11:37,898
+úplne strašná definícia, lebo zistíš, že
+
+352
+00:11:35,498 --> 00:11:39,898
+keď robíš naozaj matematický výskum, tak
+
+353
+00:11:37,898 --> 00:11:41,698
+čísla nenájdeš nikde. Dokonca keď robíš
+
+354
+00:11:39,898 --> 00:11:44,198
+niečo, čo sa volá teória čísiel, tak
+
+355
+00:11:41,698 --> 00:11:45,898
+typické čísla nevidíš.
+
+356
+00:11:44,198 --> 00:11:48,298
+>> Inak to je veľmi Hej, to je dosť
+
+357
+00:11:45,898 --> 00:11:50,298
+>> Typicky vidíš čísla, že nula nula, jedna
+
+358
+00:11:48,298 --> 00:11:52,698
+a dva. A keď vidíš iné číslo, tak to
+
+359
+00:11:50,298 --> 00:11:54,698
+znamená, že si niekde spravil chybu.
+
+360
+00:11:52,698 --> 00:11:56,698
+>> To sa aj na strednej hovorí, nie, že
+
+361
+00:11:54,698 --> 00:11:59,498
+buďte radi, že ešte máte matematiku s
+
+362
+00:11:56,698 --> 00:12:01,298
+číslami, lebo dôjde tretí alebo štvrtý
+
+363
+00:11:59,498 --> 00:12:03,598
+ročník, keď už tu nebude matematika s
+
+364
+00:12:01,298 --> 00:12:06,998
+číslami.
+
+365
+00:12:03,598 --> 00:12:09,298
+>> Ja by som matematiku opísal ako nejakú
+
+366
+00:12:06,998 --> 00:12:11,698
+disciplínu,
+
+367
+00:12:09,298 --> 00:12:14,099
+kde zo základných pravidiel rigoróznym
+
+368
+00:12:11,698 --> 00:12:15,699
+spôsobom vyvodzuješ nové pravidlá.
+
+369
+00:12:14,099 --> 00:12:17,199
+Že máš nejaké axiómy a spájaš ich
+
+370
+00:12:15,699 --> 00:12:17,999
+dokopy.
+
+371
+00:12:17,199 --> 00:12:20,599
+>> Uhm.
+
+372
+00:12:17,999 --> 00:12:23,099
+>> A keď uznáš, že je to z nejakého dôvodu
+
+373
+00:12:20,599 --> 00:12:24,599
+zaujímavé, tak sa tomu venuješ a keď na
+
+374
+00:12:23,099 --> 00:12:26,299
+to natiahneš veľa ľudí, tak sa to stane
+
+375
+00:12:24,599 --> 00:12:27,999
+súčasťou matematiky.
+
+376
+00:12:26,299 --> 00:12:29,599
+A bodka.
+
+377
+00:12:27,999 --> 00:12:29,999
+Matematici si v istom bode povedali, že
+
+378
+00:12:29,599 --> 00:12:31,399
+ideme
+
+379
+00:12:29,999 --> 00:12:33,099
+>> to dáva zmysel, hej.
+
+380
+00:12:31,399 --> 00:12:37,299
+>> Áno, ale že matematici si v istom bode
+
+381
+00:12:33,099 --> 00:12:39,099
+povedali, že ideme skúmať teóriu uzlov.
+
+382
+00:12:37,299 --> 00:12:41,199
+A zrazu sa z toho stala matematická
+
+383
+00:12:39,099 --> 00:12:43,599
+disciplína.
+
+384
+00:12:41,199 --> 00:12:46,099
+Povieš tam nejaké základné pravidlá.
+
+385
+00:12:43,599 --> 00:12:48,499
+>> z počítačovej vedy, nie? Stala vlastne
+
+386
+00:12:46,099 --> 00:12:49,199
+to bola nejaká subkategória matematiky a
+
+387
+00:12:48,499 --> 00:12:50,799
+>> presne.
+
+388
+00:12:49,199 --> 00:12:52,699
+>> Uhm.
+
+389
+00:12:50,799 --> 00:12:55,099
+>> Čiže vlastne celou podstatou matematiky
+
+390
+00:12:52,699 --> 00:12:57,699
+uh alebo že že kedy zistíš, že robíš
+
+391
+00:12:55,099 --> 00:12:59,799
+matematiku a nerobíš fyziku, je presne,
+
+392
+00:12:57,699 --> 00:13:00,899
+keď postupuješ tým spôsobom, že máš
+
+393
+00:12:59,799 --> 00:13:02,699
+nejaké základné pravidlá.
+
+394
+00:13:00,899 --> 00:13:04,799
+>> na fakulte matematiky a nie
+
+395
+00:13:02,699 --> 00:13:06,799
+>> Ale môžeš mať, vieš, tam môžeš mať tenké
+
+396
+00:13:04,799 --> 00:13:08,499
+steny a bratia sa občas dajú viacerí do
+
+397
+00:13:06,799 --> 00:13:11,199
+jednej kancelárie a nám sa toto deje
+
+398
+00:13:08,499 --> 00:13:14,599
+často, lebo uh na teoretickej fyzike
+
+399
+00:13:11,199 --> 00:13:16,199
+máme pododbor matematická fyzika.
+
+400
+00:13:14,599 --> 00:13:19,999
+A potom vieš naopak robiť fyzikálnu
+
+401
+00:13:16,199 --> 00:13:22,499
+matematiku a to už naozaj, že hranica
+
+402
+00:13:19,999 --> 00:13:24,199
+veľmi urobíš dva kroky vedľa asi
+
+403
+00:13:22,499 --> 00:13:25,599
+si zrazu niekde inde.
+
+404
+00:13:24,199 --> 00:13:26,999
+>> A ako sa to Ja viem, že toto nie je
+
+405
+00:13:25,599 --> 00:13:29,499
+úplne k téme, ale ako si to potom
+
+406
+00:13:26,999 --> 00:13:32,199
+riešite, že ideš za kolegom, že počúvaj,
+
+407
+00:13:29,499 --> 00:13:34,899
+že ty si viacej podkutý v matematike, že
+
+408
+00:13:32,199 --> 00:13:37,899
+vedel by si mi s týmto pomôcť alebo že
+
+409
+00:13:34,899 --> 00:13:39,599
+skúsiš to najprv sám a
+
+410
+00:13:37,899 --> 00:13:41,399
+>> Vieš čo, že mi že na to, že sú tak
+
+411
+00:13:39,599 --> 00:13:43,799
+blízke veci, my často potom postupujeme
+
+412
+00:13:41,399 --> 00:13:46,299
+veľmi rozdielnymi spôsobmi.
+
+413
+00:13:43,799 --> 00:13:49,899
+Ideš často za matematikmi vtedy, keď máš
+
+414
+00:13:46,299 --> 00:13:49,899
+nejaký problém a
+
+415
+00:13:50,099 --> 00:13:54,399
+a nevieš, či náhodou nejaký Rus alebo
+
+416
+00:13:52,499 --> 00:13:56,599
+Soviet presnejšie nenapísal pred 70
+
+417
+00:13:54,399 --> 00:13:58,799
+rokmi o tomto učebnicu, o ktorej ktorú
+
+418
+00:13:56,599 --> 00:14:01,299
+ani nevieš proste inde vyhľadať.
+
+419
+00:13:58,799 --> 00:14:03,649
+Uh a a ideš proste za nimi.
+
+420
+00:14:01,299 --> 00:14:05,699
+>> Oni ti ju takto vytiahne z poličky,
+
+421
+00:14:03,649 --> 00:14:07,499
+[smiech] odfúknu a že
+
+422
+00:14:05,699 --> 00:14:09,199
+>> Že to to, čo robíš vo fyzike, je, že
+
+423
+00:14:07,499 --> 00:14:12,199
+napíšeš si nejakú sústavu rovníc, ktorá
+
+424
+00:14:09,199 --> 00:14:14,299
+ti niečo opisuje a vo väčšine prípadov
+
+425
+00:14:12,199 --> 00:14:16,601
+pri najhoršom, čo vieš urobiť, je, že
+
+426
+00:14:14,299 --> 00:14:17,901
+tie rovnice vyriešiš na počítači.
+
+427
+00:14:16,601 --> 00:14:20,501
+Proste povieš, že počítač, tu sú
+
+428
+00:14:17,901 --> 00:14:22,201
+počiatočné podmienky, eh tu je rovnica,
+
+429
+00:14:20,501 --> 00:14:23,701
+nájdi mi riešenie. A toto sa dá urobiť
+
+430
+00:14:22,201 --> 00:14:25,101
+veľmi často. Nie vždy, ale že veľmi
+
+431
+00:14:23,701 --> 00:14:26,201
+často.
+
+432
+00:14:25,101 --> 00:14:27,601
+Problém je, že môžeš mať veľa
+
+433
+00:14:26,201 --> 00:14:29,901
+počiatočných podmienok. Vieš, že môžeš
+
+434
+00:14:27,601 --> 00:14:31,901
+mať kyvadlo spustené odtiaľto a z trochu
+
+435
+00:14:29,901 --> 00:14:34,501
+väčšej výšky a z trochu väčšej výšky. A
+
+436
+00:14:31,901 --> 00:14:36,401
+v princípe by si musel eh
+
+437
+00:14:34,501 --> 00:14:38,001
+vyriešiť milión rôznych počiatočných
+
+438
+00:14:36,401 --> 00:14:40,301
+podmienok, aby si presne opísal ten
+
+439
+00:14:38,001 --> 00:14:41,801
+systém vo všetkých možnostiach.
+
+440
+00:14:40,301 --> 00:14:43,201
+To, čo vieš urobiť vďaka matematike, je,
+
+441
+00:14:41,801 --> 00:14:45,601
+že nájdeš nejaké všeobecné pravidlo,
+
+442
+00:14:43,201 --> 00:14:48,501
+ktorým to vlastne vybavíš naraz.
+
+443
+00:14:45,601 --> 00:14:50,101
+Takže my chodíme my my chodíme pozerať
+
+444
+00:14:48,501 --> 00:14:51,601
+matematické teórie a pýtať sa
+
+445
+00:14:50,101 --> 00:14:53,201
+matematikov,
+
+446
+00:14:51,601 --> 00:14:55,901
+keď potrebujeme dokázať nejakú
+
+447
+00:14:53,201 --> 00:14:57,501
+univerzálnosť nejakého výsledku.
+
+448
+00:14:55,901 --> 00:14:59,701
+Vieš, že povieš, že skúsil som to
+
+449
+00:14:57,501 --> 00:15:01,001
+10-krát a vždy to dopadlo rovnako. Mám
+
+450
+00:14:59,701 --> 00:15:04,201
+podozrenie, že je za tým nejaký
+
+451
+00:15:01,001 --> 00:15:05,901
+univerzálny princíp, ktorý nepoznám.
+
+452
+00:15:04,201 --> 00:15:07,801
+A oni ti povedia, že hm, keď tento
+
+453
+00:15:05,901 --> 00:15:10,201
+systém opíšeš takýmito pravidlami, tak
+
+454
+00:15:07,801 --> 00:15:12,801
+máme dokázané, že to bude spĺňať presne
+
+455
+00:15:10,201 --> 00:15:14,101
+túto vlastnosť.
+
+456
+00:15:12,801 --> 00:15:15,901
+A toto sa naozaj párkrát stalo v
+
+457
+00:15:14,101 --> 00:15:19,601
+histórii fyziky. Napríklad, keď sme
+
+458
+00:15:15,901 --> 00:15:19,601
+začali konštruovať časticovú fyziku,
+
+459
+00:15:19,901 --> 00:15:24,801
+tak tam máš takú srandu eh vlastne to,
+
+460
+00:15:22,801 --> 00:15:26,101
+že kalibračné teórie.
+
+461
+00:15:24,801 --> 00:15:27,501
+Toto znie, že nejaká úplne, že
+
+462
+00:15:26,101 --> 00:15:28,801
+kuriozita, ale v skutočnosti, že
+
+463
+00:15:27,501 --> 00:15:31,401
+kalibračné teórie je v podstate
+
+464
+00:15:28,801 --> 00:15:35,001
+časticová fyzika.
+
+465
+00:15:31,401 --> 00:15:37,201
+Predstav si takú srandu eh
+
+466
+00:15:35,001 --> 00:15:38,501
+máš mapu a na mape máš sever, juh,
+
+467
+00:15:37,201 --> 00:15:40,701
+východ, západ.
+
+468
+00:15:38,501 --> 00:15:42,301
+A tú mapu používame v Bratislave.
+
+469
+00:15:40,701 --> 00:15:44,301
+Teraz si predstav takú srandu, že
+
+470
+00:15:42,301 --> 00:15:46,901
+Trnaváci si povedia, že
+
+471
+00:15:44,301 --> 00:15:49,101
+my Bratislavčania sme mimo a oni si oni
+
+472
+00:15:46,901 --> 00:15:50,801
+začnú používať iné smery.
+
+473
+00:15:49,101 --> 00:15:53,101
+Že oni zavedú, že trnavský sever,
+
+474
+00:15:50,801 --> 00:15:54,501
+trnavský juh, trnavský východ a trnavský
+
+475
+00:15:53,101 --> 00:15:55,655
+západ, ktorý bude ukazovať trochu iným
+
+476
+00:15:54,501 --> 00:15:56,701
+smerom.
+
+477
+00:15:55,655 --> 00:15:58,101
+[vzdychanie][lapanie po dychu]
+
+478
+00:15:56,701 --> 00:15:59,401
+A
+
+479
+00:15:58,101 --> 00:16:01,101
+v Pezinku si povedia, že to je cool
+
+480
+00:15:59,401 --> 00:16:02,901
+nápad, že aj my chceme vlastné súradnice
+
+481
+00:16:01,101 --> 00:16:05,501
+a vlastne každé mesto v Bratislave by si
+
+482
+00:16:02,901 --> 00:16:08,001
+zaviedlo vlastné vlastnú orientáciu, že
+
+483
+00:16:05,501 --> 00:16:09,601
+kde majú sever.
+
+484
+00:16:08,001 --> 00:16:11,901
+A teraz si predstav ten Bolehlaov, kde
+
+485
+00:16:09,601 --> 00:16:14,101
+máš navigáciu, kde cestuješ z Bratislavy
+
+486
+00:16:11,901 --> 00:16:15,601
+do Košíc.
+
+487
+00:16:14,101 --> 00:16:18,101
+>> To by bolo. To by bolo.
+
+488
+00:16:15,601 --> 00:16:20,302
+>> a a ty ideš a ideš zrazu okolo Hlohovca
+
+489
+00:16:18,101 --> 00:16:22,202
+a navigácia hovorí odboč na západ a ty
+
+490
+00:16:20,302 --> 00:16:24,402
+sa musíš zamyslieť, že ktorý západ to je
+
+491
+00:16:22,202 --> 00:16:27,806
+teraz. A za pochodu proste musíš meniť
+
+492
+00:16:24,402 --> 00:16:27,806
+tú svoju orientáciu. [lapanie po dychu]
+
+493
+00:16:35,602 --> 00:16:37,702
+>> Uhm.
+
+494
+00:16:35,802 --> 00:16:40,302
+>> A
+
+495
+00:16:37,702 --> 00:16:41,902
+čo to má spoločné s fyzikou?
+
+496
+00:16:40,302 --> 00:16:43,202
+>> k tomuto sa venuje tá časť tej fyziky,
+
+497
+00:16:41,902 --> 00:16:45,202
+že kalibruje
+
+498
+00:16:43,202 --> 00:16:46,402
+>> fyzike máš keď máš napríklad kvantovú
+
+499
+00:16:45,202 --> 00:16:48,202
+fyziku,
+
+500
+00:16:46,402 --> 00:16:50,702
+tak tam máš možnosť ako si vybrať jeden
+
+501
+00:16:48,202 --> 00:16:52,641
+smer. Eh tomu sa hovorí, že fáza, ktorú
+
+502
+00:16:50,702 --> 00:16:53,502
+má nejaká častica.
+
+503
+00:16:52,641 --> 00:16:55,102
+[lapanie po dychu]
+
+504
+00:16:53,502 --> 00:16:56,902
+A v princípe nikdy nie je napísané, že
+
+505
+00:16:55,102 --> 00:16:59,002
+tá fáza v každom bode priestoru nemôže
+
+506
+00:16:56,902 --> 00:17:00,702
+byť trochu iná.
+
+507
+00:16:59,002 --> 00:17:02,502
+Čiže v jednom bode máš tú fázu natočenú
+
+508
+00:17:00,702 --> 00:17:04,502
+na sever, v druhom ju máš natočenú o pár
+
+509
+00:17:02,502 --> 00:17:06,202
+stupňov vedľa a v ďalšom máš natočenú
+
+510
+00:17:04,502 --> 00:17:08,602
+zase niekde inde.
+
+511
+00:17:06,202 --> 00:17:10,702
+A to, čo musíš napísať do rovníc, aby
+
+512
+00:17:08,602 --> 00:17:13,002
+toto zohľadňovali, aby sa aby sa
+
+513
+00:17:10,702 --> 00:17:15,402
+kalibrovali z bodu do bodu.
+
+514
+00:17:13,002 --> 00:17:16,802
+A toto sa robí v časticovej fyzike.
+
+515
+00:17:15,402 --> 00:17:18,702
+Eh
+
+516
+00:17:16,802 --> 00:17:20,202
+nielen, že tam máš nejakú fázu, že môžu
+
+517
+00:17:18,702 --> 00:17:23,902
+tam byť zložitejšie veci, ale myšlienka
+
+518
+00:17:20,202 --> 00:17:26,402
+je tá istá. Že máš nejakú
+
+519
+00:17:23,902 --> 00:17:28,502
+väznú sústavu, ktorá sa od bodu k bodu
+
+520
+00:17:26,402 --> 00:17:30,202
+môže meniť.
+
+521
+00:17:28,502 --> 00:17:31,802
+A rovnice musíš napísať tak, aby to
+
+522
+00:17:30,202 --> 00:17:33,902
+rešpektovali.
+
+523
+00:17:31,802 --> 00:17:36,102
+A fun fact, podľa mňa sme to aj
+
+524
+00:17:33,902 --> 00:17:38,202
+spomínali v epizóde o fotónoch, že
+
+525
+00:17:36,102 --> 00:17:39,802
+vlastne fotóny sú častice, ktoré toto
+
+526
+00:17:38,202 --> 00:17:42,302
+organizujú. [smrkanie]
+
+527
+00:17:39,802 --> 00:17:45,102
+To sú to sú kalibračné častice sa tomu
+
+528
+00:17:42,302 --> 00:17:48,202
+hovorí. Že oni oni
+
+529
+00:17:45,102 --> 00:17:49,802
+strážia túto túto fyziku. No a toto toto
+
+530
+00:17:48,202 --> 00:17:53,002
+robili fyzici a robili to ako proste ako
+
+531
+00:17:49,802 --> 00:17:53,002
+totálni sedláci. Eh
+
+532
+00:17:53,502 --> 00:17:58,702
+My to proste lietame jedno cez druhé, eh
+
+533
+00:17:56,002 --> 00:18:00,402
+povieme, že inšalá, je to v Božej rukách
+
+534
+00:17:58,702 --> 00:18:01,502
+a budeme dúfať, že nám to na konci
+
+535
+00:18:00,402 --> 00:18:04,302
+vyjde.
+
+536
+00:18:01,502 --> 00:18:06,202
+Eh a sem-tam vyjde, sem-tam nevyjde.
+
+537
+00:18:04,302 --> 00:18:08,902
+A zistilo sa, že počas toho, ako toto
+
+538
+00:18:06,202 --> 00:18:10,802
+robili fyzici, tak matematici skúmali
+
+539
+00:18:08,902 --> 00:18:12,402
+teóriu konexií.
+
+540
+00:18:10,802 --> 00:18:14,202
+A konexia je že niečo, čo ti prepája
+
+541
+00:18:12,402 --> 00:18:15,502
+rôzne body priestoru presne s touto
+
+542
+00:18:14,202 --> 00:18:17,402
+voľnosťou.
+
+543
+00:18:15,502 --> 00:18:19,202
+Tak sa zrazu zistilo, že matematici to
+
+544
+00:18:17,402 --> 00:18:20,302
+robia pekne rigorózne a zrazu sme od
+
+545
+00:18:19,202 --> 00:18:22,303
+nich mohli začať
+
+546
+00:18:20,302 --> 00:18:24,503
+o opisovať
+
+547
+00:18:22,303 --> 00:18:26,503
+a využívať rôzne tvrdenia. Že keď už to
+
+548
+00:18:24,503 --> 00:18:27,903
+máš robené pekne a rigorózne, tak vieš
+
+549
+00:18:26,503 --> 00:18:30,003
+dokázať nejaké tvrdenie, že vždy, keď
+
+550
+00:18:27,903 --> 00:18:32,103
+urobíš tú ako tú manipuláciu, tak sa
+
+551
+00:18:30,003 --> 00:18:34,103
+stane to a to.
+
+552
+00:18:32,103 --> 00:18:36,203
+Takže
+
+553
+00:18:34,103 --> 00:18:38,303
+vo fyzike často postupujeme ako sedláci
+
+554
+00:18:36,203 --> 00:18:39,603
+a potom dôjdeme za matematikmi a povieme
+
+555
+00:18:38,303 --> 00:18:41,503
+jim, že no počujte, že tu máme takú
+
+556
+00:18:39,603 --> 00:18:43,203
+zaujímavú vec a skúste nám pre ňu
+
+557
+00:18:41,503 --> 00:18:45,103
+povedať nejaké univerzálne pravdy,
+
+558
+00:18:43,203 --> 00:18:47,303
+univerzálne tvrdenia. A oni to dokážu
+
+559
+00:18:45,103 --> 00:18:49,303
+vďaka tomu, ako ako si to všetko
+
+560
+00:18:47,303 --> 00:18:50,403
+vyskladajú metódou veta dôkaz, veta
+
+561
+00:18:49,303 --> 00:18:52,003
+dôkaz.
+
+562
+00:18:50,403 --> 00:18:54,203
+>> To je To som chcel, že to je spojené s
+
+563
+00:18:52,003 --> 00:18:56,003
+tými dôkazmi vlastne, čo teraz riešime
+
+564
+00:18:54,203 --> 00:18:57,803
+pri tých milénových problémoch.
+
+565
+00:18:56,003 --> 00:18:59,603
+>> A toto je ten rozdiel, ktorý zistíš, že
+
+566
+00:18:57,803 --> 00:19:02,803
+kedy si fyzik a kedy si matematik. Že
+
+567
+00:18:59,603 --> 00:19:06,903
+keď začneš mať v článkoch tvrdenia a
+
+568
+00:19:02,803 --> 00:19:08,303
+dôkazy a teorémy a lémy, čiže pomocné
+
+569
+00:19:06,903 --> 00:19:10,603
+tvrdenia, tak vieš, že si sklzol do
+
+570
+00:19:08,303 --> 00:19:11,803
+matematiky.
+
+571
+00:19:10,603 --> 00:19:13,903
+A
+
+572
+00:19:11,803 --> 00:19:15,703
+v žiadnom svojom článku som doteraz
+
+573
+00:19:13,903 --> 00:19:17,103
+nemal takéto veci, ale teraz sme
+
+574
+00:19:15,703 --> 00:19:19,703
+spolupracovali s takými dvoma
+
+575
+00:19:17,103 --> 00:19:22,503
+výskumníkmi, ktorí vtedy obaja boli
+
+576
+00:19:19,703 --> 00:19:24,103
+tuším na Perimeter Institute v Kanade.
+
+577
+00:19:22,503 --> 00:19:26,003
+A jeden z nich, ten profesor, je taký
+
+578
+00:19:24,103 --> 00:19:28,603
+dosť matematicky ladený, takže sa mi
+
+579
+00:19:26,003 --> 00:19:30,903
+žiaľ v nejakom článku objavia teraz
+
+580
+00:19:28,603 --> 00:19:32,103
+teorémy a podobne, ale tak budem to
+
+581
+00:19:30,903 --> 00:19:36,103
+musieť nejako
+
+582
+00:19:32,103 --> 00:19:37,803
+prežiť. Také také to skĺznutie, hej hej.
+
+583
+00:19:36,103 --> 00:19:39,003
+Takú tú malú neveru s fyzikou mám.
+
+584
+00:19:37,803 --> 00:19:41,103
+>> Že [smiech]
+
+585
+00:19:39,003 --> 00:19:43,103
+že toto nie je fyzika, Samuel.
+
+586
+00:19:41,103 --> 00:19:44,503
+>> Tak tak presne.
+
+587
+00:19:43,103 --> 00:19:46,203
+No ale teda to som tým tým chcel
+
+588
+00:19:44,503 --> 00:19:48,003
+povedať, že matematici to vystavujú
+
+589
+00:19:46,203 --> 00:19:50,503
+krásne, rigorózne,
+
+590
+00:19:48,003 --> 00:19:53,203
+postupujú týmpádom pomalšie,
+
+591
+00:19:50,503 --> 00:19:55,303
+ale vedia dávať strašne hlboký insight,
+
+592
+00:19:53,203 --> 00:19:57,503
+ktorý vo fyzike tiež vieš niekedy
+
+593
+00:19:55,303 --> 00:19:59,203
+získať, ale často je to také, že asi to
+
+594
+00:19:57,503 --> 00:20:00,603
+bude fungovať takto. Overil som to na
+
+595
+00:19:59,203 --> 00:20:01,803
+pár príkladoch a mám pocit, že by to
+
+596
+00:20:00,603 --> 00:20:03,803
+malo sedieť.
+
+597
+00:20:01,803 --> 00:20:05,103
+Takže my si za nimi chodíme kvôli tejto
+
+598
+00:20:03,803 --> 00:20:06,803
+rigoróznosti a kvôli tým
+
+599
+00:20:05,103 --> 00:20:08,303
+zovšeobecneniam.
+
+600
+00:20:06,803 --> 00:20:10,603
+A treba povedať, že zase matematici
+
+601
+00:20:08,303 --> 00:20:12,403
+chodia za fyzikmi, aby vyťahovali
+
+602
+00:20:10,603 --> 00:20:14,003
+zaujímavé veci, ktoré majú zaujímavé
+
+603
+00:20:12,403 --> 00:20:15,103
+vlastnosti. Že tou jolo metódou
+
+604
+00:20:14,003 --> 00:20:17,503
+prostredne
+
+605
+00:20:15,103 --> 00:20:19,503
+fyzici často nájdu zaujímavé teórie,
+
+606
+00:20:17,503 --> 00:20:21,103
+ktoré sa potom dajú skúmať roky a roky a
+
+607
+00:20:19,503 --> 00:20:22,905
+roky a objaviť v nich kopu zaujímavej
+
+608
+00:20:21,103 --> 00:20:24,905
+matematiky. Takže takáto je tá symbióza
+
+609
+00:20:22,905 --> 00:20:26,305
+medzi nami.
+
+610
+00:20:24,905 --> 00:20:28,105
+No a
+
+611
+00:20:26,305 --> 00:20:30,305
+tak ako sme sa rozprávali už množstvo
+
+612
+00:20:28,105 --> 00:20:32,405
+rôznych fyzík, že fyzika
+
+613
+00:20:30,305 --> 00:20:34,505
+elektromagnetizmu, môže sa živiť tým, že
+
+614
+00:20:32,405 --> 00:20:36,005
+skúmaš elektromagnetizmus.
+
+615
+00:20:34,505 --> 00:20:37,805
+Môže sa živiť tým, že skúmaš gravitáciu
+
+616
+00:20:36,005 --> 00:20:40,305
+a tak ďalej, tak aj matematika má veľmi
+
+617
+00:20:37,805 --> 00:20:42,105
+veľa odvetví.
+
+618
+00:20:40,305 --> 00:20:45,305
+Dáme do popisu epizódy. Klikni si aj ty
+
+619
+00:20:42,105 --> 00:20:47,305
+to máš v scenári, že mapa matematiky.
+
+620
+00:20:45,305 --> 00:20:49,205
+>> Áno, áno, ja som si to pozrel. Hej, hej.
+
+621
+00:20:47,305 --> 00:20:50,805
+Je to super inak ako že milujem takéto
+
+622
+00:20:49,205 --> 00:20:52,605
+infografiky.
+
+623
+00:20:50,805 --> 00:20:55,205
+>> Tak a tam vidíš, že že to, čo si ľudia
+
+624
+00:20:52,605 --> 00:20:57,205
+predstavujú pod matematikou, je taký ten
+
+625
+00:20:55,205 --> 00:20:58,105
+antický základ.
+
+626
+00:20:57,205 --> 00:20:59,305
+Že
+
+627
+00:20:58,105 --> 00:21:01,405
+že tak počít
+
+628
+00:20:59,305 --> 00:21:03,405
+>> učebnicový základ by som povedal na
+
+629
+00:21:01,405 --> 00:21:05,305
+základnej na strednej škole.
+
+630
+00:21:03,405 --> 00:21:06,805
+>> a nejaké náznaky geometrie. V podstate
+
+631
+00:21:05,305 --> 00:21:07,705
+tie veci, čo ľudia potrebovali, aby
+
+632
+00:21:06,805 --> 00:21:08,749
+počítali dane.
+
+633
+00:21:07,705 --> 00:21:09,405
+>> Áno.
+
+634
+00:21:08,749 --> 00:21:10,059
+[lapanie po dychu]
+
+635
+00:21:09,405 --> 00:21:12,079
+Ale v podstate
+
+636
+00:21:10,059 --> 00:21:12,079
+>> [smiech]
+
+637
+00:21:12,905 --> 00:21:16,505
+>> Všetka tá moderná matematika sa potom
+
+638
+00:21:14,705 --> 00:21:19,405
+vyvinula do takých abstraktnejších vecí,
+
+639
+00:21:16,505 --> 00:21:21,905
+kde máš teóriu hier, komplexnú analýzu,
+
+640
+00:21:19,405 --> 00:21:24,105
+chaotické systémy,
+
+641
+00:21:21,905 --> 00:21:25,605
+aplikovanú matematiku. Napríklad na
+
+642
+00:21:24,105 --> 00:21:28,305
+teóriu hier, o ktorej sme mali niekoľko
+
+643
+00:21:25,605 --> 00:21:30,705
+epizód. Inžinierstvo, ekonómia alebo
+
+644
+00:21:28,305 --> 00:21:33,105
+takú tú základnú matematiku. Matematická
+
+645
+00:21:30,705 --> 00:21:35,505
+logika, teória množín,
+
+646
+00:21:33,105 --> 00:21:39,005
+teória kategórií. To je teda už celkom
+
+647
+00:21:35,505 --> 00:21:40,605
+záhul. Kombinatorika, teória čísel.
+
+648
+00:21:39,005 --> 00:21:42,605
+Že vzniklo strašne veľa oblastí.
+
+649
+00:21:40,605 --> 00:21:43,705
+>> tom som vôbec nevedel, že biomatematika
+
+650
+00:21:42,605 --> 00:21:45,505
+existuje.
+
+651
+00:21:43,705 --> 00:21:46,505
+>> Mega cool.
+
+652
+00:21:45,505 --> 00:21:48,505
+>> Ako
+
+653
+00:21:46,505 --> 00:21:50,015
+ja som si to troška pozrel predtým ako
+
+654
+00:21:48,505 --> 00:21:50,605
+extrémne zaujímavé.
+
+655
+00:21:50,015 --> 00:21:51,705
+>> [lapanie po dychu]
+
+656
+00:21:50,605 --> 00:21:53,905
+>> O tom by sme inak mohli niekedy. To je
+
+657
+00:21:51,705 --> 00:21:55,705
+dobrý Ja viem, že nemôžeme sľubovať, ale
+
+658
+00:21:53,905 --> 00:21:56,405
+to je veľmi pekný nápad na epizódu, že
+
+659
+00:21:55,705 --> 00:21:57,905
+biomatematika.
+
+660
+00:21:56,405 --> 00:21:59,185
+>> sľubovať,
+
+661
+00:21:57,905 --> 00:21:59,905
+ale
+
+662
+00:21:59,185 --> 00:22:01,605
+[smiech]
+
+663
+00:21:59,905 --> 00:22:03,405
+musíme si dávať na to pozor, lebo nám to
+
+664
+00:22:01,605 --> 00:22:06,305
+vedia teraz obuchávať o hlavu všetci
+
+665
+00:22:03,405 --> 00:22:07,405
+vďaka stránke od nášho
+
+666
+00:22:06,305 --> 00:22:09,505
+poslucháča od Jána.
+
+667
+00:22:07,405 --> 00:22:11,705
+>> Áno. Ďakujeme Jánovi. Je to skvelé, ale
+
+668
+00:22:09,505 --> 00:22:13,605
+preto si musíme dať pozor. Ináč jej jej
+
+669
+00:22:11,705 --> 00:22:16,005
+odbor, že bioinformatika, ktorý sa dá na
+
+670
+00:22:13,605 --> 00:22:18,605
+matfyze študovať. Veľmi obľúbený.
+
+671
+00:22:16,005 --> 00:22:20,605
+Kde máš napríklad také výzvy, že keď sa
+
+672
+00:22:18,605 --> 00:22:21,905
+sekvenuje DNA, ona sa nakrája na malé
+
+673
+00:22:20,605 --> 00:22:23,205
+kúsky.
+
+674
+00:22:21,905 --> 00:22:25,105
+A potom je otázka, že ako ju späť
+
+675
+00:22:23,205 --> 00:22:27,305
+pospájať do celej DNA tak, aby si to
+
+676
+00:22:25,105 --> 00:22:27,305
+urobil
+
+677
+00:22:35,306 --> 00:22:38,906
+jednoznačný spôsob.
+
+678
+00:22:36,906 --> 00:22:41,006
+to robí to robí bioinformatika. tak
+
+679
+00:22:38,906 --> 00:22:43,606
+začnú pribúdať a vyžerú zajíce. Tak
+
+680
+00:22:41,006 --> 00:22:46,206
+napríklad takéto populačné dynamiky môže
+
+681
+00:22:43,606 --> 00:22:47,706
+skúmať biomatematika, správanie buniek,
+
+682
+00:22:46,206 --> 00:22:50,506
+všeličo. To je to je pekná epizóda, to
+
+683
+00:22:47,706 --> 00:22:52,006
+si dobre navrhol. [lapanie po dychu]
+
+684
+00:22:50,506 --> 00:22:52,895
+No a to čo sa typicky
+
+685
+00:22:52,006 --> 00:22:53,506
+>> ešte vieme.
+
+686
+00:22:52,895 --> 00:22:55,506
+>> [smiech]
+
+687
+00:22:53,506 --> 00:22:57,406
+>> To čo sa typicky deje je, že kariérne si
+
+688
+00:22:55,506 --> 00:22:59,306
+vyberieš jednu z týchto oblastí a v nej
+
+689
+00:22:57,406 --> 00:23:01,806
+sa špecializuješ, prípadne máš tak
+
+690
+00:22:59,306 --> 00:23:04,506
+presah medzi dvomi, tromi.
+
+691
+00:23:01,806 --> 00:23:06,306
+Ak nie si človek ako Terrence Tao, ktorý
+
+692
+00:23:04,506 --> 00:23:09,306
+má významné výsledky asi v deviatich
+
+693
+00:23:06,306 --> 00:23:11,106
+oblastiach alebo v koľkatich alebo
+
+694
+00:23:09,306 --> 00:23:13,806
+minulé storočie takto pôsobil Paul
+
+695
+00:23:11,106 --> 00:23:16,606
+Erdős, maďarský matematik, ktorý strašne
+
+696
+00:23:13,806 --> 00:23:18,706
+veľa výsledkov porobil, ale že typicky
+
+697
+00:23:16,606 --> 00:23:20,206
+sa ľudia špecializujú na niečo a v tom
+
+698
+00:23:18,706 --> 00:23:22,106
+sú potom špičky.
+
+699
+00:23:20,206 --> 00:23:23,606
+>> Uhm.
+
+700
+00:23:22,106 --> 00:23:25,506
+>> No a
+
+701
+00:23:23,606 --> 00:23:28,306
+tá sranda, ktorá sa ti občas stane v
+
+702
+00:23:25,506 --> 00:23:28,306
+matematike
+
+703
+00:23:28,406 --> 00:23:33,006
+je, že vyskladáš dve úplne iné oblasti z
+
+704
+00:23:31,306 --> 00:23:35,506
+úplne iných základov, ktoré popisujú
+
+705
+00:23:33,006 --> 00:23:37,106
+úplne rozdelené veci.
+
+706
+00:23:35,506 --> 00:23:38,906
+>> Uhm.
+
+707
+00:23:37,106 --> 00:23:42,206
+>> A zrazu sa ti stane, že zistíš nie
+
+708
+00:23:38,906 --> 00:23:44,406
+nutne, že popisujú jedno a to isté,
+
+709
+00:23:42,206 --> 00:23:47,606
+ale že sa tam ukáže, že
+
+710
+00:23:44,406 --> 00:23:49,206
+nejaký veľmi hlboký výsledok jedného
+
+711
+00:23:47,606 --> 00:23:52,206
+tak z neho vyplýva hlboký výsledok v tej
+
+712
+00:23:49,206 --> 00:23:54,306
+druhej oblasti a naopak.
+
+713
+00:23:52,206 --> 00:23:57,906
+Týmto je zaujímavá napríklad Riemannova
+
+714
+00:23:54,306 --> 00:24:00,406
+hypotéza. Ona zišla z funkcionálnej
+
+715
+00:23:57,906 --> 00:24:02,106
+analýzy komplexných čísiel,
+
+716
+00:24:00,406 --> 00:24:03,806
+ale zároveň je ekvivalentná nejakým
+
+717
+00:24:02,106 --> 00:24:06,506
+tvrdeniam o prvočíslach, ktoré sú z
+
+718
+00:24:03,806 --> 00:24:08,706
+teórie čísiel zase.
+
+719
+00:24:06,506 --> 00:24:10,841
+Že občas sa stane takáto vzácnosť a je
+
+720
+00:24:08,706 --> 00:24:12,106
+týpek
+
+721
+00:24:10,841 --> 00:24:13,906
+[vzdychanie][lapanie po dychu]
+
+722
+00:24:12,106 --> 00:24:15,406
+Už som ho spomínal parkrát v podcaste,
+
+723
+00:24:13,906 --> 00:24:17,506
+Edward Witten,
+
+724
+00:24:15,406 --> 00:24:19,506
+jeden z najznámejších fyzikov, ale
+
+725
+00:24:17,506 --> 00:24:21,321
+zároveň dostal matematickú Nobelovku,
+
+726
+00:24:19,506 --> 00:24:22,106
+Fieldsovú medailu.
+
+727
+00:24:21,321 --> 00:24:24,206
+[lapanie po dychu]
+
+728
+00:24:22,106 --> 00:24:26,806
+Skoro študoval právo, pôsobil v
+
+729
+00:24:24,206 --> 00:24:26,806
+politike.
+
+730
+00:24:27,216 --> 00:24:29,908
+[vzdychanie][lapanie po dychu]
+
+731
+00:24:28,406 --> 00:24:33,507
+On je
+
+732
+00:24:29,908 --> 00:24:36,408
+pôvodne vyštudoval históriu, dejepis.
+
+733
+00:24:33,507 --> 00:24:37,908
+Jeho sestra eh vyštudovala právo, išla
+
+734
+00:24:36,408 --> 00:24:39,707
+robiť do nejakej právnickej firmy, on
+
+735
+00:24:37,908 --> 00:24:42,408
+išla robiť do politiky.
+
+736
+00:24:39,707 --> 00:24:44,908
+Robil vo politickej kampani Georgea eh
+
+737
+00:24:42,408 --> 00:24:47,607
+McGoverna, ktorý ale tuším nebol
+
+738
+00:24:44,908 --> 00:24:49,007
+úspešný, takže sa nestal prezidentom,
+
+739
+00:24:47,607 --> 00:24:51,807
+ale
+
+740
+00:24:49,007 --> 00:24:54,707
+Witten pracoval na jeho na jeho kampani
+
+741
+00:24:51,807 --> 00:24:56,507
+v roku 1972.
+
+742
+00:24:54,707 --> 00:24:58,707
+21-ročný
+
+743
+00:24:56,507 --> 00:25:00,607
+a kampaň bola úspešná. Podľa mňa, že
+
+744
+00:24:58,707 --> 00:25:02,707
+keby bola úspešná, tak on zostane robiť,
+
+745
+00:25:00,607 --> 00:25:05,007
+vieš, ako nejaký jeho aide, nejakého
+
+746
+00:25:02,707 --> 00:25:06,107
+nejakého asistent.
+
+747
+00:25:05,007 --> 00:25:07,807
+Eh
+
+748
+00:25:06,107 --> 00:25:10,307
+ale kampaň nebola úspešná, tak
+
+749
+00:25:07,807 --> 00:25:12,207
+rozmýšľal, že čo ďalej so životom,
+
+750
+00:25:10,307 --> 00:25:14,207
+tak sa vrátil do školy a išiel študovať
+
+751
+00:25:12,207 --> 00:25:17,107
+aplikovanú matematiku
+
+752
+00:25:14,207 --> 00:25:21,307
+a odtiaľ prestúpil na fyziku,
+
+753
+00:25:17,107 --> 00:25:23,007
+kde bol jeho školiteľom eh nobelista
+
+754
+00:25:21,307 --> 00:25:23,307
+David Gross.
+
+755
+00:25:23,007 --> 00:25:24,707
+A za
+
+756
+00:25:23,307 --> 00:25:28,107
+>> to asi pomôže ten
+
+757
+00:25:24,707 --> 00:25:30,207
+>> To je to pomôže. Eh
+
+758
+00:25:28,107 --> 00:25:31,408
+zároveň eh David Gross je jeden zo
+
+759
+00:25:30,207 --> 00:25:33,007
+zakladateľov a najvýznamnejších
+
+760
+00:25:31,408 --> 00:25:35,408
+výskumníkov
+
+761
+00:25:33,007 --> 00:25:37,707
+teórie strún, takže
+
+762
+00:25:35,408 --> 00:25:40,007
+Edward Witten je týpek, ktorý vlastne
+
+763
+00:25:37,707 --> 00:25:41,707
+zadefinoval M-teóriu. M-teória je tá
+
+764
+00:25:40,007 --> 00:25:43,408
+teória, ktorá spája všetky teórie strún
+
+765
+00:25:41,707 --> 00:25:45,207
+dokopy.
+
+766
+00:25:43,408 --> 00:25:47,607
+>> Áno, to by mala byť tá
+
+767
+00:25:45,207 --> 00:25:47,807
+alebo teória všetkého, nie? Že jedna z
+
+768
+00:25:47,607 --> 00:25:49,507
+tých
+
+769
+00:25:47,807 --> 00:25:50,908
+>> áno, áno, áno. Áno, áno, presne.
+
+770
+00:25:49,507 --> 00:25:52,707
+Hypotetická teória všetko, čiže on je
+
+771
+00:25:50,908 --> 00:25:54,707
+úplný, že savage fyzikálny.
+
+772
+00:25:52,707 --> 00:25:56,307
+>> o tom by sme mohli spraviť epizódu,
+
+773
+00:25:54,707 --> 00:25:58,007
+strašne zaujímavý dokument som o tom
+
+774
+00:25:56,307 --> 00:26:00,307
+videl, ako na to prišli, že boli vo
+
+775
+00:25:58,007 --> 00:26:02,307
+vlaku eh niekde v Anglicku, cestovali na
+
+776
+00:26:00,307 --> 00:26:04,107
+nejakú konferenciu a sa o tom
+
+777
+00:26:02,307 --> 00:26:07,207
+rozprávali. Už si nepamätám tie mená,
+
+778
+00:26:04,107 --> 00:26:09,408
+ale asi Witten tam bol a že mali, myslím
+
+779
+00:26:07,207 --> 00:26:11,307
+si, že Guinness v plechovke a že sa
+
+780
+00:26:09,408 --> 00:26:13,107
+rozprávali a niekto z nich niečo
+
+781
+00:26:11,307 --> 00:26:14,707
+povedal, že a čo keď je to všetko nejak
+
+782
+00:26:13,107 --> 00:26:16,707
+spojené alebo tak dačo, takže
+
+783
+00:26:14,707 --> 00:26:18,408
+>> Hm, OK, cool. Pošli mi ten dokument, ak
+
+784
+00:26:16,707 --> 00:26:18,908
+ho niekde máš, to je dobrá epizóda.
+
+785
+00:26:18,408 --> 00:26:20,908
+Počuj
+
+786
+00:26:18,908 --> 00:26:23,007
+>> si to ako že 10 rokov a išli.
+
+787
+00:26:20,908 --> 00:26:25,007
+>> kvôli tomu, aby sme škrtli zo zoznamu
+
+788
+00:26:23,007 --> 00:26:27,307
+sľubovaných epizód a už sme dve ďalšie
+
+789
+00:26:25,007 --> 00:26:28,707
+sľúbili. [smiech] Už sme ďalšie Dobre,
+
+790
+00:26:27,307 --> 00:26:30,909
+už teraz
+
+791
+00:26:28,707 --> 00:26:33,209
+>> embargo embargo na [smiech]
+
+792
+00:26:30,909 --> 00:26:35,309
+ďalšie epizódy teraz.
+
+793
+00:26:33,209 --> 00:26:37,309
+>> Eh, pochválim sa, že som Edavitena
+
+794
+00:26:35,309 --> 00:26:40,309
+stretol, keď som bol na tej na tej
+
+795
+00:26:37,309 --> 00:26:41,909
+strunovej konferencii na
+
+796
+00:26:40,309 --> 00:26:43,309
+áno, na Perimeter Institute. To je tam,
+
+797
+00:26:41,909 --> 00:26:46,009
+kde sme teraz vlastne s tými dvomi
+
+798
+00:26:43,309 --> 00:26:48,698
+výskumníkmi robili článok.
+
+799
+00:26:46,009 --> 00:26:49,309
+Netrúfol som sa ho niečo opýtať,
+
+800
+00:26:48,698 --> 00:26:51,709
+[smiech]
+
+801
+00:26:49,309 --> 00:26:52,709
+lebo som o ňom počul také historky,
+
+802
+00:26:51,709 --> 00:26:54,609
+že
+
+803
+00:26:52,709 --> 00:26:56,109
+eh týpek ho viezol z letiska na
+
+804
+00:26:54,609 --> 00:26:57,909
+konferencii a
+
+805
+00:26:56,109 --> 00:26:59,609
+Edu Viten sa ho opýtal, že na čom robíš
+
+806
+00:26:57,909 --> 00:27:02,109
+vo výskume?
+
+807
+00:26:59,609 --> 00:27:05,709
+A on mu to povedal a on že
+
+808
+00:27:02,109 --> 00:27:05,709
+a celú ďalšiu hodinu pozeral z okna.
+
+809
+00:27:07,609 --> 00:27:10,609
+Takže som sa strašne bal, že mu niečo
+
+810
+00:27:09,109 --> 00:27:12,409
+poviem a on povie, že
+
+811
+00:27:10,609 --> 00:27:14,909
+otočí sa na päte a odíde a bude mať
+
+812
+00:27:12,409 --> 00:27:17,109
+strašne zranené ego.
+
+813
+00:27:14,909 --> 00:27:18,173
+>> Hej, že videli ste toho Slováka, čo
+
+814
+00:27:17,109 --> 00:27:20,193
+došiel?
+
+815
+00:27:18,173 --> 00:27:20,193
+>> [smrkanie]
+
+816
+00:27:20,309 --> 00:27:24,109
+>> Ale našiel som na tej konferenčnú fotku
+
+817
+00:27:22,109 --> 00:27:26,009
+a dal som to na našu
+
+818
+00:27:24,109 --> 00:27:28,409
+na na na Discord našej výskumnej
+
+819
+00:27:26,009 --> 00:27:31,009
+skupiny, kde tak zakrúžkovaný jeden iný
+
+820
+00:27:28,409 --> 00:27:32,409
+takýto super významný a ja na úplne
+
+821
+00:27:31,009 --> 00:27:34,109
+opačnom konci, tak som dal, že máme
+
+822
+00:27:32,409 --> 00:27:36,509
+spoločnú fotku
+
+823
+00:27:34,109 --> 00:27:38,009
+s Malda sinom, to je druhý takýto ktorý
+
+824
+00:27:36,509 --> 00:27:40,609
+tiež robí teóriu. Ale teraz späť k
+
+825
+00:27:38,009 --> 00:27:42,509
+Vitenovi. Viten dostal Nobelovku
+
+826
+00:27:40,609 --> 00:27:43,909
+matematickú, vlastne to Filcova medaila.
+
+827
+00:27:42,509 --> 00:27:45,029
+On dostal že za viacero významných
+
+828
+00:27:43,909 --> 00:27:46,209
+zásluh
+
+829
+00:27:45,029 --> 00:27:48,709
+[lapanie po dychu]
+
+830
+00:27:46,209 --> 00:27:50,109
+a jedna z tých zásluh,
+
+831
+00:27:48,709 --> 00:27:53,309
+za ktoré to dostal
+
+832
+00:27:50,109 --> 00:27:55,709
+>> Ja len takú malú vložku Fields ako pole
+
+833
+00:27:53,309 --> 00:27:56,709
+v angličtine nie Fields ako
+
+834
+00:27:55,709 --> 00:27:57,709
+Hej, hej.
+
+835
+00:27:56,709 --> 00:27:58,784
+>> To by bolo na medailu.
+
+836
+00:27:57,709 --> 00:28:00,804
+>> že
+
+837
+00:27:58,784 --> 00:28:00,804
+>> [smiech]
+
+838
+00:28:01,109 --> 00:28:04,609
+>> Rozmýšľam, pokiaľ je to pomenované, lebo
+
+839
+00:28:02,709 --> 00:28:05,989
+to nebude len že len že ako pole.
+
+840
+00:28:04,609 --> 00:28:07,299
+>> Po nejakom poli.
+
+841
+00:28:05,989 --> 00:28:07,709
+>> [smiech]
+
+842
+00:28:07,299 --> 00:28:10,509
+[lapanie po dychu]
+
+843
+00:28:07,709 --> 00:28:13,609
+>> Hej, lebo keď robíš teóriu poľa.
+
+844
+00:28:10,509 --> 00:28:15,109
+>> John Charles Fields, po ňom matematika.
+
+845
+00:28:13,609 --> 00:28:16,609
+>> Aha, OK.
+
+846
+00:28:15,109 --> 00:28:18,209
+Ale naozaj, že ešte tá medaila vyzerá
+
+847
+00:28:16,609 --> 00:28:19,709
+veľmi veľmi
+
+848
+00:28:18,209 --> 00:28:21,709
+veľmi nobelovsky.
+
+849
+00:28:19,709 --> 00:28:24,984
+Jediný chyták je, že máš za to iba 15
+
+850
+00:28:21,709 --> 00:28:25,609
+000 odmenu dokonca kanadských dolárov.
+
+851
+00:28:24,984 --> 00:28:27,209
+[lapanie po dychu]
+
+852
+00:28:25,609 --> 00:28:29,909
+Ale to je to je úplne fuk, že je to
+
+853
+00:28:27,209 --> 00:28:31,809
+naozaj, že extrémne významné ocenenie.
+
+854
+00:28:29,909 --> 00:28:33,509
+Oni majú dve takéto v matematike a jedno
+
+855
+00:28:31,809 --> 00:28:35,310
+z nich je vekovo obmedzené.
+
+856
+00:28:33,509 --> 00:28:37,710
+Takže že jedna z nich je len pre mladých
+
+857
+00:28:35,310 --> 00:28:38,010
+výskumníkov a druhé je také. No a to je
+
+858
+00:28:37,710 --> 00:28:38,810
+fuk.
+
+859
+00:28:38,010 --> 00:28:42,010
+>> Uhm.
+
+860
+00:28:38,810 --> 00:28:45,010
+>> Dostal to za to, eh,
+
+861
+00:28:42,010 --> 00:28:47,710
+že ukázal, že nejaké invarianty v teórii
+
+862
+00:28:45,010 --> 00:28:47,710
+uzlov
+
+863
+00:28:48,310 --> 00:28:53,804
+sú interpretovateľné ako Feynmanove
+
+864
+00:28:50,310 --> 00:28:54,910
+integrály v istej kvantovej teórii.
+
+865
+00:28:53,804 --> 00:28:58,510
+[lapanie po dychu]
+
+866
+00:28:54,910 --> 00:29:01,710
+Prepojil teóriu uzlov
+
+867
+00:28:58,510 --> 00:29:03,610
+s topologickou kvantovou teóriou poľa.
+
+868
+00:29:01,710 --> 00:29:05,510
+Nech už je to čokoľvek, ale toto je to,
+
+869
+00:29:03,610 --> 00:29:10,110
+čo som povedal, že sa občas stane v
+
+870
+00:29:05,510 --> 00:29:11,810
+matematike, že máš dve oblasti, ktoré
+
+871
+00:29:10,110 --> 00:29:13,510
+teória uzlov
+
+872
+00:29:11,810 --> 00:29:15,310
+začali skúmať ľudia kvôli tomu, aby
+
+873
+00:29:13,510 --> 00:29:16,910
+pochopili, ktoré uzly sa dajú rozviazať
+
+874
+00:29:15,310 --> 00:29:19,410
+a ktoré nie.
+
+875
+00:29:16,910 --> 00:29:21,210
+Uzol znamená, že máš šnúrku, ktorá je
+
+876
+00:29:19,410 --> 00:29:22,810
+zliata na konci, čiže je to v podstate,
+
+877
+00:29:21,210 --> 00:29:24,810
+že jedna slučka a buď tá slučka môže
+
+878
+00:29:22,810 --> 00:29:25,910
+vyzerať ako písmeno
+
+879
+00:29:24,810 --> 00:29:28,210
+O,
+
+880
+00:29:25,910 --> 00:29:29,710
+to je jednoduchý triviálny uzol, alebo
+
+881
+00:29:28,210 --> 00:29:31,710
+to môže byť taký ten trojuzol, vieš,
+
+882
+00:29:29,710 --> 00:29:33,310
+taký ten anglický symbol,
+
+883
+00:29:31,710 --> 00:29:36,210
+eh,
+
+884
+00:29:33,310 --> 00:29:38,010
+vieš o čom hovorím? Taký taký trikrát. A
+
+885
+00:29:36,210 --> 00:29:39,910
+z toho nespravíš obyčajný uzol bez toho,
+
+886
+00:29:38,010 --> 00:29:42,510
+aby si to neprecvakol. Tak matematici si
+
+887
+00:29:39,910 --> 00:29:44,610
+povedali, že poďme skúsiť
+
+888
+00:29:42,510 --> 00:29:46,010
+vymyslieť spôsob, ako klasifikovať uzly,
+
+889
+00:29:44,610 --> 00:29:48,810
+aby sme zistili, že ktorý sa dá
+
+890
+00:29:46,010 --> 00:29:51,445
+previazať na ktorý bez toho, aby si
+
+891
+00:29:48,810 --> 00:29:53,110
+aby si aby si to precvakol.
+
+892
+00:29:51,445 --> 00:29:55,710
+[lapanie po dychu] A on tam skúmal
+
+893
+00:29:53,110 --> 00:29:57,210
+invarianty a invariant je kľúčové slovo,
+
+894
+00:29:55,710 --> 00:29:58,710
+lebo to sa aj tej Horžovej hypotézy
+
+895
+00:29:57,210 --> 00:30:00,010
+spomína, takže takže ho chcem teraz
+
+896
+00:29:58,710 --> 00:30:02,010
+zadefinovať.
+
+897
+00:30:00,010 --> 00:30:04,110
+Invariant je niečo, čo sa nemení. To je
+
+898
+00:30:02,010 --> 00:30:06,610
+krásne, nie? Máme niečo, čo dáva zmysel
+
+899
+00:30:04,110 --> 00:30:08,510
+jeho názov. Eh,
+
+900
+00:30:06,610 --> 00:30:11,410
+príklad z fyziky,
+
+901
+00:30:08,510 --> 00:30:12,910
+energia je invariant, lebo máš proces,
+
+902
+00:30:11,410 --> 00:30:15,010
+pri ktorom sa môže diať všeličo, ale
+
+903
+00:30:12,910 --> 00:30:18,210
+celková energia sa zachováva, takže
+
+904
+00:30:15,010 --> 00:30:20,210
+energia je invariant tohto procesu.
+
+905
+00:30:18,210 --> 00:30:22,810
+Keď máš
+
+906
+00:30:20,210 --> 00:30:24,810
+10 ľudí a ideš ich rozdeliť do štyroch
+
+907
+00:30:22,810 --> 00:30:26,610
+áut, tak hocijak ich rozdelíš, stále
+
+908
+00:30:24,810 --> 00:30:28,810
+tých ľudí bude dokopy 10, takže celkový
+
+909
+00:30:26,610 --> 00:30:30,210
+počet ľudí je invariant nezávisle od
+
+910
+00:30:28,810 --> 00:30:31,710
+toho, ako si ich rozdelil medzi štyri
+
+911
+00:30:30,210 --> 00:30:33,210
+autá.
+
+912
+00:30:31,710 --> 00:30:34,710
+A
+
+913
+00:30:33,210 --> 00:30:36,610
+keď máš teóriu, kde niečo môžeš
+
+914
+00:30:34,710 --> 00:30:37,712
+deformovať,
+
+915
+00:30:36,610 --> 00:30:39,112
+tak stále tam môžeš mať nejaké
+
+916
+00:30:37,712 --> 00:30:41,712
+invarianty. To sú veci, ktoré
+
+917
+00:30:39,112 --> 00:30:43,412
+deformáciou nezmeníš.
+
+918
+00:30:41,712 --> 00:30:45,712
+Príklad z topológie. Poznáš takéto
+
+919
+00:30:43,412 --> 00:30:47,121
+tvrdenie, že hrnček je topologicky k
+
+920
+00:30:45,712 --> 00:30:47,912
+obliha?
+
+921
+00:30:47,121 --> 00:30:49,112
+[lapanie po dychu]
+
+922
+00:30:47,912 --> 00:30:50,312
+Že keď máš hrnček
+
+923
+00:30:49,112 --> 00:30:52,412
+>> Áno, áno.
+
+924
+00:30:50,312 --> 00:30:55,012
+>> Eh ukážem na kameru pre tých, ktorí nás
+
+925
+00:30:52,412 --> 00:30:56,512
+aj pozerajú, tak hrnček má uško, tak
+
+926
+00:30:55,012 --> 00:30:58,012
+keby si si predstavil, že toto celé je z
+
+927
+00:30:56,512 --> 00:31:00,112
+takej veľmi tvárnej gumy alebo
+
+928
+00:30:58,012 --> 00:31:02,312
+plastelíny, tak naozaj postupným
+
+929
+00:31:00,112 --> 00:31:05,012
+tvarovaním z tohoto spravíš tvar k
+
+930
+00:31:02,312 --> 00:31:06,812
+oblihy alebo plávacieho kolesa
+
+931
+00:31:05,012 --> 00:31:10,912
+bez toho, aby si to cvakol. A to
+
+932
+00:31:06,812 --> 00:31:12,312
+cvaknutie je ten drastický proces, kedy
+
+933
+00:31:10,912 --> 00:31:14,212
+kedy si niečo narušil. Ale keď povieš,
+
+934
+00:31:12,312 --> 00:31:17,112
+že cvakanie je zakázané a môžem robiť
+
+935
+00:31:14,212 --> 00:31:20,512
+len malé zmeny tvarovaním,
+
+936
+00:31:17,112 --> 00:31:22,212
+tak počet dier je invariant.
+
+937
+00:31:20,512 --> 00:31:24,312
+Lebo na to, aby táto diera zmizla, musíš
+
+938
+00:31:22,212 --> 00:31:26,421
+precvaknúť uško napríklad alebo tam
+
+939
+00:31:24,312 --> 00:31:27,612
+musíš urobiť ďalšiu dieru.
+
+940
+00:31:26,421 --> 00:31:30,312
+[vzdychanie][lapanie po dychu]
+
+941
+00:31:27,612 --> 00:31:32,512
+No a Witten ukázal, že nejaký typ
+
+942
+00:31:30,312 --> 00:31:34,812
+invariantov v teórii uzlov sa dá
+
+943
+00:31:32,512 --> 00:31:36,312
+interpretovať ako feynmanové integrály,
+
+944
+00:31:34,812 --> 00:31:39,112
+o ktorých sme mali epizódu,
+
+945
+00:31:36,312 --> 00:31:41,512
+feynmanovskú, eh ktorú sme v v Nitre
+
+946
+00:31:39,112 --> 00:31:43,012
+nahrávali v Irish Times Pube.
+
+947
+00:31:41,512 --> 00:31:44,612
+A
+
+948
+00:31:43,012 --> 00:31:46,312
+v nejakej špecifickej teórii, že to
+
+949
+00:31:44,612 --> 00:31:48,012
+vlastne spolu súvisí. A toto, keď sa
+
+950
+00:31:46,312 --> 00:31:50,412
+podarí urobiť v matematike, tak je to
+
+951
+00:31:48,012 --> 00:31:54,512
+veľká vec, kde ukážeš
+
+952
+00:31:50,412 --> 00:31:54,512
+prepojíš dve totálne rozdielne oblasti.
+
+953
+00:31:54,812 --> 00:31:59,112
+To ja predstavím vysvetlím to v reči
+
+954
+00:31:57,112 --> 00:32:01,312
+tvojho kmeňa.
+
+955
+00:31:59,112 --> 00:32:03,712
+Predstav si, že máš eh napríklad že
+
+956
+00:32:01,312 --> 00:32:03,912
+trestný zákonník
+
+957
+00:32:03,712 --> 00:32:07,012
+>> Uhm.
+
+958
+00:32:03,912 --> 00:32:09,312
+>> a potom by si mal eh čo ja viem, aký je
+
+959
+00:32:07,012 --> 00:32:09,812
+správny poriadok.
+
+960
+00:32:09,312 --> 00:32:11,612
+>> Uhm.
+
+961
+00:32:09,812 --> 00:32:13,812
+>> A zrazu by si ukázal, že nejaké ich
+
+962
+00:32:11,612 --> 00:32:16,212
+paragrafy sú vlastne ekvivalentné, keď
+
+963
+00:32:13,812 --> 00:32:17,612
+akurát zameníš nejaké slová, ale že ináč
+
+964
+00:32:16,212 --> 00:32:18,712
+to bude proste jednak jednej.
+
+965
+00:32:17,612 --> 00:32:20,412
+>> Uhm.
+
+966
+00:32:18,712 --> 00:32:21,912
+>> A to by znamenalo, že sa stačí naučiť že
+
+967
+00:32:20,412 --> 00:32:23,612
+stačí sa naučiť jedno a poznáš ten
+
+968
+00:32:21,912 --> 00:32:25,012
+prekladový slovník a ten druhý už
+
+969
+00:32:23,612 --> 00:32:26,512
+vlastne neobsahuje nič nové.
+
+970
+00:32:25,012 --> 00:32:28,212
+>> aj v tej druhej situácii.
+
+971
+00:32:26,512 --> 00:32:29,012
+>> Áno, áno, áno. A toto sa naozaj občas v
+
+972
+00:32:28,212 --> 00:32:30,612
+matematike stane.
+
+973
+00:32:29,012 --> 00:32:32,312
+>> toto mi dosť vysvetlilo, hej.
+
+974
+00:32:30,612 --> 00:32:34,012
+>> Áno, a že všetci sú z toho A to je
+
+975
+00:32:32,312 --> 00:32:36,012
+presne, že
+
+976
+00:32:34,012 --> 00:32:37,612
+nemáš právo očakávať, že že prečo by
+
+977
+00:32:36,012 --> 00:32:39,313
+toto malo byť, že to sú úplne iné veci,
+
+978
+00:32:37,612 --> 00:32:42,013
+že trestný zákonník a správny poriadok
+
+979
+00:32:39,313 --> 00:32:43,313
+sú úplne rozdelené právne nástroje alebo
+
+980
+00:32:42,013 --> 00:32:44,413
+právne objekty.
+
+981
+00:32:43,313 --> 00:32:47,213
+>> Normy, hej.
+
+982
+00:32:44,413 --> 00:32:48,613
+>> Normy a zrazu hľa, nejaké veci sú v nich
+
+983
+00:32:47,213 --> 00:32:50,113
+úplne identické a všetci sú z toho
+
+984
+00:32:48,613 --> 00:32:53,113
+obarení.
+
+985
+00:32:50,113 --> 00:32:55,313
+Takže toto dokázal Witten pre teóriu
+
+986
+00:32:53,113 --> 00:32:58,013
+uzlov a topologickú kvantovú teóriu
+
+987
+00:32:55,313 --> 00:32:59,713
+poľa, že vau, tu tieto veci sú si
+
+988
+00:32:58,013 --> 00:33:02,052
+vlastne ekvivalentné.
+
+989
+00:32:59,713 --> 00:33:02,713
+A všetci z toho boli, že vau.
+
+990
+00:33:02,052 --> 00:33:04,513
+[vzdychanie]
+
+991
+00:33:02,713 --> 00:33:07,313
+No a
+
+992
+00:33:04,513 --> 00:33:11,013
+dôvod, prečo je zaujímavá
+
+993
+00:33:07,313 --> 00:33:12,913
+Hodžova hypotéza, je, že ona prepája
+
+994
+00:33:11,013 --> 00:33:14,913
+niekoľko rozdielnych matematických
+
+995
+00:33:12,913 --> 00:33:16,613
+oblastí dokopy.
+
+996
+00:33:14,913 --> 00:33:20,013
+Jedným z nich je topológia.
+
+997
+00:33:16,613 --> 00:33:22,213
+Topológia je geometria bez geometrie.
+
+998
+00:33:20,013 --> 00:33:24,513
+Alebo inými slovami topológia je
+
+999
+00:33:22,213 --> 00:33:26,613
+geometria plastelíny,
+
+1000
+00:33:24,513 --> 00:33:29,013
+kde môžeš veci meniť, ale nemôžeš ich
+
+1001
+00:33:26,613 --> 00:33:29,613
+prerezávať, nemôžeš ich krájať.
+
+1002
+00:33:29,013 --> 00:33:30,813
+>> Hm.
+
+1003
+00:33:29,613 --> 00:33:33,113
+>> Takže napríklad
+
+1004
+00:33:30,813 --> 00:33:36,313
+>> páska, nie? Napríklad.
+
+1005
+00:33:33,113 --> 00:33:39,313
+>> A máš tam také tvrdenia, že keď máš
+
+1006
+00:33:36,313 --> 00:33:41,813
+číslicu nula a číslicu osem, tak z
+
+1007
+00:33:39,313 --> 00:33:44,813
+jednej z jednej nespravíš druhú bez
+
+1008
+00:33:41,813 --> 00:33:47,113
+toho, aby si to niekde precvakol.
+
+1009
+00:33:44,813 --> 00:33:48,913
+Prečo? Lebo jedna má dve diery,
+
+1010
+00:33:47,113 --> 00:33:50,413
+druhá má jednu dieru a počet dier je
+
+1011
+00:33:48,913 --> 00:33:53,513
+invariant.
+
+1012
+00:33:50,413 --> 00:33:53,513
+A toto skúma topológia.
+
+1013
+00:33:54,313 --> 00:33:57,213
+Vieš si to predstaviť zhruba, nie? Že
+
+1014
+00:33:55,413 --> 00:33:58,613
+keď máš osmičku, tak by si ju musel by
+
+1015
+00:33:57,213 --> 00:34:01,313
+si ju precvaknúť v strede, aby z toho
+
+1016
+00:33:58,613 --> 00:34:01,313
+zrazu bola
+
+1017
+00:34:04,933 --> 00:34:07,313
+>> [lapanie po dychu]
+
+1018
+00:34:06,213 --> 00:34:10,713
+>> Áno,
+
+1019
+00:34:07,313 --> 00:34:13,113
+>> zároveň vie topológia na svoj výskum
+
+1020
+00:34:10,713 --> 00:34:15,813
+používať krivky.
+
+1021
+00:34:13,113 --> 00:34:17,213
+Lebo ako zadefinuješ počet dier?
+
+1022
+00:34:15,813 --> 00:34:18,413
+Počet dier vieš zadefinovať napríklad
+
+1023
+00:34:17,213 --> 00:34:20,213
+tak, že
+
+1024
+00:34:18,413 --> 00:34:22,313
+predstavím si, že by som v tom priestore
+
+1025
+00:34:20,213 --> 00:34:24,313
+natiahol špagát a teraz sa ho pokúsim
+
+1026
+00:34:22,313 --> 00:34:25,413
+stiahnuť.
+
+1027
+00:34:24,313 --> 00:34:26,813
+A keď tam máš dieru, tak sa ti to
+
+1028
+00:34:25,413 --> 00:34:28,113
+nepodarí.
+
+1029
+00:34:26,813 --> 00:34:30,313
+Predstav si, že by si hodil špagát
+
+1030
+00:34:28,113 --> 00:34:31,913
+niekde na povrchu zeme, vždy ho vieš
+
+1031
+00:34:30,313 --> 00:34:34,013
+stiahnuť.
+
+1032
+00:34:31,913 --> 00:34:36,513
+Nemáš sa o čo nemáš sa o čo zachytiť.
+
+1033
+00:34:34,013 --> 00:34:39,413
+Natiahneš 5 000 km lano, hodíš ho až
+
+1034
+00:34:36,513 --> 00:34:43,114
+niekde do Portugalska ako také laso,
+
+1035
+00:34:39,413 --> 00:34:44,414
+stiahneš a to laso sa vždy zatvorí.
+
+1036
+00:34:43,114 --> 00:34:46,814
+Ale teraz si predstav, že by si toto
+
+1037
+00:34:44,414 --> 00:34:48,214
+isté urobil na povrchu
+
+1038
+00:34:46,814 --> 00:34:51,714
+tej koblhy
+
+1039
+00:34:48,214 --> 00:34:54,414
+a lano by si naťahoval okolo kruhu.
+
+1040
+00:34:51,714 --> 00:34:56,714
+Okolo okolo toho úzkeho obvodu napríklad
+
+1041
+00:34:54,414 --> 00:34:58,514
+a zrazu ho už nevieš stiahnuť.
+
+1042
+00:34:56,714 --> 00:35:01,014
+Lebo už je už ide do kolečka a už je
+
+1043
+00:34:58,514 --> 00:35:03,114
+zaseknuté.
+
+1044
+00:35:01,014 --> 00:35:05,014
+A toto je toto je topologický pohľad na
+
+1045
+00:35:03,114 --> 00:35:06,614
+to, že prečo je sféra niečo iné ako
+
+1046
+00:35:05,014 --> 00:35:09,614
+koblha.
+
+1047
+00:35:06,614 --> 00:35:10,814
+Na sfére dokážeš stiahnuť lano vždy?
+
+1048
+00:35:09,614 --> 00:35:11,414
+Na koblhe nedokážeš.
+
+1049
+00:35:10,814 --> 00:35:11,714
+>> nie.
+
+1050
+00:35:11,414 --> 00:35:12,614
+>> Tak.
+
+1051
+00:35:11,714 --> 00:35:15,014
+>> Uhm.
+
+1052
+00:35:12,614 --> 00:35:17,814
+>> A čiže vlastne topológovia používajú
+
+1053
+00:35:15,014 --> 00:35:19,514
+takéto rozhadzovanie lán na to, aby
+
+1054
+00:35:17,814 --> 00:35:20,514
+skúmali priestory.
+
+1055
+00:35:19,514 --> 00:35:21,914
+Že
+
+1056
+00:35:20,514 --> 00:35:23,314
+keď dokážeš tam až nestiahnuteľnú
+
+1057
+00:35:21,914 --> 00:35:26,014
+slučku, tak vieš, že priestor, ktorý
+
+1058
+00:35:23,314 --> 00:35:26,814
+skúmaš, nemôže byť sféra.
+
+1059
+00:35:26,014 --> 00:35:28,314
+>> Uhm.
+
+1060
+00:35:26,814 --> 00:35:30,614
+>> A ono je to také zvláštne, že však
+
+1061
+00:35:28,314 --> 00:35:32,814
+vidím, v akom priestore pracujem.
+
+1062
+00:35:30,614 --> 00:35:34,214
+A odpoveď je, že nie nutne.
+
+1063
+00:35:32,814 --> 00:35:35,814
+Ty nemáš priestor
+
+1064
+00:35:34,214 --> 00:35:38,114
+často zakreslený tak, že máš jeho
+
+1065
+00:35:35,814 --> 00:35:41,114
+obrázok. Veľmi často máš priestor
+
+1066
+00:35:38,114 --> 00:35:43,214
+zadefinovaný nejakými rovnicami.
+
+1067
+00:35:41,114 --> 00:35:46,614
+Uhm.
+
+1068
+00:35:43,214 --> 00:35:48,414
+Napríklad kružnica je množina bodov s
+
+1069
+00:35:46,614 --> 00:35:49,914
+nejakou vzdialenosťou od počiatku, s
+
+1070
+00:35:48,414 --> 00:35:51,714
+rovnakou vzdialenosťou od počiatku. A
+
+1071
+00:35:49,914 --> 00:35:54,114
+toto je nejaká rovnica, že x na druhú
+
+1072
+00:35:51,714 --> 00:35:55,814
+plus y na druhú sa rovná jedna.
+
+1073
+00:35:54,114 --> 00:35:58,514
+A teraz hľadáš všetky body, čo to
+
+1074
+00:35:55,814 --> 00:36:00,114
+spĺňajú. Typicky riešiš oveľa grcnejšie
+
+1075
+00:35:58,514 --> 00:36:01,714
+rovnice
+
+1076
+00:36:00,114 --> 00:36:04,114
+a niekto ti povie, že všetky riešenia
+
+1077
+00:36:01,714 --> 00:36:05,614
+týchto rovníc tvoria nejaký priestor a
+
+1078
+00:36:04,114 --> 00:36:07,514
+začneš si klásť otázky, že aká je
+
+1079
+00:36:05,614 --> 00:36:09,714
+topológia tohto priestoru.
+
+1080
+00:36:07,514 --> 00:36:11,914
+Že je to topologicky guľa, je to
+
+1081
+00:36:09,714 --> 00:36:15,514
+topologicky
+
+1082
+00:36:11,914 --> 00:36:17,014
+koleso? Čo to vlastne je?
+
+1083
+00:36:15,514 --> 00:36:20,114
+A týmto už sa blížime k tej Hodgeovej
+
+1084
+00:36:17,014 --> 00:36:23,914
+hypotéze. A
+
+1085
+00:36:20,114 --> 00:36:23,914
+Hodge sa zaoberal
+
+1086
+00:36:24,114 --> 00:36:30,114
+nesingulárnymi komplexnými projektívnymi
+
+1087
+00:36:27,514 --> 00:36:31,914
+priestormi. Nech už to znamená čokoľvek,
+
+1088
+00:36:30,114 --> 00:36:33,814
+sú to nejaké všeobecné geometrie, do
+
+1089
+00:36:31,914 --> 00:36:35,714
+ktorých okrem iného spadá aj sféra, ale
+
+1090
+00:36:33,814 --> 00:36:37,114
+všelijaké iné zverstvá, ktoré sa objavia
+
+1091
+00:36:35,714 --> 00:36:38,814
+napríklad v teórii strún, ale aj
+
+1092
+00:36:37,114 --> 00:36:39,114
+všelikde inde.
+
+1093
+00:36:38,814 --> 00:36:42,414
+>> OK.
+
+1094
+00:36:39,114 --> 00:36:45,616
+>> A a v týchto
+
+1095
+00:36:42,414 --> 00:36:47,116
+v V priestoroch zadefinoval objekty, sa
+
+1096
+00:36:45,616 --> 00:36:50,816
+volajú Hodgeove diamanty. Hodgeove
+
+1097
+00:36:47,116 --> 00:36:53,016
+diamanty sú také proste kôpky čísiel. Ja
+
+1098
+00:36:50,816 --> 00:36:55,416
+len ukážem na jednom príklade
+
+1099
+00:36:53,016 --> 00:36:57,516
+uh
+
+1100
+00:36:55,416 --> 00:37:00,116
+Shernem to bez audia.
+
+1101
+00:36:57,516 --> 00:37:01,716
+Proste nejaké takéto diamantíky číselné.
+
+1102
+00:37:00,116 --> 00:37:03,616
+Uh pre tých, ktorí nás iba počúvajú, tak
+
+1103
+00:37:01,716 --> 00:37:06,116
+je to naozaj, že
+
+1104
+00:37:03,616 --> 00:37:11,216
+taká šikmá tabuľka 4 x 4, v ktorej sú
+
+1105
+00:37:06,116 --> 00:37:13,716
+rôzne čísla typu 1 0 1 0 1 a podobne.
+
+1106
+00:37:11,216 --> 00:37:15,216
+A tieto Hodgeove
+
+1107
+00:37:13,716 --> 00:37:17,316
+diamanty
+
+1108
+00:37:15,216 --> 00:37:19,516
+tie opisujú nejakým spôsobom uh tie
+
+1109
+00:37:17,316 --> 00:37:22,616
+priestory, že koľko to tam má ušiek,
+
+1110
+00:37:19,516 --> 00:37:23,916
+koľko to tam má dier a tak ďalej.
+
+1111
+00:37:22,616 --> 00:37:26,216
+A
+
+1112
+00:37:23,916 --> 00:37:28,316
+jeden konkrétny stĺpec týchto diamantov,
+
+1113
+00:37:26,216 --> 00:37:31,016
+ten stredný, ten najvyšší
+
+1114
+00:37:28,316 --> 00:37:33,016
+sa volá Hodgeov invariant.
+
+1115
+00:37:31,016 --> 00:37:34,516
+No a toto toto už človek už mu ide
+
+1116
+00:37:33,016 --> 00:37:35,716
+odpanúť hlava, ale zatiaľ čo si treba
+
+1117
+00:37:34,516 --> 00:37:37,516
+zapamätať, že
+
+1118
+00:37:35,716 --> 00:37:39,816
+existujú nejaké čísielka, ktoré vieš
+
+1119
+00:37:37,516 --> 00:37:41,316
+priradiť priestoru a oni ti o tom
+
+1120
+00:37:39,816 --> 00:37:42,916
+priestore hovoria niečo, akú má
+
+1121
+00:37:41,316 --> 00:37:43,916
+štruktúru.
+
+1122
+00:37:42,916 --> 00:37:46,516
+>> Uh hm
+
+1123
+00:37:43,916 --> 00:37:49,316
+>> Druhé dôležité tvrdenie
+
+1124
+00:37:46,516 --> 00:37:50,316
+priestory môžu mať svoje podpriestory.
+
+1125
+00:37:49,316 --> 00:37:52,516
+Uh
+
+1126
+00:37:50,316 --> 00:37:54,616
+napríklad, keď si na povrchu zeme gule,
+
+1127
+00:37:52,516 --> 00:37:56,716
+takže si na povrchu sféry
+
+1128
+00:37:54,616 --> 00:37:59,316
+a pod priestor sféry je napríklad
+
+1129
+00:37:56,716 --> 00:38:01,116
+rovník, kružnica.
+
+1130
+00:37:59,316 --> 00:38:03,316
+Čiže kružnica je pod priestor celej
+
+1131
+00:38:01,116 --> 00:38:05,716
+sféry.
+
+1132
+00:38:03,316 --> 00:38:09,116
+No celé toto tvrdenie Hodgeove je o
+
+1133
+00:38:05,716 --> 00:38:12,716
+súvislosti medzi invariantmi priestoru
+
+1134
+00:38:09,116 --> 00:38:15,216
+a invariantmi jeho podpriestorov.
+
+1135
+00:38:12,716 --> 00:38:16,916
+Inými slovami, že keď poznáš tie
+
+1136
+00:38:15,216 --> 00:38:20,616
+invarianty tých podpriestorov, či vieš
+
+1137
+00:38:16,916 --> 00:38:21,316
+reprodukovať, do aké podpriestory ide.
+
+1138
+00:38:20,616 --> 00:38:22,116
+A
+
+1139
+00:38:21,316 --> 00:38:24,616
+>> OK
+
+1140
+00:38:22,116 --> 00:38:27,116
+>> A áno áno úplne úplne rozumiem. Snažíme
+
+1141
+00:38:24,616 --> 00:38:28,416
+sa len tak ako že navnímať ducha
+
+1142
+00:38:27,116 --> 00:38:29,716
+ducha tej hypotézy a
+
+1143
+00:38:28,416 --> 00:38:31,116
+>> sa veľmi o to je to
+
+1144
+00:38:29,716 --> 00:38:33,316
+>> Pre mňa je to úplne to isté, že toto už
+
+1145
+00:38:31,116 --> 00:38:34,416
+je naozaj veľmi abstraktná matematika.
+
+1146
+00:38:33,316 --> 00:38:36,816
+>> Uh hm
+
+1147
+00:38:34,416 --> 00:38:38,916
+>> Podstatné, že sa tam stretávajú
+
+1148
+00:38:36,816 --> 00:38:40,916
+rôzne
+
+1149
+00:38:38,916 --> 00:38:43,016
+matematické pohľady na geometriu. Jeden
+
+1150
+00:38:40,916 --> 00:38:46,616
+ten pohľad je tento topologický, druhý
+
+1151
+00:38:43,016 --> 00:38:47,316
+je taký ten cez rovnice, algebraický.
+
+1152
+00:38:46,616 --> 00:38:50,017
+>> Uh hm
+
+1153
+00:38:47,316 --> 00:38:53,017
+>> A Hodge to snaží spojiť dokopy v prípade
+
+1154
+00:38:50,017 --> 00:38:54,817
+nejakom veľmi zaujímavom,
+
+1155
+00:38:53,017 --> 00:38:56,617
+pomerne všeobecnom, aj keď to nie je
+
+1156
+00:38:54,817 --> 00:38:58,217
+úplne všetko pokrýva. Pokrýva to len
+
+1157
+00:38:56,617 --> 00:39:00,117
+také tie pekné projektívne priestory,
+
+1158
+00:38:58,217 --> 00:39:02,717
+ktoré skúmal.
+
+1159
+00:39:00,117 --> 00:39:02,717
+tá hypotéza
+
+1160
+00:39:03,117 --> 00:39:05,317
+uh
+
+1161
+00:39:05,717 --> 00:39:09,517
+Prečítam tú Fricovu verziu. Hočova
+
+1162
+00:39:07,917 --> 00:39:11,317
+domnienka jednoducho vraví, že každá
+
+1163
+00:39:09,517 --> 00:39:12,917
+Hočova trieda sa dá napísať ako súčet
+
+1164
+00:39:11,317 --> 00:39:14,817
+takých Hočových tried, ktoré zodpovedajú
+
+1165
+00:39:12,917 --> 00:39:17,717
+nejakým pod čudám.
+
+1166
+00:39:14,817 --> 00:39:19,017
+Čudo je ten podpriestor a čudo je celý
+
+1167
+00:39:17,717 --> 00:39:20,017
+ten priestor.
+
+1168
+00:39:19,017 --> 00:39:22,717
+Čiže
+
+1169
+00:39:20,017 --> 00:39:24,617
+do akej miery pochopením
+
+1170
+00:39:22,717 --> 00:39:28,417
+základných stavebných dielikov vieš
+
+1171
+00:39:24,617 --> 00:39:30,717
+pochopiť celý ten priestor.
+
+1172
+00:39:28,417 --> 00:39:33,017
+Či keď poznáš tie podpriestory týmto
+
+1173
+00:39:30,717 --> 00:39:35,717
+špeciálnym spôsobom, tak poznáš aj celý
+
+1174
+00:39:33,017 --> 00:39:39,017
+priestor alebo nie. A on tvrdí, že áno,
+
+1175
+00:39:35,717 --> 00:39:41,317
+v tomto je v tomto je ukryté všetko.
+
+1176
+00:39:39,017 --> 00:39:43,917
+>> Ja ešte Fricov od Fricovho článku ešte
+
+1177
+00:39:41,317 --> 00:39:45,717
+poviem len tú vetu, lebo mne to aspoň
+
+1178
+00:39:43,917 --> 00:39:47,517
+dosť, keď som si to čítal, že dôkaz
+
+1179
+00:39:45,717 --> 00:39:49,717
+alebo vyvrátenie tejto domnienky by
+
+1180
+00:39:47,517 --> 00:39:52,317
+predstavovalo veľký posun v našom
+
+1181
+00:39:49,717 --> 00:39:54,017
+porozumení komplexnej geometrie. Takže
+
+1182
+00:39:52,317 --> 00:39:56,617
+celé je to vlastne na porozumení
+
+1183
+00:39:54,017 --> 00:39:58,617
+nejakých veľmi zložitých geometrických
+
+1184
+00:39:56,617 --> 00:40:00,117
+tvarov alebo výpočtov, keď to môžem tak
+
+1185
+00:39:58,617 --> 00:40:01,317
+povedať.
+
+1186
+00:40:00,117 --> 00:40:02,817
+>> Tak áno, áno, áno.
+
+1187
+00:40:01,317 --> 00:40:05,517
+>> Uhm. OK.
+
+1188
+00:40:02,817 --> 00:40:05,517
+>> Uhm.
+
+1189
+00:40:06,217 --> 00:40:10,717
+Áno, áno, áno, presne, presne. Dobre si
+
+1190
+00:40:07,817 --> 00:40:13,217
+to povedal. Čiže vlastně tá domnienka sa
+
+1191
+00:40:10,717 --> 00:40:15,417
+zaoberá tým, či nejaké špecifické
+
+1192
+00:40:13,217 --> 00:40:17,017
+priestory sa dajú dobre opísať svojimi
+
+1193
+00:40:15,417 --> 00:40:18,517
+podpriestormi,
+
+1194
+00:40:17,017 --> 00:40:20,717
+ale je to vyjadrené v takom jazyku,
+
+1195
+00:40:18,517 --> 00:40:22,717
+ktorý prepája dve
+
+1196
+00:40:20,717 --> 00:40:24,617
+dva veľmi veľmi rozdielne plány na
+
+1197
+00:40:22,717 --> 00:40:27,417
+geometriu. Jeden je ten algebraický cez
+
+1198
+00:40:24,617 --> 00:40:30,917
+rovnice a druhý je ten topologický.
+
+1199
+00:40:27,417 --> 00:40:32,917
+A ak by sa to podarilo dokázať, tak
+
+1200
+00:40:30,917 --> 00:40:34,717
+to podľa mňa že nemá že žiadne praktické
+
+1201
+00:40:32,917 --> 00:40:38,917
+aplikácie,
+
+1202
+00:40:34,717 --> 00:40:41,617
+ale zrazu to ukáže, že tie dve veľmi
+
+1203
+00:40:38,917 --> 00:40:43,817
+rozdielne oblasti matematiky sú niekde
+
+1204
+00:40:41,617 --> 00:40:46,117
+hlboko vo svojej podstate prepojené
+
+1205
+00:40:43,817 --> 00:40:48,017
+veľmi zaujímavým spôsobom.
+
+1206
+00:40:46,117 --> 00:40:49,117
+A preto to bolo označené za miléniový
+
+1207
+00:40:48,017 --> 00:40:50,218
+problém.
+
+1208
+00:40:49,117 --> 00:40:51,418
+>> Uhm. To by mohlo mať
+
+1209
+00:40:50,218 --> 00:40:52,618
+>> obrovský [smrkanie] vplyv nie na
+
+1210
+00:40:51,418 --> 00:40:54,118
+matematiku a tieto veci.
+
+1211
+00:40:52,618 --> 00:40:56,918
+>> takže nebudeš to teraz používať vo
+
+1212
+00:40:54,118 --> 00:40:59,518
+fabrikách alebo kde, nerozlúčiš pomocou
+
+1213
+00:40:56,918 --> 00:41:01,218
+toho kryptografiu, ale
+
+1214
+00:40:59,518 --> 00:41:03,718
+niečo sa niečo zaujímavé sa dozvieš.
+
+1215
+00:41:01,218 --> 00:41:03,718
+Takže
+
+1216
+00:41:04,118 --> 00:41:09,318
+toto je tá
+
+1217
+00:41:04,818 --> 00:41:09,318
+>> No a ako je tá AI
+
+1218
+00:41:09,418 --> 00:41:13,918
+pokročila v tomto? Lebo viem, že OpenAI
+
+1219
+00:41:12,018 --> 00:41:16,218
+vydali v
+
+1220
+00:41:13,918 --> 00:41:18,918
+septembri alebo kedy v októbri, že aj tu
+
+1221
+00:41:16,218 --> 00:41:21,418
+sa im podarilo niečo
+
+1222
+00:41:18,918 --> 00:41:23,918
+posunúť sa. Má to nejakú relevanciu vo
+
+1223
+00:41:21,418 --> 00:41:26,018
+vede alebo zatiaľ sa len čaká, že ešte
+
+1224
+00:41:23,918 --> 00:41:30,218
+že čo sa s tým spraví?
+
+1225
+00:41:26,018 --> 00:41:32,018
+>> No bolo tvrdenie, že že niečo sa pre ňu
+
+1226
+00:41:30,218 --> 00:41:33,918
+dokázalo, nejaká špecifická verzia,
+
+1227
+00:41:32,018 --> 00:41:36,018
+takzvaná racionálna, ale racionálna
+
+1228
+00:41:33,918 --> 00:41:37,918
+znamená
+
+1229
+00:41:36,018 --> 00:41:39,118
+zlomky.
+
+1230
+00:41:37,918 --> 00:41:40,318
+ako
+
+1231
+00:41:39,118 --> 00:41:43,718
+takáto verzia.
+
+1232
+00:41:40,318 --> 00:41:47,218
+Nie úplne tá všeobecná v nejakom
+
+1233
+00:41:43,718 --> 00:41:48,518
+v nejakom špecifickom tvare.
+
+1234
+00:41:47,218 --> 00:41:51,518
+Takže
+
+1235
+00:41:48,518 --> 00:41:53,518
+patrí to do toho
+
+1236
+00:41:51,518 --> 00:41:56,718
+že z niečím sa pohlo, ale nie je to
+
+1237
+00:41:53,518 --> 00:41:59,018
+úplne to, s čím sa malo pohnúť.
+
+1238
+00:41:56,718 --> 00:42:00,618
+A
+
+1239
+00:41:59,018 --> 00:42:03,318
+podobne ako pri tom, čo urobili s
+
+1240
+00:42:00,618 --> 00:42:05,118
+Rimanovou hypotézou, že vlastne nie je
+
+1241
+00:42:03,318 --> 00:42:06,918
+jasné, že či ten čiastkový progres
+
+1242
+00:42:05,118 --> 00:42:10,518
+nejako smeruje k tomu celkovému
+
+1243
+00:42:06,918 --> 00:42:12,918
+progresu, že či to nie je len také, že
+
+1244
+00:42:10,518 --> 00:42:13,318
+>> že možno má nejakú odbočku alebo niečo
+
+1245
+00:42:12,918 --> 00:42:14,618
+také, že
+
+1246
+00:42:13,318 --> 00:42:16,618
+>> áno presne presne, že je to zaujímavá
+
+1247
+00:42:14,618 --> 00:42:18,318
+odbočka, ale nevieme, že či nám to
+
+1248
+00:42:16,618 --> 00:42:20,218
+vlastne pomôže k tomu tomu celkovému
+
+1249
+00:42:18,318 --> 00:42:21,118
+výsledku.
+
+1250
+00:42:20,218 --> 00:42:23,418
+>> Ale
+
+1251
+00:42:21,118 --> 00:42:25,618
+aj to je zaujímavé, že aspoň aj keby že
+
+1252
+00:42:23,418 --> 00:42:27,018
+je to len odbočka, takže niečo takéto AI
+
+1253
+00:42:25,618 --> 00:42:29,618
+dokázalo spraviť.
+
+1254
+00:42:27,018 --> 00:42:30,918
+>> Ale veľmi veľmi to šumelo vo vedeckej
+
+1255
+00:42:29,618 --> 00:42:32,418
+komunite a teraz keď som to len hodil do
+
+1256
+00:42:30,918 --> 00:42:34,018
+Googlu, tak naozaj je tam veľa článkov,
+
+1257
+00:42:32,418 --> 00:42:35,618
+kde
+
+1258
+00:42:34,018 --> 00:42:37,418
+že je to na spadnutie a neviem čo a
+
+1259
+00:42:35,618 --> 00:42:39,769
+potom bolo ticho a zrazu oznámili
+
+1260
+00:42:37,418 --> 00:42:40,418
+významný progres v troch iných úlohách.
+
+1261
+00:42:39,769 --> 00:42:43,418
+[lapanie po dychu]
+
+1262
+00:42:40,418 --> 00:42:48,418
+Rozmýšľam, či sa nestala taká vec
+
+1263
+00:42:43,418 --> 00:42:48,418
+že umelá inteligencia im vyplula niečo
+
+1264
+00:42:48,618 --> 00:42:51,918
+oni to zverejnili a potom zistili, že to
+
+1265
+00:42:50,518 --> 00:42:52,620
+je zlé.
+
+1266
+00:42:51,918 --> 00:42:54,920
+A to teraz
+
+1267
+00:42:52,620 --> 00:42:56,820
+>> Že nevedeli to sami overiť, nie? Že
+
+1268
+00:42:54,920 --> 00:42:58,420
+>> To je moja hypotéza, hej, že že niekto
+
+1269
+00:42:56,820 --> 00:42:59,920
+na to upozornil, že je tam niečo niečo
+
+1270
+00:42:58,420 --> 00:43:02,520
+nesprávne.
+
+1271
+00:42:59,920 --> 00:43:04,620
+>> Hm. Veď teraz stalo, nie? Eh na to
+
+1272
+00:43:02,520 --> 00:43:06,520
+spravila nejaký blog. Viem, že eh
+
+1273
+00:43:04,620 --> 00:43:09,520
+>> Áno áno áno. Jeho jeho blog je skvelé
+
+1274
+00:43:06,520 --> 00:43:11,020
+čítať. Ako že on je
+
+1275
+00:43:09,520 --> 00:43:13,220
+hm pravdepodobne najtalentovanejší
+
+1276
+00:43:11,020 --> 00:43:15,420
+matematik eh
+
+1277
+00:43:13,220 --> 00:43:17,120
+ktorý ktorý teraz žije, ale zároveň píše
+
+1278
+00:43:15,420 --> 00:43:18,520
+blogy, ktoré sú často zrozumiteľné. Ako
+
+1279
+00:43:17,120 --> 00:43:20,820
+že niektoré sú možno zrozumiteľné len
+
+1280
+00:43:18,520 --> 00:43:22,720
+pre študentov matematiky, ale niektoré
+
+1281
+00:43:20,820 --> 00:43:24,920
+naozaj už vie že ho sleduje široká
+
+1282
+00:43:22,720 --> 00:43:26,920
+verejnosť, takže často píše blogy, ktoré
+
+1283
+00:43:24,920 --> 00:43:28,320
+sú zrozumiteľné pre všetkých a
+
+1284
+00:43:26,920 --> 00:43:30,320
+>> Ja by som to tak povedal, že o takých
+
+1285
+00:43:28,320 --> 00:43:32,420
+zložitých veciach ako píše sú veľmi
+
+1286
+00:43:30,320 --> 00:43:33,720
+zrozumiteľné tie blogy. Tak.
+
+1287
+00:43:32,420 --> 00:43:36,020
+>> Ale to normálne, že ako keby si mohol
+
+1288
+00:43:33,720 --> 00:43:37,820
+teraz čítať, že Einsteinove blogy.
+
+1289
+00:43:36,020 --> 00:43:39,620
+No cool by to bolo, nie? Tak tak v tomto
+
+1290
+00:43:37,820 --> 00:43:40,520
+prípade
+
+1291
+00:43:39,620 --> 00:43:42,520
+eh vlastne môžeš.
+
+1292
+00:43:40,520 --> 00:43:45,620
+>> že Einstein by mal nejaký blog alebo
+
+1293
+00:43:42,520 --> 00:43:46,820
+niečo, že to je to je úplne
+
+1294
+00:43:45,620 --> 00:43:48,720
+>> Eh
+
+1295
+00:43:46,820 --> 00:43:52,120
+takže nateraz to vyzerá tak, že OpenAI
+
+1296
+00:43:48,720 --> 00:43:53,920
+túto domnienku nezlomilo. My môžeme byť
+
+1297
+00:43:52,120 --> 00:43:56,220
+radi, že sa nám ju podarilo zlomiť v
+
+1298
+00:43:53,920 --> 00:43:58,020
+tom, že ju môžeme odškrt Kokso, že keby
+
+1299
+00:43:56,220 --> 00:43:59,920
+sme teraz keby nám padlo nahrávanie, tak
+
+1300
+00:43:58,020 --> 00:44:01,920
+by ma asi piclo. Strašne som rád, že
+
+1301
+00:43:59,920 --> 00:44:04,820
+máme toto
+
+1302
+00:44:01,920 --> 00:44:06,420
+že máme toto z obliga.
+
+1303
+00:44:04,820 --> 00:44:07,820
+>> Padlo padlo niečo, či?
+
+1304
+00:44:06,420 --> 00:44:09,320
+>> Nie nie nie nie. Na šťastie nepadlo. Už
+
+1305
+00:44:07,820 --> 00:44:10,820
+sa nám párkrát stalo, ale mám pocit, že
+
+1306
+00:44:09,320 --> 00:44:12,820
+keby sme nanovo mali nahrávať túto jeho
+
+1307
+00:44:10,820 --> 00:44:13,720
+Joeovu hypotézu. Dúfam, že to čo si
+
+1308
+00:44:12,820 --> 00:44:16,055
+ľudia z tejto
+
+1309
+00:44:13,720 --> 00:44:16,920
+>> Ja som sa zľakol, ako si to len
+
+1310
+00:44:16,055 --> 00:44:18,720
+>> [smiech]
+
+1311
+00:44:16,920 --> 00:44:20,520
+>> Dúfam, že to čo si ľudia odnesú odnesú z
+
+1312
+00:44:18,720 --> 00:44:22,520
+tejto epizódy je hlavne to rozprávanie o
+
+1313
+00:44:20,520 --> 00:44:24,220
+matematike, že matematika po prvé nie je
+
+1314
+00:44:22,520 --> 00:44:25,920
+o číslach a pamätám si, že keď som začal
+
+1315
+00:44:24,220 --> 00:44:27,420
+študovať na Matfyze a išli sme niekam na
+
+1316
+00:44:25,920 --> 00:44:29,720
+kofolu, tak vždy sa všetci pozerali na
+
+1317
+00:44:27,420 --> 00:44:31,320
+mňa, že ty rozpočítaj účet, lebo ty
+
+1318
+00:44:29,720 --> 00:44:32,820
+chodíš na Matfyz.
+
+1319
+00:44:31,320 --> 00:44:35,120
+A teraz už ľudia pochopia, že
+
+1320
+00:44:32,820 --> 00:44:36,720
+>> čísla ja som nevidel čísla o strednej
+
+1321
+00:44:35,120 --> 00:44:38,420
+školy.
+
+1322
+00:44:36,720 --> 00:44:40,920
+>> Podľa mňa keby ľudia videli aké veci si
+
+1323
+00:44:38,420 --> 00:44:43,520
+hádžem do kalkulačky, tak eh
+
+1324
+00:44:40,920 --> 00:44:45,620
+štvrtina ľudí zruší nás podporu cez Hero
+
+1325
+00:44:43,520 --> 00:44:47,920
+Hero.
+
+1326
+00:44:45,620 --> 00:44:49,820
+>> Možno by sa viacej ľudí pridalo, vieš?
+
+1327
+00:44:47,920 --> 00:44:52,320
+>> Z ľútosti, hej? Alebo že už už tomu
+
+1328
+00:44:49,820 --> 00:44:53,320
+nerozumejú.
+
+1329
+00:44:52,320 --> 00:44:54,421
+Hej, že že
+
+1330
+00:44:53,320 --> 00:44:56,421
+>> Eh dobre Samko, ja ti
+
+1331
+00:44:54,421 --> 00:44:58,521
+>> veľmi pekne ďakujem. Ja ti poviem, že
+
+1332
+00:44:56,421 --> 00:45:01,721
+troška si ma priviedol k tomu, takže
+
+1333
+00:44:58,521 --> 00:45:04,421
+podľa mňa obrovský úspech, že aby som
+
+1334
+00:45:01,721 --> 00:45:05,821
+Hožovu hypotézu troška viacej.
+
+1335
+00:45:04,421 --> 00:45:08,921
+Poslednú otázku. Ja viem, že som
+
+1336
+00:45:05,821 --> 00:45:12,521
+hovoril, že nebudeme dávať námety, ale
+
+1337
+00:45:08,921 --> 00:45:13,821
+Hoža by bol dobrý námet na podcast?
+
+1338
+00:45:12,521 --> 00:45:16,721
+>> Vieš čo, podľa mňa
+
+1339
+00:45:13,821 --> 00:45:19,221
+Hož podľa mňa že ani nie, lebo on sa
+
+1340
+00:45:16,721 --> 00:45:21,421
+venoval len takýmto veciam a
+
+1341
+00:45:19,221 --> 00:45:23,621
+ruku na srdce, keby toto nebol Milenev
+
+1342
+00:45:21,421 --> 00:45:24,721
+problém, tak o tom epizódu nerobíme.
+
+1343
+00:45:23,621 --> 00:45:27,621
+Nalejem si čistého vína.
+
+1344
+00:45:24,721 --> 00:45:27,621
+>> je to také, že
+
+1345
+00:45:29,521 --> 00:45:33,721
+>> Zachytil, vieš že
+
+1346
+00:45:31,221 --> 00:45:35,421
+nechcem byť blbý, ale že z pohľadu toho,
+
+1347
+00:45:33,721 --> 00:45:37,921
+čo sme k tomu vysvetlili, tak takýchto
+
+1348
+00:45:35,421 --> 00:45:39,121
+hypotéz je v matematike oveľa viacej a
+
+1349
+00:45:37,921 --> 00:45:40,721
+mnohé z nich by som povedal, že sú oveľa
+
+1350
+00:45:39,121 --> 00:45:41,921
+zaujímavejšie.
+
+1351
+00:45:40,721 --> 00:45:43,821
+Toto je brutálne zaujímavé.
+
+1352
+00:45:41,921 --> 00:45:46,721
+>> Navier Stokes podľa mňa celkom
+
+1353
+00:45:43,821 --> 00:45:48,821
+zaujímavý. Mali ten, že Francúz, ktorý
+
+1354
+00:45:46,721 --> 00:45:50,621
+začal potom ten
+
+1355
+00:45:48,821 --> 00:45:51,921
+>> Toto je, že podľa mňa, že pre širokú
+
+1356
+00:45:50,621 --> 00:45:53,921
+verejnosť
+
+1357
+00:45:51,921 --> 00:45:55,721
+jedna z tých najmenej zaujímavých
+
+1358
+00:45:53,921 --> 00:45:57,121
+Milenových úloh,
+
+1359
+00:45:55,721 --> 00:46:02,321
+ale keďže ideme cez všetky, museli sme
+
+1360
+00:45:57,121 --> 00:46:04,721
+cez ňu prejsť a je super zaujímavá prúd
+
+1361
+00:46:02,321 --> 00:46:04,721
+a tak ďalej.
+
+1362
+00:46:05,021 --> 00:46:09,721
+A algebraickú
+
+1363
+00:46:06,521 --> 00:46:12,121
+geometriu, tak týmito vecami žiješ.
+
+1364
+00:46:09,721 --> 00:46:12,121
+A
+
+1365
+00:46:12,221 --> 00:46:16,221
+ináč pozerám, akurát som to teraz rýchlo
+
+1366
+00:46:13,821 --> 00:46:17,921
+hodil.
+
+1367
+00:46:16,221 --> 00:46:19,221
+Naozaj to vyzerá tak, že moje podozrenie
+
+1368
+00:46:17,921 --> 00:46:20,821
+nebolo
+
+1369
+00:46:19,221 --> 00:46:22,521
+nebolo
+
+1370
+00:46:20,821 --> 00:46:24,821
+nebolo milné
+
+1371
+00:46:22,521 --> 00:46:27,221
+a publikovali niečo
+
+1372
+00:46:24,821 --> 00:46:32,521
+z interného modelu Open AI
+
+1373
+00:46:27,221 --> 00:46:32,521
+a stiahnutie troch prác bolo 7. októbra.
+
+1374
+00:46:34,521 --> 00:46:39,321
+A niekto potom o dva týždne na to
+
+1375
+00:46:37,121 --> 00:46:41,721
+publikoval rozbor chýb, ktorý už je
+
+1376
+00:46:39,321 --> 00:46:44,021
+teraz publikovaný na archíve ako článok.
+
+1377
+00:46:41,721 --> 00:46:46,421
+>> No ale takto funguje vo vede. Nie je ani
+
+1378
+00:46:44,021 --> 00:46:48,021
+AI neomylná zatiaľ.
+
+1379
+00:46:46,421 --> 00:46:49,721
+>> Toto je ináč strašne dôležité. Toto je
+
+1380
+00:46:48,021 --> 00:46:51,292
+vlastne možno najdôležitejšie ponaučenie
+
+1381
+00:46:49,721 --> 00:46:52,221
+celej epizódy.
+
+1382
+00:46:51,292 --> 00:46:55,921
+[smiech]
+
+1383
+00:46:52,221 --> 00:46:55,921
+Ono hrozí taká vec, že
+
+1384
+00:46:56,821 --> 00:47:01,323
+človek napíše niečo do JAIKA, on mu
+
+1385
+00:46:59,723 --> 00:47:03,422
+vyprodukuje výsledok, ktorý vyzerá
+
+1386
+00:47:01,323 --> 00:47:04,122
+rozumne, ale je nesprávny.
+
+1387
+00:47:03,422 --> 00:47:07,023
+>> Uhm.
+
+1388
+00:47:04,122 --> 00:47:08,922
+>> A v istom bode môže byť nad naše sily
+
+1389
+00:47:07,023 --> 00:47:10,723
+schopnosť overiť, ktoré z tých tvrdení
+
+1390
+00:47:08,922 --> 00:47:13,323
+sú správne, ktoré sú nesprávne. Oni
+
+1391
+00:47:10,723 --> 00:47:16,122
+naozaj, že oni vyprodukovali, neviem, či
+
+1392
+00:47:13,323 --> 00:47:18,023
+to už dnes nebude, že stovky výsledkov
+
+1393
+00:47:16,122 --> 00:47:19,823
+matematických.
+
+1394
+00:47:18,023 --> 00:47:21,622
+Strašne to odradí hocikoho, aby sa tomu
+
+1395
+00:47:19,823 --> 00:47:23,323
+venoval, ale zároveň nemáš tú istotu, že
+
+1396
+00:47:21,622 --> 00:47:26,922
+to je správne, lebo tie dôkazy sú
+
+1397
+00:47:23,323 --> 00:47:29,122
+napísané škaredo, rozťahovalo.
+
+1398
+00:47:26,922 --> 00:47:29,723
+Sem-tam obsahujú chyby.
+
+1399
+00:47:29,122 --> 00:47:31,723
+A teraz čo s tým?
+
+1400
+00:47:29,723 --> 00:47:33,823
+>> No nie ako človek tou mravenčou prácou
+
+1401
+00:47:31,723 --> 00:47:36,523
+tou matematickou, že by si asi overil,
+
+1402
+00:47:33,823 --> 00:47:39,823
+že postupne ide a tak ďalej. No veď len
+
+1403
+00:47:36,523 --> 00:47:42,122
+OpenAI pri tomto probléme 722
+
+1404
+00:47:39,823 --> 00:47:42,922
+matematických dôkazov uverejnilo v
+
+1405
+00:47:42,122 --> 00:47:43,922
+októbri.
+
+1406
+00:47:42,922 --> 00:47:44,223
+>> No.
+
+1407
+00:47:43,922 --> 00:47:46,223
+A
+
+1408
+00:47:44,223 --> 00:47:49,223
+>> Už len to skontrolovať je podľa mňa, že
+
+1409
+00:47:46,223 --> 00:47:52,023
+neuveriteľná heraklovská úloha.
+
+1410
+00:47:49,223 --> 00:47:54,023
+>> Ja sa snažím vo výskume používať JAIKO,
+
+1411
+00:47:52,023 --> 00:47:55,823
+ale
+
+1412
+00:47:54,023 --> 00:47:57,622
+nie tým štýlom, že napíšeš zadanie a
+
+1413
+00:47:55,823 --> 00:47:59,023
+skopíruješ výsledok, ale povieš, že
+
+1414
+00:47:57,622 --> 00:48:02,223
+budem s touto úlohou, mám pocit, že
+
+1415
+00:47:59,023 --> 00:48:04,323
+treba ísť takýmto smerom. Skús
+
+1416
+00:48:02,223 --> 00:48:06,723
+pozapúšťať, dávať dokopy nejaké nápady,
+
+1417
+00:48:04,323 --> 00:48:08,323
+ktoré lietajú v rôznych oblastiach, lebo
+
+1418
+00:48:06,723 --> 00:48:09,922
+ako som povedal, ty sa odborne venuješ
+
+1419
+00:48:08,323 --> 00:48:11,922
+iným vedným oblastiam a ten zaujímavý
+
+1420
+00:48:09,922 --> 00:48:13,223
+nástroj, ktorý potrebuješ, sa nachádza o
+
+1421
+00:48:11,922 --> 00:48:15,422
+dvere vedľa.
+
+1422
+00:48:13,223 --> 00:48:17,023
+A AI je strašne dobrá na toto, na
+
+1423
+00:48:15,422 --> 00:48:18,323
+pozeranie do tých vedľajších dverí a že
+
+1424
+00:48:17,023 --> 00:48:20,223
+aha, však tu môžeš použiť takýto
+
+1425
+00:48:18,323 --> 00:48:21,723
+medzivýsledok.
+
+1426
+00:48:20,223 --> 00:48:23,422
+A je na potom na tebe, aby si overil, či
+
+1427
+00:48:21,723 --> 00:48:26,323
+je to naozaj tak a či to všetko sedí a
+
+1428
+00:48:23,422 --> 00:48:27,922
+tak ďalej, ale
+
+1429
+00:48:26,323 --> 00:48:29,622
+momentálne
+
+1430
+00:48:27,922 --> 00:48:31,823
+pre mňa JAIKO predstavuje takého
+
+1431
+00:48:29,622 --> 00:48:33,723
+výskumného skauta.
+
+1432
+00:48:31,823 --> 00:48:35,723
+Hm. Že poviem, že
+
+1433
+00:48:33,723 --> 00:48:37,622
+Pošleš, ono ti to prebehne, ale ty potom
+
+1434
+00:48:35,723 --> 00:48:39,622
+pošleš tú svoju armádu, aby to urobila
+
+1435
+00:48:37,622 --> 00:48:42,823
+poriadne. A povieš, že tuto by to malo
+
+1436
+00:48:39,622 --> 00:48:45,622
+byť zhodné a ty to skúsiš.
+
+1437
+00:48:42,823 --> 00:48:47,223
+Toľkokrát mi napísalo počas toho, že
+
+1438
+00:48:45,622 --> 00:48:49,223
+napíšem, že toto sa mi nezdá. Jaj,
+
+1439
+00:48:47,223 --> 00:48:50,323
+hupsík, tam som spravil chybu, tam som
+
+1440
+00:48:49,223 --> 00:48:52,223
+spravil chybu, tam som spravil chybu.
+
+1441
+00:48:50,323 --> 00:48:54,422
+>> ani nehovor
+
+1442
+00:48:52,223 --> 00:48:56,523
+>> Hej, jaj, že pozri mi prosím ťa tento
+
+1443
+00:48:54,422 --> 00:48:58,523
+text. Dal by som tam eh toto
+
+1444
+00:48:56,523 --> 00:49:01,024
+rozhodnutie? Ja pozerám, že veď
+
+1445
+00:48:58,523 --> 00:49:03,524
+neexistuje. Jaj, prepáč, asi som si to
+
+1446
+00:49:01,024 --> 00:49:05,568
+nejako asi som si to nejako zle vyložil.
+
+1447
+00:49:03,524 --> 00:49:06,824
+A ja že čo si si zle vyložil.
+
+1448
+00:49:05,568 --> 00:49:08,124
+>> [smrkanie]
+
+1449
+00:49:06,824 --> 00:49:09,424
+>> Takže [smiech] treba si dať pozor, aby
+
+1450
+00:49:08,124 --> 00:49:11,424
+sa nám toto nestalo a predtým to
+
+1451
+00:49:09,424 --> 00:49:13,324
+extrémne varuje Terence Tao, že aby sme
+
+1452
+00:49:11,424 --> 00:49:15,224
+proste
+
+1453
+00:49:13,324 --> 00:49:16,703
+že naším cieľom má byť
+
+1454
+00:49:15,224 --> 00:49:17,524
+>> na
+
+1455
+00:49:16,703 --> 00:49:19,424
+>> [vzdychanie]
+
+1456
+00:49:17,524 --> 00:49:21,924
+>> že naším cieľom má byť efektívnosť a nie
+
+1457
+00:49:19,424 --> 00:49:24,624
+rýchlosť. A že je dobré, keď používaš AI
+
+1458
+00:49:21,924 --> 00:49:26,724
+na efektívnosť, že presne rýchlejšie
+
+1459
+00:49:24,624 --> 00:49:30,124
+preskautuješ rôzne možnosti, ale nemáš
+
+1460
+00:49:26,724 --> 00:49:32,024
+to používať na eh hrubú rýchlosť,
+
+1461
+00:49:30,124 --> 00:49:33,924
+eh lebo potom sa to proste začne
+
+1462
+00:49:32,024 --> 00:49:35,424
+zacyklovať do chýb.
+
+1463
+00:49:33,924 --> 00:49:38,324
+>> Tak s týmto by som ja ukončil dnešnú
+
+1464
+00:49:35,424 --> 00:49:40,424
+epizódu. Pekne si to myslím, že eh s
+
+1465
+00:49:38,324 --> 00:49:43,424
+parafrázovaním Terenza
+
+1466
+00:49:40,424 --> 00:49:45,124
+tá eh Terence Tao, nie sa volá? Áno,
+
+1467
+00:49:43,424 --> 00:49:47,624
+áno. Eh
+
+1468
+00:49:45,124 --> 00:49:49,524
+eh si ho odparafrázoval. Ďakujem ti
+
+1469
+00:49:47,624 --> 00:49:53,384
+veľmi pekne, Samko. Dneska sme sa
+
+1470
+00:49:49,524 --> 00:49:55,124
+rozprávali o Hodgeovej hypotéze, ktorá
+
+1471
+00:49:53,384 --> 00:49:59,024
+[smrkanie] jej vyriešenie by nám mohlo
+
+1472
+00:49:55,124 --> 00:49:59,924
+pomôcť v veľmi teoretickej geometrii, by
+
+1473
+00:49:59,024 --> 00:50:02,324
+som to tak povedal.
+
+1474
+00:49:59,924 --> 00:50:05,124
+>> Áno, áno. Pekne si to zhrnul.
+
+1475
+00:50:02,324 --> 00:50:07,724
+>> No, tak dvojacie to nebude ani
+
+1476
+00:50:05,124 --> 00:50:09,924
+Ale viem, že sú tam nejaké podmnožiny a
+
+1477
+00:50:07,724 --> 00:50:13,524
+tak ďalej, takže eh
+
+1478
+00:50:09,924 --> 00:50:15,524
+podaj možno raz Frica odchytím a bude
+
+1479
+00:50:13,524 --> 00:50:17,724
+ťahať rozoby, aby mi to viac vysvetlil.
+
+1480
+00:50:15,524 --> 00:50:19,624
+>> eh ja mám akože dlho už dohodnutého
+
+1481
+00:50:17,724 --> 00:50:22,324
+Lukáša Konečného, ktorý tiež píše na
+
+1482
+00:50:19,624 --> 00:50:23,524
+vedátora občasne a aj Frica už sme
+
+1483
+00:50:22,324 --> 00:50:25,724
+nejako tak, že on sa venuje
+
+1484
+00:50:23,524 --> 00:50:26,024
+supergravitácii.
+
+1485
+00:50:25,724 --> 00:50:27,924
+>> Uh.
+
+1486
+00:50:26,024 --> 00:50:28,524
+>> Tak už on keby o tom niečo porozprával,
+
+1487
+00:50:27,924 --> 00:50:31,024
+ale je to, že
+
+1488
+00:50:28,524 --> 00:50:31,424
+>> ako gravitácia.
+
+1489
+00:50:31,024 --> 00:50:33,624
+>> Eh
+
+1490
+00:50:31,424 --> 00:50:35,324
+>> Dobre, tak určite budeme sa tešiť, ako
+
+1491
+00:50:33,624 --> 00:50:37,424
+ich zavoláme. A Juraja by sme inak mohli
+
+1492
+00:50:35,324 --> 00:50:38,124
+znova zavolať, lebo viem, že sa páčilo
+
+1493
+00:50:37,424 --> 00:50:41,224
+jeho vysvetľovanie.
+
+1494
+00:50:38,124 --> 00:50:43,424
+>> skúsiť tak 2027, lebo by mal on pretrly,
+
+1495
+00:50:41,224 --> 00:50:45,524
+keby som mu teraz niečo navrhol.
+
+1496
+00:50:43,424 --> 00:50:46,440
+>> Hej, hej, hej. To som rozprával som sa s
+
+1497
+00:50:45,524 --> 00:50:47,924
+ním
+
+1498
+00:50:46,440 --> 00:50:49,624
+[lapanie po dychu] Dobre. Ďakujem veľmi
+
+1499
+00:50:47,924 --> 00:50:51,024
+pekne, že nás počúvate. Nájdete nás na
+
+1500
+00:50:49,624 --> 00:50:53,124
+všetkých dobrých a troška horších
+
+1501
+00:50:51,024 --> 00:50:55,624
+podcastových aplikáciách. Samko bude mať
+
+1502
+00:50:53,124 --> 00:50:57,524
+dve vynikajúce prednášky na tú istú
+
+1503
+00:50:55,624 --> 00:50:59,924
+tému, hľadanie mimozemského života. My
+
+1504
+00:50:57,524 --> 00:51:02,025
+máme o tom celú sériu alebo dokonca
+
+1505
+00:50:59,924 --> 00:51:04,725
+sériu a ešte pár epizód k
+
+1506
+00:51:02,025 --> 00:51:05,325
+Bude to 7. decembra v
+
+1507
+00:51:04,725 --> 00:51:06,725
+v KC Dunaj.
+
+1508
+00:51:05,325 --> 00:51:08,725
+>> Káčko, áno, áno.
+
+1509
+00:51:06,725 --> 00:51:10,925
+>> 17. 19.
+
+1510
+00:51:08,725 --> 00:51:13,425
+Eh ja prídem na tú neskoršiu, takže keď
+
+1511
+00:51:10,925 --> 00:51:15,525
+budete chcieť aj pokecať o podcaste
+
+1512
+00:51:13,425 --> 00:51:18,025
+alebo tak, tak nás tam určite uvidíte so
+
+1513
+00:51:15,525 --> 00:51:20,225
+Samkom a možno si aj sadneme na nejakú
+
+1514
+00:51:18,025 --> 00:51:22,725
+limonádu potom s vami alebo pokecať o
+
+1515
+00:51:20,225 --> 00:51:24,125
+>> budem dobre odpálený a tam ono ja čelo
+
+1516
+00:51:22,725 --> 00:51:27,725
+mám čelo mám
+
+1517
+00:51:24,125 --> 00:51:30,525
+>> tieto ty tam budeš podpisovať
+
+1518
+00:51:27,725 --> 00:51:33,525
+eh knižky a tak, takže nič.
+
+1519
+00:51:30,525 --> 00:51:35,725
+Eh Samkova nová kniha eh Vesmírna
+
+1520
+00:51:33,525 --> 00:51:38,025
+kolíska. Viete si ju zakúpiť všade, je
+
+1521
+00:51:35,725 --> 00:51:41,725
+to perfektná a hlavne jej veľkosť je
+
+1522
+00:51:38,025 --> 00:51:43,925
+úplne dokonalá na cestu a takto, takže
+
+1523
+00:51:41,725 --> 00:51:45,725
+ja nemôžem ju viacej odporučiť. Už som
+
+1524
+00:51:43,925 --> 00:51:46,225
+prečítal asi polku z nej, takže úplne
+
+1525
+00:51:45,725 --> 00:51:48,325
+super.
+
+1526
+00:51:46,225 --> 00:51:51,325
+>> to ma teší.
+
+1527
+00:51:48,325 --> 00:51:54,725
+>> hej, perfektné. A posledná vec, budeme
+
+1528
+00:51:51,325 --> 00:51:57,025
+mať dve alebo tri akcie ešte ako cez
+
+1529
+00:51:54,725 --> 00:51:58,625
+Hero Hero. Bude jedno live nahrávanie,
+
+1530
+00:51:57,025 --> 00:52:01,125
+jedna špeciálna akcia a ešte jedna
+
+1531
+00:51:58,625 --> 00:52:04,725
+špeciálna akcia, o ktorých vám povieme a
+
+1532
+00:52:01,125 --> 00:52:07,525
+dozviete sa na tom najprv na Hero Hero.
+
+1533
+00:52:04,725 --> 00:52:09,025
+Máme zadarmo Hero Hero prvé dva jeden
+
+1534
+00:52:07,525 --> 00:52:10,725
+týždeň. [smrkanie]
+
+1535
+00:52:09,025 --> 00:52:13,525
+Eh nájdete si to tam, takže
+
+1536
+00:52:10,725 --> 00:52:14,925
+>> počas varenia a pečenia koláčov a iných
+
+1537
+00:52:13,525 --> 00:52:17,525
+vecí a potom si môžete zrušiť
+
+1538
+00:52:14,925 --> 00:52:20,125
+>> že vy nás chcete počúvať stále a si to
+
+1539
+00:52:17,525 --> 00:52:21,325
+len predplatíte ďalej, takže
+
+1540
+00:52:20,125 --> 00:52:22,925
+takže tak. Majte sa pekne.
+
+1541
+00:52:21,325 --> 00:52:25,325
+>> dopadne.
+
+1542
+00:52:22,925 --> 00:52:25,325
+Majte sa.
+
+1543
+00:52:26,001 --> 00:52:28,021
+>> [hudba]
+
+1544
+00:52:29,525 --> 00:52:32,925
+>> No a tu ešte na záver taká krátka
+
+1545
+00:52:31,425 --> 00:52:35,125
+ochutnávka z labáku.
+
+1546
+00:52:32,925 --> 00:52:37,125
+>> Vieš čo, jeden zámok som tak o o tom
+
+1547
+00:52:35,125 --> 00:52:40,425
+kolu, že som si pozrel nejaké tie že
+
+1548
+00:52:37,125 --> 00:52:42,825
+najpoužívanejšie sekvencie štvormiestne
+
+1549
+00:52:40,425 --> 00:52:45,725
+a jedna z tých bolo a ja som že odhalil
+
+1550
+00:52:42,825 --> 00:52:47,525
+som to. Ale čo je smiešne, necítil som
+
+1551
+00:52:45,725 --> 00:52:50,325
+sa dobre potom. Vieš, že ne neprišiel
+
+1552
+00:52:47,525 --> 00:52:52,825
+som na ten výsledok. Prvú vám pôjde
+
+1553
+00:52:50,325 --> 00:52:55,525
+dlho, ale keď pôjdete na druhú, tretiu,
+
+1554
+00:52:52,825 --> 00:52:58,025
+štvrtú, piatu, už sa zlepšíte v tom a aj
+
+1555
+00:52:55,525 --> 00:53:00,325
+viete, že čo tak troška hľadať, ako
+
+1556
+00:52:58,025 --> 00:53:02,325
+riešiť niektoré. Aj toto nájdete v
+
+1557
+00:53:00,325 --> 00:53:04,725
+labáku v epizóde. Ďakujeme za vašu
+
+1558
+00:53:02,325 --> 00:53:04,725
+podporu.
+
